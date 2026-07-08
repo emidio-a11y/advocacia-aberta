@@ -1,0 +1,519 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "tipo": "Súmulas Vinculantes",
+    "tribunal": "STF",
+    "total": 63,
+    "aprovadas": 62,
+    "canceladas": 1,
+    "suspensas": 0,
+    "gerado_em": "2026-01-14T13:43:23.881Z",
+    "descricao": "Súmulas Vinculantes do STF - norma vinculante (art. 103-A CF)"
+  },
+  "sumulas": {
+    "1": {
+      "numero": 1,
+      "enunciado": "Ofende a garantia constitucional do ato jurídico perfeito a decisão que, sem ponderar as circunstâncias do caso concreto, desconsidera a validez e a eficácia de acordo constante de termo de adesão instituído pela Lei Complementar nº 110/2001.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "30/05/2007",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula737/false"
+    },
+    "2": {
+      "numero": 2,
+      "enunciado": "É inconstitucional a lei ou ato normativo estadual ou distrital que disponha sobre sistemas de consórcios e sorteios, inclusive bingos e loterias.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "30/05/2007",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula738/false"
+    },
+    "3": {
+      "numero": 3,
+      "enunciado": "Nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "30/05/2007",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula739/false"
+    },
+    "4": {
+      "numero": 4,
+      "enunciado": "Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "30/04/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula740/false"
+    },
+    "5": {
+      "numero": 5,
+      "enunciado": "A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "07/05/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula741/false"
+    },
+    "6": {
+      "numero": 6,
+      "enunciado": "Não viola a Constituição o estabelecimento de remuneração inferior ao salário mínimo para as praças prestadoras de serviço militar inicial.",
+      "status": "aprovada",
+      "ramo": "Militar",
+      "data": "07/05/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula742/false"
+    },
+    "7": {
+      "numero": 7,
+      "enunciado": "A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "11/06/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula743/false"
+    },
+    "8": {
+      "numero": 8,
+      "enunciado": "São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei nº 1.569/1977 e os artigos 45 e 46 da Lei nº 8.212/1991, que tratam de prescrição e decadência de crédito tributário.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "12/06/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula744/false"
+    },
+    "9": {
+      "numero": 9,
+      "enunciado": "O disposto no artigo 127 da Lei nº 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no \"caput\" do artigo 58.",
+      "status": "cancelada",
+      "ramo": "Penal",
+      "data": "12/06/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula745/false"
+    },
+    "10": {
+      "numero": 10,
+      "enunciado": "Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.",
+      "status": "aprovada",
+      "ramo": "Processual Civil",
+      "data": "18/06/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula746/false"
+    },
+    "11": {
+      "numero": 11,
+      "enunciado": "Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "13/08/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula760/false"
+    },
+    "12": {
+      "numero": 12,
+      "enunciado": "A cobrança de taxa de matrícula nas universidades públicas viola o disposto no art. 206, IV, da Constituição Federal.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "13/08/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula757/false"
+    },
+    "13": {
+      "numero": 13,
+      "enunciado": "A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "21/08/2008",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula761/false"
+    },
+    "14": {
+      "numero": 14,
+      "enunciado": "É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "02/02/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula762/false"
+    },
+    "15": {
+      "numero": 15,
+      "enunciado": "O cálculo de gratificações e outras vantagens do servidor público não incide sobre o abono utilizado para se atingir o salário mínimo.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "25/06/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula763/false"
+    },
+    "16": {
+      "numero": 16,
+      "enunciado": "Os artigos 7º, IV, e 39, § 3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "25/06/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula764/false"
+    },
+    "17": {
+      "numero": 17,
+      "enunciado": "Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "29/10/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula765/false"
+    },
+    "18": {
+      "numero": 18,
+      "enunciado": "A dissolução da sociedade ou do vínculo conjugal, no curso do mandato, não afasta a inelegibilidade prevista no § 7º do artigo 14 da Constituição Federal.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "29/10/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula766/false"
+    },
+    "19": {
+      "numero": 19,
+      "enunciado": "A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "29/10/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula767/false"
+    },
+    "20": {
+      "numero": 20,
+      "enunciado": "A Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "29/10/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula768/false"
+    },
+    "21": {
+      "numero": 21,
+      "enunciado": "É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "29/10/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula769/false"
+    },
+    "22": {
+      "numero": 22,
+      "enunciado": "A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação da Emenda Constitucional nº 45/04.",
+      "status": "aprovada",
+      "ramo": "Processual do Trabalho",
+      "data": "02/12/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula771/false"
+    },
+    "23": {
+      "numero": 23,
+      "enunciado": "A Justiça do Trabalho é competente para processar e julgar ação possessória ajuizada em decorrência do exercício do direito de greve pelos trabalhadores da iniciativa privada.",
+      "status": "aprovada",
+      "ramo": "Processual do Trabalho",
+      "data": "02/12/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula772/false"
+    },
+    "24": {
+      "numero": 24,
+      "enunciado": "Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo.",
+      "status": "aprovada",
+      "ramo": "Penal",
+      "data": "02/12/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula773/false"
+    },
+    "25": {
+      "numero": 25,
+      "enunciado": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "16/12/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula774/false"
+    },
+    "26": {
+      "numero": 26,
+      "enunciado": "Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.",
+      "status": "aprovada",
+      "ramo": "Penal",
+      "data": "16/12/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula775/false"
+    },
+    "27": {
+      "numero": 27,
+      "enunciado": "Compete à Justiça estadual julgar causas entre consumidor e concessionária de serviço público de telefonia, quando a ANATEL não seja litisconsorte passiva necessária, assistente, nem opoente.",
+      "status": "aprovada",
+      "ramo": "Processual Civil",
+      "data": "18/12/2009",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula776/false"
+    },
+    "28": {
+      "numero": 28,
+      "enunciado": "É inconstitucional a exigência de depósito prévio como requisito de admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "03/02/2010",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula777/false"
+    },
+    "29": {
+      "numero": 29,
+      "enunciado": "É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "03/02/2010",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula778/false"
+    },
+    "30": {
+      "numero": 30,
+      "enunciado": "(Em 04/02/2010, nos autos da PSV 41, o Tribunal suspendeu a publicação da Súmula Vinculante nº 30.)",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "03/02/2010",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula818/false"
+    },
+    "31": {
+      "numero": 31,
+      "enunciado": "É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre operações de locação de bens móveis.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "04/02/2010",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula779/false"
+    },
+    "32": {
+      "numero": 32,
+      "enunciado": "O ICMS não incide sobre alienação de salvados de sinistro pelas seguradoras.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "16/02/2011",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula780/false"
+    },
+    "33": {
+      "numero": 33,
+      "enunciado": "Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica.",
+      "status": "aprovada",
+      "ramo": "Previdenciário",
+      "data": "09/04/2014",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula784/false"
+    },
+    "34": {
+      "numero": 34,
+      "enunciado": "A Gratificação de Desempenho de Atividade de Seguridade Social e do Trabalho - GDASST, instituída pela Lei 10.483/2002, deve ser estendida aos inativos no valor correspondente a 60 (sessenta) pontos, desde o advento da Medida Provisória 198/2004, convertida na Lei 10.971/2004, quando tais inativos façam jus à paridade constitucional (EC 20/1998, 41/2003 e 47/2005).",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "16/10/2014",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula785/false"
+    },
+    "35": {
+      "numero": 35,
+      "enunciado": "A homologação da transação penal prevista no artigo 76 da Lei 9.099/1995 não faz coisa julgada material e, descumpridas suas cláusulas, retoma-se a situação anterior, possibilitando-se ao Ministério Público a continuidade da persecução penal mediante oferecimento de denúncia ou requisição de inquérito policial.",
+      "status": "aprovada",
+      "ramo": "Processual Penal",
+      "data": "16/10/2014",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula786/false"
+    },
+    "36": {
+      "numero": 36,
+      "enunciado": "Compete à Justiça Federal comum processar e julgar civil denunciado pelos crimes de falsificação e de uso de documento falso quando se tratar de falsificação da Caderneta de Inscrição e Registro (CIR) ou de Carteira de Habilitação de Amador (CHA), ainda que expedidas pela Marinha do Brasil.",
+      "status": "aprovada",
+      "ramo": "Processual Civil",
+      "data": "16/10/2014",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula788/false"
+    },
+    "37": {
+      "numero": 37,
+      "enunciado": "Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "16/10/2014",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula787/false"
+    },
+    "38": {
+      "numero": 38,
+      "enunciado": "É competente o Município para fixar o horário de funcionamento de estabelecimento comercial.",
+      "status": "aprovada",
+      "ramo": "Processual Civil",
+      "data": "11/03/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula789/false"
+    },
+    "39": {
+      "numero": 39,
+      "enunciado": "Compete privativamente à União legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal.",
+      "status": "aprovada",
+      "ramo": "Processual Civil",
+      "data": "11/03/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula791/false"
+    },
+    "40": {
+      "numero": 40,
+      "enunciado": "A contribuição confederativa de que trata o art. 8º, IV, da Constituição Federal, só é exigível dos filiados ao sindicato respectivo.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "11/03/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula792/false"
+    },
+    "41": {
+      "numero": 41,
+      "enunciado": "O serviço de iluminação pública não pode ser remunerado mediante taxa.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "11/03/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula796/false"
+    },
+    "42": {
+      "numero": 42,
+      "enunciado": "É inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "12/03/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula797/false"
+    },
+    "43": {
+      "numero": 43,
+      "enunciado": "É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "08/04/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula802/false"
+    },
+    "44": {
+      "numero": 44,
+      "enunciado": "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "08/04/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula803/false"
+    },
+    "45": {
+      "numero": 45,
+      "enunciado": "A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela constituição estadual.",
+      "status": "aprovada",
+      "ramo": "Processual Penal",
+      "data": "08/04/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula804/false"
+    },
+    "46": {
+      "numero": 46,
+      "enunciado": "A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "09/04/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula805/false"
+    },
+    "47": {
+      "numero": 47,
+      "enunciado": "Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.",
+      "status": "aprovada",
+      "ramo": "Processual Civil",
+      "data": "27/05/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula806/false"
+    },
+    "48": {
+      "numero": 48,
+      "enunciado": "Na entrada de mercadoria importada do exterior, é legítima a cobrança do ICMS por ocasião do desembaraço aduaneiro.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "27/05/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula807/false"
+    },
+    "49": {
+      "numero": 49,
+      "enunciado": "Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "17/06/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula808/false"
+    },
+    "50": {
+      "numero": 50,
+      "enunciado": "Norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da anterioridade.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "17/06/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula810/false"
+    },
+    "51": {
+      "numero": 51,
+      "enunciado": "O reajuste de 28,86%, concedido aos servidores militares pelas Leis 8622/1993 e 8627/1993, estende-se aos servidores civis do poder executivo, observadas as eventuais compensações decorrentes dos reajustes diferenciados concedidos pelos mesmos diplomas legais.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "18/06/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula812/false"
+    },
+    "52": {
+      "numero": 52,
+      "enunciado": "Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, \"c\", da Constituição Federal, desde que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "18/06/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula811/false"
+    },
+    "53": {
+      "numero": 53,
+      "enunciado": "A competência da Justiça do Trabalho prevista no art. 114, VIII, da Constituição Federal alcança a execução de ofício das contribuições previdenciárias relativas ao objeto da condenação constante das sentenças que proferir e acordos por ela homologados.",
+      "status": "aprovada",
+      "ramo": "Processual do Trabalho",
+      "data": "18/06/2015",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula809/false"
+    },
+    "54": {
+      "numero": 54,
+      "enunciado": "A medida provisória não apreciada pelo congresso nacional podia, até a Emenda Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição.",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "17/03/2016",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula813/false"
+    },
+    "55": {
+      "numero": 55,
+      "enunciado": "O direito ao auxílio-alimentação não se estende aos servidores inativos.",
+      "status": "aprovada",
+      "ramo": "Administrativo",
+      "data": "17/03/2016",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula814/false"
+    },
+    "56": {
+      "numero": 56,
+      "enunciado": "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.",
+      "status": "aprovada",
+      "ramo": "Processual Penal",
+      "data": "29/06/2016",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula815/false"
+    },
+    "57": {
+      "numero": 57,
+      "enunciado": "A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se à importação e comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes exclusivamente utilizados para fixá-los, como leitores de livros eletrônicos (e-readers), ainda que possuam funcionalidades acessórias.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "15/04/2020",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula816/false"
+    },
+    "58": {
+      "numero": 58,
+      "enunciado": "Inexiste direito a crédito presumido de IPI relativamente à entrada de insumos isentos, sujeitos à alíquota zero ou não tributáveis, o que não contraria o princípio da não cumulatividade.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "27/04/2020",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula817/false"
+    },
+    "59": {
+      "numero": 59,
+      "enunciado": "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal.",
+      "status": "aprovada",
+      "ramo": "Penal",
+      "data": "19/10/2023",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula819/false"
+    },
+    "60": {
+      "numero": 60,
+      "enunciado": "O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243).",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "16/09/2024",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula820/false"
+    },
+    "61": {
+      "numero": 61,
+      "enunciado": "A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471).",
+      "status": "aprovada",
+      "ramo": "Constitucional",
+      "data": "20/09/2024",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula821/false"
+    },
+    "62": {
+      "numero": 62,
+      "enunciado": "É legítima a revogação da isenção estabelecida no art. 6º, II, da Lei Complementar 70/1991 pelo art. 56 da Lei 9.430/1996, dado que a LC 70/1991 é apenas formalmente complementar, mas materialmente ordinária com relação aos dispositivos concernentes à contribuição social por ela instituída.",
+      "status": "aprovada",
+      "ramo": "Tributário",
+      "data": "16/12/2024",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula822/false"
+    },
+    "63": {
+      "numero": 63,
+      "enunciado": "O tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) não configura crime hediondo, afastando-se a aplicação dos parâmetros mais rigorosos de progressão de regime e de livramento condicional.",
+      "status": "aprovada",
+      "ramo": "Penal",
+      "data": "26/09/2025",
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula823/false"
+    }
+  }
+}
