@@ -129,9 +129,11 @@ descrição do servidor MCP deriva automaticamente dos dados carregados as 3.372
 A ausência de tese em 331 registros aparece associada principalmente a temas afetados,
 cancelados ou ainda em julgamento; ela não foi classificada automaticamente como erro.
 
-O problema de proveniência está no `_meta.source`: ele registra caminhos absolutos da
-máquina que gerou o arquivo, em `Downloads`, em vez de uma origem pública e
-reproduzível. Os registros individuais, por outro lado, possuem links oficiais.
+Desde a conclusão do `BASE-007`, `_meta.source` registra o pacote e os recursos
+oficiais do Portal de Dados Abertos do STJ, a chave de relacionamento e o adaptador de
+reprodução futura. O metadado também preserva a limitação histórica: os artefatos
+brutos usados no snapshot de janeiro não foram versionados. Os 1.405 registros não
+foram alterados nessa correção.
 
 ## Rastreabilidade entregue pelo motor
 
@@ -190,7 +192,8 @@ busca, não fontes jurídicas.
 - o pipeline prepara candidatos reproduzíveis, mas a confirmação de vigência e a
   aprovação das diferenças continuam sendo revisão humana obrigatória;
 - existem inconsistências pontuais no CTB e em uma tese;
-- os metadados de temas ainda contêm caminhos locais do ambiente de geração;
+- os brutos que deram origem ao snapshot legado de temas não foram preservados, embora
+  a referência pública e o processo futuro já estejam documentados;
 - os termos “fonte primária” e as classificações de força jurídica ainda precisam de
   revisão conceitual uniforme;
 - não há avaliação documentada de precisão e cobertura das buscas por palavras-chave.

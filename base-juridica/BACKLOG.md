@@ -26,7 +26,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 |---|---|---|---|
 | `BASE-005` | CTB informa 390 registros no metadado, mas contém 389 | Conferir na fonte e corrigir o registro ausente ou o metadado, com justificativa registrada | aberto |
 | `BASE-006` | `JT_179_T19` tem enunciado vazio | Conferir a edição oficial; restaurar o enunciado ou documentar por que o registro não representa uma tese | aberto |
-| `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | aberto |
+| `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | **concluído em 2026-07-17** |
 | `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | **concluído em 2026-07-17** |
 | `BASE-009` | “Fonte primária” e força jurídica não seguem taxonomia documentada | Definir e revisar rótulos para texto normativo, fonte oficial, compilação institucional, precedente e índice derivado | aberto |
 | `BASE-010` | Índices de palavras-chave não têm processo reproduzível | Versionar geração, modelo, prompt/parâmetros, relação com a base e teste de cobertura | aberto |
@@ -83,10 +83,19 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - sete testes do pipeline rodam no GitHub Actions;
 - índices derivados permanecem corretamente separados no `BASE-010`.
 
+### `BASE-007` — proveniência pública dos temas repetitivos
+
+- caminhos absolutos de `Downloads` foram removidos dos metadados publicados;
+- pacote, recursos, URLs e chave de relacionamento do Portal de Dados Abertos do STJ
+  foram registrados;
+- o metadado declara que os artefatos brutos do snapshot legado não foram versionados,
+  sem atribuir ao arquivo histórico uma reprodução que não ocorreu;
+- o checksum canônico confirma que os 1.405 temas não foram alterados;
+- a verificação completa está em [`verificacoes/BASE-007.md`](verificacoes/BASE-007.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-005`, `BASE-006` e `BASE-007`, usando o pipeline e conferindo os materiais
-   oficiais.
+1. `BASE-005` e `BASE-006`, usando o pipeline e conferindo os materiais oficiais.
 2. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
 3. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 

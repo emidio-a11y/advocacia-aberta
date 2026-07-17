@@ -35,6 +35,37 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             for fonte in config["fontes"]:
                 self.assertTrue(fonte["url"].startswith("https://"))
 
+    def test_temas_publicados_nao_expoem_caminho_pessoal(self) -> None:
+        path = (
+            ROOT
+            / "ferramentas"
+            / "pesquisa"
+            / "busca_delfus"
+            / "data"
+            / "flash_temas_stj.json"
+        )
+        objeto = json.loads(path.read_text(encoding="utf-8"))
+        source = objeto["_meta"]["source"]
+        referencia = source["officialPublicReference"]
+        serializado = json.dumps(source, ensure_ascii=False)
+        self.assertNotIn("/Users/", serializado)
+        self.assertNotIn("Downloads", serializado)
+        self.assertEqual(
+            source["provenanceStatus"], "legacy_not_fully_reproducible"
+        )
+        self.assertEqual(
+            referencia["packageId"], "4238da2f-c07b-4c1a-b345-4402accacdcf"
+        )
+        self.assertEqual(referencia["joinKey"], "sequencialPrecedente")
+        self.assertEqual(
+            referencia["resources"]["temas"]["id"],
+            "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
+        )
+        self.assertEqual(
+            referencia["resources"]["processos"]["id"],
+            "7ed21202-0049-4fcb-aa7c-48d810d3c499",
+        )
+
     def test_catalogo_stf_preserva_numero_identificador_e_status(self) -> None:
         html = """
         <div class="sumula-item"><a href="sumariosumulas.asp?base=30&amp;sumula=1451">
@@ -173,10 +204,18 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         ]
         config = {
             "destino": "flash_temas_stj.json",
+            "package_id": "4238da2f-c07b-4c1a-b345-4402accacdcf",
+            "join_key": "sequencialPrecedente",
             "fontes": [
                 {"url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados"},
-                {"url": "https://dadosabertos.web.stj.jus.br/temas.csv"},
-                {"url": "https://dadosabertos.web.stj.jus.br/processos.csv"},
+                {
+                    "resource_id": "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
+                    "url": "https://dadosabertos.web.stj.jus.br/temas.csv",
+                },
+                {
+                    "resource_id": "7ed21202-0049-4fcb-aa7c-48d810d3c499",
+                    "url": "https://dadosabertos.web.stj.jus.br/processos.csv",
+                },
             ],
         }
         with tempfile.TemporaryDirectory() as temp:
@@ -217,6 +256,12 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(tema["processo"], "REsp 1091443/SP")
         self.assertEqual(tema["orgaoJulgador"], "Corte Especial")
         self.assertEqual(objeto["_meta"]["totalTemas"], 1)
+        source = objeto["_meta"]["source"]
+        self.assertEqual(source["joinKey"], "sequencialPrecedente")
+        self.assertEqual(
+            source["resources"]["temas"]["id"],
+            "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
+        )
 
     def test_relatorio_sinaliza_remocoes_antes_da_promocao(self) -> None:
         relatorio = {

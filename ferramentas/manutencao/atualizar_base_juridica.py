@@ -917,8 +917,22 @@ def transformar_temas(
             "source": {
                 "dataset": "Precedentes qualificados — Portal de Dados Abertos do STJ",
                 "catalog": config["fontes"][0]["url"],
-                "temas": config["fontes"][1]["url"],
-                "processos": config["fontes"][2]["url"],
+                "packageId": config["package_id"],
+                "joinKey": config["join_key"],
+                "resources": {
+                    "temas": {
+                        "id": config["fontes"][1]["resource_id"],
+                        "url": config["fontes"][1]["url"],
+                    },
+                    "processos": {
+                        "id": config["fontes"][2]["resource_id"],
+                        "url": config["fontes"][2]["url"],
+                    },
+                },
+                "method": (
+                    "Junção determinística de Temas.csv e Processos.csv por "
+                    f"{config['join_key']}; seleção preferencial do leading case."
+                ),
                 "metadata_sha256": metadados_sha,
                 "collectedAt": agora_utc(),
             },

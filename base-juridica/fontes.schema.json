@@ -23,6 +23,8 @@
           "familia": { "type": "string" },
           "adaptador": { "type": ["string", "null"] },
           "chave_colecao": { "type": "string" },
+          "package_id": { "type": "string" },
+          "join_key": { "type": "string" },
           "destino": { "type": "string", "pattern": "^[^/]+\\.json$" },
           "fontes": {
             "type": "array",
@@ -31,6 +33,7 @@
               "required": ["id", "url", "arquivo_bruto"],
               "properties": {
                 "id": { "type": "string" },
+                "resource_id": { "type": "string" },
                 "url": { "type": "string", "pattern": "^https://" },
                 "arquivo_bruto": { "type": "string" }
               }

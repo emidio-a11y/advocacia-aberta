@@ -149,6 +149,8 @@
       "adaptador": "temas_stj_csv_v1",
       "chave_colecao": "temas",
       "destino": "flash_temas_stj.json",
+      "package_id": "4238da2f-c07b-4c1a-b345-4402accacdcf",
+      "join_key": "sequencialPrecedente",
       "fontes": [
         {
           "id": "metadados",
@@ -157,11 +159,13 @@
         },
         {
           "id": "temas",
+          "resource_id": "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
           "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/df29da13-7d6b-41ba-ad96-cd1a5bbd191c/download/temas.csv",
           "arquivo_bruto": "temas.csv"
         },
         {
           "id": "processos",
+          "resource_id": "7ed21202-0049-4fcb-aa7c-48d810d3c499",
           "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/7ed21202-0049-4fcb-aa7c-48d810d3c499/download/processos.csv",
           "arquivo_bruto": "processos.csv"
         }
