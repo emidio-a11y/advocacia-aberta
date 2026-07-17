@@ -206,8 +206,11 @@ qualidade continuam no backlog da base.
 
 ### Fase 5 — Governança e distribuição
 
-Definir licenças, contribuição, revisão, estados de maturidade, casos sintéticos e
-formas de instalação.
+Definir contribuição, revisão, estados de maturidade, casos sintéticos e formas de
+instalação.
+
+**Estado:** licença de distribuição definida como Zero-Clause BSD (`0BSD`); os demais
+itens de governança e distribuição permanecem em construção.
 
 ## Critério de sucesso
 

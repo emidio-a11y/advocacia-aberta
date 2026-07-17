@@ -159,10 +159,22 @@ python3 ferramentas/manutencao/verificar_compatibilidade.py
 
 O verificador também roda no GitHub Actions.
 
+## Licença
+
+Salvo indicação em contrário, o código, os protocolos, as ferramentas, os templates
+e a documentação autoral deste repositório são disponibilizados sob a licença
+[Zero-Clause BSD (0BSD)](LICENSE). Ela permite usar, copiar, modificar e redistribuir
+o material para qualquer finalidade, inclusive comercial, sem exigir atribuição.
+
+A licença alcança somente os direitos pertencentes aos autores do projeto. Textos
+legais, decisões, bases e outros materiais provenientes de fontes oficiais ou de
+terceiros preservam sua situação jurídica, seus termos de uso e sua proveniência. A
+0BSD não relicencia direitos que o projeto não possui. Dados e documentos de casos
+reais permanecem privados e fora da distribuição pública.
+
 ## Estado do projeto
 
 Esta remodelagem estabelece a identidade, os fundamentos e o primeiro catálogo da
 Advocacia Aberta sem representar como concluído o que ainda precisa ser construído.
 Confirmação jurídica das mudanças, migração estrutural, ampliação dos testes de
-confiabilidade, governança de contribuições e licença de distribuição permanecem como
-etapas posteriores.
+confiabilidade e governança de contribuições permanecem como etapas posteriores.

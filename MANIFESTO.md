@@ -84,6 +84,7 @@ Construir uma infraestrutura em que:
 
 > **Método aberto. Fontes verificáveis. Dados protegidos.**
 
-Este manifesto define a direção do projeto. As permissões jurídicas de uso,
-modificação e redistribuição serão formalizadas por licença própria antes da abertura
-pública definitiva.
+Este manifesto define a direção do projeto. O conteúdo autoral da Advocacia Aberta é
+distribuído sob a licença [Zero-Clause BSD (0BSD)](LICENSE), que permite uso, cópia,
+modificação e redistribuição para qualquer finalidade, sem exigir atribuição. Materiais
+de terceiros preservam sua situação jurídica e sua proveniência.
