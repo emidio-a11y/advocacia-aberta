@@ -17,7 +17,7 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parents[2]
-MOTOR = ROOT / "ferramentas" / "pesquisa" / "busca_delfus"
+MOTOR = ROOT / "ferramentas" / "pesquisa" / "vade-mecum"
 DATA = MOTOR / "data"
 
 
@@ -296,6 +296,7 @@ def auditar() -> dict[str, Any]:
         for caminho in (
             "package.json",
             "src/index.ts",
+            "src/cli.ts",
             "src/search/legislacao.ts",
             "src/search/sumulas.ts",
             "src/search/jt.ts",

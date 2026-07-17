@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | Auditoria estrutural | 17 de julho de 2026 |
-| Local atual dos dados | `ferramentas/pesquisa/busca_delfus/data/` |
+| Local atual dos dados | `ferramentas/pesquisa/vade-mecum/data/` |
 | Escopo | inventário, metadados, cobertura do motor e rastreabilidade interna |
 
 Este catálogo descreve o que o repositório contém. Ele **não confirma externamente**

@@ -26,7 +26,7 @@ jobs:
         run: python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
 
       - name: Testar motor de pesquisa jurídica
-        working-directory: ferramentas/pesquisa/busca_delfus
+        working-directory: ferramentas/pesquisa/vade-mecum
         run: |
           bun install --frozen-lockfile
           bun run typecheck

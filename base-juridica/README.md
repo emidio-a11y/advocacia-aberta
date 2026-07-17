@@ -2,10 +2,9 @@
 
 Esta pasta documenta o acervo jurídico estruturado da Advocacia Aberta.
 
-Os JSONs ainda permanecem em
-`ferramentas/pesquisa/busca_delfus/data/` para preservar o funcionamento do motor
-atual. A migração física será feita somente depois das correções de cobertura e da
-estabilização do pipeline reproduzível de atualização já disponível nesta pasta.
+Os JSONs permanecem junto ao motor **Vade Mecum**, em
+`ferramentas/pesquisa/vade-mecum/data/`. Uma separação futura entre dados e motor só
+deve ocorrer com migração explícita dos manifestos e testes.
 
 - [CATALOGO.md](CATALOGO.md) — conteúdo, cobertura, proveniência e ressalvas.
 - [BACKLOG.md](BACKLOG.md) — correções priorizadas e critérios de aceite.

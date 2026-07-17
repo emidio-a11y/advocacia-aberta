@@ -2,7 +2,7 @@
   "$schema": "./indices-derivados.schema.json",
   "schema_version": 1,
   "gerado_em": "2026-07-17",
-  "diretorio_dados": "ferramentas/pesquisa/busca_delfus/data",
+  "diretorio_dados": "ferramentas/pesquisa/vade-mecum/data",
   "gerador": {
     "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
     "versao": "1.0.0",

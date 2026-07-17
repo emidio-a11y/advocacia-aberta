@@ -96,7 +96,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             ROOT
             / "ferramentas"
             / "pesquisa"
-            / "busca_delfus"
+            / "vade-mecum"
             / "data"
             / "flash_temas_stj.json"
         )
@@ -336,7 +336,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             ROOT
             / "ferramentas"
             / "pesquisa"
-            / "busca_delfus"
+            / "vade-mecum"
             / "data"
             / "jt_stj.json"
         )
@@ -354,7 +354,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             ROOT
             / "ferramentas"
             / "pesquisa"
-            / "busca_delfus"
+            / "vade-mecum"
             / "data"
             / "lei_ctb.json"
         )

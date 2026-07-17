@@ -6,7 +6,7 @@
 //   1. Compile:  typst compile templates/parecer-trafico-drogas.typ
 //   2. Preencha cada bloco marcado «PREENCHER» com o conteúdo do seu caso.
 //   3. Os blocos de jurisprudência já trazem precedentes REAIS e verificados
-//      (busca_delfus). São EXEMPLOS — mantenha os que sustentarem sua tese,
+//      (Vade Mecum). São EXEMPLOS — mantenha os que sustentarem sua tese,
 //      apague os demais. Não há nenhuma conclusão jurídica pré-escrita:
 //      relatório, análise e parecer final são placeholders.
 //
@@ -386,7 +386,7 @@ São, em síntese, os quesitos submetidos a parecer:
 
 ==== II.B — Jurisprudência aplicável
 
-// EXEMPLOS REAIS E VERIFICADOS (busca_delfus, jun/2026). Mantenha os que
+// EXEMPLOS REAIS E VERIFICADOS (Vade Mecum, jun/2026). Mantenha os que
 // sustentarem a tese da consulta e APAGUE os demais. Confira sempre o status
 // e o teor atualizado antes de citar em peça definitiva.
 

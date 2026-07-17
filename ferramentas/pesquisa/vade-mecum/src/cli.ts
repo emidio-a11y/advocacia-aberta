@@ -86,7 +86,7 @@ switch (tool) {
     const total = sumulas.length + teses.length + temas.length;
     if (total === 0) { console.log(`Nenhum resultado encontrado para: "${query}"`); break; }
 
-    console.log(`=== FONTES PRIMÁRIAS — "${query}" ===\n`);
+    console.log(`=== BASE JURÍDICA LOCAL — "${query}" ===\n`);
 
     if (sumulas.length > 0) {
       console.log(`## SÚMULAS (${sumulas.length})\n`);

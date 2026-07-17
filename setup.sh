@@ -36,7 +36,7 @@ else
   export PATH="$HOME/.bun/bin:$PATH"
 fi
 if command -v bun >/dev/null 2>&1; then
-  ( cd ferramentas/pesquisa/busca_delfus && bun install ) && ok "busca_delfus pronto" || aviso "bun install falhou em busca_delfus"
+  ( cd ferramentas/pesquisa/vade-mecum && bun install ) && ok "Vade Mecum pronto" || aviso "bun install falhou no Vade Mecum"
 fi
 echo
 

@@ -30,7 +30,7 @@ import {
 // ── Server ─────────────────────────────────────────────────────────────────
 
 const server = new Server(
-  { name: "busca_delfus", version: "1.0.0" },
+  { name: "vade-mecum", version: "1.0.0" },
   { capabilities: { tools: {} } }
 );
 

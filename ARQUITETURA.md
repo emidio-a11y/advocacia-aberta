@@ -79,7 +79,7 @@ conclusão jurídica: fornecem capacidade operacional ao protocolo.
 
 Exemplos atuais:
 
-- motor local de pesquisa jurídica (`busca_delfus`);
+- motor local de pesquisa jurídica **Vade Mecum** (`vade-mecum`);
 - pesquisa de acórdãos do TJPR;
 - transcrição local de áudio e vídeo;
 - separação de autos extensos;
@@ -108,8 +108,8 @@ pelo Git por padrão, exceto pelo modelo vazio e sua documentação.
 |---|---|---|
 | Catálogo e backlog | `base-juridica/` | Governança inicial da base jurídica |
 | Manifesto e pipeline de atualização | `base-juridica/fontes.json` e `ferramentas/manutencao/` | Coleta, transformação, validação e promoção controlada |
-| Legislação, súmulas, temas e teses | `ferramentas/pesquisa/busca_delfus/data/` | Base jurídica curada |
-| Motor de busca local | `ferramentas/pesquisa/busca_delfus/src/` | Motor jurídico |
+| Legislação, súmulas, temas e teses | `ferramentas/pesquisa/vade-mecum/data/` | Base jurídica curada |
+| Vade Mecum — motor de busca local | `ferramentas/pesquisa/vade-mecum/src/` | Motor jurídico |
 | Busca TJPR | `ferramentas/pesquisa/busca-tjpr/` | Motor jurídico externo |
 | Transcrição | `ferramentas/processamento/transcrever/` | Motor de processamento |
 | Skills canônicas | `.agents/skills/` | Protocolos + adaptador atual |
@@ -148,7 +148,7 @@ advocacia-aberta/
 │   └── jurisprudencia-em-teses/
 │
 ├── motores/
-│   ├── pesquisa-juridica/
+│   ├── vade-mecum/
 │   ├── pesquisa-tjpr/
 │   ├── transcricao/
 │   └── diagramacao/
@@ -162,8 +162,9 @@ advocacia-aberta/
 └── testes/
 ```
 
-Essa árvore é um destino, não uma descrição falsa do repositório atual. A migração
-deve preservar histórico, caminhos funcionais e compatibilidade durante a transição.
+Essa árvore é um destino, não uma descrição falsa do repositório atual. Migrações
+devem preservar histórico e interfaces funcionais; mudanças incompatíveis de caminho
+precisam ser explícitas e verificadas.
 
 ## Regras de dependência
 

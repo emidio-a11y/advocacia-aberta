@@ -1,8 +1,8 @@
 {
-  "name": "busca_delfus",
+  "name": "vade-mecum",
   "version": "1.0.0",
   "license": "0BSD",
-  "description": "MCP server — pesquisa jurídica local em legislação, súmulas, compilações e precedentes qualificados",
+  "description": "Vade Mecum — pesquisa jurídica local em legislação, súmulas, compilações e precedentes qualificados",
   "type": "module",
   "scripts": {
     "start": "bun run src/index.ts",

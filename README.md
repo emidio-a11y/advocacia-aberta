@@ -25,7 +25,7 @@ O projeto nasce de ativos operacionais, não apenas de uma proposta:
 | Teses | 3.371 registros de Jurisprudência em Teses do STJ, em 269 edições |
 | Temas | 1.405 registros de temas repetitivos do STJ |
 | Protocolos | 10 skills para organizar, transcrever, diagnosticar, pesquisar, redigir, revisar e diagramar |
-| Motores | Busca jurídica local, busca no TJPR, transcrição e processamento de documentos |
+| Motores | Vade Mecum para busca jurídica local, busca no TJPR, transcrição e processamento de documentos |
 | Adaptadores | Compatibilidade com Claude Code e Codex, sem duplicar a regra jurídica |
 
 Esses números descrevem os arquivos presentes nesta versão. As bases são *snapshots*
@@ -137,15 +137,16 @@ controle de acesso, armazenamento seguro e julgamento profissional. Leia a
 ├── .claude/skills/          # espelho gerado para Claude Code
 ├── base-juridica/           # catálogo e backlog; dados ainda não foram movidos
 ├── ferramentas/
-│   ├── pesquisa/            # base e motores de pesquisa
+│   ├── pesquisa/            # Vade Mecum e demais motores de pesquisa
 │   ├── processamento/       # transcrição e tratamento de documentos
 │   └── manutencao/          # sincronização e validação
 └── casos/                   # espaço privado; inclui um modelo vazio
 ```
 
 A [arquitetura-alvo](ARQUITETURA.md#arquitetura-alvo) promove protocolos, base
-jurídica, motores e adaptadores a componentes próprios. A movimentação física ainda
-não foi feita para não quebrar os caminhos atuais antes de planejar a migração.
+jurídica, motores e adaptadores a componentes próprios. A migração do motor local para
+`ferramentas/pesquisa/vade-mecum/` já foi concluída; as demais movimentações continuam
+planejadas por etapas.
 
 ## Manutenção dos adaptadores
 

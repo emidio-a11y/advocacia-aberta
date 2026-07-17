@@ -14,7 +14,10 @@ interface ToolMCP {
 
 interface RespostaMCP {
   id?: number;
-  result?: { tools?: ToolMCP[] };
+  result?: {
+    tools?: ToolMCP[];
+    serverInfo?: { name?: string; version?: string };
+  };
 }
 
 test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
@@ -58,6 +61,9 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
     .map((linha) => JSON.parse(linha) as RespostaMCP);
   const tools = respostas.find((resposta) => resposta.id === 2)?.result?.tools;
   expect(tools).toBeDefined();
+
+  const servidor = respostas.find((resposta) => resposta.id === 1)?.result?.serverInfo;
+  expect(servidor?.name).toBe("vade-mecum");
 
   const legislacao = tools!.find((tool) => tool.name === "buscar_legislacao");
   expect(legislacao?.inputSchema.properties?.codigo?.enum).toEqual([

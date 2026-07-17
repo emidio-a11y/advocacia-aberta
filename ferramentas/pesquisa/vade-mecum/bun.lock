@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "busca_delfus",
+      "name": "vade-mecum",
       "dependencies": {
         "@modelcontextprotocol/sdk": "^1.10.2",
       },

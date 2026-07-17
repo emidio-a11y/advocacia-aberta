@@ -67,13 +67,13 @@ curl -fsSL https://bun.sh/install | bash
 Instalar as dependências da ferramenta (use o caminho relativo e volte para a raiz depois):
 
 ```bash
-cd ferramentas/pesquisa/busca_delfus && bun install
+cd ferramentas/pesquisa/vade-mecum && bun install
 ```
 
 Testar se funcionou:
 
 ```bash
-bun run ferramentas/pesquisa/busca_delfus/src/cli.ts buscar "dano moral" 3
+bun run ferramentas/pesquisa/vade-mecum/src/cli.ts buscar "dano moral" 3
 ```
 
 #### uv (para `buscar-tjpr`)

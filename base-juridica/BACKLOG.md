@@ -38,7 +38,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-011` | Criar testes de esquema e integridade | CI valida JSON, campos obrigatórios, contagens, URLs, códigos e referências cruzadas | aberto |
 | `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | aberto |
 | `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
-| `BASE-014` | Neutralizar o nome legado `Delfus` | Prosa pública usa “base jurídica local”; migrar `busca_delfus` para `motores/pesquisa-juridica/` preservando compatibilidade temporária | aberto |
+| `BASE-014` | Retirar o identificador legado do motor | Adotar `Vade Mecum`/`vade-mecum` em caminhos, pacote, MCP, setup, skills, CI e documentação, sem alias com o nome anterior | **concluído em 2026-07-17** |
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
 
@@ -148,9 +148,22 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - o processo está em [`indices-derivados.json`](indices-derivados.json), e a
   verificação em [`verificacoes/BASE-010.md`](verificacoes/BASE-010.md).
 
+### `BASE-014` — motor Vade Mecum
+
+- o motor passou a se chamar **Vade Mecum**, com identificador técnico `vade-mecum`;
+- dados e código foram movidos para `ferramentas/pesquisa/vade-mecum/`;
+- pacote, servidor MCP, setup, CI, skills, pipeline, auditor, templates e documentação
+  apontam para o novo caminho;
+- a CLI passou a usar a taxonomia da base jurídica em vez do rótulo genérico “fontes
+  primárias”;
+- a migração não mantém alias com o identificador anterior;
+- teste de regressão varre caminhos e textos e impede a reintrodução do nome legado;
+- a verificação completa está em
+  [`verificacoes/BASE-014.md`](verificacoes/BASE-014.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
+1. `BASE-011` a `BASE-013`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento
 

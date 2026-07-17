@@ -36,7 +36,7 @@
 python3 ferramentas/manutencao/verificar_compatibilidade.py
 python3 ferramentas/manutencao/auditar_base_juridica.py --strict
 python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
-cd ferramentas/pesquisa/busca_delfus
+cd ferramentas/pesquisa/vade-mecum
 bun run typecheck
 bun test
 ```
