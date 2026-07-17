@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/emidio-a11y/advocacia-aberta/blob/main/base-juridica/fontes.schema.json",
+  "title": "Manifesto de fontes da base jurídica",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "pipeline_version",
+    "diretorio_publicado",
+    "conjuntos"
+  ],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "pipeline_version": { "type": "string" },
+    "diretorio_publicado": { "type": "string" },
+    "conjuntos": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["familia"],
+        "properties": {
+          "familia": { "type": "string" },
+          "adaptador": { "type": ["string", "null"] },
+          "chave_colecao": { "type": "string" },
+          "destino": { "type": "string", "pattern": "^[^/]+\\.json$" },
+          "fontes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "url", "arquivo_bruto"],
+              "properties": {
+                "id": { "type": "string" },
+                "url": { "type": "string", "pattern": "^https://" },
+                "arquivo_bruto": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

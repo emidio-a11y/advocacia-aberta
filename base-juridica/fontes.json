@@ -1,0 +1,181 @@
+{
+  "$schema": "./fontes.schema.json",
+  "schema_version": 1,
+  "pipeline_version": "1.0.0",
+  "diretorio_publicado": "ferramentas/pesquisa/busca_delfus/data",
+  "conjuntos": {
+    "legislacao": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "adct",
+          "codigo": "ADCT",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "arquivo_bruto": "adct.html",
+          "destino": "lei_adct.json"
+        },
+        {
+          "id": "cc",
+          "codigo": "CC",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+          "arquivo_bruto": "cc.html",
+          "destino": "lei_cc.json"
+        },
+        {
+          "id": "cdc",
+          "codigo": "CDC",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/L8078compilado.htm",
+          "arquivo_bruto": "cdc.html",
+          "destino": "lei_cdc.json"
+        },
+        {
+          "id": "ce",
+          "codigo": "CE",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/L4737compilado.htm",
+          "arquivo_bruto": "ce.html",
+          "destino": "lei_ce.json"
+        },
+        {
+          "id": "cf",
+          "codigo": "CF",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "arquivo_bruto": "cf.html",
+          "destino": "lei_cf.json"
+        },
+        {
+          "id": "clt",
+          "codigo": "CLT",
+          "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+          "arquivo_bruto": "clt.html",
+          "destino": "lei_clt.json"
+        },
+        {
+          "id": "cp",
+          "codigo": "CP",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del2848compilado.htm",
+          "arquivo_bruto": "cp.html",
+          "destino": "lei_cp.json"
+        },
+        {
+          "id": "cpc",
+          "codigo": "CPC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105compilada.htm",
+          "arquivo_bruto": "cpc.html",
+          "destino": "lei_cpc.json"
+        },
+        {
+          "id": "cpp",
+          "codigo": "CPP",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del3689Compilado.htm",
+          "arquivo_bruto": "cpp.html",
+          "destino": "lei_cpp.json"
+        },
+        {
+          "id": "ctb",
+          "codigo": "CTB",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "arquivo_bruto": "ctb.html",
+          "destino": "lei_ctb.json"
+        },
+        {
+          "id": "ctn",
+          "codigo": "CTN",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+          "arquivo_bruto": "ctn.html",
+          "destino": "lei_ctn.json"
+        }
+      ]
+    },
+    "sumulas_stj": {
+      "familia": "sumulas",
+      "adaptador": "sumulas_stj_html_v1",
+      "chave_colecao": "sumulas",
+      "destino": "sumulas_stj.json",
+      "fontes": [
+        {
+          "id": "catalogo",
+          "url": "https://processo.stj.jus.br/SCON/sumstj/toc.jsp?tipo=sumula+ou+su&l=1000&ordenacao=%40NUM",
+          "arquivo_bruto": "catalogo.html"
+        }
+      ]
+    },
+    "sumulas_stf": {
+      "familia": "sumulas",
+      "adaptador": "sumulas_stf_html_v1",
+      "chave_colecao": "sumulas",
+      "destino": "sumulas_stf.json",
+      "fontes": [
+        {
+          "id": "catalogo",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30",
+          "arquivo_bruto": "catalogo.html",
+          "expande_detalhes": true
+        }
+      ]
+    },
+    "sumulas_vinculantes": {
+      "familia": "sumulas",
+      "adaptador": "sumulas_stf_html_v1",
+      "chave_colecao": "sumulas",
+      "destino": "sumulas_vinculantes.json",
+      "vinculante": true,
+      "fontes": [
+        {
+          "id": "catalogo",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26",
+          "arquivo_bruto": "catalogo.html",
+          "expande_detalhes": true
+        }
+      ]
+    },
+    "jurisprudencia_teses_stj": {
+      "familia": "jurisprudencia_em_teses",
+      "adaptador": "jt_stj_html_v1",
+      "chave_colecao": "teses",
+      "destino": "jt_stj.json",
+      "fontes": [
+        {
+          "id": "indice",
+          "url": "https://processo.stj.jus.br/SCON/jt/jt.jsp",
+          "arquivo_bruto": "indice.html",
+          "expande_edicoes": true
+        }
+      ]
+    },
+    "temas_repetitivos_stj": {
+      "familia": "precedentes_qualificados",
+      "adaptador": "temas_stj_csv_v1",
+      "chave_colecao": "temas",
+      "destino": "flash_temas_stj.json",
+      "fontes": [
+        {
+          "id": "metadados",
+          "url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados",
+          "arquivo_bruto": "metadados.json"
+        },
+        {
+          "id": "temas",
+          "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/df29da13-7d6b-41ba-ad96-cd1a5bbd191c/download/temas.csv",
+          "arquivo_bruto": "temas.csv"
+        },
+        {
+          "id": "processos",
+          "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/7ed21202-0049-4fcb-aa7c-48d810d3c499/download/processos.csv",
+          "arquivo_bruto": "processos.csv"
+        }
+      ]
+    },
+    "indices_auxiliares": {
+      "familia": "indice_derivado",
+      "adaptador": null,
+      "atualizacao": "BASE-010",
+      "destinos": [
+        "sumulas_keywords.json",
+        "sumulas_stf_keywords.json"
+      ],
+      "observacao": "Não é fonte jurídica. A reprodução de modelo, prompt e parâmetros permanece no BASE-010."
+    }
+  }
+}

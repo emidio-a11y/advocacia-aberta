@@ -22,6 +22,9 @@ jobs:
       - name: Auditar estrutura da base jurídica
         run: python3 ferramentas/manutencao/auditar_base_juridica.py
 
+      - name: Testar pipeline de atualização da base jurídica
+        run: python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
+
       - name: Testar motor de pesquisa jurídica
         working-directory: ferramentas/pesquisa/busca_delfus
         run: |

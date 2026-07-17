@@ -32,7 +32,9 @@ Esses números descrevem os arquivos presentes nesta versão. As bases são *sna
 de trabalho: não significam, por si sós, vigência, completude ou atualização na data
 da consulta. O [catálogo da base](base-juridica/CATALOGO.md) registra proveniência,
 cobertura e limitações já identificadas; a confirmação externa e as rotinas de
-atualização continuam pendentes.
+atualização não dispensam revisão profissional. O
+[protocolo de atualização](base-juridica/ATUALIZACAO.md) já permite coletar fontes
+oficiais, validar candidatos e comparar mudanças sem sobrescrever a base vigente.
 
 ## Como a Advocacia Aberta funciona
 
@@ -114,6 +116,8 @@ controle de acesso, armazenamento seguro e julgamento profissional. Leia a
   proveniência e ressalvas do acervo.
 - [Backlog da base jurídica](base-juridica/BACKLOG.md) — correções priorizadas e
   critérios de aceite.
+- [Atualização da base jurídica](base-juridica/ATUALIZACAO.md) — pipeline seguro e
+  reproduzível para preparar novos snapshots.
 - [Política de sigilo e dados](SIGILO-E-DADOS.md) — fronteira público–privada.
 - [Protocolo de gerenciamento de contexto](GERENCIAR-CONTEXTO.md) — como preparar,
   selecionar e registrar o que o agente lê.
@@ -159,6 +163,6 @@ O verificador também roda no GitHub Actions.
 
 Esta remodelagem estabelece a identidade, os fundamentos e o primeiro catálogo da
 Advocacia Aberta sem representar como concluído o que ainda precisa ser construído.
-Confirmação externa dos dados, rotinas de atualização, migração estrutural, testes de
+Confirmação jurídica das mudanças, migração estrutural, ampliação dos testes de
 confiabilidade, governança de contribuições e licença de distribuição permanecem como
 etapas posteriores.

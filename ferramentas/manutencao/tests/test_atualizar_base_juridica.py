@@ -1,0 +1,239 @@
+from __future__ import annotations
+
+import csv
+import importlib.util
+import json
+from pathlib import Path
+import sys
+import tempfile
+import unittest
+
+
+ROOT = Path(__file__).resolve().parents[3]
+MODULO_PATH = ROOT / "ferramentas" / "manutencao" / "atualizar_base_juridica.py"
+SPEC = importlib.util.spec_from_file_location("atualizar_base_juridica", MODULO_PATH)
+assert SPEC and SPEC.loader
+pipeline = importlib.util.module_from_spec(SPEC)
+sys.modules[SPEC.name] = pipeline
+SPEC.loader.exec_module(pipeline)
+
+
+class PipelineBaseJuridicaTest(unittest.TestCase):
+    def test_manifesto_cobre_destinos_publicados(self) -> None:
+        dados = pipeline.manifesto()
+        publicados = ROOT / dados["diretorio_publicado"]
+        ativos = {
+            chave: config
+            for chave, config in dados["conjuntos"].items()
+            if config.get("adaptador")
+        }
+        self.assertEqual(len(ativos), 6)
+        for config in ativos.values():
+            self.assertIn(config["adaptador"], pipeline.ADAPTADORES)
+            for nome in pipeline.arquivos_do_conjunto(config):
+                self.assertTrue((publicados / nome).exists(), nome)
+            for fonte in config["fontes"]:
+                self.assertTrue(fonte["url"].startswith("https://"))
+
+    def test_catalogo_stf_preserva_numero_identificador_e_status(self) -> None:
+        html = """
+        <div class="sumula-item"><a href="sumariosumulas.asp?base=30&amp;sumula=1451">
+        Súmula 1</a></div>
+        <div class="sumula-item"><a href="sumariosumulas.asp?base=30&amp;sumula=1306">
+        Súmula 3 <em>(superada)</em></a></div>
+        <div class="sumula-item"><a href="sumariosumulas.asp?base=30&amp;sumula=1308">
+        Súmula 4 <em>(cance&#8203;lada)</em></a></div>
+        """
+        itens = pipeline.extrair_catalogo_stf(html, False)
+        self.assertEqual([item["numero"] for item in itens], [1, 3, 4])
+        self.assertEqual(itens[0]["identificador"], "1451")
+        self.assertEqual(itens[1]["status"], "superada")
+        self.assertEqual(itens[2]["status"], "cancelada")
+
+    def test_transforma_sumula_stj_sem_span_de_enunciado(self) -> None:
+        html = """
+        <div class="gridSumula">
+          <span class="numeroSumula">152</span><span class="clsINDE">CANCELADA</span>
+          <div class="blocoVerbete"><span class="ramoSumula">DIREITO TRIBUTÁRIO - ICMS</span>
+          Na venda pelo segurador, de bens salvados de sinistros, incide o ICMS.
+          (SÚMULA 152, PRIMEIRA SEÇÃO, DJ 14/03/1996, p. 7115)
+          <span class="clsCOM">Cancelada em sessão posterior.</span></div>
+        </div>
+        """
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            candidatos = raiz / "candidatos"
+            bruto.mkdir()
+            (bruto / "catalogo.html").write_text(html, encoding="utf-8")
+            config = {"destino": "sumulas_stj.json"}
+            [saida] = pipeline.transformar_sumulas_stj(
+                config, bruto, raiz / "publicados", candidatos
+            )
+            registro = json.loads(saida.read_text())["sumulas"]["152"]
+        self.assertEqual(registro["status"], "cancelada")
+        self.assertEqual(
+            registro["enunciado"],
+            "Na venda pelo segurador, de bens salvados de sinistros, incide o ICMS.",
+        )
+        self.assertEqual(registro["orgao"], "PRIMEIRA SEÇÃO")
+        self.assertEqual(registro["data"], "14/03/1996")
+
+    def test_transforma_legislacao_sem_remover_registro_nao_reencontrado(self) -> None:
+        html = """
+        <html><body><p>TÍTULO I</p><p>Art. 1º Texto atualizado.</p>
+        <p>Art. 1.001. Artigo novo.</p></body></html>
+        """
+        atual = {
+            "_meta": {
+                "codigo": "XX",
+                "nome": "Código de teste",
+                "lei": "Lei de teste",
+                "url_base": "https://www.planalto.gov.br/teste",
+                "total_artigos": 2,
+            },
+            "artigos": {
+                "1": {"numero": "1", "texto": "Texto antigo.", "url": "https://www.planalto.gov.br/teste#1"},
+                "2": {"numero": "2", "texto": "Retido.", "url": "https://www.planalto.gov.br/teste#2"},
+            },
+        }
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            candidatos = raiz / "candidatos"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(json.dumps(atual), encoding="utf-8")
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, candidatos
+            )
+            objeto = json.loads(saida.read_text())
+        self.assertEqual(set(objeto["artigos"]), {"1", "2", "1001"})
+        self.assertEqual(objeto["_meta"]["registros_retidos_sem_correspondencia"], ["2"])
+
+    def test_transforma_edicao_jurisprudencia_em_teses(self) -> None:
+        html = """
+        <div class="gridEdicaoJT"><span class="numeroSumula">1</span>
+          <span class="clsVerbete">PROCESSO ADMINISTRATIVO DISCIPLINAR - I</span>
+          <b class="clsData">20/09/2013</b><b class="clsData">13/11/2013</b>
+        </div>
+        <div class="clsTemasJT redacaoAtual"><div class="clsSubmitPesquisaTema">
+          <a>1) A falta de defesa técnica não ofende a Constituição.</a>
+        </div><div class="clsJulgadosJT"><a>julgado 1</a></div></div>
+        """
+        atual = {
+            "_meta": {},
+            "teses": {
+                "JT_001_T01": {
+                    "edicao": 1,
+                    "ramo_direito": "Direito Administrativo",
+                    "qtd_julgados": 3,
+                }
+            },
+        }
+        config = {"destino": "jt_stj.json"}
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            edicoes = raiz / "bruto" / "edicoes"
+            publicados = raiz / "publicados"
+            edicoes.mkdir(parents=True)
+            publicados.mkdir()
+            (edicoes / "1.html").write_text(html, encoding="utf-8")
+            (publicados / "jt_stj.json").write_text(json.dumps(atual), encoding="utf-8")
+            [saida] = pipeline.transformar_jt(
+                config, raiz / "bruto", publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        tese = objeto["teses"]["JT_001_T01"]
+        self.assertEqual(tese["data_publicacao"], "2013-11-13")
+        self.assertEqual(tese["ramo_direito"], "Direito Administrativo")
+        self.assertEqual(tese["qtd_julgados"], 1)
+
+    def test_transforma_csv_oficial_de_temas(self) -> None:
+        campos_temas = [
+            "sequencialPrecedente", "tipoPrecedente", "numeroPrecedente",
+            "dataPrimeiraAfetacao", "dataJulgamento", "situacao",
+            "questaoSubmetidaAJulgamento", "teseFirmada", "orgaoJulgador", "Assuntos",
+        ]
+        campos_processos = [
+            "sequencialPrecedente", "tipoPrecedente", "numeroPrecedente", "Processo",
+            "numeroRegistro", "ministroRelator", "leadingCase", "origemUF",
+        ]
+        config = {
+            "destino": "flash_temas_stj.json",
+            "fontes": [
+                {"url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados"},
+                {"url": "https://dadosabertos.web.stj.jus.br/temas.csv"},
+                {"url": "https://dadosabertos.web.stj.jus.br/processos.csv"},
+            ],
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            with (bruto / "temas.csv").open("w", encoding="utf-8", newline="") as arquivo:
+                writer = csv.DictWriter(arquivo, fieldnames=campos_temas)
+                writer.writeheader()
+                writer.writerow({
+                    "sequencialPrecedente": "263", "tipoPrecedente": "Tema",
+                    "numeroPrecedente": "1", "dataPrimeiraAfetacao": "2008-10-10",
+                    "dataJulgamento": "2012-05-02", "situacao": "Trânsito em Julgado",
+                    "questaoSubmetidaAJulgamento": "Questão de teste.",
+                    "teseFirmada": "Tese de teste.", "orgaoJulgador": "CE",
+                    "Assuntos": "8826- DIREITO PROCESSUAL CIVIL, 8867- Substituição Processual",
+                })
+            with (bruto / "processos.csv").open("w", encoding="utf-8", newline="") as arquivo:
+                writer = csv.DictWriter(arquivo, fieldnames=campos_processos)
+                writer.writeheader()
+                writer.writerow({
+                    "sequencialPrecedente": "263", "tipoPrecedente": "Tema",
+                    "numeroPrecedente": "1", "Processo": "REsp 1091443",
+                    "numeroRegistro": "200802176867", "ministroRelator": "RELATOR",
+                    "leadingCase": "S", "origemUF": "SP",
+                })
+            (bruto / "metadados.json").write_text("{}", encoding="utf-8")
+            (publicados / "flash_temas_stj.json").write_text(
+                json.dumps({"_meta": {}, "temas": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_temas(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        tema = objeto["temas"]["1"]
+        self.assertEqual(tema["processo"], "REsp 1091443/SP")
+        self.assertEqual(tema["orgaoJulgador"], "Corte Especial")
+        self.assertEqual(objeto["_meta"]["totalTemas"], 1)
+
+    def test_relatorio_sinaliza_remocoes_antes_da_promocao(self) -> None:
+        relatorio = {
+            "conjuntos": {
+                "teses": [
+                    {"arquivo": "jt_stj.json", "removidos": ["JT_001_T01"]}
+                ],
+                "sumulas": [
+                    {"arquivo": "sumulas_stj.json", "removidos": []}
+                ],
+            }
+        }
+        self.assertEqual(
+            pipeline.remocoes_do_relatorio(relatorio),
+            ["teses/jt_stj.json: 1"],
+        )
+
+
+if __name__ == "__main__":
+    unittest.main()

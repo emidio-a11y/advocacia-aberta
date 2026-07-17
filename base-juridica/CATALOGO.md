@@ -151,11 +151,13 @@ continuam usando os campos de URL.
 
 ## Atualização e reprodutibilidade
 
-O repositório contém o motor de consulta, mas não contém um pipeline completo para
-baixar, transformar, validar e reconstruir os 18 JSONs. Hoje não é possível reproduzir
-uma atualização integral apenas a partir do código versionado.
+Desde `BASE-004`, o repositório contém um pipeline para coletar fontes oficiais,
+transformar as quatro famílias primárias, validar candidatos, comparar snapshots e
+promover somente o conjunto revisado. O manifesto está em
+[`fontes.json`](fontes.json) e o procedimento completo em
+[`ATUALIZACAO.md`](ATUALIZACAO.md).
 
-Uma atualização confiável precisa registrar, por conjunto:
+O fluxo registra na execução ou exige registrar na revisão de promoção, por conjunto:
 
 - URL ou endpoint de origem;
 - instante da coleta e data de referência do conteúdo;
@@ -165,6 +167,10 @@ Uma atualização confiável precisa registrar, por conjunto:
 - diferenças em relação à versão anterior;
 - validações executadas;
 - responsável pela revisão.
+
+Os índices de palavras-chave produzidos por modelo de linguagem continuam fora da
+reprodução automática até a conclusão do `BASE-010`. Eles são enriquecimentos de
+busca, não fontes jurídicas.
 
 ## Resultado da auditoria
 
@@ -181,7 +187,8 @@ Uma atualização confiável precisa registrar, por conjunto:
 ### Limitações conhecidas
 
 - nenhuma confirmação externa de vigência ou conteúdo foi feita nesta rodada;
-- não há pipeline integral e reproduzível de atualização;
+- o pipeline prepara candidatos reproduzíveis, mas a confirmação de vigência e a
+  aprovação das diferenças continuam sendo revisão humana obrigatória;
 - existem inconsistências pontuais no CTB e em uma tese;
 - os metadados de temas ainda contêm caminhos locais do ambiente de geração;
 - os termos “fonte primária” e as classificações de força jurídica ainda precisam de

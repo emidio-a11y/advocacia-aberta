@@ -107,6 +107,7 @@ pelo Git por padrão, exceto pelo modelo vazio e sua documentação.
 | Ativo | Local atual | Papel conceitual |
 |---|---|---|
 | Catálogo e backlog | `base-juridica/` | Governança inicial da base jurídica |
+| Manifesto e pipeline de atualização | `base-juridica/fontes.json` e `ferramentas/manutencao/` | Coleta, transformação, validação e promoção controlada |
 | Legislação, súmulas, temas e teses | `ferramentas/pesquisa/busca_delfus/data/` | Base jurídica curada |
 | Motor de busca local | `ferramentas/pesquisa/busca_delfus/src/` | Motor jurídico |
 | Busca TJPR | `ferramentas/pesquisa/busca-tjpr/` | Motor jurídico externo |
@@ -198,6 +199,10 @@ adaptadores gerados para Claude e Codex.
 ### Fase 4 — Confiabilidade dos dados
 
 Construir atualização reproduzível, validação, versionamento e testes das bases.
+
+**Estado:** coleta, transformação, validação, comparação e promoção controlada foram
+entregues no `BASE-004`. Correções materiais, snapshots publicados e testes de
+qualidade continuam no backlog da base.
 
 ### Fase 5 — Governança e distribuição
 

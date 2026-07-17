@@ -4,6 +4,7 @@ node_modules/
 __pycache__/
 *.pyc
 .bun/
+.atualizacao-base-juridica/
 
 # Sistema
 .DS_Store

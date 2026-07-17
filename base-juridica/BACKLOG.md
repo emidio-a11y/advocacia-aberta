@@ -18,7 +18,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-001` | Formatadores omitem URLs de súmulas, teses e temas | Toda resposta dessas famílias exibe ao menos um link oficial existente no registro | **concluído em 2026-07-17** |
 | `BASE-002` | Busca legislativa `todos` cobre somente 6 dos 11 diplomas disponíveis | Lista única de códigos alimenta carregamento, `todos`, CLI, MCP e documentação; teste cobre os 11 | **concluído em 2026-07-17** |
 | `BASE-003` | `EI` é declarado, mas `lei_ei.json` não existe | Adicionar conjunto verificado ou remover o código de todas as superfícies; consulta nunca termina em erro de módulo | **concluído em 2026-07-17** |
-| `BASE-004` | Não existe pipeline reproduzível de atualização | Cada família possui coletor, transformação documentada, validação, versão e instrução de execução | aberto |
+| `BASE-004` | Não existe pipeline reproduzível de atualização | Cada família possui coletor, transformação documentada, validação, versão e instrução de execução | **concluído em 2026-07-17** |
 
 ## P1 — integridade e proveniência
 
@@ -69,12 +69,26 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - o auditor deixou de emitir `ARQUIVO_DECLARADO_AUSENTE`, `COBERTURA_TODOS` e
   `DESCRICAO_MCP`.
 
+### `BASE-004` — pipeline reproduzível de atualização
+
+- manifesto versionado identifica fontes, destinos, adaptadores e versão do pipeline;
+- coletores cobrem Planalto, catálogos STJ/STF, Jurisprudência em Teses e os CSVs de
+  dados abertos de precedentes qualificados;
+- adaptadores determinísticos produzem candidatos para as quatro famílias primárias;
+- cada download registra URL, horário, cabeçalhos, bytes e SHA-256;
+- validação confere esquema, campos, contagens, caminhos locais e domínios oficiais;
+- comparação lista IDs adicionados, removidos e alterados antes da publicação;
+- promoção exige confirmação literal, autorização adicional para remoções, repete as
+  travas e cria backup;
+- sete testes do pipeline rodam no GitHub Actions;
+- índices derivados permanecem corretamente separados no `BASE-010`.
+
 ## Ordem sugerida de execução
 
-1. `BASE-004`, antes de qualquer atualização ampla dos snapshots.
-2. `BASE-005`, `BASE-006` e `BASE-007`, consultando os materiais oficiais.
-3. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
-4. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
+1. `BASE-005`, `BASE-006` e `BASE-007`, usando o pipeline e conferindo os materiais
+   oficiais.
+2. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
+3. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento
 
