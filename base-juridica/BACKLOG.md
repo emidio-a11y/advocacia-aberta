@@ -15,7 +15,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 | ID | Problema | Critério de aceite | Estado |
 |---|---|---|---|
-| `BASE-001` | Formatadores omitem URLs de súmulas, teses e temas | Toda resposta dessas famílias exibe ao menos um link oficial existente no registro | aberto |
+| `BASE-001` | Formatadores omitem URLs de súmulas, teses e temas | Toda resposta dessas famílias exibe ao menos um link oficial existente no registro | **concluído em 2026-07-17** |
 | `BASE-002` | Busca legislativa `todos` cobre somente 6 dos 11 diplomas disponíveis | Lista única de códigos alimenta carregamento, `todos`, CLI, MCP e documentação; teste cobre os 11 | aberto |
 | `BASE-003` | `EI` é declarado, mas `lei_ei.json` não existe | Adicionar conjunto verificado ou remover o código de todas as superfícies; consulta nunca termina em erro de módulo | aberto |
 | `BASE-004` | Não existe pipeline reproduzível de atualização | Cada família possui coletor, transformação documentada, validação, versão e instrução de execução | aberto |
@@ -39,16 +39,32 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | aberto |
 | `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
 | `BASE-014` | Neutralizar o nome técnico `busca_delfus` | Migrar para `motores/pesquisa-juridica/` preservando compatibilidade temporária | aberto |
-| `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | aberto |
+| `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
+
+## Itens concluídos
+
+### `BASE-001` — links oficiais na saída
+
+- súmulas STJ, STF e vinculantes exibem a URL oficial do registro;
+- Jurisprudência em Teses exibe o link do PDF oficial do STJ;
+- temas repetitivos exibem página do tema, consulta jurisprudencial e consulta
+  processual quando disponíveis;
+- cinco testes executam os formatadores reais;
+- tipagem estrita e testes rodam no GitHub Actions;
+- o auditor deixou de emitir `URL_OMITIDA_NA_SAIDA`.
+
+### `BASE-015` — auditoria no fluxo de contribuição
+
+- o GitHub Actions executa `auditar_base_juridica.py` em `push` e `pull_request`;
+- os achados ficam visíveis no log da validação do projeto.
 
 ## Ordem sugerida de execução
 
-1. `BASE-001`, porque a fonte já existe e está sendo descartada na saída.
-2. `BASE-002`, `BASE-003` e `BASE-008`, para alinhar promessa e execução do motor.
-3. `BASE-004`, antes de qualquer atualização ampla dos snapshots.
-4. `BASE-005`, `BASE-006` e `BASE-007`, consultando os materiais oficiais.
-5. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
-6. `BASE-011` a `BASE-015`, transformando as garantias em manutenção contínua.
+1. `BASE-002`, `BASE-003` e `BASE-008`, para alinhar promessa e execução do motor.
+2. `BASE-004`, antes de qualquer atualização ampla dos snapshots.
+3. `BASE-005`, `BASE-006` e `BASE-007`, consultando os materiais oficiais.
+4. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
+5. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento
 

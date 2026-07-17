@@ -206,6 +206,12 @@ export function buscarSumulas(
   return results.slice(0, limit * (tribunal === "todos" ? 3 : 1));
 }
 
+function formatFonteOficial(url: string | null): string {
+  return url
+    ? `\n**Fonte oficial:** ${url}\n`
+    : "\n**Fonte oficial:** link não disponível neste snapshot.\n";
+}
+
 export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | SumulaSTF | SumulaVinculante }): string {
   const { tribunal, sumula } = item;
 
@@ -220,7 +226,7 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 **Enunciado:**
 > ${s.enunciado}
 
-**Ramo:** ${s.ramo} | **Data:** ${s.data}
+**Ramo:** ${s.ramo} | **Data:** ${s.data}${formatFonteOficial(s.url)}
 `;
   }
 
@@ -235,7 +241,7 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 **Enunciado:**
 > ${s.enunciado}
 
-**Área:** ${s.area} | **Data:** ${s.data}
+**Área:** ${s.area} | **Data:** ${s.data}${formatFonteOficial(s.url)}
 `;
   }
 
@@ -249,6 +255,6 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 **Enunciado:**
 > ${s.enunciado}
 
-**Área:** ${s.area} | **Tema:** ${s.tema} | **Órgão:** ${s.orgao} | **Data:** ${s.data}
+**Área:** ${s.area} | **Tema:** ${s.tema} | **Órgão:** ${s.orgao} | **Data:** ${s.data}${formatFonteOficial(s.url)}
 `;
 }

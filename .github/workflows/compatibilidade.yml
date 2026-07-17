@@ -11,8 +11,20 @@ jobs:
       - name: Baixar o repositório
         uses: actions/checkout@v4
 
+      - name: Preparar Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.0
+
       - name: Validar Agent Skills e espelho do Claude Code
         run: python3 ferramentas/manutencao/verificar_compatibilidade.py
 
       - name: Auditar estrutura da base jurídica
         run: python3 ferramentas/manutencao/auditar_base_juridica.py
+
+      - name: Testar motor de pesquisa jurídica
+        working-directory: ferramentas/pesquisa/busca_delfus
+        run: |
+          bun install --frozen-lockfile
+          bun run typecheck
+          bun test

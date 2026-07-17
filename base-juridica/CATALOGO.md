@@ -137,17 +137,19 @@ reproduzível. Os registros individuais, por outro lado, possuem links oficiais.
 
 ## Rastreabilidade entregue pelo motor
 
-Os dados guardam links oficiais, mas o motor atual não preserva todos eles na saída:
+Os dados guardam links oficiais e, desde a conclusão do `BASE-001`, o motor os
+preserva na saída formatada:
 
 | Resultado | URL existe no JSON | URL aparece na resposta formatada |
 |---|---|---|
 | Legislação | sim | sim |
-| Súmula STJ/STF/vinculante | sim | **não** |
-| Jurisprudência em Teses | sim | **não** |
-| Tema repetitivo | sim | **não** |
+| Súmula STJ/STF/vinculante | sim | sim |
+| Jurisprudência em Teses | sim | sim |
+| Tema repetitivo | sim | sim; inclui todos os links disponíveis no registro |
 
-Essa é a principal divergência entre o ativo existente e o princípio “fontes
-verificáveis”: a proveniência existe, mas se perde na última etapa antes do usuário.
+Cinco testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses e
+temas repetitivos. O auditor também verifica estaticamente que os formatadores
+continuam usando os campos de URL.
 
 ## Atualização e reprodutibilidade
 
@@ -175,13 +177,13 @@ Uma atualização confiável precisa registrar, por conjunto:
 - URLs oficiais presentes em todos os registros das quatro famílias;
 - estados de súmulas preservados;
 - índices de busca já disponíveis;
+- links oficiais preservados nas respostas formatadas;
 - motor funcional para consultas locais sem enviar a base a serviço externo.
 
 ### Limitações conhecidas
 
 - nenhuma confirmação externa de vigência ou conteúdo foi feita nesta rodada;
 - não há pipeline integral e reproduzível de atualização;
-- o motor omite links em três das quatro famílias de saída;
 - a cobertura declarada e a cobertura executada da legislação divergem;
 - existem inconsistências pontuais no CTB, em uma tese e na descrição MCP;
 - os termos “fonte primária” e as classificações de força jurídica ainda precisam de

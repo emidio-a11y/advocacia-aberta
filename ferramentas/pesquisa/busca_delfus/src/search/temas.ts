@@ -90,6 +90,17 @@ export function formatTema(tema: TemaData): string {
   const tese = tema.teseFirmada
     ? `\n**Tese firmada:**\n> ${tema.teseFirmada}\n`
     : "\n**Tese:** Pendente de julgamento\n";
+  const links = [
+    ["Página do tema", tema.links.paginaTema],
+    ["Jurisprudência do STJ", tema.links.scon],
+    ["Consulta processual", tema.links.consultaProcessual],
+  ]
+    .filter((item): item is [string, string] => Boolean(item[1]))
+    .map(([rotulo, url]) => `- ${rotulo}: ${url}`)
+    .join("\n");
+  const fontes = links
+    ? `\n**Fontes oficiais:**\n${links}\n`
+    : "\n**Fontes oficiais:** links não disponíveis neste snapshot.\n";
 
   return `## 📋 FONTE PRIMÁRIA | TEMA REPETITIVO STJ | ${tema.situacao.toUpperCase()}
 
@@ -99,6 +110,6 @@ export function formatTema(tema: TemaData): string {
 **Questão submetida:**
 > ${tema.questao}
 ${tese}
-**Assuntos:** ${tema.assuntos.join(", ")}${tema.orgaoJulgador ? `\n**Órgão:** ${tema.orgaoJulgador}` : ""}${tema.dataJulgamento ? ` | **Julgamento:** ${tema.dataJulgamento}` : ""}
+**Assuntos:** ${tema.assuntos.join(", ")}${tema.orgaoJulgador ? `\n**Órgão:** ${tema.orgaoJulgador}` : ""}${tema.dataJulgamento ? ` | **Julgamento:** ${tema.dataJulgamento}` : ""}${fontes}
 `;
 }

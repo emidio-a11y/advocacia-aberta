@@ -84,5 +84,7 @@ export function formatTese(tese: TeseSTJ): string {
 > ${tese.enunciado}
 
 **Ramo:** ${tese.ramo_direito} | **Julgados:** ${tese.qtd_julgados} | **Publicação:** ${tese.data_publicacao}
+
+**Fonte oficial:** ${tese.url}
 `;
 }
