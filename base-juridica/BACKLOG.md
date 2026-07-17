@@ -25,7 +25,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | ID | Problema | Critério de aceite | Estado |
 |---|---|---|---|
 | `BASE-005` | CTB informa 390 registros no metadado, mas contém 389 | Conferir na fonte e corrigir o registro ausente ou o metadado, com justificativa registrada | aberto |
-| `BASE-006` | `JT_179_T19` tem enunciado vazio | Conferir a edição oficial; restaurar o enunciado ou documentar por que o registro não representa uma tese | aberto |
+| `BASE-006` | `JT_179_T19` tem enunciado vazio | Conferir a edição oficial; restaurar o enunciado ou documentar por que o registro não representa uma tese | **concluído em 2026-07-17** |
 | `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | **concluído em 2026-07-17** |
 | `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | **concluído em 2026-07-17** |
 | `BASE-009` | “Fonte primária” e força jurídica não seguem taxonomia documentada | Definir e revisar rótulos para texto normativo, fonte oficial, compilação institucional, precedente e índice derivado | aberto |
@@ -93,9 +93,17 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - o checksum canônico confirma que os 1.405 temas não foram alterados;
 - a verificação completa está em [`verificacoes/BASE-007.md`](verificacoes/BASE-007.md).
 
+### `BASE-006` — registro espúrio na edição 179
+
+- a página e o PDF oficiais apresentam somente as teses 1 a 10;
+- `JT_179_T19`, vazio e sem destino de fragmento textual, foi removido;
+- o total foi corrigido para 3.371 teses, preservadas as 269 edições;
+- um teste de regressão fixa os dez identificadores oficiais da edição;
+- a verificação completa está em [`verificacoes/BASE-006.md`](verificacoes/BASE-006.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-005` e `BASE-006`, usando o pipeline e conferindo os materiais oficiais.
+1. `BASE-005`, usando o pipeline e conferindo os materiais oficiais.
 2. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
 3. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 

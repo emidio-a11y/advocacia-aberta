@@ -67,5 +67,5 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
   expect(legislacao?.description).toContain("11 diplomas");
 
   const teses = tools!.find((tool) => tool.name === "buscar_tese");
-  expect(teses?.description).toContain("3.372 teses de 269 edições");
+  expect(teses?.description).toContain("3.371 teses de 269 edições");
 });

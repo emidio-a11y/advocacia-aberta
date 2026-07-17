@@ -28,10 +28,10 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 |---|---:|---:|---|
 | Legislação | 11 | 6.802 registros | 11 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
-| Jurisprudência em Teses | 1 | 3.372 teses | 269 edições do STJ |
+| Jurisprudência em Teses | 1 | 3.371 teses | 269 edições do STJ |
 | Temas repetitivos | 1 | 1.405 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 18 | — | 20.718.944 bytes, cerca de 20 MB |
+| Total em JSON | 18 | — | 20.719.860 bytes, cerca de 20 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
@@ -106,14 +106,14 @@ súmulas do STJ.
 | Arquivo | `jt_stj.json` |
 | Gerado em | 2026-02-17 |
 | Edições distintas | 269 |
-| Teses | 3.372 |
-| Teses com URL do STJ | 3.372 |
+| Teses | 3.371 |
+| Teses com URL do STJ | 3.371 |
 | Teses marcadas como rito especial | 154 |
 
-Os totais por ramo do Direito conferem com os metadados. Há uma ressalva material:
-`JT_179_T19` possui URL e metadados, mas o enunciado está vazio. Desde `BASE-008`, a
-descrição do servidor MCP deriva automaticamente dos dados carregados as 3.372 teses e
-269 edições.
+Os totais por ramo do Direito conferem com os metadados. O `BASE-006` removeu
+`JT_179_T19`: a edição oficial possui apenas as teses 1 a 10, e o registro vazio era
+um artefato de extração. Desde `BASE-008`, a descrição do servidor MCP deriva
+automaticamente dos dados carregados: 3.371 teses em 269 edições.
 
 ## Temas repetitivos do STJ
 

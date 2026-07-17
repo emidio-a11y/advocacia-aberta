@@ -4,7 +4,7 @@
     "tipo": "jurisprudencia_em_teses",
     "tribunal": "STJ",
     "total_edicoes": 269,
-    "total_teses": 3372,
+    "total_teses": 3371,
     "ramos_direito": {
       "Direito Administrativo": 578,
       "Direito Civil": 611,
@@ -20,7 +20,7 @@
       "Direito Penal e Processual Penal": 99,
       "Direito Registral": 53,
       "Direitos Humanos": 175,
-      "Orientações Jurisprudenciais": 72
+      "Orientações Jurisprudenciais": 71
     },
     "gerado_em": "2026-02-17",
     "descricao": "Jurisprudência em Teses STJ - lookup otimizado com Text Fragments para scroll direto no PDF"
@@ -29125,18 +29125,6 @@
       "data_publicacao": "2021-10-22",
       "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=179#:~:text=Os%20benef%C3%ADcios%20previstos%2C%20em%20raz%C3%A3o%20da%20pandemia%20da%20covid-19%2C%20nos%20arts.%204%C2%BA%20e%205%C2%BA%20da",
       "qtd_julgados": 3
-    },
-    "JT_179_T19": {
-      "id": "JT_179_T19",
-      "edicao": 179,
-      "edicao_titulo": "Orientações Jurisprudenciais Sobre a Covid-19 - II",
-      "tese_numero": 19,
-      "ramo_direito": "Orientações Jurisprudenciais",
-      "enunciado": "",
-      "rito_especial": false,
-      "data_publicacao": "2021-10-22",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=179#:~:text=",
-      "qtd_julgados": 4
     },
     "JT_180_T01": {
       "id": "JT_180_T01",

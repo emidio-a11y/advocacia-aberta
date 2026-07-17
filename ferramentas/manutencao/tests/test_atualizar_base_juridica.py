@@ -192,6 +192,24 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(tese["ramo_direito"], "Direito Administrativo")
         self.assertEqual(tese["qtd_julgados"], 1)
 
+    def test_edicao_179_publicada_contem_somente_as_dez_teses_oficiais(self) -> None:
+        path = (
+            ROOT
+            / "ferramentas"
+            / "pesquisa"
+            / "busca_delfus"
+            / "data"
+            / "jt_stj.json"
+        )
+        objeto = json.loads(path.read_text(encoding="utf-8"))
+        ids = {
+            identificador
+            for identificador, tese in objeto["teses"].items()
+            if tese["edicao"] == 179
+        }
+        self.assertEqual(ids, {f"JT_179_T{numero:02d}" for numero in range(1, 11)})
+        self.assertNotIn("JT_179_T19", objeto["teses"])
+
     def test_transforma_csv_oficial_de_temas(self) -> None:
         campos_temas = [
             "sequencialPrecedente", "tipoPrecedente", "numeroPrecedente",
