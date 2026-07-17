@@ -56,7 +56,8 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 ### `BASE-015` — auditoria no fluxo de contribuição
 
 - o GitHub Actions executa `auditar_base_juridica.py` em `push` e `pull_request`;
-- os achados ficam visíveis no log da validação do projeto.
+- o modo `--strict` faz qualquer achado bloquear a validação do projeto;
+- os achados também ficam visíveis no log da execução.
 
 ### `BASE-002`, `BASE-003` e `BASE-008` — promessa e execução alinhadas
 

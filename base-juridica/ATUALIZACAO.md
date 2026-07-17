@@ -122,7 +122,7 @@ Se e somente se as remoções do relatório tiverem sido confirmadas na fonte, a
 Depois da promoção, execute a auditoria e os testes do motor:
 
 ```bash
-python3 ferramentas/manutencao/auditar_base_juridica.py
+python3 ferramentas/manutencao/auditar_base_juridica.py --strict
 python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
 cd ferramentas/pesquisa/busca_delfus
 bun run typecheck
@@ -135,6 +135,7 @@ bun test
   a execução;
 - JSON inválido, contagem divergente, campo obrigatório vazio, caminho absoluto ou
   URL fora dos domínios oficiais falha na validação;
+- a auditoria estrutural roda em modo estrito no CI e bloqueia regressões detectáveis;
 - falha de validação bloqueia a promoção;
 - qualquer remoção bloqueia a promoção até receber autorização adicional explícita;
 - mudança volumosa não é aprovada automaticamente: aparece no relatório e exige

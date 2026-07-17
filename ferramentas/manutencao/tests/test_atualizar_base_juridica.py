@@ -19,6 +19,43 @@ SPEC.loader.exec_module(pipeline)
 
 
 class PipelineBaseJuridicaTest(unittest.TestCase):
+    def preparar_promocao(
+        self,
+        raiz: Path,
+        artigos_publicados: dict[str, dict[str, object]],
+        artigos_candidatos: dict[str, dict[str, object]],
+        meta_candidato: dict[str, object] | None = None,
+    ) -> tuple[dict[str, object], Path, Path]:
+        publicados = raiz / "publicados"
+        execucao = raiz / "execucao"
+        candidatos = execucao / "candidatos"
+        publicados.mkdir()
+        candidatos.mkdir(parents=True)
+        dados: dict[str, object] = {
+            "conjuntos": {
+                "legislacao_teste": {
+                    "familia": "legislacao",
+                    "chave_colecao": "artigos",
+                    "destino": "lei_teste.json",
+                }
+            }
+        }
+        publicado = {
+            "_meta": {"total_artigos": len(artigos_publicados)},
+            "artigos": artigos_publicados,
+        }
+        candidato = {
+            "_meta": meta_candidato or {"total_artigos": len(artigos_candidatos)},
+            "artigos": artigos_candidatos,
+        }
+        (publicados / "lei_teste.json").write_text(
+            json.dumps(publicado), encoding="utf-8"
+        )
+        (candidatos / "lei_teste.json").write_text(
+            json.dumps(candidato), encoding="utf-8"
+        )
+        return dados, execucao, publicados
+
     def test_manifesto_cobre_destinos_publicados(self) -> None:
         dados = pipeline.manifesto()
         publicados = ROOT / dados["diretorio_publicado"]
@@ -317,6 +354,91 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             pipeline.remocoes_do_relatorio(relatorio),
             ["teses/jt_stj.json: 1"],
         )
+
+    def test_promocao_exige_confirmacao_literal(self) -> None:
+        artigo = {
+            "1": {
+                "numero": "1",
+                "texto": "Texto.",
+                "url": "https://www.planalto.gov.br/teste",
+            }
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            dados, execucao, publicados = self.preparar_promocao(
+                Path(temp), artigo, artigo
+            )
+            with self.assertRaisesRegex(ValueError, "use --confirmar PROMOVER"):
+                pipeline.promover(
+                    dados, ["legislacao_teste"], execucao, publicados, "sim"
+                )
+            self.assertFalse((execucao / "backup").exists())
+
+    def test_validacao_bloqueia_promocao_com_caminho_local(self) -> None:
+        artigo = {
+            "1": {
+                "numero": "1",
+                "texto": "Texto.",
+                "url": "https://www.planalto.gov.br/teste",
+            }
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            dados, execucao, publicados = self.preparar_promocao(
+                raiz,
+                artigo,
+                artigo,
+                {"total_artigos": 1, "origem": "/Users/pessoa/Downloads/fonte.html"},
+            )
+            publicado_antes = (publicados / "lei_teste.json").read_bytes()
+            with self.assertRaisesRegex(ValueError, "caminho absoluto local"):
+                pipeline.promover(
+                    dados, ["legislacao_teste"], execucao, publicados, "PROMOVER"
+                )
+            self.assertEqual(
+                (publicados / "lei_teste.json").read_bytes(), publicado_antes
+            )
+            self.assertFalse((execucao / "backup").exists())
+
+    def test_remocao_exige_aceite_e_backup_preserva_publicado(self) -> None:
+        artigo_1 = {
+            "numero": "1",
+            "texto": "Texto.",
+            "url": "https://www.planalto.gov.br/teste",
+        }
+        artigo_2 = {
+            "numero": "2",
+            "texto": "Será removido.",
+            "url": "https://www.planalto.gov.br/teste",
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            dados, execucao, publicados = self.preparar_promocao(
+                Path(temp), {"1": artigo_1, "2": artigo_2}, {"1": artigo_1}
+            )
+            publicado_antes = (publicados / "lei_teste.json").read_bytes()
+            with self.assertRaisesRegex(ValueError, "use --aceitar-remocoes"):
+                pipeline.promover(
+                    dados, ["legislacao_teste"], execucao, publicados, "PROMOVER"
+                )
+            self.assertEqual(
+                (publicados / "lei_teste.json").read_bytes(), publicado_antes
+            )
+            self.assertFalse((execucao / "backup").exists())
+
+            pipeline.promover(
+                dados,
+                ["legislacao_teste"],
+                execucao,
+                publicados,
+                "PROMOVER",
+                aceitar_remocoes=True,
+            )
+            backup = json.loads(
+                (execucao / "backup" / "lei_teste.json").read_text()
+            )
+            promovido = json.loads((publicados / "lei_teste.json").read_text())
+            self.assertEqual(set(backup["artigos"]), {"1", "2"})
+            self.assertEqual(set(promovido["artigos"]), {"1"})
+            self.assertTrue((execucao / "promocao.json").exists())
 
 
 if __name__ == "__main__":
