@@ -14,11 +14,16 @@ altera os JSONs consumidos pelo motor.
 
 A publicação exige `promover --confirmar PROMOVER`. Antes de copiar o candidato, o
 comando repete a validação, gera o relatório de diferenças e preserva os arquivos
-anteriores em `backup/` dentro da execução.
+anteriores em `backup/` dentro da execução. A mesma execução não pode ser promovida
+duas vezes, evitando a sobrescrita desse backup.
 
 Se o relatório contiver qualquer remoção, a promoção ainda é recusada. Depois da
 conferência individual dos IDs, uma remoção intencional exige também
 `--aceitar-remocoes`.
+
+Uma alteração que supere o limiar versionado em `politica_promocao` — atualmente 25%
+da coleção anterior e pelo menos 20 registros — também é recusada. Depois da revisão
+do relatório, sua promoção exige adicionalmente `--aceitar-mudanca-volumosa`.
 
 ## Dependências
 
@@ -99,7 +104,8 @@ os identificadores aceitos.
 
 ## Revisão antes de promover
 
-1. Confira se a coleta veio dos domínios e recursos declarados no manifesto.
+1. Confira a URL inicial e a URL efetiva registradas no recibo. O coletor aceita
+   somente HTTPS nos domínios oficiais permitidos e rejeita redirecionamento externo.
 2. Leia `validacao.json`; qualquer erro bloqueia a promoção.
 3. Leia `diferencas.md` e examine no JSON os IDs adicionados, removidos e alterados.
 4. Em legislação, revise `registros_retidos_sem_correspondencia`: o pipeline preserva
@@ -119,6 +125,10 @@ python3 ferramentas/manutencao/atualizar_base_juridica.py promover \
 Se e somente se as remoções do relatório tiverem sido confirmadas na fonte, acrescente
 `--aceitar-remocoes` ao comando.
 
+Se o gate volumétrico for acionado, examine os IDs alterados e acrescente
+`--aceitar-mudanca-volumosa` somente depois de confirmar que a mudança em massa é
+intencional.
+
 Depois da promoção, execute a auditoria e os testes do motor:
 
 ```bash
@@ -131,14 +141,15 @@ bun test
 
 ## Política de falha
 
-- download vazio, erro HTTP, catálogo sem registros ou adaptador desconhecido encerra
+- URL inicial ou redirecionada fora da allowlist, tipo de conteúdo incompatível,
+  download vazio, erro HTTP, catálogo sem registros ou adaptador desconhecido encerra
   a execução;
 - JSON inválido, contagem divergente, campo obrigatório vazio, caminho absoluto ou
   URL fora dos domínios oficiais falha na validação;
 - a auditoria estrutural roda em modo estrito no CI e bloqueia regressões detectáveis;
 - falha de validação bloqueia a promoção;
 - qualquer remoção bloqueia a promoção até receber autorização adicional explícita;
-- mudança volumosa não é aprovada automaticamente: aparece no relatório e exige
-  decisão humana;
+- mudança acima de 25% da coleção e de 20 registros exige autorização adicional;
+- uma execução já promovida não pode sobrescrever seu backup;
 - artefatos brutos não são versionados por padrão; seus checksums e cabeçalhos ficam
   no recibo local da execução.

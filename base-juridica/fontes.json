@@ -1,8 +1,12 @@
 {
   "$schema": "./fontes.schema.json",
   "schema_version": 1,
-  "pipeline_version": "1.0.0",
+  "pipeline_version": "1.1.0",
   "diretorio_publicado": "ferramentas/pesquisa/busca_delfus/data",
+  "politica_promocao": {
+    "limite_mudanca_percentual": 25,
+    "limite_mudanca_minimo": 20
+  },
   "conjuntos": {
     "legislacao": {
       "familia": "legislacao",

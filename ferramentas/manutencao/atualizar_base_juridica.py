@@ -23,7 +23,7 @@ import shutil
 import subprocess
 import sys
 from typing import Any, Iterable, Iterator
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, urljoin, urlparse
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -50,6 +50,13 @@ HOSTS_OFICIAIS = {
     "dadosabertos.web.stj.jus.br",
     "portal.stf.jus.br",
     "jurisprudencia.stf.jus.br",
+}
+LIMITE_MUDANCA_PERCENTUAL_PADRAO = 25
+LIMITE_MUDANCA_MINIMO_PADRAO = 20
+TIPOS_CONTEUDO_ESPERADOS = {
+    ".html": {"text/html", "application/xhtml+xml"},
+    ".csv": {"text/csv", "application/csv", "application/octet-stream"},
+    ".json": {"application/json", "text/json"},
 }
 
 
@@ -230,7 +237,37 @@ def ler_cabecalhos(path: Path) -> dict[str, str]:
     return resultado
 
 
+def validar_url_oficial(url: str) -> None:
+    try:
+        partes = urlparse(url)
+        porta = partes.port
+    except ValueError as erro:
+        raise ValueError(f"URL de coleta inválida: {url}") from erro
+    host = (partes.hostname or "").lower()
+    if (
+        partes.scheme.lower() != "https"
+        or host not in HOSTS_OFICIAIS
+        or porta not in (None, 443)
+        or partes.username is not None
+        or partes.password is not None
+    ):
+        raise ValueError(f"URL de coleta fora dos domínios oficiais: {url}")
+
+
+def validar_tipo_conteudo(destino: Path, content_type: str | None) -> None:
+    esperados = TIPOS_CONTEUDO_ESPERADOS.get(destino.suffix.lower())
+    if not esperados:
+        return
+    recebido = (content_type or "").split(";", 1)[0].strip().lower()
+    if recebido not in esperados:
+        raise RuntimeError(
+            f"tipo de conteúdo inesperado para {destino.name}: "
+            f"{content_type or 'ausente'}"
+        )
+
+
 def baixar(url: str, destino: Path) -> dict[str, Any]:
+    validar_url_oficial(url)
     destino.parent.mkdir(parents=True, exist_ok=True)
     temporario = destino.with_suffix(destino.suffix + ".part")
     cabecalhos_path = destino.with_suffix(destino.suffix + ".headers")
@@ -252,17 +289,35 @@ def baixar(url: str, destino: Path) -> dict[str, Any]:
         USER_AGENT,
         "--dump-header",
         str(cabecalhos_path),
+        "--write-out",
+        "%{url_effective}",
         "--output",
         str(temporario),
         url,
     ]
-    subprocess.run(comando, check=True)
+    resultado = subprocess.run(
+        comando, check=True, capture_output=True, text=True
+    )
+    url_efetiva = resultado.stdout.strip() or url
+    try:
+        validar_url_oficial(url_efetiva)
+    except ValueError:
+        temporario.unlink(missing_ok=True)
+        cabecalhos_path.unlink(missing_ok=True)
+        raise
     if not temporario.exists() or temporario.stat().st_size == 0:
         raise RuntimeError(f"download vazio: {url}")
-    temporario.replace(destino)
     cabecalhos = ler_cabecalhos(cabecalhos_path)
+    try:
+        validar_tipo_conteudo(destino, cabecalhos.get("content-type"))
+    except RuntimeError:
+        temporario.unlink(missing_ok=True)
+        cabecalhos_path.unlink(missing_ok=True)
+        raise
+    temporario.replace(destino)
     return {
         "url": url,
+        "url_efetiva": url_efetiva,
         "arquivo": str(destino),
         "coletado_em": agora_utc(),
         "bytes": destino.stat().st_size,
@@ -277,6 +332,20 @@ def manifesto(path: Path = MANIFESTO_PADRAO) -> dict[str, Any]:
     dados = carregar_json(path)
     if dados.get("schema_version") != 1:
         raise ValueError("versão desconhecida do manifesto de fontes")
+    politica = dados.get("politica_promocao")
+    if not isinstance(politica, dict):
+        raise ValueError("política de promoção ausente no manifesto")
+    percentual = politica.get("limite_mudanca_percentual")
+    minimo = politica.get("limite_mudanca_minimo")
+    if (
+        not isinstance(percentual, int)
+        or isinstance(percentual, bool)
+        or not 1 <= percentual <= 100
+        or not isinstance(minimo, int)
+        or isinstance(minimo, bool)
+        or minimo < 1
+    ):
+        raise ValueError("limites inválidos na política de promoção")
     return dados
 
 
@@ -559,7 +628,23 @@ def transformar_sumulas_stj(
         ramo = texto_elemento(ramo_no) if ramo_no else ""
         area, separador, tema = ramo.partition(" - ")
         status_no = primeiro(bloco, classe="clsINDE")
-        status = "cancelada" if status_no and "CANCEL" in texto_elemento(status_no).upper() else "ativa"
+        rotulo_status = texto_elemento(status_no).upper() if status_no else ""
+        status = "ativa"
+        for marcador, estado in (
+            ("CANCEL", "cancelada"),
+            ("REVOG", "cancelada"),
+            ("SUPERAD", "superada"),
+            ("SUSPEN", "suspensa"),
+            ("ALTERAD", "alterada"),
+        ):
+            if marcador in rotulo_status:
+                status = estado
+                break
+        if status == "ativa" and (
+            (enunciado_no is not None and tem_ancestral_riscado(enunciado_no))
+            or tem_ancestral_riscado(bloco_verbete)
+        ):
+            status = "inativa"
         texto_bloco = texto_elemento(bloco_verbete)
         if ramo and texto_bloco.startswith(ramo):
             texto_bloco = texto_bloco[len(ramo) :].strip()
@@ -1163,6 +1248,29 @@ def remocoes_do_relatorio(relatorio: dict[str, Any]) -> list[str]:
     ]
 
 
+def mudancas_volumosas_do_relatorio(
+    relatorio: dict[str, Any], percentual: int, minimo: int
+) -> list[str]:
+    achados: list[str] = []
+    for conjunto_id, itens in relatorio["conjuntos"].items():
+        for item in itens:
+            anteriores = item["registros_anteriores"]
+            mudancas = sum(
+                len(item[chave])
+                for chave in ("adicionados", "removidos", "alterados")
+            )
+            limite_percentual = (
+                anteriores * percentual + 99
+            ) // 100
+            limite = max(minimo, limite_percentual)
+            if mudancas > limite:
+                achados.append(
+                    f"{conjunto_id}/{item['arquivo']}: {mudancas} mudanças "
+                    f"(limite {limite}; base {anteriores})"
+                )
+    return achados
+
+
 def promover(
     dados: dict[str, Any],
     ids: Iterable[str],
@@ -1170,9 +1278,12 @@ def promover(
     publicados: Path,
     confirmacao: str,
     aceitar_remocoes: bool = False,
+    aceitar_mudanca_volumosa: bool = False,
 ) -> None:
     if confirmacao != "PROMOVER":
         raise ValueError("promoção recusada: use --confirmar PROMOVER")
+    if (execucao_dir / "promocao.json").exists():
+        raise ValueError("promoção recusada: esta execução já foi promovida")
     validacao = validar_conjuntos(dados, ids, execucao_dir)
     erros = [erro for conjunto in validacao.values() for erro in conjunto]
     if erros:
@@ -1184,6 +1295,23 @@ def promover(
             "promoção recusada; há remoções no relatório:\n- "
             + "\n- ".join(remocoes)
             + "\nRevise os IDs e, somente se forem intencionais, use --aceitar-remocoes."
+        )
+    politica = dados.get("politica_promocao", {})
+    percentual = int(
+        politica.get(
+            "limite_mudanca_percentual", LIMITE_MUDANCA_PERCENTUAL_PADRAO
+        )
+    )
+    minimo = int(
+        politica.get("limite_mudanca_minimo", LIMITE_MUDANCA_MINIMO_PADRAO)
+    )
+    volumosas = mudancas_volumosas_do_relatorio(relatorio, percentual, minimo)
+    if volumosas and not aceitar_mudanca_volumosa:
+        raise ValueError(
+            "promoção recusada; há mudança volumosa no relatório:\n- "
+            + "\n- ".join(volumosas)
+            + "\nRevise as diferenças e, somente se forem intencionais, use "
+            "--aceitar-mudanca-volumosa."
         )
     backup = execucao_dir / "backup"
     promovidos: list[dict[str, str]] = []
@@ -1229,6 +1357,9 @@ def parser_cli() -> argparse.ArgumentParser:
     comando_promover.add_argument("--conjunto", default="todos")
     comando_promover.add_argument("--confirmar", default="")
     comando_promover.add_argument("--aceitar-remocoes", action="store_true")
+    comando_promover.add_argument(
+        "--aceitar-mudanca-volumosa", action="store_true"
+    )
     return parser
 
 
@@ -1280,6 +1411,7 @@ def main(argv: list[str] | None = None) -> int:
             publicados,
             args.confirmar,
             args.aceitar_remocoes,
+            args.aceitar_mudanca_volumosa,
         )
         print(f"Promoção concluída; backup em {execucao_dir / 'backup'}")
     return 0

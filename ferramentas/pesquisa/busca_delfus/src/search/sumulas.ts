@@ -8,7 +8,13 @@ const require = createRequire(import.meta.url);
 export interface SumulaSTJ {
   readonly numero: number;
   readonly enunciado: string;
-  readonly status: "ativa" | "cancelada";
+  readonly status:
+    | "ativa"
+    | "cancelada"
+    | "alterada"
+    | "superada"
+    | "suspensa"
+    | "inativa";
   readonly area: string;
   readonly tema: string;
   readonly orgao: string;

@@ -7,6 +7,7 @@ from pathlib import Path
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[3]
@@ -71,6 +72,24 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
                 self.assertTrue((publicados / nome).exists(), nome)
             for fonte in config["fontes"]:
                 self.assertTrue(fonte["url"].startswith("https://"))
+
+    def test_manifesto_rejeita_limite_de_promocao_invalido(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            path = Path(temp) / "fontes.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "schema_version": 1,
+                        "politica_promocao": {
+                            "limite_mudanca_percentual": 0,
+                            "limite_mudanca_minimo": 20,
+                        },
+                    }
+                ),
+                encoding="utf-8",
+            )
+            with self.assertRaisesRegex(ValueError, "limites inválidos"):
+                pipeline.manifesto(path)
 
     def test_temas_publicados_nao_expoem_caminho_pessoal(self) -> None:
         path = (
@@ -146,6 +165,89 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         )
         self.assertEqual(registro["orgao"], "PRIMEIRA SEÇÃO")
         self.assertEqual(registro["data"], "14/03/1996")
+
+    def test_transforma_estados_nao_ativos_de_sumula_stj(self) -> None:
+        html = """
+        <div class="gridSumula"><span class="numeroSumula">1</span>
+          <span class="clsINDE">SUPERADA</span><div class="blocoVerbete">
+          <span class="clsVerbete">Texto 1.</span></div></div>
+        <div class="gridSumula"><span class="numeroSumula">2</span>
+          <span class="clsINDE">SUSPENSA</span><div class="blocoVerbete">
+          <span class="clsVerbete">Texto 2.</span></div></div>
+        <div class="gridSumula"><span class="numeroSumula">3</span>
+          <div class="blocoVerbete"><del><span class="clsVerbete">
+          Texto 3.</span></del></div></div>
+        """
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            bruto.mkdir()
+            (bruto / "catalogo.html").write_text(html, encoding="utf-8")
+            [saida] = pipeline.transformar_sumulas_stj(
+                {"destino": "sumulas_stj.json"},
+                bruto,
+                raiz / "publicados",
+                raiz / "candidatos",
+            )
+            sumulas = json.loads(saida.read_text())["sumulas"]
+        self.assertEqual(sumulas["1"]["status"], "superada")
+        self.assertEqual(sumulas["2"]["status"], "suspensa")
+        self.assertEqual(sumulas["3"]["status"], "inativa")
+
+    def test_download_rejeita_url_e_redirecionamento_externos(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            destino = Path(temp) / "fonte.html"
+            with patch.object(pipeline.subprocess, "run") as executar:
+                with self.assertRaisesRegex(ValueError, "domínios oficiais"):
+                    pipeline.baixar("https://example.com/fonte", destino)
+                executar.assert_not_called()
+
+            def simular_redirect(comando: list[str], **_: object) -> object:
+                temporario = Path(comando[comando.index("--output") + 1])
+                cabecalhos = Path(comando[comando.index("--dump-header") + 1])
+                temporario.write_text("<html></html>", encoding="utf-8")
+                cabecalhos.write_text(
+                    "HTTP/2 200\ncontent-type: text/html\n\n", encoding="latin-1"
+                )
+                return pipeline.subprocess.CompletedProcess(
+                    comando, 0, stdout="https://example.com/redirecionado", stderr=""
+                )
+
+            with patch.object(
+                pipeline.subprocess, "run", side_effect=simular_redirect
+            ):
+                with self.assertRaisesRegex(ValueError, "domínios oficiais"):
+                    pipeline.baixar(
+                        "https://www.planalto.gov.br/fonte", destino
+                    )
+            self.assertFalse(destino.exists())
+            self.assertFalse(destino.with_suffix(".html.part").exists())
+
+    def test_download_rejeita_tipo_de_conteudo_incompativel(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            destino = Path(temp) / "fonte.html"
+
+            def simular_pdf(comando: list[str], **_: object) -> object:
+                temporario = Path(comando[comando.index("--output") + 1])
+                cabecalhos = Path(comando[comando.index("--dump-header") + 1])
+                temporario.write_bytes(b"%PDF-1.7")
+                cabecalhos.write_text(
+                    "HTTP/2 200\ncontent-type: application/pdf\n\n",
+                    encoding="latin-1",
+                )
+                return pipeline.subprocess.CompletedProcess(
+                    comando,
+                    0,
+                    stdout="https://www.planalto.gov.br/fonte",
+                    stderr="",
+                )
+
+            with patch.object(pipeline.subprocess, "run", side_effect=simular_pdf):
+                with self.assertRaisesRegex(RuntimeError, "tipo de conteúdo"):
+                    pipeline.baixar(
+                        "https://www.planalto.gov.br/fonte", destino
+                    )
+            self.assertFalse(destino.exists())
 
     def test_transforma_legislacao_sem_remover_registro_nao_reencontrado(self) -> None:
         html = """
@@ -439,6 +541,54 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             self.assertEqual(set(backup["artigos"]), {"1", "2"})
             self.assertEqual(set(promovido["artigos"]), {"1"})
             self.assertTrue((execucao / "promocao.json").exists())
+            backup_antes = (execucao / "backup" / "lei_teste.json").read_bytes()
+            with self.assertRaisesRegex(ValueError, "já foi promovida"):
+                pipeline.promover(
+                    dados,
+                    ["legislacao_teste"],
+                    execucao,
+                    publicados,
+                    "PROMOVER",
+                    aceitar_remocoes=True,
+                )
+            self.assertEqual(
+                (execucao / "backup" / "lei_teste.json").read_bytes(),
+                backup_antes,
+            )
+
+    def test_mudanca_volumosa_exige_aceite_adicional(self) -> None:
+        publicados_artigos = {
+            str(numero): {
+                "numero": str(numero),
+                "texto": f"Texto anterior {numero}.",
+                "url": "https://www.planalto.gov.br/teste",
+            }
+            for numero in range(1, 101)
+        }
+        candidatos_artigos = {
+            numero: {**artigo, "texto": artigo["texto"].replace("anterior", "novo")}
+            for numero, artigo in publicados_artigos.items()
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            dados, execucao, publicados = self.preparar_promocao(
+                Path(temp), publicados_artigos, candidatos_artigos
+            )
+            with self.assertRaisesRegex(
+                ValueError, "use --aceitar-mudanca-volumosa"
+            ):
+                pipeline.promover(
+                    dados, ["legislacao_teste"], execucao, publicados, "PROMOVER"
+                )
+            pipeline.promover(
+                dados,
+                ["legislacao_teste"],
+                execucao,
+                publicados,
+                "PROMOVER",
+                aceitar_mudanca_volumosa=True,
+            )
+            promovido = json.loads((publicados / "lei_teste.json").read_text())
+            self.assertEqual(promovido["artigos"]["1"]["texto"], "Texto novo 1.")
 
 
 if __name__ == "__main__":

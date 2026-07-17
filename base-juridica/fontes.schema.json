@@ -7,12 +7,25 @@
     "schema_version",
     "pipeline_version",
     "diretorio_publicado",
+    "politica_promocao",
     "conjuntos"
   ],
   "properties": {
     "schema_version": { "const": 1 },
     "pipeline_version": { "type": "string" },
     "diretorio_publicado": { "type": "string" },
+    "politica_promocao": {
+      "type": "object",
+      "required": ["limite_mudanca_percentual", "limite_mudanca_minimo"],
+      "properties": {
+        "limite_mudanca_percentual": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 100
+        },
+        "limite_mudanca_minimo": { "type": "integer", "minimum": 1 }
+      }
+    },
     "conjuntos": {
       "type": "object",
       "minProperties": 1,

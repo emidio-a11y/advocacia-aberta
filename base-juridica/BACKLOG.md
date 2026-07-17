@@ -40,6 +40,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
 | `BASE-014` | Neutralizar o nome técnico `busca_delfus` | Migrar para `motores/pesquisa-juridica/` preservando compatibilidade temporária | aberto |
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
+| `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
 
 ## Itens concluídos
 
@@ -81,8 +82,17 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - comparação lista IDs adicionados, removidos e alterados antes da publicação;
 - promoção exige confirmação literal, autorização adicional para remoções, repete as
   travas e cria backup;
-- sete testes do pipeline rodam no GitHub Actions;
+- dezoito testes do pipeline rodam no GitHub Actions;
 - índices derivados permanecem corretamente separados no `BASE-010`.
+
+### `BASE-016` — endurecimento da coleta e promoção
+
+- URLs iniciais e efetivas precisam usar HTTPS e pertencer à allowlist oficial;
+- tipo de conteúdo incompatível encerra a coleta antes de publicar o arquivo;
+- mudança acima de 25% e de 20 registros exige aceite adicional explícito;
+- a mesma execução não pode ser promovida duas vezes e sobrescrever o backup;
+- estados não ativos das súmulas STJ não são reduzidos automaticamente a “ativa”;
+- testes cobrem redirecionamento externo, conteúdo inesperado, volume e re-promoção.
 
 ### `BASE-007` — proveniência pública dos temas repetitivos
 
