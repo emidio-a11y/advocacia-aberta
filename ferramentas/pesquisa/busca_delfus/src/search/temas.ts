@@ -33,6 +33,8 @@ const raw = require("../../data/flash_temas_stj.json") as {
   terms: Record<string, readonly number[]>;
 };
 
+export const TOTAL_TEMAS_STJ = Object.keys(raw.temas).length;
+
 // ── Sinônimos ──────────────────────────────────────────────────────────────
 
 const SYNONYMS: Record<string, string[]> = {

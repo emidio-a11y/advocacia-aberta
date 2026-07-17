@@ -54,6 +54,12 @@ const kwStf = require("../../data/sumulas_stf_keywords.json") as {
   keywords: Record<string, { numero: number; area: string; keywords: string[] }>;
 };
 
+export const TOTAIS_SUMULAS = Object.freeze({
+  STJ: Object.keys(stj.sumulas).length,
+  STF: Object.keys(stf.sumulas).length,
+  vinculantes: Object.keys(sv.sumulas).length,
+});
+
 // ── Keyword indexes (lazy) ─────────────────────────────────────────────────
 
 let idxStj: Map<string, Set<number>> | null = null;

@@ -13,7 +13,12 @@
 import { buscarSumulas, formatSumula, type Tribunal } from "./search/sumulas.js";
 import { buscarTeses, formatTese } from "./search/jt.js";
 import { buscarTemas, formatTema } from "./search/temas.js";
-import { buscarLegislacao, formatArtigo, type CodigoCodigo } from "./search/legislacao.js";
+import {
+  buscarLegislacao,
+  CODIGOS_DISPONIVEIS,
+  formatArtigo,
+  normalizarCodigo,
+} from "./search/legislacao.js";
 
 const [, , tool, query, arg3, arg4] = process.argv;
 
@@ -54,8 +59,15 @@ switch (tool) {
   }
 
   case "legislacao": {
-    const codigo = (arg3 ?? "todos") as CodigoCodigo | "todos";
+    const codigoInformado = arg3 ?? "todos";
+    const codigo = normalizarCodigo(codigoInformado);
     const limit = parseInt(arg4 ?? "5", 10);
+    if (!codigo) {
+      const disponiveis = [...CODIGOS_DISPONIVEIS, "todos"].join(", ");
+      console.error(`Código de legislação indisponível: "${codigoInformado}". Use: ${disponiveis}.`);
+      process.exitCode = 1;
+      break;
+    }
     const results = buscarLegislacao(query, codigo, limit);
     if (results.length === 0) { console.log(`Nenhum artigo encontrado para: "${query}"`); break; }
     console.log(`${results.length} artigo(s) encontrado(s)\n`);

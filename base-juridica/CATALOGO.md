@@ -64,18 +64,16 @@ um registro ou se o metadado está incorreto.
 | Superfície | Cobertura observada |
 |---|---|
 | Arquivos disponíveis | `ADCT`, `CC`, `CDC`, `CE`, `CF`, `CLT`, `CP`, `CPC`, `CPP`, `CTB`, `CTN` |
-| Códigos declarados no TypeScript | os 11 acima + `EI` |
-| Busca com código específico | tenta carregar qualquer código declarado |
-| Busca `todos` | somente `CPC`, `CC`, `CP`, `CDC`, `CF`, `CLT` |
-| Esquema MCP e sua documentação | somente `CPC`, `CC`, `CP`, `CDC`, `CF`, `CLT` |
+| Códigos declarados no TypeScript | exatamente os 11 arquivos disponíveis |
+| Busca com código específico | aceita os 11 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 11 códigos do registro central |
+| Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
-Consequências:
+Desde a conclusão de `BASE-002` e `BASE-003`:
 
-- `ADCT`, `CE`, `CPP`, `CTB` e `CTN` existem, mas ficam fora da busca `todos`;
-- `EI` está declarado como Estatuto da Pessoa Idosa, mas `lei_ei.json` não existe e a
-  consulta específica termina com erro;
-- chamar uma busca de “todos” hoje cria uma expectativa de cobertura que o motor não
-  cumpre.
+- todo diploma presente é automaticamente incluído na busca `todos` e no enum MCP;
+- `EI` não é anunciado nem carregado enquanto não houver base correspondente;
+- adicionar um diploma exige uma única entrada no registro, além do JSON auditado.
 
 ## Súmulas
 
@@ -113,9 +111,9 @@ súmulas do STJ.
 | Teses marcadas como rito especial | 154 |
 
 Os totais por ramo do Direito conferem com os metadados. Há uma ressalva material:
-`JT_179_T19` possui URL e metadados, mas o enunciado está vazio. A descrição do servidor
-MCP também informa incorretamente “792 edições”, embora o arquivo e seus metadados
-registrem 269.
+`JT_179_T19` possui URL e metadados, mas o enunciado está vazio. Desde `BASE-008`, a
+descrição do servidor MCP deriva automaticamente dos dados carregados as 3.372 teses e
+269 edições.
 
 ## Temas repetitivos do STJ
 
@@ -184,8 +182,8 @@ Uma atualização confiável precisa registrar, por conjunto:
 
 - nenhuma confirmação externa de vigência ou conteúdo foi feita nesta rodada;
 - não há pipeline integral e reproduzível de atualização;
-- a cobertura declarada e a cobertura executada da legislação divergem;
-- existem inconsistências pontuais no CTB, em uma tese e na descrição MCP;
+- existem inconsistências pontuais no CTB e em uma tese;
+- os metadados de temas ainda contêm caminhos locais do ambiente de geração;
 - os termos “fonte primária” e as classificações de força jurídica ainda precisam de
   revisão conceitual uniforme;
 - não há avaliação documentada de precisão e cobertura das buscas por palavras-chave.

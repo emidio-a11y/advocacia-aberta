@@ -27,6 +27,11 @@ const raw = require("../../data/jt_stj.json") as {
 
 const { teses } = raw;
 
+export const TOTAL_TESES_STJ = Object.keys(teses).length;
+export const TOTAL_EDICOES_JT = new Set(
+  Object.values(teses).map((tese) => tese.edicao),
+).size;
+
 // ── Public API ─────────────────────────────────────────────────────────────
 
 export function buscarTeses(query: string, limit = 5): TeseSTJ[] {

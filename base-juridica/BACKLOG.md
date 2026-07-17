@@ -16,8 +16,8 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | ID | Problema | Critério de aceite | Estado |
 |---|---|---|---|
 | `BASE-001` | Formatadores omitem URLs de súmulas, teses e temas | Toda resposta dessas famílias exibe ao menos um link oficial existente no registro | **concluído em 2026-07-17** |
-| `BASE-002` | Busca legislativa `todos` cobre somente 6 dos 11 diplomas disponíveis | Lista única de códigos alimenta carregamento, `todos`, CLI, MCP e documentação; teste cobre os 11 | aberto |
-| `BASE-003` | `EI` é declarado, mas `lei_ei.json` não existe | Adicionar conjunto verificado ou remover o código de todas as superfícies; consulta nunca termina em erro de módulo | aberto |
+| `BASE-002` | Busca legislativa `todos` cobre somente 6 dos 11 diplomas disponíveis | Lista única de códigos alimenta carregamento, `todos`, CLI, MCP e documentação; teste cobre os 11 | **concluído em 2026-07-17** |
+| `BASE-003` | `EI` é declarado, mas `lei_ei.json` não existe | Adicionar conjunto verificado ou remover o código de todas as superfícies; consulta nunca termina em erro de módulo | **concluído em 2026-07-17** |
 | `BASE-004` | Não existe pipeline reproduzível de atualização | Cada família possui coletor, transformação documentada, validação, versão e instrução de execução | aberto |
 
 ## P1 — integridade e proveniência
@@ -27,7 +27,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-005` | CTB informa 390 registros no metadado, mas contém 389 | Conferir na fonte e corrigir o registro ausente ou o metadado, com justificativa registrada | aberto |
 | `BASE-006` | `JT_179_T19` tem enunciado vazio | Conferir a edição oficial; restaurar o enunciado ou documentar por que o registro não representa uma tese | aberto |
 | `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | aberto |
-| `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | aberto |
+| `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | **concluído em 2026-07-17** |
 | `BASE-009` | “Fonte primária” e força jurídica não seguem taxonomia documentada | Definir e revisar rótulos para texto normativo, fonte oficial, compilação institucional, precedente e índice derivado | aberto |
 | `BASE-010` | Índices de palavras-chave não têm processo reproduzível | Versionar geração, modelo, prompt/parâmetros, relação com a base e teste de cobertura | aberto |
 
@@ -58,13 +58,23 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - o GitHub Actions executa `auditar_base_juridica.py` em `push` e `pull_request`;
 - os achados ficam visíveis no log da validação do projeto.
 
+### `BASE-002`, `BASE-003` e `BASE-008` — promessa e execução alinhadas
+
+- um registro único alimenta carregamento, busca `todos`, enum e descrição MCP;
+- os 11 diplomas existentes participam da busca global;
+- `EI` foi removido das superfícies públicas e recebe erro legível se solicitado;
+- quantidades de súmulas, teses, edições, temas e legislação são derivadas dos JSONs;
+- quatro testes de cobertura protegem códigos, carregamento e contagens;
+- um teste de integração consulta o servidor MCP e confere enum e descrição públicos;
+- o auditor deixou de emitir `ARQUIVO_DECLARADO_AUSENTE`, `COBERTURA_TODOS` e
+  `DESCRICAO_MCP`.
+
 ## Ordem sugerida de execução
 
-1. `BASE-002`, `BASE-003` e `BASE-008`, para alinhar promessa e execução do motor.
-2. `BASE-004`, antes de qualquer atualização ampla dos snapshots.
-3. `BASE-005`, `BASE-006` e `BASE-007`, consultando os materiais oficiais.
-4. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
-5. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
+1. `BASE-004`, antes de qualquer atualização ampla dos snapshots.
+2. `BASE-005`, `BASE-006` e `BASE-007`, consultando os materiais oficiais.
+3. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
+4. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento
 

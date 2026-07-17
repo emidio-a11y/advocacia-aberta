@@ -193,11 +193,20 @@ def auditar() -> dict[str, Any]:
     )
     declarados = dict(
         re.findall(
-            r'^\s{2}([A-Z]+):\s+"\.\./\.\./data/(lei_[^"]+\.json)"',
+            r'^\s{2}([A-Z]+):\s*\{\s*arquivo:\s*"\.\./\.\./data/(lei_[^"]+\.json)"',
             legislacao_ts,
             re.MULTILINE,
         )
     )
+    if not declarados:
+        # Compatibilidade com o registro simples usado antes da centralização.
+        declarados = dict(
+            re.findall(
+                r'^\s{2}([A-Z]+):\s+"\.\./\.\./data/(lei_[^"]+\.json)"',
+                legislacao_ts,
+                re.MULTILINE,
+            )
+        )
     ausentes = [
         codigo for codigo, arquivo in declarados.items() if not (DATA / arquivo).exists()
     ]
@@ -208,10 +217,25 @@ def auditar() -> dict[str, Any]:
             f"{codigo} está declarado no motor, mas seu arquivo JSON não existe.",
         )
 
+    usa_registro_central = bool(
+        re.search(
+            r'codigo === "todos"\s*\?\s*CODIGOS_DISPONIVEIS',
+            legislacao_ts,
+        )
+    )
     match_todos = re.search(
         r'codigo === "todos"\s*\?\s*\[([^]]+)\]', legislacao_ts, re.DOTALL
     )
-    codigos_todos = re.findall(r'"([A-Z]+)"', match_todos.group(1)) if match_todos else []
+    if usa_registro_central:
+        codigos_todos = [
+            codigo
+            for codigo, arquivo in declarados.items()
+            if (DATA / arquivo).exists()
+        ]
+    else:
+        codigos_todos = (
+            re.findall(r'"([A-Z]+)"', match_todos.group(1)) if match_todos else []
+        )
     disponiveis = [item["codigo"] for item in legislacao]
     fora_de_todos = sorted(set(disponiveis) - set(codigos_todos))
     if fora_de_todos:

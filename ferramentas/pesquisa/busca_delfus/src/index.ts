@@ -2,10 +2,30 @@ import { Server } from "@modelcontextprotocol/sdk/server/index.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { CallToolRequestSchema, ListToolsRequestSchema } from "@modelcontextprotocol/sdk/types.js";
 
-import { buscarSumulas, formatSumula, type Tribunal } from "./search/sumulas.js";
-import { buscarTeses, formatTese } from "./search/jt.js";
-import { buscarTemas, formatTema } from "./search/temas.js";
-import { buscarLegislacao, formatArtigo, type CodigoCodigo } from "./search/legislacao.js";
+import {
+  buscarSumulas,
+  formatSumula,
+  TOTAIS_SUMULAS,
+  type Tribunal,
+} from "./search/sumulas.js";
+import {
+  buscarTeses,
+  formatTese,
+  TOTAL_EDICOES_JT,
+  TOTAL_TESES_STJ,
+} from "./search/jt.js";
+import {
+  buscarTemas,
+  formatTema,
+  TOTAL_TEMAS_STJ,
+} from "./search/temas.js";
+import {
+  buscarLegislacao,
+  CODIGOS_DISPONIVEIS,
+  formatArtigo,
+  listarLegislacaoDisponivel,
+  normalizarCodigo,
+} from "./search/legislacao.js";
 
 // ── Server ─────────────────────────────────────────────────────────────────
 
@@ -16,11 +36,22 @@ const server = new Server(
 
 // ── Tool definitions ───────────────────────────────────────────────────────
 
-server.setRequestHandler(ListToolsRequestSchema, async () => ({
-  tools: [
+const formatarNumero = new Intl.NumberFormat("pt-BR").format;
+
+server.setRequestHandler(ListToolsRequestSchema, async () => {
+  const legislacoes = listarLegislacaoDisponivel();
+  const descricaoLegislacao = legislacoes
+    .map(
+      ({ codigo, rotulo, registros }) =>
+        `- ${codigo}: ${rotulo} — ${formatarNumero(registros)} registros`,
+    )
+    .join("\n");
+
+  return {
+    tools: [
     {
       name: "buscar_sumula",
-      description: `Busca súmulas do STJ, STF e Súmulas Vinculantes STF nas fontes primárias curadas (676 STJ + 736 STF + 63 vinculantes).
+      description: `Busca súmulas do STJ, STF e Súmulas Vinculantes STF nas fontes primárias curadas (${formatarNumero(TOTAIS_SUMULAS.STJ)} STJ + ${formatarNumero(TOTAIS_SUMULAS.STF)} STF + ${formatarNumero(TOTAIS_SUMULAS.vinculantes)} vinculantes).
 
 Aceita busca por número ("365") ou por palavras-chave ("dano moral cadastro crédito").
 
@@ -52,7 +83,7 @@ Use quando o usuário mencionar número de súmula, ou quando a questão jurídi
     },
     {
       name: "buscar_tese",
-      description: `Busca jurisprudência em teses do STJ (3.372 teses de 792 edições).
+      description: `Busca jurisprudência em teses do STJ (${formatarNumero(TOTAL_TESES_STJ)} teses de ${formatarNumero(TOTAL_EDICOES_JT)} edições).
 
 As Teses STJ consolidam o entendimento predominante do tribunal por ramo do direito.
 Força: ORIENTATIVA — reflete entendimento dominante mas NÃO vincula formalmente.
@@ -78,7 +109,7 @@ Use quando precisar do entendimento consolidado do STJ sobre um tema específico
     },
     {
       name: "buscar_tema",
-      description: `Busca temas repetitivos do STJ (1.405 temas).
+      description: `Busca temas repetitivos do STJ (${formatarNumero(TOTAL_TEMAS_STJ)} temas).
 
 Temas repetitivos são recursos afetados sob o rito dos arts. 1.036-1.041 CPC.
 A tese firmada tem efeito vinculante para casos idênticos nos tribunais inferiores.
@@ -104,18 +135,13 @@ Use quando a questão puder ser objeto de recurso repetitivo, para verificar se 
     },
     {
       name: "buscar_legislacao",
-      description: `Busca artigos de legislação brasileira: CPC, CC, CP, CDC, CF e CLT.
+      description: `Busca artigos em ${legislacoes.length} diplomas da legislação brasileira.
 
 Aceita busca por número de artigo ("art. 702", "artigo 186") ou por palavras-chave.
 Retorna o texto completo do artigo com URL canônica do Planalto.
 
 Códigos disponíveis:
-- CPC: Código de Processo Civil (Lei 13.105/2015) — 1.072 artigos
-- CC: Código Civil (Lei 10.406/2002)
-- CP: Código Penal (Decreto-Lei 2.848/1940)
-- CDC: Código de Defesa do Consumidor (Lei 8.078/1990)
-- CF: Constituição Federal de 1988
-- CLT: Consolidação das Leis do Trabalho
+${descricaoLegislacao}
 
 Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       inputSchema: {
@@ -127,7 +153,7 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
           },
           codigo: {
             type: "string",
-            enum: ["CPC", "CC", "CP", "CDC", "CF", "CLT", "todos"],
+            enum: [...CODIGOS_DISPONIVEIS, "todos"],
             description: "Código a buscar. Se informar número de artigo, especifique o código. Default: 'todos'.",
             default: "todos",
           },
@@ -138,10 +164,11 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
           },
         },
         required: ["query"],
-      },
     },
-  ],
-}));
+      },
+    ],
+  };
+});
 
 // ── Tool handlers ──────────────────────────────────────────────────────────
 
@@ -187,8 +214,22 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 
   if (name === "buscar_legislacao") {
     const query = String(args?.query ?? "");
-    const codigo = (args?.codigo ?? "todos") as CodigoCodigo | "todos";
+    const codigoInformado = String(args?.codigo ?? "todos");
+    const codigo = normalizarCodigo(codigoInformado);
     const limit = Number(args?.limit ?? 5);
+
+    if (!codigo) {
+      const disponiveis = [...CODIGOS_DISPONIVEIS, "todos"].join(", ");
+      return {
+        content: [
+          {
+            type: "text",
+            text: `Código de legislação indisponível: "${codigoInformado}". Use: ${disponiveis}.`,
+          },
+        ],
+        isError: true,
+      };
+    }
 
     const results = buscarLegislacao(query, codigo, limit);
     if (results.length === 0) {
