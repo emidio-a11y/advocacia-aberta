@@ -178,12 +178,16 @@
     "indices_auxiliares": {
       "familia": "indice_derivado",
       "adaptador": null,
-      "atualizacao": "BASE-010",
+      "atualizacao": "reproduzível desde BASE-010",
+      "gerador": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "manifesto": "base-juridica/indices-derivados.json",
+      "modelo": null,
+      "prompt": null,
       "destinos": [
         "sumulas_keywords.json",
         "sumulas_stf_keywords.json"
       ],
-      "observacao": "Não é fonte jurídica. A reprodução de modelo, prompt e parâmetros permanece no BASE-010."
+      "observacao": "Não é fonte jurídica. Os tokens são derivados local e deterministicamente dos enunciados publicados."
     }
   }
 }

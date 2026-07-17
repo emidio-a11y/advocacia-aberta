@@ -89,15 +89,16 @@ tribunais.
 
 ### Índices derivados de súmulas
 
-| Arquivo | Cobertura | Gerado em | Proveniência declarada |
+| Arquivo | Cobertura | Gerado em | Processo declarado |
 |---|---:|---:|---|
-| `sumulas_keywords.json` | 676 súmulas STJ | 2025-12-09 | `gemini-2.0-flash-lite-001` |
-| `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-01-13 | `gemini-2.0-flash-lite` |
+| `sumulas_keywords.json` | 676 súmulas STJ; 9.417 tokens | 2026-07-17 | `tokens-significativos-v1` local |
+| `sumulas_stf_keywords.json` | 736 súmulas STF; 9.385 tokens | 2026-07-17 | `tokens-significativos-v1` local |
 
-São dados derivados para recuperação, não fontes jurídicas. O repositório não contém
-o procedimento completo, o prompt, os parâmetros ou os testes usados para reproduzir
-esses índices. O índice do STJ também é anterior em oito dias ao JSON consolidado de
-súmulas do STJ.
+São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`, o
+repositório contém gerador, manifesto, parâmetros, checksums das fontes e testes de
+cobertura 1:1. O processo não usa modelo de linguagem: `modelo` e `prompt` são
+explicitamente nulos, e os tokens vêm dos enunciados publicados. A reprodução completa
+está documentada em [`indices-derivados.json`](indices-derivados.json).
 
 ## Jurisprudência em Teses do STJ
 
@@ -170,9 +171,8 @@ O fluxo registra na execução ou exige registrar na revisão de promoção, por
 - validações executadas;
 - responsável pela revisão.
 
-Os índices de palavras-chave produzidos por modelo de linguagem continuam fora da
-reprodução automática até a conclusão do `BASE-010`. Eles são enriquecimentos de
-busca, não fontes jurídicas.
+Os índices de palavras-chave são regeneráveis por processo local determinístico e
+continuam classificados como enriquecimentos de busca, não como fontes jurídicas.
 
 ## Taxonomia documental e efeito jurídico
 

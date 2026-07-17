@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/emidio-a11y/advocacia-aberta/blob/main/base-juridica/indices-derivados.schema.json",
+  "title": "Manifesto de índices derivados",
+  "type": "object",
+  "required": ["schema_version", "gerado_em", "diretorio_dados", "gerador", "conjuntos"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "gerado_em": { "type": "string", "format": "date" },
+    "diretorio_dados": { "type": "string" },
+    "gerador": {
+      "type": "object",
+      "required": ["caminho", "versao", "algoritmo", "modelo", "prompt", "parametros"],
+      "properties": {
+        "caminho": { "type": "string" },
+        "versao": { "type": "string" },
+        "algoritmo": { "type": "string" },
+        "modelo": { "type": ["string", "null"] },
+        "prompt": { "type": ["string", "null"] },
+        "parametros": { "type": "object" }
+      }
+    },
+    "conjuntos": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["fonte", "destino", "colecao", "campos_texto", "campos_copiados", "prefixo_id"],
+        "properties": {
+          "fonte": { "type": "string", "pattern": "^[^/]+\\.json$" },
+          "destino": { "type": "string", "pattern": "^[^/]+\\.json$" },
+          "colecao": { "type": "string" },
+          "campos_texto": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "campos_copiados": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "prefixo_id": { "type": "string" }
+        }
+      }
+    }
+  }
+}

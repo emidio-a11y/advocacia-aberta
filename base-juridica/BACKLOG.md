@@ -29,7 +29,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | **concluído em 2026-07-17** |
 | `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | **concluído em 2026-07-17** |
 | `BASE-009` | “Fonte primária” e força jurídica não seguem taxonomia documentada | Definir e revisar rótulos para texto normativo, fonte oficial, compilação institucional, precedente e índice derivado | **concluído em 2026-07-17** |
-| `BASE-010` | Índices de palavras-chave não têm processo reproduzível | Versionar geração, modelo, prompt/parâmetros, relação com a base e teste de cobertura | aberto |
+| `BASE-010` | Índices de palavras-chave não têm processo reproduzível | Versionar geração, modelo, prompt/parâmetros, relação com a base e teste de cobertura | **concluído em 2026-07-17** |
 
 ## P2 — robustez e evolução
 
@@ -136,10 +136,21 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - a taxonomia completa está em [`TAXONOMIA.md`](TAXONOMIA.md), e a verificação está
   em [`verificacoes/BASE-009.md`](verificacoes/BASE-009.md).
 
+### `BASE-010` — índices derivados reproduzíveis
+
+- os índices legados gerados por modelo foram substituídos por tokens derivados
+  deterministicamente dos enunciados publicados;
+- modelo e prompt são explicitamente nulos; algoritmo, parâmetros e stopwords são
+  versionados;
+- cada saída registra fonte, SHA-256, data, contagem e relação 1:1;
+- um comando verifica igualdade byte a byte e outro regenera os arquivos;
+- testes cobrem manifesto, reprodução e os 1.412 vínculos entre súmulas e índices;
+- o processo está em [`indices-derivados.json`](indices-derivados.json), e a
+  verificação em [`verificacoes/BASE-010.md`](verificacoes/BASE-010.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-010`, tornando os índices derivados reproduzíveis.
-2. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
+1. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento
 

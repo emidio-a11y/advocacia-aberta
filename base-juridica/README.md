@@ -10,6 +10,8 @@ estabilização do pipeline reproduzível de atualização já disponível nesta
 - [CATALOGO.md](CATALOGO.md) — conteúdo, cobertura, proveniência e ressalvas.
 - [BACKLOG.md](BACKLOG.md) — correções priorizadas e critérios de aceite.
 - [TAXONOMIA.md](TAXONOMIA.md) — natureza documental, proveniência e efeito jurídico.
+- [indices-derivados.json](indices-derivados.json) — geração reproduzível dos índices
+  auxiliares de busca.
 - [ATUALIZACAO.md](ATUALIZACAO.md) — coleta, transformação, validação, comparação e
   promoção controlada de snapshots.
 - [fontes.json](fontes.json) — manifesto executável das fontes oficiais e adaptadores.

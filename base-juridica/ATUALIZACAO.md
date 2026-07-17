@@ -49,9 +49,27 @@ O manifesto versionado está em [fontes.json](fontes.json), validado pelo contra
 | Temas repetitivos | Portal de Dados Abertos do STJ | metadados CKAN, `Temas.csv` e `Processos.csv` | relaciona os CSVs por `sequencialPrecedente` e produz questões, teses, processo representativo e links |
 
 Os índices `sumulas_keywords.json` e `sumulas_stf_keywords.json` são enriquecimentos
-derivados, não fontes jurídicas. Modelo, prompt e parâmetros ainda serão tratados no
-`BASE-010`; por isso o manifesto os identifica, mas este pipeline não finge que
-consegue regenerá-los.
+derivados, não fontes jurídicas. Desde o `BASE-010`, eles são produzidos localmente a
+partir dos enunciados publicados, sem modelo ou prompt externo. Algoritmo, parâmetros,
+fontes, relação 1:1 e data estão em
+[`indices-derivados.json`](indices-derivados.json).
+
+Para conferir que os arquivos publicados correspondem exatamente ao processo
+versionado:
+
+```bash
+python3 ferramentas/manutencao/gerar_indices_derivados.py --verificar
+```
+
+Depois de revisar uma atualização das súmulas, regenere os índices com:
+
+```bash
+python3 ferramentas/manutencao/gerar_indices_derivados.py --escrever
+```
+
+Cada saída registra o SHA-256 da fonte, o total de registros, a versão do gerador e os
+parâmetros. Alterar o algoritmo exige nova versão no manifesto e revisão das diferenças
+antes da promoção.
 
 ## Execução recomendada
 
