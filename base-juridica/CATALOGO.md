@@ -1,8 +1,10 @@
 # Catálogo da base jurídica
 
-**Auditoria estrutural:** 17 de julho de 2026  
-**Local atual dos dados:** `ferramentas/pesquisa/busca_delfus/data/`  
-**Escopo:** inventário, metadados, cobertura do motor e rastreabilidade interna
+| Campo | Valor |
+|---|---|
+| Auditoria estrutural | 17 de julho de 2026 |
+| Local atual dos dados | `ferramentas/pesquisa/busca_delfus/data/` |
+| Escopo | inventário, metadados, cobertura do motor e rastreabilidade interna |
 
 Este catálogo descreve o que o repositório contém. Ele **não confirma externamente**
 a vigência, a completude ou a correspondência de cada registro com a fonte oficial na
