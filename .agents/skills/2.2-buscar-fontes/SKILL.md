@@ -1,11 +1,12 @@
 ---
 name: buscar-fontes
-description: Busca súmulas vinculantes/STJ/STF, temas repetitivos e jurisprudência em teses nas fontes primárias curadas do Delfus (busca_delfus CLI) e filtra resultados relevantes por força vinculante.
+description: Busca súmulas vinculantes/STJ/STF, temas repetitivos e jurisprudência em teses na base jurídica local (busca_delfus CLI) e filtra resultados relevantes por força vinculante.
 ---
 
-# Busca de Fontes Primárias — busca_delfus
+# Busca de fontes jurídicas — base local
 
-Busca súmulas, jurisprudência em teses e temas repetitivos nas fontes primárias curadas do Delfus e filtra os resultados relevantes para o caso em discussão.
+Busca súmulas, jurisprudência em teses e temas repetitivos na base jurídica local e
+filtra os resultados relevantes para o caso em discussão.
 
 ## Instrução
 

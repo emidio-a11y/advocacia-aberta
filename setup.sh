@@ -28,7 +28,7 @@ echo "A maioria das skills já funciona sem nada disto. Vamos instalar só o ext
 echo
 
 # --- bun (para buscar-fontes) -------------------------------------------------
-azul "[1/4] bun — busca de fontes (Delfus)"
+azul "[1/4] bun — busca na base jurídica local"
 if command -v bun >/dev/null 2>&1; then ok "bun já instalado";
 else
   echo "Instalando bun..."

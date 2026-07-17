@@ -38,7 +38,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-011` | Criar testes de esquema e integridade | CI valida JSON, campos obrigatórios, contagens, URLs, códigos e referências cruzadas | aberto |
 | `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | aberto |
 | `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
-| `BASE-014` | Neutralizar o nome técnico `busca_delfus` | Migrar para `motores/pesquisa-juridica/` preservando compatibilidade temporária | aberto |
+| `BASE-014` | Neutralizar o nome legado `Delfus` | Prosa pública usa “base jurídica local”; migrar `busca_delfus` para `motores/pesquisa-juridica/` preservando compatibilidade temporária | aberto |
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
 

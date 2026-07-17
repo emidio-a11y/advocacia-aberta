@@ -47,7 +47,7 @@ Há um modelo vazio em `casos/_modelo-de-caso/`. Para um caso novo, copie-o e re
 | `organizar-caso` | Lê uma pilha de documentos e gera o `SUMARIO.md` do caso |
 | `transcrever` | Transcreve áudio/vídeo (reunião, audiência, depoimento) em texto |
 | `diagnosticar` | Mapeia forças e fragilidades do caso → `DIAGNOSTICO.md` |
-| `buscar-fontes` | Busca súmulas, leis e temas repetitivos (base Delfus, offline) |
+| `buscar-fontes` | Busca súmulas, leis e temas repetitivos (base jurídica local, offline) |
 | `buscar-tjpr` | Busca jurisprudência no portal do TJPR |
 | `redigir-peca` | Planeja e redige uma peça de qualquer tipo |
 | `revisar-peca` | Auditoria adversarial da peça (confere provas e fundamentos) |

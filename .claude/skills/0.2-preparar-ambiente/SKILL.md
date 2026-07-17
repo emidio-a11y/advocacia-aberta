@@ -11,7 +11,7 @@ ou seja, só o que for realmente necessário para o que você quer fazer:
 
 - **`transcrever`** (transcrever áudio/vídeo de audiência) precisa do `whisper-cli`, do
   `ffmpeg` e de um modelo de inteligência artificial de voz (um arquivo de cerca de 539 MB).
-- **`buscar-fontes`** (busca de súmulas e jurisprudência no Delfus) precisa do programa `bun`.
+- **`buscar-fontes`** (busca na base jurídica local) precisa do programa `bun`.
 - **`buscar-tjpr`** (busca de acórdãos no portal do TJPR) precisa do programa `uv` com
   Python 3.12. Na primeira busca, ele baixa cerca de 400 MB de um navegador automatizado.
 - **`diagramar-peca`** (geração do PDF final) precisa do programa `typst`.
@@ -26,7 +26,7 @@ quando você já souber que vai usar esses recursos e quiser deixar tudo pronto.
 Pergunte ao usuário (ou deduza do que ele já pediu) qual recurso ele quer habilitar:
 
 - **transcrição** de áudio/vídeo de audiência,
-- **busca de fontes** (Delfus),
+- **busca na base jurídica local**,
 - **busca no TJPR**,
 - **diagramação em PDF**, ou
 - **tudo** de uma vez.

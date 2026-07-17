@@ -4,7 +4,7 @@
 // nada específico de "alegações finais". Edite as cores/fontes à vontade.
 //
 // Como usar no .typ gerado (compile com `typst compile --root . <arquivo>.typ`):
-//   #import "/.claude/skills/3.2-diagramar-peca/template.typ": *
+//   #import "/.agents/skills/3.2-diagramar-peca/template.typ": *
 //   #show: peca.with(titulo: "...", juizo: "...", partes: "...")
 // =============================================================================
 

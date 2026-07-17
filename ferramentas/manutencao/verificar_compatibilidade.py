@@ -16,6 +16,7 @@ MARCADORES_INCOMPATIVEIS = {
     "$ARGUMENTS": "substituição específica de uma interface",
     ".Codex/skills": "caminho inexistente",
     ".codex/skills": "caminho incorreto para skills de repositório",
+    ".claude/skills": "dependência do espelho específico do Claude Code",
     "WebFetch": "nome de ferramenta específico do Claude Code",
     "`Read`": "nome de ferramenta específico do Claude Code",
     "você (Codex)": "instrução vinculada a um fornecedor",
@@ -50,12 +51,30 @@ def ler_frontmatter(caminho: Path) -> dict[str, str]:
     return dados
 
 
+def validar_texto_portavel(relativo: Path, texto: str) -> list[str]:
+    erros: list[str] = []
+    for marcador, motivo in MARCADORES_INCOMPATIVEIS.items():
+        if marcador in texto:
+            erros.append(f"{relativo}: contém '{marcador}' ({motivo}).")
+    for referencia in re.findall(r"/\.agents/skills/([^\s\"')]+)", texto):
+        destino = FONTE / referencia
+        if not destino.is_file():
+            erros.append(
+                f"{relativo}: arquivo auxiliar não encontrado: "
+                f".agents/skills/{referencia}"
+            )
+    return erros
+
+
 def validar() -> list[str]:
     erros: list[str] = []
 
     if not (RAIZ / "AGENTS.md").is_file():
         erros.append("AGENTS.md não encontrado na raiz.")
-    if "@AGENTS.md" not in (RAIZ / "CLAUDE.md").read_text(encoding="utf-8"):
+    claude_md = RAIZ / "CLAUDE.md"
+    if not claude_md.is_file():
+        erros.append("CLAUDE.md não encontrado na raiz.")
+    elif "@AGENTS.md" not in claude_md.read_text(encoding="utf-8"):
         erros.append("CLAUDE.md não importa AGENTS.md.")
 
     fonte = arquivos_da_arvore(FONTE)
@@ -81,17 +100,13 @@ def validar() -> list[str]:
         if not dados.get("description"):
             erros.append(f"{relativo}: frontmatter sem 'description'.")
 
-        for marcador, motivo in MARCADORES_INCOMPATIVEIS.items():
-            if marcador in texto:
-                erros.append(f"{relativo}: contém '{marcador}' ({motivo}).")
-
-        for referencia in re.findall(r"/\.agents/skills/([^\s\"')]+)", texto):
-            destino = FONTE / referencia
-            if not destino.is_file():
-                erros.append(
-                    f"{relativo}: arquivo auxiliar não encontrado: "
-                    f".agents/skills/{referencia}"
-                )
+    for relativo_na_skill, arquivo in sorted(fonte.items()):
+        try:
+            texto = arquivo.read_text(encoding="utf-8")
+        except UnicodeDecodeError:
+            continue
+        relativo = arquivo.relative_to(RAIZ)
+        erros.extend(validar_texto_portavel(relativo, texto))
 
     faltando = sorted(set(fonte) - set(espelho))
     sobrando = sorted(set(espelho) - set(fonte))
