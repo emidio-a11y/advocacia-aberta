@@ -1,4 +1,4 @@
-name: Compatibilidade das skills
+name: Validação do projeto
 
 on:
   push:
@@ -13,3 +13,6 @@ jobs:
 
       - name: Validar Agent Skills e espelho do Claude Code
         run: python3 ferramentas/manutencao/verificar_compatibilidade.py
+
+      - name: Auditar estrutura da base jurídica
+        run: python3 ferramentas/manutencao/auditar_base_juridica.py

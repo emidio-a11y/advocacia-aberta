@@ -79,6 +79,17 @@ falhar com "command not found", não desista. Avise o usuário e ofereça execut
 skill `preparar-ambiente`, que instala somente o necessário. Instale sob demanda,
 nunca tudo de uma vez sem necessidade.
 
+## Base jurídica
+
+- O inventário, a cobertura e as limitações conhecidas estão em
+  `base-juridica/CATALOGO.md`; as correções estão em `base-juridica/BACKLOG.md`.
+- Um snapshot local ajuda a localizar a fonte, mas não confirma silenciosamente
+  vigência ou exatidão na data de uso.
+- Antes e depois de alterar os JSONs ou o motor de pesquisa, rode
+  `python3 ferramentas/manutencao/auditar_base_juridica.py`.
+- Não corrija divergência de conteúdo jurídico apenas para fazer a contagem fechar.
+  Confirme a fonte oficial e registre data, mudança e validação.
+
 ## Gerenciamento de contexto
 
 `GERENCIAR-CONTEXTO.md` é um protocolo fundamental, aplicável a todas as skills. Ele

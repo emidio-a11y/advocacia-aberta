@@ -40,7 +40,7 @@ snapshots de legislação, súmulas, temas repetitivos e Jurisprudência em Tese
 O valor dessa camada não está apenas no texto público, mas na reunião, normalização,
 indexação, classificação, preservação de links e conexão com os protocolos.
 
-Requisitos futuros desta camada:
+Requisitos desta camada:
 
 - catálogo de cobertura;
 - proveniência por conjunto de dados;
@@ -106,6 +106,7 @@ pelo Git por padrão, exceto pelo modelo vazio e sua documentação.
 
 | Ativo | Local atual | Papel conceitual |
 |---|---|---|
+| Catálogo e backlog | `base-juridica/` | Governança inicial da base jurídica |
 | Legislação, súmulas, temas e teses | `ferramentas/pesquisa/busca_delfus/data/` | Base jurídica curada |
 | Motor de busca local | `ferramentas/pesquisa/busca_delfus/src/` | Motor jurídico |
 | Busca TJPR | `ferramentas/pesquisa/busca-tjpr/` | Motor jurídico externo |
@@ -185,6 +186,9 @@ Manifesto, proposta, arquitetura, vocabulário e fronteira de sigilo.
 
 Inventariar bases, motores e protocolos sem alterar seu conteúdo. Documentar cobertura,
 datas, fontes e lacunas conhecidas.
+
+**Estado:** catálogo estrutural inicial concluído em `base-juridica/CATALOGO.md`; a
+validação externa do conteúdo e da vigência permanece pendente.
 
 ### Fase 3 — Migração estrutural
 

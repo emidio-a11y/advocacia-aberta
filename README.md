@@ -30,8 +30,9 @@ O projeto nasce de ativos operacionais, não apenas de uma proposta:
 
 Esses números descrevem os arquivos presentes nesta versão. As bases são *snapshots*
 de trabalho: não significam, por si sós, vigência, completude ou atualização na data
-da consulta. Catalogar proveniência, cobertura e datas de referência é a próxima etapa
-de confiabilidade descrita na [arquitetura](ARQUITETURA.md).
+da consulta. O [catálogo da base](base-juridica/CATALOGO.md) registra proveniência,
+cobertura e limitações já identificadas; a confirmação externa e as rotinas de
+atualização continuam pendentes.
 
 ## Como a Advocacia Aberta funciona
 
@@ -109,6 +110,10 @@ controle de acesso, armazenamento seguro e julgamento profissional. Leia a
 
 - [Manifesto](MANIFESTO.md) — princípios e compromisso público.
 - [Arquitetura](ARQUITETURA.md) — ativos, camadas, estado atual e destino estrutural.
+- [Catálogo da base jurídica](base-juridica/CATALOGO.md) — inventário, cobertura,
+  proveniência e ressalvas do acervo.
+- [Backlog da base jurídica](base-juridica/BACKLOG.md) — correções priorizadas e
+  critérios de aceite.
 - [Política de sigilo e dados](SIGILO-E-DADOS.md) — fronteira público–privada.
 - [Protocolo de gerenciamento de contexto](GERENCIAR-CONTEXTO.md) — como preparar,
   selecionar e registrar o que o agente lê.
@@ -126,6 +131,7 @@ controle de acesso, armazenamento seguro e julgamento profissional. Leia a
 ├── CLAUDE.md                # ponte das mesmas instruções para Claude Code
 ├── .agents/skills/          # fonte canônica dos protocolos executáveis
 ├── .claude/skills/          # espelho gerado para Claude Code
+├── base-juridica/           # catálogo e backlog; dados ainda não foram movidos
 ├── ferramentas/
 │   ├── pesquisa/            # base e motores de pesquisa
 │   ├── processamento/       # transcrição e tratamento de documentos
@@ -151,7 +157,8 @@ O verificador também roda no GitHub Actions.
 
 ## Estado do projeto
 
-Esta remodelagem estabelece a identidade e os fundamentos da Advocacia Aberta sem
-representar como concluído o que ainda precisa ser construído. Catálogo das bases,
-rotinas de atualização, migração estrutural, testes de confiabilidade, governança de
-contribuições e licença de distribuição permanecem como etapas posteriores.
+Esta remodelagem estabelece a identidade, os fundamentos e o primeiro catálogo da
+Advocacia Aberta sem representar como concluído o que ainda precisa ser construído.
+Confirmação externa dos dados, rotinas de atualização, migração estrutural, testes de
+confiabilidade, governança de contribuições e licença de distribuição permanecem como
+etapas posteriores.
