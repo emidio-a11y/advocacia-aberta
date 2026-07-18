@@ -22,6 +22,7 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 from typing import Any, Iterable, Iterator
 from urllib.parse import quote, urljoin, urlparse
 
@@ -1329,6 +1330,363 @@ def promover(
     salvar_json(execucao_dir / "promocao.json", {"arquivos": promovidos})
 
 
+def sondar_url(url: str, desde: str | None = None) -> dict[str, Any]:
+    """GET condicional que descarta o corpo; devolve código HTTP e cabeçalhos.
+
+    Com ``desde`` (data ISO), envia ``If-Modified-Since``: servidores que
+    suportam o cabeçalho respondem 304 sem corpo quando nada mudou.
+    """
+    validar_url_oficial(url)
+    with tempfile.TemporaryDirectory() as temp:
+        corpo = Path(temp) / "corpo"
+        cabecalhos_path = Path(temp) / "cabecalhos"
+        comando = [
+            "curl",
+            "--location",
+            "--fail",
+            "--silent",
+            "--show-error",
+            "--compressed",
+            "--retry",
+            "2",
+            "--retry-all-errors",
+            "--connect-timeout",
+            "20",
+            "--max-time",
+            "120",
+            "--user-agent",
+            USER_AGENT,
+            "--dump-header",
+            str(cabecalhos_path),
+            "--write-out",
+            "%{http_code}\t%{url_effective}",
+            "--output",
+            str(corpo),
+        ]
+        if desde:
+            comando.extend(["--time-cond", desde])
+        comando.append(url)
+        resultado = subprocess.run(
+            comando, check=True, capture_output=True, text=True
+        )
+        codigo_texto, _, url_efetiva = resultado.stdout.strip().partition("\t")
+        validar_url_oficial(url_efetiva or url)
+        cabecalhos = ler_cabecalhos(cabecalhos_path)
+    return {
+        "http": int(codigo_texto or 0),
+        "url": url,
+        "url_efetiva": url_efetiva or url,
+        "etag": cabecalhos.get("etag"),
+        "last_modified": cabecalhos.get("last-modified"),
+    }
+
+
+def instante_utc(valor: str) -> datetime | None:
+    texto = valor.strip()
+    if not texto:
+        return None
+    if texto.endswith("Z"):
+        texto = texto[:-1] + "+00:00"
+    try:
+        instante = datetime.fromisoformat(texto)
+    except ValueError:
+        return None
+    if instante.tzinfo is None:
+        instante = instante.replace(tzinfo=timezone.utc)
+    return instante.astimezone(timezone.utc)
+
+
+def monitorar_legislacao(
+    config: dict[str, Any], publicados: Path
+) -> list[dict[str, Any]]:
+    itens: list[dict[str, Any]] = []
+    for fonte in config.get("fontes", []):
+        codigo = fonte.get("codigo") or fonte.get("destino") or fonte["url"]
+        caminho = publicados / fonte["destino"]
+        if not caminho.exists():
+            itens.append(
+                {
+                    "alvo": codigo,
+                    "situacao": "indeterminado",
+                    "detalhe": f"{fonte['destino']} não existe no diretório publicado",
+                }
+            )
+            continue
+        publicado = carregar_json(caminho)
+        meta = publicado.get("_meta")
+        if not isinstance(meta, dict):
+            meta = publicado
+        gerado_em = str(meta.get("gerado_em") or "")
+        try:
+            sonda = sondar_url(fonte["url"], desde=gerado_em or None)
+        except (RuntimeError, ValueError, subprocess.CalledProcessError) as erro:
+            itens.append({"alvo": codigo, "situacao": "erro", "detalhe": str(erro)})
+            continue
+        if sonda["http"] == 304:
+            situacao = "sem_mudanca"
+            detalhe = f"fonte não modificada desde o snapshot de {gerado_em}"
+        elif sonda["http"] == 200:
+            situacao = "mudou" if gerado_em else "indeterminado"
+            detalhe = (
+                "fonte modificada em "
+                f"{sonda.get('last_modified') or 'data não informada'}; "
+                f"snapshot local de {gerado_em or 'data desconhecida'}"
+            )
+        else:
+            situacao = "indeterminado"
+            detalhe = f"resposta HTTP {sonda['http']}"
+        itens.append(
+            {
+                "alvo": codigo,
+                "situacao": situacao,
+                "detalhe": detalhe,
+                "gerado_em": gerado_em,
+                "last_modified": sonda.get("last_modified"),
+            }
+        )
+    return itens
+
+
+def contar_catalogo_sumulas_stj(caminho: Path) -> int:
+    arvore = analisar_html(decodificar_html(caminho))
+    total = 0
+    for bloco in buscar(arvore, classe="gridSumula"):
+        if primeiro(bloco, classe="numeroSumula") is None:
+            continue
+        if primeiro(bloco, classe="blocoVerbete") is None:
+            continue
+        total += 1
+    return total
+
+
+def monitorar_sumulas_stj(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    fonte = config["fontes"][0]
+    catalogo = temp / "catalogo.html"
+    baixar(fonte["url"], catalogo)
+    total_fonte = contar_catalogo_sumulas_stj(catalogo)
+    if not total_fonte:
+        raise RuntimeError("catálogo do STJ não contém súmulas reconhecíveis")
+    publicado = carregar_json(publicados / config["destino"])
+    total_publicado = len(publicado.get(config.get("chave_colecao", "sumulas"), {}))
+    if total_fonte != total_publicado:
+        situacao = "mudou"
+        detalhe = (
+            f"catálogo oficial com {total_fonte} súmulas; "
+            f"snapshot local com {total_publicado}"
+        )
+    else:
+        situacao = "sem_mudanca"
+        detalhe = (
+            f"contagem igual ({total_fonte}); mudanças de estado sem alteração "
+            "de contagem não são detectadas por este sinal"
+        )
+    return [{"alvo": "catalogo", "situacao": situacao, "detalhe": detalhe}]
+
+
+ROTULOS_STATUS = {
+    "ativa": "ativas",
+    "aprovada": "aprovadas",
+    "alterada": "alteradas",
+    "cancelada": "canceladas",
+    "superada": "superadas",
+    "suspensa": "suspensas",
+}
+
+
+def monitorar_sumulas_stf(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    fonte = config["fontes"][0]
+    catalogo = temp / "catalogo.html"
+    baixar(fonte["url"], catalogo)
+    itens_catalogo = extrair_catalogo_stf(
+        decodificar_html(catalogo), bool(config.get("vinculante"))
+    )
+    if not itens_catalogo:
+        raise RuntimeError("catálogo do STF não contém súmulas reconhecíveis")
+    contagem_fonte = Counter(item["status"] for item in itens_catalogo)
+    registros = carregar_json(publicados / config["destino"]).get(
+        config.get("chave_colecao", "sumulas"), {}
+    )
+    contagem_publicada = Counter(
+        str(item.get("status", "")) for item in registros.values()
+    )
+    diferencas: list[str] = []
+    if len(itens_catalogo) != len(registros):
+        diferencas.append(
+            f"total {len(itens_catalogo)} na fonte vs {len(registros)} no snapshot"
+        )
+    for status in sorted(set(contagem_fonte) | set(contagem_publicada)):
+        if contagem_fonte[status] != contagem_publicada[status]:
+            rotulo = ROTULOS_STATUS.get(status, status)
+            diferencas.append(
+                f"{rotulo}: {contagem_fonte[status]} na fonte vs "
+                f"{contagem_publicada[status]} no snapshot"
+            )
+    if diferencas:
+        situacao = "mudou"
+        detalhe = "; ".join(diferencas)
+    else:
+        situacao = "sem_mudanca"
+        detalhe = (
+            f"contagens por estado iguais ({len(itens_catalogo)} súmulas); "
+            "alterações de enunciado não são detectadas por este sinal"
+        )
+    return [{"alvo": "catalogo", "situacao": situacao, "detalhe": detalhe}]
+
+
+def monitorar_jt(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    fonte = config["fontes"][0]
+    indice_path = temp / "indice.html"
+    baixar(fonte["url"], indice_path)
+    indice = decodificar_html(indice_path)
+    numeros = [
+        int(valor)
+        for valor in re.findall(r'class="numeroSumula">\s*(\d+)\s*<', indice)
+    ]
+    numeros.extend(
+        int(valor) for valor in re.findall(r'data-edicao="(\d+)"', indice)
+    )
+    if not numeros:
+        raise RuntimeError("não foi possível determinar a edição mais recente do STJ")
+    edicao_fonte = max(numeros)
+    teses = carregar_json(publicados / config["destino"]).get(
+        config.get("chave_colecao", "teses"), {}
+    )
+    edicao_publicada = max(
+        (int(item.get("edicao") or 0) for item in teses.values()), default=0
+    )
+    if edicao_fonte != edicao_publicada:
+        situacao = "mudou"
+        detalhe = (
+            f"edição mais recente {edicao_fonte} na fonte; "
+            f"snapshot local vai até a {edicao_publicada}"
+        )
+    else:
+        situacao = "sem_mudanca"
+        detalhe = (
+            f"edição mais recente igual ({edicao_fonte}); revisões de edições "
+            "antigas não são detectadas por este sinal"
+        )
+    return [{"alvo": "indice", "situacao": situacao, "detalhe": detalhe}]
+
+
+def monitorar_temas(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    fonte = next(
+        item for item in config["fontes"] if item.get("id") == "metadados"
+    )
+    metadados_path = temp / "metadados.json"
+    baixar(fonte["url"], metadados_path)
+    recursos = (carregar_json(metadados_path).get("result") or {}).get(
+        "resources"
+    ) or []
+    meta = carregar_json(publicados / config["destino"]).get("_meta") or {}
+    base = instante_utc(str(meta.get("generatedAt") or ""))
+    mais_recente: datetime | None = None
+    recurso_alvo = ""
+    for recurso in recursos:
+        instante = instante_utc(str(recurso.get("last_modified") or ""))
+        if instante and (mais_recente is None or instante > mais_recente):
+            mais_recente = instante
+            recurso_alvo = str(recurso.get("name") or "")
+    if base is None or mais_recente is None:
+        situacao = "indeterminado"
+        detalhe = "datas de referência ausentes no snapshot ou nos metadados CKAN"
+    elif mais_recente > base:
+        situacao = "mudou"
+        detalhe = (
+            f"recurso {recurso_alvo} atualizado em "
+            f"{mais_recente.isoformat(timespec='seconds')}; snapshot local de "
+            f"{base.isoformat(timespec='seconds')}"
+        )
+    else:
+        situacao = "sem_mudanca"
+        detalhe = (
+            "nenhum recurso do dataset foi atualizado depois do snapshot local; "
+            "reenvio de conteúdo idêntico ainda contaria como mudança"
+        )
+    return [{"alvo": "ckan", "situacao": situacao, "detalhe": detalhe}]
+
+
+MONITORES_POR_ADAPTADOR = {
+    "sumulas_stj_html_v1": monitorar_sumulas_stj,
+    "sumulas_stf_html_v1": monitorar_sumulas_stf,
+    "jt_stj_html_v1": monitorar_jt,
+    "temas_stj_csv_v1": monitorar_temas,
+}
+
+
+def monitorar_conjuntos(
+    dados: dict[str, Any], ids: Iterable[str], publicados: Path
+) -> dict[str, Any]:
+    resultado: dict[str, Any] = {
+        "verificado_em": agora_utc(),
+        "conjuntos": {},
+        "mudancas": 0,
+        "erros": 0,
+    }
+    for conjunto_id in ids:
+        config = dados["conjuntos"][conjunto_id]
+        adaptador = config.get("adaptador")
+        try:
+            if adaptador == "planalto_html_v1":
+                itens = monitorar_legislacao(config, publicados)
+            elif adaptador in MONITORES_POR_ADAPTADOR:
+                with tempfile.TemporaryDirectory() as temp:
+                    itens = MONITORES_POR_ADAPTADOR[adaptador](
+                        config, publicados, Path(temp)
+                    )
+            else:
+                itens = [
+                    {
+                        "alvo": conjunto_id,
+                        "situacao": "indeterminado",
+                        "detalhe": f"adaptador sem sinal de monitoramento: {adaptador}",
+                    }
+                ]
+        except (
+            OSError,
+            RuntimeError,
+            ValueError,
+            KeyError,
+            StopIteration,
+            subprocess.CalledProcessError,
+        ) as erro:
+            itens = [
+                {"alvo": conjunto_id, "situacao": "erro", "detalhe": str(erro)}
+            ]
+        resultado["conjuntos"][conjunto_id] = itens
+        resultado["mudancas"] += sum(
+            1 for item in itens if item["situacao"] == "mudou"
+        )
+        resultado["erros"] += sum(
+            1 for item in itens if item["situacao"] == "erro"
+        )
+    resultado["mudancas_detectadas"] = resultado["mudancas"] > 0
+    return resultado
+
+
+def imprimir_monitoramento(resultado: dict[str, Any]) -> None:
+    print(f"Verificação de fontes em {resultado['verificado_em']}")
+    for conjunto_id, itens in resultado["conjuntos"].items():
+        for item in itens:
+            print(
+                f"[{item['situacao']}] {conjunto_id}/{item['alvo']}: "
+                f"{item['detalhe']}"
+            )
+    print(
+        f"Total: {resultado['mudancas']} sinal(is) de mudança, "
+        f"{resultado['erros']} erro(s). O sinal indica que vale preparar um "
+        "candidato; a confirmação vem do relatório de diferenças."
+    )
+
+
 def imprimir_validacao(resultado: dict[str, list[str]]) -> bool:
     ok = True
     for conjunto, erros in resultado.items():
@@ -1352,6 +1710,12 @@ def parser_cli() -> argparse.ArgumentParser:
         comando = sub.add_parser(acao)
         comando.add_argument("--execucao", required=True)
         comando.add_argument("--conjunto", default="todos")
+    comando_monitorar = sub.add_parser(
+        "monitorar",
+        help="verifica sinais de mudança nas fontes sem preparar candidatos",
+    )
+    comando_monitorar.add_argument("--conjunto", default="todos")
+    comando_monitorar.add_argument("--json", action="store_true")
     comando_promover = sub.add_parser("promover")
     comando_promover.add_argument("--execucao", required=True)
     comando_promover.add_argument("--conjunto", default="todos")
@@ -1375,9 +1739,18 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     ids = ids_selecionados(dados, args.conjunto)
+    publicados = ROOT / dados["diretorio_publicado"]
+
+    if args.acao == "monitorar":
+        resultado = monitorar_conjuntos(dados, ids, publicados)
+        if args.json:
+            print(json.dumps(resultado, ensure_ascii=False, indent=2))
+        else:
+            imprimir_monitoramento(resultado)
+        return 0
+
     execucao_dir = caminho_execucao(args.area, args.execucao)
     execucao_dir.mkdir(parents=True, exist_ok=True)
-    publicados = ROOT / dados["diretorio_publicado"]
     recibo = carregar_recibo(execucao_dir, dados["pipeline_version"])
 
     if args.acao in {"coletar", "executar"}:

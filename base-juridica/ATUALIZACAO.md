@@ -71,6 +71,44 @@ Cada saída registra o SHA-256 da fonte, o total de registros, a versão do gera
 parâmetros. Alterar o algoritmo exige nova versão no manifesto e revisão das diferenças
 antes da promoção.
 
+## Monitoramento de mudanças
+
+O subcomando `monitorar` responde, sem preparar candidatos nem tocar nos dados
+publicados, à pergunta "alguma fonte mudou desde o snapshot promovido?":
+
+```bash
+python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar
+python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar --conjunto legislacao --json
+```
+
+Sinal utilizado por família:
+
+| Família | Sinal | Custo |
+|---|---|---|
+| Legislação | GET condicional (`If-Modified-Since` com o `gerado_em` do snapshot); o Planalto responde 304 quando nada mudou | ~zero quando não há mudança |
+| Súmulas STJ | contagem de súmulas no catálogo oficial vs snapshot | download de 1 página |
+| Súmulas STF e vinculantes | contagem por estado (ativas, canceladas etc.) no catálogo vs snapshot | download de 1 página |
+| Jurisprudência em Teses | edição mais recente do índice vs snapshot | download de 1 página |
+| Temas repetitivos | `last_modified` dos recursos na API CKAN do STJ vs `generatedAt` do snapshot | 1 JSON pequeno |
+
+Limitações declaradas do sinal:
+
+- ele indica que **vale preparar um candidato**; a confirmação material vem do
+  relatório de diferenças da execução completa;
+- `Last-Modified` do Planalto pode mudar por republicação sem alteração
+  normativa (observado em republicação em massa de 23/04/2026);
+- mudanças de estado de súmulas STJ sem alteração de contagem, revisões de
+  edições antigas da Jurisprudência em Teses e alterações de enunciado no STF
+  não são captadas pelos sinais baratos;
+- reenvio de conteúdo idêntico no CKAN do STJ conta como mudança (os hashes dos
+  recursos não são publicados pelo portal);
+- falha de uma fonte não interrompe o monitor: aparece como `erro` no relatório.
+
+O GitHub Actions `monitorar-base.yml` executa o monitor semanalmente e abre ou
+atualiza uma issue quando há sinais de mudança ou erros. Nenhuma etapa
+automatizada promove dados: a preparação, a revisão e a promoção continuam
+seguindo este protocolo.
+
 ## Execução recomendada
 
 Use uma identificação legível, normalmente a data da coleta:

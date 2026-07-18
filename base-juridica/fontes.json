@@ -30,14 +30,14 @@
         {
           "id": "cdc",
           "codigo": "CDC",
-          "url": "https://www.planalto.gov.br/ccivil_03/leis/L8078compilado.htm",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
           "arquivo_bruto": "cdc.html",
           "destino": "lei_cdc.json"
         },
         {
           "id": "ce",
           "codigo": "CE",
-          "url": "https://www.planalto.gov.br/ccivil_03/leis/L4737compilado.htm",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
           "arquivo_bruto": "ce.html",
           "destino": "lei_ce.json"
         },
@@ -51,28 +51,28 @@
         {
           "id": "clt",
           "codigo": "CLT",
-          "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
           "arquivo_bruto": "clt.html",
           "destino": "lei_clt.json"
         },
         {
           "id": "cp",
           "codigo": "CP",
-          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del2848compilado.htm",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
           "arquivo_bruto": "cp.html",
           "destino": "lei_cp.json"
         },
         {
           "id": "cpc",
           "codigo": "CPC",
-          "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105compilada.htm",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm",
           "arquivo_bruto": "cpc.html",
           "destino": "lei_cpc.json"
         },
         {
           "id": "cpp",
           "codigo": "CPP",
-          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del3689Compilado.htm",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
           "arquivo_bruto": "cpp.html",
           "destino": "lei_cpp.json"
         },

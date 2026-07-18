@@ -41,8 +41,32 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-014` | Retirar o identificador legado do motor | Adotar `Vade Mecum`/`vade-mecum` em caminhos, pacote, MCP, setup, skills, CI e documentação, sem alias com o nome anterior | **concluído em 2026-07-17** |
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
+| `BASE-017` | Não existe detecção de mudança nem agendamento; a atualização depende de alguém lembrar | Comando barato responde "a fonte mudou?" por família, sem preparar candidatos; execução agendada publica o resultado; a promoção continua humana | **concluído em 2026-07-18** |
+| `BASE-018` | O adaptador de legislação captura `title_name` genérico ("TÍTULO I") onde o snapshot legado tinha o nome real ("DOS PRINCÍPIOS FUNDAMENTAIS") | O adaptador extrai os nomes reais de títulos e capítulos das páginas do Planalto, com teste; o motor não consome o campo hoje, então o item é de qualidade do dado | aberto |
 
 ## Itens concluídos
+
+### `BASE-017` — monitoramento de mudanças nas fontes
+
+- o subcomando `monitorar` verifica as seis famílias sem preparar candidatos e
+  sem tocar nos dados publicados;
+- legislação usa GET condicional (`If-Modified-Since` com o `gerado_em` do
+  snapshot; o Planalto responde 304 quando nada mudou), súmulas comparam
+  contagens por estado nos catálogos oficiais, Jurisprudência em Teses compara a
+  edição mais recente do índice e temas repetitivos usam o `last_modified` da
+  API CKAN do STJ;
+- as URLs do Planalto no manifesto passaram a usar o caminho minúsculo
+  canônico, eliminando o redirecionamento 301 que impedia a resposta 304;
+- falha de uma fonte aparece como `erro` no relatório sem interromper o
+  monitor; a saída `--json` alimenta automação;
+- o GitHub Actions `monitorar-base.yml` roda o monitor semanalmente e abre ou
+  atualiza uma issue quando há sinal de mudança ou erro; nenhuma etapa
+  automatizada promove dados;
+- oito testes cobrem os sinais por família, o tratamento de erro e a CLI;
+- as limitações de cada sinal estão declaradas em
+  [`ATUALIZACAO.md`](ATUALIZACAO.md);
+- a verificação completa está em
+  [`verificacoes/BASE-017.md`](verificacoes/BASE-017.md).
 
 ### `BASE-001` — links oficiais na saída
 
@@ -180,6 +204,8 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 1. `BASE-011`, ampliando validações de esquema e integridade.
 2. `BASE-013`, versionando snapshots e diferenças.
+3. `BASE-018`, recuperando os nomes reais de títulos e capítulos no adaptador de
+   legislação.
 
 ## Regra de encerramento
 

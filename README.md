@@ -117,7 +117,8 @@ controle de acesso, armazenamento seguro e julgamento profissional. Leia a
 - [Backlog da base jurídica](base-juridica/BACKLOG.md) — correções priorizadas e
   critérios de aceite.
 - [Atualização da base jurídica](base-juridica/ATUALIZACAO.md) — pipeline seguro e
-  reproduzível para preparar novos snapshots.
+  reproduzível para preparar novos snapshots, com monitoramento agendado que
+  detecta mudanças nas fontes oficiais sem promover nada sozinho.
 - [Política de sigilo e dados](SIGILO-E-DADOS.md) — fronteira público–privada.
 - [Protocolo de gerenciamento de contexto](GERENCIAR-CONTEXTO.md) — como preparar,
   selecionar e registrar o que o agente lê.
