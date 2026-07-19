@@ -1,0 +1,223 @@
+{
+  "_meta": {
+    "codigo": "LC105",
+    "nome": "Quebra Sigilo Bancário",
+    "lei": "Lei Complementar 105/2001",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm",
+    "total_artigos": 13,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o As instituições financeiras conservarão sigilo em suas operações ativas e passivas e serviços prestados.\n\n§ 1o São consideradas instituições financeiras, para os efeitos desta Lei Complementar:\n\nI – os bancos de qualquer espécie;\n\nII – distribuidoras de valores mobiliários;\n\nIII – corretoras de câmbio e de valores mobiliários;\n\nIV – sociedades de crédito, financiamento e investimentos;\n\nV – sociedades de crédito imobiliário;\n\nVI – administradoras de cartões de crédito;\n\nVII – sociedades de arrendamento mercantil;\n\nVIII – administradoras de mercado de balcão organizado;\n\nIX – cooperativas de crédito;\n\nX – associações de poupança e empréstimo;\n\nXI – bolsas de valores e de mercadorias e futuros;\n\nXII – entidades de liquidação e compensação;\n\nXIII – outras sociedades que, em razão da natureza de suas operações, assim venham a ser consideradas pelo Conselho Monetário Nacional.\n\n§ 2o As empresas de fomento comercial ou factoring, para os efeitos desta Lei Complementar, obedecerão às normas aplicáveis às instituições financeiras previstas no § 1o.\n\n§ 3o Não constitui violação do dever de sigilo:\n\nI – a troca de informações entre instituições financeiras, para fins cadastrais, inclusive por intermédio de centrais de risco, observadas as normas baixadas pelo Conselho Monetário Nacional e pelo Banco Central do Brasil;\n\nII - o fornecimento de informações constantes de cadastro de emitentes de cheques sem provisão de fundos e de devedores inadimplentes, a entidades de proteção ao crédito, observadas as normas baixadas pelo Conselho Monetário Nacional e pelo Banco Central do Brasil;\n\nIII – o fornecimento das informações de que trata o § 2o do art. 11 da Lei no 9.311, de 24 de outubro de 1996;\n\nIV – a comunicação, às autoridades competentes, da prática de ilícitos penais ou administrativos, abrangendo o fornecimento de informações sobre operações que envolvam recursos provenientes de qualquer prática criminosa;\n\nV – a revelação de informações sigilosas com o consentimento expresso dos interessados;\n\nVI – a prestação de informações nos termos e condições estabelecidos nos artigos 2o, 3o, 4o, 5o, 6o, 7o e 9 desta Lei Complementar.\n\nVII - o fornecimento de dados financeiros e de pagamentos, relativos a operações de crédito e obrigações de pagamento adimplidas ou em andamento de pessoas naturais ou jurídicas, a gestores de bancos de dados, para formação de histórico de crédito, nos termos de lei específica. (Incluído pela Lei Complementar nº 166, de 2019) (Vigência)\n\nVIII - a prestação ou publicação de informações relativas à identificação dos beneficiários pessoas jurídicas e dos valores aproveitados na concessão de incentivo ou benefício de natureza tributária, financeira ou creditícia que implique diminuição de receita ou aumento de despesa. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 4o A quebra de sigilo poderá ser decretada, quando necessária para apuração de ocorrência de qualquer ilícito, em qualquer fase do inquérito ou do processo judicial, e especialmente nos seguintes crimes:\n\nI – de terrorismo;\n\nII – de tráfico ilícito de substâncias entorpecentes ou drogas afins;\n\nIII – de contrabando ou tráfico de armas, munições ou material destinado a sua produção;\n\nIV – de extorsão mediante seqüestro;\n\nV – contra o sistema financeiro nacional;\n\nVI – contra a Administração Pública;\n\nVII – contra a ordem tributária e a previdência social;\n\nVIII – lavagem de dinheiro ou ocultação de bens, direitos e valores;\n\nIX – praticado por organização criminosa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%201o%20As%20institui%C3%A7%C3%B5es%20financeiras%20conservar%C3%A3o%20sigilo%20em%20suas%20opera%C3%A7%C3%B5es%20ativas%20e%20passivas%20e%20servi%C3%A7os%20prestados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o O dever de sigilo é extensivo ao Banco Central do Brasil, em relação às operações que realizar e às informações que obtiver no exercício de suas atribuições.\n\n§ 1o O sigilo, inclusive quanto a contas de depósitos, aplicações e investimentos mantidos em instituições financeiras, não pode ser oposto ao Banco Central do Brasil:\n\nI – no desempenho de suas funções de fiscalização, compreendendo a apuração, a qualquer tempo, de ilícitos praticados por controladores, administradores, membros de conselhos estatutários, gerentes, mandatários e prepostos de instituições financeiras;\n\nII – ao proceder a inquérito em instituição financeira submetida a regime especial.\n\n§ 2o As comissões encarregadas dos inquéritos a que se refere o inciso II do § 1o poderão examinar quaisquer documentos relativos a bens, direitos e obrigações das instituições financeiras, de seus controladores, administradores, membros de conselhos estatutários, gerentes, mandatários e prepostos, inclusive contas correntes e operações com outras instituições financeiras.\n\n§ 3o O disposto neste artigo aplica-se à Comissão de Valores Mobiliários, quando se tratar de fiscalização de operações e serviços no mercado de valores mobiliários, inclusive nas instituições financeiras que sejam companhias abertas.\n\n§ 4o O Banco Central do Brasil e a Comissão de Valores Mobiliários, em suas áreas de competência, poderão firmar convênios:\n\nI - com outros órgãos públicos fiscalizadores de instituições financeiras, objetivando a realização de fiscalizações conjuntas, observadas as respectivas competências;\n\nII - com bancos centrais ou entidades fiscalizadoras de outros países, objetivando:\n\na) a fiscalização de filiais e subsidiárias de instituições financeiras estrangeiras, em funcionamento no Brasil e de filiais e subsidiárias, no exterior, de instituições financeiras brasileiras;\n\nb) a cooperação mútua e o intercâmbio de informações para a investigação de atividades ou operações que impliquem aplicação, negociação, ocultação ou transferência de ativos financeiros e de valores mobiliários relacionados com a prática de condutas ilícitas.\n\n§ 5o O dever de sigilo de que trata esta Lei Complementar estende-se aos órgãos fiscalizadores mencionados no § 4o e a seus agentes.\n\n§ 6o O Banco Central do Brasil, a Comissão de Valores Mobiliários e os demais órgãos de fiscalização, nas áreas de suas atribuições, fornecerão ao Conselho de Controle de Atividades Financeiras – COAF, de que trata o art. 14 da Lei no 9.613, de 3 de março de 1998, as informações cadastrais e de movimento de valores relativos às operações previstas no inciso I do art. 11 da referida Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%202o%20O%20dever%20de%20sigilo%20%C3%A9%20extensivo%20ao%20Banco%20Central%20do%20Brasil%2C%20em%20rela%C3%A7%C3%A3o%20%C3%A0s%20opera%C3%A7%C3%B5es%20que%20realizar%20e%20%C3%A0s%20informa%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Serão prestadas pelo Banco Central do Brasil, pela Comissão de Valores Mobiliários e pelas instituições financeiras as informações ordenadas pelo Poder Judiciário, preservado o seu caráter sigiloso mediante acesso restrito às partes, que delas não poderão servir-se para fins estranhos à lide.\n\n§ 1o Dependem de prévia autorização do Poder Judiciário a prestação de informações e o fornecimento de documentos sigilosos solicitados por comissão de inquérito administrativo destinada a apurar responsabilidade de servidor público por infração praticada no exercício de suas atribuições, ou que tenha relação com as atribuições do cargo em que se encontre investido.\n\n§ 2o Nas hipóteses do § 1o, o requerimento de quebra de sigilo independe da existência de processo judicial em curso.\n\n§ 3o Além dos casos previstos neste artigo o Banco Central do Brasil e a Comissão de Valores Mobiliários fornecerão à Advocacia-Geral da União as informações e os documentos necessários à defesa da União nas ações em que seja parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%203o%20Ser%C3%A3o%20prestadas%20pelo%20Banco%20Central%20do%20Brasil%2C%20pela%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20e%20pelas%20institui%C3%A7%C3%B5es%20financeiras%20as%20informa%C3%A7%C3%B5es%20ordenadas%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O Banco Central do Brasil e a Comissão de Valores Mobiliários, nas áreas de suas atribuições, e as instituições financeiras fornecerão ao Poder Legislativo Federal as informações e os documentos sigilosos que, fundamentadamente, se fizerem necessários ao exercício de suas respectivas competências constitucionais e legais.\n\n§ 1o As comissões parlamentares de inquérito, no exercício de sua competência constitucional e legal de ampla investigação, obterão as informações e documentos sigilosos de que necessitarem, diretamente das instituições financeiras, ou por intermédio do Banco Central do Brasil ou da Comissão de Valores Mobiliários.\n\n§ 2o As solicitações de que trata este artigo deverão ser previamente aprovadas pelo Plenário da Câmara dos Deputados, do Senado Federal, ou do plenário de suas respectivas comissões parlamentares de inquérito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%204o%20O%20Banco%20Central%20do%20Brasil%20e%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20nas%20%C3%A1reas%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20e%20as%20institui%C3%A7%C3%B5es%20financeiras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O Poder Executivo disciplinará, inclusive quanto à periodicidade e aos limites de valor, os critérios segundo os quais as instituições financeiras informarão à administração tributária da União, as operações financeiras efetuadas pelos usuários de seus serviços. (Regulamento)\n\n§ 1o Consideram-se operações financeiras, para os efeitos deste artigo:\n\nI – depósitos à vista e a prazo, inclusive em conta de poupança;\n\nII – pagamentos efetuados em moeda corrente ou em cheques;\n\nIII – emissão de ordens de crédito ou documentos assemelhados;\n\nIV – resgates em contas de depósitos à vista ou a prazo, inclusive de poupança;\n\nV – contratos de mútuo;\n\nVI – descontos de duplicatas, notas promissórias e outros títulos de crédito;\n\nVII – aquisições e vendas de títulos de renda fixa ou variável;\n\nVIII – aplicações em fundos de investimentos;\n\nIX – aquisições de moeda estrangeira;\n\nX – conversões de moeda estrangeira em moeda nacional;\n\nXI – transferências de moeda e outros valores para o exterior;\n\nXII – operações com ouro, ativo financeiro;\n\nXIII - operações com cartão de crédito;\n\nXIV - operações de arrendamento mercantil; e\n\nXV – quaisquer outras operações de natureza semelhante que venham a ser autorizadas pelo Banco Central do Brasil, Comissão de Valores Mobiliários ou outro órgão competente.\n\n§ 2o As informações transferidas na forma do caput deste artigo restringir-se-ão a informes relacionados com a identificação dos titulares das operações e os montantes globais mensalmente movimentados, vedada a inserção de qualquer elemento que permita identificar a sua origem ou a natureza dos gastos a partir deles efetuados.\n\n§ 3o Não se incluem entre as informações de que trata este artigo as operações financeiras efetuadas pelas administrações direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios.\n\n§ 4o Recebidas as informações de que trata este artigo, se detectados indícios de falhas, incorreções ou omissões, ou de cometimento de ilícito fiscal, a autoridade interessada poderá requisitar as informações e os documentos de que necessitar, bem como realizar fiscalização ou auditoria para a adequada apuração dos fatos.\n\n§ 5o As informações a que refere este artigo serão conservadas sob sigilo fiscal, na forma da legislação em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%205o%20O%20Poder%20Executivo%20disciplinar%C3%A1%2C%20inclusive%20quanto%20%C3%A0%20periodicidade%20e%20aos%20limites%20de%20valor%2C%20os%20crit%C3%A9rios%20segundo%20os%20quais%20as%20institui%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o As autoridades e os agentes fiscais tributários da União, dos Estados, do Distrito Federal e dos Municípios somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras, quando houver processo administrativo instaurado ou procedimento fiscal em curso e tais exames sejam considerados indispensáveis pela autoridade administrativa competente. (Regulamento)\n\nParágrafo único. O resultado dos exames, as informações e os documentos a que se refere este artigo serão conservados em sigilo, observada a legislação tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%206o%20As%20autoridades%20e%20os%20agentes%20fiscais%20tribut%C3%A1rios%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%20somente%20poder%C3%A3o%20examinar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Sem prejuízo do disposto no § 3o do art. 2o, a Comissão de Valores Mobiliários, instaurado inquérito administrativo, poderá solicitar à autoridade judiciária competente o levantamento do sigilo junto às instituições financeiras de informações e documentos relativos a bens, direitos e obrigações de pessoa física ou jurídica submetida ao seu poder disciplinar.\n\nParágrafo único. O Banco Central do Brasil e a Comissão de Valores Mobiliários, manterão permanente intercâmbio de informações acerca dos resultados das inspeções que realizarem, dos inquéritos que instaurarem e das penalidades que aplicarem, sempre que as informações forem necessárias ao desempenho de suas atividades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%207o%20Sem%20preju%C3%ADzo%20do%20disposto%20no%20%C2%A7%203o%20do%20art.%202o%2C%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20instaurado%20inqu%C3%A9rito%20administrativo%2C%20poder%C3%A1%20solicitar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o O cumprimento das exigências e formalidades previstas nos artigos 4o, 6o e 7o, será expressamente declarado pelas autoridades competentes nas solicitações dirigidas ao Banco Central do Brasil, à Comissão de Valores Mobiliários ou às instituições financeiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%208o%20O%20cumprimento%20das%20exig%C3%AAncias%20e%20formalidades%20previstas%20nos%20artigos%204o%2C%206o%20e%207o%2C%20ser%C3%A1%20expressamente%20declarado%20pelas%20autoridades%20competentes%20nas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Quando, no exercício de suas atribuições, o Banco Central do Brasil e a Comissão de Valores Mobiliários verificarem a ocorrência de crime definido em lei como de ação pública, ou indícios da prática de tais crimes, informarão ao Ministério Público, juntando à comunicação os documentos necessários à apuração ou comprovação dos fatos.\n\n§ 1o A comunicação de que trata este artigo será efetuada pelos Presidentes do Banco Central do Brasil e da Comissão de Valores Mobiliários, admitida delegação de competência, no prazo máximo de quinze dias, a contar do recebimento do processo, com manifestação dos respectivos serviços jurídicos.\n\n§ 2o Independentemente do disposto no caput deste artigo, o Banco Central do Brasil e a Comissão de Valores Mobiliários comunicarão aos órgãos públicos competentes as irregularidades e os ilícitos administrativos de que tenham conhecimento, ou indícios de sua prática, anexando os documentos pertinentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%209o%20Quando%2C%20no%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20o%20Banco%20Central%20do%20Brasil%20e%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20verificarem%20a%20ocorr%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A quebra de sigilo, fora das hipóteses autorizadas nesta Lei Complementar, constitui crime e sujeita os responsáveis à pena de reclusão, de um a quatro anos, e multa, aplicando-se, no que couber, o Código Penal, sem prejuízo de outras sanções cabíveis.\n\nParágrafo único. Incorre nas mesmas penas quem omitir, retardar injustificadamente ou prestar falsamente as informações requeridas nos termos desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%2010.%20A%20quebra%20de%20sigilo%2C%20fora%20das%20hip%C3%B3teses%20autorizadas%20nesta%20Lei%20Complementar%2C%20constitui%20crime%20e%20sujeita%20os%20respons%C3%A1veis%20%C3%A0%20pena%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O servidor público que utilizar ou viabilizar a utilização de qualquer informação obtida em decorrência da quebra de sigilo de que trata esta Lei Complementar responde pessoal e diretamente pelos danos decorrentes, sem prejuízo da responsabilidade objetiva da entidade pública, quando comprovado que o servidor agiu de acordo com orientação oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%2011.%20O%20servidor%20p%C3%BAblico%20que%20utilizar%20ou%20viabilizar%20a%20utiliza%C3%A7%C3%A3o%20de%20qualquer%20informa%C3%A7%C3%A3o%20obtida%20em%20decorr%C3%AAncia%20da%20quebra%20de%20sigilo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Esta Lei Complementar entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%2012.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Revoga-se o art. 38 da Lei no 4.595, de 31 de dezembro de 1964.\n\nBrasília, 10 de janeiro de 2001; 180o da Independência e 113o da República.\n\nFERNANDO HENRIQUE CARDOSO José Gregori Pedro Malan Martus Tavares\n\nEste texto não substitui o publicado no DOU de 11.1.2001\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm#:~:text=Art.%2013.%20Revoga-se%20o%20art.%2038%20da%20Lei%20no%204.595%2C%20de%2031%20de%20dezembro%20de%201964.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": null
+    }
+  }
+}

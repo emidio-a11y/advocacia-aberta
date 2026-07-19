@@ -1,0 +1,223 @@
+{
+  "_meta": {
+    "codigo": "L8072",
+    "nome": "Crimes Hediondos",
+    "lei": "Lei 8.072/1990",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm",
+    "total_artigos": 13,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados: (Redação dada pela Lei nº 8.930, de 1994) (Vide Lei nº 7.210, de 1984)\n\nI - homicídio (art. 121), quando praticado em atividade típica de grupo de extermínio, ainda que cometido por 1 (um) só agente, e homicídio qualificado (art. 121, § 2º); (Redação dada pela Lei nº 15.159, de 2025)\n\nI-A - lesão corporal dolosa de natureza gravíssima (art. 129, § 2º) e lesão corporal seguida de morte (art. 129, § 3º), quando praticadas: (Redação dada pela Lei nº 15.159, de 2025)\n\na) contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal ou integrantes do sistema prisional ou da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até terceiro grau, em razão dessa condição; (Redação dada pela Lei nº 15.159, de 2025)\n\nb) contra membro do Poder Judiciário, do Ministério Público, da Defensoria Pública ou da Advocacia Pública, de que tratam os arts. 131 e 132 da Constituição Federal, ou oficial de justiça, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição; ou (Redação dada pela Lei nº 15.159, de 2025)\n\nc) nas dependências de instituição de ensino; (Incluído pela Lei nº 15.159, de 2025)\n\nI-B – feminicídio (art. 121-A); (Incluído pela Lei nº 14.994, de 2024)\n\nI-C – vicaricídio (art. 121-B); (Incluído pela Lei nº 15.384, de 2026)\n\nII - roubo: (Redação dada pela Lei nº 13.964, de 2019)\n\na) circunstanciado pela restrição de liberdade da vítima (art. 157, § 2º, inciso V); (Incluído pela Lei nº 13.964, de 2019)\n\nb) circunstanciado pelo emprego de arma de fogo (art. 157, § 2º-A, inciso I) ou pelo emprego de arma de fogo de uso proibido ou restrito (art. 157, § 2º-B); (Incluído pela Lei nº 13.964, de 2019)\n\nc) qualificado pelo resultado lesão corporal grave ou morte (art. 157, § 3º); (Incluído pela Lei nº 13.964, de 2019)\n\nIII - extorsão qualificada pela restrição da liberdade da vítima, ocorrência de lesão corporal ou morte (art. 158, § 3º); (Redação dada pela Lei nº 13.964, de 2019)\n\nIV - extorsão mediante seqüestro e na forma qualificada (art. 159, caput, e §§ lo, 2o e 3o); (Inciso incluído pela Lei nº 8.930, de 1994)\n\nV - estupro (art. 213, caput e §§ 1o e 2o); (Redação dada pela Lei nº 12.015, de 2009)\n\nVI - estupro de vulnerável (art. 217-A, caput e §§ 1o, 2o, 3o e 4o); (Redação dada pela Lei nº 12.015, de 2009)\n\nVII - epidemia com resultado morte (art. 267, § 1o). (Inciso incluído pela Lei nº 8.930, de 1994)\n\nVII-A – (VETADO) (Inciso incluído pela Lei nº 9.695, de 1998)\n\nVII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1o, § 1o-A e § 1o-B, com a redação dada pela Lei no 9.677, de 2 de julho de 1998). (Inciso incluído pela Lei nº 9.695, de 1998)\n\nVIII - favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável (art. 218-B, caput, e §§ 1º e 2º). (Incluído pela Lei nº 12.978, de 2014)\n\nIX - furto qualificado pelo emprego de explosivo ou de artefato análogo que cause perigo comum (art. 155, § 4º-A). (Incluído pela Lei nº 13.964, de 2019)\n\nX - induzimento, instigação ou auxílio a suicídio ou a automutilação realizados por meio da rede de computadores, de rede social ou transmitidos em tempo real (art. 122, caput e § 4º); (Incluído pela Lei 14.811, de 2024)\n\nXI - sequestro e cárcere privado cometido contra menor de 18 (dezoito) anos (art. 148, § 1º, inciso IV); (Incluído pela Lei 14.811, de 2024)\n\nXII - tráfico de pessoas cometido contra criança ou adolescente (art. 149-A, caput, incisos I a V, e § 1º, inciso II). (Incluído pela Lei 14.811, de 2024)\n\nParágrafo único. Consideram-se também hediondos, tentados ou consumados: (Redação dada pela Lei nº 13.964, de 2019)\n\nI - o crime de genocídio, previsto nos arts. 1º, 2º e 3º da Lei nº 2.889, de 1º de outubro de 1956; (Incluído pela Lei nº 13.964, de 2019)\n\nII - o crime de posse ou porte ilegal de arma de fogo de uso proibido, previsto no art. 16 da Lei nº 10.826, de 22 de dezembro de 2003; (Incluído pela Lei nº 13.964, de 2019)\n\nIII - o crime de comércio ilegal de armas de fogo, previsto no art. 17 da Lei nº 10.826, de 22 de dezembro de 2003; (Incluído pela Lei nº 13.964, de 2019)\n\nIV - o crime de tráfico internacional de arma de fogo, acessório ou munição, previsto no art. 18 da Lei nº 10.826, de 22 de dezembro de 2003; (Incluído pela Lei nº 13.964, de 2019)\n\nV - o crime de organização criminosa, quando direcionado à prática de crime hediondo ou equiparado. (Incluído pela Lei nº 13.964, de 2019)\n\nVI – os crimes previstos no Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), que apresentem identidade com os crimes previstos no art. 1º desta Lei. (Incluído pela Lei nº 14.688, de 2023)\n\nVII - os crimes previstos no § 1º do art. 240 e no art. 241-B da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente). (Incluído pela Lei 14.811, de 2024)\n\nVIII - os crimes de domínio social estruturado e de favorecimento ao domínio social estruturado, previstos no caput e nos §§ 1º e 3º do art. 2º e no art. 3º da lei que institui o marco legal do combate ao crime organizado no Brasil. (Incluído pela Lei nº 15.358, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%201o%20S%C3%A3o%20considerados%20hediondos%20os%20seguintes%20crimes%2C%20todos%20tipificados%20no%20Decreto-Lei%20no%202.848%2C%20de%207%20de%20dezembro%20de%201940%20-%20C%C3%B3digo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: (Vide Súmula Vinculante)\n\nI - anistia, graça e indulto;\n\nII - fiança. (Redação dada pela Lei nº 11.464, de 2007)\n\n§ 1o A pena por crime previsto neste artigo será cumprida inicialmente em regime fechado. (Redação dada pela Lei nº 11.464, de 2007)\n\n§ 2º (Revogado pela Lei nº 13.964, de 2019)\n\n§ 3o Em caso de sentença condenatória, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade. (Redação dada pela Lei nº 11.464, de 2007)\n\n§ 4o A prisão temporária, sobre a qual dispõe a Lei no 7.960, de 21 de dezembro de 1989, nos crimes previstos neste artigo, terá o prazo de 30 (trinta) dias, prorrogável por igual período em caso de extrema e comprovada necessidade. (Incluído pela Lei nº 11.464, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%202%C2%BA%20Os%20crimes%20hediondos%2C%20a%20pr%C3%A1tica%20da%20tortura%2C%20o%20tr%C3%A1fico%20il%C3%ADcito%20de%20entorpecentes%20e%20drogas%20afins%20e%20o%20terrorismo%20s%C3%A3o%20insuscet%C3%ADveis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A União manterá estabelecimentos penais, de segurança máxima, destinados ao cumprimento de penas impostas a condenados de alta periculosidade, cuja permanência em presídios estaduais ponha em risco a ordem ou incolumidade pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%203%C2%BA%20A%20Uni%C3%A3o%20manter%C3%A1%20estabelecimentos%20penais%2C%20de%20seguran%C3%A7a%20m%C3%A1xima%2C%20destinados%20ao%20cumprimento%20de%20penas%20impostas%20a%20condenados%20de%20alta%20periculosidade%2C%20cuja",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%204%C2%BA%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Ao art. 83 do Código Penal é acrescido o seguinte inciso:\n\n\"Art. 83. ..............................................................\n\n........................................................................\n\nV - cumprido mais de dois terços da pena, nos casos de condenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%205%C2%BA%20Ao%20art.%2083%20do%20C%C3%B3digo%20Penal%20%C3%A9%20acrescido%20o%20seguinte%20inciso%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Os arts. 157, § 3º; 159, caput e seus §§ 1º, 2º e 3º; 213; 214; 223, caput e seu parágrafo único; 267, caput e 270; caput, todos do Código Penal, passam a vigorar com a seguinte redação:\n\n\"Art. 157. .............................................................\n\n§ 3º Se da violência resulta lesão corporal grave, a pena é de reclusão, de cinco a quinze anos, além da multa; se resulta morte, a reclusão é de vinte a trinta anos, sem prejuízo da multa.\n\n........................................................................",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%206%C2%BA%20Os%20arts.%20157%2C%20%C2%A7%203%C2%BA%3B%20159%2C%20caput%20e%20seus%20%C2%A7%C2%A7%201%C2%BA%2C%202%C2%BA%20e%203%C2%BA%3B%20213%3B%20214%3B%20223%2C%20caput%20e%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Ao art. 159 do Código Penal fica acrescido o seguinte parágrafo:\n\n\"Art. 159. ..............................................................\n\n........................................................................\n\n§ 4º Se o crime é cometido por quadrilha ou bando, o co-autor que denunciá-lo à autoridade, facilitando a libertação do seqüestrado, terá sua pena reduzida de um a dois terços.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%207%C2%BA%20Ao%20art.%20159%20do%20C%C3%B3digo%20Penal%20fica%20acrescido%20o%20seguinte%20par%C3%A1grafo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Será de três a seis anos de reclusão a pena prevista no art. 288 do Código Penal, quando se tratar de crimes hediondos, prática da tortura, tráfico ilícito de entorpecentes e drogas afins ou terrorismo.\n\nParágrafo único. O participante e o associado que denunciar à autoridade o bando ou quadrilha, possibilitando seu desmantelamento, terá a pena reduzida de um a dois terços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%208%C2%BA%20Ser%C3%A1%20de%20tr%C3%AAs%20a%20seis%20anos%20de%20reclus%C3%A3o%20a%20pena%20prevista%20no%20art.%20288%20do%20C%C3%B3digo%20Penal%2C%20quando%20se%20tratar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º As penas fixadas no art. 6º para os crimes capitulados nos arts. 157, § 3º, 158, § 2º, 159, caput e seus §§ 1º, 2º e 3º, 213, caput e sua combinação com o art. 223, caput e parágrafo único, 214 e sua combinação com o art. 223, caput e parágrafo único, todos do Código Penal, são acrescidas de metade, respeitado o limite superior de trinta anos de reclusão, estando a vítima em qualquer das hipóteses referidas no art. 224 também do Código Penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%209%C2%BA%20As%20penas%20fixadas%20no%20art.%206%C2%BA%20para%20os%20crimes%20capitulados%20nos%20arts.%20157%2C%20%C2%A7%203%C2%BA%2C%20158%2C%20%C2%A7%202%C2%BA%2C%20159%2C%20caput",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O art. 35 da Lei nº 6.368, de 21 de outubro de 1976, passa a vigorar acrescido de parágrafo único, com a seguinte redação:\n\n\"Art. 35. ................................................................\n\nParágrafo único. Os prazos procedimentais deste capítulo serão contados em dobro quando se tratar dos crimes previstos nos arts. 12, 13 e 14.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%2010.%20O%20art.%2035%20da%20Lei%20n%C2%BA%206.368%2C%20de%2021%20de%20outubro%20de%201976%2C%20passa%20a%20vigorar%20acrescido%20de%20par%C3%A1grafo%20%C3%BAnico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%2011.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%2012.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Revogam-se as disposições em contrário.\n\nBrasília, 25 de julho de 1990; 169º da Independência e 102º da República.\n\nFERNANDO COLLOR Bernardo Cabral\n\nEste texto não substitui o publicado no DOU de 26.7.1990\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm#:~:text=Art.%2013.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": null
+    }
+  }
+}

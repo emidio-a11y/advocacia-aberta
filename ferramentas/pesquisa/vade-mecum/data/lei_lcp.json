@@ -1,0 +1,1167 @@
+{
+  "_meta": {
+    "codigo": "LCP",
+    "nome": "Contravenções Penais",
+    "lei": "Decreto-Lei 3.688/1941",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+    "total_artigos": 72,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Aplicam-se as contravenções às regras gerais do Código Penal, sempre que a presente lei não disponha de modo diverso.\n\nTerritorialidade",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%201%C2%BA%20Aplicam-se%20as%20contraven%C3%A7%C3%B5es%20%C3%A0s%20regras%20gerais%20do%20C%C3%B3digo%20Penal%2C%20sempre%20que%20a%20presente%20lei%20n%C3%A3o%20disponha%20de%20modo%20diverso.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A lei brasileira só é aplicável à contravenção praticada no território nacional.\n\nVoluntariedade Dolo e culpa",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%202%C2%BA%20A%20lei%20brasileira%20s%C3%B3%20%C3%A9%20aplic%C3%A1vel%20%C3%A0%20contraven%C3%A7%C3%A3o%20praticada%20no%20territ%C3%B3rio%20nacional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Para a existência da contravenção, basta a ação ou omissão voluntária. Deve-se, todavia, ter em conta o dolo ou a culpa, se a lei faz depender, de um ou de outra, qualquer efeito jurídico.\n\nTentativa",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%203%C2%BA%20Para%20a%20exist%C3%AAncia%20da%20contraven%C3%A7%C3%A3o%2C%20basta%20a%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20volunt%C3%A1ria.%20Deve-se%2C%20todavia%2C%20ter%20em%20conta%20o%20dolo%20ou%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Não é punível a tentativa de contravenção.\n\nPenas principais",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%204%C2%BA%20N%C3%A3o%20%C3%A9%20pun%C3%ADvel%20a%20tentativa%20de%20contraven%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As penas principais são:\n\nI – prisão simples.\n\nII – multa.\n\nPrisão simples",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%205%C2%BA%20As%20penas%20principais%20s%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A pena de prisão simples deve ser cumprida, sem rigor penitenciário, em estabelecimento especial ou em secção especial de prisão comum, podendo ser dispensado o isolamento noturno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%206%C2%BA%20A%20pena%20de%20pris%C3%A3o%20simples%20deve%20ser%20cumprida%2C%20sem%20rigor%20penitenci%C3%A1rio%2C%20em%20estabelecimento%20especial%20ou%20em%20sec%C3%A7%C3%A3o%20especial%20de%20pris%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Verifica-se a reincidência quando o agente pratica uma contravenção depois de passar em julgado a sentença que o tenha condenado, no Brasil ou no estrangeiro, por qualquer crime, ou, no Brasil, por motivo de contravenção.\n\nErro de direito",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%207%C2%BA%20Verifica-se%20a%20reincid%C3%AAncia%20quando%20o%20agente%20pratica%20uma%20contraven%C3%A7%C3%A3o%20depois%20de%20passar%20em%20julgado%20a%20senten%C3%A7a%20que%20o%20tenha%20condenado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º No caso de ignorância ou de errada compreensão da lei, quando escusaveis, a pena pode deixar de ser aplicada.\n\nConversão da multa em prisão simples",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%208%C2%BA%20No%20caso%20de%20ignor%C3%A2ncia%20ou%20de%20errada%20compreens%C3%A3o%20da%20lei%2C%20quando%20escusaveis%2C%20a%20pena%20pode%20deixar%20de%20ser%20aplicada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A multa converte-se em prisão simples, de acordo com o que dispõe o Código Penal sobre a conversão de multa em detenção.\n\nParágrafo único. Se a multa é a única pena cominada, a conversão em prisão simples se faz entre os limites de quinze dias e três meses.\n\nLimites das penas",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%209%C2%BA%20A%20multa%20converte-se%20em%20pris%C3%A3o%20simples%2C%20de%20acordo%20com%20o%20que%20disp%C3%B5e%20o%20C%C3%B3digo%20Penal%20sobre%20a%20convers%C3%A3o%20de%20multa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A duração da pena de prisão simples não pode, em caso algum, ser superior a cinco anos, nem a importância das multas ultrapassar cinquenta contos.\n\nSuspensão condicional da pena de prisão simples",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2010.%20A%20dura%C3%A7%C3%A3o%20da%20pena%20de%20pris%C3%A3o%20simples%20n%C3%A3o%20pode%2C%20em%20caso%20algum%2C%20ser%20superior%20a%20cinco%20anos%2C%20nem%20a%20import%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Desde que reunidas as condições legais, o juiz pode suspender, por tempo não inferior a um ano nem superior a três, a execução da pena de prisão simples que não ultrapasse dois anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2011.%20Desde%20que%20reunidas%20as%20condi%C3%A7%C3%B5es%20legais%2C%20o%20juiz%20pode%20suspender%2C%20por%20tempo%20n%C3%A3o%20inferior%20a%20um%20ano%20nem%20superior%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. As penas acessórias são a publicação da sentença e as seguintes interdições de direitos:\n\nI – a incapacidade temporária para profissão ou atividade, cujo exercício dependa de habilitação especial, licença ou autorização do poder público;\n\nlI – a suspensão dos direitos políticos.\n\nParágrafo único. Incorrem:\n\na) na interdição sob nº I, por um mês a dois anos, o condenado por motivo de contravenção cometida com abuso de profissão ou atividade ou com infração de dever a ela inerente;\n\nb) na interdição sob nº II, o condenado a pena privativa de liberdade, enquanto dure a execução do pena ou a aplicação da medida de segurança detentiva.\n\nMedidas de segurança",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2012.%20As%20penas%20acess%C3%B3rias%20s%C3%A3o%20a%20publica%C3%A7%C3%A3o%20da%20senten%C3%A7a%20e%20as%20seguintes%20interdi%C3%A7%C3%B5es%20de%20direitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Aplicam-se, por motivo de contravenção, os medidas de segurança estabelecidas no Código Penal, à exceção do exílio local.\n\nPresunção de periculosidade",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2013.%20Aplicam-se%2C%20por%20motivo%20de%20contraven%C3%A7%C3%A3o%2C%20os%20medidas%20de%20seguran%C3%A7a%20estabelecidas%20no%20C%C3%B3digo%20Penal%2C%20%C3%A0%20exce%C3%A7%C3%A3o%20do%20ex%C3%ADlio%20local.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Presumem-se perigosos, alem dos indivíduos a que se referem os ns. I e II do art. 78 do Código Penal:\n\nI – o condenado por motivo de contravenção cometido, em estado de embriaguez pelo álcool ou substância de efeitos análogos, quando habitual a embriaguez;\n\nII – o condenado por vadiagem ou mendicância;\n\nIII – o reincidente na contravenção prevista no art. 50; (Revogado pela Lei nº 6.416, de 24.5.1977)\n\nIV – o reincidente na contravenção prevista no art. 58. (Revogado pela Lei nº 6.416, de 24.5.1977)\n\nInternação em colônia agrícola ou em instituto de trabalho, de reeducação ou de ensino profissional",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2014.%20Presumem-se%20perigosos%2C%20alem%20dos%20indiv%C3%ADduos%20a%20que%20se%20referem%20os%20ns.%20I%20e%20II%20do%20art.%2078%20do%20C%C3%B3digo%20Penal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. São internados em colônia agrícola ou em instituto de trabalho, de reeducação ou de ensino profissional, pelo prazo mínimo de um ano: (Regulamento)\n\nI – o condenado por vadiagem (art. 59);\n\nII – o condenado por mendicância (art. 60 e seu parágrafo);\n\nIII – o reincidente nas contravenções previstas nos arts. 50 e 58. (Revogado pela Lei nº 6.416, de 24.5.1977)\n\nInternação em manicômio judiciário ou em casa de custódia e tratamento",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2015.%20S%C3%A3o%20internados%20em%20col%C3%B4nia%20agr%C3%ADcola%20ou%20em%20instituto%20de%20trabalho%2C%20de%20reeduca%C3%A7%C3%A3o%20ou%20de%20ensino%20profissional%2C%20pelo%20prazo%20m%C3%ADnimo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O prazo mínimo de duração da internação em manicômio judiciário ou em casa de custódia e tratamento é de seis meses.\n\nParágrafo único. O juiz, entretanto, pode, ao invés de decretar a internação, submeter o indivíduo a liberdade vigiada.\n\nAção penal",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2016.%20O%20prazo%20m%C3%ADnimo%20de%20dura%C3%A7%C3%A3o%20da%20interna%C3%A7%C3%A3o%20em%20manic%C3%B4mio%20judici%C3%A1rio%20ou%20em%20casa%20de%20cust%C3%B3dia%20e%20tratamento%20%C3%A9%20de%20seis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A ação penal é pública, devendo a autoridade proceder de ofício.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2017.%20A%20a%C3%A7%C3%A3o%20penal%20%C3%A9%20p%C3%BAblica%2C%20devendo%20a%20autoridade%20proceder%20de%20of%C3%ADcio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Fabricar, importar, exportar, ter em depósito ou vender, sem permissão da autoridade, arma ou munição:\n\nPena – prisão simples, de três meses a um ano, ou multa, de um a cinco contos de réis, ou ambas cumulativamente, se o fato não constitue crime contra a ordem política ou social.\n\nPorte de arma",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2018.%20Fabricar%2C%20importar%2C%20exportar%2C%20ter%20em%20dep%C3%B3sito%20ou%20vender%2C%20sem%20permiss%C3%A3o%20da%20autoridade%2C%20arma%20ou%20muni%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Trazer consigo arma fora de casa ou de dependência desta, sem licença da autoridade:\n\nPena – prisão simples, de quinze dias a seis meses, ou multa, de duzentos mil réis a três contos de réis, ou ambas cumulativamente.\n\n§ 1º A pena é aumentada de um terço até metade, se o agente já foi condenado, em sentença irrecorrivel, por violência contra pessoa.\n\n§ 2º Incorre na pena de prisão simples, de quinze dias a três meses, ou multa, de duzentos mil réis a um conto de réis, quem, possuindo arma ou munição:\n\na) deixa de fazer comunicação ou entrega à autoridade, quando a lei o determina;\n\nb) permite que alienado menor de 18 anos ou pessoa inexperiente no manejo de arma a tenha consigo;\n\nc) omite as cautelas necessárias para impedir que dela se apodere facilmente alienado, menor de 18 anos ou pessoa inexperiente em manejá-la.\n\nAnúncio de meio abortivo ou anticoncepcional",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2019.%20Trazer%20consigo%20arma%20fora%20de%20casa%20ou%20de%20depend%C3%AAncia%20desta%2C%20sem%20licen%C3%A7a%20da%20autoridade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Anunciar processo, substância ou objeto destinado a provocar aborto ou evitar a gravidez;",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2020.%20Anunciar%20processo%2C%20subst%C3%A2ncia%20ou%20objeto%20destinado%20a%20provocar%20aborto%20ou%20evitar%20a%20gravidez%3B",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Praticar vias de fato contra alguem:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de cem mil réis a um conto de réis, se o fato não constitue crime.\n\nParágrafo único. Aumenta-se a pena de 1/3 (um terço) até a metade se a vítima é maior de 60 (sessenta) anos. (Incluído pela Lei nº 10.741, de 2003)\n\n§ 1º Aumenta-se a pena de 1/3 (um terço) até a metade se a vítima é maior de 60 (sessenta) anos. (Renumerado do parágrafo único pela Lei nº 14.994, de 2024)\n\n§ 2º Se a contravenção é praticada contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), aplica-se a pena em triplo. (Incluído pela Lei nº 14.994, de 2024)\n\nInternação irregular em estabelecimento psiquiátrico",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2021.%20Praticar%20vias%20de%20fato%20contra%20alguem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Receber em estabelecimento psiquiátrico, e nele internar, sem as formalidades legais, pessoa apresentada como doente mental:\n\nPena – multa, de trezentos mil réis a três contos de réis.\n\n§ 1º Aplica-se a mesma pena a quem deixa de comunicar a autoridade competente, no prazo legal, internação que tenha admitido, por motivo de urgência, sem as formalidades legais.\n\n§ 2º Incorre na pena de prisão simples, de quinze dias a três meses, ou multa de quinhentos mil réis a cinco contos de réis, aquele que, sem observar as prescrições legais, deixa retirar-se ou despede de estabelecimento psiquiátrico pessoa nele, internada.\n\nIndevida custódia de doente mental",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2022.%20Receber%20em%20estabelecimento%20psiqui%C3%A1trico%2C%20e%20nele%20internar%2C%20sem%20as%20formalidades%20legais%2C%20pessoa%20apresentada%20como%20doente%20mental%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Receber e ter sob custódia doente mental, fora do caso previsto no artigo anterior, sem autorização de quem de direito:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de quinhentos mil réis a cinco contos de réis.\n\nCAPÍLULO II\n\nDAS CONTRAVENÇÕES REFERENTES AO PATRIMÔNIO\n\nInstrumento de emprego usual na prática de furto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2023.%20Receber%20e%20ter%20sob%20cust%C3%B3dia%20doente%20mental%2C%20fora%20do%20caso%20previsto%20no%20artigo%20anterior%2C%20sem%20autoriza%C3%A7%C3%A3o%20de%20quem%20de%20direito%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Fabricar, ceder ou vender gazua ou instrumento empregado usualmente na prática de crime de furto:\n\nPena – prisão simples, de seis meses a dois anos, e multa, de trezentos mil réis a três contos de réis.\n\nPosse não justificada de instrumento de emprego usual na prática de furto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2024.%20Fabricar%2C%20ceder%20ou%20vender%20gazua%20ou%20instrumento%20empregado%20usualmente%20na%20pr%C3%A1tica%20de%20crime%20de%20furto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Ter alguem em seu poder, depois de condenado, por crime de furto ou roubo, ou enquanto sujeito à liberdade vigiada ou quando conhecido como vadio ou mendigo, gazuas, chaves falsas ou alteradas ou instrumentos empregados usualmente na prática de crime de furto, desde que não prove destinação legítima:\n\nPena – prisão simples, de dois meses a um ano, e multa de duzentos mil réis a dois contos de réis.\n\nViolação de lugar ou objeto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2025.%20Ter%20alguem%20em%20seu%20poder%2C%20depois%20de%20condenado%2C%20por%20crime%20de%20furto%20ou%20roubo%2C%20ou%20enquanto%20sujeito%20%C3%A0%20liberdade%20vigiada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Abrir alguem, no exercício de profissão de serralheiro ou oficio análogo, a pedido ou por incumbência de pessoa de cuja legitimidade não se tenha certificado previamente, fechadura ou qualquer outro aparelho destinado à defesa de lugar nu objeto:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de duzentos mil réis a um conto de réis.\n\nExploração da credulidade pública",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2026.%20Abrir%20alguem%2C%20no%20exerc%C3%ADcio%20de%20profiss%C3%A3o%20de%20serralheiro%20ou%20oficio%20an%C3%A1logo%2C%20a%20pedido%20ou%20por%20incumb%C3%AAncia%20de%20pessoa%20de%20cuja",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Explorar a credulidade pública mediante sortilégios, predição do futuro, explicação de sonho, ou práticas congêneres: (Revogado pela Lei nº 9.521, de 27.11.1997)\n\nPena – prisão simples, de um a seis meses, e multa, de quinhentos mil réis a cinco contos de réis. (Revogado pela Lei nº 9.521, de 27.11.1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2027.%20Explorar%20a%20credulidade%20p%C3%BAblica%20mediante%20sortil%C3%A9gios%2C%20predi%C3%A7%C3%A3o%20do%20futuro%2C%20explica%C3%A7%C3%A3o%20de%20sonho%2C%20ou%20pr%C3%A1ticas%20cong%C3%AAneres%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%209.521%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Disparar arma de fogo em lugar habitado ou em suas adjacências, em via pública ou em direção a ela:\n\nPena – prisão simples, de um a seis meses, ou multa, de trezentos mil réis a três contos de réis.\n\nParágrafo único. Incorre na pena de prisão simples, de quinze dias a dois meses, ou multa, de duzentos mil réis a dois contos de réis, quem, em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, sem licença da autoridade, causa deflagração perigosa, queima fogo de artifício ou solta balão aceso.\n\nDesabamento de construção",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2028.%20Disparar%20arma%20de%20fogo%20em%20lugar%20habitado%20ou%20em%20suas%20adjac%C3%AAncias%2C%20em%20via%20p%C3%BAblica%20ou%20em%20dire%C3%A7%C3%A3o%20a%20ela%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Provocar o desabamento de construção ou, por erro no projeto ou na execução, dar-lhe causa:\n\nPena – multa, de um a dez contos de réis, se o fato não constitue crime contra a incolumidade pública.\n\nPerigo de desabamento",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2029.%20Provocar%20o%20desabamento%20de%20constru%C3%A7%C3%A3o%20ou%2C%20por%20erro%20no%20projeto%20ou%20na%20execu%C3%A7%C3%A3o%2C%20dar-lhe%20causa%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Omitir alguem a providência reclamada pelo Estado ruinoso de construção que lhe pertence ou cuja conservação lhe incumbe:\n\nPena – multa, de um a cinco contos de réis.\n\nOmissão de cautela na guarda ou condução de animais",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2030.%20Omitir%20alguem%20a%20provid%C3%AAncia%20reclamada%20pelo%20Estado%20ruinoso%20de%20constru%C3%A7%C3%A3o%20que%20lhe%20pertence%20ou%20cuja%20conserva%C3%A7%C3%A3o%20lhe%20incumbe%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Deixar em liberdade, confiar à guarda de pessoa inexperiente, ou não guardar com a devida cautela animal perigoso:\n\nPena – prisão simples, de dez dias a dois meses, ou multa, de cem mil réis a um conto de réis.\n\nParágrafo único. Incorre na mesma pena quem:\n\na) na via pública, abandona animal de tiro, carga ou corrida, ou o confia à pessoa inexperiente;\n\nb) excita ou irrita animal, expondo a perigo a segurança alheia;\n\nc) conduz animal, na via pública, pondo em perigo a segurança alheia.\n\nFalta de habilitação para dirigir veículo",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2031.%20Deixar%20em%20liberdade%2C%20confiar%20%C3%A0%20guarda%20de%20pessoa%20inexperiente%2C%20ou%20n%C3%A3o%20guardar%20com%20a%20devida%20cautela%20animal%20perigoso%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Dirigir, sem a devida habilitação, veículo na via pública, ou embarcação a motor em aguas públicas:\n\nPena – multa, de duzentos mil réis a dois contos de réis.\n\nDireção não licenciada de aeronave",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2032.%20Dirigir%2C%20sem%20a%20devida%20habilita%C3%A7%C3%A3o%2C%20ve%C3%ADculo%20na%20via%20p%C3%BAblica%2C%20ou%20embarca%C3%A7%C3%A3o%20a%20motor%20em%20aguas%20p%C3%BAblicas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Dirigir aeronave sem estar devidamente licenciado:\n\nPena – prisão simples, de quinze dias a três meses, e multa, de duzentos mil réis a dois contos de réis.\n\nDireção perigosa de veículo na via pública",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2033.%20Dirigir%20aeronave%20sem%20estar%20devidamente%20licenciado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Dirigir veículos na via pública, ou embarcações em águas públicas, pondo em perigo a segurança alheia:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de trezentos mil réis a dois contos de réis.\n\nAbuso na prática da aviação",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2034.%20Dirigir%20ve%C3%ADculos%20na%20via%20p%C3%BAblica%2C%20ou%20embarca%C3%A7%C3%B5es%20em%20%C3%A1guas%20p%C3%BAblicas%2C%20pondo%20em%20perigo%20a%20seguran%C3%A7a%20alheia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Entregar-se na prática da aviação, a acrobacias ou a vôos baixos, fora da zona em que a lei o permite, ou fazer descer a aeronave fora dos lugares destinados a esse fim:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de quinhentos mil réis a cinco contos de réis.\n\nSinais de perigo",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2035.%20Entregar-se%20na%20pr%C3%A1tica%20da%20avia%C3%A7%C3%A3o%2C%20a%20acrobacias%20ou%20a%20v%C3%B4os%20baixos%2C%20fora%20da%20zona%20em%20que%20a%20lei%20o%20permite%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Deixar do colocar na via pública, sinal ou obstáculo, determinado em lei ou pela autoridade e destinado a evitar perigo a transeuntes:\n\nPena – prisão simples, de dez dias a dois meses, ou multa, de duzentos mil réis a dois contos de réis.\n\nParágrafo único. Incorre na mesma pena quem:\n\na) apaga sinal luminoso, destrói ou remove sinal de outra natureza ou obstáculo destinado a evitar perigo a transeuntes;\n\nb) remove qualquer outro sinal de serviço público.\n\nArremesso ou colocação perigosa",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2036.%20Deixar%20do%20colocar%20na%20via%20p%C3%BAblica%2C%20sinal%20ou%20obst%C3%A1culo%2C%20determinado%20em%20lei%20ou%20pela%20autoridade%20e%20destinado%20a%20evitar%20perigo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Arremessar ou derramar em via pública, ou em lugar de uso comum, ou do uso alheio, coisa que possa ofender, sujar ou molestar alguem:\n\nPena – multa, de duzentos mil réis a dois contos de réis.\n\nParágrafo único. Na mesma pena incorre aquele que, sem as devidas cautelas, coloca ou deixa suspensa coisa que, caindo em via pública ou em lugar de uso comum ou de uso alheio, possa ofender, sujar ou molestar alguem.\n\nEmissão de fumaça, vapor ou gás",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2037.%20Arremessar%20ou%20derramar%20em%20via%20p%C3%BAblica%2C%20ou%20em%20lugar%20de%20uso%20comum%2C%20ou%20do%20uso%20alheio%2C%20coisa%20que%20possa%20ofender%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Provocar, abusivamente, emissão de fumaça, vapor ou gás, que possa ofender ou molestar alguem:\n\nPena – multa, de duzentos mil réis a dois contos de réis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2038.%20Provocar%2C%20abusivamente%2C%20emiss%C3%A3o%20de%20fuma%C3%A7a%2C%20vapor%20ou%20g%C3%A1s%2C%20que%20possa%20ofender%20ou%20molestar%20alguem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Participar de associação de mais de cinco pessoas, que se reunam periodicamente, sob compromisso de ocultar à autoridade a existência, objetivo, organização ou administração da associação: (Revogado pela pela Lei nº 14.197, de 2021) (Vigência)\n\nPena – prisão simples, de um a seis meses, ou multa, de trezentos mil réis a três contos de réis.\n\n§ 1º Na mesma pena incorre o proprietário ou ocupante de prédio que o cede, no todo ou em parte, para reunião de associação que saiba ser de carater secreto. (Revogado pela pela Lei nº 14.197, de 2021) (Vigência)\n\n§ 2º O juiz pode, tendo em vista as circunstâncias, deixar de aplicar a pena, quando lícito o objeto da associação. (Revogado pela pela Lei nº 14.197, de 2021) (Vigência)\n\nProvocação de tumulto. Conduta inconveniente",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2039.%20Participar%20de%20associa%C3%A7%C3%A3o%20de%20mais%20de%20cinco%20pessoas%2C%20que%20se%20reunam%20periodicamente%2C%20sob%20compromisso%20de%20ocultar%20%C3%A0%20autoridade%20a%20exist%C3%AAncia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Provocar tumulto ou portar-se de modo inconveniente ou desrespeitoso, em solenidade ou ato oficial, em assembléia ou espetáculo público, se o fato não constitue infração penal mais grave;\n\nPena – prisão simples, de quinze dias a seis meses, ou multa, de duzentos mil réis a dois contos de réis.\n\nFalso alarma",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2040.%20Provocar%20tumulto%20ou%20portar-se%20de%20modo%20inconveniente%20ou%20desrespeitoso%2C%20em%20solenidade%20ou%20ato%20oficial%2C%20em%20assembl%C3%A9ia%20ou%20espet%C3%A1culo%20p%C3%BAblico%2C%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Provocar alarma, anunciando desastre ou perigo inexistente, ou praticar qualquer ato capaz de produzir pânico ou tumulto:\n\nPena – prisão simples, de quinze dias a seis meses, ou multa, de duzentos mil réis a dois contos de réis.\n\nPerturbação do trabalho ou do sossego alheios",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2041.%20Provocar%20alarma%2C%20anunciando%20desastre%20ou%20perigo%20inexistente%2C%20ou%20praticar%20qualquer%20ato%20capaz%20de%20produzir%20p%C3%A2nico%20ou%20tumulto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Perturbar alguem o trabalho ou o sossego alheios:\n\nI – com gritaria ou algazarra;\n\nII – exercendo profissão incômoda ou ruidosa, em desacordo com as prescrições legais;\n\nIII – abusando de instrumentos sonoros ou sinais acústicos;\n\nIV – provocando ou não procurando impedir barulho produzido por animal de que tem a guarda:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de duzentos mil réis a dois contos de réis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2042.%20Perturbar%20alguem%20o%20trabalho%20ou%20o%20sossego%20alheios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Recusar-se a receber, pelo seu valor, moeda de curso legal no país:\n\nPena – multa, de duzentos mil réis a dois contos de réis.\n\nImitação de moeda para propaganda",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2043.%20Recusar-se%20a%20receber%2C%20pelo%20seu%20valor%2C%20moeda%20de%20curso%20legal%20no%20pa%C3%ADs%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Usar, como propaganda, de impresso ou objeto que pessoa inexperiente ou rústica possa confundir com moeda:\n\nPena – multa, de duzentos mil réis a dois contos de réis.\n\nSimulação da qualidade de funcionário",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2044.%20Usar%2C%20como%20propaganda%2C%20de%20impresso%20ou%20objeto%20que%20pessoa%20inexperiente%20ou%20r%C3%BAstica%20possa%20confundir%20com%20moeda%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Fingir-se funcionário público:\n\nPena – prisão simples, de um a três meses, ou multa, de quinhentos mil réis a três contos de réis.\n\nUso ilegítimo de uniforme ou distintivo",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2045.%20Fingir-se%20funcion%C3%A1rio%20p%C3%BAblico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Usar, publicamente, de uniforme, ou distintivo de função pública que não exerce:",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2046.%20Usar%2C%20publicamente%2C%20de%20uniforme%2C%20ou%20distintivo%20de%20fun%C3%A7%C3%A3o%20p%C3%BAblica%20que%20n%C3%A3o%20exerce%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Exercer profissão ou atividade econômica ou anunciar que a exerce, sem preencher as condições a que por lei está subordinado o seu exercício:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de quinhentos mil réis a cinco contos de réis.\n\nExercício ilegal do comércio de coisas antigas e obras de arte",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2047.%20Exercer%20profiss%C3%A3o%20ou%20atividade%20econ%C3%B4mica%20ou%20anunciar%20que%20a%20exerce%2C%20sem%20preencher%20as%20condi%C3%A7%C3%B5es%20a%20que%20por%20lei%20est%C3%A1%20subordinado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Exercer, sem observância das prescrições legais, comércio de antiguidades, de obras de arte, ou de manuscritos e livros antigos ou raros:\n\nPena – prisão simples de um a seis meses, ou multa, de um a dez contos de réis.\n\nMatrícula ou escrituração de indústria e profissão",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2048.%20Exercer%2C%20sem%20observ%C3%A2ncia%20das%20prescri%C3%A7%C3%B5es%20legais%2C%20com%C3%A9rcio%20de%20antiguidades%2C%20de%20obras%20de%20arte%2C%20ou%20de%20manuscritos%20e%20livros%20antigos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Infringir determinação legal relativa à matrícula ou à escrituração de indústria, de comércio, ou de outra atividade:\n\nPena – multa, de duzentos mil réis a cinco contos de réis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2049.%20Infringir%20determina%C3%A7%C3%A3o%20legal%20relativa%20%C3%A0%20matr%C3%ADcula%20ou%20%C3%A0%20escritura%C3%A7%C3%A3o%20de%20ind%C3%BAstria%2C%20de%20com%C3%A9rcio%2C%20ou%20de%20outra%20atividade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Estabelecer ou explorar jogo de azar em lugar público ou acessivel ao público, mediante o pagamento de entrada ou sem ele: (Vide Decreto-Lei nº 4.866, de 23.10.1942) (Vide Decreto-Lei 9.215, de 30.4.1946)\n\nPena – prisão simples, de três meses a um ano, e multa, de dois a quinze contos de réis, estendendo-se os efeitos da condenação à perda dos moveis e objetos de decoração do local.\n\n§ 1º A pena é aumentada de um terço, se existe entre os empregados ou participa do jogo pessoa menor de dezoito anos.\n\n§ 2º Incorre na pena de multa, de duzentos mil réis a dois contos de réis, quem é encontrado a participar do jogo, como ponteiro ou apostador.\n\n§ 2o Incorre na pena de multa, de R$ 2.000,00 (dois mil reais) a R$ 200.000,00 (duzentos mil reais), quem é encontrado a participar do jogo, ainda que pela internet ou por qualquer outro meio de comunicação, como ponteiro ou apostador. (Redação dada pela Lei nº 13.155, de 2015)\n\n§ 3º Consideram-se, jogos de azar:\n\na) o jogo em que o ganho e a perda dependem exclusiva ou principalmente da sorte;\n\nb) as apostas sobre corrida de cavalos fora de hipódromo ou de local onde sejam autorizadas;\n\nc) as apostas sobre qualquer outra competição esportiva.\n\n§ 4º Equiparam-se, para os efeitos penais, a lugar acessivel ao público:\n\na) a casa particular em que se realizam jogos de azar, quando deles habitualmente participam pessoas que não sejam da família de quem a ocupa;\n\nb) o hotel ou casa de habitação coletiva, a cujos hóspedes e moradores se proporciona jogo de azar;\n\nc) a sede ou dependência de sociedade ou associação, em que se realiza jogo de azar;\n\nd) o estabelecimento destinado à exploração de jogo de azar, ainda que se dissimule esse destino.\n\nLoteria não autorizada",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2050.%20Estabelecer%20ou%20explorar%20jogo%20de%20azar%20em%20lugar%20p%C3%BAblico%20ou%20acessivel%20ao%20p%C3%BAblico%2C%20mediante%20o%20pagamento%20de%20entrada%20ou%20sem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Promover ou fazer extrair loteria, sem autorização legal:\n\nPena – prisão simples, de seis meses a dois anos, e multa, de cinco a dez contos de réis, estendendo-se os efeitos da condenação à perda dos moveis existentes no local.\n\n§ 1º Incorre na mesma pena quem guarda, vende ou expõe à venda, tem sob sua guarda para o fim de venda, introduz ou tenta introduzir na circulação bilhete de loteria não autorizada.\n\n§ 2º Considera-se loteria toda operação que, mediante a distribuição de bilhete, listas, cupões, vales, sinais, símbolos ou meios análogos, faz depender de sorteio a obtenção de prêmio em dinheiro ou bens de outra natureza.\n\n§ 3º Não se compreendem na definição do parágrafo anterior os sorteios autorizados na legislação especial.\n\nLoteria estrangeira",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2051.%20Promover%20ou%20fazer%20extrair%20loteria%2C%20sem%20autoriza%C3%A7%C3%A3o%20legal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Introduzir, no país, para o fim de comércio, bilhete de loteria, rifa ou tômbola estrangeiras:\n\nPena – prisão simples, de quatro meses a um ano, e multa, de um a cinco contos de réis.\n\nParágrafo único. Incorre na mesma pena quem vende, expõe à venda, tem sob sua guarda. para o fim de venda, introduz ou tenta introduzir na circulação, bilhete de loteria estrangeira.\n\nLoteria estadual",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2052.%20Introduzir%2C%20no%20pa%C3%ADs%2C%20para%20o%20fim%20de%20com%C3%A9rcio%2C%20bilhete%20de%20loteria%2C%20rifa%20ou%20t%C3%B4mbola%20estrangeiras%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Introduzir, para o fim de comércio, bilhete de loteria estadual em território onde não possa legalmente circular:\n\nPena – prisão simples, de dois a seis meses, e multa, de um a três contos de réis.\n\nParágrafo único. Incorre na mesma pena quem vende, expõe à venda, tem sob sua guarda, para o fim de venda, introduz ou tonta introduzir na circulação, bilhete de loteria estadual, em território onde não possa legalmente circular.\n\nExibição ou guarda de lista de sorteio",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2053.%20Introduzir%2C%20para%20o%20fim%20de%20com%C3%A9rcio%2C%20bilhete%20de%20loteria%20estadual%20em%20territ%C3%B3rio%20onde%20n%C3%A3o%20possa%20legalmente%20circular%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Exibir ou ter sob sua guarda lista de sorteio de loteria estrangeira:\n\nPena – prisão simples, de um a três meses, e multa, de duzentos mil réis a um conto de réis.\n\nParágrafo único. Incorre na mesma pena quem exibe ou tem sob sua guarda lista de sorteio de loteria estadual, em território onde esta não possa legalmente circular.\n\nImpressão de bilhetes, lista ou anúncios",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2054.%20Exibir%20ou%20ter%20sob%20sua%20guarda%20lista%20de%20sorteio%20de%20loteria%20estrangeira%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Imprimir ou executar qualquer serviço de feitura de bilhetes, lista de sorteio, avisos ou cartazes relativos a loteria, em lugar onde ela não possa legalmente circular:\n\nPena – prisão simples, de um a seis meses, e multa, de duzentos mil réis a dois contos de réis.\n\nDistribuição ou transporte de listas ou avisos",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2055.%20Imprimir%20ou%20executar%20qualquer%20servi%C3%A7o%20de%20feitura%20de%20bilhetes%2C%20lista%20de%20sorteio%2C%20avisos%20ou%20cartazes%20relativos%20a%20loteria%2C%20em%20lugar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Distribuir ou transportar cartazes, listas de sorteio ou avisos de loteria, onde ela não possa legalmente circular:\n\nPena – prisão simples, de um a três meses, e multa, de cem a quinhentos mil réis.\n\nPublicidade de sorteio",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2056.%20Distribuir%20ou%20transportar%20cartazes%2C%20listas%20de%20sorteio%20ou%20avisos%20de%20loteria%2C%20onde%20ela%20n%C3%A3o%20possa%20legalmente%20circular%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Divulgar, por meio de jornal ou outro impresso, de rádio, cinema, ou qualquer outra forma, ainda que disfarçadamente, anúncio, aviso ou resultado de extração de loteria, onde a circulação dos seus bilhetes não seria legal:\n\nPena – multa, de um a dez contos de réis.\n\nJogo do bicho",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2057.%20Divulgar%2C%20por%20meio%20de%20jornal%20ou%20outro%20impresso%2C%20de%20r%C3%A1dio%2C%20cinema%2C%20ou%20qualquer%20outra%20forma%2C%20ainda%20que%20disfar%C3%A7adamente%2C%20an%C3%BAncio%2C%20aviso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Explorar ou realizar a loteria denominada jogo do bicho, ou praticar qualquer ato relativo à sua realização ou exploração:\n\nPena – prisão simples, de quatro meses a um ano, e multa, de dois a vinte contos de réis.\n\nParágrafo único. Incorre na pena de multa, de duzentos mil réis a dois contos de réis, aquele que participa da loteria, visando a obtenção de prêmio, para si ou para terceiro.\n\nVadiagem",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2058.%20Explorar%20ou%20realizar%20a%20loteria%20denominada%20jogo%20do%20bicho%2C%20ou%20praticar%20qualquer%20ato%20relativo%20%C3%A0%20sua%20realiza%C3%A7%C3%A3o%20ou%20explora%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Entregar-se alguem habitualmente à ociosidade, sendo válido para o trabalho, sem ter renda que lhe assegure meios bastantes de subsistência, ou prover à própria subsistência mediante ocupação ilícita:\n\nPena – prisão simples, de quinze dias a três meses.\n\nParágrafo único. A aquisição superveniente de renda, que assegure ao condenado meios bastantes de subsistência, extingue a pena.\n\nMendicância",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2059.%20Entregar-se%20alguem%20habitualmente%20%C3%A0%20ociosidade%2C%20sendo%20v%C3%A1lido%20para%20o%20trabalho%2C%20sem%20ter%20renda%20que%20lhe%20assegure%20meios%20bastantes%20de%20subsist%C3%AAncia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Mendigar, por ociosidade ou cupidez: (Revogado pela Lei nº 11.983, de 2009)\n\nPena – prisão simples, de quinze dias a três meses. (Revogado pela Lei nº 11.983, de 2009)\n\nParágrafo único. Aumenta-se a pena de um sexto a um terço, se a contravenção é praticada: (Revogado pela Lei nº 11.983, de 2009)\n\na) de modo vexatório, ameaçador ou fraudulento. (Revogado pela Lei nº 11.983, de 2009)\n\nb) mediante simulação de moléstia ou deformidade; (Revogado pela Lei nº 11.983, de 2009)\n\nc) em companhia de alienado ou de menor de dezoito anos. (Revogado pela Lei nº 11.983, de 2009)\n\nImportunação ofensiva ao pudor",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2060.%20Mendigar%2C%20por%20ociosidade%20ou%20cupidez%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%2011.983%2C%20de%202009%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Importunar alguem, em lugar público ou acessivel ao público, de modo ofensivo ao pudor: (Revogado pela Lei nº 13.718, de 2018)\n\nPena – multa, de duzentos mil réis a dois contos de réis. (Revogado pela Lei nº 13.718, de 2018)\n\nEmbriaguez",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2061.%20Importunar%20alguem%2C%20em%20lugar%20p%C3%BAblico%20ou%20acessivel%20ao%20p%C3%BAblico%2C%20de%20modo%20ofensivo%20ao%20pudor%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.718%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Apresentar-se publicamente em estado de embriaguez, de modo que cause escândalo ou ponha em perigo a segurança própria ou alheia:\n\nPena – prisão simples, de quinze dias a três meses, ou multa, de duzentos mil réis a dois contos de réis.\n\nParágrafo único. Se habitual a embriaguez, o contraventor é internado em casa de custódia e tratamento.\n\nBebidas alcoólicas",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2062.%20Apresentar-se%20publicamente%20em%20estado%20de%20embriaguez%2C%20de%20modo%20que%20cause%20esc%C3%A2ndalo%20ou%20ponha%20em%20perigo%20a%20seguran%C3%A7a%20pr%C3%B3pria%20ou%20alheia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Servir bebidas alcoólicas:\n\nI – a menor de dezoito anos; (Revogado pela Lei nº 13.106, de 2015)\n\nII – a quem se acha em estado de embriaguez;\n\nIII – a pessoa que o agente sabe sofrer das faculdades mentais;\n\nIV – a pessoa que o agente sabe estar judicialmente proibida de frequentar lugares onde se consome bebida de tal natureza:\n\nPena – prisão simples, de dois meses a um ano, ou multa, de quinhentos mil réis a cinco contos de réis.\n\nCrueldade contra animais",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2063.%20Servir%20bebidas%20alco%C3%B3licas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Tratar animal com crueldade ou submetê-lo a trabalho excessivo:\n\nPena – prisão simples, de dez dias a um mês, ou multa, de cem a quinhentos mil réis.\n\n§ 1º Na mesma pena incorre aquele que, embora para fins didáticos ou científicos, realiza em lugar público ou exposto ao publico, experiência dolorosa ou cruel em animal vivo.\n\n§ 2º Aplica-se a pena com aumento de metade, se o animal é submetido a trabalho excessivo ou tratado com crueldade, em exibição ou espetáculo público.\n\nPerturbação da tranquilidade",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2064.%20Tratar%20animal%20com%20crueldade%20ou%20submet%C3%AA-lo%20a%20trabalho%20excessivo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Molestar alguem ou perturbar-lhe a tranquilidade, por acinte ou por motivo reprovavel: (Revogado pela Lei nº 14.132, de 2021)\n\nPena – prisão simples, de quinze dias a dois meses, ou multa, de duzentos mil réis a dois contos de réis. (Revogado pela Lei nº 14.132, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2065.%20Molestar%20alguem%20ou%20perturbar-lhe%20a%20tranquilidade%2C%20por%20acinte%20ou%20por%20motivo%20reprovavel%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.132%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Deixar de comunicar à autoridade competente:\n\nI – crime de ação pública, de que teve conhecimento no exercício de função pública, desde que a ação penal não dependa de representação;\n\nII – crime de ação pública, de que teve conhecimento no exercício da medicina ou de outra profissão sanitária, desde que a ação penal não dependa de representação e a comunicação não exponha o cliente a procedimento criminal:\n\nPena – multa, de trezentos mil réis a três contos de réis.\n\nInumação ou exumação de cadáver",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2066.%20Deixar%20de%20comunicar%20%C3%A0%20autoridade%20competente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Inumar ou exumar cadaver, com infração das disposições legais:\n\nPena – prisão simples, de um mês a um ano, ou multa, de duzentos mil réis a dois contos de réis.\n\nRecusa de dados sobre a própria identidade ou qualificação",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2067.%20Inumar%20ou%20exumar%20cadaver%2C%20com%20infra%C3%A7%C3%A3o%20das%20disposi%C3%A7%C3%B5es%20legais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Recusar à autoridade, quando por esta, justificadamente solicitados ou exigidos, dados ou indicações concernentes à própria identidade, estado, profissão, domicílio e residência:\n\nPena – multa, de duzentos mil réis a dois contos de réis.\n\nParágrafo único. Incorre na pena de prisão simples, de um a seis meses, e multa, de duzentos mil réis a dois contos de réis, se o fato não constitue infração penal mais grave, quem, nas mesmas circunstâncias, f'az declarações inverídicas a respeito de sua identidade pessoal, estado, profissão, domicílio e residência.\n\nProibição de atividade remunerada a estrangeiro",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2068.%20Recusar%20%C3%A0%20autoridade%2C%20quando%20por%20esta%2C%20justificadamente%20solicitados%20ou%20exigidos%2C%20dados%20ou%20indica%C3%A7%C3%B5es%20concernentes%20%C3%A0%20pr%C3%B3pria%20identidade%2C%20estado%2C%20profiss%C3%A3o%2C%20domic%C3%ADlio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Exercer, no território nacional, atividade remunerada o estrangeiro que nele se encontre como turista, visitante ou viajante em trânsito: (Revogado pela Lei nº 6.815, de 19.8.1980)\n\nPena – prisão simples, de três meses a um ano. (Revogado pela Lei nº 6.815, de 19.8.1980)\n\nViolação do privilégio postal da União",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2069.%20Exercer%2C%20no%20territ%C3%B3rio%20nacional%2C%20atividade%20remunerada%20o%20estrangeiro%20que%20nele%20se%20encontre%20como%20turista%2C%20visitante%20ou%20viajante%20em%20tr%C3%A2nsito%3A%20%28Revogado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Praticar qualquer ato que importe violação do monopólio postal da União:\n\nPena – prisão simples, de três meses a um ano, ou multa, de três a dez contos de réis, ou ambas cumulativamente.\n\nDISPOSIÇÕES FINAIS",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2070.%20Praticar%20qualquer%20ato%20que%20importe%20viola%C3%A7%C3%A3o%20do%20monop%C3%B3lio%20postal%20da%20Uni%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Ressalvada a legislação especial sobre florestas, caça e pesca, revogam-se as disposições em contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2071.%20Ressalvada%20a%20legisla%C3%A7%C3%A3o%20especial%20sobre%20florestas%2C%20ca%C3%A7a%20e%20pesca%2C%20revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Esta lei entrará em vigor no dia 1º de janeiro de 1942.\n\nRio de Janeiro, 3 de outubro de 1941; 120º da Independência e 58º da República.\n\nGETULIO VARGAS.\n\nFrancisco Campos.\n\nEste texto não substitui o publicado no DOU de 13.10.1941\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm#:~:text=Art.%2072.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%20no%20dia%201%C2%BA%20de%20janeiro%20de%201942.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": null
+    }
+  }
+}

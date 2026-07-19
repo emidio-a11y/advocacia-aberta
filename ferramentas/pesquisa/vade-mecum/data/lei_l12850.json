@@ -1,0 +1,543 @@
+{
+  "_meta": {
+    "codigo": "L12850",
+    "nome": "Organização Criminosa",
+    "lei": "Lei 12.850/2013",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+    "total_artigos": 33,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei define organização criminosa e dispõe sobre a investigação criminal, os meios de obtenção da prova, infrações penais correlatas e o procedimento criminal a ser aplicado.\n\n§ 1º Considera-se organização criminosa a associação de 4 (quatro) ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 (quatro) anos, ou que sejam de caráter transnacional.\n\n§ 2º Esta Lei se aplica também:\n\nI - às infrações penais previstas em tratado ou convenção internacional quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente;\n\nII - às organizações terroristas internacionais, reconhecidas segundo as normas de direito internacional, por foro do qual o Brasil faça parte, cujos atos de suporte ao terrorismo, bem como os atos preparatórios ou de execução de atos terroristas, ocorram ou possam ocorrer em território nacional.\n\nII - às organizações terroristas, entendidas como aquelas voltadas para a prática dos atos de terrorismo legalmente definidos. (Redação dada pela lei nº 13.260, de 2016)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20define%20organiza%C3%A7%C3%A3o%20criminosa%20e%20disp%C3%B5e%20sobre%20a%20investiga%C3%A7%C3%A3o%20criminal%2C%20os%20meios%20de%20obten%C3%A7%C3%A3o%20da%20prova%2C%20infra%C3%A7%C3%B5es%20penais%20correlatas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Promover, constituir, financiar ou integrar, pessoalmente ou por interposta pessoa, organização criminosa:\n\nPena - reclusão, de 3 (três) a 8 (oito) anos, e multa, sem prejuízo das penas correspondentes às demais infrações penais praticadas.\n\n§ 1º Nas mesmas penas incorre quem impede ou, de qualquer forma, embaraça a investigação de infração penal que envolva organização criminosa. (Vide ADI 5567)\n\n§ 1º Nas mesmas penas incorre quem impede ou, de qualquer forma, embaraça a investigação de infração penal que envolva organização criminosa, se o fato não constituir crime mais grave. (Redação dada pela Lei nº 15.245, de 2025)\n\n§ 2º As penas aumentam-se até a metade se na atuação da organização criminosa houver emprego de arma de fogo.\n\n§ 3º A pena é agravada para quem exerce o comando, individual ou coletivo, da organização criminosa, ainda que não pratique pessoalmente atos de execução.\n\n§ 4º A pena é aumentada de 1/6 (um sexto) a 2/3 (dois terços):\n\nI - se há participação de criança ou adolescente;\n\nII - se há concurso de funcionário público, valendo-se a organização criminosa dessa condição para a prática de infração penal;\n\nIII - se o produto ou proveito da infração penal destinar-se, no todo ou em parte, ao exterior;\n\nIV - se a organização criminosa mantém conexão com outras organizações criminosas independentes;\n\nV - se as circunstâncias do fato evidenciarem a transnacionalidade da organização.\n\n§ 5º Se houver indícios suficientes de que o funcionário público integra organização criminosa, poderá o juiz determinar seu afastamento cautelar do cargo, emprego ou função, sem prejuízo da remuneração, quando a medida se fizer necessária à investigação ou instrução processual.\n\n§ 6º A condenação com trânsito em julgado acarretará ao funcionário público a perda do cargo, função, emprego ou mandato eletivo e a interdição para o exercício de função ou cargo público pelo prazo de 8 (oito) anos subsequentes ao cumprimento da pena. (Vide ADI 5567)\n\n§ 7º Se houver indícios de participação de policial nos crimes de que trata esta Lei, a Corregedoria de Polícia instaurará inquérito policial e comunicará ao Ministério Público, que designará membro para acompanhar o feito até a sua conclusão. (Vide ADI 5567)\n\n§ 8º As lideranças de organizações criminosas armadas ou que tenham armas à disposição deverão iniciar o cumprimento da pena em estabelecimentos penais de segurança máxima. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 9º O condenado expressamente em sentença por integrar organização criminosa ou por crime praticado por meio de organização criminosa não poderá progredir de regime de cumprimento de pena ou obter livramento condicional ou outros benefícios prisionais se houver elementos probatórios que indiquem a manutenção do vínculo associativo. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%202%C2%BA%20Promover%2C%20constituir%2C%20financiar%20ou%20integrar%2C%20pessoalmente%20ou%20por%20interposta%20pessoa%2C%20organiza%C3%A7%C3%A3o%20criminosa%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Em qualquer fase da persecução penal, serão permitidos, sem prejuízo de outros já previstos em lei, os seguintes meios de obtenção da prova:\n\nI - colaboração premiada;\n\nII - captação ambiental de sinais eletromagnéticos, ópticos ou acústicos;\n\nIII - ação controlada;\n\nIV - acesso a registros de ligações telefônicas e telemáticas, a dados cadastrais constantes de bancos de dados públicos ou privados e a informações eleitorais ou comerciais;\n\nV - interceptação de comunicações telefônicas e telemáticas, nos termos da legislação específica;\n\nVI - afastamento dos sigilos financeiro, bancário e fiscal, nos termos da legislação específica;\n\nVII - infiltração, por policiais, em atividade de investigação, na forma do art. 11;\n\nVIII - cooperação entre instituições e órgãos federais, distritais, estaduais e municipais na busca de provas e informações de interesse da investigação ou da instrução criminal.\n\n§ 1º Havendo necessidade justificada de manter sigilo sobre a capacidade investigatória, poderá ser dispensada licitação para contratação de serviços técnicos especializados, aquisição ou locação de equipamentos destinados à polícia judiciária para o rastreamento e obtenção de provas previstas nos incisos II e V. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 2º No caso do § 1º , fica dispensada a publicação de que trata o parágrafo único do art. 61 da Lei nº 8.666, de 21 de junho de 1993, devendo ser comunicado o órgão de controle interno da realização da contratação. (Incluído pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%203%C2%BA%20Em%20qualquer%20fase%20da%20persecu%C3%A7%C3%A3o%20penal%2C%20ser%C3%A3o%20permitidos%2C%20sem%20preju%C3%ADzo%20de%20outros%20j%C3%A1%20previstos%20em%20lei%2C%20os%20seguintes%20meios%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O juiz poderá, a requerimento das partes, conceder o perdão judicial, reduzir em até 2/3 (dois terços) a pena privativa de liberdade ou substituí-la por restritiva de direitos daquele que tenha colaborado efetiva e voluntariamente com a investigação e com o processo criminal, desde que dessa colaboração advenha um ou mais dos seguintes resultados:\n\nI - a identificação dos demais coautores e partícipes da organização criminosa e das infrações penais por eles praticadas;\n\nII - a revelação da estrutura hierárquica e da divisão de tarefas da organização criminosa;\n\nIII - a prevenção de infrações penais decorrentes das atividades da organização criminosa;\n\nIV - a recuperação total ou parcial do produto ou do proveito das infrações penais praticadas pela organização criminosa; (Vide ADPF 569)\n\nV - a localização de eventual vítima com a sua integridade física preservada.\n\n§ 1º Em qualquer caso, a concessão do benefício levará em conta a personalidade do colaborador, a natureza, as circunstâncias, a gravidade e a repercussão social do fato criminoso e a eficácia da colaboração.\n\n§ 2º Considerando a relevância da colaboração prestada, o Ministério Público, a qualquer tempo, e o delegado de polícia, nos autos do inquérito policial, com a manifestação do Ministério Público, poderão requerer ou representar ao juiz pela concessão de perdão judicial ao colaborador, ainda que esse benefício não tenha sido previsto na proposta inicial, aplicando-se, no que couber, o art. 28 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal).\n\n§ 3º O prazo para oferecimento de denúncia ou o processo, relativos ao colaborador, poderá ser suspenso por até 6 (seis) meses, prorrogáveis por igual período, até que sejam cumpridas as medidas de colaboração, suspendendo-se o respectivo prazo prescricional.\n\n§ 4º Nas mesmas hipóteses do caput , o Ministério Público poderá deixar de oferecer denúncia se o colaborador:\n\n§ 4º Nas mesmas hipóteses do caput deste artigo, o Ministério Público poderá deixar de oferecer denúncia se a proposta de acordo de colaboração referir-se a infração de cuja existência não tenha prévio conhecimento e o colaborador: (Redação dada pela Lei nº 13.964, de 2019)\n\nI - não for o líder da organização criminosa;\n\nII - for o primeiro a prestar efetiva colaboração nos termos deste artigo.\n\n§ 4º-A. Considera-se existente o conhecimento prévio da infração quando o Ministério Público ou a autoridade policial competente tenha instaurado inquérito ou procedimento investigatório para apuração dos fatos apresentados pelo colaborador. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 5º Se a colaboração for posterior à sentença, a pena poderá ser reduzida até a metade ou será admitida a progressão de regime ainda que ausentes os requisitos objetivos.\n\n§ 6º O juiz não participará das negociações realizadas entre as partes para a formalização do acordo de colaboração, que ocorrerá entre o delegado de polícia, o investigado e o defensor, com a manifestação do Ministério Público, ou, conforme o caso, entre o Ministério Público e o investigado ou acusado e seu defensor.\n\n§ 7º Realizado o acordo na forma do § 6º , o respectivo termo, acompanhado das declarações do colaborador e de cópia da investigação, será remetido ao juiz para homologação, o qual deverá verificar sua regularidade, legalidade e voluntariedade, podendo para este fim, sigilosamente, ouvir o colaborador, na presença de seu defensor.\n\n§ 7º Realizado o acordo na forma do § 6º deste artigo, serão remetidos ao juiz, para análise, o respectivo termo, as declarações do colaborador e cópia da investigação, devendo o juiz ouvir sigilosamente o colaborador, acompanhado de seu defensor, oportunidade em que analisará os seguintes aspectos na homologação: (Redação dada pela Lei nº 13.964, de 2019)\n\nI - regularidade e legalidade; (Incluído pela Lei nº 13.964, de 2019)\n\nII - adequação dos benefícios pactuados àqueles previstos no caput e nos §§ 4º e 5º deste artigo, sendo nulas as cláusulas que violem o critério de definição do regime inicial de cumprimento de pena do art. 33 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), as regras de cada um dos regimes previstos no Código Penal e na Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) e os requisitos de progressão de regime não abrangidos pelo § 5º deste artigo; (Incluído pela Lei nº 13.964, de 2019)\n\nIII - adequação dos resultados da colaboração aos resultados mínimos exigidos nos incisos I, II, III, IV e V do caput deste artigo; (Incluído pela Lei nº 13.964, de 2019)\n\nIV - voluntariedade da manifestação de vontade, especialmente nos casos em que o colaborador está ou esteve sob efeito de medidas cautelares. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 7º-A O juiz ou o tribunal deve proceder à análise fundamentada do mérito da denúncia, do perdão judicial e das primeiras etapas de aplicação da pena, nos termos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), antes de conceder os benefícios pactuados, exceto quando o acordo prever o não oferecimento da denúncia na forma dos §§ 4º e 4º-A deste artigo ou já tiver sido proferida sentença. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 7º-B. São nulas de pleno direito as previsões de renúncia ao direito de impugnar a decisão homologatória. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 8º O juiz poderá recusar homologação à proposta que não atender aos requisitos legais, ou adequá-la ao caso concreto.\n\n§ 8º O juiz poderá recusar a homologação da proposta que não atender aos requisitos legais, devolvendo-a às partes para as adequações necessárias. (Redação dada pela Lei nº 13.964, de 2019)\n\n§ 9º Depois de homologado o acordo, o colaborador poderá, sempre acompanhado pelo seu defensor, ser ouvido pelo membro do Ministério Público ou pelo delegado de polícia responsável pelas investigações.\n\n§ 10. As partes podem retratar-se da proposta, caso em que as provas autoincriminatórias produzidas pelo colaborador não poderão ser utilizadas exclusivamente em seu desfavor.\n\n§ 10-A Em todas as fases do processo, deve-se garantir ao réu delatado a oportunidade de manifestar-se após o decurso do prazo concedido ao réu que o delatou. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 11. A sentença apreciará os termos do acordo homologado e sua eficácia.\n\n§ 12. Ainda que beneficiado por perdão judicial ou não denunciado, o colaborador poderá ser ouvido em juízo a requerimento das partes ou por iniciativa da autoridade judicial.\n\n§ 13. Sempre que possível, o registro dos atos de colaboração será feito pelos meios ou recursos de gravação magnética, estenotipia, digital ou técnica similar, inclusive audiovisual, destinados a obter maior fidelidade das informações.\n\n§ 13. O registro das tratativas e dos atos de colaboração deverá ser feito pelos meios ou recursos de gravação magnética, estenotipia, digital ou técnica similar, inclusive audiovisual, destinados a obter maior fidelidade das informações, garantindo-se a disponibilização de cópia do material ao colaborador. (Redação dada pela Lei nº 13.964, de 2019)\n\n§ 14. Nos depoimentos que prestar, o colaborador renunciará, na presença de seu defensor, ao direito ao silêncio e estará sujeito ao compromisso legal de dizer a verdade. (Vide ADI 5567)\n\n§ 15. Em todos os atos de negociação, confirmação e execução da colaboração, o colaborador deverá estar assistido por defensor.\n\n§ 16. Nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador.\n\n§ 16. Nenhuma das seguintes medidas será decretada ou proferida com fundamento apenas nas declarações do colaborador: (Redação dada pela Lei nº 13.964, de 2019)\n\nI - medidas cautelares reais ou pessoais; (Incluído pela Lei nº 13.964, de 2019)\n\nII - recebimento de denúncia ou queixa-crime; (Incluído pela Lei nº 13.964, de 2019)\n\nIII - sentença condenatória. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 17. O acordo homologado poderá ser rescindido em caso de omissão dolosa sobre os fatos objeto da colaboração. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 18. O acordo de colaboração premiada pressupõe que o colaborador cesse o envolvimento em conduta ilícita relacionada ao objeto da colaboração, sob pena de rescisão. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%204%C2%BA%20O%20juiz%20poder%C3%A1%2C%20a%20requerimento%20das%20partes%2C%20conceder%20o%20perd%C3%A3o%20judicial%2C%20reduzir%20em%20at%C3%A9%202%2F3%20%28dois%20ter%C3%A7os%29%20a%20pena%20privativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º São direitos do colaborador:\n\nI - usufruir das medidas de proteção previstas na legislação específica;\n\nII - ter nome, qualificação, imagem e demais informações pessoais preservados;\n\nIII - ser conduzido, em juízo, separadamente dos demais coautores e partícipes;\n\nIV - participar das audiências sem contato visual com os outros acusados;\n\nV - não ter sua identidade revelada pelos meios de comunicação, nem ser fotografado ou filmado, sem sua prévia autorização por escrito;\n\nVI - cumprir pena em estabelecimento penal diverso dos demais corréus ou condenados.\n\nVI - cumprir pena ou prisão cautelar em estabelecimento penal diverso dos demais corréus ou condenados. (Redação dada pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%205%C2%BA%20S%C3%A3o%20direitos%20do%20colaborador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O termo de acordo da colaboração premiada deverá ser feito por escrito e conter:\n\nI - o relato da colaboração e seus possíveis resultados;\n\nII - as condições da proposta do Ministério Público ou do delegado de polícia;\n\nIII - a declaração de aceitação do colaborador e de seu defensor;\n\nIV - as assinaturas do representante do Ministério Público ou do delegado de polícia, do colaborador e de seu defensor;\n\nV - a especificação das medidas de proteção ao colaborador e à sua família, quando necessário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%206%C2%BA%20O%20termo%20de%20acordo%20da%20colabora%C3%A7%C3%A3o%20premiada%20dever%C3%A1%20ser%20feito%20por%20escrito%20e%20conter%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O pedido de homologação do acordo será sigilosamente distribuído, contendo apenas informações que não possam identificar o colaborador e o seu objeto.\n\n§ 1º As informações pormenorizadas da colaboração serão dirigidas diretamente ao juiz a que recair a distribuição, que decidirá no prazo de 48 (quarenta e oito) horas.\n\n§ 2º O acesso aos autos será restrito ao juiz, ao Ministério Público e ao delegado de polícia, como forma de garantir o êxito das investigações, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exercício do direito de defesa, devidamente precedido de autorização judicial, ressalvados os referentes às diligências em andamento.\n\n§ 3º O acordo de colaboração premiada deixa de ser sigiloso assim que recebida a denúncia, observado o disposto no art. 5º .\n\n§ 3º O acordo de colaboração premiada e os depoimentos do colaborador serão mantidos em sigilo até o recebimento da denúncia ou da queixa-crime, sendo vedado ao magistrado decidir por sua publicidade em qualquer hipótese. (Redação dada pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%207%C2%BA%20O%20pedido%20de%20homologa%C3%A7%C3%A3o%20do%20acordo%20ser%C3%A1%20sigilosamente%20distribu%C3%ADdo%2C%20contendo%20apenas%20informa%C3%A7%C3%B5es%20que%20n%C3%A3o%20possam%20identificar%20o%20colaborador%20e%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Consiste a ação controlada em retardar a intervenção policial ou administrativa relativa à ação praticada por organização criminosa ou a ela vinculada, desde que mantida sob observação e acompanhamento para que a medida legal se concretize no momento mais eficaz à formação de provas e obtenção de informações.\n\n§ 1º O retardamento da intervenção policial ou administrativa será previamente comunicado ao juiz competente que, se for o caso, estabelecerá os seus limites e comunicará ao Ministério Público.\n\n§ 2º A comunicação será sigilosamente distribuída de forma a não conter informações que possam indicar a operação a ser efetuada.\n\n§ 3º Até o encerramento da diligência, o acesso aos autos será restrito ao juiz, ao Ministério Público e ao delegado de polícia, como forma de garantir o êxito das investigações.\n\n§ 4º Ao término da diligência, elaborar-se-á auto circunstanciado acerca da ação controlada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%208%C2%BA%20Consiste%20a%20a%C3%A7%C3%A3o%20controlada%20em%20retardar%20a%20interven%C3%A7%C3%A3o%20policial%20ou%20administrativa%20relativa%20%C3%A0%20a%C3%A7%C3%A3o%20praticada%20por%20organiza%C3%A7%C3%A3o%20criminosa%20ou%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Se a ação controlada envolver transposição de fronteiras, o retardamento da intervenção policial ou administrativa somente poderá ocorrer com a cooperação das autoridades dos países que figurem como provável itinerário ou destino do investigado, de modo a reduzir os riscos de fuga e extravio do produto, objeto, instrumento ou proveito do crime.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%209%C2%BA%20Se%20a%20a%C3%A7%C3%A3o%20controlada%20envolver%20transposi%C3%A7%C3%A3o%20de%20fronteiras%2C%20o%20retardamento%20da%20interven%C3%A7%C3%A3o%20policial%20ou%20administrativa%20somente%20poder%C3%A1%20ocorrer%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A infiltração de agentes de polícia em tarefas de investigação, representada pelo delegado de polícia ou requerida pelo Ministério Público, após manifestação técnica do delegado de polícia quando solicitada no curso de inquérito policial, será precedida de circunstanciada, motivada e sigilosa autorização judicial, que estabelecerá seus limites.\n\n§ 1º Na hipótese de representação do delegado de polícia, o juiz competente, antes de decidir, ouvirá o Ministério Público.\n\n§ 2º Será admitida a infiltração se houver indícios de infração penal de que trata o art. 1º e se a prova não puder ser produzida por outros meios disponíveis.\n\n§ 3º A infiltração será autorizada pelo prazo de até 6 (seis) meses, sem prejuízo de eventuais renovações, desde que comprovada sua necessidade.\n\n§ 4º Findo o prazo previsto no § 3º , o relatório circunstanciado será apresentado ao juiz competente, que imediatamente cientificará o Ministério Público.\n\n§ 5º No curso do inquérito policial, o delegado de polícia poderá determinar aos seus agentes, e o Ministério Público poderá requisitar, a qualquer tempo, relatório da atividade de infiltração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2010.%20A%20infiltra%C3%A7%C3%A3o%20de%20agentes%20de%20pol%C3%ADcia%20em%20tarefas%20de%20investiga%C3%A7%C3%A3o%2C%20representada%20pelo%20delegado%20de%20pol%C3%ADcia%20ou%20requerida%20pelo%20Minist%C3%A9rio%20P%C3%BAblico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. Será admitida a ação de agentes de polícia infiltrados virtuais, obedecidos os requisitos do caput do art. 10, na internet, com o fim de investigar os crimes previstos nesta Lei e a eles conexos, praticados por organizações criminosas, desde que demonstrada sua necessidade e indicados o alcance das tarefas dos policiais, os nomes ou apelidos das pessoas investigadas e, quando possível, os dados de conexão ou cadastrais que permitam a identificação dessas pessoas. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º Para efeitos do disposto nesta Lei, consideram-se: (Incluído pela Lei nº 13.964, de 2019)\n\nI - dados de conexão: informações referentes a hora, data, início, término, duração, endereço de Protocolo de Internet (IP) utilizado e terminal de origem da conexão; (Incluído pela Lei nº 13.964, de 2019)\n\nII - dados cadastrais: informações referentes a nome e endereço de assinante ou de usuário registrado ou autenticado para a conexão a quem endereço de IP, identificação de usuário ou código de acesso tenha sido atribuído no momento da conexão. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º Na hipótese de representação do delegado de polícia, o juiz competente, antes de decidir, ouvirá o Ministério Público. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 3º Será admitida a infiltração se houver indícios de infração penal de que trata o art. 1º desta Lei e se as provas não puderem ser produzidas por outros meios disponíveis. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º A infiltração será autorizada pelo prazo de até 6 (seis) meses, sem prejuízo de eventuais renovações, mediante ordem judicial fundamentada e desde que o total não exceda a 720 (setecentos e vinte) dias e seja comprovada sua necessidade. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 5º Findo o prazo previsto no § 4º deste artigo, o relatório circunstanciado, juntamente com todos os atos eletrônicos praticados durante a operação, deverão ser registrados, gravados, armazenados e apresentados ao juiz competente, que imediatamente cientificará o Ministério Público. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 6º No curso do inquérito policial, o delegado de polícia poderá determinar aos seus agentes, e o Ministério Público e o juiz competente poderão requisitar, a qualquer tempo, relatório da atividade de infiltração. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 7º É nula a prova obtida sem a observância do disposto neste artigo. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2010-A.%20Ser%C3%A1%20admitida%20a%20a%C3%A7%C3%A3o%20de%20agentes%20de%20pol%C3%ADcia%20infiltrados%20virtuais%2C%20obedecidos%20os%20requisitos%20do%20caput%20do%20art.%2010%2C%20na%20internet%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10",
+      "next": "10-B"
+    },
+    "10-B": {
+      "numero": "10-B",
+      "texto": "Art. 10-B. As informações da operação de infiltração serão encaminhadas diretamente ao juiz responsável pela autorização da medida, que zelará por seu sigilo. (Incluído pela Lei nº 13.964, de 2019)\n\nParágrafo único. Antes da conclusão da operação, o acesso aos autos será reservado ao juiz, ao Ministério Público e ao delegado de polícia responsável pela operação, com o objetivo de garantir o sigilo das investigações. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2010-B.%20As%20informa%C3%A7%C3%B5es%20da%20opera%C3%A7%C3%A3o%20de%20infiltra%C3%A7%C3%A3o%20ser%C3%A3o%20encaminhadas%20diretamente%20ao%20juiz%20respons%C3%A1vel%20pela%20autoriza%C3%A7%C3%A3o%20da%20medida%2C%20que%20zelar%C3%A1%20por%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10-A",
+      "next": "10-C"
+    },
+    "10-C": {
+      "numero": "10-C",
+      "texto": "Art. 10-C. Não comete crime o policial que oculta a sua identidade para, por meio da internet, colher indícios de autoria e materialidade dos crimes previstos no art. 1º desta Lei. (Incluído pela Lei nº 13.964, de 2019)\n\nParágrafo único. O agente policial infiltrado que deixar de observar a estrita finalidade da investigação responderá pelos excessos praticados. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2010-C.%20N%C3%A3o%20comete%20crime%20o%20policial%20que%20oculta%20a%20sua%20identidade%20para%2C%20por%20meio%20da%20internet%2C%20colher%20ind%C3%ADcios%20de%20autoria%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10-B",
+      "next": "10-D"
+    },
+    "10-D": {
+      "numero": "10-D",
+      "texto": "Art. 10-D. Concluída a investigação, todos os atos eletrônicos praticados durante a operação deverão ser registrados, gravados, armazenados e encaminhados ao juiz e ao Ministério Público, juntamente com relatório circunstanciado. (Incluído pela Lei nº 13.964, de 2019)\n\nParágrafo único. Os atos eletrônicos registrados citados no caput deste artigo serão reunidos em autos apartados e apensados ao processo criminal juntamente com o inquérito policial, assegurando-se a preservação da identidade do agente policial infiltrado e a intimidade dos envolvidos. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2010-D.%20Conclu%C3%ADda%20a%20investiga%C3%A7%C3%A3o%2C%20todos%20os%20atos%20eletr%C3%B4nicos%20praticados%20durante%20a%20opera%C3%A7%C3%A3o%20dever%C3%A3o%20ser%20registrados%2C%20gravados%2C%20armazenados%20e%20encaminhados%20ao%20juiz",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10-C",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O requerimento do Ministério Público ou a representação do delegado de polícia para a infiltração de agentes conterão a demonstração da necessidade da medida, o alcance das tarefas dos agentes e, quando possível, os nomes ou apelidos das pessoas investigadas e o local da infiltração.\n\nParágrafo único. Os órgãos de registro e cadastro público poderão incluir nos bancos de dados próprios, mediante procedimento sigiloso e requisição da autoridade judicial, as informações necessárias à efetividade da identidade fictícia criada, nos casos de infiltração de agentes na internet. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2011.%20O%20requerimento%20do%20Minist%C3%A9rio%20P%C3%BAblico%20ou%20a%20representa%C3%A7%C3%A3o%20do%20delegado%20de%20pol%C3%ADcia%20para%20a%20infiltra%C3%A7%C3%A3o%20de%20agentes%20conter%C3%A3o%20a%20demonstra%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10-D",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O pedido de infiltração será sigilosamente distribuído, de forma a não conter informações que possam indicar a operação a ser efetivada ou identificar o agente que será infiltrado.\n\n§ 1º As informações quanto à necessidade da operação de infiltração serão dirigidas diretamente ao juiz competente, que decidirá no prazo de 24 (vinte e quatro) horas, após manifestação do Ministério Público na hipótese de representação do delegado de polícia, devendo-se adotar as medidas necessárias para o êxito das investigações e a segurança do agente infiltrado.\n\n§ 2º Os autos contendo as informações da operação de infiltração acompanharão a denúncia do Ministério Público, quando serão disponibilizados à defesa, assegurando-se a preservação da identidade do agente.\n\n§ 3º Havendo indícios seguros de que o agente infiltrado sofre risco iminente, a operação será sustada mediante requisição do Ministério Público ou pelo delegado de polícia, dando-se imediata ciência ao Ministério Público e à autoridade judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2012.%20O%20pedido%20de%20infiltra%C3%A7%C3%A3o%20ser%C3%A1%20sigilosamente%20distribu%C3%ADdo%2C%20de%20forma%20a%20n%C3%A3o%20conter%20informa%C3%A7%C3%B5es%20que%20possam%20indicar%20a%20opera%C3%A7%C3%A3o%20a%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O agente que não guardar, em sua atuação, a devida proporcionalidade com a finalidade da investigação, responderá pelos excessos praticados.\n\nParágrafo único. Não é punível, no âmbito da infiltração, a prática de crime pelo agente infiltrado no curso da investigação, quando inexigível conduta diversa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2013.%20O%20agente%20que%20n%C3%A3o%20guardar%2C%20em%20sua%20atua%C3%A7%C3%A3o%2C%20a%20devida%20proporcionalidade%20com%20a%20finalidade%20da%20investiga%C3%A7%C3%A3o%2C%20responder%C3%A1%20pelos%20excessos%20praticados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. São direitos do agente:\n\nI - recusar ou fazer cessar a atuação infiltrada;\n\nII - ter sua identidade alterada, aplicando-se, no que couber, o disposto no art. 9º da Lei nº 9.807, de 13 de julho de 1999, bem como usufruir das medidas de proteção a testemunhas;\n\nIII - ter seu nome, sua qualificação, sua imagem, sua voz e demais informações pessoais preservadas durante a investigação e o processo criminal, salvo se houver decisão judicial em contrário;\n\nIV - não ter sua identidade revelada, nem ser fotografado ou filmado pelos meios de comunicação, sem sua prévia autorização por escrito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2014.%20S%C3%A3o%20direitos%20do%20agente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O delegado de polícia e o Ministério Público terão acesso, independentemente de autorização judicial, apenas aos dados cadastrais do investigado que informem exclusivamente a qualificação pessoal, a filiação e o endereço mantidos pela Justiça Eleitoral, empresas telefônicas, instituições financeiras, provedores de internet e administradoras de cartão de crédito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2015.%20O%20delegado%20de%20pol%C3%ADcia%20e%20o%20Minist%C3%A9rio%20P%C3%BAblico%20ter%C3%A3o%20acesso%2C%20independentemente%20de%20autoriza%C3%A7%C3%A3o%20judicial%2C%20apenas%20aos%20dados%20cadastrais%20do%20investigado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As empresas de transporte possibilitarão, pelo prazo de 5 (cinco) anos, acesso direto e permanente do juiz, do Ministério Público ou do delegado de polícia aos bancos de dados de reservas e registro de viagens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2016.%20As%20empresas%20de%20transporte%20possibilitar%C3%A3o%2C%20pelo%20prazo%20de%205%20%28cinco%29%20anos%2C%20acesso%20direto%20e%20permanente%20do%20juiz%2C%20do%20Minist%C3%A9rio%20P%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As concessionárias de telefonia fixa ou móvel manterão, pelo prazo de 5 (cinco) anos, à disposição das autoridades mencionadas no art. 15, registros de identificação dos números dos terminais de origem e de destino das ligações telefônicas internacionais, interurbanas e locais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2017.%20As%20concession%C3%A1rias%20de%20telefonia%20fixa%20ou%20m%C3%B3vel%20manter%C3%A3o%2C%20pelo%20prazo%20de%205%20%28cinco%29%20anos%2C%20%C3%A0%20disposi%C3%A7%C3%A3o%20das%20autoridades%20mencionadas%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Revelar a identidade, fotografar ou filmar o colaborador, sem sua prévia autorização por escrito:\n\nPena - reclusão, de 1 (um) a 3 (três) anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2018.%20Revelar%20a%20identidade%2C%20fotografar%20ou%20filmar%20o%20colaborador%2C%20sem%20sua%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%20por%20escrito%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Imputar falsamente, sob pretexto de colaboração com a Justiça, a prática de infração penal a pessoa que sabe ser inocente, ou revelar informações sobre a estrutura de organização criminosa que sabe inverídicas:\n\nPena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2019.%20Imputar%20falsamente%2C%20sob%20pretexto%20de%20colabora%C3%A7%C3%A3o%20com%20a%20Justi%C3%A7a%2C%20a%20pr%C3%A1tica%20de%20infra%C3%A7%C3%A3o%20penal%20a%20pessoa%20que%20sabe%20ser%20inocente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Descumprir determinação de sigilo das investigações que envolvam a ação controlada e a infiltração de agentes:\n\nPena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2020.%20Descumprir%20determina%C3%A7%C3%A3o%20de%20sigilo%20das%20investiga%C3%A7%C3%B5es%20que%20envolvam%20a%20a%C3%A7%C3%A3o%20controlada%20e%20a%20infiltra%C3%A7%C3%A3o%20de%20agentes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Recusar ou omitir dados cadastrais, registros, documentos e informações requisitadas pelo juiz, Ministério Público ou delegado de polícia, no curso de investigação ou do processo:\n\nPena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa.\n\nParágrafo único. Na mesma pena incorre quem, de forma indevida, se apossa, propala, divulga ou faz uso dos dados cadastrais de que trata esta Lei.\n\nObstrução de ações contra o crime organizado (Incluído pela Lei nº 15.245, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2021.%20Recusar%20ou%20omitir%20dados%20cadastrais%2C%20registros%2C%20documentos%20e%20informa%C3%A7%C3%B5es%20requisitadas%20pelo%20juiz%2C%20Minist%C3%A9rio%20P%C3%BAblico%20ou%20delegado%20de%20pol%C3%ADcia%2C%20no%20curso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "20",
+      "next": "21-A"
+    },
+    "21-A": {
+      "numero": "21-A",
+      "texto": "Art. 21-A. Solicitar, mediante promessa ou concessão de vantagem de qualquer natureza, ou ordenar a alguém a prática de violência ou de grave ameaça contra agente público, advogado, defensor dativo, jurado, testemunha, colaborador ou perito, com o fim de impedir, embaraçar ou retaliar o regular andamento de processo ou investigação de crimes praticados por organização criminosa ou a aprovação de qualquer medida contra o crime organizado. (Incluído pela Lei nº 15.245, de 2025)\n\nPena – reclusão, de 4 (quatro) a 12 (doze) anos, e multa. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 1º Incorre nas penas deste artigo quem pratica as condutas nele previstas contra cônjuge, companheiro, filho ou parente consanguíneo até o terceiro grau, ou por afinidade, das pessoas relacionadas no caput deste artigo. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 2º Se a violência ou grave ameaça é tentada ou consumada, aplica-se também a pena cominada ao crime correspondente. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 3º O condenado pelo crime previsto neste artigo deverá iniciar o cumprimento da pena em estabelecimento penal federal de segurança máxima. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 4º O preso provisório investigado ou processado por crime previsto neste artigo será recolhido a estabelecimento penal federal de segurança máxima. (Incluído pela Lei nº 15.245, de 2025)\n\nConspiração para obstrução de ações contra o crime organizado (Incluído pela Lei nº 15.245, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2021-A.%20Solicitar%2C%20mediante%20promessa%20ou%20concess%C3%A3o%20de%20vantagem%20de%20qualquer%20natureza%2C%20ou%20ordenar%20a%20algu%C3%A9m%20a%20pr%C3%A1tica%20de%20viol%C3%AAncia%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "21",
+      "next": "21-B"
+    },
+    "21-B": {
+      "numero": "21-B",
+      "texto": "Art. 21-B. Ajustarem-se duas ou mais pessoas para a prática de violência ou de grave ameaça contra agente público, advogado, defensor dativo, jurado, testemunha, colaborador ou perito, com o fim de impedir, embaraçar ou retaliar o regular andamento de processo ou investigação de crimes praticados por organização criminosa ou a aprovação de qualquer medida contra o crime organizado. (Incluído pela Lei nº 15.245, de 2025)\n\nPena – reclusão, de 4 (quatro) a 12 (doze) anos, e multa. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 1º Incorre nas penas deste artigo quem pratica as condutas nele previstas contra cônjuge, companheiro, filho ou parente consanguíneo até o terceiro grau, ou por afinidade, das pessoas relacionadas no caput deste artigo. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 2º Se a violência ou grave ameaça é tentada ou consumada, aplica-se também a pena cominada ao crime correspondente. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 3º O condenado pelo crime previsto neste artigo deverá iniciar o cumprimento da pena em estabelecimento penal federal de segurança máxima. (Incluído pela Lei nº 15.245, de 2025)\n\n§ 4º O preso provisório investigado ou processado por crime previsto neste artigo será recolhido a estabelecimento penal federal de segurança máxima. (Incluído pela Lei nº 15.245, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2021-B.%20Ajustarem-se%20duas%20ou%20mais%20pessoas%20para%20a%20pr%C3%A1tica%20de%20viol%C3%AAncia%20ou%20de%20grave%20amea%C3%A7a%20contra%20agente%20p%C3%BAblico%2C%20advogado%2C%20defensor%20dativo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "21-A",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os crimes previstos nesta Lei e as infrações penais conexas serão apurados mediante procedimento ordinário previsto no Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), observado o disposto no parágrafo único deste artigo.\n\nParágrafo único. A instrução criminal deverá ser encerrada em prazo razoável, o qual não poderá exceder a 120 (cento e vinte) dias quando o réu estiver preso, prorrogáveis em até igual período, por decisão fundamentada, devidamente motivada pela complexidade da causa ou por fato procrastinatório atribuível ao réu.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2022.%20Os%20crimes%20previstos%20nesta%20Lei%20e%20as%20infra%C3%A7%C3%B5es%20penais%20conexas%20ser%C3%A3o%20apurados%20mediante%20procedimento%20ordin%C3%A1rio%20previsto%20no%20Decreto-Lei%20n%C2%BA%203.689%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21-B",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O sigilo da investigação poderá ser decretado pela autoridade judicial competente, para garantia da celeridade e da eficácia das diligências investigatórias, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exercício do direito de defesa, devidamente precedido de autorização judicial, ressalvados os referentes às diligências em andamento.\n\nParágrafo único. Determinado o depoimento do investigado, seu defensor terá assegurada a prévia vista dos autos, ainda que classificados como sigilosos, no prazo mínimo de 3 (três) dias que antecedem ao ato, podendo ser ampliado, a critério da autoridade responsável pela investigação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2023.%20O%20sigilo%20da%20investiga%C3%A7%C3%A3o%20poder%C3%A1%20ser%20decretado%20pela%20autoridade%20judicial%20competente%2C%20para%20garantia%20da%20celeridade%20e%20da%20efic%C3%A1cia%20das%20dilig%C3%AAncias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O art. 288 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar com a seguinte redação:\n\n“ Associação Criminosa",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2024.%20O%20art.%20288%20do%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de%201940%20%28C%C3%B3digo%20Penal%29%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O art. 342 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar com a seguinte redação:\n\n“Art. 342. ...................................................................................\n\nPena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.\n\n..................................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2025.%20O%20art.%20342%20do%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de%201940%20%28C%C3%B3digo%20Penal%29%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Revoga-se a Lei nº 9.034, de 3 de maio de 1995.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2026.%20Revoga-se%20a%20Lei%20n%C2%BA%209.034%2C%20de%203%20de%20maio%20de%201995.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Esta Lei entra em vigor após decorridos 45 (quarenta e cinco) dias de sua publicação oficial.\n\nBrasília, 2 de agosto de 2013; 192º da Independência e 125º da República.\n\nDILMA ROUSSEFF\n\nJosé Eduardo Cardozo\n\nEste texto não substitui o publicado no DOU de 5.8.2013 - Edição extra\n\n*\n\nNão remover!",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%2027.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%2045%20%28quarenta%20e%20cinco%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": null
+    }
+  }
+}

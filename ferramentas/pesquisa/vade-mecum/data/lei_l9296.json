@@ -1,0 +1,223 @@
+{
+  "_meta": {
+    "codigo": "L9296",
+    "nome": "Interceptação Telefônica",
+    "lei": "Lei 9.296/1996",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+    "total_artigos": 13,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º A interceptação de comunicações telefônicas, de qualquer natureza, para prova em investigação criminal e em instrução processual penal, observará o disposto nesta Lei e dependerá de ordem do juiz competente da ação principal, sob segredo de justiça.\n\nParágrafo único. O disposto nesta Lei aplica-se à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%201%C2%BA%20A%20intercepta%C3%A7%C3%A3o%20de%20comunica%C3%A7%C3%B5es%20telef%C3%B4nicas%2C%20de%20qualquer%20natureza%2C%20para%20prova%20em%20investiga%C3%A7%C3%A3o%20criminal%20e%20em%20instru%C3%A7%C3%A3o%20processual%20penal%2C%20observar%C3%A1%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° Não será admitida a interceptação de comunicações telefônicas quando ocorrer qualquer das seguintes hipóteses:\n\nI - não houver indícios razoáveis da autoria ou participação em infração penal;\n\nII - a prova puder ser feita por outros meios disponíveis;\n\nIII - o fato investigado constituir infração penal punida, no máximo, com pena de detenção.\n\nParágrafo único. Em qualquer hipótese deve ser descrita com clareza a situação objeto da investigação, inclusive com a indicação e qualificação dos investigados, salvo impossibilidade manifesta, devidamente justificada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%202%C2%B0%20N%C3%A3o%20ser%C3%A1%20admitida%20a%20intercepta%C3%A7%C3%A3o%20de%20comunica%C3%A7%C3%B5es%20telef%C3%B4nicas%20quando%20ocorrer%20qualquer%20das%20seguintes%20hip%C3%B3teses%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° A interceptação das comunicações telefônicas poderá ser determinada pelo juiz, de ofício ou a requerimento:\n\nI - da autoridade policial, na investigação criminal;\n\nII - do representante do Ministério Público, na investigação criminal e na instrução processual penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%203%C2%B0%20A%20intercepta%C3%A7%C3%A3o%20das%20comunica%C3%A7%C3%B5es%20telef%C3%B4nicas%20poder%C3%A1%20ser%20determinada%20pelo%20juiz%2C%20de%20of%C3%ADcio%20ou%20a%20requerimento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° O pedido de interceptação de comunicação telefônica conterá a demonstração de que a sua realização é necessária à apuração de infração penal, com indicação dos meios a serem empregados.\n\n§ 1° Excepcionalmente, o juiz poderá admitir que o pedido seja formulado verbalmente, desde que estejam presentes os pressupostos que autorizem a interceptação, caso em que a concessão será condicionada à sua redução a termo.\n\n§ 2° O juiz, no prazo máximo de vinte e quatro horas, decidirá sobre o pedido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%204%C2%B0%20O%20pedido%20de%20intercepta%C3%A7%C3%A3o%20de%20comunica%C3%A7%C3%A3o%20telef%C3%B4nica%20conter%C3%A1%20a%20demonstra%C3%A7%C3%A3o%20de%20que%20a%20sua%20realiza%C3%A7%C3%A3o%20%C3%A9%20necess%C3%A1ria%20%C3%A0%20apura%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° A decisão será fundamentada, sob pena de nulidade, indicando também a forma de execução da diligência, que não poderá exceder o prazo de quinze dias, renovável por igual tempo uma vez comprovada a indispensabilidade do meio de prova.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%205%C2%B0%20A%20decis%C3%A3o%20ser%C3%A1%20fundamentada%2C%20sob%20pena%20de%20nulidade%2C%20indicando%20tamb%C3%A9m%20a%20forma%20de%20execu%C3%A7%C3%A3o%20da%20dilig%C3%AAncia%2C%20que%20n%C3%A3o%20poder%C3%A1%20exceder",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° Deferido o pedido, a autoridade policial conduzirá os procedimentos de interceptação, dando ciência ao Ministério Público, que poderá acompanhar a sua realização.\n\n§ 1° No caso de a diligência possibilitar a gravação da comunicação interceptada, será determinada a sua transcrição.\n\n§ 2° Cumprida a diligência, a autoridade policial encaminhará o resultado da interceptação ao juiz, acompanhado de auto circunstanciado, que deverá conter o resumo das operações realizadas.\n\n§ 3° Recebidos esses elementos, o juiz determinará a providência do art. 8° , ciente o Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%206%C2%B0%20Deferido%20o%20pedido%2C%20a%20autoridade%20policial%20conduzir%C3%A1%20os%20procedimentos%20de%20intercepta%C3%A7%C3%A3o%2C%20dando%20ci%C3%AAncia%20ao%20Minist%C3%A9rio%20P%C3%BAblico%2C%20que%20poder%C3%A1%20acompanhar%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° Para os procedimentos de interceptação de que trata esta Lei, a autoridade policial poderá requisitar serviços e técnicos especializados às concessionárias de serviço público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%207%C2%B0%20Para%20os%20procedimentos%20de%20intercepta%C3%A7%C3%A3o%20de%20que%20trata%20esta%20Lei%2C%20a%20autoridade%20policial%20poder%C3%A1%20requisitar%20servi%C3%A7os%20e%20t%C3%A9cnicos%20especializados%20%C3%A0s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8° A interceptação de comunicação telefônica, de qualquer natureza, ocorrerá em autos apartados, apensados aos autos do inquérito policial ou do processo criminal, preservando-se o sigilo das diligências, gravações e transcrições respectivas.\n\nParágrafo único. A apensação somente poderá ser realizada imediatamente antes do relatório da autoridade, quando se tratar de inquérito policial (Código de Processo Penal, art.10, § 1°) ou na conclusão do processo ao juiz para o despacho decorrente do disposto nos arts. 407, 502 ou 538 do Código de Processo Penal.\n\nArt. 8º-A. Para investigação ou instrução criminal, poderá ser autorizada pelo juiz, a requerimento da autoridade policial ou do Ministério Público, a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos, quando: (Incluído pela Lei nº 13.964, de 2019)\n\nI - a prova não puder ser feita por outros meios disponíveis e igualmente eficazes; e (Incluído pela Lei nº 13.964, de 2019)\n\nII - houver elementos probatórios razoáveis de autoria e participação em infrações criminais cujas penas máximas sejam superiores a 4 (quatro) anos ou em infrações penais conexas. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º O requerimento deverá descrever circunstanciadamente o local e a forma de instalação do dispositivo de captação ambiental. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º (VETADO).\n\n§ 2º A instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 3º A captação ambiental não poderá exceder o prazo de 15 (quinze) dias, renovável por decisão judicial por iguais períodos, se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º (VETADO).\n\n§ 4º A captação ambiental feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do Ministério Público poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 5º Aplicam-se subsidiariamente à captação ambiental as regras previstas na legislação específica para a interceptação telefônica e telemática. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%208%C2%B0%20A%20intercepta%C3%A7%C3%A3o%20de%20comunica%C3%A7%C3%A3o%20telef%C3%B4nica%2C%20de%20qualquer%20natureza%2C%20ocorrer%C3%A1%20em%20autos%20apartados%2C%20apensados%20aos%20autos%20do%20inqu%C3%A9rito%20policial%20ou%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9° A gravação que não interessar à prova será inutilizada por decisão judicial, durante o inquérito, a instrução processual ou após esta, em virtude de requerimento do Ministério Público ou da parte interessada.\n\nParágrafo único. O incidente de inutilização será assistido pelo Ministério Público, sendo facultada a presença do acusado ou de seu representante legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%209%C2%B0%20A%20grava%C3%A7%C3%A3o%20que%20n%C3%A3o%20interessar%20%C3%A0%20prova%20ser%C3%A1%20inutilizada%20por%20decis%C3%A3o%20judicial%2C%20durante%20o%20inqu%C3%A9rito%2C%20a%20instru%C3%A7%C3%A3o%20processual%20ou%20ap%C3%B3s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Constitui crime realizar interceptação de comunicações telefônicas, de informática ou telemática, ou quebrar segredo da Justiça, sem autorização judicial ou com objetivos não autorizados em lei.\n\nPena: reclusão, de dois a quatro anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%2010.%20Constitui%20crime%20realizar%20intercepta%C3%A7%C3%A3o%20de%20comunica%C3%A7%C3%B5es%20telef%C3%B4nicas%2C%20de%20inform%C3%A1tica%20ou%20telem%C3%A1tica%2C%20ou%20quebrar%20segredo%20da%20Justi%C3%A7a%2C%20sem%20autoriza%C3%A7%C3%A3o%20judicial%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. Realizar captação ambiental de sinais eletromagnéticos, ópticos ou acústicos para investigação ou instrução criminal sem autorização judicial, quando esta for exigida: (Incluído pela Lei nº 13.964, de 2019)\n\nPena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º Não há crime se a captação é realizada por um dos interlocutores. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º A pena será aplicada em dobro ao funcionário público que descumprir determinação de sigilo das investigações que envolvam a captação ambiental ou revelar o conteúdo das gravações enquanto mantido o sigilo judicial. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%2010-A.%20Realizar%20capta%C3%A7%C3%A3o%20ambiental%20de%20sinais%20eletromagn%C3%A9ticos%2C%20%C3%B3pticos%20ou%20ac%C3%BAsticos%20para%20investiga%C3%A7%C3%A3o%20ou%20instru%C3%A7%C3%A3o%20criminal%20sem%20autoriza%C3%A7%C3%A3o%20judicial%2C%20quando%20esta%20for",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%2011.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Revogam-se as disposições em contrário.\n\nBrasília, 24 de julho de 1996; 175º da Independência e 108º da República.\n\nFERNANDO HENRIQUE CARDOSO Nelson A. Jobim\n\nEste texto não substitui o publicado no D.O.U. de 25.7.1996\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%2012.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": null
+    }
+  }
+}

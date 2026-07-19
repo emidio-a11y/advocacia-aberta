@@ -302,6 +302,132 @@
         }
       ]
     },
+    "legislacao_esparsas_penal": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "l12850",
+          "codigo": "L12850",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+          "arquivo_bruto": "l12850.html",
+          "destino": "lei_l12850.json"
+        },
+        {
+          "id": "l13260",
+          "codigo": "L13260",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+          "arquivo_bruto": "l13260.html",
+          "destino": "lei_l13260.json"
+        },
+        {
+          "id": "l13869",
+          "codigo": "L13869",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869compilado.htm",
+          "arquivo_bruto": "l13869.html",
+          "destino": "lei_l13869.json"
+        },
+        {
+          "id": "l14344",
+          "codigo": "L14344",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+          "arquivo_bruto": "l14344.html",
+          "destino": "lei_l14344.json"
+        },
+        {
+          "id": "l1521",
+          "codigo": "L1521",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+          "arquivo_bruto": "l1521.html",
+          "destino": "lei_l1521.json"
+        },
+        {
+          "id": "l7492",
+          "codigo": "L7492",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+          "arquivo_bruto": "l7492.html",
+          "destino": "lei_l7492.json"
+        },
+        {
+          "id": "l7716",
+          "codigo": "L7716",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm",
+          "arquivo_bruto": "l7716.html",
+          "destino": "lei_l7716.json"
+        },
+        {
+          "id": "l7960",
+          "codigo": "L7960",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7960.htm",
+          "arquivo_bruto": "l7960.html",
+          "destino": "lei_l7960.json"
+        },
+        {
+          "id": "l8072",
+          "codigo": "L8072",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm",
+          "arquivo_bruto": "l8072.html",
+          "destino": "lei_l8072.json"
+        },
+        {
+          "id": "l8137",
+          "codigo": "L8137",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+          "arquivo_bruto": "l8137.html",
+          "destino": "lei_l8137.json"
+        },
+        {
+          "id": "l9296",
+          "codigo": "L9296",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+          "arquivo_bruto": "l9296.html",
+          "destino": "lei_l9296.json"
+        },
+        {
+          "id": "l9455",
+          "codigo": "L9455",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+          "arquivo_bruto": "l9455.html",
+          "destino": "lei_l9455.json"
+        },
+        {
+          "id": "l9605",
+          "codigo": "L9605",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+          "arquivo_bruto": "l9605.html",
+          "destino": "lei_l9605.json"
+        },
+        {
+          "id": "l9613",
+          "codigo": "L9613",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9613compilado.htm",
+          "arquivo_bruto": "l9613.html",
+          "destino": "lei_l9613.json"
+        },
+        {
+          "id": "l9807",
+          "codigo": "L9807",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9807.htm",
+          "arquivo_bruto": "l9807.html",
+          "destino": "lei_l9807.json"
+        },
+        {
+          "id": "lc105",
+          "codigo": "LC105",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm",
+          "arquivo_bruto": "lc105.html",
+          "destino": "lei_lc105.json"
+        },
+        {
+          "id": "lcp",
+          "codigo": "LCP",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+          "arquivo_bruto": "lcp.html",
+          "destino": "lei_lcp.json"
+        }
+      ]
+    },
     "legislacao_esparsas_trabalhista": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

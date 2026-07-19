@@ -1,0 +1,1407 @@
+{
+  "_meta": {
+    "codigo": "L9605",
+    "nome": "Crimes Ambientais",
+    "lei": "Lei 9.605/1998",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+    "total_artigos": 87,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%201%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Quem, de qualquer forma, concorre para a prática dos crimes previstos nesta Lei, incide nas penas a estes cominadas, na medida da sua culpabilidade, bem como o diretor, o administrador, o membro de conselho e de órgão técnico, o auditor, o gerente, o preposto ou mandatário de pessoa jurídica, que, sabendo da conduta criminosa de outrem, deixar de impedir a sua prática, quando podia agir para evitá-la.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%202%C2%BA%20Quem%2C%20de%20qualquer%20forma%2C%20concorre%20para%20a%20pr%C3%A1tica%20dos%20crimes%20previstos%20nesta%20Lei%2C%20incide%20nas%20penas%20a%20estes%20cominadas%2C%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º As pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente conforme o disposto nesta Lei, nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da sua entidade.\n\nParágrafo único. A responsabilidade das pessoas jurídicas não exclui a das pessoas físicas, autoras, co-autoras ou partícipes do mesmo fato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%203%C2%BA%20As%20pessoas%20jur%C3%ADdicas%20ser%C3%A3o%20responsabilizadas%20administrativa%2C%20civil%20e%20penalmente%20conforme%20o%20disposto%20nesta%20Lei%2C%20nos%20casos%20em%20que%20a%20infra%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for obstáculo ao ressarcimento de prejuízos causados à qualidade do meio ambiente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%204%C2%BA%20Poder%C3%A1%20ser%20desconsiderada%20a%20pessoa%20jur%C3%ADdica%20sempre%20que%20sua%20personalidade%20for%20obst%C3%A1culo%20ao%20ressarcimento%20de%20preju%C3%ADzos%20causados%20%C3%A0%20qualidade%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%205%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Para imposição e gradação da penalidade, a autoridade competente observará:\n\nI - a gravidade do fato, tendo em vista os motivos da infração e suas conseqüências para a saúde pública e para o meio ambiente;\n\nII - os antecedentes do infrator quanto ao cumprimento da legislação de interesse ambiental;\n\nIII - a situação econômica do infrator, no caso de multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%206%C2%BA%20Para%20imposi%C3%A7%C3%A3o%20e%20grada%C3%A7%C3%A3o%20da%20penalidade%2C%20a%20autoridade%20competente%20observar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As penas restritivas de direitos são autônomas e substituem as privativas de liberdade quando:\n\nI - tratar-se de crime culposo ou for aplicada a pena privativa de liberdade inferior a quatro anos;\n\nII - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias do crime indicarem que a substituição seja suficiente para efeitos de reprovação e prevenção do crime.\n\nParágrafo único. As penas restritivas de direitos a que se refere este artigo terão a mesma duração da pena privativa de liberdade substituída.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%207%C2%BA%20As%20penas%20restritivas%20de%20direitos%20s%C3%A3o%20aut%C3%B4nomas%20e%20substituem%20as%20privativas%20de%20liberdade%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º As penas restritivas de direito são:\n\nI - prestação de serviços à comunidade;\n\nII - interdição temporária de direitos;\n\nIII - suspensão parcial ou total de atividades;\n\nIV - prestação pecuniária;\n\nV - recolhimento domiciliar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%208%C2%BA%20As%20penas%20restritivas%20de%20direito%20s%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A prestação de serviços à comunidade consiste na atribuição ao condenado de tarefas gratuitas junto a parques e jardins públicos e unidades de conservação, e, no caso de dano da coisa particular, pública ou tombada, na restauração desta, se possível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%209%C2%BA%20A%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20%C3%A0%20comunidade%20consiste%20na%20atribui%C3%A7%C3%A3o%20ao%20condenado%20de%20tarefas%20gratuitas%20junto%20a%20parques%20e%20jardins%20p%C3%BAblicos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. As penas de interdição temporária de direito são a proibição de o condenado contratar com o Poder Público, de receber incentivos fiscais ou quaisquer outros benefícios, bem como de participar de licitações, pelo prazo de cinco anos, no caso de crimes dolosos, e de três anos, no de crimes culposos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2010.%20As%20penas%20de%20interdi%C3%A7%C3%A3o%20tempor%C3%A1ria%20de%20direito%20s%C3%A3o%20a%20proibi%C3%A7%C3%A3o%20de%20o%20condenado%20contratar%20com%20o%20Poder%20P%C3%BAblico%2C%20de%20receber",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A suspensão de atividades será aplicada quando estas não estiverem obedecendo às prescrições legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2011.%20A%20suspens%C3%A3o%20de%20atividades%20ser%C3%A1%20aplicada%20quando%20estas%20n%C3%A3o%20estiverem%20obedecendo%20%C3%A0s%20prescri%C3%A7%C3%B5es%20legais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A prestação pecuniária consiste no pagamento em dinheiro à vítima ou à entidade pública ou privada com fim social, de importância, fixada pelo juiz, não inferior a um salário mínimo nem superior a trezentos e sessenta salários mínimos. O valor pago será deduzido do montante de eventual reparação civil a que for condenado o infrator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2012.%20A%20presta%C3%A7%C3%A3o%20pecuni%C3%A1ria%20consiste%20no%20pagamento%20em%20dinheiro%20%C3%A0%20v%C3%ADtima%20ou%20%C3%A0%20entidade%20p%C3%BAblica%20ou%20privada%20com%20fim%20social%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O recolhimento domiciliar baseia-se na autodisciplina e senso de responsabilidade do condenado, que deverá, sem vigilância, trabalhar, freqüentar curso ou exercer atividade autorizada, permanecendo recolhido nos dias e horários de folga em residência ou em qualquer local destinado a sua moradia habitual, conforme estabelecido na sentença condenatória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2013.%20O%20recolhimento%20domiciliar%20baseia-se%20na%20autodisciplina%20e%20senso%20de%20responsabilidade%20do%20condenado%2C%20que%20dever%C3%A1%2C%20sem%20vigil%C3%A2ncia%2C%20trabalhar%2C%20freq%C3%BCentar%20curso%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. São circunstâncias que atenuam a pena:\n\nI - baixo grau de instrução ou escolaridade do agente;\n\nII - arrependimento do infrator, manifestado pela espontânea reparação do dano, ou limitação significativa da degradação ambiental causada;\n\nIII - comunicação prévia pelo agente do perigo iminente de degradação ambiental;\n\nIV - colaboração com os agentes encarregados da vigilância e do controle ambiental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2014.%20S%C3%A3o%20circunst%C3%A2ncias%20que%20atenuam%20a%20pena%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. São circunstâncias que agravam a pena, quando não constituem ou qualificam o crime:\n\nI - reincidência nos crimes de natureza ambiental;\n\nII - ter o agente cometido a infração:\n\na) para obter vantagem pecuniária;\n\nb) coagindo outrem para a execução material da infração;\n\nc) afetando ou expondo a perigo, de maneira grave, a saúde pública ou o meio ambiente;\n\nd) concorrendo para danos à propriedade alheia;\n\ne) atingindo áreas de unidades de conservação ou áreas sujeitas, por ato do Poder Público, a regime especial de uso;\n\nf) atingindo áreas urbanas ou quaisquer assentamentos humanos;\n\ng) em período de defeso à fauna;\n\nh) em domingos ou feriados;\n\ni) à noite;\n\nj) em épocas de seca ou inundações;\n\nl) no interior do espaço territorial especialmente protegido;\n\nm) com o emprego de métodos cruéis para abate ou captura de animais;\n\nn) mediante fraude ou abuso de confiança;\n\no) mediante abuso do direito de licença, permissão ou autorização ambiental;\n\np) no interesse de pessoa jurídica mantida, total ou parcialmente, por verbas públicas ou beneficiada por incentivos fiscais;\n\nq) atingindo espécies ameaçadas, listadas em relatórios oficiais das autoridades competentes;\n\nr) facilitada por funcionário público no exercício de suas funções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2015.%20S%C3%A3o%20circunst%C3%A2ncias%20que%20agravam%20a%20pena%2C%20quando%20n%C3%A3o%20constituem%20ou%20qualificam%20o%20crime%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Nos crimes previstos nesta Lei, a suspensão condicional da pena pode ser aplicada nos casos de condenação a pena privativa de liberdade não superior a três anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2016.%20Nos%20crimes%20previstos%20nesta%20Lei%2C%20a%20suspens%C3%A3o%20condicional%20da%20pena%20pode%20ser%20aplicada%20nos%20casos%20de%20condena%C3%A7%C3%A3o%20a%20pena%20privativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A verificação da reparação a que se refere o § 2º do art. 78 do Código Penal será feita mediante laudo de reparação do dano ambiental, e as condições a serem impostas pelo juiz deverão relacionar-se com a proteção ao meio ambiente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2017.%20A%20verifica%C3%A7%C3%A3o%20da%20repara%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20%C2%A7%202%C2%BA%20do%20art.%2078%20do%20C%C3%B3digo%20Penal%20ser%C3%A1%20feita%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A multa será calculada segundo os critérios do Código Penal; se revelar-se ineficaz, ainda que aplicada no valor máximo, poderá ser aumentada até três vezes, tendo em vista o valor da vantagem econômica auferida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2018.%20A%20multa%20ser%C3%A1%20calculada%20segundo%20os%20crit%C3%A9rios%20do%20C%C3%B3digo%20Penal%3B%20se%20revelar-se%20ineficaz%2C%20ainda%20que%20aplicada%20no%20valor%20m%C3%A1ximo%2C%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A perícia de constatação do dano ambiental, sempre que possível, fixará o montante do prejuízo causado para efeitos de prestação de fiança e cálculo de multa.\n\nParágrafo único. A perícia produzida no inquérito civil ou no juízo cível poderá ser aproveitada no processo penal, instaurando-se o contraditório.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2019.%20A%20per%C3%ADcia%20de%20constata%C3%A7%C3%A3o%20do%20dano%20ambiental%2C%20sempre%20que%20poss%C3%ADvel%2C%20fixar%C3%A1%20o%20montante%20do%20preju%C3%ADzo%20causado%20para%20efeitos%20de%20presta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A sentença penal condenatória, sempre que possível, fixará o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos sofridos pelo ofendido ou pelo meio ambiente.\n\nParágrafo único. Transitada em julgado a sentença condenatória, a execução poderá efetuar-se pelo valor fixado nos termos do caput, sem prejuízo da liquidação para apuração do dano efetivamente sofrido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2020.%20A%20senten%C3%A7a%20penal%20condenat%C3%B3ria%2C%20sempre%20que%20poss%C3%ADvel%2C%20fixar%C3%A1%20o%20valor%20m%C3%ADnimo%20para%20repara%C3%A7%C3%A3o%20dos%20danos%20causados%20pela%20infra%C3%A7%C3%A3o%2C%20considerando%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. As penas aplicáveis isolada, cumulativa ou alternativamente às pessoas jurídicas, de acordo com o disposto no art. 3º, são:\n\nI - multa;\n\nII - restritivas de direitos;\n\nIII - prestação de serviços à comunidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2021.%20As%20penas%20aplic%C3%A1veis%20isolada%2C%20cumulativa%20ou%20alternativamente%20%C3%A0s%20pessoas%20jur%C3%ADdicas%2C%20de%20acordo%20com%20o%20disposto%20no%20art.%203%C2%BA%2C%20s%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. As penas restritivas de direitos da pessoa jurídica são:\n\nI - suspensão parcial ou total de atividades;\n\nII - interdição temporária de estabelecimento, obra ou atividade;\n\nIII - proibição de contratar com o Poder Público, bem como dele obter subsídios, subvenções ou doações.\n\n§ 1º A suspensão de atividades será aplicada quando estas não estiverem obedecendo às disposições legais ou regulamentares, relativas à proteção do meio ambiente.\n\n§ 2º A interdição será aplicada quando o estabelecimento, obra ou atividade estiver funcionando sem a devida autorização, ou em desacordo com a concedida, ou com violação de disposição legal ou regulamentar.\n\n§ 3º A proibição de contratar com o Poder Público e dele obter subsídios, subvenções ou doações não poderá exceder o prazo de dez anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2022.%20As%20penas%20restritivas%20de%20direitos%20da%20pessoa%20jur%C3%ADdica%20s%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A prestação de serviços à comunidade pela pessoa jurídica consistirá em:\n\nI - custeio de programas e de projetos ambientais;\n\nII - execução de obras de recuperação de áreas degradadas;\n\nIII - manutenção de espaços públicos;\n\nIV - contribuições a entidades ambientais ou culturais públicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2023.%20A%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20%C3%A0%20comunidade%20pela%20pessoa%20jur%C3%ADdica%20consistir%C3%A1%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A pessoa jurídica constituída ou utilizada, preponderantemente, com o fim de permitir, facilitar ou ocultar a prática de crime definido nesta Lei terá decretada sua liquidação forçada, seu patrimônio será considerado instrumento do crime e como tal perdido em favor do Fundo Penitenciário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2024.%20A%20pessoa%20jur%C3%ADdica%20constitu%C3%ADda%20ou%20utilizada%2C%20preponderantemente%2C%20com%20o%20fim%20de%20permitir%2C%20facilitar%20ou%20ocultar%20a%20pr%C3%A1tica%20de%20crime%20definido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Verificada a infração, serão apreendidos seus produtos e instrumentos, lavrando-se os respectivos autos. (Vide ADPF 640)\n\n§ 1º Os animais serão libertados em seu habitat ou entregues a jardins zoológicos, fundações ou entidades assemelhadas, desde que fiquem sob a responsabilidade de técnicos habilitados.\n\n§ 1o Os animais serão prioritariamente libertados em seu habitat ou, sendo tal medida inviável ou não recomendável por questões sanitárias, entregues a jardins zoológicos, fundações ou entidades assemelhadas, para guarda e cuidados sob a responsabilidade de técnicos habilitados. (Redação dada pela Lei nº 13.052, de 2014)\n\n§ 2º Tratando-se de produtos perecíveis ou madeiras, serão estes avaliados e doados a instituições científicas, hospitalares, penais e outras com fins beneficentes.\n\n§ 2o Tratando-se de produtos perecíveis, serão estes avaliados e doados a instituições científicas, hospitalares, penais e outras com fins beneficentes. (Redação dada pela Medida provisória nº 62, de 2002) Prejudicada\n\n§ 2o Até que os animais sejam entregues às instituições mencionadas no § 1o deste artigo, o órgão autuante zelará para que eles sejam mantidos em condições adequadas de acondicionamento e transporte que garantam o seu bem-estar físico. (Redação dada pela Lei nº 13.052, de 2014) (Vide ADPF 640)\n\n§ 3º Tratando-se de produtos perecíveis ou madeiras, serão estes avaliados e doados a instituições científicas, hospitalares, penais e outras com fins beneficentes. (Renumerando do §2º para §3º pela Lei nº 13.052, de 2014)\n\n§ 4° Os produtos e subprodutos da fauna não perecíveis serão destruídos ou doados a instituições científicas, culturais ou educacionais. (Renumerando do §3º para §4º pela Lei nº 13.052, de 2014)\n\n§ 5º Os instrumentos utilizados na prática da infração serão vendidos, garantida a sua descaracterização por meio da reciclagem. (Renumerando do §4º para §5º pela Lei nº 13.052, de 2014)\n\n§ 5o Tratando-se de madeiras, serão levadas a leilão, e o valor arrecadado, revertido ao órgão ambiental responsável por sua apreensão. (Incluído pela Medida provisória nº 62, de 2002) Prejudicada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2025.%20Verificada%20a%20infra%C3%A7%C3%A3o%2C%20ser%C3%A3o%20apreendidos%20seus%20produtos%20e%20instrumentos%2C%20lavrando-se%20os%20respectivos%20autos.%20%28Vide%20ADPF%20640%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Nas infrações penais previstas nesta Lei, a ação penal é pública incondicionada.\n\nParágrafo único. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2026.%20Nas%20infra%C3%A7%C3%B5es%20penais%20previstas%20nesta%20Lei%2C%20a%20a%C3%A7%C3%A3o%20penal%20%C3%A9%20p%C3%BAblica%20incondicionada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Nos crimes ambientais de menor potencial ofensivo, a proposta de aplicação imediata de pena restritiva de direitos ou multa, prevista no art. 76 da Lei nº 9.099, de 26 de setembro de 1995, somente poderá ser formulada desde que tenha havido a prévia composição do dano ambiental, de que trata o art. 74 da mesma lei, salvo em caso de comprovada impossibilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2027.%20Nos%20crimes%20ambientais%20de%20menor%20potencial%20ofensivo%2C%20a%20proposta%20de%20aplica%C3%A7%C3%A3o%20imediata%20de%20pena%20restritiva%20de%20direitos%20ou%20multa%2C%20prevista",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. As disposições do art. 89 da Lei nº 9.099, de 26 de setembro de 1995, aplicam-se aos crimes de menor potencial ofensivo definidos nesta Lei, com as seguintes modificações:\n\nI - a declaração de extinção de punibilidade, de que trata o § 5° do artigo referido no caput, dependerá de laudo de constatação de reparação do dano ambiental, ressalvada a impossibilidade prevista no inciso I do § 1° do mesmo artigo;\n\nII - na hipótese de o laudo de constatação comprovar não ter sido completa a reparação, o prazo de suspensão do processo será prorrogado, até o período máximo previsto no artigo referido no caput, acrescido de mais um ano, com suspensão do prazo da prescrição;\n\nIII - no período de prorrogação, não se aplicarão as condições dos incisos II, III e IV do § 1° do artigo mencionado no caput;\n\nIV - findo o prazo de prorrogação, proceder-se-á à lavratura de novo laudo de constatação de reparação do dano ambiental, podendo, conforme seu resultado, ser novamente prorrogado o período de suspensão, até o máximo previsto no inciso II deste artigo, observado o disposto no inciso III;\n\nV - esgotado o prazo máximo de prorrogação, a declaração de extinção de punibilidade dependerá de laudo de constatação que comprove ter o acusado tomado as providências necessárias à reparação integral do dano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2028.%20As%20disposi%C3%A7%C3%B5es%20do%20art.%2089%20da%20Lei%20n%C2%BA%209.099%2C%20de%2026%20de%20setembro%20de%201995%2C%20aplicam-se%20aos%20crimes%20de%20menor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Matar, perseguir, caçar, apanhar, utilizar espécimes da fauna silvestre, nativos ou em rota migratória, sem a devida permissão, licença ou autorização da autoridade competente, ou em desacordo com a obtida:\n\nPena - detenção de seis meses a um ano, e multa.\n\n§ 1º Incorre nas mesmas penas:\n\nI - quem impede a procriação da fauna, sem licença, autorização ou em desacordo com a obtida;\n\nII - quem modifica, danifica ou destrói ninho, abrigo ou criadouro natural;\n\nIII - quem vende, expõe à venda, exporta ou adquire, guarda, tem em cativeiro ou depósito, utiliza ou transporta ovos, larvas ou espécimes da fauna silvestre, nativa ou em rota migratória, bem como produtos e objetos dela oriundos, provenientes de criadouros não autorizados ou sem a devida permissão, licença ou autorização da autoridade competente.\n\n§ 2º No caso de guarda doméstica de espécie silvestre não considerada ameaçada de extinção, pode o juiz, considerando as circunstâncias, deixar de aplicar a pena.\n\n§ 3° São espécimes da fauna silvestre todos aqueles pertencentes às espécies nativas, migratórias e quaisquer outras, aquáticas ou terrestres, que tenham todo ou parte de seu ciclo de vida ocorrendo dentro dos limites do território brasileiro, ou águas jurisdicionais brasileiras.\n\n§ 4º A pena é aumentada de metade, se o crime é praticado:\n\nI - contra espécie rara ou considerada ameaçada de extinção, ainda que somente no local da infração;\n\nII - em período proibido à caça;\n\nIII - durante a noite;\n\nIV - com abuso de licença;\n\nV - em unidade de conservação;\n\nVI - com emprego de métodos ou instrumentos capazes de provocar destruição em massa.\n\n§ 5º A pena é aumentada até o triplo, se o crime decorre do exercício de caça profissional.\n\n§ 6º As disposições deste artigo não se aplicam aos atos de pesca.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2029.%20Matar%2C%20perseguir%2C%20ca%C3%A7ar%2C%20apanhar%2C%20utilizar%20esp%C3%A9cimes%20da%20fauna%20silvestre%2C%20nativos%20ou%20em%20rota%20migrat%C3%B3ria%2C%20sem%20a%20devida%20permiss%C3%A3o%2C%20licen%C3%A7a%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Exportar para o exterior peles e couros de anfíbios e répteis em bruto, sem a autorização da autoridade ambiental competente:\n\nPena - reclusão, de um a três anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2030.%20Exportar%20para%20o%20exterior%20peles%20e%20couros%20de%20anf%C3%ADbios%20e%20r%C3%A9pteis%20em%20bruto%2C%20sem%20a%20autoriza%C3%A7%C3%A3o%20da%20autoridade%20ambiental%20competente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Introduzir espécime animal no País, sem parecer técnico oficial favorável e licença expedida por autoridade competente:\n\nPena - detenção, de três meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2031.%20Introduzir%20esp%C3%A9cime%20animal%20no%20Pa%C3%ADs%2C%20sem%20parecer%20t%C3%A9cnico%20oficial%20favor%C3%A1vel%20e%20licen%C3%A7a%20expedida%20por%20autoridade%20competente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos: (Vide ADPF 640)\n\nPena - detenção, de três meses a um ano, e multa.\n\n§ 1º Incorre nas mesmas penas quem realiza experiência dolorosa ou cruel em animal vivo, ainda que para fins didáticos ou científicos, quando existirem recursos alternativos. (Vide ADPF 640)\n\n§ 1º-A Quando se tratar de cão ou gato, a pena para as condutas descritas no caput deste artigo será de reclusão, de 2 (dois) a 5 (cinco) anos, multa e proibição da guarda. (Incluído pela Lei nº 14.064, de 2020)\n\n§ 1º-B. Incorre nas mesmas penas quem realiza ou permite a realização de tatuagens e a colocação de piercings em cães e gatos, com fins estéticos. (Incluído pela Lei nº 15.150, de 2025)\n\n§ 1º-C. Incorre nas mesmas penas quem provoca desastre ambiental que prejudique a vida, a integridade física ou o bem-estar de animais silvestres ou domésticos. (Incluído pela Lei nº 15.355, de 2026)\n\n§ 2º A pena é aumentada de um sexto a um terço, se ocorre morte do animal. (Vide ADPF 640)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2032.%20Praticar%20ato%20de%20abuso%2C%20maus-tratos%2C%20ferir%20ou%20mutilar%20animais%20silvestres%2C%20dom%C3%A9sticos%20ou%20domesticados%2C%20nativos%20ou%20ex%C3%B3ticos%3A%20%28Vide%20ADPF%20640%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Provocar, pela emissão de efluentes ou carreamento de materiais, o perecimento de espécimes da fauna aquática existentes em rios, lagos, açudes, lagoas, baías ou águas jurisdicionais brasileiras:\n\nPena - detenção, de um a três anos, ou multa, ou ambas cumulativamente.\n\nParágrafo único. Incorre nas mesmas penas:\n\nI - quem causa degradação em viveiros, açudes ou estações de aqüicultura de domínio público;\n\nII - quem explora campos naturais de invertebrados aquáticos e algas, sem licença, permissão ou autorização da autoridade competente;\n\nIII - quem fundeia embarcações ou lança detritos de qualquer natureza sobre bancos de moluscos ou corais, devidamente demarcados em carta náutica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2033.%20Provocar%2C%20pela%20emiss%C3%A3o%20de%20efluentes%20ou%20carreamento%20de%20materiais%2C%20o%20perecimento%20de%20esp%C3%A9cimes%20da%20fauna%20aqu%C3%A1tica%20existentes%20em%20rios%2C%20lagos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Pescar em período no qual a pesca seja proibida ou em lugares interditados por órgão competente:\n\nPena - detenção de um ano a três anos ou multa, ou ambas as penas cumulativamente.\n\nParágrafo único. Incorre nas mesmas penas quem:\n\nI - pesca espécies que devam ser preservadas ou espécimes com tamanhos inferiores aos permitidos;\n\nII - pesca quantidades superiores às permitidas, ou mediante a utilização de aparelhos, petrechos, técnicas e métodos não permitidos;\n\nIII - transporta, comercializa, beneficia ou industrializa espécimes provenientes da coleta, apanha e pesca proibidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2034.%20Pescar%20em%20per%C3%ADodo%20no%20qual%20a%20pesca%20seja%20proibida%20ou%20em%20lugares%20interditados%20por%20%C3%B3rg%C3%A3o%20competente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Pescar mediante a utilização de:\n\nI - explosivos ou substâncias que, em contato com a água, produzam efeito semelhante;\n\nII - substâncias tóxicas, ou outro meio proibido pela autoridade competente:\n\nPena - reclusão de um ano a cinco anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2035.%20Pescar%20mediante%20a%20utiliza%C3%A7%C3%A3o%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Para os efeitos desta Lei, considera-se pesca todo ato tendente a retirar, extrair, coletar, apanhar, apreender ou capturar espécimes dos grupos dos peixes, crustáceos, moluscos e vegetais hidróbios, suscetíveis ou não de aproveitamento econômico, ressalvadas as espécies ameaçadas de extinção, constantes nas listas oficiais da fauna e da flora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2036.%20Para%20os%20efeitos%20desta%20Lei%2C%20considera-se%20pesca%20todo%20ato%20tendente%20a%20retirar%2C%20extrair%2C%20coletar%2C%20apanhar%2C%20apreender%20ou%20capturar%20esp%C3%A9cimes%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Não é crime o abate de animal, quando realizado:\n\nI - em estado de necessidade, para saciar a fome do agente ou de sua família;\n\nII - para proteger lavouras, pomares e rebanhos da ação predatória ou destruidora de animais, desde que legal e expressamente autorizado pela autoridade competente;\n\nIII – (VETADO)\n\nIV - por ser nocivo o animal, desde que assim caracterizado pelo órgão competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2037.%20N%C3%A3o%20%C3%A9%20crime%20o%20abate%20de%20animal%2C%20quando%20realizado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Destruir ou danificar floresta considerada de preservação permanente, mesmo que em formação, ou utilizá-la com infringência das normas de proteção:\n\nPena - detenção, de um a três anos, ou multa, ou ambas as penas cumulativamente.\n\nParágrafo único. Se o crime for culposo, a pena será reduzida à metade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2038.%20Destruir%20ou%20danificar%20floresta%20considerada%20de%20preserva%C3%A7%C3%A3o%20permanente%2C%20mesmo%20que%20em%20forma%C3%A7%C3%A3o%2C%20ou%20utiliz%C3%A1-la%20com%20infring%C3%AAncia%20das%20normas%20de%20prote%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "37",
+      "next": "38-A"
+    },
+    "38-A": {
+      "numero": "38-A",
+      "texto": "Art. 38-A. Destruir ou danificar vegetação primária ou secundária, em estágio avançado ou médio de regeneração, do Bioma Mata Atlântica, ou utilizá-la com infringência das normas de proteção: (Incluído pela Lei nº 11.428, de 2006).\n\nPena - detenção, de 1 (um) a 3 (três) anos, ou multa, ou ambas as penas cumulativamente. (Incluído pela Lei nº 11.428, de 2006).\n\nParágrafo único. Se o crime for culposo, a pena será reduzida à metade. (Incluído pela Lei nº 11.428, de 2006).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2038-A.%20Destruir%20ou%20danificar%20vegeta%C3%A7%C3%A3o%20prim%C3%A1ria%20ou%20secund%C3%A1ria%2C%20em%20est%C3%A1gio%20avan%C3%A7ado%20ou%20m%C3%A9dio%20de%20regenera%C3%A7%C3%A3o%2C%20do%20Bioma%20Mata%20Atl%C3%A2ntica%2C%20ou%20utiliz%C3%A1-la",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "38",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Cortar árvores em floresta considerada de preservação permanente, sem permissão da autoridade competente:\n\nPena - detenção, de um a três anos, ou multa, ou ambas as penas cumulativamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2039.%20Cortar%20%C3%A1rvores%20em%20floresta%20considerada%20de%20preserva%C3%A7%C3%A3o%20permanente%2C%20sem%20permiss%C3%A3o%20da%20autoridade%20competente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "38-A",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Causar dano direto ou indireto às Unidades de Conservação e às áreas de que trata o art. 27 do Decreto nº 99.274, de 6 de junho de 1990, independentemente de sua localização:\n\nPena - reclusão, de um a cinco anos.\n\n§ 1º Entende-se por Unidades de Conservação as Reservas Biológicas, Reservas Ecológicas, Estações Ecológicas, Parques Nacionais, Estaduais e Municipais, Florestas Nacionais, Estaduais e Municipais, Áreas de Proteção Ambiental, Áreas de Relevante Interesse Ecológico e Reservas Extrativistas ou outras a serem criadas pelo Poder Público.\n\n§ 1o Entende-se por Unidades de Conservação de Proteção Integral as Estações Ecológicas, as Reservas Biológicas, os Parques Nacionais, os Monumentos Naturais e os Refúgios de Vida Silvestre. (Redação dada pela Lei nº 9.985, de 2000)\n\n§ 2º A ocorrência de dano afetando espécies ameaçadas de extinção no interior das Unidades de Conservação será considerada circunstância agravante para a fixação da pena.\n\n§ 2o A ocorrência de dano afetando espécies ameaçadas de extinção no interior das Unidades de Conservação de Proteção Integral será considerada circunstância agravante para a fixação da pena. (Redação dada pela Lei nº 9.985, de 2000)\n\n§ 3º Se o crime for culposo, a pena será reduzida à metade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2040.%20Causar%20dano%20direto%20ou%20indireto%20%C3%A0s%20Unidades%20de%20Conserva%C3%A7%C3%A3o%20e%20%C3%A0s%20%C3%A1reas%20de%20que%20trata%20o%20art.%2027%20do%20Decreto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "39",
+      "next": "40-A"
+    },
+    "40-A": {
+      "numero": "40-A",
+      "texto": "Art. 40-A. (VETADO) (Incluído pela Lei nº 9.985, de 2000)\n\n§ 1o Entende-se por Unidades de Conservação de Uso Sustentável as Áreas de Proteção Ambiental, as Áreas de Relevante Interesse Ecológico, as Florestas Nacionais, as Reservas Extrativistas, as Reservas de Fauna, as Reservas de Desenvolvimento Sustentável e as Reservas Particulares do Patrimônio Natural. (Incluído pela Lei nº 9.985, de 2000)\n\n§ 2o A ocorrência de dano afetando espécies ameaçadas de extinção no interior das Unidades de Conservação de Uso Sustentável será considerada circunstância agravante para a fixação da pena. (Incluído pela Lei nº 9.985, de 2000)\n\n§ 3o Se o crime for culposo, a pena será reduzida à metade. (Incluído pela Lei nº 9.985, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2040-A.%20%28VETADO%29%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%209.985%2C%20de%202000%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "40",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Provocar incêndio em mata ou floresta:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2041.%20Provocar%20inc%C3%AAndio%20em%20mata%20ou%20floresta%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "40-A",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Fabricar, vender, transportar ou soltar balões que possam provocar incêndios nas florestas e demais formas de vegetação, em áreas urbanas ou qualquer tipo de assentamento humano:\n\nPena - detenção de um a três anos ou multa, ou ambas as penas cumulativamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2042.%20Fabricar%2C%20vender%2C%20transportar%20ou%20soltar%20bal%C3%B5es%20que%20possam%20provocar%20inc%C3%AAndios%20nas%20florestas%20e%20demais%20formas%20de%20vegeta%C3%A7%C3%A3o%2C%20em%20%C3%A1reas%20urbanas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2043.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Extrair de florestas de domínio público ou consideradas de preservação permanente, sem prévia autorização, pedra, areia, cal ou qualquer espécie de minerais:\n\nPena - detenção, de seis meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2044.%20Extrair%20de%20florestas%20de%20dom%C3%ADnio%20p%C3%BAblico%20ou%20consideradas%20de%20preserva%C3%A7%C3%A3o%20permanente%2C%20sem%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%2C%20pedra%2C%20areia%2C%20cal%20ou%20qualquer%20esp%C3%A9cie",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Cortar ou transformar em carvão madeira de lei, assim classificada por ato do Poder Público, para fins industriais, energéticos ou para qualquer outra exploração, econômica ou não, em desacordo com as determinações legais:\n\nPena - reclusão, de um a dois anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2045.%20Cortar%20ou%20transformar%20em%20carv%C3%A3o%20madeira%20de%20lei%2C%20assim%20classificada%20por%20ato%20do%20Poder%20P%C3%BAblico%2C%20para%20fins%20industriais%2C%20energ%C3%A9ticos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Receber ou adquirir, para fins comerciais ou industriais, madeira, lenha, carvão e outros produtos de origem vegetal, sem exigir a exibição de licença do vendedor, outorgada pela autoridade competente, e sem munir-se da via que deverá acompanhar o produto até final beneficiamento:\n\nPena - detenção, de seis meses a um ano, e multa.\n\nParágrafo único. Incorre nas mesmas penas quem vende, expõe à venda, tem em depósito, transporta ou guarda madeira, lenha, carvão e outros produtos de origem vegetal, sem licença válida para todo o tempo da viagem ou do armazenamento, outorgada pela autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2046.%20Receber%20ou%20adquirir%2C%20para%20fins%20comerciais%20ou%20industriais%2C%20madeira%2C%20lenha%2C%20carv%C3%A3o%20e%20outros%20produtos%20de%20origem%20vegetal%2C%20sem%20exigir%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2047.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação:\n\nPena - detenção, de seis meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2048.%20Impedir%20ou%20dificultar%20a%20regenera%C3%A7%C3%A3o%20natural%20de%20florestas%20e%20demais%20formas%20de%20vegeta%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Destruir, danificar, lesar ou maltratar, por qualquer modo ou meio, plantas de ornamentação de logradouros públicos ou em propriedade privada alheia:\n\nPena - detenção, de três meses a um ano, ou multa, ou ambas as penas cumulativamente.\n\nParágrafo único. No crime culposo, a pena é de um a seis meses, ou multa.\n\n§ 1º No crime culposo, a pena é de um a seis meses, ou multa. (Redação dada pela Lei nº 15.299, de 2025)\n\n§ 2º Não incorre em crime quem procede à poda ou ao corte de árvore quando o órgão ambiental responsável não responder de maneira fundamentada, no prazo máximo de 45 (quarenta e cinco) dias, a requerimento que solicita o corte ou a poda em razão da possibilidade de ocorrência de acidente devidamente atestada por empresa ou profissional habilitado, considerada tacitamente autorizada sua realização quando esgotado o referido prazo. (Incluído pela Lei nº 15.299, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2049.%20Destruir%2C%20danificar%2C%20lesar%20ou%20maltratar%2C%20por%20qualquer%20modo%20ou%20meio%2C%20plantas%20de%20ornamenta%C3%A7%C3%A3o%20de%20logradouros%20p%C3%BAblicos%20ou%20em%20propriedade%20privada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Destruir ou danificar florestas nativas ou plantadas ou vegetação fixadora de dunas, protetora de mangues, objeto de especial preservação:\n\nPena - detenção, de três meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2050.%20Destruir%20ou%20danificar%20florestas%20nativas%20ou%20plantadas%20ou%20vegeta%C3%A7%C3%A3o%20fixadora%20de%20dunas%2C%20protetora%20de%20mangues%2C%20objeto%20de%20especial%20preserva%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "49",
+      "next": "50-A"
+    },
+    "50-A": {
+      "numero": "50-A",
+      "texto": "Art. 50-A. Desmatar, explorar economicamente ou degradar floresta, plantada ou nativa, em terras de domínio público ou devolutas, sem autorização do órgão competente: (Incluído pela Lei nº 11.284, de 2006)\n\nPena - reclusão de 2 (dois) a 4 (quatro) anos e multa. (Incluído pela Lei nº 11.284, de 2006)\n\n§ 1o Não é crime a conduta praticada quando necessária à subsistência imediata pessoal do agente ou de sua família. (Incluído pela Lei nº 11.284, de 2006)\n\n§ 2o Se a área explorada for superior a 1.000 ha (mil hectares), a pena será aumentada de 1 (um) ano por milhar de hectare. (Incluído pela Lei nº 11.284, de 2006)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2050-A.%20Desmatar%2C%20explorar%20economicamente%20ou%20degradar%20floresta%2C%20plantada%20ou%20nativa%2C%20em%20terras%20de%20dom%C3%ADnio%20p%C3%BAblico%20ou%20devolutas%2C%20sem%20autoriza%C3%A7%C3%A3o%20do%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "50",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Comercializar motosserra ou utilizá-la em florestas e nas demais formas de vegetação, sem licença ou registro da autoridade competente:\n\nPena - detenção, de três meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2051.%20Comercializar%20motosserra%20ou%20utiliz%C3%A1-la%20em%20florestas%20e%20nas%20demais%20formas%20de%20vegeta%C3%A7%C3%A3o%2C%20sem%20licen%C3%A7a%20ou%20registro%20da%20autoridade%20competente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "50-A",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Penetrar em Unidades de Conservação conduzindo substâncias ou instrumentos próprios para caça ou para exploração de produtos ou subprodutos florestais, sem licença da autoridade competente:\n\nPena - detenção, de seis meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2052.%20Penetrar%20em%20Unidades%20de%20Conserva%C3%A7%C3%A3o%20conduzindo%20subst%C3%A2ncias%20ou%20instrumentos%20pr%C3%B3prios%20para%20ca%C3%A7a%20ou%20para%20explora%C3%A7%C3%A3o%20de%20produtos%20ou%20subprodutos%20florestais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Nos crimes previstos nesta Seção, a pena é aumentada de um sexto a um terço se:\n\nI - do fato resulta a diminuição de águas naturais, a erosão do solo ou a modificação do regime climático;\n\nII - o crime é cometido:\n\na) no período de queda das sementes;\n\nb) no período de formação de vegetações;\n\nc) contra espécies raras ou ameaçadas de extinção, ainda que a ameaça ocorra somente no local da infração;\n\nd) em época de seca ou inundação;\n\ne) durante a noite, em domingo ou feriado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2053.%20Nos%20crimes%20previstos%20nesta%20Se%C3%A7%C3%A3o%2C%20a%20pena%20%C3%A9%20aumentada%20de%20um%20sexto%20a%20um%20ter%C3%A7o%20se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortandade de animais ou a destruição significativa da flora:\n\nPena - reclusão, de um a quatro anos, e multa.\n\n§ 1º Se o crime é culposo:\n\nPena - detenção, de seis meses a um ano, e multa.\n\n§ 2º Se o crime:\n\nI - tornar uma área, urbana ou rural, imprópria para a ocupação humana;\n\nII - causar poluição atmosférica que provoque a retirada, ainda que momentânea, dos habitantes das áreas afetadas, ou que cause danos diretos à saúde da população;\n\nIII - causar poluição hídrica que torne necessária a interrupção do abastecimento público de água de uma comunidade;\n\nIV - dificultar ou impedir o uso público das praias;\n\nV - ocorrer por lançamento de resíduos sólidos, líquidos ou gasosos, ou detritos, óleos ou substâncias oleosas, em desacordo com as exigências estabelecidas em leis ou regulamentos:\n\nPena - reclusão, de um a cinco anos.\n\n§ 3º Incorre nas mesmas penas previstas no parágrafo anterior quem deixar de adotar, quando assim o exigir a autoridade competente, medidas de precaução em caso de risco de dano ambiental grave ou irreversível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2054.%20Causar%20polui%C3%A7%C3%A3o%20de%20qualquer%20natureza%20em%20n%C3%ADveis%20tais%20que%20resultem%20ou%20possam%20resultar%20em%20danos%20%C3%A0%20sa%C3%BAde%20humana%2C%20ou%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Executar pesquisa, lavra ou extração de recursos minerais sem a competente autorização, permissão, concessão ou licença, ou em desacordo com a obtida:\n\nPena - detenção, de seis meses a um ano, e multa.\n\nParágrafo único. Nas mesmas penas incorre quem deixa de recuperar a área pesquisada ou explorada, nos termos da autorização, permissão, licença, concessão ou determinação do órgão competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2055.%20Executar%20pesquisa%2C%20lavra%20ou%20extra%C3%A7%C3%A3o%20de%20recursos%20minerais%20sem%20a%20competente%20autoriza%C3%A7%C3%A3o%2C%20permiss%C3%A3o%2C%20concess%C3%A3o%20ou%20licen%C3%A7a%2C%20ou%20em%20desacordo%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Produzir, processar, embalar, importar, exportar, comercializar, fornecer, transportar, armazenar, guardar, ter em depósito ou usar produto ou substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente, em desacordo com as exigências estabelecidas em leis ou nos seus regulamentos:\n\nPena - reclusão, de um a quatro anos, e multa.\n\n§ 1º Nas mesmas penas incorre quem abandona os produtos ou substâncias referidos no caput, ou os utiliza em desacordo com as normas de segurança.\n\n§ 1o Nas mesmas penas incorre quem: (Redação dada pela Lei nº 12.305, de 2010)\n\nI - abandona os produtos ou substâncias referidos no caput ou os utiliza em desacordo com as normas ambientais ou de segurança; (Incluído pela Lei nº 12.305, de 2010)\n\nII - manipula, acondiciona, armazena, coleta, transporta, reutiliza, recicla ou dá destinação final a resíduos perigosos de forma diversa da estabelecida em lei ou regulamento. (Incluído pela Lei nº 12.305, de 2010)\n\n§ 2º Se o produto ou a substância for nuclear ou radioativa, a pena é aumentada de um sexto a um terço.\n\n§ 3º Se o crime é culposo:\n\nPena - detenção, de seis meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2056.%20Produzir%2C%20processar%2C%20embalar%2C%20importar%2C%20exportar%2C%20comercializar%2C%20fornecer%2C%20transportar%2C%20armazenar%2C%20guardar%2C%20ter%20em%20dep%C3%B3sito%20ou%20usar%20produto%20ou%20subst%C3%A2ncia%20t%C3%B3xica%2C%20perigosa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2057.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Nos crimes dolosos previstos nesta Seção, as penas serão aumentadas:\n\nI - de um sexto a um terço, se resulta dano irreversível à flora ou ao meio ambiente em geral;\n\nII - de um terço até a metade, se resulta lesão corporal de natureza grave em outrem;\n\nIII - até o dobro, se resultar a morte de outrem.\n\nParágrafo único. As penalidades previstas neste artigo somente serão aplicadas se do fato não resultar crime mais grave.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2058.%20Nos%20crimes%20dolosos%20previstos%20nesta%20Se%C3%A7%C3%A3o%2C%20as%20penas%20ser%C3%A3o%20aumentadas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2059.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Construir, reformar, ampliar, instalar ou fazer funcionar, em qualquer parte do território nacional, estabelecimentos, obras ou serviços potencialmente poluidores, sem licença ou autorização dos órgãos ambientais competentes, ou contrariando as normas legais e regulamentares pertinentes:\n\nPena - detenção, de um a seis meses, ou multa, ou ambas as penas cumulativamente.\n\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, ou multa, ou ambas as penas, cumulativamente. (Redação dada pela Lei nº 15.190, de 2025) Vigência\n\nParágrafo único. A pena é aumentada até o dobro se o licenciamento da atividade ou do empreendimento for sujeito ao Estudo Prévio de Impacto Ambiental. (Incluído pela Lei nº 15.190, de 2025) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2060.%20Construir%2C%20reformar%2C%20ampliar%2C%20instalar%20ou%20fazer%20funcionar%2C%20em%20qualquer%20parte%20do%20territ%C3%B3rio%20nacional%2C%20estabelecimentos%2C%20obras%20ou%20servi%C3%A7os%20potencialmente%20poluidores%2C%20sem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Disseminar doença ou praga ou espécies que possam causar dano à agricultura, à pecuária, à fauna, à flora ou aos ecossistemas:\n\nPena - reclusão, de um a quatro anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2061.%20Disseminar%20doen%C3%A7a%20ou%20praga%20ou%20esp%C3%A9cies%20que%20possam%20causar%20dano%20%C3%A0%20agricultura%2C%20%C3%A0%20pecu%C3%A1ria%2C%20%C3%A0%20fauna%2C%20%C3%A0%20flora%20ou%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Destruir, inutilizar ou deteriorar:\n\nI - bem especialmente protegido por lei, ato administrativo ou decisão judicial;\n\nII - arquivo, registro, museu, biblioteca, pinacoteca, instalação científica ou similar protegido por lei, ato administrativo ou decisão judicial:\n\nPena - reclusão, de um a três anos, e multa.\n\nParágrafo único. Se o crime for culposo, a pena é de seis meses a um ano de detenção, sem prejuízo da multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2062.%20Destruir%2C%20inutilizar%20ou%20deteriorar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Alterar o aspecto ou estrutura de edificação ou local especialmente protegido por lei, ato administrativo ou decisão judicial, em razão de seu valor paisagístico, ecológico, turístico, artístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida:\n\nPena - reclusão, de um a três anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2063.%20Alterar%20o%20aspecto%20ou%20estrutura%20de%20edifica%C3%A7%C3%A3o%20ou%20local%20especialmente%20protegido%20por%20lei%2C%20ato%20administrativo%20ou%20decis%C3%A3o%20judicial%2C%20em%20raz%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Promover construção em solo não edificável, ou no seu entorno, assim considerado em razão de seu valor paisagístico, ecológico, artístico, turístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida:\n\nPena - detenção, de seis meses a um ano, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2064.%20Promover%20constru%C3%A7%C3%A3o%20em%20solo%20n%C3%A3o%20edific%C3%A1vel%2C%20ou%20no%20seu%20entorno%2C%20assim%20considerado%20em%20raz%C3%A3o%20de%20seu%20valor%20paisag%C3%ADstico%2C%20ecol%C3%B3gico%2C%20art%C3%ADstico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Pichar, grafitar ou por outro meio conspurcar edificação ou monumento urbano:\n\nPena - detenção, de três meses a um ano, e multa.\n\nParágrafo único. Se o ato for realizado em monumento ou coisa tombada em virtude do seu valor artístico, arqueológico ou histórico, a pena é de seis meses a um ano de detenção, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2065.%20Pichar%2C%20grafitar%20ou%20por%20outro%20meio%20conspurcar%20edifica%C3%A7%C3%A3o%20ou%20monumento%20urbano%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Fazer o funcionário público afirmação falsa ou enganosa, omitir a verdade, sonegar informações ou dados técnico-científicos em procedimentos de autorização ou de licenciamento ambiental:\n\nPena - reclusão, de um a três anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2066.%20Fazer%20o%20funcion%C3%A1rio%20p%C3%BAblico%20afirma%C3%A7%C3%A3o%20falsa%20ou%20enganosa%2C%20omitir%20a%20verdade%2C%20sonegar%20informa%C3%A7%C3%B5es%20ou%20dados%20t%C3%A9cnico-cient%C3%ADficos%20em%20procedimentos%20de%20autoriza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Conceder o funcionário público licença, autorização ou permissão em desacordo com as normas ambientais, para as atividades, obras ou serviços cuja realização depende de ato autorizativo do Poder Público:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2067.%20Conceder%20o%20funcion%C3%A1rio%20p%C3%BAblico%20licen%C3%A7a%2C%20autoriza%C3%A7%C3%A3o%20ou%20permiss%C3%A3o%20em%20desacordo%20com%20as%20normas%20ambientais%2C%20para%20as%20atividades%2C%20obras%20ou%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Deixar, aquele que tiver o dever legal ou contratual de fazê-lo, de cumprir obrigação de relevante interesse ambiental:\n\nPena - detenção, de um a três anos, e multa.\n\nParágrafo único. Se o crime é culposo, a pena é de três meses a um ano, sem prejuízo da multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2068.%20Deixar%2C%20aquele%20que%20tiver%20o%20dever%20legal%20ou%20contratual%20de%20faz%C3%AA-lo%2C%20de%20cumprir%20obriga%C3%A7%C3%A3o%20de%20relevante%20interesse%20ambiental%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Obstar ou dificultar a ação fiscalizadora do Poder Público no trato de questões ambientais:\n\nPena - detenção, de um a três anos, e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2069.%20Obstar%20ou%20dificultar%20a%20a%C3%A7%C3%A3o%20fiscalizadora%20do%20Poder%20P%C3%BAblico%20no%20trato%20de%20quest%C3%B5es%20ambientais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "68",
+      "next": "69-A"
+    },
+    "69-A": {
+      "numero": "69-A",
+      "texto": "Art. 69-A. Elaborar ou apresentar, no licenciamento, concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão: (Incluído pela Lei nº 11.284, de 2006)\n\nPena - reclusão, de 3 (três) a 6 (seis) anos, e multa. (Incluído pela Lei nº 11.284, de 2006)\n\n§ 1o Se o crime é culposo: (Incluído pela Lei nº 11.284, de 2006)\n\nPena - detenção, de 1 (um) a 3 (três) anos. (Incluído pela Lei nº 11.284, de 2006)\n\n§ 2o A pena é aumentada de 1/3 (um terço) a 2/3 (dois terços), se há dano significativo ao meio ambiente, em decorrência do uso da informação falsa, incompleta ou enganosa. (Incluído pela Lei nº 11.284, de 2006)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2069-A.%20Elaborar%20ou%20apresentar%2C%20no%20licenciamento%2C%20concess%C3%A3o%20florestal%20ou%20qualquer%20outro%20procedimento%20administrativo%2C%20estudo%2C%20laudo%20ou%20relat%C3%B3rio%20ambiental%20total%20ou%20parcialmente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "69",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Considera-se infração administrativa ambiental toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente.\n\n§ 1º São autoridades competentes para lavrar auto de infração ambiental e instaurar processo administrativo os funcionários de órgãos ambientais integrantes do Sistema Nacional de Meio Ambiente - SISNAMA, designados para as atividades de fiscalização, bem como os agentes das Capitanias dos Portos, do Ministério da Marinha.\n\n§ 2º Qualquer pessoa, constatando infração ambiental, poderá dirigir representação às autoridades relacionadas no parágrafo anterior, para efeito do exercício do seu poder de polícia.\n\n§ 3º A autoridade ambiental que tiver conhecimento de infração ambiental é obrigada a promover a sua apuração imediata, mediante processo administrativo próprio, sob pena de co-responsabilidade.\n\n§ 4º As infrações ambientais são apuradas em processo administrativo próprio, assegurado o direito de ampla defesa e o contraditório, observadas as disposições desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2070.%20Considera-se%20infra%C3%A7%C3%A3o%20administrativa%20ambiental%20toda%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20que%20viole%20as%20regras%20jur%C3%ADdicas%20de%20uso%2C%20gozo%2C%20promo%C3%A7%C3%A3o%2C%20prote%C3%A7%C3%A3o%20e%20recupera%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69-A",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. O processo administrativo para apuração de infração ambiental deve observar os seguintes prazos máximos:\n\nI - vinte dias para o infrator oferecer defesa ou impugnação contra o auto de infração, contados da data da ciência da autuação;\n\nII - trinta dias para a autoridade competente julgar o auto de infração, contados da data da sua lavratura, apresentada ou não a defesa ou impugnação;\n\nIII - vinte dias para o infrator recorrer da decisão condenatória à instância superior do Sistema Nacional do Meio Ambiente - SISNAMA, ou à Diretoria de Portos e Costas, do Ministério da Marinha, de acordo com o tipo de autuação;\n\nIV – cinco dias para o pagamento de multa, contados da data do recebimento da notificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2071.%20O%20processo%20administrativo%20para%20apura%C3%A7%C3%A3o%20de%20infra%C3%A7%C3%A3o%20ambiental%20deve%20observar%20os%20seguintes%20prazos%20m%C3%A1ximos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. As infrações administrativas são punidas com as seguintes sanções, observado o disposto no art. 6º:\n\nI - advertência;\n\nII - multa simples;\n\nIII - multa diária;\n\nIV - apreensão dos animais, produtos e subprodutos da fauna e flora, instrumentos, petrechos, equipamentos ou veículos de qualquer natureza utilizados na infração;\n\nV - destruição ou inutilização do produto;\n\nVI - suspensão de venda e fabricação do produto;\n\nVII - embargo de obra ou atividade;\n\nVIII - demolição de obra;\n\nIX - suspensão parcial ou total de atividades;\n\nX – (VETADO)\n\nXI - restritiva de direitos.\n\n§ 1º Se o infrator cometer, simultaneamente, duas ou mais infrações, ser-lhe-ão aplicadas, cumulativamente, as sanções a elas cominadas.\n\n§ 2º A advertência será aplicada pela inobservância das disposições desta Lei e da legislação em vigor, ou de preceitos regulamentares, sem prejuízo das demais sanções previstas neste artigo.\n\n§ 3º A multa simples será aplicada sempre que o agente, por negligência ou dolo:\n\nI - advertido por irregularidades que tenham sido praticadas, deixar de saná-las, no prazo assinalado por órgão competente do SISNAMA ou pela Capitania dos Portos, do Ministério da Marinha;\n\nII - opuser embaraço à fiscalização dos órgãos do SISNAMA ou da Capitania dos Portos, do Ministério da Marinha.\n\n§ 4° A multa simples pode ser convertida em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente.\n\n§ 5º A multa diária será aplicada sempre que o cometimento da infração se prolongar no tempo.\n\n§ 6º A apreensão e destruição referidas nos incisos IV e V do caput obedecerão ao disposto no art. 25 desta Lei.\n\n§ 7º As sanções indicadas nos incisos VI a IX do caput serão aplicadas quando o produto, a obra, a atividade ou o estabelecimento não estiverem obedecendo às prescrições legais ou regulamentares.\n\n§ 8º As sanções restritivas de direito são:\n\nI - suspensão de registro, licença ou autorização;\n\nII - cancelamento de registro, licença ou autorização;\n\nIII - perda ou restrição de incentivos e benefícios fiscais;\n\nIV - perda ou suspensão da participação em linhas de financiamento em estabelecimentos oficiais de crédito;\n\nV - proibição de contratar com a Administração Pública, pelo período de até três anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2072.%20As%20infra%C3%A7%C3%B5es%20administrativas%20s%C3%A3o%20punidas%20com%20as%20seguintes%20san%C3%A7%C3%B5es%2C%20observado%20o%20disposto%20no%20art.%206%C2%BA%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Os valores arrecadados em pagamento de multas por infração ambiental serão revertidos ao Fundo Nacional do Meio Ambiente, criado pela Lei nº 7.797, de 10 de julho de 1989, Fundo Naval, criado pelo Decreto nº 20.923, de 8 de janeiro de 1932, fundos estaduais ou municipais de meio ambiente, ou correlatos, conforme dispuser o órgão arrecadador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2073.%20Os%20valores%20arrecadados%20em%20pagamento%20de%20multas%20por%20infra%C3%A7%C3%A3o%20ambiental%20ser%C3%A3o%20revertidos%20ao%20Fundo%20Nacional%20do%20Meio%20Ambiente%2C%20criado%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. A multa terá por base a unidade, hectare, metro cúbico, quilograma ou outra medida pertinente, de acordo com o objeto jurídico lesado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2074.%20A%20multa%20ter%C3%A1%20por%20base%20a%20unidade%2C%20hectare%2C%20metro%20c%C3%BAbico%2C%20quilograma%20ou%20outra%20medida%20pertinente%2C%20de%20acordo%20com%20o%20objeto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. O valor da multa de que trata este Capítulo será fixado no regulamento desta Lei e corrigido periodicamente, com base nos índices estabelecidos na legislação pertinente, sendo o mínimo de R$ 50,00 (cinqüenta reais) e o máximo de R$ 50.000.000,00 (cinqüenta milhões de reais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2075.%20O%20valor%20da%20multa%20de%20que%20trata%20este%20Cap%C3%ADtulo%20ser%C3%A1%20fixado%20no%20regulamento%20desta%20Lei%20e%20corrigido%20periodicamente%2C%20com%20base",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. O pagamento de multa imposta pelos Estados, Municípios, Distrito Federal ou Territórios substitui a multa federal na mesma hipótese de incidência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2076.%20O%20pagamento%20de%20multa%20imposta%20pelos%20Estados%2C%20Munic%C3%ADpios%2C%20Distrito%20Federal%20ou%20Territ%C3%B3rios%20substitui%20a%20multa%20federal%20na%20mesma%20hip%C3%B3tese%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. Resguardados a soberania nacional, a ordem pública e os bons costumes, o Governo brasileiro prestará, no que concerne ao meio ambiente, a necessária cooperação a outro país, sem qualquer ônus, quando solicitado para:\n\nI - produção de prova;\n\nII - exame de objetos e lugares;\n\nIII - informações sobre pessoas e coisas;\n\nIV - presença temporária da pessoa presa, cujas declarações tenham relevância para a decisão de uma causa;\n\nV - outras formas de assistência permitidas pela legislação em vigor ou pelos tratados de que o Brasil seja parte.\n\n§ 1° A solicitação de que trata este artigo será dirigida ao Ministério da Justiça, que a remeterá, quando necessário, ao órgão judiciário competente para decidir a seu respeito, ou a encaminhará à autoridade capaz de atendê-la.\n\n§ 2º A solicitação deverá conter:\n\nI - o nome e a qualificação da autoridade solicitante;\n\nII - o objeto e o motivo de sua formulação;\n\nIII - a descrição sumária do procedimento em curso no país solicitante;\n\nIV - a especificação da assistência solicitada;\n\nV - a documentação indispensável ao seu esclarecimento, quando for o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2077.%20Resguardados%20a%20soberania%20nacional%2C%20a%20ordem%20p%C3%BAblica%20e%20os%20bons%20costumes%2C%20o%20Governo%20brasileiro%20prestar%C3%A1%2C%20no%20que%20concerne%20ao%20meio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Para a consecução dos fins visados nesta Lei e especialmente para a reciprocidade da cooperação internacional, deve ser mantido sistema de comunicações apto a facilitar o intercâmbio rápido e seguro de informações com órgãos de outros países.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2078.%20Para%20a%20consecu%C3%A7%C3%A3o%20dos%20fins%20visados%20nesta%20Lei%20e%20especialmente%20para%20a%20reciprocidade%20da%20coopera%C3%A7%C3%A3o%20internacional%2C%20deve%20ser%20mantido%20sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. Aplicam-se subsidiariamente a esta Lei as disposições do Código Penal e do Código de Processo Penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2079.%20Aplicam-se%20subsidiariamente%20a%20esta%20Lei%20as%20disposi%C3%A7%C3%B5es%20do%20C%C3%B3digo%20Penal%20e%20do%20C%C3%B3digo%20de%20Processo%20Penal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "79-A"
+    },
+    "79-A": {
+      "numero": "79-A",
+      "texto": "Art. 79-A. Para o cumprimento do disposto nesta Lei, os órgãos ambientais integrantes do SISNAMA, responsáveis pela execução de programas e projetos e pelo controle e fiscalização das atividades suscetíveis de degradarem a qualidade ambiental, ficam autorizados a celebrar, com força de título executivo extrajudicial, termo de compromisso com pessoas físicas ou jurídicas responsáveis pela construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadoras de recursos ambientais, considerados efetiva ou potencialmente poluidores, bem como os capazes, sob qualquer forma, de causar degradação ambiental. (Incluído pela Medida Provisória nº 1.710, de 1998)\n\n§ 1o O termo de compromisso a que se refere este artigo destinar-se-á, exclusivamente, a permitir que as pessoas físicas e jurídicas mencionadas no caput possam promover as necessárias correções de suas atividades, para o atendimento das exigências impostas pelas autoridades ambientais competentes, sendo obrigatório que o respectivo instrumento disponha sobre: (Incluído pela Medida Provisória nº 1.710, de 1998)\n\nI - o nome, a qualificação e o endereço das partes compromissadas e dos respectivos representantes legais; (Incluído pela Medida Provisória nº 1.710, de 1998)\n\nII - o prazo de vigência do compromisso, que, em função da complexidade das obrigações nele fixadas, poderá variar entre o mínimo de noventa dias e o máximo de cinco anos, com possibilidade de prorrogação por igual período; (Incluído pela Medida Provisória nº 1.710, de 1998)\n\nIII - a descrição detalhada de seu objeto e o cronograma físico de execução e de implantação das obras e serviços exigidos; (Incluído pela Medida Provisória nº 1.710, de 1998)\n\nIV - as multas que podem ser aplicadas à pessoa física ou jurídica compromissada e os casos de rescisão, em decorrência do não-cumprimento das obrigações nele pactuadas; (Incluído pela Medida Provisória nº 1.710, de 1998)\n\nV - o foro competente para dirimir litígios entre as partes. (Incluído pela Medida Provisória nº 1.710, de 1998)\n\n§ 2o No tocante aos empreendimentos em curso no dia 30 de março de 1998, envolvendo construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadoras de recursos ambientais, considerados efetiva ou potencialmente poluidores, bem como os capazes, sob qualquer forma, de causar degradação ambiental, a assinatura do termo de compromisso deverá ser requerida pelas pessoas físicas e jurídicas interessadas, até o dia 31 de dezembro de 1998, mediante requerimento escrito protocolizado junto aos órgãos competentes do SISNAMA. (Incluído pela Medida Provisória nº 1.710, de 1998)\n\n§ 3o Da data da protocolização do requerimento previsto no parágrafo anterior e enquanto perdurar a vigência do correspondente termo de compromisso, ficarão suspensas, em relação aos fatos que deram causa à celebração do instrumento, a aplicação e a execução de sanções administrativas contra a pessoa física ou jurídica que o houver firmado. (Incluído pela Medida Provisória nº 1.710, de 1998)\n\n§ 4o Sob pena de ineficácia, os termos de compromisso deverão ser publicados no órgão oficial competente, mediante extrato. (Incluído pela Medida Provisória nº 1.710, de 1998)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2079-A.%20Para%20o%20cumprimento%20do%20disposto%20nesta%20Lei%2C%20os%20%C3%B3rg%C3%A3os%20ambientais%20integrantes%20do%20SISNAMA%2C%20respons%C3%A1veis%20pela%20execu%C3%A7%C3%A3o%20de%20programas%20e%20projetos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. O Poder Executivo regulamentará esta Lei no prazo de noventa dias a contar de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2080.%20O%20Poder%20Executivo%20regulamentar%C3%A1%20esta%20Lei%20no%20prazo%20de%20noventa%20dias%20a%20contar%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79-A",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2081.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Revogam-se as disposições em contrário.\n\nBrasília, 12 de fevereiro de 1998; 177º da Independência e 110º da República.\n\nFERNANDO HENRIQUE CARDOSO Gustavo Krause\n\nEste texto não substitui o publicado no DOU de 13.2.1998 e retificado em 17.2.1998\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm#:~:text=Art.%2082.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": null
+    }
+  }
+}

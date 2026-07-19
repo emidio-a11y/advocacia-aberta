@@ -215,9 +215,25 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12815.json",
     rotulo: "Setor Portuário – Relações de Trabalho (Lei 12.815/2013)",
   },
+  L12850: {
+    arquivo: "../../data/lei_l12850.json",
+    rotulo: "Organização Criminosa (Lei 12.850/2013)",
+  },
   L13103: {
     arquivo: "../../data/lei_l13103.json",
     rotulo: "Motorista Profissional (Lei 13.103/2015)",
+  },
+  L13260: {
+    arquivo: "../../data/lei_l13260.json",
+    rotulo: "Antiterrorismo (Lei 13.260/2016)",
+  },
+  L13869: {
+    arquivo: "../../data/lei_l13869.json",
+    rotulo: "Abuso de Autoridade (Lei 13.869/2019)",
+  },
+  L14344: {
+    arquivo: "../../data/lei_l14344.json",
+    rotulo: "Violência Contra Crianças e Adolescentes (Lei 14.344/2022)",
   },
   L14442: {
     arquivo: "../../data/lei_l14442.json",
@@ -226,6 +242,10 @@ const REGISTRO_CODIGOS = {
   L14611: {
     arquivo: "../../data/lei_l14611.json",
     rotulo: "Igualdade Salarial por Gênero (Lei 14.611/2023)",
+  },
+  L1521: {
+    arquivo: "../../data/lei_l1521.json",
+    rotulo: "Crimes contra Economia Popular (Lei 1.521/1951)",
   },
   L3207: {
     arquivo: "../../data/lei_l3207.json",
@@ -279,21 +299,65 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l7418.json",
     rotulo: "Vale-Transporte (Lei 7.418/1985)",
   },
+  L7492: {
+    arquivo: "../../data/lei_l7492.json",
+    rotulo: "Crimes contra o Sistema Financeiro (Lei 7.492/1986)",
+  },
+  L7716: {
+    arquivo: "../../data/lei_l7716.json",
+    rotulo: "Racismo (Lei 7.716/1989)",
+  },
   L7783: {
     arquivo: "../../data/lei_l7783.json",
     rotulo: "Direito de Greve (Lei 7.783/1989)",
+  },
+  L7960: {
+    arquivo: "../../data/lei_l7960.json",
+    rotulo: "Prisão Temporária (Lei 7.960/1989)",
   },
   L7998: {
     arquivo: "../../data/lei_l7998.json",
     rotulo: "Seguro‑Desemprego, Abono e FAT (Lei 7.998/1990)",
   },
+  L8072: {
+    arquivo: "../../data/lei_l8072.json",
+    rotulo: "Crimes Hediondos (Lei 8.072/1990)",
+  },
+  L8137: {
+    arquivo: "../../data/lei_l8137.json",
+    rotulo: "Crimes contra Ordem Tributária (Lei 8.137/1990)",
+  },
   L9029: {
     arquivo: "../../data/lei_l9029.json",
     rotulo: "Antidiscriminação nas Relações de Trabalho (Lei 9.029/1995)",
   },
+  L9296: {
+    arquivo: "../../data/lei_l9296.json",
+    rotulo: "Interceptação Telefônica (Lei 9.296/1996)",
+  },
+  L9455: {
+    arquivo: "../../data/lei_l9455.json",
+    rotulo: "Tortura (Lei 9.455/1997)",
+  },
   L9601: {
     arquivo: "../../data/lei_l9601.json",
     rotulo: "Contrato por Prazo Determinado (via ACT/CCT) (Lei 9.601/1998)",
+  },
+  L9605: {
+    arquivo: "../../data/lei_l9605.json",
+    rotulo: "Crimes Ambientais (Lei 9.605/1998)",
+  },
+  L9613: {
+    arquivo: "../../data/lei_l9613.json",
+    rotulo: "Lavagem de Dinheiro (Lei 9.613/1998)",
+  },
+  L9807: {
+    arquivo: "../../data/lei_l9807.json",
+    rotulo: "Proteção Testemunhas (Lei 9.807/1999)",
+  },
+  LC105: {
+    arquivo: "../../data/lei_lc105.json",
+    rotulo: "Quebra Sigilo Bancário (Lei Complementar 105/2001)",
   },
   LC123: {
     arquivo: "../../data/lei_lc123.json",
@@ -302,6 +366,10 @@ const REGISTRO_CODIGOS = {
   LC150: {
     arquivo: "../../data/lei_lc150.json",
     rotulo: "Empregado Doméstico (Lei Complementar 150/2015)",
+  },
+  LCP: {
+    arquivo: "../../data/lei_lcp.json",
+    rotulo: "Contravenções Penais (Decreto-Lei 3.688/1941)",
   },
   LMIG: {
     arquivo: "../../data/lei_lmig.json",

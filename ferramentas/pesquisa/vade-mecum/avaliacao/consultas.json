@@ -784,6 +784,58 @@
     "CBA:256"
    ],
    "justificativa": "O art. 256 fixa a responsabilidade do transportador por morte ou lesão de passageiro; o art. 260 a responsabilidade por bagagem; o art. 267 a responsabilidade civil sem contrato de transporte. Os arts. 234 (nota de bagagem) e 239 (responsabilidade do expedidor) não foram julgados relevantes."
+  },
+  {
+   "id": "l8072-hediondos",
+   "grupo": "legislacao",
+   "consulta": "considerados hediondos progressão de regime",
+   "filtro": {
+    "codigo": "L8072"
+   },
+   "relevantes": [
+    "L8072:1",
+    "L8072:2"
+   ],
+   "obrigatorios": [
+    "L8072:1",
+    "L8072:2"
+   ],
+   "justificativa": "O art. 1º traz o rol taxativo dos crimes hediondos; o art. 2º disciplina o regime dos hediondos e equiparados, inclusive fiança, liberdade provisória e a progressão de regime."
+  },
+  {
+   "id": "l9613-lavagem",
+   "grupo": "legislacao",
+   "consulta": "ocultar dissimular bens direitos valores infração penal",
+   "filtro": {
+    "codigo": "L9613"
+   },
+   "relevantes": [
+    "L9613:1",
+    "L9613:4",
+    "L9613:7",
+    "L9613:5"
+   ],
+   "obrigatorios": [
+    "L9613:1"
+   ],
+   "justificativa": "O art. 1º é o tipo penal da lavagem (ocultar ou dissimular bens, direitos e valores provenientes de infração penal); o art. 4º trata das medidas assecuratórias sobre esses bens; o art. 7º dos efeitos da condenação (perda de bens); o art. 5º da administração dos bens constritos. O art. 2º (regras processuais), também recuperado, não foi julgado relevante para a consulta."
+  },
+  {
+   "id": "l9296-interceptacao",
+   "grupo": "legislacao",
+   "consulta": "indícios razoáveis autoria prova interceptação",
+   "filtro": {
+    "codigo": "L9296"
+   },
+   "relevantes": [
+    "L9296:2",
+    "L9296:1",
+    "L9296:8"
+   ],
+   "obrigatorios": [
+    "L9296:2"
+   ],
+   "justificativa": "O art. 2º fixa os requisitos negativos da interceptação (indícios razoáveis de autoria, impossibilidade de prova por outros meios, pena de reclusão); o art. 1º exige ordem judicial para a prova em investigação; o art. 8º disciplina a documentação da interceptação em autos apartados."
   }
  ]
 }
