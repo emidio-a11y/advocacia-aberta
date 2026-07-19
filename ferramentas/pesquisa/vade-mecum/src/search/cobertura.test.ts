@@ -36,9 +36,11 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "D3413",
   "D4311",
   "D70235",
+  "D7962",
   "D8660",
   "D9039",
   "D9734",
+  "D9936",
   "DL1598",
   "DL167",
   "DL3365",
@@ -63,6 +65,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "FGTS",
   "L10101",
   "L10185",
+  "L10233",
   "L10259",
   "L10522",
   "L10637",
@@ -93,6 +96,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L12030",
   "L12037",
   "L12153",
+  "L12305",
   "L12318",
   "L12414",
   "L12506",
@@ -106,6 +110,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L13019",
   "L13058",
   "L13103",
+  "L13116",
   "L13140",
   "L13165",
   "L13257",
@@ -129,6 +134,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L13988",
   "L14026",
   "L14063",
+  "L14113",
   "L14129",
   "L14181",
   "L14192",
@@ -164,6 +170,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L6091",
   "L6099",
   "L6321",
+  "L6360",
   "L6385",
   "L6515",
   "L6533",
@@ -171,6 +178,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L6729",
   "L6766",
   "L6858",
+  "L6938",
   "L6996",
   "L7064",
   "L7357",
@@ -186,8 +194,10 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L8009",
   "L8038",
   "L8072",
+  "L8080",
   "L8112",
   "L8137",
+  "L8142",
   "L8212",
   "L8245",
   "L8437",
@@ -209,12 +219,15 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L9307",
   "L9427",
   "L9430",
+  "L9434",
   "L9455",
+  "L9478",
   "L9492",
   "L9494",
   "L9504",
   "L9507",
   "L9514",
+  "L9537",
   "L9601",
   "L9605",
   "L9609",
@@ -223,12 +236,16 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L9656",
   "L9709",
   "L9717",
+  "L9782",
   "L9784",
+  "L9787",
   "L9790",
   "L9796",
   "L9807",
   "L9868",
   "L9882",
+  "L9961",
+  "L9985",
   "L9986",
   "LACP",
   "LAI",
@@ -247,9 +264,11 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "LC87",
   "LCP",
   "LD",
+  "LDB",
   "LEF",
   "LEP",
   "LGPD",
+  "LGT",
   "LIA",
   "LINDB",
   "LJE",
@@ -262,10 +281,11 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "LRF",
   "LRP",
   "LSA",
+  "MCI",
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 250 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 270 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -284,9 +304,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(250);
+    expect(legislacoes).toHaveLength(270);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      20257,
+      21541,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

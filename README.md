@@ -20,7 +20,7 @@ O projeto nasce de ativos operacionais, não apenas de uma proposta:
 
 | Camada | Ativo atual |
 |---|---|
-| Base jurídica | 250 conjuntos de legislação, com 20.257 registros de dispositivos |
+| Base jurídica | 270 conjuntos de legislação, com 21.541 registros de dispositivos |
 | Súmulas | 1.475 registros de STJ, STF e súmulas vinculantes |
 | Teses | 3.508 registros de Jurisprudência em Teses do STJ, em 283 edições |
 | Temas | 1.462 registros de temas repetitivos do STJ |

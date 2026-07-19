@@ -1,0 +1,927 @@
+{
+  "_meta": {
+    "codigo": "L12305",
+    "nome": "Política Nacional de Resíduos Sólidos (PNRS)",
+    "lei": "Lei 12.305/2010",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm",
+    "total_artigos": 57,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei institui a Política Nacional de Resíduos Sólidos, dispondo sobre seus princípios, objetivos e instrumentos, bem como sobre as diretrizes relativas à gestão integrada e ao gerenciamento de resíduos sólidos, incluídos os perigosos, às responsabilidades dos geradores e do poder público e aos instrumentos econômicos aplicáveis.\n\n§ 1o Estão sujeitas à observância desta Lei as pessoas físicas ou jurídicas, de direito público ou privado, responsáveis, direta ou indiretamente, pela geração de resíduos sólidos e as que desenvolvam ações relacionadas à gestão integrada ou ao gerenciamento de resíduos sólidos.\n\n§ 2o Esta Lei não se aplica aos rejeitos radioativos, que são regulados por legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%201o%20Esta%20Lei%20institui%20a%20Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%2C%20dispondo%20sobre%20seus%20princ%C3%ADpios%2C%20objetivos%20e%20instrumentos%2C%20bem%20como%20sobre%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Aplicam-se aos resíduos sólidos, além do disposto nesta Lei, nas Leis nos 11.445, de 5 de janeiro de 2007, 9.974, de 6 de junho de 2000, e 9.966, de 28 de abril de 2000, as normas estabelecidas pelos órgãos do Sistema Nacional do Meio Ambiente (Sisnama), do Sistema Nacional de Vigilância Sanitária (SNVS), do Sistema Unificado de Atenção à Sanidade Agropecuária (Suasa) e do Sistema Nacional de Metrologia, Normalização e Qualidade Industrial (Sinmetro).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%202o%20Aplicam-se%20aos%20res%C3%ADduos%20s%C3%B3lidos%2C%20al%C3%A9m%20do%20disposto%20nesta%20Lei%2C%20nas%20Leis%20nos%2011.445%2C%20de%205%20de%20janeiro%20de%202007%2C%209.974%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Para os efeitos desta Lei, entende-se por:\n\nI - acordo setorial: ato de natureza contratual firmado entre o poder público e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo ciclo de vida do produto;\n\nII - área contaminada: local onde há contaminação causada pela disposição, regular ou irregular, de quaisquer substâncias ou resíduos;\n\nIII - área órfã contaminada: área contaminada cujos responsáveis pela disposição não sejam identificáveis ou individualizáveis;\n\nIV - ciclo de vida do produto: série de etapas que envolvem o desenvolvimento do produto, a obtenção de matérias-primas e insumos, o processo produtivo, o consumo e a disposição final;\n\nV - coleta seletiva: coleta de resíduos sólidos previamente segregados conforme sua constituição ou composição;\n\nVI - controle social: conjunto de mecanismos e procedimentos que garantam à sociedade informações e participação nos processos de formulação, implementação e avaliação das políticas públicas relacionadas aos resíduos sólidos;\n\nVII - destinação final ambientalmente adequada: destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a recuperação e o aproveitamento energético ou outras destinações admitidas pelos órgãos competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição final, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos;\n\nVIII - disposição final ambientalmente adequada: distribuição ordenada de rejeitos em aterros, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos;\n\nIX - geradores de resíduos sólidos: pessoas físicas ou jurídicas, de direito público ou privado, que geram resíduos sólidos por meio de suas atividades, nelas incluído o consumo;\n\nX - gerenciamento de resíduos sólidos: conjunto de ações exercidas, direta ou indiretamente, nas etapas de coleta, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos, de acordo com plano municipal de gestão integrada de resíduos sólidos ou com plano de gerenciamento de resíduos sólidos, exigidos na forma desta Lei;\n\nXI - gestão integrada de resíduos sólidos: conjunto de ações voltadas para a busca de soluções para os resíduos sólidos, de forma a considerar as dimensões política, econômica, ambiental, cultural e social, com controle social e sob a premissa do desenvolvimento sustentável;\n\nXII - logística reversa: instrumento de desenvolvimento econômico e social caracterizado por um conjunto de ações, procedimentos e meios destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou outra destinação final ambientalmente adequada;\n\nXIII - padrões sustentáveis de produção e consumo: produção e consumo de bens e serviços de forma a atender as necessidades das atuais gerações e permitir melhores condições de vida, sem comprometer a qualidade ambiental e o atendimento das necessidades das gerações futuras;\n\nXIV - reciclagem: processo de transformação dos resíduos sólidos que envolve a alteração de suas propriedades físicas, físico-químicas ou biológicas, com vistas à transformação em insumos ou novos produtos, observadas as condições e os padrões estabelecidos pelos órgãos competentes do Sisnama e, se couber, do SNVS e do Suasa;\n\nXV - rejeitos: resíduos sólidos que, depois de esgotadas todas as possibilidades de tratamento e recuperação por processos tecnológicos disponíveis e economicamente viáveis, não apresentem outra possibilidade que não a disposição final ambientalmente adequada;\n\nXVI - resíduos sólidos: material, substância, objeto ou bem descartado resultante de atividades humanas em sociedade, a cuja destinação final se procede, se propõe proceder ou se está obrigado a proceder, nos estados sólido ou semissólido, bem como gases contidos em recipientes e líquidos cujas particularidades tornem inviável o seu lançamento na rede pública de esgotos ou em corpos d’água, ou exijam para isso soluções técnica ou economicamente inviáveis em face da melhor tecnologia disponível;\n\nXVII - responsabilidade compartilhada pelo ciclo de vida dos produtos: conjunto de atribuições individualizadas e encadeadas dos fabricantes, importadores, distribuidores e comerciantes, dos consumidores e dos titulares dos serviços públicos de limpeza urbana e de manejo dos resíduos sólidos, para minimizar o volume de resíduos sólidos e rejeitos gerados, bem como para reduzir os impactos causados à saúde humana e à qualidade ambiental decorrentes do ciclo de vida dos produtos, nos termos desta Lei;\n\nXVIII - reutilização: processo de aproveitamento dos resíduos sólidos sem sua transformação biológica, física ou físico-química, observadas as condições e os padrões estabelecidos pelos órgãos competentes do Sisnama e, se couber, do SNVS e do Suasa;\n\nXIX - serviço público de limpeza urbana e de manejo de resíduos sólidos: conjunto de atividades previstas no art. 7º da Lei nº 11.445, de 2007.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%203o%20Para%20os%20efeitos%20desta%20Lei%2C%20entende-se%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A Política Nacional de Resíduos Sólidos reúne o conjunto de princípios, objetivos, instrumentos, diretrizes, metas e ações adotados pelo Governo Federal, isoladamente ou em regime de cooperação com Estados, Distrito Federal, Municípios ou particulares, com vistas à gestão integrada e ao gerenciamento ambientalmente adequado dos resíduos sólidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%204o%20A%20Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%20re%C3%BAne%20o%20conjunto%20de%20princ%C3%ADpios%2C%20objetivos%2C%20instrumentos%2C%20diretrizes%2C%20metas%20e%20a%C3%A7%C3%B5es%20adotados%20pelo%20Governo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o A Política Nacional de Resíduos Sólidos integra a Política Nacional do Meio Ambiente e articula-se com a Política Nacional de Educação Ambiental, regulada pela Lei no 9.795, de 27 de abril de 1999, com a Política Federal de Saneamento Básico, regulada pela Lei nº 11.445, de 2007, e com a Lei no 11.107, de 6 de abril de 2005.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%205o%20A%20Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%20integra%20a%20Pol%C3%ADtica%20Nacional%20do%20Meio%20Ambiente%20e%20articula-se%20com%20a%20Pol%C3%ADtica%20Nacional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o São princípios da Política Nacional de Resíduos Sólidos:\n\nI - a prevenção e a precaução;\n\nII - o poluidor-pagador e o protetor-recebedor;\n\nIII - a visão sistêmica, na gestão dos resíduos sólidos, que considere as variáveis ambiental, social, cultural, econômica, tecnológica e de saúde pública;\n\nIV - o desenvolvimento sustentável;\n\nV - a ecoeficiência, mediante a compatibilização entre o fornecimento, a preços competitivos, de bens e serviços qualificados que satisfaçam as necessidades humanas e tragam qualidade de vida e a redução do impacto ambiental e do consumo de recursos naturais a um nível, no mínimo, equivalente à capacidade de sustentação estimada do planeta;\n\nVI - a cooperação entre as diferentes esferas do poder público, o setor empresarial e demais segmentos da sociedade;\n\nVII - a responsabilidade compartilhada pelo ciclo de vida dos produtos;\n\nVIII - o reconhecimento do resíduo sólido reutilizável e reciclável como um bem econômico e de valor social, gerador de trabalho e renda e promotor de cidadania;\n\nIX - o respeito às diversidades locais e regionais;\n\nX - o direito da sociedade à informação e ao controle social;\n\nXI - a razoabilidade e a proporcionalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%206o%20S%C3%A3o%20princ%C3%ADpios%20da%20Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o São objetivos da Política Nacional de Resíduos Sólidos:\n\nI - proteção da saúde pública e da qualidade ambiental;\n\nII - não geração, redução, reutilização, reciclagem e tratamento dos resíduos sólidos, bem como disposição final ambientalmente adequada dos rejeitos;\n\nIII - estímulo à adoção de padrões sustentáveis de produção e consumo de bens e serviços;\n\nIV - adoção, desenvolvimento e aprimoramento de tecnologias limpas como forma de minimizar impactos ambientais;\n\nV - redução do volume e da periculosidade dos resíduos perigosos;\n\nVI - incentivo à indústria da reciclagem, tendo em vista fomentar o uso de matérias-primas e insumos derivados de materiais recicláveis e reciclados;\n\nVII - gestão integrada de resíduos sólidos;\n\nVIII - articulação entre as diferentes esferas do poder público, e destas com o setor empresarial, com vistas à cooperação técnica e financeira para a gestão integrada de resíduos sólidos;\n\nIX - capacitação técnica continuada na área de resíduos sólidos;\n\nX - regularidade, continuidade, funcionalidade e universalização da prestação dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, com adoção de mecanismos gerenciais e econômicos que assegurem a recuperação dos custos dos serviços prestados, como forma de garantir sua sustentabilidade operacional e financeira, observada a Lei nº 11.445, de 2007;\n\nXI - prioridade, nas aquisições e contratações governamentais, para:\n\na) produtos reciclados e recicláveis;\n\nb) bens, serviços e obras que considerem critérios compatíveis com padrões de consumo social e ambientalmente sustentáveis;\n\nXII - integração dos catadores de materiais reutilizáveis e recicláveis nas ações que envolvam a responsabilidade compartilhada pelo ciclo de vida dos produtos;\n\nXIII - estímulo à implementação da avaliação do ciclo de vida do produto;\n\nXIV - incentivo ao desenvolvimento de sistemas de gestão ambiental e empresarial voltados para a melhoria dos processos produtivos e ao reaproveitamento dos resíduos sólidos, incluídos a recuperação e o aproveitamento energético;\n\nXV - estímulo à rotulagem ambiental e ao consumo sustentável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%207o%20S%C3%A3o%20objetivos%20da%20Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o São instrumentos da Política Nacional de Resíduos Sólidos, entre outros:\n\nI - os planos de resíduos sólidos;\n\nII - os inventários e o sistema declaratório anual de resíduos sólidos;\n\nIII - a coleta seletiva, os sistemas de logística reversa e outras ferramentas relacionadas à implementação da responsabilidade compartilhada pelo ciclo de vida dos produtos;\n\nIV - o incentivo à criação e ao desenvolvimento de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis;\n\nV - o monitoramento e a fiscalização ambiental, sanitária e agropecuária;\n\nVI - a cooperação técnica e financeira entre os setores público e privado para o desenvolvimento de pesquisas de novos produtos, métodos, processos e tecnologias de gestão, reciclagem, reutilização, tratamento de resíduos e disposição final ambientalmente adequada de rejeitos;\n\nVII - a pesquisa científica e tecnológica;\n\nVIII - a educação ambiental;\n\nIX - os incentivos fiscais, financeiros e creditícios;\n\nX - o Fundo Nacional do Meio Ambiente e o Fundo Nacional de Desenvolvimento Científico e Tecnológico;\n\nXI - o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir);\n\nXII - o Sistema Nacional de Informações em Saneamento Básico (Sinisa);\n\nXIII - os conselhos de meio ambiente e, no que couber, os de saúde;\n\nXIV - os órgãos colegiados municipais destinados ao controle social dos serviços de resíduos sólidos urbanos;\n\nXV - o Cadastro Nacional de Operadores de Resíduos Perigosos;\n\nXVI - os acordos setoriais;\n\nXVII - no que couber, os instrumentos da Política Nacional de Meio Ambiente, entre eles:\n\na) os padrões de qualidade ambiental;\n\nb) o Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais;\n\nc) o Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental;\n\nd) a avaliação de impactos ambientais;\n\ne) o Sistema Nacional de Informação sobre Meio Ambiente (Sinima);\n\nf) o licenciamento e a revisão de atividades efetiva ou potencialmente poluidoras;\n\nXVIII - os termos de compromisso e os termos de ajustamento de conduta;\n\nXIX - o incentivo à adoção de consórcios ou de outras formas de cooperação entre os entes federados, com vistas à elevação das escalas de aproveitamento e à redução dos custos envolvidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%208o%20S%C3%A3o%20instrumentos%20da%20Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%2C%20entre%20outros%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Na gestão e gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos.\n\n§ 1o Poderão ser utilizadas tecnologias visando à recuperação energética dos resíduos sólidos urbanos, desde que tenha sido comprovada sua viabilidade técnica e ambiental e com a implantação de programa de monitoramento de emissão de gases tóxicos aprovado pelo órgão ambiental.\n\n§ 2o A Política Nacional de Resíduos Sólidos e as Políticas de Resíduos Sólidos dos Estados, do Distrito Federal e dos Municípios serão compatíveis com o disposto no caput e no § 1o deste artigo e com as demais diretrizes estabelecidas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%209o%20Na%20gest%C3%A3o%20e%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%2C%20deve%20ser%20observada%20a%20seguinte%20ordem%20de%20prioridade%3A%20n%C3%A3o%20gera%C3%A7%C3%A3o%2C%20redu%C3%A7%C3%A3o%2C%20reutiliza%C3%A7%C3%A3o%2C%20reciclagem%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Incumbe ao Distrito Federal e aos Municípios a gestão integrada dos resíduos sólidos gerados nos respectivos territórios, sem prejuízo das competências de controle e fiscalização dos órgãos federais e estaduais do Sisnama, do SNVS e do Suasa, bem como da responsabilidade do gerador pelo gerenciamento de resíduos, consoante o estabelecido nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2010.%20Incumbe%20ao%20Distrito%20Federal%20e%20aos%20Munic%C3%ADpios%20a%20gest%C3%A3o%20integrada%20dos%20res%C3%ADduos%20s%C3%B3lidos%20gerados%20nos%20respectivos%20territ%C3%B3rios%2C%20sem%20preju%C3%ADzo%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Observadas as diretrizes e demais determinações estabelecidas nesta Lei e em seu regulamento, incumbe aos Estados:\n\nI - promover a integração da organização, do planejamento e da execução das funções públicas de interesse comum relacionadas à gestão dos resíduos sólidos nas regiões metropolitanas, aglomerações urbanas e microrregiões, nos termos da lei complementar estadual prevista no § 3º do art. 25 da Constituição Federal;\n\nII - controlar e fiscalizar as atividades dos geradores sujeitas a licenciamento ambiental pelo órgão estadual do Sisnama.\n\nParágrafo único. A atuação do Estado na forma do caput deve apoiar e priorizar as iniciativas do Município de soluções consorciadas ou compartilhadas entre 2 (dois) ou mais Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2011.%20Observadas%20as%20diretrizes%20e%20demais%20determina%C3%A7%C3%B5es%20estabelecidas%20nesta%20Lei%20e%20em%20seu%20regulamento%2C%20incumbe%20aos%20Estados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A União, os Estados, o Distrito Federal e os Municípios organizarão e manterão, de forma conjunta, o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir), articulado com o Sinisa e o Sinima.\n\nParágrafo único. Incumbe aos Estados, ao Distrito Federal e aos Municípios fornecer ao órgão federal responsável pela coordenação do Sinir todas as informações necessárias sobre os resíduos sob sua esfera de competência, na forma e na periodicidade estabelecidas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2012.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20organizar%C3%A3o%20e%20manter%C3%A3o%2C%20de%20forma%20conjunta%2C%20o%20Sistema%20Nacional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Para os efeitos desta Lei, os resíduos sólidos têm a seguinte classificação:\n\nI - quanto à origem:\n\na) resíduos domiciliares: os originários de atividades domésticas em residências urbanas;\n\nb) resíduos de limpeza urbana: os originários da varrição, limpeza de logradouros e vias públicas e outros serviços de limpeza urbana;\n\nc) resíduos sólidos urbanos: os englobados nas alíneas “a” e “b”;\n\nd) resíduos de estabelecimentos comerciais e prestadores de serviços: os gerados nessas atividades, excetuados os referidos nas alíneas “b”, “e”, “g”, “h” e “j”;\n\ne) resíduos dos serviços públicos de saneamento básico: os gerados nessas atividades, excetuados os referidos na alínea “c”;\n\nf) resíduos industriais: os gerados nos processos produtivos e instalações industriais;\n\ng) resíduos de serviços de saúde: os gerados nos serviços de saúde, conforme definido em regulamento ou em normas estabelecidas pelos órgãos do Sisnama e do SNVS;\n\nh) resíduos da construção civil: os gerados nas construções, reformas, reparos e demolições de obras de construção civil, incluídos os resultantes da preparação e escavação de terrenos para obras civis;\n\ni) resíduos agrossilvopastoris: os gerados nas atividades agropecuárias e silviculturais, incluídos os relacionados a insumos utilizados nessas atividades;\n\nj) resíduos de serviços de transportes: os originários de portos, aeroportos, terminais alfandegários, rodoviários e ferroviários e passagens de fronteira;\n\nk) resíduos de mineração: os gerados na atividade de pesquisa, extração ou beneficiamento de minérios;\n\nII - quanto à periculosidade:\n\na) resíduos perigosos: aqueles que, em razão de suas características de inflamabilidade, corrosividade, reatividade, toxicidade, patogenicidade, carcinogenicidade, teratogenicidade e mutagenicidade, apresentam significativo risco à saúde pública ou à qualidade ambiental, de acordo com lei, regulamento ou norma técnica;\n\nb) resíduos não perigosos: aqueles não enquadrados na alínea “a”.\n\nParágrafo único. Respeitado o disposto no art. 20, os resíduos referidos na alínea “d” do inciso I do caput, se caracterizados como não perigosos, podem, em razão de sua natureza, composição ou volume, ser equiparados aos resíduos domiciliares pelo poder público municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2013.%20Para%20os%20efeitos%20desta%20Lei%2C%20os%20res%C3%ADduos%20s%C3%B3lidos%20t%C3%AAm%20a%20seguinte%20classifica%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. São planos de resíduos sólidos:\n\nI - o Plano Nacional de Resíduos Sólidos;\n\nII - os planos estaduais de resíduos sólidos;\n\nIII - os planos microrregionais de resíduos sólidos e os planos de resíduos sólidos de regiões metropolitanas ou aglomerações urbanas;\n\nIV - os planos intermunicipais de resíduos sólidos;\n\nV - os planos municipais de gestão integrada de resíduos sólidos;\n\nVI - os planos de gerenciamento de resíduos sólidos.\n\nParágrafo único. É assegurada ampla publicidade ao conteúdo dos planos de resíduos sólidos, bem como controle social em sua formulação, implementação e operacionalização, observado o disposto na Lei no 10.650, de 16 de abril de 2003, e no art. 47 da Lei nº 11.445, de 2007.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2014.%20S%C3%A3o%20planos%20de%20res%C3%ADduos%20s%C3%B3lidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A União elaborará, sob a coordenação do Ministério do Meio Ambiente, o Plano Nacional de Resíduos Sólidos, com vigência por prazo indeterminado e horizonte de 20 (vinte) anos, a ser atualizado a cada 4 (quatro) anos, tendo como conteúdo mínimo:\n\nI - diagnóstico da situação atual dos resíduos sólidos;\n\nII - proposição de cenários, incluindo tendências internacionais e macroeconômicas;\n\nIII - metas de redução, reutilização, reciclagem, entre outras, com vistas a reduzir a quantidade de resíduos e rejeitos encaminhados para disposição final ambientalmente adequada;\n\nIV - metas para o aproveitamento energético dos gases gerados nas unidades de disposição final de resíduos sólidos;\n\nV - metas para a eliminação e recuperação de lixões, associadas à inclusão social e à emancipação econômica de catadores de materiais reutilizáveis e recicláveis;\n\nVI - programas, projetos e ações para o atendimento das metas previstas;\n\nVII - normas e condicionantes técnicas para o acesso a recursos da União, para a obtenção de seu aval ou para o acesso a recursos administrados, direta ou indiretamente, por entidade federal, quando destinados a ações e programas de interesse dos resíduos sólidos;\n\nVIII - medidas para incentivar e viabilizar a gestão regionalizada dos resíduos sólidos;\n\nIX - diretrizes para o planejamento e demais atividades de gestão de resíduos sólidos das regiões integradas de desenvolvimento instituídas por lei complementar, bem como para as áreas de especial interesse turístico;\n\nX - normas e diretrizes para a disposição final de rejeitos e, quando couber, de resíduos;\n\nXI - meios a serem utilizados para o controle e a fiscalização, no âmbito nacional, de sua implementação e operacionalização, assegurado o controle social.\n\nParágrafo único. O Plano Nacional de Resíduos Sólidos será elaborado mediante processo de mobilização e participação social, incluindo a realização de audiências e consultas públicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2015.%20A%20Uni%C3%A3o%20elaborar%C3%A1%2C%20sob%20a%20coordena%C3%A7%C3%A3o%20do%20Minist%C3%A9rio%20do%20Meio%20Ambiente%2C%20o%20Plano%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos%2C%20com%20vig%C3%AAncia%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A elaboração de plano estadual de resíduos sólidos, nos termos previstos por esta Lei, é condição para os Estados terem acesso a recursos da União, ou por ela controlados, destinados a empreendimentos e serviços relacionados à gestão de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de entidades federais de crédito ou fomento para tal finalidade. (Vigência)\n\n§ 1o Serão priorizados no acesso aos recursos da União referidos no caput os Estados que instituírem microrregiões, consoante o § 3o do art. 25 da Constituição Federal, para integrar a organização, o planejamento e a execução das ações a cargo de Municípios limítrofes na gestão dos resíduos sólidos.\n\n§ 2o Serão estabelecidas em regulamento normas complementares sobre o acesso aos recursos da União na forma deste artigo.\n\n§ 3o Respeitada a responsabilidade dos geradores nos termos desta Lei, as microrregiões instituídas conforme previsto no § 1o abrangem atividades de coleta seletiva, recuperação e reciclagem, tratamento e destinação final dos resíduos sólidos urbanos, a gestão de resíduos de construção civil, de serviços de transporte, de serviços de saúde, agrossilvopastoris ou outros resíduos, de acordo com as peculiaridades microrregionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2016.%20A%20elabora%C3%A7%C3%A3o%20de%20plano%20estadual%20de%20res%C3%ADduos%20s%C3%B3lidos%2C%20nos%20termos%20previstos%20por%20esta%20Lei%2C%20%C3%A9%20condi%C3%A7%C3%A3o%20para%20os%20Estados%20terem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O plano estadual de resíduos sólidos será elaborado para vigência por prazo indeterminado, abrangendo todo o território do Estado, com horizonte de atuação de 20 (vinte) anos e revisões a cada 4 (quatro) anos, e tendo como conteúdo mínimo:\n\nI - diagnóstico, incluída a identificação dos principais fluxos de resíduos no Estado e seus impactos socioeconômicos e ambientais;\n\nII - proposição de cenários;\n\nIII - metas de redução, reutilização, reciclagem, entre outras, com vistas a reduzir a quantidade de resíduos e rejeitos encaminhados para disposição final ambientalmente adequada;\n\nIV - metas para o aproveitamento energético dos gases gerados nas unidades de disposição final de resíduos sólidos;\n\nV - metas para a eliminação e recuperação de lixões, associadas à inclusão social e à emancipação econômica de catadores de materiais reutilizáveis e recicláveis;\n\nVI - programas, projetos e ações para o atendimento das metas previstas;\n\nVII - normas e condicionantes técnicas para o acesso a recursos do Estado, para a obtenção de seu aval ou para o acesso de recursos administrados, direta ou indiretamente, por entidade estadual, quando destinados às ações e programas de interesse dos resíduos sólidos;\n\nVIII - medidas para incentivar e viabilizar a gestão consorciada ou compartilhada dos resíduos sólidos;\n\nIX - diretrizes para o planejamento e demais atividades de gestão de resíduos sólidos de regiões metropolitanas, aglomerações urbanas e microrregiões;\n\nX - normas e diretrizes para a disposição final de rejeitos e, quando couber, de resíduos, respeitadas as disposições estabelecidas em âmbito nacional;\n\nXI - previsão, em conformidade com os demais instrumentos de planejamento territorial, especialmente o zoneamento ecológico-econômico e o zoneamento costeiro, de:\n\na) zonas favoráveis para a localização de unidades de tratamento de resíduos sólidos ou de disposição final de rejeitos;\n\nb) áreas degradadas em razão de disposição inadequada de resíduos sólidos ou rejeitos a serem objeto de recuperação ambiental;\n\nXII - meios a serem utilizados para o controle e a fiscalização, no âmbito estadual, de sua implementação e operacionalização, assegurado o controle social.\n\n§ 1o Além do plano estadual de resíduos sólidos, os Estados poderão elaborar planos microrregionais de resíduos sólidos, bem como planos específicos direcionados às regiões metropolitanas ou às aglomerações urbanas.\n\n§ 2o A elaboração e a implementação pelos Estados de planos microrregionais de resíduos sólidos, ou de planos de regiões metropolitanas ou aglomerações urbanas, em consonância com o previsto no § 1o, dar-se-ão obrigatoriamente com a participação dos Municípios envolvidos e não excluem nem substituem qualquer das prerrogativas a cargo dos Municípios previstas por esta Lei.\n\n§ 3o Respeitada a responsabilidade dos geradores nos termos desta Lei, o plano microrregional de resíduos sólidos deve atender ao previsto para o plano estadual e estabelecer soluções integradas para a coleta seletiva, a recuperação e a reciclagem, o tratamento e a destinação final dos resíduos sólidos urbanos e, consideradas as peculiaridades microrregionais, outros tipos de resíduos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2017.%20O%20plano%20estadual%20de%20res%C3%ADduos%20s%C3%B3lidos%20ser%C3%A1%20elaborado%20para%20vig%C3%AAncia%20por%20prazo%20indeterminado%2C%20abrangendo%20todo%20o%20territ%C3%B3rio%20do%20Estado%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A elaboração de plano municipal de gestão integrada de resíduos sólidos, nos termos previstos por esta Lei, é condição para o Distrito Federal e os Municípios terem acesso a recursos da União, ou por ela controlados, destinados a empreendimentos e serviços relacionados à limpeza urbana e ao manejo de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de entidades federais de crédito ou fomento para tal finalidade. (Vigência)\n\n§ 1o Serão priorizados no acesso aos recursos da União referidos no caput os Municípios que:\n\nI - optarem por soluções consorciadas intermunicipais para a gestão dos resíduos sólidos, incluída a elaboração e implementação de plano intermunicipal, ou que se inserirem de forma voluntária nos planos microrregionais de resíduos sólidos referidos no § 1o do art. 16;\n\nII - implantarem a coleta seletiva com a participação de cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda.\n\n§ 2o Serão estabelecidas em regulamento normas complementares sobre o acesso aos recursos da União na forma deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2018.%20A%20elabora%C3%A7%C3%A3o%20de%20plano%20municipal%20de%20gest%C3%A3o%20integrada%20de%20res%C3%ADduos%20s%C3%B3lidos%2C%20nos%20termos%20previstos%20por%20esta%20Lei%2C%20%C3%A9%20condi%C3%A7%C3%A3o%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O plano municipal de gestão integrada de resíduos sólidos tem o seguinte conteúdo mínimo:\n\nI - diagnóstico da situação dos resíduos sólidos gerados no respectivo território, contendo a origem, o volume, a caracterização dos resíduos e as formas de destinação e disposição final adotadas;\n\nII - identificação de áreas favoráveis para disposição final ambientalmente adequada de rejeitos, observado o plano diretor de que trata o § 1o do art. 182 da Constituição Federal e o zoneamento ambiental, se houver;\n\nIII - identificação das possibilidades de implantação de soluções consorciadas ou compartilhadas com outros Municípios, considerando, nos critérios de economia de escala, a proximidade dos locais estabelecidos e as formas de prevenção dos riscos ambientais;\n\nIV - identificação dos resíduos sólidos e dos geradores sujeitos a plano de gerenciamento específico nos termos do art. 20 ou a sistema de logística reversa na forma do art. 33, observadas as disposições desta Lei e de seu regulamento, bem como as normas estabelecidas pelos órgãos do Sisnama e do SNVS;\n\nV - procedimentos operacionais e especificações mínimas a serem adotados nos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, incluída a disposição final ambientalmente adequada dos rejeitos e observada a Lei nº 11.445, de 2007;\n\nVI - indicadores de desempenho operacional e ambiental dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos;\n\nVII - regras para o transporte e outras etapas do gerenciamento de resíduos sólidos de que trata o art. 20, observadas as normas estabelecidas pelos órgãos do Sisnama e do SNVS e demais disposições pertinentes da legislação federal e estadual;\n\nVIII - definição das responsabilidades quanto à sua implementação e operacionalização, incluídas as etapas do plano de gerenciamento de resíduos sólidos a que se refere o art. 20 a cargo do poder público;\n\nIX - programas e ações de capacitação técnica voltados para sua implementação e operacionalização;\n\nX - programas e ações de educação ambiental que promovam a não geração, a redução, a reutilização e a reciclagem de resíduos sólidos;\n\nXI - programas e ações para a participação dos grupos interessados, em especial das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda, se houver;\n\nXII - mecanismos para a criação de fontes de negócios, emprego e renda, mediante a valorização dos resíduos sólidos;\n\nXIII - sistema de cálculo dos custos da prestação dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, bem como a forma de cobrança desses serviços, observada a Lei nº 11.445, de 2007;\n\nXIV - metas de redução, reutilização, coleta seletiva e reciclagem, entre outras, com vistas a reduzir a quantidade de rejeitos encaminhados para disposição final ambientalmente adequada;\n\nXV - descrição das formas e dos limites da participação do poder público local na coleta seletiva e na logística reversa, respeitado o disposto no art. 33, e de outras ações relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos;\n\nXVI - meios a serem utilizados para o controle e a fiscalização, no âmbito local, da implementação e operacionalização dos planos de gerenciamento de resíduos sólidos de que trata o art. 20 e dos sistemas de logística reversa previstos no art. 33;\n\nXVII - ações preventivas e corretivas a serem praticadas, incluindo programa de monitoramento;\n\nXVIII - identificação dos passivos ambientais relacionados aos resíduos sólidos, incluindo áreas contaminadas, e respectivas medidas saneadoras;\n\nXIX - periodicidade de sua revisão, observado prioritariamente o período de vigência do plano plurianual municipal.\n\nXIX - periodicidade de sua revisão, observado o período máximo de 10 (dez) anos. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 1o O plano municipal de gestão integrada de resíduos sólidos pode estar inserido no plano de saneamento básico previsto no art. 19 da Lei nº 11.445, de 2007, respeitado o conteúdo mínimo previsto nos incisos do caput e observado o disposto no § 2o, todos deste artigo.\n\n§ 2o Para Municípios com menos de 20.000 (vinte mil) habitantes, o plano municipal de gestão integrada de resíduos sólidos terá conteúdo simplificado, na forma do regulamento.\n\n§ 3o O disposto no § 2o não se aplica a Municípios:\n\nI - integrantes de áreas de especial interesse turístico;\n\nII - inseridos na área de influência de empreendimentos ou atividades com significativo impacto ambiental de âmbito regional ou nacional;\n\nIII - cujo território abranja, total ou parcialmente, Unidades de Conservação.\n\n§ 4o A existência de plano municipal de gestão integrada de resíduos sólidos não exime o Município ou o Distrito Federal do licenciamento ambiental de aterros sanitários e de outras infraestruturas e instalações operacionais integrantes do serviço público de limpeza urbana e de manejo de resíduos sólidos pelo órgão competente do Sisnama.\n\n§ 5o Na definição de responsabilidades na forma do inciso VIII do caput deste artigo, é vedado atribuir ao serviço público de limpeza urbana e de manejo de resíduos sólidos a realização de etapas do gerenciamento dos resíduos a que se refere o art. 20 em desacordo com a respectiva licença ambiental ou com normas estabelecidas pelos órgãos do Sisnama e, se couber, do SNVS.\n\n§ 6o Além do disposto nos incisos I a XIX do caput deste artigo, o plano municipal de gestão integrada de resíduos sólidos contemplará ações específicas a serem desenvolvidas no âmbito dos órgãos da administração pública, com vistas à utilização racional dos recursos ambientais, ao combate a todas as formas de desperdício e à minimização da geração de resíduos sólidos.\n\n§ 7o O conteúdo do plano municipal de gestão integrada de resíduos sólidos será disponibilizado para o Sinir, na forma do regulamento.\n\n§ 8o A inexistência do plano municipal de gestão integrada de resíduos sólidos não pode ser utilizada para impedir a instalação ou a operação de empreendimentos ou atividades devidamente licenciados pelos órgãos competentes.\n\n§ 9o Nos termos do regulamento, o Município que optar por soluções consorciadas intermunicipais para a gestão dos resíduos sólidos, assegurado que o plano intermunicipal preencha os requisitos estabelecidos nos incisos I a XIX do caput deste artigo, pode ser dispensado da elaboração de plano municipal de gestão integrada de resíduos sólidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2019.%20O%20plano%20municipal%20de%20gest%C3%A3o%20integrada%20de%20res%C3%ADduos%20s%C3%B3lidos%20tem%20o%20seguinte%20conte%C3%BAdo%20m%C3%ADnimo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Estão sujeitos à elaboração de plano de gerenciamento de resíduos sólidos:\n\nI - os geradores de resíduos sólidos previstos nas alíneas “e”, “f”, “g” e “k” do inciso I do art. 13;\n\nII - os estabelecimentos comerciais e de prestação de serviços que:\n\na) gerem resíduos perigosos;\n\nb) gerem resíduos que, mesmo caracterizados como não perigosos, por sua natureza, composição ou volume, não sejam equiparados aos resíduos domiciliares pelo poder público municipal;\n\nIII - as empresas de construção civil, nos termos do regulamento ou de normas estabelecidas pelos órgãos do Sisnama;\n\nIV - os responsáveis pelos terminais e outras instalações referidas na alínea “j” do inciso I do art. 13 e, nos termos do regulamento ou de normas estabelecidas pelos órgãos do Sisnama e, se couber, do SNVS, as empresas de transporte;\n\nV - os responsáveis por atividades agrossilvopastoris, se exigido pelo órgão competente do Sisnama, do SNVS ou do Suasa.\n\nParágrafo único. Observado o disposto no Capítulo IV deste Título, serão estabelecidas por regulamento exigências específicas relativas ao plano de gerenciamento de resíduos perigosos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2020.%20Est%C3%A3o%20sujeitos%20%C3%A0%20elabora%C3%A7%C3%A3o%20de%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O plano de gerenciamento de resíduos sólidos tem o seguinte conteúdo mínimo:\n\nI - descrição do empreendimento ou atividade;\n\nII - diagnóstico dos resíduos sólidos gerados ou administrados, contendo a origem, o volume e a caracterização dos resíduos, incluindo os passivos ambientais a eles relacionados;\n\nIII - observadas as normas estabelecidas pelos órgãos do Sisnama, do SNVS e do Suasa e, se houver, o plano municipal de gestão integrada de resíduos sólidos:\n\na) explicitação dos responsáveis por cada etapa do gerenciamento de resíduos sólidos;\n\nb) definição dos procedimentos operacionais relativos às etapas do gerenciamento de resíduos sólidos sob responsabilidade do gerador;\n\nIV - identificação das soluções consorciadas ou compartilhadas com outros geradores;\n\nV - ações preventivas e corretivas a serem executadas em situações de gerenciamento incorreto ou acidentes;\n\nVI - metas e procedimentos relacionados à minimização da geração de resíduos sólidos e, observadas as normas estabelecidas pelos órgãos do Sisnama, do SNVS e do Suasa, à reutilização e reciclagem;\n\nVII - se couber, ações relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos, na forma do art. 31;\n\nVIII - medidas saneadoras dos passivos ambientais relacionados aos resíduos sólidos;\n\nIX - periodicidade de sua revisão, observado, se couber, o prazo de vigência da respectiva licença de operação a cargo dos órgãos do Sisnama.\n\n§ 1o O plano de gerenciamento de resíduos sólidos atenderá ao disposto no plano municipal de gestão integrada de resíduos sólidos do respectivo Município, sem prejuízo das normas estabelecidas pelos órgãos do Sisnama, do SNVS e do Suasa.\n\n§ 2o A inexistência do plano municipal de gestão integrada de resíduos sólidos não obsta a elaboração, a implementação ou a operacionalização do plano de gerenciamento de resíduos sólidos.\n\n§ 3o Serão estabelecidos em regulamento:\n\nI - normas sobre a exigibilidade e o conteúdo do plano de gerenciamento de resíduos sólidos relativo à atuação de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis;\n\nII - critérios e procedimentos simplificados para apresentação dos planos de gerenciamento de resíduos sólidos para microempresas e empresas de pequeno porte, assim consideradas as definidas nos incisos I e II do art. 3o da Lei Complementar no 123, de 14 de dezembro de 2006, desde que as atividades por elas desenvolvidas não gerem resíduos perigosos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2021.%20O%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%20tem%20o%20seguinte%20conte%C3%BAdo%20m%C3%ADnimo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Para a elaboração, implementação, operacionalização e monitoramento de todas as etapas do plano de gerenciamento de resíduos sólidos, nelas incluído o controle da disposição final ambientalmente adequada dos rejeitos, será designado responsável técnico devidamente habilitado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2022.%20Para%20a%20elabora%C3%A7%C3%A3o%2C%20implementa%C3%A7%C3%A3o%2C%20operacionaliza%C3%A7%C3%A3o%20e%20monitoramento%20de%20todas%20as%20etapas%20do%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%2C%20nelas%20inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os responsáveis por plano de gerenciamento de resíduos sólidos manterão atualizadas e disponíveis ao órgão municipal competente, ao órgão licenciador do Sisnama e a outras autoridades, informações completas sobre a implementação e a operacionalização do plano sob sua responsabilidade.\n\n§ 1o Para a consecução do disposto no caput, sem prejuízo de outras exigências cabíveis por parte das autoridades, será implementado sistema declaratório com periodicidade, no mínimo, anual, na forma do regulamento.\n\n§ 2o As informações referidas no caput serão repassadas pelos órgãos públicos ao Sinir, na forma do regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2023.%20Os%20respons%C3%A1veis%20por%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%20manter%C3%A3o%20atualizadas%20e%20dispon%C3%ADveis%20ao%20%C3%B3rg%C3%A3o%20municipal%20competente%2C%20ao%20%C3%B3rg%C3%A3o%20licenciador",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O plano de gerenciamento de resíduos sólidos é parte integrante do processo de licenciamento ambiental do empreendimento ou atividade pelo órgão competente do Sisnama.\n\n§ 1o Nos empreendimentos e atividades não sujeitos a licenciamento ambiental, a aprovação do plano de gerenciamento de resíduos sólidos cabe à autoridade municipal competente.\n\n§ 2o No processo de licenciamento ambiental referido no § 1o a cargo de órgão federal ou estadual do Sisnama, será assegurada oitiva do órgão municipal competente, em especial quanto à disposição final ambientalmente adequada de rejeitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2024.%20O%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%20%C3%A9%20parte%20integrante%20do%20processo%20de%20licenciamento%20ambiental%20do%20empreendimento%20ou%20atividade%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O poder público, o setor empresarial e a coletividade são responsáveis pela efetividade das ações voltadas para assegurar a observância da Política Nacional de Resíduos Sólidos e das diretrizes e demais determinações estabelecidas nesta Lei e em seu regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2025.%20O%20poder%20p%C3%BAblico%2C%20o%20setor%20empresarial%20e%20a%20coletividade%20s%C3%A3o%20respons%C3%A1veis%20pela%20efetividade%20das%20a%C3%A7%C3%B5es%20voltadas%20para%20assegurar%20a%20observ%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O titular dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos é responsável pela organização e prestação direta ou indireta desses serviços, observados o respectivo plano municipal de gestão integrada de resíduos sólidos, a Lei nº 11.445, de 2007, e as disposições desta Lei e seu regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2026.%20O%20titular%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20limpeza%20urbana%20e%20de%20manejo%20de%20res%C3%ADduos%20s%C3%B3lidos%20%C3%A9%20respons%C3%A1vel%20pela%20organiza%C3%A7%C3%A3o%20e%20presta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As pessoas físicas ou jurídicas referidas no art. 20 são responsáveis pela implementação e operacionalização integral do plano de gerenciamento de resíduos sólidos aprovado pelo órgão competente na forma do art. 24.\n\n§ 1o A contratação de serviços de coleta, armazenamento, transporte, transbordo, tratamento ou destinação final de resíduos sólidos, ou de disposição final de rejeitos, não isenta as pessoas físicas ou jurídicas referidas no art. 20 da responsabilidade por danos que vierem a ser provocados pelo gerenciamento inadequado dos respectivos resíduos ou rejeitos.\n\n§ 2o Nos casos abrangidos pelo art. 20, as etapas sob responsabilidade do gerador que forem realizadas pelo poder público serão devidamente remuneradas pelas pessoas físicas ou jurídicas responsáveis, observado o disposto no § 5o do art. 19.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2027.%20As%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%20referidas%20no%20art.%2020%20s%C3%A3o%20respons%C3%A1veis%20pela%20implementa%C3%A7%C3%A3o%20e%20operacionaliza%C3%A7%C3%A3o%20integral%20do%20plano%20de%20gerenciamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O gerador de resíduos sólidos domiciliares tem cessada sua responsabilidade pelos resíduos com a disponibilização adequada para a coleta ou, nos casos abrangidos pelo art. 33, com a devolução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2028.%20O%20gerador%20de%20res%C3%ADduos%20s%C3%B3lidos%20domiciliares%20tem%20cessada%20sua%20responsabilidade%20pelos%20res%C3%ADduos%20com%20a%20disponibiliza%C3%A7%C3%A3o%20adequada%20para%20a%20coleta%20ou%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Cabe ao poder público atuar, subsidiariamente, com vistas a minimizar ou cessar o dano, logo que tome conhecimento de evento lesivo ao meio ambiente ou à saúde pública relacionado ao gerenciamento de resíduos sólidos.\n\nParágrafo único. Os responsáveis pelo dano ressarcirão integralmente o poder público pelos gastos decorrentes das ações empreendidas na forma do caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2029.%20Cabe%20ao%20poder%20p%C3%BAblico%20atuar%2C%20subsidiariamente%2C%20com%20vistas%20a%20minimizar%20ou%20cessar%20o%20dano%2C%20logo%20que%20tome%20conhecimento%20de%20evento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. É instituída a responsabilidade compartilhada pelo ciclo de vida dos produtos, a ser implementada de forma individualizada e encadeada, abrangendo os fabricantes, importadores, distribuidores e comerciantes, os consumidores e os titulares dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, consoante as atribuições e procedimentos previstos nesta Seção.\n\nParágrafo único. A responsabilidade compartilhada pelo ciclo de vida dos produtos tem por objetivo:\n\nI - compatibilizar interesses entre os agentes econômicos e sociais e os processos de gestão empresarial e mercadológica com os de gestão ambiental, desenvolvendo estratégias sustentáveis;\n\nII - promover o aproveitamento de resíduos sólidos, direcionando-os para a sua cadeia produtiva ou para outras cadeias produtivas;\n\nIII - reduzir a geração de resíduos sólidos, o desperdício de materiais, a poluição e os danos ambientais;\n\nIV - incentivar a utilização de insumos de menor agressividade ao meio ambiente e de maior sustentabilidade;\n\nV - estimular o desenvolvimento de mercado, a produção e o consumo de produtos derivados de materiais reciclados e recicláveis;\n\nVI - propiciar que as atividades produtivas alcancem eficiência e sustentabilidade;\n\nVII - incentivar as boas práticas de responsabilidade socioambiental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2030.%20%C3%89%20institu%C3%ADda%20a%20responsabilidade%20compartilhada%20pelo%20ciclo%20de%20vida%20dos%20produtos%2C%20a%20ser%20implementada%20de%20forma%20individualizada%20e%20encadeada%2C%20abrangendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Sem prejuízo das obrigações estabelecidas no plano de gerenciamento de resíduos sólidos e com vistas a fortalecer a responsabilidade compartilhada e seus objetivos, os fabricantes, importadores, distribuidores e comerciantes têm responsabilidade que abrange:\n\nI - investimento no desenvolvimento, na fabricação e na colocação no mercado de produtos:\n\na) que sejam aptos, após o uso pelo consumidor, à reutilização, à reciclagem ou a outra forma de destinação ambientalmente adequada;\n\nb) cuja fabricação e uso gerem a menor quantidade de resíduos sólidos possível;\n\nII - divulgação de informações relativas às formas de evitar, reciclar e eliminar os resíduos sólidos associados a seus respectivos produtos;\n\nIII - recolhimento dos produtos e dos resíduos remanescentes após o uso, assim como sua subsequente destinação final ambientalmente adequada, no caso de produtos objeto de sistema de logística reversa na forma do art. 33;\n\nIV - compromisso de, quando firmados acordos ou termos de compromisso com o Município, participar das ações previstas no plano municipal de gestão integrada de resíduos sólidos, no caso de produtos ainda não inclusos no sistema de logística reversa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2031.%20Sem%20preju%C3%ADzo%20das%20obriga%C3%A7%C3%B5es%20estabelecidas%20no%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20s%C3%B3lidos%20e%20com%20vistas%20a%20fortalecer%20a%20responsabilidade%20compartilhada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. As embalagens devem ser fabricadas com materiais que propiciem a reutilização ou a reciclagem.\n\n§ 1o Cabe aos respectivos responsáveis assegurar que as embalagens sejam: (Regulamento)\n\nI - restritas em volume e peso às dimensões requeridas à proteção do conteúdo e à comercialização do produto;\n\nII - projetadas de forma a serem reutilizadas de maneira tecnicamente viável e compatível com as exigências aplicáveis ao produto que contêm;\n\nIII - recicladas, se a reutilização não for possível.\n\n§ 2o O regulamento disporá sobre os casos em que, por razões de ordem técnica ou econômica, não seja viável a aplicação do disposto no caput.\n\n§ 3o É responsável pelo atendimento do disposto neste artigo todo aquele que:\n\nI - manufatura embalagens ou fornece materiais para a fabricação de embalagens;\n\nII - coloca em circulação embalagens, materiais para a fabricação de embalagens ou produtos embalados, em qualquer fase da cadeia de comércio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2032.%20As%20embalagens%20devem%20ser%20fabricadas%20com%20materiais%20que%20propiciem%20a%20reutiliza%C3%A7%C3%A3o%20ou%20a%20reciclagem.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. São obrigados a estruturar e implementar sistemas de logística reversa, mediante retorno dos produtos após o uso pelo consumidor, de forma independente do serviço público de limpeza urbana e de manejo dos resíduos sólidos, os fabricantes, importadores, distribuidores e comerciantes de: (Regulamento) (Vide Decreto nº 11.413, de 2023)\n\nI - agrotóxicos, seus resíduos e embalagens, assim como outros produtos cuja embalagem, após o uso, constitua resíduo perigoso, observadas as regras de gerenciamento de resíduos perigosos previstas em lei ou regulamento, em normas estabelecidas pelos órgãos do Sisnama, do SNVS e do Suasa, ou em normas técnicas;\n\nII - pilhas e baterias;\n\nIII - pneus;\n\nIV - óleos lubrificantes, seus resíduos e embalagens;\n\nV - lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista;\n\nVI - produtos eletroeletrônicos e seus componentes. (Regulamento)\n\n§ 1o Na forma do disposto em regulamento ou em acordos setoriais e termos de compromisso firmados entre o poder público e o setor empresarial, os sistemas previstos no caput serão estendidos a produtos comercializados em embalagens plásticas, metálicas ou de vidro, e aos demais produtos e embalagens, considerando, prioritariamente, o grau e a extensão do impacto à saúde pública e ao meio ambiente dos resíduos gerados. (Regulamento) (Regulamento)\n\n§ 2o A definição dos produtos e embalagens a que se refere o § 1o considerará a viabilidade técnica e econômica da logística reversa, bem como o grau e a extensão do impacto à saúde pública e ao meio ambiente dos resíduos gerados.\n\n§ 3o Sem prejuízo de exigências específicas fixadas em lei ou regulamento, em normas estabelecidas pelos órgãos do Sisnama e do SNVS, ou em acordos setoriais e termos de compromisso firmados entre o poder público e o setor empresarial, cabe aos fabricantes, importadores, distribuidores e comerciantes dos produtos a que se referem os incisos II, III, V e VI ou dos produtos e embalagens a que se referem os incisos I e IV do caput e o § 1o tomar todas as medidas necessárias para assegurar a implementação e operacionalização do sistema de logística reversa sob seu encargo, consoante o estabelecido neste artigo, podendo, entre outras medidas:\n\nI - implantar procedimentos de compra de produtos ou embalagens usados;\n\nII - disponibilizar postos de entrega de resíduos reutilizáveis e recicláveis;\n\nIII - atuar em parceria com cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis, nos casos de que trata o § 1o.\n\n§ 4o Os consumidores deverão efetuar a devolução após o uso, aos comerciantes ou distribuidores, dos produtos e das embalagens a que se referem os incisos I a VI do caput, e de outros produtos ou embalagens objeto de logística reversa, na forma do § 1o.\n\n§ 5o Os comerciantes e distribuidores deverão efetuar a devolução aos fabricantes ou aos importadores dos produtos e embalagens reunidos ou devolvidos na forma dos §§ 3o e 4o.\n\n§ 6o Os fabricantes e os importadores darão destinação ambientalmente adequada aos produtos e às embalagens reunidos ou devolvidos, sendo o rejeito encaminhado para a disposição final ambientalmente adequada, na forma estabelecida pelo órgão competente do Sisnama e, se houver, pelo plano municipal de gestão integrada de resíduos sólidos.\n\n§ 7o Se o titular do serviço público de limpeza urbana e de manejo de resíduos sólidos, por acordo setorial ou termo de compromisso firmado com o setor empresarial, encarregar-se de atividades de responsabilidade dos fabricantes, importadores, distribuidores e comerciantes nos sistemas de logística reversa dos produtos e embalagens a que se refere este artigo, as ações do poder público serão devidamente remuneradas, na forma previamente acordada entre as partes.\n\n§ 8o Com exceção dos consumidores, todos os participantes dos sistemas de logística reversa manterão atualizadas e disponíveis ao órgão municipal competente e a outras autoridades informações completas sobre a realização das ações sob sua responsabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2033.%20S%C3%A3o%20obrigados%20a%20estruturar%20e%20implementar%20sistemas%20de%20log%C3%ADstica%20reversa%2C%20mediante%20retorno%20dos%20produtos%20ap%C3%B3s%20o%20uso%20pelo%20consumidor%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os acordos setoriais ou termos de compromisso referidos no inciso IV do caput do art. 31 e no § 1o do art. 33 podem ter abrangência nacional, regional, estadual ou municipal.\n\n§ 1o Os acordos setoriais e termos de compromisso firmados em âmbito nacional têm prevalência sobre os firmados em âmbito regional ou estadual, e estes sobre os firmados em âmbito municipal. (Vide Decreto nº 9.177, de 2017)\n\n§ 2o Na aplicação de regras concorrentes consoante o § 1o, os acordos firmados com menor abrangência geográfica podem ampliar, mas não abrandar, as medidas de proteção ambiental constantes nos acordos setoriais e termos de compromisso firmados com maior abrangência geográfica. (Vide Decreto nº 9.177, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2034.%20Os%20acordos%20setoriais%20ou%20termos%20de%20compromisso%20referidos%20no%20inciso%20IV%20do%20caput%20do%20art.%2031%20e%20no%20%C2%A7%201o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Sempre que estabelecido sistema de coleta seletiva pelo plano municipal de gestão integrada de resíduos sólidos e na aplicação do art. 33, os consumidores são obrigados a:\n\nI - acondicionar adequadamente e de forma diferenciada os resíduos sólidos gerados;\n\nII - disponibilizar adequadamente os resíduos sólidos reutilizáveis e recicláveis para coleta ou devolução.\n\nParágrafo único. O poder público municipal pode instituir incentivos econômicos aos consumidores que participam do sistema de coleta seletiva referido no caput, na forma de lei municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2035.%20Sempre%20que%20estabelecido%20sistema%20de%20coleta%20seletiva%20pelo%20plano%20municipal%20de%20gest%C3%A3o%20integrada%20de%20res%C3%ADduos%20s%C3%B3lidos%20e%20na%20aplica%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. No âmbito da responsabilidade compartilhada pelo ciclo de vida dos produtos, cabe ao titular dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, observado, se houver, o plano municipal de gestão integrada de resíduos sólidos:\n\nI - adotar procedimentos para reaproveitar os resíduos sólidos reutilizáveis e recicláveis oriundos dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos;\n\nII - estabelecer sistema de coleta seletiva;\n\nIII - articular com os agentes econômicos e sociais medidas para viabilizar o retorno ao ciclo produtivo dos resíduos sólidos reutilizáveis e recicláveis oriundos dos serviços de limpeza urbana e de manejo de resíduos sólidos;\n\nIV - realizar as atividades definidas por acordo setorial ou termo de compromisso na forma do § 7o do art. 33, mediante a devida remuneração pelo setor empresarial;\n\nV - implantar sistema de compostagem para resíduos sólidos orgânicos e articular com os agentes econômicos e sociais formas de utilização do composto produzido;\n\nVI - dar disposição final ambientalmente adequada aos resíduos e rejeitos oriundos dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos.\n\n§ 1o Para o cumprimento do disposto nos incisos I a IV do caput, o titular dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos priorizará a organização e o funcionamento de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda, bem como sua contratação.\n\n§ 2o A contratação prevista no § 1o é dispensável de licitação, nos termos do inciso XXVII do art. 24 da Lei no 8.666, de 21 de junho de 1993.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2036.%20No%20%C3%A2mbito%20da%20responsabilidade%20compartilhada%20pelo%20ciclo%20de%20vida%20dos%20produtos%2C%20cabe%20ao%20titular%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20limpeza%20urbana",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A instalação e o funcionamento de empreendimento ou atividade que gere ou opere com resíduos perigosos somente podem ser autorizados ou licenciados pelas autoridades competentes se o responsável comprovar, no mínimo, capacidade técnica e econômica, além de condições para prover os cuidados necessários ao gerenciamento desses resíduos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2037.%20A%20instala%C3%A7%C3%A3o%20e%20o%20funcionamento%20de%20empreendimento%20ou%20atividade%20que%20gere%20ou%20opere%20com%20res%C3%ADduos%20perigosos%20somente%20podem%20ser%20autorizados",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. As pessoas jurídicas que operam com resíduos perigosos, em qualquer fase do seu gerenciamento, são obrigadas a se cadastrar no Cadastro Nacional de Operadores de Resíduos Perigosos.\n\n§ 1o O cadastro previsto no caput será coordenado pelo órgão federal competente do Sisnama e implantado de forma conjunta pelas autoridades federais, estaduais e municipais.\n\n§ 2o Para o cadastramento, as pessoas jurídicas referidas no caput necessitam contar com responsável técnico pelo gerenciamento dos resíduos perigosos, de seu próprio quadro de funcionários ou contratado, devidamente habilitado, cujos dados serão mantidos atualizados no cadastro.\n\n§ 3o O cadastro a que se refere o caput é parte integrante do Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais e do Sistema de Informações previsto no art. 12.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2038.%20As%20pessoas%20jur%C3%ADdicas%20que%20operam%20com%20res%C3%ADduos%20perigosos%2C%20em%20qualquer%20fase%20do%20seu%20gerenciamento%2C%20s%C3%A3o%20obrigadas%20a%20se%20cadastrar%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. As pessoas jurídicas referidas no art. 38 são obrigadas a elaborar plano de gerenciamento de resíduos perigosos e submetê-lo ao órgão competente do Sisnama e, se couber, do SNVS, observado o conteúdo mínimo estabelecido no art. 21 e demais exigências previstas em regulamento ou em normas técnicas.\n\n§ 1o O plano de gerenciamento de resíduos perigosos a que se refere o caput poderá estar inserido no plano de gerenciamento de resíduos a que se refere o art. 20.\n\n§ 2o Cabe às pessoas jurídicas referidas no art. 38:\n\nI - manter registro atualizado e facilmente acessível de todos os procedimentos relacionados à implementação e à operacionalização do plano previsto no caput;\n\nII - informar anualmente ao órgão competente do Sisnama e, se couber, do SNVS, sobre a quantidade, a natureza e a destinação temporária ou final dos resíduos sob sua responsabilidade;\n\nIII - adotar medidas destinadas a reduzir o volume e a periculosidade dos resíduos sob sua responsabilidade, bem como a aperfeiçoar seu gerenciamento;\n\nIV - informar imediatamente aos órgãos competentes sobre a ocorrência de acidentes ou outros sinistros relacionados aos resíduos perigosos.\n\n§ 3o Sempre que solicitado pelos órgãos competentes do Sisnama e do SNVS, será assegurado acesso para inspeção das instalações e dos procedimentos relacionados à implementação e à operacionalização do plano de gerenciamento de resíduos perigosos.\n\n§ 4o No caso de controle a cargo de órgão federal ou estadual do Sisnama e do SNVS, as informações sobre o conteúdo, a implementação e a operacionalização do plano previsto no caput serão repassadas ao poder público municipal, na forma do regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2039.%20As%20pessoas%20jur%C3%ADdicas%20referidas%20no%20art.%2038%20s%C3%A3o%20obrigadas%20a%20elaborar%20plano%20de%20gerenciamento%20de%20res%C3%ADduos%20perigosos%20e%20submet%C3%AA-lo%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. No licenciamento ambiental de empreendimentos ou atividades que operem com resíduos perigosos, o órgão licenciador do Sisnama pode exigir a contratação de seguro de responsabilidade civil por danos causados ao meio ambiente ou à saúde pública, observadas as regras sobre cobertura e os limites máximos de contratação fixados em regulamento.\n\nParágrafo único. O disposto no caput considerará o porte da empresa, conforme regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2040.%20No%20licenciamento%20ambiental%20de%20empreendimentos%20ou%20atividades%20que%20operem%20com%20res%C3%ADduos%20perigosos%2C%20o%20%C3%B3rg%C3%A3o%20licenciador%20do%20Sisnama%20pode%20exigir%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Sem prejuízo das iniciativas de outras esferas governamentais, o Governo Federal deve estruturar e manter instrumentos e atividades voltados para promover a descontaminação de áreas órfãs.\n\nParágrafo único. Se, após descontaminação de sítio órfão realizada com recursos do Governo Federal ou de outro ente da Federação, forem identificados os responsáveis pela contaminação, estes ressarcirão integralmente o valor empregado ao poder público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2041.%20Sem%20preju%C3%ADzo%20das%20iniciativas%20de%20outras%20esferas%20governamentais%2C%20o%20Governo%20Federal%20deve%20estruturar%20e%20manter%20instrumentos%20e%20atividades%20voltados%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O poder público poderá instituir medidas indutoras e linhas de financiamento para atender, prioritariamente, às iniciativas de:\n\nI - prevenção e redução da geração de resíduos sólidos no processo produtivo;\n\nII - desenvolvimento de produtos com menores impactos à saúde humana e à qualidade ambiental em seu ciclo de vida;\n\nIII - implantação de infraestrutura física e aquisição de equipamentos para cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda;\n\nIV - desenvolvimento de projetos de gestão dos resíduos sólidos de caráter intermunicipal ou, nos termos do inciso I do caput do art. 11, regional;\n\nV - estruturação de sistemas de coleta seletiva e de logística reversa;\n\nVI - descontaminação de áreas contaminadas, incluindo as áreas órfãs;\n\nVII - desenvolvimento de pesquisas voltadas para tecnologias limpas aplicáveis aos resíduos sólidos;\n\nVIII - desenvolvimento de sistemas de gestão ambiental e empresarial voltados para a melhoria dos processos produtivos e ao reaproveitamento dos resíduos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2042.%20O%20poder%20p%C3%BAblico%20poder%C3%A1%20instituir%20medidas%20indutoras%20e%20linhas%20de%20financiamento%20para%20atender%2C%20prioritariamente%2C%20%C3%A0s%20iniciativas%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. No fomento ou na concessão de incentivos creditícios destinados a atender diretrizes desta Lei, as instituições oficiais de crédito podem estabelecer critérios diferenciados de acesso dos beneficiários aos créditos do Sistema Financeiro Nacional para investimentos produtivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2043.%20No%20fomento%20ou%20na%20concess%C3%A3o%20de%20incentivos%20credit%C3%ADcios%20destinados%20a%20atender%20diretrizes%20desta%20Lei%2C%20as%20institui%C3%A7%C3%B5es%20oficiais%20de%20cr%C3%A9dito%20podem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. A União, os Estados, o Distrito Federal e os Municípios, no âmbito de suas competências, poderão instituir normas com o objetivo de conceder incentivos fiscais, financeiros ou creditícios, respeitadas as limitações da Lei Complementar no 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), a:\n\nI - indústrias e entidades dedicadas à reutilização, ao tratamento e à reciclagem de resíduos sólidos produzidos no território nacional;\n\nII - projetos relacionados à responsabilidade pelo ciclo de vida dos produtos, prioritariamente em parceria com cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda;\n\nIII - empresas dedicadas à limpeza urbana e a atividades a ela relacionadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2044.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20no%20%C3%A2mbito%20de%20suas%20compet%C3%AAncias%2C%20poder%C3%A3o%20instituir%20normas%20com%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os consórcios públicos constituídos, nos termos da Lei no 11.107, de 2005, com o objetivo de viabilizar a descentralização e a prestação de serviços públicos que envolvam resíduos sólidos, têm prioridade na obtenção dos incentivos instituídos pelo Governo Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2045.%20Os%20cons%C3%B3rcios%20p%C3%BAblicos%20constitu%C3%ADdos%2C%20nos%20termos%20da%20Lei%20no%2011.107%2C%20de%202005%2C%20com%20o%20objetivo%20de%20viabilizar%20a%20descentraliza%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O atendimento ao disposto neste Capítulo será efetivado em consonância com a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal), bem como com as diretrizes e objetivos do respectivo plano plurianual, as metas e as prioridades fixadas pelas leis de diretrizes orçamentárias e no limite das disponibilidades propiciadas pelas leis orçamentárias anuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2046.%20O%20atendimento%20ao%20disposto%20neste%20Cap%C3%ADtulo%20ser%C3%A1%20efetivado%20em%20conson%C3%A2ncia%20com%20a%20Lei%20Complementar%20n%C2%BA%20101%2C%20de%202000%20%28Lei%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. São proibidas as seguintes formas de destinação ou disposição final de resíduos sólidos ou rejeitos:\n\nI - lançamento em praias, no mar ou em quaisquer corpos hídricos;\n\nII - lançamento in natura a céu aberto, excetuados os resíduos de mineração;\n\nIII - queima a céu aberto ou em recipientes, instalações e equipamentos não licenciados para essa finalidade;\n\nIV - outras formas vedadas pelo poder público.\n\n§ 1o Quando decretada emergência sanitária, a queima de resíduos a céu aberto pode ser realizada, desde que autorizada e acompanhada pelos órgãos competentes do Sisnama, do SNVS e, quando couber, do Suasa.\n\n§ 2o Assegurada a devida impermeabilização, as bacias de decantação de resíduos ou rejeitos industriais ou de mineração, devidamente licenciadas pelo órgão competente do Sisnama, não são consideradas corpos hídricos para efeitos do disposto no inciso I do caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2047.%20S%C3%A3o%20proibidas%20as%20seguintes%20formas%20de%20destina%C3%A7%C3%A3o%20ou%20disposi%C3%A7%C3%A3o%20final%20de%20res%C3%ADduos%20s%C3%B3lidos%20ou%20rejeitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. São proibidas, nas áreas de disposição final de resíduos ou rejeitos, as seguintes atividades:\n\nI - utilização dos rejeitos dispostos como alimentação;\n\nII - catação, observado o disposto no inciso V do art. 17;\n\nIII - criação de animais domésticos;\n\nIV - fixação de habitações temporárias ou permanentes;\n\nV - outras atividades vedadas pelo poder público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2048.%20S%C3%A3o%20proibidas%2C%20nas%20%C3%A1reas%20de%20disposi%C3%A7%C3%A3o%20final%20de%20res%C3%ADduos%20ou%20rejeitos%2C%20as%20seguintes%20atividades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. É proibida a importação de resíduos sólidos perigosos e rejeitos, bem como de resíduos sólidos cujas características causem dano ao meio ambiente, à saúde pública e animal e à sanidade vegetal, ainda que para tratamento, reforma, reúso, reutilização ou recuperação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2049.%20%C3%89%20proibida%20a%20importa%C3%A7%C3%A3o%20de%20res%C3%ADduos%20s%C3%B3lidos%20perigosos%20e%20rejeitos%2C%20bem%20como%20de%20res%C3%ADduos%20s%C3%B3lidos%20cujas%20caracter%C3%ADsticas%20causem%20dano%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A inexistência do regulamento previsto no § 3o do art. 21 não obsta a atuação, nos termos desta Lei, das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2050.%20A%20inexist%C3%AAncia%20do%20regulamento%20previsto%20no%20%C2%A7%203o%20do%20art.%2021%20n%C3%A3o%20obsta%20a%20atua%C3%A7%C3%A3o%2C%20nos%20termos%20desta%20Lei%2C%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Sem prejuízo da obrigação de, independentemente da existência de culpa, reparar os danos causados, a ação ou omissão das pessoas físicas ou jurídicas que importe inobservância aos preceitos desta Lei ou de seu regulamento sujeita os infratores às sanções previstas em lei, em especial às fixadas na Lei no 9.605, de 12 de fevereiro de 1998, que “dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências”, e em seu regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2051.%20Sem%20preju%C3%ADzo%20da%20obriga%C3%A7%C3%A3o%20de%2C%20independentemente%20da%20exist%C3%AAncia%20de%20culpa%2C%20reparar%20os%20danos%20causados%2C%20a%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20das%20pessoas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A observância do disposto no caput do art. 23 e no § 2o do art. 39 desta Lei é considerada obrigação de relevante interesse ambiental para efeitos do art. 68 da Lei nº 9.605, de 1998, sem prejuízo da aplicação de outras sanções cabíveis nas esferas penal e administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2052.%20A%20observ%C3%A2ncia%20do%20disposto%20no%20caput%20do%20art.%2023%20e%20no%20%C2%A7%202o%20do%20art.%2039%20desta%20Lei%20%C3%A9%20considerada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O § 1o do art. 56 da Lei nº 9.605, de 12 de fevereiro de 1998, passa a vigorar com a seguinte redação:\n\n“Art. 56. .................................................................................\n\n§ 1º Nas mesmas penas incorre quem:\n\nI - abandona os produtos ou substâncias referidos no caput ou os utiliza em desacordo com as normas ambientais ou de segurança;\n\nII - manipula, acondiciona, armazena, coleta, transporta, reutiliza, recicla ou dá destinação final a resíduos perigosos de forma diversa da estabelecida em lei ou regulamento.\n\n.............................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2053.%20O%20%C2%A7%201o%20do%20art.%2056%20da%20Lei%20n%C2%BA%209.605%2C%20de%2012%20de%20fevereiro%20de%201998%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. A disposição final ambientalmente adequada dos rejeitos, observado o disposto no § 1o do art. 9o, deverá ser implantada em até 4 (quatro) anos após a data de publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2054.%20A%20disposi%C3%A7%C3%A3o%20final%20ambientalmente%20adequada%20dos%20rejeitos%2C%20observado%20o%20disposto%20no%20%C2%A7%201o%20do%20art.%209o%2C%20dever%C3%A1%20ser%20implantada%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O disposto nos arts. 16 e 18 entra em vigor 2 (dois) anos após a data de publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2055.%20O%20disposto%20nos%20arts.%2016%20e%2018%20entra%20em%20vigor%202%20%28dois%29%20anos%20ap%C3%B3s%20a%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. A logística reversa relativa aos produtos de que tratam os incisos V e VI do caput do art. 33 será implementada progressivamente segundo cronograma estabelecido em regulamento. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2056.%20A%20log%C3%ADstica%20reversa%20relativa%20aos%20produtos%20de%20que%20tratam%20os%20incisos%20V%20e%20VI%20do%20caput%20do%20art.%2033%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 2 de agosto de 2010; 189o da Independência e 122o da República.\n\nLUIZ INÁCIO LULA DA SILVA Rafael Thomaz Favetti Guido Mantega José Gomes Temporão Miguel Jorge Izabella Mônica Vieira Teixeira João Reis Santana Filho Marcio Fortes de Almeida Alexandre Rocha Santos Padilha\n\nEste texto não substitui o publicado no DOU de 3.8.2010\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#:~:text=Art.%2057.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": null
+    }
+  }
+}

@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 250 | 20.257 registros | 250 diplomas |
+| Legislação | 270 | 21.541 registros | 270 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 257 | — | 38.815.032 bytes, cerca de 39 MB |
+| Total em JSON | 277 | — | 40.742.582 bytes, cerca de 41 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 20.257 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 21.541 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -121,9 +121,11 @@ protocolo comum. O inventário por diploma sai de
 | `esparsas_processual_constitucional` | 19 | 501 | 2026-07-19 |
 | `esparsas_consumidor_bancario` | 24 | 1.296 | 2026-07-19 |
 | `esparsas_empresarial` | 28 | 1.649 | 2026-07-19 |
+| `esparsas_regulatorio_outros` | 19 | 1.261 | 2026-07-19 |
+| `decretos` | 1 | 23 | 2026-07-19 |
 
-Grupos pendentes de materialização: decretos (1) e a fatia de esparsas
-regulatório/outros (19 normas). O Código Comercial de 1850 foi movido
+Todos os grupos capturáveis do manifesto estão materializados e promovidos.
+Restam apenas as duas normas de `pendentes_especiais`, descritas abaixo. O Código Comercial de 1850 foi movido
 para o grupo `pendentes_especiais` sem materialização: a página compilada
 mistura duas numerações (o corpo do Código, arts. 1 a 913, e o Título Único da
 administração da justiça comercial, com arts. 1 a 30 próprios), e a captura por
@@ -169,10 +171,10 @@ texto integral.
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 133 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24) e empresarial (28); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 250 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 250 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 250 códigos do registro central |
+| Arquivos disponíveis | 133 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), empresarial (28), regulatório/outros (19) e decretos (1); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 270 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 270 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 270 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -322,7 +324,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 72 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 74 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

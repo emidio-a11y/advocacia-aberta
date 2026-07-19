@@ -1,0 +1,1007 @@
+{
+  "_meta": {
+    "codigo": "L9985",
+    "nome": "Sistema Nacional de Unidades de Conservação (SNUC)",
+    "lei": "Lei 9.985/2000",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm",
+    "total_artigos": 62,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei institui o Sistema Nacional de Unidades de Conservação da Natureza – SNUC, estabelece critérios e normas para a criação, implantação e gestão das unidades de conservação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%201o%20Esta%20Lei%20institui%20o%20Sistema%20Nacional%20de%20Unidades%20de%20Conserva%C3%A7%C3%A3o%20da%20Natureza%20%E2%80%93%20SNUC%2C%20estabelece%20crit%C3%A9rios%20e%20normas%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Para os fins previstos nesta Lei, entende-se por:\n\nI - unidade de conservação: espaço territorial e seus recursos ambientais, incluindo as águas jurisdicionais, com características naturais relevantes, legalmente instituído pelo Poder Público, com objetivos de conservação e limites definidos, sob regime especial de administração, ao qual se aplicam garantias adequadas de proteção;\n\nII - conservação da natureza: o manejo do uso humano da natureza, compreendendo a preservação, a manutenção, a utilização sustentável, a restauração e a recuperação do ambiente natural, para que possa produzir o maior benefício, em bases sustentáveis, às atuais gerações, mantendo seu potencial de satisfazer as necessidades e aspirações das gerações futuras, e garantindo a sobrevivência dos seres vivos em geral;\n\nIII - diversidade biológica: a variabilidade de organismos vivos de todas as origens, compreendendo, dentre outros, os ecossistemas terrestres, marinhos e outros ecossistemas aquáticos e os complexos ecológicos de que fazem parte; compreendendo ainda a diversidade dentro de espécies, entre espécies e de ecossistemas;\n\nIV - recurso ambiental: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora;\n\nV - preservação: conjunto de métodos, procedimentos e políticas que visem a proteção a longo prazo das espécies, habitats e ecossistemas, além da manutenção dos processos ecológicos, prevenindo a simplificação dos sistemas naturais;\n\nVI - proteção integral: manutenção dos ecossistemas livres de alterações causadas por interferência humana, admitido apenas o uso indireto dos seus atributos naturais;\n\nVII - conservação in situ: conservação de ecossistemas e habitats naturais e a manutenção e recuperação de populações viáveis de espécies em seus meios naturais e, no caso de espécies domesticadas ou cultivadas, nos meios onde tenham desenvolvido suas propriedades características;\n\nVIII - manejo: todo e qualquer procedimento que vise assegurar a conservação da diversidade biológica e dos ecossistemas;\n\nIX - uso indireto: aquele que não envolve consumo, coleta, dano ou destruição dos recursos naturais;\n\nX - uso direto: aquele que envolve coleta e uso, comercial ou não, dos recursos naturais;\n\nXI - uso sustentável: exploração do ambiente de maneira a garantir a perenidade dos recursos ambientais renováveis e dos processos ecológicos, mantendo a biodiversidade e os demais atributos ecológicos, de forma socialmente justa e economicamente viável;\n\nXII - extrativismo: sistema de exploração baseado na coleta e extração, de modo sustentável, de recursos naturais renováveis;\n\nXIII - recuperação: restituição de um ecossistema ou de uma população silvestre degradada a uma condição não degradada, que pode ser diferente de sua condição original;\n\nXIV - restauração: restituição de um ecossistema ou de uma população silvestre degradada o mais próximo possível da sua condição original;\n\nXV - (VETADO)\n\nXVI - zoneamento: definição de setores ou zonas em uma unidade de conservação com objetivos de manejo e normas específicos, com o propósito de proporcionar os meios e as condições para que todos os objetivos da unidade possam ser alcançados de forma harmônica e eficaz;\n\nXVII - plano de manejo: documento técnico mediante o qual, com fundamento nos objetivos gerais de uma unidade de conservação, se estabelece o seu zoneamento e as normas que devem presidir o uso da área e o manejo dos recursos naturais, inclusive a implantação das estruturas físicas necessárias à gestão da unidade;\n\nXVIII - zona de amortecimento: o entorno de uma unidade de conservação, onde as atividades humanas estão sujeitas a normas e restrições específicas, com o propósito de minimizar os impactos negativos sobre a unidade; e\n\nXIX - corredores ecológicos: porções de ecossistemas naturais ou seminaturais, ligando unidades de conservação, que possibilitam entre elas o fluxo de genes e o movimento da biota, facilitando a dispersão de espécies e a recolonização de áreas degradadas, bem como a manutenção de populações que demandam para sua sobrevivência áreas com extensão maior do que aquela das unidades individuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%202o%20Para%20os%20fins%20previstos%20nesta%20Lei%2C%20entende-se%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O Sistema Nacional de Unidades de Conservação da Natureza - SNUC é constituído pelo conjunto das unidades de conservação federais, estaduais e municipais, de acordo com o disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%203o%20O%20Sistema%20Nacional%20de%20Unidades%20de%20Conserva%C3%A7%C3%A3o%20da%20Natureza%20-%20SNUC%20%C3%A9%20constitu%C3%ADdo%20pelo%20conjunto%20das%20unidades%20de%20conserva%C3%A7%C3%A3o%20federais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO SISTEMA NACIONAL DE UNIDADES DE CONSERVAÇÃO DA NATUREZA – SNUC",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O SNUC tem os seguintes objetivos:\n\nI - contribuir para a manutenção da diversidade biológica e dos recursos genéticos no território nacional e nas águas jurisdicionais;\n\nII - proteger as espécies ameaçadas de extinção no âmbito regional e nacional;\n\nIII - contribuir para a preservação e a restauração da diversidade de ecossistemas naturais;\n\nIV - promover o desenvolvimento sustentável a partir dos recursos naturais;\n\nV - promover a utilização dos princípios e práticas de conservação da natureza no processo de desenvolvimento;\n\nVI - proteger paisagens naturais e pouco alteradas de notável beleza cênica;\n\nVII - proteger as características relevantes de natureza geológica, geomorfológica, espeleológica, arqueológica, paleontológica e cultural;\n\nVIII - proteger e recuperar recursos hídricos e edáficos;\n\nIX - recuperar ou restaurar ecossistemas degradados;\n\nX - proporcionar meios e incentivos para atividades de pesquisa científica, estudos e monitoramento ambiental;\n\nXI - valorizar econômica e socialmente a diversidade biológica;\n\nXII - favorecer condições e promover a educação e interpretação ambiental, a recreação em contato com a natureza e o turismo ecológico;\n\nXIII - proteger os recursos naturais necessários à subsistência de populações tradicionais, respeitando e valorizando seu conhecimento e sua cultura e promovendo-as social e economicamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%204o%20O%20SNUC%20tem%20os%20seguintes%20objetivos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO SISTEMA NACIONAL DE UNIDADES DE CONSERVAÇÃO DA NATUREZA – SNUC",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O SNUC será regido por diretrizes que:\n\nI - assegurem que no conjunto das unidades de conservação estejam representadas amostras significativas e ecologicamente viáveis das diferentes populações, habitats e ecossistemas do território nacional e das águas jurisdicionais, salvaguardando o patrimônio biológico existente;\n\nII - assegurem os mecanismos e procedimentos necessários ao envolvimento da sociedade no estabelecimento e na revisão da política nacional de unidades de conservação;\n\nIII - assegurem a participação efetiva das populações locais na criação, implantação e gestão das unidades de conservação;\n\nIV - busquem o apoio e a cooperação de organizações não-governamentais, de organizações privadas e pessoas físicas para o desenvolvimento de estudos, pesquisas científicas, práticas de educação ambiental, atividades de lazer e de turismo ecológico, monitoramento, manutenção e outras atividades de gestão das unidades de conservação;\n\nV - incentivem as populações locais e as organizações privadas a estabelecerem e administrarem unidades de conservação dentro do sistema nacional;\n\nVI - assegurem, nos casos possíveis, a sustentabilidade econômica das unidades de conservação;\n\nVII - permitam o uso das unidades de conservação para a conservação in situ de populações das variantes genéticas selvagens dos animais e plantas domesticados e recursos genéticos silvestres;\n\nVIII - assegurem que o processo de criação e a gestão das unidades de conservação sejam feitos de forma integrada com as políticas de administração das terras e águas circundantes, considerando as condições e necessidades sociais e econômicas locais;\n\nIX - considerem as condições e necessidades das populações locais no desenvolvimento e adaptação de métodos e técnicas de uso sustentável dos recursos naturais;\n\nX - garantam às populações tradicionais cuja subsistência dependa da utilização de recursos naturais existentes no interior das unidades de conservação meios de subsistência alternativos ou a justa indenização pelos recursos perdidos;\n\nXI - garantam uma alocação adequada dos recursos financeiros necessários para que, uma vez criadas, as unidades de conservação possam ser geridas de forma eficaz e atender aos seus objetivos;\n\nXII - busquem conferir às unidades de conservação, nos casos possíveis e respeitadas as conveniências da administração, autonomia administrativa e financeira; e\n\nXIII - busquem proteger grandes áreas por meio de um conjunto integrado de unidades de conservação de diferentes categorias, próximas ou contíguas, e suas respectivas zonas de amortecimento e corredores ecológicos, integrando as diferentes atividades de preservação da natureza, uso sustentável dos recursos naturais e restauração e recuperação dos ecossistemas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%205o%20O%20SNUC%20ser%C3%A1%20regido%20por%20diretrizes%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO SISTEMA NACIONAL DE UNIDADES DE CONSERVAÇÃO DA NATUREZA – SNUC",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O SNUC será gerido pelos seguintes órgãos, com as respectivas atribuições:\n\nI – Órgão consultivo e deliberativo: o Conselho Nacional do Meio Ambiente - Conama, com as atribuições de acompanhar a implementação do Sistema;\n\nII - Órgão central: o Ministério do Meio Ambiente, com a finalidade de coordenar o Sistema; e\n\nIII - Órgãos executores: o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, os órgãos estaduais e municipais, com a função de implementar o SNUC, subsidiar as propostas de criação e administrar as unidades de conservação federais, estaduais e municipais, nas respectivas esferas de atuação.\n\nIII - Órgãos executores: os órgãos federais, estaduais e municipais, com a função de implementar o SNUC, subsidiar as propostas de criação e administrar as unidades de conservação federais, estaduais e municipais, nas respectivas esferas de atuação. (Redação dada Medida Provisória nº 366, de 2007)\n\nIII - órgãos executores: o Instituto Chico Mendes e o Ibama, em caráter supletivo, os órgãos estaduais e municipais, com a função de implementar o SNUC, subsidiar as propostas de criação e administrar as unidades de conservação federais, estaduais e municipais, nas respectivas esferas de atuação. (Redação dada pela Lei nº 11.516, 2007)\n\nParágrafo único. Podem integrar o SNUC, excepcionalmente e a critério do Conama, unidades de conservação estaduais e municipais que, concebidas para atender a peculiaridades regionais ou locais, possuam objetivos de manejo que não possam ser satisfatoriamente atendidos por nenhuma categoria prevista nesta Lei e cujas características permitam, em relação a estas, uma clara distinção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%206o%20O%20SNUC%20ser%C3%A1%20gerido%20pelos%20seguintes%20%C3%B3rg%C3%A3os%2C%20com%20as%20respectivas%20atribui%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO SISTEMA NACIONAL DE UNIDADES DE CONSERVAÇÃO DA NATUREZA – SNUC",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com características específicas:\n\nI - Unidades de Proteção Integral;\n\nII - Unidades de Uso Sustentável.\n\n§ 1o O objetivo básico das Unidades de Proteção Integral é preservar a natureza, sendo admitido apenas o uso indireto dos seus recursos naturais, com exceção dos casos previstos nesta Lei.\n\n§ 2o O objetivo básico das Unidades de Uso Sustentável é compatibilizar a conservação da natureza com o uso sustentável de parcela dos seus recursos naturais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%207o%20As%20unidades%20de%20conserva%C3%A7%C3%A3o%20integrantes%20do%20SNUC%20dividem-se%20em%20dois%20grupos%2C%20com%20caracter%C3%ADsticas%20espec%C3%ADficas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de unidade de conservação:\n\nI - Estação Ecológica;\n\nII - Reserva Biológica;\n\nIII - Parque Nacional;\n\nIV - Monumento Natural;\n\nV - Refúgio de Vida Silvestre.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%208o%20O%20grupo%20das%20Unidades%20de%20Prote%C3%A7%C3%A3o%20Integral%20%C3%A9%20composto%20pelas%20seguintes%20categorias%20de%20unidade%20de%20conserva%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o A Estação Ecológica tem como objetivo a preservação da natureza e a realização de pesquisas científicas.\n\n§ 1o A Estação Ecológica é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites serão desapropriadas, de acordo com o que dispõe a lei.\n\n§ 2o É proibida a visitação pública, exceto quando com objetivo educacional, de acordo com o que dispuser o Plano de Manejo da unidade ou regulamento específico.\n\n§ 3o A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.\n\n§ 4o Na Estação Ecológica só podem ser permitidas alterações dos ecossistemas no caso de:\n\nI - medidas que visem a restauração de ecossistemas modificados;\n\nII - manejo de espécies com o fim de preservar a diversidade biológica;\n\nIII - coleta de componentes dos ecossistemas com finalidades científicas;\n\nIV - pesquisas científicas cujo impacto sobre o ambiente seja maior do que aquele causado pela simples observação ou pela coleta controlada de componentes dos ecossistemas, em uma área correspondente a no máximo três por cento da extensão total da unidade e até o limite de um mil e quinhentos hectares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%209o%20A%20Esta%C3%A7%C3%A3o%20Ecol%C3%B3gica%20tem%20como%20objetivo%20a%20preserva%C3%A7%C3%A3o%20da%20natureza%20e%20a%20realiza%C3%A7%C3%A3o%20de%20pesquisas%20cient%C3%ADficas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A Reserva Biológica tem como objetivo a preservação integral da biota e demais atributos naturais existentes em seus limites, sem interferência humana direta ou modificações ambientais, excetuando-se as medidas de recuperação de seus ecossistemas alterados e as ações de manejo necessárias para recuperar e preservar o equilíbrio natural, a diversidade biológica e os processos ecológicos naturais.\n\n§ 1o A Reserva Biológica é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites serão desapropriadas, de acordo com o que dispõe a lei.\n\n§ 2o É proibida a visitação pública, exceto aquela com objetivo educacional, de acordo com regulamento específico.\n\n§ 3o A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2010.%20A%20Reserva%20Biol%C3%B3gica%20tem%20como%20objetivo%20a%20preserva%C3%A7%C3%A3o%20integral%20da%20biota%20e%20demais%20atributos%20naturais%20existentes%20em%20seus%20limites%2C%20sem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O Parque Nacional tem como objetivo básico a preservação de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico.\n\n§ 1o O Parque Nacional é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites serão desapropriadas, de acordo com o que dispõe a lei.\n\n§ 2o A visitação pública está sujeita às normas e restrições estabelecidas no Plano de Manejo da unidade, às normas estabelecidas pelo órgão responsável por sua administração, e àquelas previstas em regulamento.\n\n§ 3o A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.\n\n§ 4o As unidades dessa categoria, quando criadas pelo Estado ou Município, serão denominadas, respectivamente, Parque Estadual e Parque Natural Municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2011.%20O%20Parque%20Nacional%20tem%20como%20objetivo%20b%C3%A1sico%20a%20preserva%C3%A7%C3%A3o%20de%20ecossistemas%20naturais%20de%20grande%20relev%C3%A2ncia%20ecol%C3%B3gica%20e%20beleza%20c%C3%AAnica%2C%20possibilitando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O Monumento Natural tem como objetivo básico preservar sítios naturais raros, singulares ou de grande beleza cênica.\n\n§ 1o O Monumento Natural pode ser constituído por áreas particulares, desde que seja possível compatibilizar os objetivos da unidade com a utilização da terra e dos recursos naturais do local pelos proprietários.\n\n§ 2o Havendo incompatibilidade entre os objetivos da área e as atividades privadas ou não havendo aquiescência do proprietário às condições propostas pelo órgão responsável pela administração da unidade para a coexistência do Monumento Natural com o uso da propriedade, a área deve ser desapropriada, de acordo com o que dispõe a lei.\n\n§ 3o A visitação pública está sujeita às condições e restrições estabelecidas no Plano de Manejo da unidade, às normas estabelecidas pelo órgão responsável por sua administração e àquelas previstas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2012.%20O%20Monumento%20Natural%20tem%20como%20objetivo%20b%C3%A1sico%20preservar%20s%C3%ADtios%20naturais%20raros%2C%20singulares%20ou%20de%20grande%20beleza%20c%C3%AAnica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O Refúgio de Vida Silvestre tem como objetivo proteger ambientes naturais onde se asseguram condições para a existência ou reprodução de espécies ou comunidades da flora local e da fauna residente ou migratória.\n\n§ 1o O Refúgio de Vida Silvestre pode ser constituído por áreas particulares, desde que seja possível compatibilizar os objetivos da unidade com a utilização da terra e dos recursos naturais do local pelos proprietários.\n\n§ 2o Havendo incompatibilidade entre os objetivos da área e as atividades privadas ou não havendo aquiescência do proprietário às condições propostas pelo órgão responsável pela administração da unidade para a coexistência do Refúgio de Vida Silvestre com o uso da propriedade, a área deve ser desapropriada, de acordo com o que dispõe a lei.\n\n§ 3o A visitação pública está sujeita às normas e restrições estabelecidas no Plano de Manejo da unidade, às normas estabelecidas pelo órgão responsável por sua administração, e àquelas previstas em regulamento.\n\n§ 4o A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2013.%20O%20Ref%C3%BAgio%20de%20Vida%20Silvestre%20tem%20como%20objetivo%20proteger%20ambientes%20naturais%20onde%20se%20asseguram%20condi%C3%A7%C3%B5es%20para%20a%20exist%C3%AAncia%20ou%20reprodu%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Constituem o Grupo das Unidades de Uso Sustentável as seguintes categorias de unidade de conservação:\n\nI - Área de Proteção Ambiental;\n\nII - Área de Relevante Interesse Ecológico;\n\nIII - Floresta Nacional;\n\nIV - Reserva Extrativista;\n\nV - Reserva de Fauna;\n\nVI – Reserva de Desenvolvimento Sustentável; e\n\nVII - Reserva Particular do Patrimônio Natural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2014.%20Constituem%20o%20Grupo%20das%20Unidades%20de%20Uso%20Sustent%C3%A1vel%20as%20seguintes%20categorias%20de%20unidade%20de%20conserva%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A Área de Proteção Ambiental é uma área em geral extensa, com um certo grau de ocupação humana, dotada de atributos abióticos, bióticos, estéticos ou culturais especialmente importantes para a qualidade de vida e o bem-estar das populações humanas, e tem como objetivos básicos proteger a diversidade biológica, disciplinar o processo de ocupação e assegurar a sustentabilidade do uso dos recursos naturais.(Regulamento)\n\n§ 1o A Área de Proteção Ambiental é constituída por terras públicas ou privadas.\n\n§ 2o Respeitados os limites constitucionais, podem ser estabelecidas normas e restrições para a utilização de uma propriedade privada localizada em uma Área de Proteção Ambiental.\n\n§ 3o As condições para a realização de pesquisa científica e visitação pública nas áreas sob domínio público serão estabelecidas pelo órgão gestor da unidade.\n\n§ 4o Nas áreas sob propriedade privada, cabe ao proprietário estabelecer as condições para pesquisa e visitação pelo público, observadas as exigências e restrições legais.\n\n§ 5o A Área de Proteção Ambiental disporá de um Conselho presidido pelo órgão responsável por sua administração e constituído por representantes dos órgãos públicos, de organizações da sociedade civil e da população residente, conforme se dispuser no regulamento desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2015.%20A%20%C3%81rea%20de%20Prote%C3%A7%C3%A3o%20Ambiental%20%C3%A9%20uma%20%C3%A1rea%20em%20geral%20extensa%2C%20com%20um%20certo%20grau%20de%20ocupa%C3%A7%C3%A3o%20humana%2C%20dotada%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A Área de Relevante Interesse Ecológico é uma área em geral de pequena extensão, com pouca ou nenhuma ocupação humana, com características naturais extraordinárias ou que abriga exemplares raros da biota regional, e tem como objetivo manter os ecossistemas naturais de importância regional ou local e regular o uso admissível dessas áreas, de modo a compatibilizá-lo com os objetivos de conservação da natureza.\n\n§ 1o A Área de Relevante Interesse Ecológico é constituída por terras públicas ou privadas.\n\n§ 2o Respeitados os limites constitucionais, podem ser estabelecidas normas e restrições para a utilização de uma propriedade privada localizada em uma Área de Relevante Interesse Ecológico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2016.%20A%20%C3%81rea%20de%20Relevante%20Interesse%20Ecol%C3%B3gico%20%C3%A9%20uma%20%C3%A1rea%20em%20geral%20de%20pequena%20extens%C3%A3o%2C%20com%20pouca%20ou%20nenhuma%20ocupa%C3%A7%C3%A3o%20humana%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A Floresta Nacional é uma área com cobertura florestal de espécies predominantemente nativas e tem como objetivo básico o uso múltiplo sustentável dos recursos florestais e a pesquisa científica, com ênfase em métodos para exploração sustentável de florestas nativas.(Regulamento)\n\n§ 1o A Floresta Nacional é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites devem ser desapropriadas de acordo com o que dispõe a lei.\n\n§ 2o Nas Florestas Nacionais é admitida a permanência de populações tradicionais que a habitam quando de sua criação, em conformidade com o disposto em regulamento e no Plano de Manejo da unidade.\n\n§ 3o A visitação pública é permitida, condicionada às normas estabelecidas para o manejo da unidade pelo órgão responsável por sua administração.\n\n§ 4o A pesquisa é permitida e incentivada, sujeitando-se à prévia autorização do órgão responsável pela administração da unidade, às condições e restrições por este estabelecidas e àquelas previstas em regulamento.\n\n§ 5o A Floresta Nacional disporá de um Conselho Consultivo, presidido pelo órgão responsável por sua administração e constituído por representantes de órgãos públicos, de organizações da sociedade civil e, quando for o caso, das populações tradicionais residentes.\n\n§ 6o A unidade desta categoria, quando criada pelo Estado ou Município, será denominada, respectivamente, Floresta Estadual e Floresta Municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2017.%20A%20Floresta%20Nacional%20%C3%A9%20uma%20%C3%A1rea%20com%20cobertura%20florestal%20de%20esp%C3%A9cies%20predominantemente%20nativas%20e%20tem%20como%20objetivo%20b%C3%A1sico%20o%20uso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A Reserva Extrativista é uma área utilizada por populações extrativistas tradicionais, cuja subsistência baseia-se no extrativismo e, complementarmente, na agricultura de subsistência e na criação de animais de pequeno porte, e tem como objetivos básicos proteger os meios de vida e a cultura dessas populações, e assegurar o uso sustentável dos recursos naturais da unidade.(Regulamento)\n\n§ 1o A Reserva Extrativista é de domínio público, com uso concedido às populações extrativistas tradicionais conforme o disposto no art. 23 desta Lei e em regulamentação específica, sendo que as áreas particulares incluídas em seus limites devem ser desapropriadas, de acordo com o que dispõe a lei.\n\n§ 2o A Reserva Extrativista será gerida por um Conselho Deliberativo, presidido pelo órgão responsável por sua administração e constituído por representantes de órgãos públicos, de organizações da sociedade civil e das populações tradicionais residentes na área, conforme se dispuser em regulamento e no ato de criação da unidade.\n\n§ 3o A visitação pública é permitida, desde que compatível com os interesses locais e de acordo com o disposto no Plano de Manejo da área.\n\n§ 4o A pesquisa científica é permitida e incentivada, sujeitando-se à prévia autorização do órgão responsável pela administração da unidade, às condições e restrições por este estabelecidas e às normas previstas em regulamento.\n\n§ 5o O Plano de Manejo da unidade será aprovado pelo seu Conselho Deliberativo.\n\n§ 6o São proibidas a exploração de recursos minerais e a caça amadorística ou profissional.\n\n§ 7o A exploração comercial de recursos madeireiros só será admitida em bases sustentáveis e em situações especiais e complementares às demais atividades desenvolvidas na Reserva Extrativista, conforme o disposto em regulamento e no Plano de Manejo da unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2018.%20A%20Reserva%20Extrativista%20%C3%A9%20uma%20%C3%A1rea%20utilizada%20por%20popula%C3%A7%C3%B5es%20extrativistas%20tradicionais%2C%20cuja%20subsist%C3%AAncia%20baseia-se%20no%20extrativismo%20e%2C%20complementarmente%2C%20na%20agricultura",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A Reserva de Fauna é uma área natural com populações animais de espécies nativas, terrestres ou aquáticas, residentes ou migratórias, adequadas para estudos técnico-científicos sobre o manejo econômico sustentável de recursos faunísticos.\n\n§ 1o A Reserva de Fauna é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites devem ser desapropriadas de acordo com o que dispõe a lei.\n\n§ 2o A visitação pública pode ser permitida, desde que compatível com o manejo da unidade e de acordo com as normas estabelecidas pelo órgão responsável por sua administração.\n\n§ 3o É proibido o exercício da caça amadorística ou profissional.\n\n§ 4o A comercialização dos produtos e subprodutos resultantes das pesquisas obedecerá ao disposto nas leis sobre fauna e regulamentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2019.%20A%20Reserva%20de%20Fauna%20%C3%A9%20uma%20%C3%A1rea%20natural%20com%20popula%C3%A7%C3%B5es%20animais%20de%20esp%C3%A9cies%20nativas%2C%20terrestres%20ou%20aqu%C3%A1ticas%2C%20residentes%20ou%20migrat%C3%B3rias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A Reserva de Desenvolvimento Sustentável é uma área natural que abriga populações tradicionais, cuja existência baseia-se em sistemas sustentáveis de exploração dos recursos naturais, desenvolvidos ao longo de gerações e adaptados às condições ecológicas locais e que desempenham um papel fundamental na proteção da natureza e na manutenção da diversidade biológica.(Regulamento)\n\n§ 1o A Reserva de Desenvolvimento Sustentável tem como objetivo básico preservar a natureza e, ao mesmo tempo, assegurar as condições e os meios necessários para a reprodução e a melhoria dos modos e da qualidade de vida e exploração dos recursos naturais das populações tradicionais, bem como valorizar, conservar e aperfeiçoar o conhecimento e as técnicas de manejo do ambiente, desenvolvido por estas populações.\n\n§ 2o A Reserva de Desenvolvimento Sustentável é de domínio público, sendo que as áreas particulares incluídas em seus limites devem ser, quando necessário, desapropriadas, de acordo com o que dispõe a lei.\n\n§ 3o O uso das áreas ocupadas pelas populações tradicionais será regulado de acordo com o disposto no art. 23 desta Lei e em regulamentação específica.\n\n§ 4o A Reserva de Desenvolvimento Sustentável será gerida por um Conselho Deliberativo, presidido pelo órgão responsável por sua administração e constituído por representantes de órgãos públicos, de organizações da sociedade civil e das populações tradicionais residentes na área, conforme se dispuser em regulamento e no ato de criação da unidade.\n\n§ 5o As atividades desenvolvidas na Reserva de Desenvolvimento Sustentável obedecerão às seguintes condições:\n\nI - é permitida e incentivada a visitação pública, desde que compatível com os interesses locais e de acordo com o disposto no Plano de Manejo da área;\n\nII - é permitida e incentivada a pesquisa científica voltada à conservação da natureza, à melhor relação das populações residentes com seu meio e à educação ambiental, sujeitando-se à prévia autorização do órgão responsável pela administração da unidade, às condições e restrições por este estabelecidas e às normas previstas em regulamento;\n\nIII - deve ser sempre considerado o equilíbrio dinâmico entre o tamanho da população e a conservação; e\n\nIV - é admitida a exploração de componentes dos ecossistemas naturais em regime de manejo sustentável e a substituição da cobertura vegetal por espécies cultiváveis, desde que sujeitas ao zoneamento, às limitações legais e ao Plano de Manejo da área.\n\n§ 6o O Plano de Manejo da Reserva de Desenvolvimento Sustentável definirá as zonas de proteção integral, de uso sustentável e de amortecimento e corredores ecológicos, e será aprovado pelo Conselho Deliberativo da unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2020.%20A%20Reserva%20de%20Desenvolvimento%20Sustent%C3%A1vel%20%C3%A9%20uma%20%C3%A1rea%20natural%20que%20abriga%20popula%C3%A7%C3%B5es%20tradicionais%2C%20cuja%20exist%C3%AAncia%20baseia-se%20em%20sistemas%20sustent%C3%A1veis%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A Reserva Particular do Patrimônio Natural é uma área privada, gravada com perpetuidade, com o objetivo de conservar a diversidade biológica. (Regulamento)\n\n§ 1o O gravame de que trata este artigo constará de termo de compromisso assinado perante o órgão ambiental, que verificará a existência de interesse público, e será averbado à margem da inscrição no Registro Público de Imóveis.\n\n§ 2o Só poderá ser permitida, na Reserva Particular do Patrimônio Natural, conforme se dispuser em regulamento:\n\nI - a pesquisa científica;\n\nII - a visitação com objetivos turísticos, recreativos e educacionais;\n\nIII - (VETADO)\n\n§ 3o Os órgãos integrantes do SNUC, sempre que possível e oportuno, prestarão orientação técnica e científica ao proprietário de Reserva Particular do Patrimônio Natural para a elaboração de um Plano de Manejo ou de Proteção e de Gestão da unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2021.%20A%20Reserva%20Particular%20do%20Patrim%C3%B4nio%20Natural%20%C3%A9%20uma%20%C3%A1rea%20privada%2C%20gravada%20com%20perpetuidade%2C%20com%20o%20objetivo%20de%20conservar%20a%20diversidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. As unidades de conservação são criadas por ato do Poder Público.(Regulamento)\n\n§ 1o (VETADO)\n\n§ 2o A criação de uma unidade de conservação deve ser precedida de estudos técnicos e de consulta pública que permitam identificar a localização, a dimensão e os limites mais adequados para a unidade, conforme se dispuser em regulamento.\n\n§ 3o No processo de consulta de que trata o § 2o, o Poder Público é obrigado a fornecer informações adequadas e inteligíveis à população local e a outras partes interessadas.\n\n§ 4o Na criação de Estação Ecológica ou Reserva Biológica não é obrigatória a consulta de que trata o § 2o deste artigo.\n\n§ 5o As unidades de conservação do grupo de Uso Sustentável podem ser transformadas total ou parcialmente em unidades do grupo de Proteção Integral, por instrumento normativo do mesmo nível hierárquico do que criou a unidade, desde que obedecidos os procedimentos de consulta estabelecidos no § 2o deste artigo.\n\n§ 6o A ampliação dos limites de uma unidade de conservação, sem modificação dos seus limites originais, exceto pelo acréscimo proposto, pode ser feita por instrumento normativo do mesmo nível hierárquico do que criou a unidade, desde que obedecidos os procedimentos de consulta estabelecidos no § 2o deste artigo.\n\n§ 7o A desafetação ou redução dos limites de uma unidade de conservação só pode ser feita mediante lei específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2022.%20As%20unidades%20de%20conserva%C3%A7%C3%A3o%20s%C3%A3o%20criadas%20por%20ato%20do%20Poder%20P%C3%BAblico.%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. O Poder Público poderá, ressalvadas as atividades agropecuárias e outras atividades econômicas em andamento e obras públicas licenciadas, na forma da lei, decretar limitações administrativas provisórias ao exercício de atividades e empreendimentos efetiva ou potencialmente causadores de degradação ambiental, para a realização de estudos com vistas na criação de Unidade de Conservação, quando, a critério do órgão ambiental competente, houver risco de dano grave aos recursos naturais ali existentes. (Vide Medida Provisória nº 239, de 2005) (Incluído pela Lei nº 11.132, de 2005) (Vide Decreto de 2 de janeiro de 2005)\n\n§ 1o Sem prejuízo da restrição e observada a ressalva constante do caput, na área submetida a limitações administrativas, não serão permitidas atividades que importem em exploração a corte raso da floresta e demais formas de vegetação nativa. (Vide Medida Provisória nº 239, de 2005) (Incluído pela Lei nº 11.132, de 2005)\n\n§ 2o A destinação final da área submetida ao disposto neste artigo será definida no prazo de 7 (sete) meses, improrrogáveis, findo o qual fica extinta a limitação administrativa. (Vide Medida Provisória nº 239, de 2005) (Incluído pela Lei nº 11.132, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2022-A.%20O%20Poder%20P%C3%BAblico%20poder%C3%A1%2C%20ressalvadas%20as%20atividades%20agropecu%C3%A1rias%20e%20outras%20atividades%20econ%C3%B4micas%20em%20andamento%20e%20obras%20p%C3%BAblicas%20licenciadas%2C%20na%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A posse e o uso das áreas ocupadas pelas populações tradicionais nas Reservas Extrativistas e Reservas de Desenvolvimento Sustentável serão regulados por contrato, conforme se dispuser no regulamento desta Lei.\n\n§ 1o As populações de que trata este artigo obrigam-se a participar da preservação, recuperação, defesa e manutenção da unidade de conservação.\n\n§ 2o O uso dos recursos naturais pelas populações de que trata este artigo obedecerá às seguintes normas:\n\nI - proibição do uso de espécies localmente ameaçadas de extinção ou de práticas que danifiquem os seus habitats;\n\nII - proibição de práticas ou atividades que impeçam a regeneração natural dos ecossistemas;\n\nIII - demais normas estabelecidas na legislação, no Plano de Manejo da unidade de conservação e no contrato de concessão de direito real de uso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2023.%20A%20posse%20e%20o%20uso%20das%20%C3%A1reas%20ocupadas%20pelas%20popula%C3%A7%C3%B5es%20tradicionais%20nas%20Reservas%20Extrativistas%20e%20Reservas%20de%20Desenvolvimento%20Sustent%C3%A1vel%20ser%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-A",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O subsolo e o espaço aéreo, sempre que influírem na estabilidade do ecossistema, integram os limites das unidades de conservação. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2024.%20O%20subsolo%20e%20o%20espa%C3%A7o%20a%C3%A9reo%2C%20sempre%20que%20influ%C3%ADrem%20na%20estabilidade%20do%20ecossistema%2C%20integram%20os%20limites%20das%20unidades%20de%20conserva%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As unidades de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, devem possuir uma zona de amortecimento e, quando conveniente, corredores ecológicos.(Regulamento)\n\n§ 1o O órgão responsável pela administração da unidade estabelecerá normas específicas regulamentando a ocupação e o uso dos recursos da zona de amortecimento e dos corredores ecológicos de uma unidade de conservação.\n\n§ 2o Os limites da zona de amortecimento e dos corredores ecológicos e as respectivas normas de que trata o § 1o poderão ser definidas no ato de criação da unidade ou posteriormente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2025.%20As%20unidades%20de%20conserva%C3%A7%C3%A3o%2C%20exceto%20%C3%81rea%20de%20Prote%C3%A7%C3%A3o%20Ambiental%20e%20Reserva%20Particular%20do%20Patrim%C3%B4nio%20Natural%2C%20devem%20possuir%20uma%20zona%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Quando existir um conjunto de unidades de conservação de categorias diferentes ou não, próximas, justapostas ou sobrepostas, e outras áreas protegidas públicas ou privadas, constituindo um mosaico, a gestão do conjunto deverá ser feita de forma integrada e participativa, considerando-se os seus distintos objetivos de conservação, de forma a compatibilizar a presença da biodiversidade, a valorização da sociodiversidade e o desenvolvimento sustentável no contexto regional.(Regulamento)\n\nParágrafo único. O regulamento desta Lei disporá sobre a forma de gestão integrada do conjunto das unidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2026.%20Quando%20existir%20um%20conjunto%20de%20unidades%20de%20conserva%C3%A7%C3%A3o%20de%20categorias%20diferentes%20ou%20n%C3%A3o%2C%20pr%C3%B3ximas%2C%20justapostas%20ou%20sobrepostas%2C%20e%20outras%20%C3%A1reas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As unidades de conservação devem dispor de um Plano de Manejo. (Regulamento)\n\n§ 1o O Plano de Manejo deve abranger a área da unidade de conservação, sua zona de amortecimento e os corredores ecológicos, incluindo medidas com o fim de promover sua integração à vida econômica e social das comunidades vizinhas.\n\n§ 2o Na elaboração, atualização e implementação do Plano de Manejo das Reservas Extrativistas, das Reservas de Desenvolvimento Sustentável, das Áreas de Proteção Ambiental e, quando couber, das Florestas Nacionais e das Áreas de Relevante Interesse Ecológico, será assegurada a ampla participação da população residente.\n\n§ 3o O Plano de Manejo de uma unidade de conservação deve ser elaborado no prazo de cinco anos a partir da data de sua criação.\n\n§ 4o O Plano de Manejo poderá dispor sobre as atividades de liberação planejada e cultivo de organismos geneticamente modificados nas Áreas de Proteção Ambiental e nas zonas de amortecimento das demais categorias de unidade de conservação, observadas as informações contidas na decisão técnica da Comissão Técnica Nacional de Biossegurança - CTNBio sobre: (Incluído pela Medida Provisória nº 327, de 2006\n\nI - o registro de ocorrência de ancestrais diretos e parentes silvestres; (Incluído pela Medida Provisória nº 327, de 2006\n\nII - as características de reprodução, dispersão e sobrevivência do organismo geneticamente modificado; (Incluído pela Medida Provisória nº 327, de 2006\n\nIII - o isolamento reprodutivo do organismo geneticamente modificado em relação aos seus ancestrais diretos e parentes silvestres; e (Incluído pela Medida Provisória nº 327, de 2006\n\nIV - situações de risco do organismo geneticamente modificado à biodiversidade. (Incluído pela Medida Provisória nº 327, de 2006\n\n§ 4o O Plano de Manejo poderá dispor sobre as atividades de liberação planejada e cultivo de organismos geneticamente modificados nas Áreas de Proteção Ambiental e nas zonas de amortecimento das demais categorias de unidade de conservação, observadas as informações contidas na decisão técnica da Comissão Técnica Nacional de Biossegurança - CTNBio sobre: (Incluído pela Lei nº 11.460, de 2007)\n\nI - o registro de ocorrência de ancestrais diretos e parentes silvestres; (Incluído pela Lei nº 11.460, de 2007)\n\nII - as características de reprodução, dispersão e sobrevivência do organismo geneticamente modificado; (Incluído pela Lei nº 11.460, de 2007)\n\nIII - o isolamento reprodutivo do organismo geneticamente modificado em relação aos seus ancestrais diretos e parentes silvestres; e (Incluído pela Lei nº 11.460, de 2007)\n\nIV - situações de risco do organismo geneticamente modificado à biodiversidade. (Incluído pela Lei nº 11.460, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2027.%20As%20unidades%20de%20conserva%C3%A7%C3%A3o%20devem%20dispor%20de%20um%20Plano%20de%20Manejo.%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. São proibidas, nas unidades de conservação, quaisquer alterações, atividades ou modalidades de utilização em desacordo com os seus objetivos, o seu Plano de Manejo e seus regulamentos.\n\nParágrafo único. Até que seja elaborado o Plano de Manejo, todas as atividades e obras desenvolvidas nas unidades de conservação de proteção integral devem se limitar àquelas destinadas a garantir a integridade dos recursos que a unidade objetiva proteger, assegurando-se às populações tradicionais porventura residentes na área as condições e os meios necessários para a satisfação de suas necessidades materiais, sociais e culturais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2028.%20S%C3%A3o%20proibidas%2C%20nas%20unidades%20de%20conserva%C3%A7%C3%A3o%2C%20quaisquer%20altera%C3%A7%C3%B5es%2C%20atividades%20ou%20modalidades%20de%20utiliza%C3%A7%C3%A3o%20em%20desacordo%20com%20os%20seus%20objetivos%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Cada unidade de conservação do grupo de Proteção Integral disporá de um Conselho Consultivo, presidido pelo órgão responsável por sua administração e constituído por representantes de órgãos públicos, de organizações da sociedade civil, por proprietários de terras localizadas em Refúgio de Vida Silvestre ou Monumento Natural, quando for o caso, e, na hipótese prevista no § 2o do art. 42, das populações tradicionais residentes, conforme se dispuser em regulamento e no ato de criação da unidade.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2029.%20Cada%20unidade%20de%20conserva%C3%A7%C3%A3o%20do%20grupo%20de%20Prote%C3%A7%C3%A3o%20Integral%20dispor%C3%A1%20de%20um%20Conselho%20Consultivo%2C%20presidido%20pelo%20%C3%B3rg%C3%A3o%20respons%C3%A1vel%20por%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As unidades de conservação podem ser geridas por organizações da sociedade civil de interesse público com objetivos afins aos da unidade, mediante instrumento a ser firmado com o órgão responsável por sua gestão.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2030.%20As%20unidades%20de%20conserva%C3%A7%C3%A3o%20podem%20ser%20geridas%20por%20organiza%C3%A7%C3%B5es%20da%20sociedade%20civil%20de%20interesse%20p%C3%BAblico%20com%20objetivos%20afins%20aos%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. É proibida a introdução nas unidades de conservação de espécies não autóctones.\n\n§ 1o Excetuam-se do disposto neste artigo as Áreas de Proteção Ambiental, as Florestas Nacionais, as Reservas Extrativistas e as Reservas de Desenvolvimento Sustentável, bem como os animais e plantas necessários à administração e às atividades das demais categorias de unidades de conservação, de acordo com o que se dispuser em regulamento e no Plano de Manejo da unidade.\n\n§ 2o Nas áreas particulares localizadas em Refúgios de Vida Silvestre e Monumentos Naturais podem ser criados animais domésticos e cultivadas plantas considerados compatíveis com as finalidades da unidade, de acordo com o que dispuser o seu Plano de Manejo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2031.%20%C3%89%20proibida%20a%20introdu%C3%A7%C3%A3o%20nas%20unidades%20de%20conserva%C3%A7%C3%A3o%20de%20esp%C3%A9cies%20n%C3%A3o%20aut%C3%B3ctones.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Os órgãos executores articular-se-ão com a comunidade científica com o propósito de incentivar o desenvolvimento de pesquisas sobre a fauna, a flora e a ecologia das unidades de conservação e sobre formas de uso sustentável dos recursos naturais, valorizando-se o conhecimento das populações tradicionais.\n\n§ 1o As pesquisas científicas nas unidades de conservação não podem colocar em risco a sobrevivência das espécies integrantes dos ecossistemas protegidos.\n\n§ 2o A realização de pesquisas científicas nas unidades de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, depende de aprovação prévia e está sujeita à fiscalização do órgão responsável por sua administração.\n\n§ 3o Os órgãos competentes podem transferir para as instituições de pesquisa nacionais, mediante acordo, a atribuição de aprovar a realização de pesquisas científicas e de credenciar pesquisadores para trabalharem nas unidades de conservação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2032.%20Os%20%C3%B3rg%C3%A3os%20executores%20articular-se-%C3%A3o%20com%20a%20comunidade%20cient%C3%ADfica%20com%20o%20prop%C3%B3sito%20de%20incentivar%20o%20desenvolvimento%20de%20pesquisas%20sobre%20a%20fauna%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A exploração comercial de produtos, subprodutos ou serviços obtidos ou desenvolvidos a partir dos recursos naturais, biológicos, cênicos ou culturais ou da exploração da imagem de unidade de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, dependerá de prévia autorização e sujeitará o explorador a pagamento, conforme disposto em regulamento.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2033.%20A%20explora%C3%A7%C3%A3o%20comercial%20de%20produtos%2C%20subprodutos%20ou%20servi%C3%A7os%20obtidos%20ou%20desenvolvidos%20a%20partir%20dos%20recursos%20naturais%2C%20biol%C3%B3gicos%2C%20c%C3%AAnicos%20ou%20culturais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os órgãos responsáveis pela administração das unidades de conservação podem receber recursos ou doações de qualquer natureza, nacionais ou internacionais, com ou sem encargos, provenientes de organizações privadas ou públicas ou de pessoas físicas que desejarem colaborar com a sua conservação.\n\nParágrafo único. A administração dos recursos obtidos cabe ao órgão gestor da unidade, e estes serão utilizados exclusivamente na sua implantação, gestão e manutenção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2034.%20Os%20%C3%B3rg%C3%A3os%20respons%C3%A1veis%20pela%20administra%C3%A7%C3%A3o%20das%20unidades%20de%20conserva%C3%A7%C3%A3o%20podem%20receber%20recursos%20ou%20doa%C3%A7%C3%B5es%20de%20qualquer%20natureza%2C%20nacionais%20ou%20internacionais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os recursos obtidos pelas unidades de conservação do Grupo de Proteção Integral mediante a cobrança de taxa de visitação e outras rendas decorrentes de arrecadação, serviços e atividades da própria unidade serão aplicados de acordo com os seguintes critérios:\n\nI - até cinqüenta por cento, e não menos que vinte e cinco por cento, na implementação, manutenção e gestão da própria unidade;\n\nII - até cinqüenta por cento, e não menos que vinte e cinco por cento, na regularização fundiária das unidades de conservação do Grupo;\n\nIII - até cinqüenta por cento, e não menos que quinze por cento, na implementação, manutenção e gestão de outras unidades de conservação do Grupo de Proteção Integral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2035.%20Os%20recursos%20obtidos%20pelas%20unidades%20de%20conserva%C3%A7%C3%A3o%20do%20Grupo%20de%20Prote%C3%A7%C3%A3o%20Integral%20mediante%20a%20cobran%C3%A7a%20de%20taxa%20de%20visita%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Nos casos de licenciamento ambiental de empreendimentos de significativo impacto ambiental, assim considerado pelo órgão ambiental competente, com fundamento em estudo de impacto ambiental e respectivo relatório - EIA/RIMA, o empreendedor é obrigado a apoiar a implantação e manutenção de unidade de conservação do Grupo de Proteção Integral, de acordo com o disposto neste artigo e no regulamento desta Lei.(Regulamento)\n\n§ 1o O montante de recursos a ser destinado pelo empreendedor para esta finalidade não pode ser inferior a meio por cento dos custos totais previstos para a implantação do empreendimento, sendo o percentual fixado pelo órgão ambiental licenciador, de acordo com o grau de impacto ambiental causado pelo empreendimento. (Vide ADIN nº 3.378-6, de 2008)\n\n§ 2o Ao órgão ambiental licenciador compete definir as unidades de conservação a serem beneficiadas, considerando as propostas apresentadas no EIA/RIMA e ouvido o empreendedor, podendo inclusive ser contemplada a criação de novas unidades de conservação.\n\n§ 3o Quando o empreendimento afetar unidade de conservação específica ou sua zona de amortecimento, o licenciamento a que se refere o caput deste artigo só poderá ser concedido mediante autorização do órgão responsável por sua administração, e a unidade afetada, mesmo que não pertencente ao Grupo de Proteção Integral, deverá ser uma das beneficiárias da compensação definida neste artigo.\n\n§ 3º Quando o empreendimento afetar unidade de conservação específica ou sua zona de amortecimento, a unidade afetada, mesmo que não pertencente ao Grupo de Proteção Integral, deverá ser uma das beneficiárias da compensação definida neste artigo. (Redação dada pela Lei nº 15.190, de 2025) Vigência\n\n§ 4º A obrigação de que trata o caput deste artigo poderá, em virtude do interesse público, ser cumprida em unidades de conservação de posse e domínio públicos do grupo de Uso Sustentável, especialmente as localizadas na Amazônia Legal. (Incluído pela Lei nº 13.668, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2036.%20Nos%20casos%20de%20licenciamento%20ambiental%20de%20empreendimentos%20de%20significativo%20impacto%20ambiental%2C%20assim%20considerado%20pelo%20%C3%B3rg%C3%A3o%20ambiental%20competente%2C%20com%20fundamento%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2037.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS INCENTIVOS, ISENÇÕES E PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A ação ou omissão das pessoas físicas ou jurídicas que importem inobservância aos preceitos desta Lei e a seus regulamentos ou resultem em dano à flora, à fauna e aos demais atributos naturais das unidades de conservação, bem como às suas instalações e às zonas de amortecimento e corredores ecológicos, sujeitam os infratores às sanções previstas em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2038.%20A%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20das%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%20que%20importem%20inobserv%C3%A2ncia%20aos%20preceitos%20desta%20Lei%20e%20a%20seus%20regulamentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS INCENTIVOS, ISENÇÕES E PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Dê-se ao art. 40 da Lei no 9.605, de 12 de fevereiro de 1998, a seguinte redação:\n\n\"Art. 40. (VETADO)\n\n\"§ 1o Entende-se por Unidades de Conservação de Proteção Integral as Estações Ecológicas, as Reservas Biológicas, os Parques Nacionais, os Monumentos Naturais e os Refúgios de Vida Silvestre.\" (NR)\n\n\"§ 2o A ocorrência de dano afetando espécies ameaçadas de extinção no interior das Unidades de Conservação de Proteção Integral será considerada circunstância agravante para a fixação da pena.\" (NR)\n\n\"§ 3o ....................................................................\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2039.%20D%C3%AA-se%20ao%20art.%2040%20da%20Lei%20no%209.605%2C%20de%2012%20de%20fevereiro%20de%201998%2C%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS INCENTIVOS, ISENÇÕES E PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Acrescente-se à Lei no 9.605, de 1998, o seguinte art. 40-A:\n\n\"Art. 40-A. (VETADO)\n\n\"§ 1o Entende-se por Unidades de Conservação de Uso Sustentável as Áreas de Proteção Ambiental, as Áreas de Relevante Interesse Ecológico, as Florestas Nacionais, as Reservas Extrativistas, as Reservas de Fauna, as Reservas de Desenvolvimento Sustentável e as Reservas Particulares do Patrimônio Natural.\" (AC)\n\n\"§ 2o A ocorrência de dano afetando espécies ameaçadas de extinção no interior das Unidades de Conservação de Uso Sustentável será considerada circunstância agravante para a fixação da pena.\" (AC)\n\n\"§ 3o Se o crime for culposo, a pena será reduzida à metade.\" (AC)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2040.%20Acrescente-se%20%C3%A0%20Lei%20no%209.605%2C%20de%201998%2C%20o%20seguinte%20art.%2040-A%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS INCENTIVOS, ISENÇÕES E PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A Reserva da Biosfera é um modelo, adotado internacionalmente, de gestão integrada, participativa e sustentável dos recursos naturais, com os objetivos básicos de preservação da diversidade biológica, o desenvolvimento de atividades de pesquisa, o monitoramento ambiental, a educação ambiental, o desenvolvimento sustentável e a melhoria da qualidade de vida das populações.(Regulamento)\n\n§ 1o A Reserva da Biosfera é constituída por:\n\nI - uma ou várias áreas-núcleo, destinadas à proteção integral da natureza;\n\nII - uma ou várias zonas de amortecimento, onde só são admitidas atividades que não resultem em dano para as áreas-núcleo; e\n\nIII - uma ou várias zonas de transição, sem limites rígidos, onde o processo de ocupação e o manejo dos recursos naturais são planejados e conduzidos de modo participativo e em bases sustentáveis.\n\n§ 2o A Reserva da Biosfera é constituída por áreas de domínio público ou privado.\n\n§ 3o A Reserva da Biosfera pode ser integrada por unidades de conservação já criadas pelo Poder Público, respeitadas as normas legais que disciplinam o manejo de cada categoria específica.\n\n§ 4o A Reserva da Biosfera é gerida por um Conselho Deliberativo, formado por representantes de instituições públicas, de organizações da sociedade civil e da população residente, conforme se dispuser em regulamento e no ato de constituição da unidade.\n\n§ 5o A Reserva da Biosfera é reconhecida pelo Programa Intergovernamental \"O Homem e a Biosfera – MAB\", estabelecido pela Unesco, organização da qual o Brasil é membro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2041.%20A%20Reserva%20da%20Biosfera%20%C3%A9%20um%20modelo%2C%20adotado%20internacionalmente%2C%20de%20gest%C3%A3o%20integrada%2C%20participativa%20e%20sustent%C3%A1vel%20dos%20recursos%20naturais%2C%20com%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DAS RESERVAS DA BIOSFERA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. As populações tradicionais residentes em unidades de conservação nas quais sua permanência não seja permitida serão indenizadas ou compensadas pelas benfeitorias existentes e devidamente realocadas pelo Poder Público, em local e condições acordados entre as partes.(Regulamento)\n\n§ 1o O Poder Público, por meio do órgão competente, priorizará o reassentamento das populações tradicionais a serem realocadas.\n\n§ 2o Até que seja possível efetuar o reassentamento de que trata este artigo, serão estabelecidas normas e ações específicas destinadas a compatibilizar a presença das populações tradicionais residentes com os objetivos da unidade, sem prejuízo dos modos de vida, das fontes de subsistência e dos locais de moradia destas populações, assegurando-se a sua participação na elaboração das referidas normas e ações.\n\n§ 3o Na hipótese prevista no § 2o, as normas regulando o prazo de permanência e suas condições serão estabelecidas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2042.%20As%20popula%C3%A7%C3%B5es%20tradicionais%20residentes%20em%20unidades%20de%20conserva%C3%A7%C3%A3o%20nas%20quais%20sua%20perman%C3%AAncia%20n%C3%A3o%20seja%20permitida%20ser%C3%A3o%20indenizadas%20ou%20compensadas%20pelas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O Poder Público fará o levantamento nacional das terras devolutas, com o objetivo de definir áreas destinadas à conservação da natureza, no prazo de cinco anos após a publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2043.%20O%20Poder%20P%C3%BAblico%20far%C3%A1%20o%20levantamento%20nacional%20das%20terras%20devolutas%2C%20com%20o%20objetivo%20de%20definir%20%C3%A1reas%20destinadas%20%C3%A0%20conserva%C3%A7%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As ilhas oceânicas e costeiras destinam-se prioritariamente à proteção da natureza e sua destinação para fins diversos deve ser precedida de autorização do órgão ambiental competente.\n\nParágrafo único. Estão dispensados da autorização citada no caput os órgãos que se utilizam das citadas ilhas por força de dispositivos legais ou quando decorrente de compromissos legais assumidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2044.%20As%20ilhas%20oce%C3%A2nicas%20e%20costeiras%20destinam-se%20prioritariamente%20%C3%A0%20prote%C3%A7%C3%A3o%20da%20natureza%20e%20sua%20destina%C3%A7%C3%A3o%20para%20fins%20diversos%20deve%20ser%20precedida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Excluem-se das indenizações referentes à regularização fundiária das unidades de conservação, derivadas ou não de desapropriação:\n\nI - (VETADO)\n\nII - (VETADO)\n\nIII - as espécies arbóreas declaradas imunes de corte pelo Poder Público;\n\nIV - expectativas de ganhos e lucro cessante;\n\nV - o resultado de cálculo efetuado mediante a operação de juros compostos;\n\nVI - as áreas que não tenham prova de domínio inequívoco e anterior à criação da unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2045.%20Excluem-se%20das%20indeniza%C3%A7%C3%B5es%20referentes%20%C3%A0%20regulariza%C3%A7%C3%A3o%20fundi%C3%A1ria%20das%20unidades%20de%20conserva%C3%A7%C3%A3o%2C%20derivadas%20ou%20n%C3%A3o%20de%20desapropria%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A instalação de redes de abastecimento de água, esgoto, energia e infra-estrutura urbana em geral, em unidades de conservação onde estes equipamentos são admitidos depende de prévia aprovação do órgão responsável por sua administração, sem prejuízo da necessidade de elaboração de estudos de impacto ambiental e outras exigências legais.\n\nParágrafo único. Esta mesma condição se aplica à zona de amortecimento das unidades do Grupo de Proteção Integral, bem como às áreas de propriedade privada inseridas nos limites dessas unidades e ainda não indenizadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2046.%20A%20instala%C3%A7%C3%A3o%20de%20redes%20de%20abastecimento%20de%20%C3%A1gua%2C%20esgoto%2C%20energia%20e%20infra-estrutura%20urbana%20em%20geral%2C%20em%20unidades%20de%20conserva%C3%A7%C3%A3o%20onde",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O órgão ou empresa, público ou privado, responsável pelo abastecimento de água ou que faça uso de recursos hídricos, beneficiário da proteção proporcionada por uma unidade de conservação, deve contribuir financeiramente para a proteção e implementação da unidade, de acordo com o disposto em regulamentação específica.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2047.%20O%20%C3%B3rg%C3%A3o%20ou%20empresa%2C%20p%C3%BAblico%20ou%20privado%2C%20respons%C3%A1vel%20pelo%20abastecimento%20de%20%C3%A1gua%20ou%20que%20fa%C3%A7a%20uso%20de%20recursos%20h%C3%ADdricos%2C%20benefici%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. O órgão ou empresa, público ou privado, responsável pela geração e distribuição de energia elétrica, beneficiário da proteção oferecida por uma unidade de conservação, deve contribuir financeiramente para a proteção e implementação da unidade, de acordo com o disposto em regulamentação específica.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2048.%20O%20%C3%B3rg%C3%A3o%20ou%20empresa%2C%20p%C3%BAblico%20ou%20privado%2C%20respons%C3%A1vel%20pela%20gera%C3%A7%C3%A3o%20e%20distribui%C3%A7%C3%A3o%20de%20energia%20el%C3%A9trica%2C%20benefici%C3%A1rio%20da%20prote%C3%A7%C3%A3o%20oferecida%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A área de uma unidade de conservação do Grupo de Proteção Integral é considerada zona rural, para os efeitos legais.\n\nParágrafo único. A zona de amortecimento das unidades de conservação de que trata este artigo, uma vez definida formalmente, não pode ser transformada em zona urbana.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2049.%20A%20%C3%A1rea%20de%20uma%20unidade%20de%20conserva%C3%A7%C3%A3o%20do%20Grupo%20de%20Prote%C3%A7%C3%A3o%20Integral%20%C3%A9%20considerada%20zona%20rural%2C%20para%20os%20efeitos%20legais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. O Ministério do Meio Ambiente organizará e manterá um Cadastro Nacional de Unidades de Conservação, com a colaboração do Ibama e dos órgãos estaduais e municipais competentes.\n\n§ 1o O Cadastro a que se refere este artigo conterá os dados principais de cada unidade de conservação, incluindo, dentre outras características relevantes, informações sobre espécies ameaçadas de extinção, situação fundiária, recursos hídricos, clima, solos e aspectos socioculturais e antropológicos.\n\n§ 2o O Ministério do Meio Ambiente divulgará e colocará à disposição do público interessado os dados constantes do Cadastro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2050.%20O%20Minist%C3%A9rio%20do%20Meio%20Ambiente%20organizar%C3%A1%20e%20manter%C3%A1%20um%20Cadastro%20Nacional%20de%20Unidades%20de%20Conserva%C3%A7%C3%A3o%2C%20com%20a%20colabora%C3%A7%C3%A3o%20do%20Ibama",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O Poder Executivo Federal submeterá à apreciação do Congresso Nacional, a cada dois anos, um relatório de avaliação global da situação das unidades de conservação federais do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2051.%20O%20Poder%20Executivo%20Federal%20submeter%C3%A1%20%C3%A0%20aprecia%C3%A7%C3%A3o%20do%20Congresso%20Nacional%2C%20a%20cada%20dois%20anos%2C%20um%20relat%C3%B3rio%20de%20avalia%C3%A7%C3%A3o%20global%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Os mapas e cartas oficiais devem indicar as áreas que compõem o SNUC.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2052.%20Os%20mapas%20e%20cartas%20oficiais%20devem%20indicar%20as%20%C3%A1reas%20que%20comp%C3%B5em%20o%20SNUC.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O Ibama elaborará e divulgará periodicamente uma relação revista e atualizada das espécies da flora e da fauna ameaçadas de extinção no território brasileiro.\n\nParágrafo único. O Ibama incentivará os competentes órgãos estaduais e municipais a elaborarem relações equivalentes abrangendo suas respectivas áreas de jurisdição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2053.%20O%20Ibama%20elaborar%C3%A1%20e%20divulgar%C3%A1%20periodicamente%20uma%20rela%C3%A7%C3%A3o%20revista%20e%20atualizada%20das%20esp%C3%A9cies%20da%20flora%20e%20da%20fauna%20amea%C3%A7adas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. O Ibama, excepcionalmente, pode permitir a captura de exemplares de espécies ameaçadas de extinção destinadas a programas de criação em cativeiro ou formação de coleções científicas, de acordo com o disposto nesta Lei e em regulamentação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2054.%20O%20Ibama%2C%20excepcionalmente%2C%20pode%20permitir%20a%20captura%20de%20exemplares%20de%20esp%C3%A9cies%20amea%C3%A7adas%20de%20extin%C3%A7%C3%A3o%20destinadas%20a%20programas%20de%20cria%C3%A7%C3%A3o%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. As unidades de conservação e áreas protegidas criadas com base nas legislações anteriores e que não pertençam às categorias previstas nesta Lei serão reavaliadas, no todo ou em parte, no prazo de até dois anos, com o objetivo de definir sua destinação com base na categoria e função para as quais foram criadas, conforme o disposto no regulamento desta Lei. (Regulamento) (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2055.%20As%20unidades%20de%20conserva%C3%A7%C3%A3o%20e%20%C3%A1reas%20protegidas%20criadas%20com%20base%20nas%20legisla%C3%A7%C3%B5es%20anteriores%20e%20que%20n%C3%A3o%20perten%C3%A7am%20%C3%A0s%20categorias%20previstas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2056.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Os órgãos federais responsáveis pela execução das políticas ambiental e indigenista deverão instituir grupos de trabalho para, no prazo de cento e oitenta dias a partir da vigência desta Lei, propor as diretrizes a serem adotadas com vistas à regularização das eventuais superposições entre áreas indígenas e unidades de conservação.\n\nParágrafo único. No ato de criação dos grupos de trabalho serão fixados os participantes, bem como a estratégia de ação e a abrangência dos trabalhos, garantida a participação das comunidades envolvidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2057.%20Os%20%C3%B3rg%C3%A3os%20federais%20respons%C3%A1veis%20pela%20execu%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20ambiental%20e%20indigenista%20dever%C3%A3o%20instituir%20grupos%20de%20trabalho%20para%2C%20no%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "57-A"
+    },
+    "57-A": {
+      "numero": "57-A",
+      "texto": "Art. 57-A. O Poder Executivo estabelecerá os limites para o plantio de organismos geneticamente modificados nas áreas que circundam as unidades de conservação, até que seja fixada sua zona de amortecimento e aprovado o seu respectivo Plano de Manejo. (Incluído pela Medida Provisória nº 327, de 2006)\n\nParágrafo único. O disposto no caput não se aplica às Áreas de Proteção Ambiental e Reservas de Particulares do Patrimônio Natural. (Incluído pela Medida Provisória nº 327, de 2006)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2057-A.%20O%20Poder%20Executivo%20estabelecer%C3%A1%20os%20limites%20para%20o%20plantio%20de%20organismos%20geneticamente%20modificados%20nas%20%C3%A1reas%20que%20circundam%20as%20unidades%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. O Poder Executivo regulamentará esta Lei, no que for necessário à sua aplicação, no prazo de cento e oitenta dias a partir da data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2058.%20O%20Poder%20Executivo%20regulamentar%C3%A1%20esta%20Lei%2C%20no%20que%20for%20necess%C3%A1rio%20%C3%A0%20sua%20aplica%C3%A7%C3%A3o%2C%20no%20prazo%20de%20cento%20e%20oitenta%20dias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57-A",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2059.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Revogam-se os arts. 5o e 6o da Lei no 4.771, de 15 de setembro de 1965; o art. 5o da Lei no 5.197, de 3 de janeiro de 1967; e o art. 18 da Lei no 6.938, de 31 de agosto de 1981.\n\nBrasília, 18 de julho de 2000; 179o da Independência e 112o da República.\n\nMARCO ANTONIO DE OLIVEIRA MACIEL José Sarney Filho\n\nEste texto não substitui o publicado no DOU de 19.7.2000\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=Art.%2060.%20Revogam-se%20os%20arts.%205o%20e%206o%20da%20Lei%20no%204.771%2C%20de%2015%20de%20setembro%20de%201965%3B%20o%20art.%205o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,943 @@
+{
+  "_meta": {
+    "codigo": "L14113",
+    "nome": "FUNDEB (permanente)",
+    "lei": "Lei 14.113/2020",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm",
+    "total_artigos": 58,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Fica instituído, no âmbito de cada Estado e do Distrito Federal, um Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), de natureza contábil, nos termos do art. 212-A da Constituição Federal.\n\nParágrafo único. A instituição dos Fundos previstos no caput deste artigo e a aplicação de seus recursos não isentam os Estados, o Distrito Federal e os Municípios da obrigatoriedade da aplicação na manutenção e no desenvolvimento do ensino, na forma prevista no art. 212 da Constituição Federal e no inciso VI do caput e parágrafo único do art. 10 e no inciso V do caput do art. 11 da Lei nº 9.394, de 20 de dezembro de 1996 , de:\n\nI - pelo menos 5% (cinco por cento) do montante dos impostos e transferências que compõem a cesta de recursos do Fundeb, a que se referem os incisos I, II, III, IV, V, VI, VII, VIII e IX do caput e o § 1º do art. 3º desta Lei, de modo que os recursos previstos no art. 3º desta Lei somados aos referidos neste inciso garantam a aplicação do mínimo de 25% (vinte e cinco por cento) desses impostos e transferências em favor da manutenção e do desenvolvimento do ensino;\n\nII - pelo menos 25% (vinte e cinco por cento) dos demais impostos e transferências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%201%C2%BA%20Fica%20institu%C3%ADdo%2C%20no%20%C3%A2mbito%20de%20cada%20Estado%20e%20do%20Distrito%20Federal%2C%20um%20Fundo%20de%20Manuten%C3%A7%C3%A3o%20e%20Desenvolvimento%20da%20Educa%C3%A7%C3%A3o%20B%C3%A1sica",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os Fundos destinam-se à manutenção e ao desenvolvimento da educação básica pública e à valorização dos profissionais da educação, incluída sua condigna remuneração, observado o disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%202%C2%BA%20Os%20Fundos%20destinam-se%20%C3%A0%20manuten%C3%A7%C3%A3o%20e%20ao%20desenvolvimento%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20p%C3%BAblica%20e%20%C3%A0%20valoriza%C3%A7%C3%A3o%20dos%20profissionais%20da%20educa%C3%A7%C3%A3o%2C%20inclu%C3%ADda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Os Fundos, no âmbito de cada Estado e do Distrito Federal, são compostos por 20% (vinte por cento) das seguintes fontes de receita:\n\nI - Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCD) previsto no inciso I do caput do art. 155 da Constituição Federal;\n\nII - Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicação (ICMS) previsto no inciso II do caput do art. 155 combinado com o inciso IV do caput do art. 158 da Constituição Federal;\n\nIII - Imposto sobre a Propriedade de Veículos Automotores (IPVA) previsto no inciso III do caput do art. 155 combinado com o inciso III do caput do art. 158 da Constituição Federal;\n\nIV - parcela do produto da arrecadação do imposto que a União eventualmente instituir no exercício da competência que lhe é atribuída pelo inciso I do caput do art. 154 da Constituição Federal , prevista no inciso II do caput do art. 157 da Constituição Federal;\n\nV - parcela do produto da arrecadação do Imposto sobre a Propriedade Territorial Rural (ITR), relativamente a imóveis situados nos Municípios, prevista no inciso II do caput do art. 158 da Constituição Federal;\n\nVI - parcela do produto da arrecadação do Imposto sobre a Renda e Proventos de Qualquer Natureza e do Imposto sobre Produtos Industrializados (IPI) devida ao Fundo de Participação dos Estados e do Distrito Federal (FPE), prevista na alínea a do inciso I do caput do art. 159 da Constituição Federal e na Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional);\n\nVII - parcela do produto da arrecadação do Imposto sobre a Renda e Proventos de Qualquer Natureza e do IPI devida ao Fundo de Participação dos Municípios (FPM), prevista na alínea b do inciso I do caput do art. 159 da Constituição Federal e na Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional);\n\nVIII - parcela do produto da arrecadação do IPI devida aos Estados e ao Distrito Federal, prevista no inciso II do caput do art. 159 da Constituição Federal e na Lei Complementar nº 61, de 26 de dezembro de 1989;\n\nIX - receitas da dívida ativa tributária relativa aos impostos previstos neste artigo, bem como juros e multas eventualmente incidentes.\n\nX - parcela do produto da arrecadação do Imposto sobre Bens e Serviços (IBS) devida aos Estados e ao Distrito Federal no exercício de sua competência estadual, prevista no art. 156-A, combinado com a alínea “b” do inciso IV do caput do art. 158, ambos da Constituição Federal. (Incluído pela Lei Complementar nº 227, de 2026)\n\n§ 1º Inclui-se ainda na base de cálculo dos recursos referidos nos incisos I a IX do caput deste artigo o adicional na alíquota do ICMS de que trata o § 1º do art. 82 do Ato das Disposições Constitucionais Transitórias.\n\n§ 2º Além dos recursos mencionados nos incisos I a IX do caput e no § 1º deste artigo, os Fundos contarão com a complementação da União, nos termos da Seção II deste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%203%C2%BA%20Os%20Fundos%2C%20no%20%C3%A2mbito%20de%20cada%20Estado%20e%20do%20Distrito%20Federal%2C%20s%C3%A3o%20compostos%20por%2020%25%20%28vinte%20por%20cento%29%20das%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A União complementará os recursos dos Fundos a que se refere o art. 3º desta Lei, conforme disposto nesta Lei.\n\n§ 1º A complementação da União destina-se exclusivamente a assegurar recursos financeiros aos Fundos, aplicando-se o disposto no caput do art. 160 da Constituição Federal.\n\n§ 2º É vedada a utilização dos recursos oriundos da arrecadação da contribuição social do salário-educação a que se refere o § 5º do art. 212 da Constituição Federal na complementação da União aos Fundos.\n\n§ 3º A União poderá utilizar, no máximo, 30% (trinta por cento) do valor de complementação ao Fundeb previsto no caput deste artigo para cumprimento da aplicação mínima na manutenção e no desenvolvimento do ensino estabelecida no art. 212 da Constituição Federal.\n\n§ 4º O não cumprimento do disposto neste artigo importará em crime de responsabilidade da autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%204%C2%BA%20A%20Uni%C3%A3o%20complementar%C3%A1%20os%20recursos%20dos%20Fundos%20a%20que%20se%20refere%20o%20art.%203%C2%BA%20desta%20Lei%2C%20conforme%20disposto%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A complementação da União será equivalente a, no mínimo, 23% (vinte e três por cento) do total de recursos a que se refere o art. 3º desta Lei, nas seguintes modalidades:\n\nI - complementação-VAAF: 10 (dez) pontos percentuais no âmbito de cada Estado e do Distrito Federal, sempre que o valor anual por aluno (VAAF), nos termos da alínea a do inciso I do caput do art. 6º desta Lei não alcançar o mínimo definido nacionalmente;\n\nII - complementação-VAAT: no mínimo, 10,5 (dez inteiros e cinco décimos) pontos percentuais, em cada rede pública de ensino municipal, estadual ou distrital, sempre que o valor anual total por aluno (VAAT), nos termos da alínea a do inciso II do caput do art. 6º desta Lei não alcançar o mínimo definido nacionalmente;\n\nIII - complementação-VAAR: 2,5 (dois inteiros e cinco décimos) pontos percentuais nas redes públicas que, cumpridas condicionalidades de melhoria de gestão, alcançarem evolução de indicadores a serem definidos, de atendimento e de melhoria da aprendizagem com redução das desigualdades, nos termos do sistema nacional de avaliação da educação básica, conforme disposto no art. 14 desta Lei.\n\nParágrafo único. A complementação da União, nas modalidades especificadas, a ser distribuída em determinado exercício financeiro, será calculada considerando-se as receitas totais dos Fundos do mesmo exercício.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%205%C2%BA%20A%20complementa%C3%A7%C3%A3o%20da%20Uni%C3%A3o%20ser%C3%A1%20equivalente%20a%2C%20no%20m%C3%ADnimo%2C%2023%25%20%28vinte%20e%20tr%C3%AAs%20por%20cento%29%20do%20total%20de%20recursos%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Para os fins do disposto nesta Lei, considera-se, na forma do seu Anexo:\n\nI - valor anual por aluno (VAAF):\n\na) decorrente da distribuição de recursos que compõem os Fundos, no âmbito de cada Estado e do Distrito Federal: a razão entre os recursos recebidos relativos às receitas definidas no art. 3º desta Lei e o número de alunos matriculados nas respectivas redes de ensino, nos termos do art. 8º desta Lei;\n\nb) decorrente da distribuição de recursos de que trata a complementação-VAAF: a razão entre os recursos recebidos relativos às receitas definidas no art. 3º e no inciso I do caput do art. 5º desta Lei e o número de alunos matriculados nas respectivas redes de ensino, nos termos do art. 8º desta Lei;\n\nII - valor anual total por aluno (VAAT):\n\na) apurado após distribuição da complementação-VAAF e antes da distribuição da complementação-VAAT: a razão entre os recursos recebidos relativos às receitas definidas no art. 3º e no inciso I do caput do art. 5º desta Lei, acrescidas das disponibilidades previstas no § 3º do art. 13 desta Lei e o número de alunos matriculados nas respectivas redes de ensino, nos termos do art. 8º desta Lei;\n\nb) decorrente da distribuição de recursos após complementação-VAAT: a razão entre os recursos recebidos relativos às receitas definidas no art. 3º e nos incisos I e II do caput do art. 5º desta Lei, acrescidas das disponibilidades previstas no § 3º do art. 13 desta Lei e o número de alunos matriculados nas respectivas redes de ensino, nos termos do art. 8º desta Lei;\n\nIII - valor anual por aluno (VAAR) decorrente da complementação-VAAR: a razão entre os recursos recebidos relativos às receitas definidas no inciso III do caput do art. 5º desta Lei e o número de alunos matriculados nas respectivas redes de ensino, nos termos do art. 8º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%206%C2%BA%20Para%20os%20fins%20do%20disposto%20nesta%20Lei%2C%20considera-se%2C%20na%20forma%20do%20seu%20Anexo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A distribuição de recursos que compõem os Fundos, nos termos do art. 3º desta Lei, no âmbito de cada Estado e do Distrito Federal e da complementação da União, conforme o art. 5º desta Lei, dar-se-á, na forma do Anexo desta Lei, em função do número de alunos matriculados nas respectivas redes de educação básica pública presencial, observadas as diferenças e as ponderações quanto ao valor anual por aluno (VAAF, VAAT ou VAAR) entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino e consideradas as respectivas especificidades e os insumos necessários para a garantia de sua qualidade, bem como o disposto no art. 10 desta Lei.\n\n§ 1º A ponderação entre diferentes etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino adotará como referência o fator 1 (um) para os anos iniciais do ensino fundamental urbano.\n\n§ 2º O direito à educação infantil será assegurado às crianças até o término do ano letivo em que completarem 6 (seis) anos de idade.\n\n§ 3º Admitir-se-á, para efeito da distribuição dos recursos previstos no caput do art. 212-A da Constituição Federal:\n\nI - em relação às instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos e conveniadas com o poder público, o cômputo das matrículas:\n\na) na educação infantil oferecida em creches para crianças de até 3 (três) anos;\n\nb) na educação do campo oferecida em instituições reconhecidas como centros familiares de formação por alternância, observado o disposto em regulamento;\n\nc) nas pré-escolas, até a universalização desta etapa de ensino, que atendam às crianças de 4 (quatro) e 5 (cinco) anos, observadas as condições previstas nos incisos I, II, III, IV e V do § 4º deste artigo, efetivadas, conforme o censo escolar mais atualizado;\n\nd) na educação especial, oferecida, nos termos do § 3º do art. 58 da Lei nº 9.394, de 20 de dezembro de 1996 , pelas instituições com atuação exclusiva nessa modalidade para atendimento educacional especializado no contraturno para estudantes matriculados na rede pública de educação básica e inclusive para atendimento integral a estudantes com deficiência constatada em avaliação biopsicossocial, periodicamente realizada por equipe multiprofissional e interdisciplinar, nos termos da Lei nº 13.146, de 6 de julho de 2015 , com vistas, sempre que possível, à inclusão do estudante na rede regular de ensino e à garantia do direito à educação e à aprendizagem ao longo da vida;\n\nII - em relação a instituições públicas de ensino, autarquias e fundações públicas da administração indireta, conveniados ou em parceria com a administração estadual direta, o cômputo das matrículas referentes à educação profissional técnica de nível médio articulada, prevista no art. 36-C da Lei nº 9.394, de 20 de dezembro de 1996, e das matrículas relativas ao itinerário de formação técnica e profissional, previsto no inciso V do caput do art. 36 da referida Lei.\n\nII - em relação a instituições públicas de ensino, autarquias e fundações públicas da administração indireta e demais instituições de educação profissional técnica de nível médio dos serviços sociais autônomos que integram o sistema federal de ensino, conveniadas ou em parceria com a administração estadual direta, o cômputo das matrículas referentes à educação profissional técnica de nível médio articulada, prevista no art. 36-C da Lei nº 9.394, de 20 de dezembro de 1996, e das matrículas relativas ao itinerário de formação técnica e profissional, previsto no inciso V do caput do art. 36 da referida Lei. (Redação dada pela Lei nº 14.276, de 2021)\n\n§ 4º As instituições a que se refere o inciso I do § 3º deste artigo deverão obrigatória e cumulativamente:\n\nI - oferecer igualdade de condições para o acesso e a permanência na escola e o atendimento educacional gratuito a todos os seus alunos;\n\nII - comprovar finalidade não lucrativa e aplicar seus excedentes financeiros em educação na etapa ou na modalidade previstas no § 3º deste artigo;\n\nIII - assegurar a destinação de seu patrimônio a outra escola comunitária, filantrópica ou confessional com atuação na etapa ou na modalidade previstas no § 3º deste artigo ou ao poder público no caso do encerramento de suas atividades;\n\nIV - atender a padrões mínimos de qualidade definidos pelo órgão normativo do sistema de ensino, inclusive, obrigatoriamente, ter aprovados seus projetos pedagógicos;\n\nV - ter Certificação de Entidade Beneficente de Assistência Social, na forma de regulamento.\n\n§ 5º Os recursos destinados às instituições de que trata o § 3º deste artigo somente poderão ser destinados às categorias de despesa previstas no art. 70 da Lei nº 9.394, de 20 de dezembro de 1996.\n\n§ 6º As informações relativas aos convênios firmados nos termos do § 3º deste artigo, com a especificação do número de alunos considerados e valores repassados, incluídos os correspondentes a eventuais profissionais e a bens materiais cedidos, serão declaradas anualmente ao Ministério da Educação, pelos Estados, pelo Distrito Federal e pelos Municípios, no âmbito do sistema de informações sobre orçamentos públicos em educação, na forma de regulamento.\n\n§ 7º As condições de que tratam os incisos I, II, III, IV e V do § 4º deste artigo, para o cômputo das matrículas das instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos e conveniadas com o poder público, deverão ser comprovadas pelas instituições convenentes e conferidas e validadas pelo Poder Executivo do respectivo ente subnacional, em momento anterior à formalização do instrumento de convênio e ao repasse dos recursos recebidos no âmbito do Fundeb para a cobertura das matrículas mantidas pelas referidas instituições. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%207%C2%BA%20A%20distribui%C3%A7%C3%A3o%20de%20recursos%20que%20comp%C3%B5em%20os%20Fundos%2C%20nos%20termos%20do%20art.%203%C2%BA%20desta%20Lei%2C%20no%20%C3%A2mbito%20de%20cada%20Estado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Para os fins da distribuição dos recursos de que trata esta Lei, serão consideradas exclusivamente as matrículas presenciais efetivas, conforme os dados apurados no censo escolar mais atualizado, realizado anualmente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), observadas as diferenças e as ponderações mencionadas nos arts. 7º e 10 desta Lei.\n\n§ 1º Os recursos serão distribuídos ao Distrito Federal e aos Estados e seus Municípios, considerando-se exclusivamente as matrículas nos respectivos âmbitos de atuação prioritária, conforme os §§ 2º e 3º do art. 211 da Constituição Federal , observado o disposto no § 1º do art. 25 desta Lei.\n\n§ 2º Serão consideradas, para a educação especial, as matrículas na rede regular de ensino, em classes comuns ou em classes especiais de escolas regulares, e em escolas especiais ou especializadas, observado o disposto na alínea d do inciso I do § 3º do art. 7º desta Lei.\n\n§ 3º Para efeito da distribuição dos recursos dos Fundos, será admitida a dupla matrícula dos estudantes:\n\nI - da educação regular da rede pública que recebem atendimento educacional especializado;\n\nII - da educação profissional técnica de nível médio articulada, prevista no art. 36-C da Lei nº 9.394, de 20 de dezembro de 1996 , e do itinerário de formação técnica e profissional do ensino médio, previsto no inciso V do caput do art. 36 da referida Lei.\n\n§ 4º Os profissionais do magistério da educação básica da rede pública de ensino cedidos para as instituições a que se refere o § 3º do art. 7º desta Lei serão considerados como em efetivo exercício na educação básica pública para fins do disposto no art. 26 desta Lei.\n\n§ 5º Os Estados, o Distrito Federal e os Municípios poderão, no prazo de 30 (trinta) dias, contado da publicação dos dados do censo escolar no Diário Oficial da União, apresentar recursos para retificação dos dados publicados.\n\n§ 5º Os Estados, o Distrito Federal e os Municípios, no prazo de 30 (trinta) dias, contado da publicação dos dados preliminares do Censo Escolar da Educação Básica, deverão, quando necessário, retificar os dados publicados, sob pena de responsabilização administrativa, nos termos da Lei nº 14.230, de 25 de outubro de 2021. (Redação dada pela Lei nº 14.276, de 2021)\n\n§ 6º Para a educação profissional técnica de nível médio articulada, na forma concomitante, prevista no inciso II do caput do art. 36-C da Lei nº 9.394, de 20 de dezembro de 1996 , e para o itinerário de formação técnica e profissional do ensino médio, previsto no inciso V do caput do art. 36 da referida Lei , desenvolvidos em convênio ou em parceria com as instituições relacionadas no inciso II do § 3º do art. 7º desta Lei, o estudante deverá estar matriculado no ensino médio presencial em instituição da rede pública estadual e na instituição conveniada ou celebrante de parceria, e as ponderações previstas no caput do art. 7º desta Lei serão aplicadas às duas matrículas.\n\n§ 7º Fica vedada a alteração nos dados após realizada a publicação final das informações do censo escolar. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%208%C2%BA%20Para%20os%20fins%20da%20distribui%C3%A7%C3%A3o%20dos%20recursos%20de%20que%20trata%20esta%20Lei%2C%20ser%C3%A3o%20consideradas%20exclusivamente%20as%20matr%C3%ADculas%20presenciais%20efetivas%2C%20conforme",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º As diferenças e as ponderações quanto ao valor anual por aluno entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, bem como as relativas ao art. 10 desta Lei, utilizadas na complementação-VAAR e na complementação-VAAT, nos termos do Anexo desta Lei, poderão ter valores distintos daquelas aplicadas na distribuição intraestadual e na complementação-VAAF.\n\nParágrafo único. As diferenças e as ponderações entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, nos termos do art. 7º desta Lei, aplicáveis à distribuição de recursos da complementação-VAAT, deverão priorizar a educação infantil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%209%C2%BA%20As%20diferen%C3%A7as%20e%20as%20pondera%C3%A7%C3%B5es%20quanto%20ao%20valor%20anual%20por%20aluno%20entre%20etapas%2C%20modalidades%2C%20dura%C3%A7%C3%A3o%20da%20jornada%20e%20tipos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Além do disposto no art. 7º desta Lei, a distribuição de recursos dar-se-á, na forma do Anexo desta Lei, em função do número de alunos matriculados nas respectivas redes de educação básica pública presencial, observadas as diferenças e as ponderações quanto ao valor anual por aluno (VAAF e VAAT) relativas:\n\nI - ao nível socioeconômico dos educandos;\n\nII - aos indicadores de disponibilidade de recursos vinculados à educação de cada ente federado;\n\nIII - aos indicadores de utilização do potencial de arrecadação tributária de cada ente federado.\n\n§ 1º Os indicadores de que tratam os incisos I, II e III do caput deste artigo serão calculados:\n\nI - em relação ao nível socioeconômico dos educandos, conforme dados apurados e atualizados pelo Inep, observado o disposto no inciso III do caput do art. 18 desta Lei;\n\nII - em relação à disponibilidade de recursos, com base no valor anual total por aluno (VAAT), apurado nos termos do art. 13 e do inciso II do caput do art. 15 desta Lei;\n\nII - em relação à disponibilidade de recursos, com base no VAAT, conforme dados apurados e atualizados pelo Fundo Nacional de Desenvolvimento da Educação (FNDE), nos termos dos arts. 11 e 12 e dos incisos III e V do § 3º do art. 13, e pela Secretaria do Tesouro Nacional do Ministério da Economia, nos termos dos incisos I, II e IV do § 3º do art. 13 e do inciso II do caput do art. 15 desta Lei; (Redação dada pela Lei nº 14.276, de 2021)\n\nIII - em relação à utilização do potencial de arrecadação tributária, com base nas características sociodemográficas e econômicas, entre outras.\n\nIII - em relação à utilização do potencial de arrecadação tributária, conforme dados apurados e atualizados pelo Ministério da Economia, com base nas características sociodemográficas e econômicas, entre outras. (Redação dada pela Lei nº 14.276, de 2021)\n\n§ 2º O indicador de utilização do potencial de arrecadação tributária terá como finalidade incentivar que entes federados se esforcem para arrecadar adequadamente os tributos de sua competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2010.%20Al%C3%A9m%20do%20disposto%20no%20art.%207%C2%BA%20desta%20Lei%2C%20a%20distribui%C3%A7%C3%A3o%20de%20recursos%20dar-se-%C3%A1%2C%20na%20forma%20do%20Anexo%20desta%20Lei%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A distribuição de recursos que compõem os Fundos, nos termos do art. 3º desta Lei, no âmbito de cada Estado e do Distrito Federal, dar-se-á, na forma do Anexo desta Lei, entre o governo estadual e os seus Municípios, na proporção do número de alunos matriculados nas respectivas redes de educação básica pública presencial, nos termos do art. 8º desta Lei.\n\n§ 1º A distribuição de que trata o caput deste artigo resultará no valor anual por aluno (VAAF) no âmbito de cada Fundo, anteriormente à complementação-VAAF, nos termos da alínea a do inciso I do caput do art. 6º desta Lei.\n\n§ 2º O não cumprimento do disposto neste artigo importará em crime de responsabilidade da autoridade competente, nos termos do inciso IX do caput do art. 212-A da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2011.%20A%20distribui%C3%A7%C3%A3o%20de%20recursos%20que%20comp%C3%B5em%20os%20Fundos%2C%20nos%20termos%20do%20art.%203%C2%BA%20desta%20Lei%2C%20no%20%C3%A2mbito%20de%20cada%20Estado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A complementação-VAAF será distribuída com parâmetro no valor anual mínimo por aluno (VAAF-MIN) definido nacionalmente, na forma do Anexo desta Lei.\n\n§ 1º O valor anual mínimo por aluno (VAAF-MIN) constitui valor de referência relativo aos anos iniciais do ensino fundamental urbano, observadas as diferenças e as ponderações de que tratam os arts. 7º e 10 desta Lei, e será determinado contabilmente a partir da distribuição de que trata o art. 11 desta Lei e em função do montante destinado à complementação-VAAF, nos termos do inciso I do caput do art. 5º desta Lei.\n\n§ 2º Definidos os Fundos beneficiados, no âmbito de cada Estado e do Distrito Federal, com a complementação-VAAF, os recursos serão distribuídos entre o governo estadual e os seus Municípios segundo a mesma proporção prevista no art. 11 desta Lei, de modo a resultar no valor anual mínimo por aluno (VAAF-MIN).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2012.%20A%20complementa%C3%A7%C3%A3o-VAAF%20ser%C3%A1%20distribu%C3%ADda%20com%20par%C3%A2metro%20no%20valor%20anual%20m%C3%ADnimo%20por%20aluno%20%28VAAF-MIN%29%20definido%20nacionalmente%2C%20na%20forma%20do%20Anexo%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A complementação-VAAT será distribuída com parâmetro no valor anual total mínimo por aluno (VAAT-MIN), definido nacionalmente, na forma do Anexo desta Lei.\n\n§ 1º O valor anual total mínimo por aluno (VAAT-MIN) constitui valor de referência relativo aos anos iniciais do ensino fundamental urbano, observadas as diferenças e as ponderações de que tratam os arts. 7º e 10 desta Lei, e será determinado contabilmente a partir da distribuição de que tratam os arts. 11 e 12 desta Lei, consideradas as demais receitas e transferências vinculadas à educação, nos termos do § 3º deste artigo, e em função do montante destinado à complementação-VAAT, nos termos do inciso II do caput do art. 5º desta Lei.\n\n§ 2º Os recursos serão distribuídos às redes de ensino, de modo a resultar no valor anual total mínimo por aluno (VAAT-MIN).\n\n§ 3º O cálculo do valor anual total por aluno (VAAT) das redes de ensino deverá considerar, além do resultado da distribuição de que tratam os arts. 11 e 12 desta Lei, as seguintes receitas e disponibilidades:\n\nI - 5% (cinco por cento) do montante dos impostos e transferências que compõem a cesta de recursos do Fundeb a que se refere o art. 3º desta Lei;\n\nII - 25% (vinte e cinco por cento) dos demais impostos e transferências, nos termos do caput do art. 212 da Constituição Federal;\n\nIII - cotas estaduais e municipais da arrecadação do salário-educação de que trata o § 6º do art. 212 da Constituição Federal;\n\nIV - parcela da participação pela exploração de petróleo e gás natural vinculada à educação, nos termos da legislação federal;\n\nV - transferências decorrentes dos programas de distribuição universal geridos pelo Ministério da Educação.\n\n§ 4º Somente são habilitados a receber a complementação-VAAT os entes que disponibilizarem as informações e os dados contábeis, orçamentários e fiscais, nos termos do art. 163-A da Constituição Federal e do art. 38 desta Lei.\n\n§ 5º Para fins de apuração dos valores descritos no inciso II do caput do art. 15 desta Lei, serão consideradas as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º deste artigo, que forem encaminhadas pelos entes até o dia 30 de abril do exercício posterior ao exercício a que se referem os dados enviados.\n\n§ 5º Para fins de apuração dos valores descritos no inciso II do caput do art. 15 e da confirmação dos registros de que trata o art. 38 desta Lei, serão considerados as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º deste artigo, que constarem, respectivamente, da base de dados do Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (Siconfi) e do Sistema de Informações sobre Orçamentos Públicos em Educação (Siope), ou dos sistemas que vierem a substituí-los, no dia 31 de agosto do exercício posterior ao exercício a que se referem os dados enviados. (Redação dada pela Lei nº 14.276, de 2021)\n\n§ 6º Os programas a serem considerados na distribuição, nos termos do inciso V do § 3º deste artigo, serão definidos em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2013.%20A%20complementa%C3%A7%C3%A3o-VAAT%20ser%C3%A1%20distribu%C3%ADda%20com%20par%C3%A2metro%20no%20valor%20anual%20total%20m%C3%ADnimo%20por%20aluno%20%28VAAT-MIN%29%2C%20definido%20nacionalmente%2C%20na%20forma%20do%20Anexo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A complementação-VAAR será distribuída às redes públicas de ensino que cumprirem as condicionalidades e apresentarem melhoria dos indicadores referidos no inciso III do caput do art. 5º desta Lei.\n\n§ 1º As condicionalidades referidas no caput deste artigo contemplarão:\n\nI - provimento do cargo ou função de gestor escolar de acordo com critérios técnicos de mérito e desempenho ou a partir de escolha realizada com a participação da comunidade escolar dentre candidatos aprovados previamente em avaliação de mérito e desempenho;\n\nII - participação de pelo menos 80% (oitenta por cento) dos estudantes de cada ano escolar periodicamente avaliado em cada rede de ensino por meio dos exames nacionais do sistema nacional de avaliação da educação básica;\n\nIII - redução das desigualdades educacionais socioeconômicas e raciais medidas nos exames nacionais do sistema nacional de avaliação da educação básica, respeitadas as especificidades da educação escolar indígena e suas realidades;\n\nIV - regime de colaboração entre Estado e Município formalizado na legislação estadual e em execução, nos termos do inciso II do parágrafo único do art. 158 da Constituição Federal e do art. 3º da Emenda Constitucional nº 108, de 26 de agosto de 2020;\n\nV - referenciais curriculares alinhados à Base Nacional Comum Curricular, aprovados nos termos do respectivo sistema de ensino.\n\n§ 2º A metodologia de cálculo dos indicadores referidos no caput deste artigo considerará obrigatoriamente:\n\nI - o nível e o avanço, com maior peso para o avanço, dos resultados médios dos estudantes de cada rede pública estadual e municipal nos exames nacionais do sistema nacional de avaliação da educação básica, ponderados pela taxa de participação nesses exames e por medida de equidade de aprendizagem;\n\nII - as taxas de aprovação no ensino fundamental e médio em cada rede estadual e municipal;\n\nIII - as taxas de atendimento escolar das crianças e jovens na educação básica presencial em cada ente federado, definido de modo a captar, direta ou indiretamente, a evasão no ensino fundamental e médio.\n\n§ 3º A medida de equidade de aprendizagem, prevista no inciso I do § 2º deste artigo, baseada na escala de níveis de aprendizagem, definida pelo Inep, com relação aos resultados dos estudantes nos exames nacionais referidos naquele dispositivo, considerará em seu cálculo a proporção de estudantes cujos resultados de aprendizagem estejam em níveis abaixo do nível adequado, com maior peso para os estudantes com resultados mais distantes desse nível, e as desigualdades de resultados nos diferentes grupos de nível socioeconômico e de raça e dos estudantes com deficiência em cada rede pública.\n\n§ 3º A medida de equidade de aprendizagem, prevista no inciso I do § 2º deste artigo: (Redação dada pela Lei nº 14.276, de 2021)\n\nI – será baseada na escala de níveis de aprendizagem, definida pelo Inep, com relação aos resultados dos estudantes nos exames nacionais referidos no inciso I do § 2º deste artigo; (Incluído pela Lei nº 14.276, de 2021)\n\nII - considerará em seu cálculo a proporção de estudantes cujos resultados de aprendizagem estejam em níveis abaixo do nível adequado, com maior peso para: (Incluído pela Lei nº 14.276, de 2021)\n\na) os estudantes com resultados mais distantes desse nível; (Incluído pela Lei nº 14.276, de 2021)\n\nb) as desigualdades de resultados nos diferentes grupos de nível socioeconômico e de raça e dos estudantes com deficiência em cada rede pública. (Incluído pela Lei nº 14.276, de 2021)\n\n§ 4º Em situação de calamidade pública, desastres naturais ou excepcionalidades de força maior em nível nacional que não permitam a realização normal de atividades pedagógicas e de aulas presenciais nas escolas participantes do Sistema de Avaliação da Educação Básica (Saeb) durante a aplicação dessa avaliação, ficará suspensa a condicionalidade prevista no inciso II do § 1º deste artigo, para fins de distribuição da complementação-VAAR. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2014.%20A%20complementa%C3%A7%C3%A3o-VAAR%20ser%C3%A1%20distribu%C3%ADda%20%C3%A0s%20redes%20p%C3%BAblicas%20de%20ensino%20que%20cumprirem%20as%20condicionalidades%20e%20apresentarem%20melhoria%20dos%20indicadores%20referidos%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A distribuição da complementação da União, em determinado exercício financeiro, nos termos do Anexo desta Lei, considerará:\n\nI - em relação à complementação-VAAF, no cálculo do VAAF e do VAAF-MIN:\n\na) receitas dos Fundos, nos termos do art. 3º desta Lei, estimadas para o exercício financeiro de referência, conforme disposto no art. 16 desta Lei, até que ocorra o ajuste previsto em seu § 3º;\n\nb) receitas dos Fundos, nos termos do art. 3º desta Lei, realizadas no exercício financeiro de referência, por ocasião do ajuste previsto no § 3º do art. 16 desta Lei;\n\nII - em relação à complementação-VAAT, no cálculo do VAAT e do VAAT-MIN: receitas dos Fundos, nos termos do art. 3º desta Lei, complementação da União, nos termos do inciso II do caput do art. 5º desta Lei e demais receitas e disponibilidades vinculadas à educação, nos termos do § 3º do art. 13 desta Lei realizadas no penúltimo exercício financeiro anterior ao de referência;\n\nIII - em relação à complementação-VAAR: evolução de indicadores, nos termos do art. 14 desta Lei.\n\nParágrafo único. Para fins de apuração do VAAT, os valores referidos no inciso II do caput deste artigo serão corrigidos pelo percentual da variação nominal das receitas totais integrantes dos Fundos, nos termos do art. 3º desta Lei, para o período de 24 (vinte e quatro) meses, encerrado em junho do exercício anterior ao da transferência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2015.%20A%20distribui%C3%A7%C3%A3o%20da%20complementa%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20em%20determinado%20exerc%C3%ADcio%20financeiro%2C%20nos%20termos%20do%20Anexo%20desta%20Lei%2C%20considerar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O Poder Executivo federal publicará, até 31 de dezembro de cada exercício, para vigência no exercício subsequente:\n\nI - a estimativa da receita total dos Fundos, nos termos do art. 3º desta Lei;\n\nII - a estimativa do valor da complementação da União, nos termos do art. 5º desta Lei;\n\nIII - a estimativa dos valores anuais por aluno (VAAF) no âmbito do Distrito Federal e de cada Estado, nos termos do art. 11 desta Lei;\n\nIV - a estimativa do valor anual mínimo por aluno (VAAF-MIN) definido nacionalmente, nos termos do art. 12 desta Lei, e correspondente distribuição de recursos da complementação-VAAF às redes de ensino;\n\nV - os valores anuais totais por aluno (VAAT) no âmbito das redes de ensino, nos termos do § 3º do art. 13 desta Lei, anteriormente à complementação-VAAT;\n\nVI - a estimativa do valor anual total mínimo por aluno (VAAT-MIN) definido nacionalmente, nos termos do art. 13 desta Lei, e correspondente distribuição de recursos da complementação-VAAT às redes de ensino;\n\nVII - as aplicações mínimas pelas redes de ensino em educação infantil, nos termos do art. 28 desta Lei;\n\nVIII - as redes de ensino beneficiadas com a complementação-VAAR e respectivos valores, nos termos do art. 14 desta Lei.\n\n§ 1º Após o prazo de que trata o caput deste artigo, as estimativas serão atualizadas a cada 4 (quatro) meses ao longo do exercício de referência.\n\n§ 2º A complementação da União observará o cronograma da programação financeira do Tesouro Nacional e contemplará pagamentos mensais de, no mínimo, 5% (cinco por cento) da complementação anual, a serem realizados até o último dia útil de cada mês, assegurados os repasses de, no mínimo, 45% (quarenta e cinco por cento) até 31 de julho, de 85% (oitenta e cinco por cento) até 31 de dezembro de cada ano e de 100% (cem por cento) até 31 de janeiro do exercício imediatamente subsequente.\n\n§ 3º O valor da complementação da União, nos termos do art. 5º desta Lei, em função da diferença, a maior ou a menor, entre a receita estimada para o cálculo e a receita realizada do exercício de referência, será ajustado, no primeiro quadrimestre, em parcela única, do exercício imediatamente subsequente e debitada ou creditada à conta específica dos Fundos, conforme o caso.\n\n§ 4º Para o ajuste da complementação da União, de que trata o § 3º deste artigo, os Estados e o Distrito Federal deverão publicar em meio oficial e encaminhar à Secretaria do Tesouro Nacional do Ministério da Economia, até o dia 31 de janeiro, os valores da arrecadação efetiva dos impostos e das transferências, nos termos do art. 3º desta Lei, referentes ao exercício imediatamente anterior.\n\n§ 5º O FNDE divulgará em sítio eletrônico, até 31 de dezembro de cada exercício: (Incluído pela Lei nº 14.276, de 2021)\n\nI - a memória de cálculo do índice de correção previsto no parágrafo único do art. 15 desta Lei, elaborado pela Secretaria do Tesouro Nacional do Ministério da Economia; (Incluído pela Lei nº 14.276, de 2021)\n\nII - o detalhamento das parcelas de receitas e disponibilidades, nos termos dos arts. 11 e 12 e do § 3º do art. 13 desta Lei, consideradas no cálculo do VAAT, por rede de ensino, a que se refere o inciso V do caput deste artigo. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2016.%20O%20Poder%20Executivo%20federal%20publicar%C3%A1%2C%20at%C3%A9%2031%20de%20dezembro%20de%20cada%20exerc%C3%ADcio%2C%20para%20vig%C3%AAncia%20no%20exerc%C3%ADcio%20subsequente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Fica mantida, no âmbito do Ministério da Educação, a Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade, instituída pelo art. 12 da Lei nº 11.494, de 20 de junho de 2007 , com a seguinte composição:\n\nI - 5 (cinco) representantes do Ministério da Educação, incluídos 1 (um) representante do Inep e 1 (um) representante do Fundo Nacional de Desenvolvimento da Educação (FNDE);\n\nII - 1 (um) representante dos secretários estaduais de educação de cada uma das 5 (cinco) regiões político-administrativas do Brasil indicado pelas seções regionais do Conselho Nacional de Secretários de Estado da Educação (Consed);\n\nIII - 1 (um) representante dos secretários municipais de educação de cada uma das 5 (cinco) regiões político-administrativas do Brasil indicado pelas seções regionais da União Nacional dos Dirigentes Municipais de Educação (Undime).\n\n§ 1º As deliberações da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade serão registradas em ata circunstanciada, lavrada conforme seu regimento interno.\n\n§ 2º As deliberações relativas à especificação das ponderações constarão de resolução publicada no Diário Oficial da União até o dia 31 de julho de cada exercício, para vigência no exercício seguinte.\n\n§ 3º A participação na Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade é função não remunerada de relevante interesse público, e seus membros, quando convocados, farão jus a transporte e a diárias.\n\n§ 4º Para cada um dos representantes referidos nos incisos I, II e III do caput deste artigo, será designado o respectivo suplente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2017.%20Fica%20mantida%2C%20no%20%C3%A2mbito%20do%20Minist%C3%A9rio%20da%20Educa%C3%A7%C3%A3o%2C%20a%20Comiss%C3%A3o%20Intergovernamental%20de%20Financiamento%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20de%20Qualidade%2C%20institu%C3%ADda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. No exercício de suas atribuições, compete à Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade:\n\nI - especificar anualmente, observados os limites definidos nesta Lei, as diferenças e as ponderações aplicáveis:\n\na) às diferentes etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino da educação básica, observado o disposto no art. 9º desta Lei, considerada a correspondência ao custo médio da respectiva etapa, modalidade e tipo de estabelecimento de educação básica;\n\nb) ao nível socioeconômico dos educandos, aos indicadores de disponibilidade de recursos vinculados à educação e aos indicadores de utilização do potencial de arrecadação tributária de cada ente federado, nos termos do art. 10 desta Lei;\n\nII - monitorar e avaliar as condicionalidades definidas no § 1º do art. 14 desta Lei, com base em proposta tecnicamente fundamentada do Inep;\n\nIII - aprovar a metodologia de cálculo do custo médio das diferentes etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino da educação básica, elaborada pelo Inep, consideradas as respectivas especificidades e os insumos necessários para a garantia de sua qualidade;\n\nIV - aprovar a metodologia de cálculo dos indicadores de nível socioeconômico dos educandos, de disponibilidade de recursos vinculados à educação e de potencial de arrecadação tributária de cada ente federado, elaborada pelo Inep, com apoio dos demais órgãos responsáveis do Poder Executivo federal;\n\nIV - aprovar a metodologia de cálculo dos indicadores de nível socioeconômico dos educandos, elaborada pelo Inep, e as metodologias de cálculo da disponibilidade de recursos vinculados à educação e do potencial de arrecadação tributária de cada ente federado, elaboradas pelo Ministério da Economia; (Redação dada pela Lei nº 14.276, de 2021)\n\nV - aprovar a metodologia de cálculo dos indicadores de atendimento e melhoria da aprendizagem com redução das desigualdades, nos termos do sistema nacional de avaliação da educação básica, referidos no inciso III do caput do art. 5º desta Lei, elaborada pelo Inep, observado o disposto no § 2º do art. 14 desta Lei;\n\nVI - aprovar a metodologia de aferição das condicionalidades referidas no inciso III do caput do art. 5º desta Lei, elaborada pelo Inep, observado o disposto no § 1º do art. 14 desta Lei;\n\nVII - aprovar a metodologia de cálculo do indicador referido no parágrafo único do art. 28 desta Lei, elaborada pelo Inep, para aplicação, pelos Municípios, de recursos da complementação-VAAT na educação infantil;\n\nVIII - aprovar a metodologia de apuração e monitoramento do exercício da função redistributiva dos entes em relação a suas escolas, de que trata o § 2º do art. 25 desta Lei, elaborada pelo Ministério da Educação;\n\nIX - elaborar ou requisitar a elaboração de estudos técnicos pertinentes, sempre que necessário;\n\nX - elaborar seu regimento interno, por meio de portaria do Ministro de Estado da Educação;\n\nXI - exercer outras atribuições conferidas em lei.\n\n§ 1º Serão adotados como base para a decisão da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade os dados do censo escolar anual mais atualizado realizado pelo Inep.\n\n§ 2º A existência prévia de estudos sobre custos médios das etapas, modalidades e tipos de ensino, nível socioeconômico dos estudantes, disponibilidade de recursos vinculados à educação e potencial de arrecadação de cada ente federado, anualmente atualizados e publicados pelo Inep, é condição indispensável para decisão, pela Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade, de promover alterações na especificação das diferenças e das ponderações referidas no inciso I do caput deste artigo.\n\n§ 3º A Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade exercerá suas competências em observância às garantias estabelecidas nos incisos I, II, III e IV do caput do art. 208 da Constituição Federal e às metas do Plano Nacional de Educação.\n\n§ 4º No ato de publicação das ponderações dispostas no inciso I do caput deste artigo, a Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade deverá publicar relatório detalhado com a memória de cálculo sobre os custos médios, as fontes dos indicadores utilizados e as razões que levaram à definição dessas ponderações.\n\n§ 5º A deliberação da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade, referente ao indicador de disponibilidade de recursos vinculados à educação, de que trata o inciso IV do caput deste artigo, ocorrerá até o dia 31 de outubro do ano anterior ao exercício de referência e será registrada em ata circunstanciada, lavrada conforme seu regimento interno. (Incluído pela Lei nº 14.276, de 2021)\n\n§ 6º Para fins do disposto no § 5º deste artigo, a metodologia de cálculo do indicador de disponibilidade de recursos vinculados à educação deverá ser encaminhada à Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade com 30 (trinta) dias de antecedência. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2018.%20No%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20compete%20%C3%A0%20Comiss%C3%A3o%20Intergovernamental%20de%20Financiamento%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20de%20Qualidade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As despesas da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade correrão à conta das dotações orçamentárias anualmente consignadas ao Ministério da Educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2019.%20As%20despesas%20da%20Comiss%C3%A3o%20Intergovernamental%20de%20Financiamento%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20de%20Qualidade%20correr%C3%A3o%20%C3%A0%20conta%20das%20dota%C3%A7%C3%B5es%20or%C3%A7ament%C3%A1rias%20anualmente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os recursos dos Fundos serão disponibilizados pelas unidades transferidoras à Caixa Econômica Federal ou ao Banco do Brasil S.A., que realizará a distribuição dos valores devidos aos Estados, ao Distrito Federal e aos Municípios.\n\nParágrafo único. São unidades transferidoras a União, os Estados e o Distrito Federal em relação às respectivas parcelas do Fundo cujas arrecadação e disponibilização para distribuição sejam de sua responsabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2020.%20Os%20recursos%20dos%20Fundos%20ser%C3%A3o%20disponibilizados%20pelas%20unidades%20transferidoras%20%C3%A0%20Caixa%20Econ%C3%B4mica%20Federal%20ou%20ao%20Banco%20do%20Brasil%20S.A.%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os recursos dos Fundos, provenientes da União, dos Estados e do Distrito Federal, serão repassados automaticamente para contas únicas e específicas dos governos estaduais, do Distrito Federal e municipais, vinculadas ao respectivo Fundo, instituídas para esse fim, e serão nelas executados, vedada a transferência para outras contas, sendo mantidas na instituição financeira de que trata o art. 20 desta Lei.\n\n§ 1º Os repasses aos Fundos provenientes das participações a que se refere o inciso II do caput do art. 158 e as alíneas a e b do inciso I e o inciso II do caput do art. 159 da Constituição Federal constarão dos orçamentos da União, dos Estados e do Distrito Federal e serão creditados pela União em favor dos governos estaduais, do Distrito Federal e municipais nas contas específicas a que se refere este artigo, respeitados os critérios e as finalidades estabelecidos nesta Lei, observados os mesmos prazos, procedimentos e forma de divulgação adotados para o repasse do restante dessas transferências constitucionais em favor desses governos.\n\n§ 2º Os repasses aos Fundos provenientes dos impostos previstos nos incisos I, II e III do caput do art. 155 combinados com os incisos III e IV do caput do art. 158 da Constituição Federal constarão dos orçamentos dos governos estaduais e do Distrito Federal e serão depositados pelo estabelecimento oficial de crédito previsto no art. 4º da Lei Complementar nº 63, de 11 de janeiro de 1990 , no momento em que a arrecadação estiver sendo realizada nas contas do Fundo abertas na instituição financeira de que trata o caput deste artigo.\n\n§ 3º A instituição financeira de que trata o caput deste artigo, no que se refere aos recursos dos impostos e participações mencionados no § 2º deste artigo, creditará imediatamente as parcelas devidas aos governos estaduais, do Distrito Federal e municipais nas contas específicas referidas neste artigo, observados os critérios e as finalidades estabelecidos nesta Lei, e procederá à divulgação dos valores creditados de forma similar e com a mesma periodicidade utilizada pelos Estados em relação ao restante da transferência do referido imposto.\n\n§ 4º Os recursos dos Fundos provenientes da parcela do IPI, de que trata o inciso II do caput do art. 159 da Constituição Federal, serão creditados pela União em favor dos governos estaduais e do Distrito Federal nas contas específicas, segundo os critérios e as finalidades estabelecidos nesta Lei, observados os mesmos prazos, procedimentos e forma de divulgação previstos na Lei Complementar nº 61, de 26 de dezembro de 1989.\n\n§ 5º Do montante dos recursos do IPI de que trata o inciso II do caput do art. 159 da Constituição Federal , a parcela devida aos Municípios, na forma do disposto no art. 5º da Lei Complementar nº 61, de 26 de dezembro de 1989, será repassada pelo governo estadual ao respectivo Fundo e os recursos serão creditados na conta específica a que se refere este artigo, observados os mesmos prazos, procedimentos e forma de divulgação do restante dessa transferência aos Municípios.\n\n§ 6º A instituição financeira disponibilizará, permanentemente, em sítio na internet disponível ao público e em formato aberto e legível por máquina, os extratos bancários referentes à conta do Fundo, incluídas informações atualizadas sobre:\n\nI - movimentação;\n\nII - responsável legal;\n\nIII - data de abertura;\n\nIV - agência e número da conta bancária.\n\n§ 7º Os recursos depositados na conta específica a que se refere o caput deste artigo serão depositados pela União, pelo Distrito Federal, pelos Estados e pelos Municípios na forma prevista no § 5º do art. 69 da Lei nº 9.394, de 20 de dezembro de 1996.\n\n§ 8º Sem prejuízo do disposto na Lei nº 9.452, de 20 de março de 1997 , serão disponibilizados pelos Poderes Executivos de todas as esferas federativas, nos sítios na internet, dados acerca do recebimento e das aplicações dos recursos do Fundeb.\n\n§ 9º A vedação à transferência de recursos para outras contas, prevista no caput deste artigo, não se aplica aos casos em que os governos estaduais, distrital ou municipais, para viabilizar o pagamento de salários, de vencimentos e de benefícios de qualquer natureza aos profissionais da educação em efetivo exercício, tenham contratado ou venham a contratar instituição financeira, que deverá receber os recursos em conta específica e observar o disposto no § 6º deste artigo. (Incluído pela Lei nº 14.276, de 2021)\n\n§ 9º A vedação à transferência de recursos para outras contas prevista no caput deste artigo não se aplica aos casos em que os governos estaduais, distrital ou municipais tenham contratado ou venham a contratar instituição financeira diversa daquelas referidas no art. 20 desta Lei, com o fim de viabilizar o pagamento de salários, de vencimentos e de benefícios de qualquer natureza aos profissionais da educação em efetivo exercício. (Redação dada pela Lei nº 14.711, de 2023)\n\n§ 10. Na hipótese prevista no § 9º deste artigo, as instituições financeiras contratadas deverão receber os recursos em uma conta específica e observar o disposto no § 6º deste artigo. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2021.%20Os%20recursos%20dos%20Fundos%2C%20provenientes%20da%20Uni%C3%A3o%2C%20dos%20Estados%20e%20do%20Distrito%20Federal%2C%20ser%C3%A3o%20repassados%20automaticamente%20para%20contas%20%C3%BAnicas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Nos termos do § 4º do art. 211 da Constituição Federal, os Estados e os Municípios poderão celebrar convênios para a transferência de alunos, de recursos humanos, de materiais e de encargos financeiros, bem como de transporte escolar, acompanhados da transferência imediata de recursos financeiros correspondentes ao número de matrículas assumido pelo ente federado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2022.%20Nos%20termos%20do%20%C2%A7%204%C2%BA%20do%20art.%20211%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20os%20Estados%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20celebrar%20conv%C3%AAnios%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os recursos disponibilizados aos Fundos pela União, pelos Estados e pelo Distrito Federal deverão ser registrados de forma detalhada a fim de evidenciar as respectivas transferências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2023.%20Os%20recursos%20disponibilizados%20aos%20Fundos%20pela%20Uni%C3%A3o%2C%20pelos%20Estados%20e%20pelo%20Distrito%20Federal%20dever%C3%A3o%20ser%20registrados%20de%20forma%20detalhada%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os eventuais saldos de recursos financeiros disponíveis nas contas específicas dos Fundos cuja perspectiva de utilização seja superior a 15 (quinze) dias deverão ser aplicados em operações financeiras de curto prazo ou de mercado aberto, lastreadas em títulos da dívida pública, na instituição financeira responsável pela movimentação dos recursos, de modo a preservar seu poder de compra.\n\nParágrafo único. Os ganhos financeiros auferidos em decorrência das aplicações previstas no caput deste artigo deverão ser utilizados na mesma finalidade e de acordo com os mesmos critérios e condições estabelecidos para utilização do valor principal do Fundo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2024.%20Os%20eventuais%20saldos%20de%20recursos%20financeiros%20dispon%C3%ADveis%20nas%20contas%20espec%C3%ADficas%20dos%20Fundos%20cuja%20perspectiva%20de%20utiliza%C3%A7%C3%A3o%20seja%20superior%20a%2015",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os recursos dos Fundos, inclusive aqueles oriundos de complementação da União, serão utilizados pelos Estados, pelo Distrito Federal e pelos Municípios, no exercício financeiro em que lhes forem creditados, em ações consideradas de manutenção e de desenvolvimento do ensino para a educação básica pública, conforme disposto no art. 70 da Lei nº 9.394, de 20 de dezembro de 1996.\n\n§ 1º Observado o disposto nos arts. 27 e 28 desta Lei e no § 2º deste artigo, os recursos poderão ser aplicados pelos Estados e pelos Municípios indistintamente entre etapas, modalidades e tipos de estabelecimento de ensino da educação básica nos seus respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 da Constituição Federal.\n\n§ 2º A aplicação dos recursos referida no caput deste artigo contemplará a ação redistributiva dos Estados, do Distrito Federal e dos Municípios em relação a suas escolas, nos termos do § 6º do art. 211 da Constituição Federal.\n\n§ 3º Até 10% (dez por cento) dos recursos recebidos à conta dos Fundos, inclusive relativos à complementação da União, nos termos do § 2º do art. 16 desta Lei, poderão ser utilizados no primeiro quadrimestre do exercício imediatamente subsequente, mediante abertura de crédito adicional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2025.%20Os%20recursos%20dos%20Fundos%2C%20inclusive%20aqueles%20oriundos%20de%20complementa%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20ser%C3%A3o%20utilizados%20pelos%20Estados%2C%20pelo%20Distrito%20Federal%20e%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Excluídos os recursos de que trata o inciso III do caput do art. 5º desta Lei, proporção não inferior a 70% (setenta por cento) dos recursos anuais totais dos Fundos referidos no art. 1º desta Lei será destinada ao pagamento, em cada rede de ensino, da remuneração dos profissionais da educação básica em efetivo exercício.\n\nParágrafo único.Para os fins do disposto no caput deste artigo, considera-se:\n\n§ 1º Para os fins do disposto no caput deste artigo, considera-se: (Transformado em § 1º pela Lei nº 14.276, de 2021)\n\nI - remuneração: o total de pagamentos devidos aos profissionais da educação básica em decorrência do efetivo exercício em cargo, emprego ou função, integrantes da estrutura, quadro ou tabela de servidores do Estado, do Distrito Federal ou do Município, conforme o caso, inclusive os encargos sociais incidentes;\n\nII - profissionais da educação básica: aqueles definidos nos termos do art. 61 da Lei nº 9.394, de 20 de dezembro de 1996 , bem como aqueles profissionais referidos no art. 1º da Lei nº 13.935, de 11 de dezembro de 2019, em efetivo exercício nas redes escolares de educação básica;\n\nII – profissionais da educação básica: docentes, profissionais no exercício de funções de suporte pedagógico direto à docência, de direção ou administração escolar, planejamento, inspeção, supervisão, orientação educacional, coordenação e assessoramento pedagógico, e profissionais de funções de apoio técnico, administrativo ou operacional, em efetivo exercício nas redes de ensino de educação básica; (Redação dada pela Lei nº 14.276, de 2021)\n\nIII - efetivo exercício: a atuação efetiva no desempenho das atividades dos profissionais referidos no inciso II deste parágrafo associada à regular vinculação contratual, temporária ou estatutária com o ente governamental que o remunera, não descaracterizada por eventuais afastamentos temporários previstos em lei com ônus para o empregador que não impliquem rompimento da relação jurídica existente.\n\n§ 2º Os recursos oriundos do Fundeb, para atingir o mínimo de 70% (setenta por cento) dos recursos anuais totais dos Fundos destinados ao pagamento, em cada rede de ensino, da remuneração dos profissionais da educação básica em efetivo exercício, poderão ser aplicados para reajuste salarial sob a forma de bonificação, abono, aumento de salário, atualização ou correção salarial. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2026.%20Exclu%C3%ADdos%20os%20recursos%20de%20que%20trata%20o%20inciso%20III%20do%20caput%20do%20art.%205%C2%BA%20desta%20Lei%2C%20propor%C3%A7%C3%A3o%20n%C3%A3o%20inferior%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Os Estados, o Distrito Federal e os Municípios poderão remunerar, com a parcela dos 30% (trinta por cento) não subvinculada aos profissionais da educação referidos no inciso II do § 1º do art. 26 desta Lei, os portadores de diploma de curso superior na área de psicologia ou de serviço social, desde que integrantes de equipes multiprofissionais que atendam aos educandos, nos termos da Lei nº 13.935 de 11 de dezembro de 2019, observado o disposto no caput do art. 27 desta Lei. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2026-A.%20Os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20remunerar%2C%20com%20a%20parcela%20dos%2030%25%20%28trinta%20por%20cento%29%20n%C3%A3o%20subvinculada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Percentual mínimo de 15% (quinze por cento) dos recursos da complementação-VAAT, previstos no inciso II do caput do art. 5º desta Lei, será aplicado, em cada rede de ensino beneficiada, em despesas de capital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2027.%20Percentual%20m%C3%ADnimo%20de%2015%25%20%28quinze%20por%20cento%29%20dos%20recursos%20da%20complementa%C3%A7%C3%A3o-VAAT%2C%20previstos%20no%20inciso%20II%20do%20caput%20do%20art.%205%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Realizada a distribuição da complementação-VAAT às redes de ensino, segundo o art. 13 desta Lei, será destinada à educação infantil, nos termos do Anexo desta Lei, proporção de 50% (cinquenta por cento) dos recursos globais a que se refere o inciso II do caput do art. 5º desta Lei.\n\nParágrafo único. Os recursos vinculados nos termos do caput deste artigo serão aplicados pelos Municípios, adotado como parâmetro indicador para educação infantil, que estabelecerá percentuais mínimos de aplicação dos Municípios beneficiados com a complementação-VAAT, de modo que se atinja a proporção especificada no caput deste artigo, que considerará obrigatoriamente:\n\nI - o déficit de cobertura, considerada a oferta e a demanda anual pelo ensino;\n\nII - a vulnerabilidade socioeconômica da população a ser atendida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2028.%20Realizada%20a%20distribui%C3%A7%C3%A3o%20da%20complementa%C3%A7%C3%A3o-VAAT%20%C3%A0s%20redes%20de%20ensino%2C%20segundo%20o%20art.%2013%20desta%20Lei%2C%20ser%C3%A1%20destinada%20%C3%A0%20educa%C3%A7%C3%A3o%20infantil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. É vedada a utilização dos recursos dos Fundos para:\n\nI - financiamento das despesas não consideradas de manutenção e de desenvolvimento da educação básica, conforme o art. 71 da Lei nº 9.394, de 20 de dezembro de 1996;\n\nII - pagamento de aposentadorias e de pensões, nos termos do § 7º do art. 212 da Constituição Federal;\n\nIII - garantia ou contrapartida de operações de crédito, internas ou externas, contraídas pelos Estados, pelo Distrito Federal ou pelos Municípios que não se destinem ao financiamento de projetos, de ações ou de programas considerados ação de manutenção e de desenvolvimento do ensino para a educação básica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2029.%20%C3%89%20vedada%20a%20utiliza%C3%A7%C3%A3o%20dos%20recursos%20dos%20Fundos%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A fiscalização e o controle referentes ao cumprimento do disposto no art. 212 da Constituição Federal e do disposto nesta Lei, especialmente em relação à aplicação da totalidade dos recursos dos Fundos, serão exercidos:\n\nI - pelo órgão de controle interno no âmbito da União e pelos órgãos de controle interno no âmbito dos Estados, do Distrito Federal e dos Municípios;\n\nII - pelos Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios, perante os respectivos entes governamentais sob suas jurisdições;\n\nIII - pelo Tribunal de Contas da União, no que tange às atribuições a cargo dos órgãos federais, especialmente em relação à complementação da União;\n\nIV - pelos respectivos conselhos de acompanhamento e controle social dos Fundos, referidos nos arts. 33 e 34 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2030.%20A%20fiscaliza%C3%A7%C3%A3o%20e%20o%20controle%20referentes%20ao%20cumprimento%20do%20disposto%20no%20art.%20212%20da%20Constitui%C3%A7%C3%A3o%20Federal%20e%20do%20disposto%20nesta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os Estados, o Distrito Federal e os Municípios prestarão contas dos recursos dos Fundos conforme os procedimentos adotados pelos Tribunais de Contas competentes, observada a regulamentação aplicável.\n\nParágrafo único. As prestações de contas serão instruídas com parecer do conselho responsável, que deverá ser apresentado ao Poder Executivo respectivo em até 30 (trinta) dias antes do vencimento do prazo para a apresentação da prestação de contas prevista no caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2031.%20Os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20prestar%C3%A3o%20contas%20dos%20recursos%20dos%20Fundos%20conforme%20os%20procedimentos%20adotados%20pelos%20Tribunais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. A defesa da ordem jurídica, do regime democrático, dos interesses sociais e individuais indisponíveis, relacionada ao pleno cumprimento desta Lei, compete ao Ministério Público dos Estados e do Distrito Federal e Territórios e ao Ministério Público Federal, especialmente quanto às transferências de recursos federais.\n\n§ 1º A legitimidade do Ministério Público prevista no caput deste artigo não exclui a de terceiros para a propositura de ações a que se referem o inciso LXXIII do caput do art. 5º e o § 1º do art. 129 da Constituição Federa l, assegurado a eles o acesso gratuito aos documentos mencionados nos arts. 31 e 36 desta Lei.\n\n§ 2º Admitir-se-á litisconsórcio facultativo entre os Ministérios Públicos da União, do Distrito Federal e Territórios e dos Estados para a fiscalização da aplicação dos recursos dos Fundos que receberem complementação da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2032.%20A%20defesa%20da%20ordem%20jur%C3%ADdica%2C%20do%20regime%20democr%C3%A1tico%2C%20dos%20interesses%20sociais%20e%20individuais%20indispon%C3%ADveis%2C%20relacionada%20ao%20pleno%20cumprimento%20desta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O acompanhamento e o controle social sobre a distribuição, a transferência e a aplicação dos recursos dos Fundos serão exercidos, perante os respectivos governos, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, por conselhos instituídos especificamente para esse fim.\n\n§ 1º Os conselhos de âmbito estadual, distrital e municipal poderão, sempre que julgarem conveniente:\n\nI - apresentar ao Poder Legislativo local e aos órgãos de controle interno e externo manifestação formal acerca dos registros contábeis e dos demonstrativos gerenciais do Fundo, dando ampla transparência ao documento em sítio da internet;\n\nII - convocar, por decisão da maioria de seus membros, o Secretário de Educação competente ou servidor equivalente para prestar esclarecimentos acerca do fluxo de recursos e da execução das despesas do Fundo, devendo a autoridade convocada apresentar-se em prazo não superior a 30 (trinta) dias;\n\nIII - requisitar ao Poder Executivo cópia de documentos, os quais serão imediatamente concedidos, devendo a resposta ocorrer em prazo não superior a 20 (vinte) dias, referentes a:\n\na) licitação, empenho, liquidação e pagamento de obras e de serviços custeados com recursos do Fundo;\n\nb) folhas de pagamento dos profissionais da educação, as quais deverão discriminar aqueles em efetivo exercício na educação básica e indicar o respectivo nível, modalidade ou tipo de estabelecimento a que estejam vinculados;\n\nc) convênios com as instituições a que se refere o art. 7º desta Lei;\n\nd) outras informações necessárias ao desempenho de suas funções;\n\nIV - realizar visitas para verificar, in loco, entre outras questões pertinentes:\n\na) o desenvolvimento regular de obras e serviços efetuados nas instituições escolares com recursos do Fundo;\n\nb) a adequação do serviço de transporte escolar;\n\nc) a utilização em benefício do sistema de ensino de bens adquiridos com recursos do Fundo para esse fim.\n\n§ 2º Aos conselhos incumbe, ainda:\n\nI - elaborar parecer das prestações de contas a que se refere o parágrafo único do art. 31 desta Lei;\n\nII - supervisionar o censo escolar anual e a elaboração da proposta orçamentária anual, no âmbito de suas respectivas esferas governamentais de atuação, com o objetivo de concorrer para o regular e tempestivo tratamento e encaminhamento dos dados estatísticos e financeiros que alicerçam a operacionalização dos Fundos;\n\nIII - acompanhar a aplicação dos recursos federais transferidos à conta do Programa Nacional de Apoio ao Transporte do Escolar (PNATE) e do Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos (PEJA) e, ainda, receber e analisar as prestações de contas referentes a esses programas, com a formulação de pareceres conclusivos acerca da aplicação desses recursos e o encaminhamento deles ao FNDE.\n\n§ 3º Os conselhos atuarão com autonomia, sem vinculação ou subordinação institucional ao Poder Executivo local e serão renovados periodicamente ao final de cada mandato dos seus membros.\n\n§ 4º Os conselhos não contarão com estrutura administrativa própria, e incumbirá à União, aos Estados, ao Distrito Federal e aos Municípios garantir infraestrutura e condições materiais adequadas à execução plena das competências dos conselhos e oferecer ao Ministério da Educação os dados cadastrais relativos à criação e à composição dos respectivos conselhos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2033.%20O%20acompanhamento%20e%20o%20controle%20social%20sobre%20a%20distribui%C3%A7%C3%A3o%2C%20a%20transfer%C3%AAncia%20e%20a%20aplica%C3%A7%C3%A3o%20dos%20recursos%20dos%20Fundos%20ser%C3%A3o%20exercidos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os conselhos serão criados por legislação específica, editada no respectivo âmbito governamental, observados os seguintes critérios de composição:\n\nI - em âmbito federal:\n\na) 3 (três) representantes do Ministério da Educação;\n\nb) 2 (dois) representantes do Ministério da Economia;\n\nc) 1 (um) representante do Conselho Nacional de Educação (CNE);\n\nd) 1 (um) representante do Conselho Nacional de Secretários de Estado da Educação (Consed);\n\ne) 1 (um) representante da Confederação Nacional dos Trabalhadores em Educação (CNTE);\n\nf) 1 (um) representante da União Nacional dos Dirigentes Municipais de Educação (Undime);\n\ng) 2 (dois) representantes dos pais de alunos da educação básica pública;\n\nh) 2 (dois) representantes dos estudantes da educação básica pública, dos quais 1 (um) indicado pela União Brasileira dos Estudantes Secundaristas (Ubes);\n\ni) 2 (dois) representantes de organizações da sociedade civil;\n\nII - em âmbito estadual:\n\na) 3 (três) representantes do Poder Executivo estadual, dos quais pelo menos 1 (um) do órgão estadual responsável pela educação básica;\n\nb) 2 (dois) representantes dos Poderes Executivos municipais;\n\nc) 2 (dois) representantes do Conselho Estadual de Educação;\n\nd) 1 (um) representante da seccional da União Nacional dos Dirigentes Municipais de Educação (Undime);\n\ne) 1 (um) representante da seccional da Confederação Nacional dos Trabalhadores em Educação (CNTE);\n\nf) 2 (dois) representantes dos pais de alunos da educação básica pública;\n\ng) 2 (dois) representantes dos estudantes da educação básica pública, dos quais 1 (um) indicado pela entidade estadual de estudantes secundaristas;\n\nh) 2 (dois) representantes de organizações da sociedade civil;\n\ni) 1 (um) representante das escolas indígenas, quando houver;\n\nj) 1 (um) representante das escolas quilombolas, quando houver;\n\nIII - no Distrito Federal, com a composição determinada pelo disposto no inciso II deste caput , excluídos os membros mencionados nas suas alíneas b e d;\n\nIV - em âmbito municipal:\n\na) 2 (dois) representantes do Poder Executivo municipal, dos quais pelo menos 1 (um) da Secretaria Municipal de Educação ou órgão educacional equivalente;\n\nb) 1 (um) representante dos professores da educação básica pública;\n\nc) 1 (um) representante dos diretores das escolas básicas públicas;\n\nd) 1 (um) representante dos servidores técnico-administrativos das escolas básicas públicas;\n\ne) 2 (dois) representantes dos pais de alunos da educação básica pública;\n\nf) 2 (dois) representantes dos estudantes da educação básica pública, dos quais 1 (um) indicado pela entidade de estudantes secundaristas.\n\n§ 1º Integrarão ainda os conselhos municipais dos Fundos, quando houver:\n\nI - 1 (um) representante do respectivo Conselho Municipal de Educação (CME);\n\nII - 1 (um) representante do Conselho Tutelar a que se refere a Lei nº 8.069, de 13 de julho de 1990 , indicado por seus pares;\n\nIII - 2 (dois) representantes de organizações da sociedade civil;\n\nIV - 1 (um) representante das escolas indígenas;\n\nV - 1 (um) representante das escolas do campo;\n\nVI - 1 (um) representante das escolas quilombolas.\n\n§ 2º Os membros dos conselhos previstos no caput e no § 1º deste artigo, observados os impedimentos dispostos no § 5º deste artigo, serão indicados até 20 (vinte) dias antes do término do mandato dos conselheiros anteriores, da seguinte forma:\n\nI - nos casos das representações dos órgãos federais, estaduais, municipais e do Distrito Federal e das entidades de classes organizadas, pelos seus dirigentes;\n\nII - nos casos dos representantes dos diretores, pais de alunos e estudantes, pelo conjunto dos estabelecimentos ou entidades de âmbito nacional, estadual ou municipal, conforme o caso, em processo eletivo organizado para esse fim, pelos respectivos pares;\n\nIII - nos casos de representantes de professores e servidores, pelas entidades sindicais da respectiva categoria;\n\nIV - nos casos de organizações da sociedade civil, em processo eletivo dotado de ampla publicidade, vedada a participação de entidades que figurem como beneficiárias de recursos fiscalizados pelo conselho ou como contratadas da Administração da localidade a título oneroso.\n\n§ 3º As organizações da sociedade civil a que se refere este artigo:\n\nI - são pessoas jurídicas de direito privado sem fins lucrativos, nos termos da Lei nº 13.019, de 31 de julho de 2014;\n\nII - desenvolvem atividades direcionadas à localidade do respectivo conselho;\n\nIII - devem atestar o seu funcionamento há pelo menos 1 (um) ano contado da data de publicação do edital;\n\nIV - desenvolvem atividades relacionadas à educação ou ao controle social dos gastos públicos;\n\nV - não figuram como beneficiárias de recursos fiscalizados pelo conselho ou como contratadas da Administração da localidade a título oneroso.\n\n§ 4º Indicados os conselheiros, na forma dos incisos I, II, III e IV do § 2º deste artigo, o Ministério da Educação designará os integrantes do conselho previsto no inciso I do caput deste artigo, e o Poder Executivo competente designará os integrantes dos conselhos previstos nos incisos II, III e IV do caput deste artigo.\n\n§ 5º São impedidos de integrar os conselhos a que se refere o caput deste artigo:\n\nI - titulares dos cargos de Presidente e de Vice-Presidente da República, de Ministro de Estado, de Governador e de Vice-Governador, de Prefeito e de Vice-Prefeito e de Secretário Estadual, Distrital ou Municipal, bem como seus cônjuges e parentes consanguíneos ou afins, até o terceiro grau;\n\nII - tesoureiro, contador ou funcionário de empresa de assessoria ou consultoria que prestem serviços relacionados à administração ou ao controle interno dos recursos do Fundo, bem como cônjuges, parentes consanguíneos ou afins, até o terceiro grau, desses profissionais;\n\nIII - estudantes que não sejam emancipados;\n\nIV - pais de alunos ou representantes da sociedade civil que:\n\na) exerçam cargos ou funções públicas de livre nomeação e exoneração no âmbito dos órgãos do respectivo Poder Executivo gestor dos recursos; ou\n\nb) prestem serviços terceirizados, no âmbito dos Poderes Executivos em que atuam os respectivos conselhos.\n\n§ 6º O presidente dos conselhos previstos no caput deste artigo será eleito por seus pares em reunião do colegiado, sendo impedido de ocupar a função o representante do governo gestor dos recursos do Fundo no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.\n\n§ 7º A atuação dos membros dos conselhos dos Fundos:\n\nI - não é remunerada;\n\nII - é considerada atividade de relevante interesse social;\n\nIII - assegura isenção da obrigatoriedade de testemunhar sobre informações recebidas ou prestadas em razão do exercício de suas atividades de conselheiro e sobre as pessoas que lhes confiarem ou deles receberem informações;\n\nIV - veda, quando os conselheiros forem representantes de professores e diretores ou de servidores das escolas públicas, no curso do mandato:\n\na) exoneração ou demissão do cargo ou emprego sem justa causa ou transferência involuntária do estabelecimento de ensino em que atuam;\n\nb) atribuição de falta injustificada ao serviço em função das atividades do conselho;\n\nc) afastamento involuntário e injustificado da condição de conselheiro antes do término do mandato para o qual tenha sido designado;\n\nV - veda, quando os conselheiros forem representantes de estudantes em atividades do conselho, no curso do mandato, atribuição de falta injustificada nas atividades escolares.\n\n§ 8º Para cada membro titular deverá ser nomeado um suplente, representante da mesma categoria ou segmento social com assento no conselho, que substituirá o titular em seus impedimentos temporários, provisórios e em seus afastamentos definitivos, ocorridos antes do fim do mandato.\n\n§ 9º O mandato dos membros dos conselhos do Fundeb será de 4 (quatro) anos, vedada a recondução para o próximo mandato, e iniciar-se-á em 1º de janeiro do terceiro ano de mandato do respectivo titular do Poder Executivo.\n\n§ 10. Na hipótese de inexistência de estudantes emancipados, representação estudantil poderá acompanhar as reuniões do conselho com direito a voz.\n\n§ 11. A União, os Estados, o Distrito Federal e os Municípios disponibilizarão em sítio na internet informações atualizadas sobre a composição e o funcionamento dos respectivos conselhos de que trata esta Lei, incluídos:\n\nI - nomes dos conselheiros e das entidades ou segmentos que representam;\n\nII - correio eletrônico ou outro canal de contato direto com o conselho;\n\nIII - atas de reuniões;\n\nIV - relatórios e pareceres;\n\nV - outros documentos produzidos pelo conselho.\n\n§ 12. Os conselhos reunir-se-ão, no mínimo, trimestralmente ou por convocação de seu presidente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2034.%20Os%20conselhos%20ser%C3%A3o%20criados%20por%20legisla%C3%A7%C3%A3o%20espec%C3%ADfica%2C%20editada%20no%20respectivo%20%C3%A2mbito%20governamental%2C%20observados%20os%20seguintes%20crit%C3%A9rios%20de%20composi%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O Poder Executivo federal poderá criar e manter redes de conhecimento dos conselheiros, com o objetivo de, entre outros:\n\nI - gerar, compartilhar e disseminar conhecimento e experiências;\n\nII - formular propostas de padrões, políticas, guias e manuais;\n\nIII - discutir sobre os desafios enfrentados e as possibilidades de ação quanto aos gastos públicos do Fundeb e à sua eficiência;\n\nIV - prospectar novas tecnologias para o fornecimento de informações e o controle e a participação social por meios digitais.\n\n§ 1º Será assegurada a participação de todos os conselheiros de todas as esferas de governo nas redes de conhecimento, admitida a participação de instituições científicas, tecnológicas e de inovação interessadas.\n\n§ 2º Será estabelecido canal de comunicação permanente com o FNDE, a quem cabe a coordenação das atividades previstas neste artigo.\n\n§ 3º Será facilitada a integração entre conselheiros do mesmo Estado da Federação, de modo a dinamizar o fluxo de comunicação entre os conselheiros.\n\n§ 4º O Poder Executivo federal poderá criar redes de conhecimento e de inovação dirigidas a outros agentes envolvidos no Fundeb, como gestores públicos e comunidade escolar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2035.%20O%20Poder%20Executivo%20federal%20poder%C3%A1%20criar%20e%20manter%20redes%20de%20conhecimento%20dos%20conselheiros%2C%20com%20o%20objetivo%20de%2C%20entre%20outros%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os registros contábeis e os demonstrativos gerenciais mensais, atualizados, relativos aos recursos repassados e recebidos à conta dos Fundos, assim como os referentes às despesas realizadas, ficarão permanentemente à disposição dos conselhos responsáveis, bem como dos órgãos federais, estaduais e municipais de controle interno e externo, e ser-lhes-á dada ampla publicidade, inclusive por meio eletrônico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2036.%20Os%20registros%20cont%C3%A1beis%20e%20os%20demonstrativos%20gerenciais%20mensais%2C%20atualizados%2C%20relativos%20aos%20recursos%20repassados%20e%20recebidos%20%C3%A0%20conta%20dos%20Fundos%2C%20assim",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. As informações e os dados contábeis, orçamentários e fiscais disponibilizados pelos Estados, pelo Distrito Federal e pelos Municípios, conforme previsto no art. 163-A da Constituição Federal, deverão conter os detalhamentos relacionados ao Fundeb e à manutenção e ao desenvolvimento do ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2037.%20As%20informa%C3%A7%C3%B5es%20e%20os%20dados%20cont%C3%A1beis%2C%20or%C3%A7ament%C3%A1rios%20e%20fiscais%20disponibilizados%20pelos%20Estados%2C%20pelo%20Distrito%20Federal%20e%20pelos%20Munic%C3%ADpios%2C%20conforme%20previsto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A verificação do cumprimento dos percentuais de aplicação dos recursos do Fundeb, estabelecidos nos arts. 212 e 212-A da Constituição Federal , em ações de manutenção e de desenvolvimento do ensino, nas esferas estadual, distrital e municipal, será realizada por meio de registro bimestral das informações em sistema de informações sobre orçamentos públicos em educação, mantido pelo Ministério da Educação.\n\n§ 1º A ausência de registro das informações de que trata o caput deste artigo, no prazo de até 30 (trinta) dias após o encerramento de cada bimestre, ocasionará a suspensão das transferências voluntárias e da contratação de operações de crédito, exceto as destinadas ao refinanciamento do principal atualizado da dívida mobiliária, até que a situação seja regularizada.\n\n§ 2º O sistema de que trata o caput deste artigo deve possibilitar o acesso aos dados e a sua análise pelos presidentes dos conselhos de controle social do Fundeb e pelos Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios.\n\n§ 3º O sistema de que trata o caput deste artigo deverá observar padrões de interoperabilidade e a necessidade de integração de dados com os demais sistemas eletrônicos de dados contábeis, orçamentários e fiscais no âmbito do Poder Executivo federal e dos Tribunais de Contas, como formas de simplificação e de eficiência nos processos de preenchimento e de disponibilização dos dados, e garantir o acesso irrestrito aos dados, os quais devem ser legíveis por máquina e estar disponíveis em formato aberto, respeitadas as Leis nºs 12.527, de 18 de novembro de 2011 , e 13.709, de 14 de agosto de 2018.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2038.%20A%20verifica%C3%A7%C3%A3o%20do%20cumprimento%20dos%20percentuais%20de%20aplica%C3%A7%C3%A3o%20dos%20recursos%20do%20Fundeb%2C%20estabelecidos%20nos%20arts.%20212%20e%20212-A%20da%20Constitui%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O Ministério da Educação atuará:\n\nI - no apoio técnico relacionado aos procedimentos e aos critérios de aplicação dos recursos dos Fundos, perante os Estados, o Distrito Federal e os Municípios e as instâncias responsáveis pelo acompanhamento, pela fiscalização e pelo controle interno e externo;\n\nII - na coordenação de esforços para capacitação dos membros dos conselhos e para elaboração de materiais e guias de apoio à sua função, com a possibilidade de cooperação com instâncias de controle interno, Tribunais de Contas e Ministério Público;\n\nIII - na divulgação de orientações sobre a operacionalização do Fundo e de dados sobre a previsão, a realização e a utilização dos valores financeiros repassados, por meio de publicação e distribuição de documentos informativos e em meio eletrônico de livre acesso público;\n\nIV - na realização de estudos técnicos com vistas à definição do valor referencial anual por aluno que assegure padrão mínimo de qualidade do ensino;\n\nV - no monitoramento da aplicação dos recursos dos Fundos, por meio de sistema de informações orçamentárias e financeiras e de cooperação com os Tribunais de Contas dos Estados e Municípios e do Distrito Federal;\n\nVI - na realização de avaliações dos resultados da aplicação desta Lei, com vistas à adoção de medidas operacionais e de natureza político-educacional corretivas, devendo a primeira dessas medidas ser realizada em até 2 (dois) anos após a implantação do Fundo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2039.%20O%20Minist%C3%A9rio%20da%20Educa%C3%A7%C3%A3o%20atuar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A partir da implantação dos Fundos, a cada 2 (dois) anos o Inep realizará:\n\nI - a avaliação dos efeitos redistributivos, da melhoria dos indicadores educacionais e da ampliação do atendimento;\n\nII - estudos para avaliação da eficiência, da eficácia e da efetividade na aplicação dos recursos dos Fundos.\n\n§ 1º Os dados utilizados nas análises da avaliação disposta no caput deste artigo deverão ser divulgados em diversos formatos eletrônicos, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a facilitar a análise das informações por terceiros.\n\n§ 2º As revisões a que se refere o art. 60-A do Ato das Disposições Constitucionais Transitórias considerarão os resultados das avaliações previstas no caput deste artigo.\n\n§ 3º Em até 24 (vinte e quatro) meses do início da vigência desta Lei, o Ministério da Educação deverá expedir normas para orientar sua atuação, de forma a incentivar e a estimular, inclusive com destinação de recursos, a realização de pesquisas científicas destinadas a avaliar e a inovar as políticas públicas educacionais direcionadas à educação infantil, devendo agir em colaboração com as Fundações de Amparo à Pesquisa (FAPs) estaduais, o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2040.%20A%20partir%20da%20implanta%C3%A7%C3%A3o%20dos%20Fundos%2C%20a%20cada%202%20%28dois%29%20anos%20o%20Inep%20realizar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A complementação da União referida no art. 4º desta Lei será implementada progressivamente até alcançar a proporção estabelecida no art. 5º desta Lei, a partir do primeiro ano subsequente ao da vigência desta Lei, nos seguintes valores mínimos:\n\nI - 12% (doze por cento), no primeiro ano;\n\nII - 15% (quinze por cento), no segundo ano;\n\nIII - 17% (dezessete por cento), no terceiro ano;\n\nIV - 19% (dezenove por cento), no quarto ano;\n\nV - 21% (vinte e um por cento), no quinto ano;\n\nVI - 23% (vinte e três por cento), no sexto ano.\n\n§ 1º A parcela da complementação de que trata o inciso II do caput do art. 5º desta Lei observará, no mínimo, os seguintes valores:\n\nI - 2 (dois) pontos percentuais, no primeiro ano;\n\nII - 5 (cinco) pontos percentuais, no segundo ano;\n\nIII - 6,25 (seis inteiros e vinte e cinco centésimos) pontos percentuais, no terceiro ano;\n\nIV - 7,5 (sete inteiros e cinco décimos) pontos percentuais, no quarto ano;\n\nV - 9 (nove) pontos percentuais, no quinto ano;\n\nVI - 10,5 (dez inteiros e cinco décimos) pontos percentuais, no sexto ano.\n\n§ 2º A parcela da complementação de que trata o inciso III do caput do art. 5º desta Lei observará os seguintes valores:\n\nI - 0,75 (setenta e cinco centésimos) ponto percentual, no terceiro ano;\n\nII - 1,5 (um inteiro e cinco décimos) ponto percentual, no quarto ano;\n\nIII - 2 (dois) pontos percentuais, no quinto ano;\n\nIV - 2,5 (dois inteiros e cinco décimos) pontos percentuais, no sexto ano.\n\n§ 3º No primeiro ano de vigência dos Fundos:\n\nI - os entes disponibilizarão as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º do art. 13 desta Lei, relativos ao exercício financeiro de 2019, nos termos de regulamento;\n\nI - os entes disponibilizarão as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º do art. 13, relativos aos exercícios financeiros de 2019 e 2020, nos termos de regulamento; (Redação dada pela Medida Provisória nº 1.074, de 2021) Vigência encerrada\n\nI - os entes disponibilizarão as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º do art. 13 desta Lei, relativos aos exercícios financeiros de 2019 e 2020, nos termos de regulamento; (Redação dada pela Lei nº 14.276, de 2021)\n\nII - o cronograma mensal de pagamentos da complementação-VAAT, referido no § 2º do art. 16 desta Lei iniciar-se-á em julho e será ajustado pelo Tesouro Nacional, de modo que seja cumprido o prazo previsto para o seu pagamento integral;\n\nIII - o Poder Executivo federal publicará até 30 de junho as estimativas previstas nos incisos V e VI do caput do art. 16 desta Lei relativas às transferências da complementação-VAAT em 2021.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2041.%20A%20complementa%C3%A7%C3%A3o%20da%20Uni%C3%A3o%20referida%20no%20art.%204%C2%BA%20desta%20Lei%20ser%C3%A1%20implementada%20progressivamente%20at%C3%A9%20alcan%C3%A7ar%20a%20propor%C3%A7%C3%A3o%20estabelecida%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os novos conselhos dos Fundos serão instituídos no prazo de 90 (noventa) dias, contado da vigência dos Fundos.\n\n§ 1º Até que sejam instituídos os novos conselhos, no prazo referido no caput deste artigo, caberá aos conselhos existentes na data de publicação desta Lei exercer as funções de acompanhamento e de controle previstas na legislação.\n\n§ 2º No caso dos conselhos municipais, o primeiro mandato dos conselheiros extinguir-se-á em 31 de dezembro de 2022.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2042.%20Os%20novos%20conselhos%20dos%20Fundos%20ser%C3%A3o%20institu%C3%ADdos%20no%20prazo%20de%2090%20%28noventa%29%20dias%2C%20contado%20da%20vig%C3%AAncia%20dos%20Fundos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Esta Lei será atualizada até 31 de outubro de 2021, com relação a:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2043.%20Esta%20Lei%20ser%C3%A1%20atualizada%20at%C3%A9%2031%20de%20outubro%20de%202021%2C%20com%20rela%C3%A7%C3%A3o%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "43-A"
+    },
+    "43-A": {
+      "numero": "43-A",
+      "texto": "Art. 43-A. O indicador de potencial de arrecadação tributária, de que trata o inciso III do caput do art. 10 desta Lei, será implementado a partir do exercício de 2027. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2043-A.%20O%20indicador%20de%20potencial%20de%20arrecada%C3%A7%C3%A3o%20tribut%C3%A1ria%2C%20de%20que%20trata%20o%20inciso%20III%20do%20caput%20do%20art.%2010%20desta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "43-B"
+    },
+    "43-B": {
+      "numero": "43-B",
+      "texto": "Art. 43-B. As informações a que se refere o inciso II do § 3º do art. 14 desta Lei serão aferidas, a partir de 2022, de forma progressiva, de acordo com a implementação do novo ensino médio, nas redes de ensino, em consonância com a Lei nº 13.415, de 16 de fevereiro de 2017. (Incluído pela Lei nº 14.276, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2043-B.%20As%20informa%C3%A7%C3%B5es%20a%20que%20se%20refere%20o%20inciso%20II%20do%20%C2%A7%203%C2%BA%20do%20art.%2014%20desta%20Lei%20ser%C3%A3o%20aferidas%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43-A",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. No primeiro trimestre de 2021, será mantida a sistemática de repartição de recursos prevista na Lei nº 11.494, de 20 de junho de 2007 , mediante a utilização dos coeficientes de participação do Distrito Federal, de cada Estado e dos Municípios, referentes ao exercício de 2020.\n\nParágrafo único. Em relação à complementação da União, será adotado o cronograma de distribuição estabelecido para o primeiro trimestre de 2020.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2044.%20No%20primeiro%20trimestre%20de%202021%2C%20ser%C3%A1%20mantida%20a%20sistem%C3%A1tica%20de%20reparti%C3%A7%C3%A3o%20de%20recursos%20prevista%20na%20Lei%20n%C2%BA%2011.494%2C%20de%2020",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43-B",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A partir de 1º de abril de 2021, a distribuição dos recursos dos Fundos será realizada na forma prevista por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2045.%20A%20partir%20de%201%C2%BA%20de%20abril%20de%202021%2C%20a%20distribui%C3%A7%C3%A3o%20dos%20recursos%20dos%20Fundos%20ser%C3%A1%20realizada%20na%20forma%20prevista%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O ajuste da diferença observada entre a distribuição dos recursos realizada no primeiro trimestre de 2021 e a distribuição conforme a sistemática estabelecida nesta Lei será realizado no mês de maio de 2021.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2046.%20O%20ajuste%20da%20diferen%C3%A7a%20observada%20entre%20a%20distribui%C3%A7%C3%A3o%20dos%20recursos%20realizada%20no%20primeiro%20trimestre%20de%202021%20e%20a%20distribui%C3%A7%C3%A3o%20conforme",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Os repasses e a movimentação dos recursos dos Fundos de que trata esta Lei deverão ocorrer por meio das contas únicas e específicas mantidas em uma das instituições financeiras de que trata o art. 20 desta Lei.\n\n§ 1º Os saldos dos recursos dos Fundos instituídos pela Lei nº 11.494, de 20 de junho de 2007, existentes em contas-correntes mantidas em instituição financeira diversa daquelas de que trata o art. 20 desta Lei, deverão ser integralmente transferidos, até 31 de janeiro de 2021, para as contas de que trata o caput deste artigo.\n\n§ 2º Os ajustes de que trata o § 2º do art. 6º da Lei nº 11.494, de 20 de junho de 2007, realizados a partir de 1º de janeiro de 2021, serão processados nas contas de que trata o caput deste artigo, e os valores processados a crédito deverão ser utilizados nos termos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2047.%20Os%20repasses%20e%20a%20movimenta%C3%A7%C3%A3o%20dos%20recursos%20dos%20Fundos%20de%20que%20trata%20esta%20Lei%20dever%C3%A3o%20ocorrer%20por%20meio%20das%20contas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "47-A"
+    },
+    "47-A": {
+      "numero": "47-A",
+      "texto": "Art. 47-A. Serão utilizados na mesma finalidade e de acordo com os mesmos critérios e condições estabelecidos para utilização do valor principal dos Fundos os recursos extraordinários recebidos pelos Estados, pelo Distrito Federal e pelos Municípios em decorrência de decisões judiciais relativas ao cálculo do valor anual por aluno para a distribuição dos recursos: (Incluído pela Lei nº 14.325, de 2022)\n\nI - dos fundos e da complementação da União ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef), previstos na Lei nº 9.424, de 24 de dezembro de 1996; (Incluído pela Lei nº 14.325, de 2022)\n\nII - dos fundos e da complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb) 2007-2020, previstos na Lei nº 11.494, de 20 de junho de 2007; (Incluído pela Lei nº 14.325, de 2022)\n\nIII - dos fundos e das complementações da União, nas modalidades VAAF e VAAT, ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb) permanente, previstos nesta Lei. (Incluído pela Lei nº 14.325, de 2022)\n\n§ 1º Terão direito ao rateio de que trata o caput deste artigo: (Incluído pela Lei nº 14.325, de 2022)\n\nI - os profissionais do magistério da educação básica que estavam em cargo, emprego ou função, integrantes da estrutura, quadro ou tabela de servidores do Estado, do Distrito Federal ou do Município, com vínculo estatutário, celetista ou temporário, desde que em efetivo exercício das funções na rede pública durante o período em que ocorreram os repasses a menor do Fundef 1997-2006 ou do Fundeb 2007-2020 a que se referem os incisos I e II do caput deste artigo; (Incluído pela Lei nº 14.325, de 2022)\n\nII - os profissionais da educação básica que estavam em cargo, emprego ou função, integrantes da estrutura, quadro ou tabela de servidores do Estado, do Distrito Federal ou do Município, com vínculos estatutário, celetista ou temporário, desde que em efetivo exercício das funções na rede pública durante o período em que ocorreram os repasses a menor do Fundeb permanente a que se refere o inciso III do caput deste artigo; (Incluído pela Lei nº 14.325, de 2022)\n\nIII - os aposentados que comprovarem efetivo exercício nas redes públicas escolares, nos períodos dispostos nos incisos I e II do caput deste artigo, ainda que não tenham mais vínculo direto com a administração pública que os remunerava, e os herdeiros, em caso de falecimento dos profissionais alcançados por este artigo. (Incluído pela Lei nº 14.325, de 2022)\n\n§ 2º O valor a ser pago a cada profissional: (Incluído pela Lei nº 14.325, de 2022)\n\nI - é proporcional à jornada de trabalho e aos meses de efetivo exercício no magistério e na educação básica, no caso dos demais profissionais da educação básica previstos no inciso III do caput do art. 61 da Lei nº 9.394, de 20 de dezembro de 1996; (Incluído pela Lei nº 14.325, de 2022)\n\nII - tem caráter indenizatório e não se incorpora à remuneração dos servidores ativos ou aos proventos dos inativos que fizerem parte do rateio definido no § 1º deste artigo. (Incluído pela Lei nº 14.325, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2047-A.%20Ser%C3%A3o%20utilizados%20na%20mesma%20finalidade%20e%20de%20acordo%20com%20os%20mesmos%20crit%C3%A9rios%20e%20condi%C3%A7%C3%B5es%20estabelecidos%20para%20utiliza%C3%A7%C3%A3o%20do%20valor%20principal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os Municípios poderão integrar, nos termos da legislação local específica e desta Lei, o Conselho do Fundo ao Conselho Municipal de Educação, com instituição de câmara específica para o acompanhamento e o controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundo, observado o disposto no inciso IV do caput e nos §§ 1º, 2º, 4º e 5º do art. 34 desta Lei.\n\n§ 1º A câmara específica de acompanhamento e de controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundeb a que se refere o caput deste artigo terá competência deliberativa e terminativa.\n\n§ 2º Aplicar-se-ão para a constituição dos conselhos municipais de educação as regras previstas no § 5º do art. 34 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2048.%20Os%20Munic%C3%ADpios%20poder%C3%A3o%20integrar%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20local%20espec%C3%ADfica%20e%20desta%20Lei%2C%20o%20Conselho%20do%20Fundo%20ao%20Conselho%20Municipal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47-A",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A União, os Estados, o Distrito Federal e os Municípios deverão assegurar no financiamento da educação básica, previsto no art. 212 da Constituição Federal, a melhoria da qualidade do ensino, de forma a garantir padrão mínimo de qualidade definido nacionalmente.\n\n§ 1º É assegurada a participação popular e da comunidade educacional no processo de definição do padrão nacional de qualidade referido no caput deste artigo.\n\n§ 2º As diferenças e as ponderações aplicáveis entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino da educação básica, bem como seus custos médios, de que trata esta Lei, considerarão as condições adequadas de oferta e terão como referência o Custo Aluno Qualidade (CAQ), quando regulamentado, nos termos do § 7º do art. 211 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2049.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20dever%C3%A3o%20assegurar%20no%20financiamento%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20previsto%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A União desenvolverá e apoiará políticas de estímulo às iniciativas de melhoria de qualidade do ensino, de acesso e de permanência na escola, promovidas pelas unidades federadas, em especial aquelas direcionadas à inclusão de crianças e adolescentes em situação de risco social.\n\nParágrafo único. A União, os Estados e o Distrito Federal desenvolverão, em regime de colaboração, programas de apoio ao esforço para conclusão da educação básica dos alunos regularmente matriculados no sistema público de educação:\n\nI - que cumpram pena no sistema penitenciário, ainda que na condição de presos provisórios;\n\nII - aos quais tenham sido aplicadas medidas socioeducativas nos termos da Lei nº 8.069, de 13 de julho de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2050.%20A%20Uni%C3%A3o%20desenvolver%C3%A1%20e%20apoiar%C3%A1%20pol%C3%ADticas%20de%20est%C3%ADmulo%20%C3%A0s%20iniciativas%20de%20melhoria%20de%20qualidade%20do%20ensino%2C%20de%20acesso%20e%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Os Estados, o Distrito Federal e os Municípios deverão implantar planos de carreira e remuneração dos profissionais da educação básica, de modo a assegurar:\n\nI - remuneração condigna dos profissionais na educação básica da rede pública;\n\nII - integração entre o trabalho individual e a proposta pedagógica da escola;\n\nIII - melhoria da qualidade do ensino e da aprendizagem;\n\nIV - medidas de incentivo para que profissionais mais bem avaliados exerçam suas funções em escolas de locais com piores indicadores socioeconômicos ou que atendam estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.\n\nParágrafo único. Os planos de carreira deverão contemplar capacitação profissional especialmente direcionada à formação continuada com vistas à melhoria da qualidade do ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2051.%20Os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20dever%C3%A3o%20implantar%20planos%20de%20carreira%20e%20remunera%C3%A7%C3%A3o%20dos%20profissionais%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Na hipótese prevista no § 8º do art. 212 da Constituição Federal, inclusive quanto a isenções tributárias, deverão ser avaliados os impactos nos Fundos e os meios para que não haja perdas ao financiamento da educação básica.\n\nParágrafo único. Para efeitos do disposto no caput deste artigo, deve-se buscar meios para que o montante dos recursos vinculados ao Fundeb nos entes federativos seja no mínimo igual à média aritmética dos 3 (três) últimos exercícios, na forma de regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2052.%20Na%20hip%C3%B3tese%20prevista%20no%20%C2%A7%208%C2%BA%20do%20art.%20212%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20inclusive%20quanto%20a%20isen%C3%A7%C3%B5es%20tribut%C3%A1rias%2C%20dever%C3%A3o%20ser%20avaliados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Fica revogada, a partir de 1º de janeiro de 2021, a Lei nº 11.494, de 20 de junho de 2007 , ressalvado o art. 12 e mantidos seus efeitos financeiros no que se refere à execução dos Fundos relativa ao exercício de 2020.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2053.%20Fica%20revogada%2C%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%202021%2C%20a%20Lei%20n%C2%BA%2011.494%2C%20de%2020%20de%20junho%20de%202007",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Esta Lei entra em vigor na data da sua publicação.\n\nBrasília, 25 de dezembro de 2020; 199o da Independência e 132o da República.\n\nJAIR MESSIAS BOLSONARO Paulo Guedes Milton Ribeiro\n\nEste texto não substitui o publicado no DOU de 25.12.2020 - Edição extra\n\nDownload para anexo\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm#:~:text=Art.%2054.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20da%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": null
+    }
+  }
+}

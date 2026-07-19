@@ -1,0 +1,607 @@
+{
+  "_meta": {
+    "codigo": "MCI",
+    "nome": "Marco Civil da Internet",
+    "lei": "Lei 12.965/2014",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+    "total_artigos": 37,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil e determina as diretrizes para atuação da União, dos Estados, do Distrito Federal e dos Municípios em relação à matéria.\n\nParágrafo único. O disposto nesta Lei aplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou, no mínimo, uma pessoa jurídica integrante do mesmo grupo econômico possua estabelecimento situado no País. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20estabelece%20princ%C3%ADpios%2C%20garantias%2C%20direitos%20e%20deveres%20para%20o%20uso%20da%20internet%20no%20Brasil%20e%20determina%20as%20diretrizes%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A disciplina do uso da internet no Brasil tem como fundamento o respeito à liberdade de expressão, bem como:\n\nI - o reconhecimento da escala mundial da rede;\n\nII - os direitos humanos, o desenvolvimento da personalidade e o exercício da cidadania em meios digitais;\n\nIII - a pluralidade e a diversidade;\n\nIV - a abertura e a colaboração;\n\nV - a livre iniciativa, a livre concorrência e a defesa do consumidor; e\n\nVI - a finalidade social da rede.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%202%C2%BA%20A%20disciplina%20do%20uso%20da%20internet%20no%20Brasil%20tem%20como%20fundamento%20o%20respeito%20%C3%A0%20liberdade%20de%20express%C3%A3o%2C%20bem%20como%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A disciplina do uso da internet no Brasil tem os seguintes princípios:\n\nI - garantia da liberdade de expressão, comunicação e manifestação de pensamento, nos termos da Constituição Federal;\n\nII - proteção da privacidade;\n\nIII - proteção dos dados pessoais, na forma da lei;\n\nIV - preservação e garantia da neutralidade de rede;\n\nV - preservação da estabilidade, segurança e funcionalidade da rede, por meio de medidas técnicas compatíveis com os padrões internacionais e pelo estímulo ao uso de boas práticas;\n\nVI - responsabilização dos agentes de acordo com suas atividades, nos termos da lei;\n\nVII - preservação da natureza participativa da rede;\n\nVIII - liberdade dos modelos de negócios promovidos na internet, desde que não conflitem com os demais princípios estabelecidos nesta Lei.\n\nParágrafo único. Os princípios expressos nesta Lei não excluem outros previstos no ordenamento jurídico pátrio relacionados à matéria ou nos tratados internacionais em que a República Federativa do Brasil seja parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%203%C2%BA%20A%20disciplina%20do%20uso%20da%20internet%20no%20Brasil%20tem%20os%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A disciplina do uso da internet no Brasil tem por objetivo a promoção:\n\nI - do direito de acesso à internet a todos;\n\nII - do acesso à informação, ao conhecimento e à participação na vida cultural e na condução dos assuntos públicos;\n\nIII - da inovação e do fomento à ampla difusão de novas tecnologias e modelos de uso e acesso; e\n\nIV - da adesão a padrões tecnológicos abertos que permitam a comunicação, a acessibilidade e a interoperabilidade entre aplicações e bases de dados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%204%C2%BA%20A%20disciplina%20do%20uso%20da%20internet%20no%20Brasil%20tem%20por%20objetivo%20a%20promo%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Para os efeitos desta Lei, considera-se:\n\nI - internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito, com a finalidade de possibilitar a comunicação de dados entre terminais por meio de diferentes redes;\n\nII - terminal: o computador ou qualquer dispositivo que se conecte à internet;\n\nIII - endereço de protocolo de internet (endereço IP): o código atribuído a um terminal de uma rede para permitir sua identificação, definido segundo parâmetros internacionais;\n\nIV - administrador de sistema autônomo: a pessoa física ou jurídica que administra blocos de endereço IP específicos e o respectivo sistema autônomo de roteamento, devidamente cadastrada no ente nacional responsável pelo registro e distribuição de endereços IP geograficamente referentes ao País;\n\nV - conexão à internet: a habilitação de um terminal para envio e recebimento de pacotes de dados pela internet, mediante a atribuição ou autenticação de um endereço IP;\n\nVI - registro de conexão: o conjunto de informações referentes à data e hora de início e término de uma conexão à internet, sua duração e o endereço IP utilizado pelo terminal para o envio e recebimento de pacotes de dados;\n\nVII - aplicações de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado à internet; e\n\nVII - aplicações de internet - o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado à internet; (Redação dada pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nVII - aplicações de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado à internet; e\n\nVIII - registros de acesso a aplicações de internet: o conjunto de informações referentes à data e hora de uso de uma determinada aplicação de internet a partir de um determinado endereço IP.\n\nVIII - registros de acesso a aplicações de internet - o conjunto de informações referentes à data e à hora de uso de uma determinada aplicação de internet a partir de um determinado endereço IP; (Redação dada pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nVIII - registros de acesso a aplicações de internet: o conjunto de informações referentes à data e hora de uso de uma determinada aplicação de internet a partir de um determinado endereço IP.\n\nIX - rede social - aplicação de internet cuja principal finalidade seja o compartilhamento e a disseminação, pelos usuários, de opiniões e informações, veiculados por textos ou arquivos de imagens, sonoros ou audiovisuais, em uma única plataforma, por meio de contas conectadas ou acessíveis de forma articulada, permitida a conexão entre usuários, e que seja provida por pessoa jurídica que exerça atividade com fins econômicos e de forma organizada, mediante a oferta de serviços ao público brasileiro com, no mínimo, dez milhões de usuários registrados no País; e (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nX - moderação em redes sociais - ações dos provedores de redes sociais de exclusão, suspensão ou bloqueio da divulgação de conteúdo gerado por usuário e ações de cancelamento ou suspensão, total ou parcial, dos serviços e das funcionalidades de conta ou perfil de usuário de redes sociais. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nParágrafo único. Não se incluem na definição de que trata o inciso IX do caput as aplicações de internet que se destinam à troca de mensagens instantâneas e às chamadas de voz, assim como aquelas que tenham como principal finalidade a viabilização do comércio de bens ou serviços. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%205%C2%BA%20Para%20os%20efeitos%20desta%20Lei%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Na interpretação desta Lei serão levados em conta, além dos fundamentos, princípios e objetivos previstos, a natureza da internet, seus usos e costumes particulares e sua importância para a promoção do desenvolvimento humano, econômico, social e cultural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%206%C2%BA%20Na%20interpreta%C3%A7%C3%A3o%20desta%20Lei%20ser%C3%A3o%20levados%20em%20conta%2C%20al%C3%A9m%20dos%20fundamentos%2C%20princ%C3%ADpios%20e%20objetivos%20previstos%2C%20a%20natureza%20da%20internet%2C%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O acesso à internet é essencial ao exercício da cidadania, e ao usuário são assegurados os seguintes direitos:\n\nI - inviolabilidade da intimidade e da vida privada, sua proteção e indenização pelo dano material ou moral decorrente de sua violação;\n\nII - inviolabilidade e sigilo do fluxo de suas comunicações pela internet, salvo por ordem judicial, na forma da lei;\n\nIII - inviolabilidade e sigilo de suas comunicações privadas armazenadas, salvo por ordem judicial;\n\nIV - não suspensão da conexão à internet, salvo por débito diretamente decorrente de sua utilização;\n\nV - manutenção da qualidade contratada da conexão à internet;\n\nVI - informações claras e completas constantes dos contratos de prestação de serviços, com detalhamento sobre o regime de proteção aos registros de conexão e aos registros de acesso a aplicações de internet, bem como sobre práticas de gerenciamento da rede que possam afetar sua qualidade;\n\nVII - não fornecimento a terceiros de seus dados pessoais, inclusive registros de conexão, e de acesso a aplicações de internet, salvo mediante consentimento livre, expresso e informado ou nas hipóteses previstas em lei;\n\nVIII - informações claras e completas sobre coleta, uso, armazenamento, tratamento e proteção de seus dados pessoais, que somente poderão ser utilizados para finalidades que:\n\na) justifiquem sua coleta;\n\nb) não sejam vedadas pela legislação; e\n\nc) estejam especificadas nos contratos de prestação de serviços ou em termos de uso de aplicações de internet;\n\nIX - consentimento expresso sobre coleta, uso, armazenamento e tratamento de dados pessoais, que deverá ocorrer de forma destacada das demais cláusulas contratuais;\n\nX - exclusão definitiva dos dados pessoais que tiver fornecido a determinada aplicação de internet, a seu requerimento, ao término da relação entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei;\n\nX - exclusão definitiva dos dados pessoais que tiver fornecido a determinada aplicação de internet, a seu requerimento, ao término da relação entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei e na que dispõe sobre a proteção de dados pessoais; (Redação dada pela Lei nº 13.709, de 2018) (Vigência)\n\nXI - publicidade e clareza de eventuais políticas de uso dos provedores de conexão à internet e de aplicações de internet;\n\nXII - acessibilidade, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário, nos termos da lei; e\n\nXIII - aplicação das normas de proteção e defesa do consumidor nas relações de consumo realizadas na internet.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%207%C2%BA%20O%20acesso%20%C3%A0%20internet%20%C3%A9%20essencial%20ao%20exerc%C3%ADcio%20da%20cidadania%2C%20e%20ao%20usu%C3%A1rio%20s%C3%A3o%20assegurados%20os%20seguintes%20direitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A garantia do direito à privacidade e à liberdade de expressão nas comunicações é condição para o pleno exercício do direito de acesso à internet.\n\nParágrafo único. São nulas de pleno direito as cláusulas contratuais que violem o disposto no caput, tais como aquelas que:\n\nI - impliquem ofensa à inviolabilidade e ao sigilo das comunicações privadas, pela internet; ou\n\nII - em contrato de adesão, não ofereçam como alternativa ao contratante a adoção do foro brasileiro para solução de controvérsias decorrentes de serviços prestados no Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%208%C2%BA%20A%20garantia%20do%20direito%20%C3%A0%20privacidade%20e%20%C3%A0%20liberdade%20de%20express%C3%A3o%20nas%20comunica%C3%A7%C3%B5es%20%C3%A9%20condi%C3%A7%C3%A3o%20para%20o%20pleno%20exerc%C3%ADcio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A Aos usuários, nas relações com os provedores de redes sociais, são assegurados os seguintes direitos, sem prejuízo do disposto na Seção I deste Capítulo: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - acesso a informações claras, públicas e objetivas sobre quaisquer políticas, procedimentos, medidas e instrumentos utilizados para fins de eventual moderação ou limitação do alcance da divulgação de conteúdo gerado pelo usuário, incluídos os critérios e os procedimentos utilizados para a decisão humana ou automatizada, ressalvados os segredos comercial e industrial; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - contraditório, ampla defesa e recurso, a serem obrigatoriamente observados nas hipóteses de moderação de conteúdo, devendo o provedor de redes sociais oferecer, no mínimo, um canal eletrônico de comunicação dedicado ao exercício desses direitos; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - restituição do conteúdo disponibilizado pelo usuário, em particular de dados pessoais, textos, imagens, dentre outros, quando houver requerimento; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIV - restabelecimento da conta, do perfil ou do conteúdo no mesmo estado em que se encontrava, na hipótese de moderação indevida pelo provedor de redes sociais; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nV - não exclusão, cancelamento ou suspensão, total ou parcial, de serviços e funcionalidades da conta ou do perfil, exceto por justa causa, observado o disposto no art. 8º-B; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nVI - não exclusão, suspensão ou bloqueio da divulgação de conteúdo gerado pelo usuário, exceto por justa causa, observado o disposto no art. 8º-C; e (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nVII - acesso a resumo dos termos de uso da rede social, com destaque às regras de maior significância para o usuário. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nParágrafo único. É vedada aos provedores de redes sociais a adoção de critérios de moderação ou limitação do alcance da divulgação de conteúdo que impliquem censura de ordem política, ideológica, científica, artística ou religiosa, observado o disposto nos art. 8º-B e art. 8º-C. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%208%C2%BA-A%20Aos%20usu%C3%A1rios%2C%20nas%20rela%C3%A7%C3%B5es%20com%20os%20provedores%20de%20redes%20sociais%2C%20s%C3%A3o%20assegurados%20os%20seguintes%20direitos%2C%20sem%20preju%C3%ADzo%20do%20disposto%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B Em observância à liberdade de expressão, comunicação e manifestação de pensamento, a exclusão, o cancelamento ou a suspensão, total ou parcial, dos serviços e das funcionalidades da conta ou do perfil de usuário de redes sociais somente poderá ser realizado com justa causa e motivação. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 1º Considera-se caracterizada a justa causa nas seguintes hipóteses: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - inadimplemento do usuário; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - contas criadas com o propósito de assumir ou simular identidade de terceiros para enganar o público, ressalvados o direito ao uso de nome social e à pseudonímia e o explícito ânimo humorístico ou paródico; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - contas preponderantemente geridas por qualquer programa de computador ou tecnologia para simular ou substituir atividades humanas na distribuição de conteúdo em provedores; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIV - prática reiterada das condutas previstas no art. 8º-C; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nV - contas que ofertem produtos ou serviços que violem patente, marca registrada, direito autoral ou outros direitos de propriedade intelectual; ou (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nVI - cumprimento de determinação judicial. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 2º O usuário deverá ser notificado da exclusão, do cancelamento ou da suspensão, total ou parcial, dos serviços e das funcionalidades da conta ou do perfil. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 3º A notificação de que trata o § 2º: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede social; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - ocorrerá de forma prévia ou concomitante à exclusão, ao cancelamento ou à suspensão, total ou parcial, dos serviços e das funcionalidades da conta ou do perfil; e (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - conterá a identificação da medida adotada, a motivação da decisão e as informações sobre prazos, canais eletrônicos de comunicação e procedimentos para a contestação e a eventual revisão pelo provedor de redes sociais. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 4º As medidas de que trata o caput também poderão ser adotadas a requerimento do próprio usuário, de seu representante legal ou de seus herdeiros, ressalvadas as hipóteses de guarda obrigatória de registros previstas na legislação. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%208%C2%BA-B%20Em%20observ%C3%A2ncia%20%C3%A0%20liberdade%20de%20express%C3%A3o%2C%20comunica%C3%A7%C3%A3o%20e%20manifesta%C3%A7%C3%A3o%20de%20pensamento%2C%20a%20exclus%C3%A3o%2C%20o%20cancelamento%20ou%20a%20suspens%C3%A3o%2C%20total%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8-A",
+      "next": "8-C"
+    },
+    "8-C": {
+      "numero": "8-C",
+      "texto": "Art. 8º-C Em observância à liberdade de expressão, comunicação e manifestação de pensamento, a exclusão, a suspensão ou o bloqueio da divulgação de conteúdo gerado por usuário somente poderá ser realizado com justa causa e motivação. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 1º Considera-se caracterizada a justa causa nas seguintes hipóteses: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - quando o conteúdo publicado pelo usuário estiver em desacordo com o disposto na Lei nº 8.069, de 13 de julho de 1990; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - quando a divulgação ou a reprodução configurar: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\na) nudez ou representações explícitas ou implícitas de atos sexuais; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nb) prática, apoio, promoção ou incitação de crimes contra a vida, pedofilia, terrorismo, tráfico ou quaisquer outras infrações penais sujeitas à ação penal pública incondicionada; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nc) apoio, recrutamento, promoção ou ajuda a organizações criminosas ou terroristas ou a seus atos; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nd) prática, apoio, promoção ou incitação de atos de ameaça ou violência, inclusive por razões de discriminação ou preconceito de raça, cor, sexo, etnia, religião ou orientação sexual; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\ne) promoção, ensino, incentivo ou apologia à fabricação ou ao consumo, explícito ou implícito, de drogas ilícitas; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nf) prática, apoio, promoção ou incitação de atos de violência contra animais; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\ng) utilização ou ensino do uso de computadores ou tecnologia da informação com o objetivo de roubar credenciais, invadir sistemas, comprometer dados pessoais ou causar danos a terceiros; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nh) prática, apoio, promoção ou incitação de atos contra a segurança pública, defesa nacional ou segurança do Estado; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\ni) utilização ou ensino do uso de aplicações de internet, sítios eletrônicos ou tecnologia da informação com o objetivo de violar patente, marca registrada, direito autoral ou outros direitos de propriedade intelectual; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nj) infração às normas editadas pelo Conselho Nacional de Autorregulamentação Publicitária referentes a conteúdo ou material publicitário ou propagandístico; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nk) disseminação de vírus de software ou qualquer outro código de computador, arquivo ou programa projetado para interromper, destruir ou limitar a funcionalidade de qualquer recurso de computador; ou (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nl) comercialização de produtos impróprios ao consumo, nos termos do disposto no § 6º do art. 18 da Lei nº 8.078, de 11 de setembro de 1990; (Incluído pela Medida Provisória nº 1.068, de 2021 (Rejeitada)\n\nIII - requerimento do ofendido, de seu representante legal ou de seus herdeiros, na hipótese de violação à intimidade, à privacidade, à imagem, à honra, à proteção de seus dados pessoais ou à propriedade intelectual; ou (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIV - cumprimento de determinação judicial. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 2º O usuário deverá ser notificado da exclusão, da suspensão ou do bloqueio da divulgação de conteúdo por ele gerado. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 3º A notificação de que trata o § 2º: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede social; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - ocorrerá de forma prévia ou concomitante à exclusão, à suspensão ou ao bloqueio da divulgação de conteúdo; e (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - conterá a identificação da medida adotada, a motivação da decisão e as informações sobre prazos, canais eletrônicos de comunicação e procedimentos para a contestação e a eventual revisão pelo provedor de redes sociais. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 4º As medidas de que trata o caput também poderão ser adotadas a requerimento do próprio usuário, ressalvadas as hipóteses de guarda obrigatória de registros previstas na legislação. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%208%C2%BA-C%20Em%20observ%C3%A2ncia%20%C3%A0%20liberdade%20de%20express%C3%A3o%2C%20comunica%C3%A7%C3%A3o%20e%20manifesta%C3%A7%C3%A3o%20de%20pensamento%2C%20a%20exclus%C3%A3o%2C%20a%20suspens%C3%A3o%20ou%20o%20bloqueio%20da%20divulga%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8-B",
+      "next": "8-D"
+    },
+    "8-D": {
+      "numero": "8-D",
+      "texto": "Art. 8º-D Para aplicação do disposto nos art. 8º-B e art. 8º-C, será considerada motivada a decisão que: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - indicar a parte específica do contrato de prestação de serviços ou do termo de uso relativo aos serviços fornecidos pelo provedor de aplicações de internet que foi violada; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - especificar a postagem ou a conduta considerada afrontosa ao contrato de prestação de serviços ou ao termo de uso; e (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - informar o fundamento jurídico da decisão. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%208%C2%BA-D%20Para%20aplica%C3%A7%C3%A3o%20do%20disposto%20nos%20art.%208%C2%BA-B%20e%20art.%208%C2%BA-C%2C%20ser%C3%A1%20considerada%20motivada%20a%20decis%C3%A3o%20que%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8-C",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O responsável pela transmissão, comutação ou roteamento tem o dever de tratar de forma isonômica quaisquer pacotes de dados, sem distinção por conteúdo, origem e destino, serviço, terminal ou aplicação.\n\n§ 1º A discriminação ou degradação do tráfego será regulamentada nos termos das atribuições privativas do Presidente da República previstas no inciso IV do art. 84 da Constituição Federal, para a fiel execução desta Lei, ouvidos o Comitê Gestor da Internet e a Agência Nacional de Telecomunicações, e somente poderá decorrer de:\n\nI - requisitos técnicos indispensáveis à prestação adequada dos serviços e aplicações; e\n\nII - priorização de serviços de emergência.\n\n§ 2º Na hipótese de discriminação ou degradação do tráfego prevista no § 1º , o responsável mencionado no caput deve:\n\nI - abster-se de causar dano aos usuários, na forma do art. 927 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil;\n\nII - agir com proporcionalidade, transparência e isonomia;\n\nIII - informar previamente de modo transparente, claro e suficientemente descritivo aos seus usuários sobre as práticas de gerenciamento e mitigação de tráfego adotadas, inclusive as relacionadas à segurança da rede; e\n\nIV - oferecer serviços em condições comerciais não discriminatórias e abster-se de praticar condutas anticoncorrenciais.\n\n§ 3º Na provisão de conexão à internet, onerosa ou gratuita, bem como na transmissão, comutação ou roteamento, é vedado bloquear, monitorar, filtrar ou analisar o conteúdo dos pacotes de dados, respeitado o disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%209%C2%BA%20O%20respons%C3%A1vel%20pela%20transmiss%C3%A3o%2C%20comuta%C3%A7%C3%A3o%20ou%20roteamento%20tem%20o%20dever%20de%20tratar%20de%20forma%20ison%C3%B4mica%20quaisquer%20pacotes%20de%20dados%2C%20sem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "I",
+        "section_name": "Seção I Da Neutralidade de Rede"
+      },
+      "prev": "8-D",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A guarda e a disponibilização dos registros de conexão e de acesso a aplicações de internet de que trata esta Lei, bem como de dados pessoais e do conteúdo de comunicações privadas, devem atender à preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.\n\n§ 1º O provedor responsável pela guarda somente será obrigado a disponibilizar os registros mencionados no caput, de forma autônoma ou associados a dados pessoais ou a outras informações que possam contribuir para a identificação do usuário ou do terminal, mediante ordem judicial, na forma do disposto na Seção IV deste Capítulo, respeitado o disposto no art. 7º .\n\n§ 2º O conteúdo das comunicações privadas somente poderá ser disponibilizado mediante ordem judicial, nas hipóteses e na forma que a lei estabelecer, respeitado o disposto nos incisos II e III do art. 7º .\n\n§ 3º O disposto no caput não impede o acesso aos dados cadastrais que informem qualificação pessoal, filiação e endereço, na forma da lei, pelas autoridades administrativas que detenham competência legal para a sua requisição.\n\n§ 4º As medidas e os procedimentos de segurança e de sigilo devem ser informados pelo responsável pela provisão de serviços de forma clara e atender a padrões definidos em regulamento, respeitado seu direito de confidencialidade quanto a segredos empresariais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2010.%20A%20guarda%20e%20a%20disponibiliza%C3%A7%C3%A3o%20dos%20registros%20de%20conex%C3%A3o%20e%20de%20acesso%20a%20aplica%C3%A7%C3%B5es%20de%20internet%20de%20que%20trata%20esta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Em qualquer operação de coleta, armazenamento, guarda e tratamento de registros, de dados pessoais ou de comunicações por provedores de conexão e de aplicações de internet em que pelo menos um desses atos ocorra em território nacional, deverão ser obrigatoriamente respeitados a legislação brasileira e os direitos à privacidade, à proteção dos dados pessoais e ao sigilo das comunicações privadas e dos registros.\n\n§ 1º O disposto no caput aplica-se aos dados coletados em território nacional e ao conteúdo das comunicações, desde que pelo menos um dos terminais esteja localizado no Brasil.\n\n§ 2º O disposto no caput aplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou pelo menos uma integrante do mesmo grupo econômico possua estabelecimento no Brasil. (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 2º O disposto no caput aplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou pelo menos uma integrante do mesmo grupo econômico possua estabelecimento no Brasil.\n\n§ 3º Os provedores de conexão e de aplicações de internet deverão prestar, na forma da regulamentação, informações que permitam a verificação quanto ao cumprimento da legislação brasileira referente à coleta, à guarda, ao armazenamento ou ao tratamento de dados, bem como quanto ao respeito à privacidade e ao sigilo de comunicações.\n\n§ 4º Decreto regulamentará o procedimento para apuração de infrações ao disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2011.%20Em%20qualquer%20opera%C3%A7%C3%A3o%20de%20coleta%2C%20armazenamento%2C%20guarda%20e%20tratamento%20de%20registros%2C%20de%20dados%20pessoais%20ou%20de%20comunica%C3%A7%C3%B5es%20por%20provedores%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Sem prejuízo das demais sanções cíveis, criminais ou administrativas, as infrações às normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, às seguintes sanções, aplicadas de forma isolada ou cumulativa: (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - advertência, com indicação de prazo para adoção de medidas corretivas; (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - multa de até 10% (dez por cento) do faturamento do grupo econômico no Brasil no seu último exercício, excluídos os tributos, considerados a condição econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sanção; (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - suspensão temporária das atividades que envolvam os atos previstos no art. 11; ou (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIV - proibição de exercício das atividades que envolvam os atos previstos no art. 11. (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nParágrafo único. Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o caput sua filial, sucursal, escritório ou estabelecimento situado no País. (Revogado pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2012.%20Sem%20preju%C3%ADzo%20das%20demais%20san%C3%A7%C3%B5es%20c%C3%ADveis%2C%20criminais%20ou%20administrativas%2C%20as%20infra%C3%A7%C3%B5es%20%C3%A0s%20normas%20previstas%20nos%20arts.%2010%20e%2011%20ficam",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Na provisão de conexão à internet, cabe ao administrador de sistema autônomo respectivo o dever de manter os registros de conexão, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 1 (um) ano, nos termos do regulamento.\n\n§ 1º A responsabilidade pela manutenção dos registros de conexão não poderá ser transferida a terceiros.\n\n§ 2º A autoridade policial ou administrativa ou o Ministério Público poderá requerer cautelarmente que os registros de conexão sejam guardados por prazo superior ao previsto no caput.\n\n§ 3º Na hipótese do § 2º , a autoridade requerente terá o prazo de 60 (sessenta) dias, contados a partir do requerimento, para ingressar com o pedido de autorização judicial de acesso aos registros previstos no caput.\n\n§ 4º O provedor responsável pela guarda dos registros deverá manter sigilo em relação ao requerimento previsto no § 2º , que perderá sua eficácia caso o pedido de autorização judicial seja indeferido ou não tenha sido protocolado no prazo previsto no § 3º .\n\n§ 5º Em qualquer hipótese, a disponibilização ao requerente dos registros de que trata este artigo deverá ser precedida de autorização judicial, conforme disposto na Seção IV deste Capítulo.\n\n§ 6º Na aplicação de sanções pelo descumprimento ao disposto neste artigo, serão considerados a natureza e a gravidade da infração, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidência.\n\nSubseção II Da Guarda de Registros de Acesso a Aplicações de Internet na Provisão de Conexão",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2013.%20Na%20provis%C3%A3o%20de%20conex%C3%A3o%20%C3%A0%20internet%2C%20cabe%20ao%20administrador%20de%20sistema%20aut%C3%B4nomo%20respectivo%20o%20dever%20de%20manter%20os%20registros%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Na provisão de conexão, onerosa ou gratuita, é vedado guardar os registros de acesso a aplicações de internet.\n\nSubseção III Da Guarda de Registros de Acesso a Aplicações de Internet na Provisão de Aplicações",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2014.%20Na%20provis%C3%A3o%20de%20conex%C3%A3o%2C%20onerosa%20ou%20gratuita%2C%20%C3%A9%20vedado%20guardar%20os%20registros%20de%20acesso%20a%20aplica%C3%A7%C3%B5es%20de%20internet.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O provedor de aplicações de internet constituído na forma de pessoa jurídica e que exerça essa atividade de forma organizada, profissionalmente e com fins econômicos deverá manter os respectivos registros de acesso a aplicações de internet, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 6 (seis) meses, nos termos do regulamento.\n\n§ 1º Ordem judicial poderá obrigar, por tempo certo, os provedores de aplicações de internet que não estão sujeitos ao disposto no caput a guardarem registros de acesso a aplicações de internet, desde que se trate de registros relativos a fatos específicos em período determinado.\n\n§ 2º A autoridade policial ou administrativa ou o Ministério Público poderão requerer cautelarmente a qualquer provedor de aplicações de internet que os registros de acesso a aplicações de internet sejam guardados, inclusive por prazo superior ao previsto no caput, observado o disposto nos §§ 3º e 4º do art. 13.\n\n§ 3º Em qualquer hipótese, a disponibilização ao requerente dos registros de que trata este artigo deverá ser precedida de autorização judicial, conforme disposto na Seção IV deste Capítulo.\n\n§ 4º Na aplicação de sanções pelo descumprimento ao disposto neste artigo, serão considerados a natureza e a gravidade da infração, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2015.%20O%20provedor%20de%20aplica%C3%A7%C3%B5es%20de%20internet%20constitu%C3%ADdo%20na%20forma%20de%20pessoa%20jur%C3%ADdica%20e%20que%20exer%C3%A7a%20essa%20atividade%20de%20forma%20organizada%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Na provisão de aplicações de internet, onerosa ou gratuita, é vedada a guarda:\n\nI - dos registros de acesso a outras aplicações de internet sem que o titular dos dados tenha consentido previamente, respeitado o disposto no art. 7º ; ou\n\nII - de dados pessoais que sejam excessivos em relação à finalidade para a qual foi dado consentimento pelo seu titular.\n\nII - de dados pessoais que sejam excessivos em relação à finalidade para a qual foi dado consentimento pelo seu titular, exceto nas hipóteses previstas na Lei que dispõe sobre a proteção de dados pessoais. (Redação dada pela Lei nº 13.709, de 2018) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2016.%20Na%20provis%C3%A3o%20de%20aplica%C3%A7%C3%B5es%20de%20internet%2C%20onerosa%20ou%20gratuita%2C%20%C3%A9%20vedada%20a%20guarda%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Ressalvadas as hipóteses previstas nesta Lei, a opção por não guardar os registros de acesso a aplicações de internet não implica responsabilidade sobre danos decorrentes do uso desses serviços por terceiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2017.%20Ressalvadas%20as%20hip%C3%B3teses%20previstas%20nesta%20Lei%2C%20a%20op%C3%A7%C3%A3o%20por%20n%C3%A3o%20guardar%20os%20registros%20de%20acesso%20a%20aplica%C3%A7%C3%B5es%20de%20internet%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "II",
+        "section_name": "Seção II Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O provedor de conexão à internet não será responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2018.%20O%20provedor%20de%20conex%C3%A3o%20%C3%A0%20internet%20n%C3%A3o%20ser%C3%A1%20responsabilizado%20civilmente%20por%20danos%20decorrentes%20de%20conte%C3%BAdo%20gerado%20por%20terceiros.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "III",
+        "section_name": "Seção III Da Responsabilidade por Danos Decorrentes de Conteúdo Gerado por Terceiros"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Com o intuito de assegurar a liberdade de expressão e impedir a censura, o provedor de aplicações de internet somente poderá ser responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros se, após ordem judicial específica, não tomar as providências para, no âmbito e nos limites técnicos do seu serviço e dentro do prazo assinalado, tornar indisponível o conteúdo apontado como infringente, ressalvadas as disposições legais em contrário.\n\n§ 1º A ordem judicial de que trata o caput deverá conter, sob pena de nulidade, identificação clara e específica do conteúdo apontado como infringente, que permita a localização inequívoca do material.\n\n§ 2º A aplicação do disposto neste artigo para infrações a direitos de autor ou a direitos conexos depende de previsão legal específica, que deverá respeitar a liberdade de expressão e demais garantias previstas no art. 5º da Constituição Federal.\n\n§ 3º As causas que versem sobre ressarcimento por danos decorrentes de conteúdos disponibilizados na internet relacionados à honra, à reputação ou a direitos de personalidade, bem como sobre a indisponibilização desses conteúdos por provedores de aplicações de internet, poderão ser apresentadas perante os juizados especiais.\n\n§ 4º O juiz, inclusive no procedimento previsto no § 3º , poderá antecipar, total ou parcialmente, os efeitos da tutela pretendida no pedido inicial, existindo prova inequívoca do fato e considerado o interesse da coletividade na disponibilização do conteúdo na internet, desde que presentes os requisitos de verossimilhança da alegação do autor e de fundado receio de dano irreparável ou de difícil reparação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2019.%20Com%20o%20intuito%20de%20assegurar%20a%20liberdade%20de%20express%C3%A3o%20e%20impedir%20a%20censura%2C%20o%20provedor%20de%20aplica%C3%A7%C3%B5es%20de%20internet%20somente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "III",
+        "section_name": "Seção III Da Responsabilidade por Danos Decorrentes de Conteúdo Gerado por Terceiros"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Sempre que tiver informações de contato do usuário diretamente responsável pelo conteúdo a que se refere o art. 19, caberá ao provedor de aplicações de internet comunicar-lhe os motivos e informações relativos à indisponibilização de conteúdo, com informações que permitam o contraditório e a ampla defesa em juízo, salvo expressa previsão legal ou expressa determinação judicial fundamentada em contrário.\n\nParágrafo único. Quando solicitado pelo usuário que disponibilizou o conteúdo tornado indisponível, o provedor de aplicações de internet que exerce essa atividade de forma organizada, profissionalmente e com fins econômicos substituirá o conteúdo tornado indisponível pela motivação ou pela ordem judicial que deu fundamento à indisponibilização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2020.%20Sempre%20que%20tiver%20informa%C3%A7%C3%B5es%20de%20contato%20do%20usu%C3%A1rio%20diretamente%20respons%C3%A1vel%20pelo%20conte%C3%BAdo%20a%20que%20se%20refere%20o%20art.%2019%2C%20caber%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "III",
+        "section_name": "Seção III Da Responsabilidade por Danos Decorrentes de Conteúdo Gerado por Terceiros"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O provedor de aplicações de internet que disponibilize conteúdo gerado por terceiros será responsabilizado subsidiariamente pela violação da intimidade decorrente da divulgação, sem autorização de seus participantes, de imagens, de vídeos ou de outros materiais contendo cenas de nudez ou de atos sexuais de caráter privado quando, após o recebimento de notificação pelo participante ou seu representante legal, deixar de promover, de forma diligente, no âmbito e nos limites técnicos do seu serviço, a indisponibilização desse conteúdo.\n\nParágrafo único. A notificação prevista no caput deverá conter, sob pena de nulidade, elementos que permitam a identificação específica do material apontado como violador da intimidade do participante e a verificação da legitimidade para apresentação do pedido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2021.%20O%20provedor%20de%20aplica%C3%A7%C3%B5es%20de%20internet%20que%20disponibilize%20conte%C3%BAdo%20gerado%20por%20terceiros%20ser%C3%A1%20responsabilizado%20subsidiariamente%20pela%20viola%C3%A7%C3%A3o%20da%20intimidade%20decorrente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "III",
+        "section_name": "Seção III Da Responsabilidade por Danos Decorrentes de Conteúdo Gerado por Terceiros"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A parte interessada poderá, com o propósito de formar conjunto probatório em processo judicial cível ou penal, em caráter incidental ou autônomo, requerer ao juiz que ordene ao responsável pela guarda o fornecimento de registros de conexão ou de registros de acesso a aplicações de internet.\n\nParágrafo único. Sem prejuízo dos demais requisitos legais, o requerimento deverá conter, sob pena de inadmissibilidade:\n\nI - fundados indícios da ocorrência do ilícito;\n\nII - justificativa motivada da utilidade dos registros solicitados para fins de investigação ou instrução probatória; e\n\nIII - período ao qual se referem os registros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2022.%20A%20parte%20interessada%20poder%C3%A1%2C%20com%20o%20prop%C3%B3sito%20de%20formar%20conjunto%20probat%C3%B3rio%20em%20processo%20judicial%20c%C3%ADvel%20ou%20penal%2C%20em%20car%C3%A1ter%20incidental",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "IV",
+        "section_name": "Seção IV Da Requisição Judicial de Registros"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Cabe ao juiz tomar as providências necessárias à garantia do sigilo das informações recebidas e à preservação da intimidade, da vida privada, da honra e da imagem do usuário, podendo determinar segredo de justiça, inclusive quanto aos pedidos de guarda de registro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2023.%20Cabe%20ao%20juiz%20tomar%20as%20provid%C3%AAncias%20necess%C3%A1rias%20%C3%A0%20garantia%20do%20sigilo%20das%20informa%C3%A7%C3%B5es%20recebidas%20e%20%C3%A0%20preserva%C3%A7%C3%A3o%20da%20intimidade%2C%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+        "section": "IV",
+        "section_name": "Seção IV Da Requisição Judicial de Registros"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Constituem diretrizes para a atuação da União, dos Estados, do Distrito Federal e dos Municípios no desenvolvimento da internet no Brasil:\n\nI - estabelecimento de mecanismos de governança multiparticipativa, transparente, colaborativa e democrática, com a participação do governo, do setor empresarial, da sociedade civil e da comunidade acadêmica;\n\nII - promoção da racionalização da gestão, expansão e uso da internet, com participação do Comitê Gestor da internet no Brasil;\n\nIII - promoção da racionalização e da interoperabilidade tecnológica dos serviços de governo eletrônico, entre os diferentes Poderes e âmbitos da Federação, para permitir o intercâmbio de informações e a celeridade de procedimentos;\n\nIV - promoção da interoperabilidade entre sistemas e terminais diversos, inclusive entre os diferentes âmbitos federativos e diversos setores da sociedade;\n\nV - adoção preferencial de tecnologias, padrões e formatos abertos e livres;\n\nVI - publicidade e disseminação de dados e informações públicos, de forma aberta e estruturada;\n\nVII - otimização da infraestrutura das redes e estímulo à implantação de centros de armazenamento, gerenciamento e disseminação de dados no País, promovendo a qualidade técnica, a inovação e a difusão das aplicações de internet, sem prejuízo à abertura, à neutralidade e à natureza participativa;\n\nVIII - desenvolvimento de ações e programas de capacitação para uso da internet;\n\nIX - promoção da cultura e da cidadania; e\n\nX - prestação de serviços públicos de atendimento ao cidadão de forma integrada, eficiente, simplificada e por múltiplos canais de acesso, inclusive remotos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2024.%20Constituem%20diretrizes%20para%20a%20atua%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%20no%20desenvolvimento%20da%20internet%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ATUAÇÃO DO PODER PÚBLICO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As aplicações de internet de entes do poder público devem buscar:\n\nI - compatibilidade dos serviços de governo eletrônico com diversos terminais, sistemas operacionais e aplicativos para seu acesso;\n\nII - acessibilidade a todos os interessados, independentemente de suas capacidades físico-motoras, perceptivas, sensoriais, intelectuais, mentais, culturais e sociais, resguardados os aspectos de sigilo e restrições administrativas e legais;\n\nIII - compatibilidade tanto com a leitura humana quanto com o tratamento automatizado das informações;\n\nIV - facilidade de uso dos serviços de governo eletrônico; e\n\nV - fortalecimento da participação social nas políticas públicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2025.%20As%20aplica%C3%A7%C3%B5es%20de%20internet%20de%20entes%20do%20poder%20p%C3%BAblico%20devem%20buscar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ATUAÇÃO DO PODER PÚBLICO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O cumprimento do dever constitucional do Estado na prestação da educação, em todos os níveis de ensino, inclui a capacitação, integrada a outras práticas educacionais, para o uso seguro, consciente e responsável da internet como ferramenta para o exercício da cidadania, a promoção da cultura e o desenvolvimento tecnológico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2026.%20O%20cumprimento%20do%20dever%20constitucional%20do%20Estado%20na%20presta%C3%A7%C3%A3o%20da%20educa%C3%A7%C3%A3o%2C%20em%20todos%20os%20n%C3%ADveis%20de%20ensino%2C%20inclui%20a%20capacita%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ATUAÇÃO DO PODER PÚBLICO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As iniciativas públicas de fomento à cultura digital e de promoção da internet como ferramenta social devem:\n\nI - promover a inclusão digital;\n\nII - buscar reduzir as desigualdades, sobretudo entre as diferentes regiões do País, no acesso às tecnologias da informação e comunicação e no seu uso; e\n\nIII - fomentar a produção e circulação de conteúdo nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2027.%20As%20iniciativas%20p%C3%BAblicas%20de%20fomento%20%C3%A0%20cultura%20digital%20e%20de%20promo%C3%A7%C3%A3o%20da%20internet%20como%20ferramenta%20social%20devem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ATUAÇÃO DO PODER PÚBLICO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O Estado deve, periodicamente, formular e fomentar estudos, bem como fixar metas, estratégias, planos e cronogramas, referentes ao uso e desenvolvimento da internet no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2028.%20O%20Estado%20deve%2C%20periodicamente%2C%20formular%20e%20fomentar%20estudos%2C%20bem%20como%20fixar%20metas%2C%20estrat%C3%A9gias%2C%20planos%20e%20cronogramas%2C%20referentes%20ao%20uso%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ATUAÇÃO DO PODER PÚBLICO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "28-A"
+    },
+    "28-A": {
+      "numero": "28-A",
+      "texto": "Art. 28-A. Sem prejuízo das demais sanções cíveis, criminais ou administrativas, as infrações às normas previstas nos art. 8º-A, art. 8º-B, art. 8º-C, art. 10 e art. 11 ficam sujeitas, conforme o caso, às seguintes sanções: (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nI - advertência, com indicação de prazo para adoção de medidas corretivas; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nII - multa de até dez por cento do faturamento do grupo econômico no País em seu último exercício, excluídos os tributos, considerados a condição econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sanção; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIII - multa diária, observado o limite total a que se refere o inciso II; (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nIV - suspensão temporária das atividades que envolvam os atos previstos no art. 11; ou (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\nV - proibição de exercício das atividades que envolvam os atos previstos no art. 11. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 1º Na hipótese de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o caput a filial, a sucursal, o escritório ou o estabelecimento situado no País. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 2º As sanções previstas neste artigo serão aplicadas pela autoridade administrativa, no âmbito de suas competências, isolada ou cumulativamente, inclusive por medida cautelar, antecedente ou incidente de procedimento administrativo. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)\n\n§ 3º As sanções previstas neste artigo serão aplicadas de forma proporcional, de acordo com as peculiaridades do caso concreto, e dependerão de procedimento administrativo, assegurados a ampla defesa e o contraditório. (Incluído pela Medida Provisória nº 1.068, de 2021) (Rejeitada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2028-A.%20Sem%20preju%C3%ADzo%20das%20demais%20san%C3%A7%C3%B5es%20c%C3%ADveis%2C%20criminais%20ou%20administrativas%2C%20as%20infra%C3%A7%C3%B5es%20%C3%A0s%20normas%20previstas%20nos%20art.%208%C2%BA-A%2C%20art.%208%C2%BA-B%2C%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O usuário terá a opção de livre escolha na utilização de programa de computador em seu terminal para exercício do controle parental de conteúdo entendido por ele como impróprio a seus filhos menores, desde que respeitados os princípios desta Lei e da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente.\n\nParágrafo único. Cabe ao poder público, em conjunto com os provedores de conexão e de aplicações de internet e a sociedade civil, promover a educação e fornecer informações sobre o uso dos programas de computador previstos no caput, bem como para a definição de boas práticas para a inclusão digital de crianças e adolescentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2029.%20O%20usu%C3%A1rio%20ter%C3%A1%20a%20op%C3%A7%C3%A3o%20de%20livre%20escolha%20na%20utiliza%C3%A7%C3%A3o%20de%20programa%20de%20computador%20em%20seu%20terminal%20para%20exerc%C3%ADcio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28-A",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A defesa dos interesses e dos direitos estabelecidos nesta Lei poderá ser exercida em juízo, individual ou coletivamente, na forma da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2030.%20A%20defesa%20dos%20interesses%20e%20dos%20direitos%20estabelecidos%20nesta%20Lei%20poder%C3%A1%20ser%20exercida%20em%20ju%C3%ADzo%2C%20individual%20ou%20coletivamente%2C%20na%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Até a entrada em vigor da lei específica prevista no § 2º do art. 19, a responsabilidade do provedor de aplicações de internet por danos decorrentes de conteúdo gerado por terceiros, quando se tratar de infração a direitos de autor ou a direitos conexos, continuará a ser disciplinada pela legislação autoral vigente aplicável na data da entrada em vigor desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2031.%20At%C3%A9%20a%20entrada%20em%20vigor%20da%20lei%20espec%C3%ADfica%20prevista%20no%20%C2%A7%202%C2%BA%20do%20art.%2019%2C%20a%20responsabilidade%20do%20provedor%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Esta Lei entra em vigor após decorridos 60 (sessenta) dias de sua publicação oficial.\n\nBrasília, 23 de abril de 2014; 193º da Independência e 126º da República.\n\nDILMA ROUSSEFF José Eduardo Cardozo Miriam Belchior Paulo Bernardo Silva Clélio Campolina Diniz\n\nEste texto não substitui o publicado no DOU de 24.4.2014\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm#:~:text=Art.%2032.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%2060%20%28sessenta%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": null
+    }
+  }
+}

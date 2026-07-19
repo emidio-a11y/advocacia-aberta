@@ -1,0 +1,1439 @@
+{
+  "_meta": {
+    "codigo": "L8080",
+    "nome": "Lei Orgânica da Saúde (SUS)",
+    "lei": "Lei 8.080/1990",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm",
+    "total_artigos": 89,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta lei regula, em todo o território nacional, as ações e serviços de saúde, executados isolada ou conjuntamente, em caráter permanente ou eventual, por pessoas naturais ou jurídicas de direito Público ou privado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%201%C2%BA%20Esta%20lei%20regula%2C%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20as%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20de%20sa%C3%BAde%2C%20executados%20isolada%20ou%20conjuntamente%2C%20em%20car%C3%A1ter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício.\n\n§ 1º O dever do Estado de garantir a saúde consiste na formulação e execução de políticas econômicas e sociais que visem à redução de riscos de doenças e de outros agravos e no estabelecimento de condições que assegurem acesso universal e igualitário às ações e aos serviços para a sua promoção, proteção e recuperação.\n\n§ 2º O dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%202%C2%BA%20A%20sa%C3%BAde%20%C3%A9%20um%20direito%20fundamental%20do%20ser%20humano%2C%20devendo%20o%20Estado%20prover%20as%20condi%C3%A7%C3%B5es%20indispens%C3%A1veis%20ao%20seu%20pleno%20exerc%C3%ADcio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A saúde tem como fatores determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico, o meio ambiente, o trabalho, a renda, a educação, o transporte, o lazer e o acesso aos bens e serviços essenciais; os níveis de saúde da população expressam a organização social e econômica do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%203%C2%BA%20A%20sa%C3%BAde%20tem%20como%20fatores%20determinantes%20e%20condicionantes%2C%20entre%20outros%2C%20a%20alimenta%C3%A7%C3%A3o%2C%20a%20moradia%2C%20o%20saneamento%20b%C3%A1sico%2C%20o%20meio%20ambiente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O conjunto de ações e serviços de saúde, prestados por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo Poder Público, constitui o Sistema Único de Saúde (SUS).\n\n§ 1º Estão incluídas no disposto neste artigo as instituições públicas federais, estaduais e municipais de controle de qualidade, pesquisa e produção de insumos, medicamentos, inclusive de sangue e hemoderivados, e de equipamentos para saúde.\n\n§ 2º A iniciativa privada poderá participar do Sistema Único de Saúde (SUS), em caráter complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%204%C2%BA%20O%20conjunto%20de%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20de%20sa%C3%BAde%2C%20prestados%20por%20%C3%B3rg%C3%A3os%20e%20institui%C3%A7%C3%B5es%20p%C3%BAblicas%20federais%2C%20estaduais%20e%20municipais%2C%20da%20Administra%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º São objetivos do Sistema Único de Saúde SUS:\n\nI - a identificação e divulgação dos fatores condicionantes e determinantes da saúde;\n\nII - a formulação de política de saúde destinada a promover, nos campos econômico e social, a observância do disposto no § 1º do art. 2º desta lei;\n\nIII - a assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%205%C2%BA%20S%C3%A3o%20objetivos%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20SUS%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Estão incluídas ainda no campo de atuação do Sistema Único de Saúde (SUS):\n\nI - a execução de ações:\n\na) de vigilância sanitária;\n\nb) de vigilância epidemiológica;\n\nc) de saúde do trabalhador; e\n\nc) de saúde do trabalhador; (Redação dada pela Lei nº 14.572, de 2023)\n\nd) de assistência terapêutica integral, inclusive farmacêutica;\n\ne) de saúde bucal; (Incluída pela Lei nº 14.572, de 2023)\n\nII - a participação na formulação da política e na execução de ações de saneamento básico;\n\nIII - a ordenação da formação de recursos humanos na área de saúde;\n\nIV - a vigilância nutricional e a orientação alimentar;\n\nV - a colaboração na proteção do meio ambiente, nele compreendido o do trabalho;\n\nVI - a formulação da política de medicamentos, equipamentos, imunobiológicos e outros insumos de interesse para a saúde e a participação na sua produção;\n\nVII - o controle e a fiscalização de serviços, produtos e substâncias de interesse para a saúde;\n\nVIII - a fiscalização e a inspeção de alimentos, água e bebidas para consumo humano;\n\nIX - a participação no controle e na fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos;\n\nX - o incremento, em sua área de atuação, do desenvolvimento científico e tecnológico;\n\nXI - a formulação e execução da política de sangue e seus derivados.\n\nXII – a formulação e a execução da política de informação e assistência toxicológica e de logística de antídotos e medicamentos utilizados em intoxicações. (Incluído pela Lei nº 14.715, de 2023)\n\n§ 1º Entende-se por vigilância sanitária um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde, abrangendo:\n\nI - o controle de bens de consumo que, direta ou indiretamente, se relacionem com a saúde, compreendidas todas as etapas e processos, da produção ao consumo; e\n\nII - o controle da prestação de serviços que se relacionam direta ou indiretamente com a saúde.\n\n§ 2º Entende-se por vigilância epidemiológica um conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos.\n\n§ 3º Entende-se por saúde do trabalhador, para fins desta lei, um conjunto de atividades que se destina, através das ações de vigilância epidemiológica e vigilância sanitária, à promoção e proteção da saúde dos trabalhadores, assim como visa à recuperação e reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho, abrangendo:\n\nI - assistência ao trabalhador vítima de acidentes de trabalho ou portador de doença profissional e do trabalho;\n\nII - participação, no âmbito de competência do Sistema Único de Saúde (SUS), em estudos, pesquisas, avaliação e controle dos riscos e agravos potenciais à saúde existentes no processo de trabalho;\n\nIII - participação, no âmbito de competência do Sistema Único de Saúde (SUS), da normatização, fiscalização e controle das condições de produção, extração, armazenamento, transporte, distribuição e manuseio de substâncias, de produtos, de máquinas e de equipamentos que apresentam riscos à saúde do trabalhador;\n\nIV - avaliação do impacto que as tecnologias provocam à saúde;\n\nV - informação ao trabalhador e à sua respectiva entidade sindical e às empresas sobre os riscos de acidentes de trabalho, doença profissional e do trabalho, bem como os resultados de fiscalizações, avaliações ambientais e exames de saúde, de admissão, periódicos e de demissão, respeitados os preceitos da ética profissional;\n\nVI - participação na normatização, fiscalização e controle dos serviços de saúde do trabalhador nas instituições e empresas públicas e privadas;\n\nVII - revisão periódica da listagem oficial de doenças originadas no processo de trabalho, tendo na sua elaboração a colaboração das entidades sindicais; e\n\nVIII - a garantia ao sindicato dos trabalhadores de requerer ao órgão competente a interdição de máquina, de setor de serviço ou de todo ambiente de trabalho, quando houver exposição a risco iminente para a vida ou saúde dos trabalhadores.\n\n§ 4º Entende-se por saúde bucal o conjunto articulado de ações, em todos os níveis de complexidade, que visem a garantir promoção, prevenção, recuperação e reabilitação odontológica, individual e coletiva, inseridas no contexto da integralidade da atenção à saúde. (Incluído pela Lei nº 14.572, de 2023)\n\n§ 5º Entende-se por assistência toxicológica, a que se refere o inciso XII do caput deste artigo, o conjunto de ações e serviços de prevenção, diagnóstico e tratamento das intoxicações agudas e crônicas decorrentes da exposição a substâncias químicas, medicamentos e toxinas de animais peçonhentos e de plantas tóxicas. (Incluído pela Lei nº 14.715, de 2023)\n\nArt. 6ºA. As diferentes instâncias gestoras do Sistema Único de Saúde (SUS) ficam obrigadas a disponibilizar nas respectivas páginas eletrônicas na internet os estoques de medicamentos das farmácias públicas que estiverem sob sua gestão, com atualização quinzenal, de forma acessível ao cidadão comum. (Incluído pela Lei nº 14.654, de 2023) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%206%C2%BA%20Est%C3%A3o%20inclu%C3%ADdas%20ainda%20no%20campo%20de%20atua%C3%A7%C3%A3o%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS), são desenvolvidos de acordo com as diretrizes previstas no art. 198 da Constituição Federal, obedecendo ainda aos seguintes princípios:\n\nI - universalidade de acesso aos serviços de saúde em todos os níveis de assistência;\n\nII - integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema;\n\nIII - preservação da autonomia das pessoas na defesa de sua integridade física e moral;\n\nIV - igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie;\n\nV - direito à informação, às pessoas assistidas, sobre sua saúde;\n\nVI - divulgação de informações quanto ao potencial dos serviços de saúde e a sua utilização pelo usuário;\n\nVII - utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática;\n\nVIII - participação da comunidade;\n\nIX - descentralização político-administrativa, com direção única em cada esfera de governo:\n\na) ênfase na descentralização dos serviços para os municípios;\n\nb) regionalização e hierarquização da rede de serviços de saúde;\n\nX - integração em nível executivo das ações de saúde, meio ambiente e saneamento básico;\n\nXI - conjugação dos recursos financeiros, tecnológicos, materiais e humanos da União, dos Estados, do Distrito Federal e dos Municípios na prestação de serviços de assistência à saúde da população;\n\nXII - capacidade de resolução dos serviços em todos os níveis de assistência; e\n\nXIII - organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.\n\nXIV – organização de atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral, que garanta, entre outros, atendimento, acompanhamento psicológico e cirurgias plásticas reparadoras, em conformidade com a Lei nº 12.845, de 1º de agosto de 2013. (Redação dada pela Lei nº 13.427, de 2017)\n\nXV – proteção integral dos direitos humanos de todos os usuários e especial atenção à identificação de maus-tratos, de negligência e de violência sexual praticados contra crianças e adolescentes. (Incluído pela Lei nº 14.679, de 2023)\n\nXVI – atenção humanizada. (Incluído pela Lei nº 15.126, de 2025)\n\nParágrafo único. Para os efeitos do inciso XIV do caput deste artigo, as mulheres vítimas de qualquer tipo de violência têm o direito de serem acolhidas e atendidas nos serviços de saúde prestados no âmbito do SUS, na rede própria ou conveniada, em local e ambiente que garantam sua privacidade e restrição do acesso de terceiros não autorizados pela paciente, em especial o do agressor. (Incluído pela Lei nº 14.847, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%207%C2%BA%20As%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20p%C3%BAblicos%20de%20sa%C3%BAde%20e%20os%20servi%C3%A7os%20privados%20contratados%20ou%20conveniados%20que%20integram%20o%20Sistema%20%C3%9Anico%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º As ações e serviços de saúde, executados pelo Sistema Único de Saúde (SUS), seja diretamente ou mediante participação complementar da iniciativa privada, serão organizados de forma regionalizada e hierarquizada em níveis de complexidade crescente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%208%C2%BA%20As%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20de%20sa%C3%BAde%2C%20executados%20pelo%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20seja%20diretamente%20ou%20mediante%20participa%C3%A7%C3%A3o%20complementar%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A direção do Sistema Único de Saúde (SUS) é única, de acordo com o inciso I do art. 198 da Constituição Federal, sendo exercida em cada esfera de governo pelos seguintes órgãos:\n\nI - no âmbito da União, pelo Ministério da Saúde;\n\nII - no âmbito dos Estados e do Distrito Federal, pela respectiva Secretaria de Saúde ou órgão equivalente; e\n\nIII - no âmbito dos Municípios, pela respectiva Secretaria de Saúde ou órgão equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%209%C2%BA%20A%20dire%C3%A7%C3%A3o%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%20%C3%A9%20%C3%BAnica%2C%20de%20acordo%20com%20o%20inciso%20I%20do%20art.%20198%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Os municípios poderão constituir consórcios para desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam.\n\n§ 1º Aplica-se aos consórcios administrativos intermunicipais o princípio da direção única, e os respectivos atos constitutivos disporão sobre sua observância.\n\n§ 2º No nível municipal, o Sistema Único de Saúde (SUS), poderá organizar-se em distritos de forma a integrar e articular recursos, técnicas e práticas voltadas para a cobertura total das ações de saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2010.%20Os%20munic%C3%ADpios%20poder%C3%A3o%20constituir%20cons%C3%B3rcios%20para%20desenvolver%20em%20conjunto%20as%20a%C3%A7%C3%B5es%20e%20os%20servi%C3%A7os%20de%20sa%C3%BAde%20que%20lhes%20correspondam.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2011.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Serão criadas comissões intersetoriais de âmbito nacional, subordinadas ao Conselho Nacional de Saúde, integradas pelos Ministérios e órgãos competentes e por entidades representativas da sociedade civil.\n\nParágrafo único. As comissões intersetoriais terão a finalidade de articular políticas e programas de interesse para a saúde, cuja execução envolva áreas não compreendidas no âmbito do Sistema Único de Saúde (SUS).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2012.%20Ser%C3%A3o%20criadas%20comiss%C3%B5es%20intersetoriais%20de%20%C3%A2mbito%20nacional%2C%20subordinadas%20ao%20Conselho%20Nacional%20de%20Sa%C3%BAde%2C%20integradas%20pelos%20Minist%C3%A9rios%20e%20%C3%B3rg%C3%A3os%20competentes%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A articulação das políticas e programas, a cargo das comissões intersetoriais, abrangerá, em especial, as seguintes atividades:\n\nI - alimentação e nutrição;\n\nII - saneamento e meio ambiente;\n\nIII - vigilância sanitária e farmacoepidemiologia;\n\nIV - recursos humanos;\n\nV - ciência e tecnologia; e\n\nVI - saúde do trabalhador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2013.%20A%20articula%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20e%20programas%2C%20a%20cargo%20das%20comiss%C3%B5es%20intersetoriais%2C%20abranger%C3%A1%2C%20em%20especial%2C%20as%20seguintes%20atividades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Deverão ser criadas Comissões Permanentes de integração entre os serviços de saúde e as instituições de ensino profissional e superior.\n\nParágrafo único. Cada uma dessas comissões terá por finalidade propor prioridades, métodos e estratégias para a formação e educação continuada dos recursos humanos do Sistema Único de Saúde (SUS), na esfera correspondente, assim como em relação à pesquisa e à cooperação técnica entre essas instituições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2014.%20Dever%C3%A3o%20ser%20criadas%20Comiss%C3%B5es%20Permanentes%20de%20integra%C3%A7%C3%A3o%20entre%20os%20servi%C3%A7os%20de%20sa%C3%BAde%20e%20as%20institui%C3%A7%C3%B5es%20de%20ensino%20profissional%20e%20superior.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. As Comissões Intergestores Bipartite e Tripartite são reconhecidas como foros de negociação e pactuação entre gestores, quanto aos aspectos operacionais do Sistema Único de Saúde (SUS). (Incluído pela Lei nº 12.466, de 2011).\n\nParágrafo único. A atuação das Comissões Intergestores Bipartite e Tripartite terá por objetivo: (Incluído pela Lei nº 12.466, de 2011).\n\nI - decidir sobre os aspectos operacionais, financeiros e administrativos da gestão compartilhada do SUS, em conformidade com a definição da política consubstanciada em planos de saúde, aprovados pelos conselhos de saúde; (Incluído pela Lei nº 12.466, de 2011).\n\nII - definir diretrizes, de âmbito nacional, regional e intermunicipal, a respeito da organização das redes de ações e serviços de saúde, principalmente no tocante à sua governança institucional e à integração das ações e serviços dos entes federados; (Incluído pela Lei nº 12.466, de 2011).\n\nIII - fixar diretrizes sobre as regiões de saúde, distrito sanitário, integração de territórios, referência e contrarreferência e demais aspectos vinculados à integração das ações e serviços de saúde entre os entes federados. (Incluído pela Lei nº 12.466, de 2011).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2014-A.%20As%20Comiss%C3%B5es%20Intergestores%20Bipartite%20e%20Tripartite%20s%C3%A3o%20reconhecidas%20como%20foros%20de%20negocia%C3%A7%C3%A3o%20e%20pactua%C3%A7%C3%A3o%20entre%20gestores%2C%20quanto%20aos%20aspectos%20operacionais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "14-B"
+    },
+    "14-B": {
+      "numero": "14-B",
+      "texto": "Art. 14-B. O Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretarias Municipais de Saúde (Conasems) são reconhecidos como entidades representativas dos entes estaduais e municipais para tratar de matérias referentes à saúde e declarados de utilidade pública e de relevante função social, na forma do regulamento. (Incluído pela Lei nº 12.466, de 2011).\n\n§ 1o O Conass e o Conasems receberão recursos do orçamento geral da União por meio do Fundo Nacional de Saúde, para auxiliar no custeio de suas despesas institucionais, podendo ainda celebrar convênios com a União. (Incluído pela Lei nº 12.466, de 2011).\n\n§ 2o Os Conselhos de Secretarias Municipais de Saúde (Cosems) são reconhecidos como entidades que representam os entes municipais, no âmbito estadual, para tratar de matérias referentes à saúde, desde que vinculados institucionalmente ao Conasems, na forma que dispuserem seus estatutos. (Incluído pela Lei nº 12.466, de 2011).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2014-B.%20O%20Conselho%20Nacional%20de%20Secret%C3%A1rios%20de%20Sa%C3%BAde%20%28Conass%29%20e%20o%20Conselho%20Nacional%20de%20Secretarias%20Municipais%20de%20Sa%C3%BAde%20%28Conasems%29%20s%C3%A3o%20reconhecidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A União, os Estados, o Distrito Federal e os Municípios exercerão, em seu âmbito administrativo, as seguintes atribuições:\n\nI - definição das instâncias e mecanismos de controle, avaliação e de fiscalização das ações e serviços de saúde;\n\nII - administração dos recursos orçamentários e financeiros destinados, em cada ano, à saúde;\n\nIII - acompanhamento, avaliação e divulgação do nível de saúde da população e das condições ambientais;\n\nIV - organização e coordenação do sistema de informação de saúde;\n\nV - elaboração de normas técnicas e estabelecimento de padrões de qualidade e parâmetros de custos que caracterizam a assistência à saúde;\n\nVI - elaboração de normas técnicas e estabelecimento de padrões de qualidade para promoção da saúde do trabalhador;\n\nVII - participação de formulação da política e da execução das ações de saneamento básico e colaboração na proteção e recuperação do meio ambiente;\n\nVIII - elaboração e atualização periódica do plano de saúde;\n\nIX - participação na formulação e na execução da política de formação e desenvolvimento de recursos humanos para a saúde;\n\nX - elaboração da proposta orçamentária do Sistema Único de Saúde (SUS), de conformidade com o plano de saúde;\n\nXI - elaboração de normas para regular as atividades de serviços privados de saúde, tendo em vista a sua relevância pública;\n\nXII - realização de operações externas de natureza financeira de interesse da saúde, autorizadas pelo Senado Federal;\n\nXIII - para atendimento de necessidades coletivas, urgentes e transitórias, decorrentes de situações de perigo iminente, de calamidade pública ou de irrupção de epidemias, a autoridade competente da esfera administrativa correspondente poderá requisitar bens e serviços, tanto de pessoas naturais como de jurídicas, sendo-lhes assegurada justa indenização; (Vide ADIN 3454)\n\nXIV - implementar o Sistema Nacional de Sangue, Componentes e Derivados;\n\nXV - propor a celebração de convênios, acordos e protocolos internacionais relativos à saúde, saneamento e meio ambiente;\n\nXVI - elaborar normas técnico-científicas de promoção, proteção e recuperação da saúde;\n\nXVII - promover articulação com os órgãos de fiscalização do exercício profissional e outras entidades representativas da sociedade civil para a definição e controle dos padrões éticos para pesquisa, ações e serviços de saúde;\n\nXVIII - promover a articulação da política e dos planos de saúde;\n\nXIX - realizar pesquisas e estudos na área de saúde;\n\nXX - definir as instâncias e mecanismos de controle e fiscalização inerentes ao poder de polícia sanitária;\n\nXXI - fomentar, coordenar e executar programas e projetos estratégicos e de atendimento emergencial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2015.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20exercer%C3%A3o%2C%20em%20seu%20%C3%A2mbito%20administrativo%2C%20as%20seguintes%20atribui%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "14-B",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A direção nacional do Sistema Único da Saúde (SUS) compete:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2016.%20A%20dire%C3%A7%C3%A3o%20nacional%20do%20Sistema%20%C3%9Anico%20da%20Sa%C3%BAde%20%28SUS%29%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. À direção estadual do Sistema Único de Saúde (SUS) compete:\n\nI - promover a descentralização para os Municípios dos serviços e das ações de saúde;.\n\nII - acompanhar, controlar e avaliar as redes hierarquizadas do Sistema Único de Saúde (SUS);\n\nIII - prestar apoio técnico e financeiro aos Municípios e executar supletivamente ações e serviços de saúde;\n\nIV - coordenar e, em caráter complementar, executar ações e serviços:\n\na) de vigilância epidemiológica;\n\nb) de vigilância sanitária;\n\nc) de alimentação e nutrição; e\n\nc) de alimentação e nutrição; (Redação dada pela Lei nº 14.572, de 2023)\n\nd) de saúde do trabalhador;\n\ne) de saúde bucal; (Incluída pela Lei nº 14.572, de 2023)\n\nV - participar, junto com os órgãos afins, do controle dos agravos do meio ambiente que tenham repercussão na saúde humana;\n\nVI - participar da formulação da política e da execução de ações de saneamento básico;\n\nVII - participar das ações de controle e avaliação das condições e dos ambientes de trabalho;\n\nVIII - em caráter suplementar, formular, executar, acompanhar e avaliar a política de insumos e equipamentos para a saúde;\n\nIX - identificar estabelecimentos hospitalares de referência e gerir sistemas públicos de alta complexidade, de referência estadual e regional;\n\nX - coordenar a rede estadual de laboratórios de saúde pública e hemocentros, e gerir as unidades que permaneçam em sua organização administrativa;\n\nXI - estabelecer normas, em caráter suplementar, para o controle e avaliação das ações e serviços de saúde;\n\nXII - formular normas e estabelecer padrões, em caráter suplementar, de procedimentos de controle de qualidade para produtos e substâncias de consumo humano;\n\nXIII - colaborar com a União na execução da vigilância sanitária de portos, aeroportos e fronteiras;\n\nXIV - o acompanhamento, a avaliação e divulgação dos indicadores de morbidade e mortalidade no âmbito da unidade federada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2017.%20%C3%80%20dire%C3%A7%C3%A3o%20estadual%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. À direção municipal do Sistema de Saúde (SUS) compete:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2018.%20%C3%80%20dire%C3%A7%C3%A3o%20municipal%20do%20Sistema%20de%20Sa%C3%BAde%20%28SUS%29%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Ao Distrito Federal competem as atribuições reservadas aos Estados e aos Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019.%20Ao%20Distrito%20Federal%20competem%20as%20atribui%C3%A7%C3%B5es%20reservadas%20aos%20Estados%20e%20aos%20Munic%C3%ADpios.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "18",
+      "next": "19-A"
+    },
+    "19-A": {
+      "numero": "19-A",
+      "texto": "Art. 19-A. As ações e serviços de saúde voltados para o atendimento das populações indígenas, em todo o território nacional, coletiva ou individualmente, obedecerão ao disposto nesta Lei. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-A.%20As%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20de%20sa%C3%BAde%20voltados%20para%20o%20atendimento%20das%20popula%C3%A7%C3%B5es%20ind%C3%ADgenas%2C%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20coletiva%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "19-B"
+    },
+    "19-B": {
+      "numero": "19-B",
+      "texto": "Art. 19-B. É instituído um Subsistema de Atenção à Saúde Indígena, componente do Sistema Único de Saúde – SUS, criado e definido por esta Lei, e pela Lei no 8.142, de 28 de dezembro de 1990, com o qual funcionará em perfeita integração. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-B.%20%C3%89%20institu%C3%ADdo%20um%20Subsistema%20de%20Aten%C3%A7%C3%A3o%20%C3%A0%20Sa%C3%BAde%20Ind%C3%ADgena%2C%20componente%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%E2%80%93%20SUS%2C%20criado%20e%20definido",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-A",
+      "next": "19-C"
+    },
+    "19-C": {
+      "numero": "19-C",
+      "texto": "Art. 19-C. Caberá à União, com seus recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-C.%20Caber%C3%A1%20%C3%A0%20Uni%C3%A3o%2C%20com%20seus%20recursos%20pr%C3%B3prios%2C%20financiar%20o%20Subsistema%20de%20Aten%C3%A7%C3%A3o%20%C3%A0%20Sa%C3%BAde%20Ind%C3%ADgena.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%209.836%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-B",
+      "next": "19-D"
+    },
+    "19-D": {
+      "numero": "19-D",
+      "texto": "Art. 19-D. O SUS promoverá a articulação do Subsistema instituído por esta Lei com os órgãos responsáveis pela Política Indígena do País. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-D.%20O%20SUS%20promover%C3%A1%20a%20articula%C3%A7%C3%A3o%20do%20Subsistema%20institu%C3%ADdo%20por%20esta%20Lei%20com%20os%20%C3%B3rg%C3%A3os%20respons%C3%A1veis%20pela%20Pol%C3%ADtica%20Ind%C3%ADgena%20do%20Pa%C3%ADs.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-C",
+      "next": "19-E"
+    },
+    "19-E": {
+      "numero": "19-E",
+      "texto": "Art. 19-E. Os Estados, Municípios, outras instituições governamentais e não-governamentais poderão atuar complementarmente no custeio e execução das ações. (Incluído pela Lei nº 9.836, de 1999)\n\n§ 1º A União instituirá mecanismo de financiamento específico para os Estados, o Distrito Federal e os Municípios, sempre que houver necessidade de atenção secundária e terciária fora dos territórios indígenas. (Incluído pela Lei nº 14.021, de 2020)\n\n§ 2º Em situações emergenciais e de calamidade pública: (Incluído pela Lei nº 14.021, de 2020)\n\nI - a União deverá assegurar aporte adicional de recursos não previstos nos planos de saúde dos Distritos Sanitários Especiais Indígenas (Dseis) ao Subsistema de Atenção à Saúde Indígena; (Incluído pela Lei nº 14.021, de 2020)\n\nII - deverá ser garantida a inclusão dos povos indígenas nos planos emergenciais para atendimento dos pacientes graves das Secretarias Municipais e Estaduais de Saúde, explicitados os fluxos e as referências para o atendimento em tempo oportuno. (Incluído pela Lei nº 14.021, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-E.%20Os%20Estados%2C%20Munic%C3%ADpios%2C%20outras%20institui%C3%A7%C3%B5es%20governamentais%20e%20n%C3%A3o-governamentais%20poder%C3%A3o%20atuar%20complementarmente%20no%20custeio%20e%20execu%C3%A7%C3%A3o%20das%20a%C3%A7%C3%B5es.%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-D",
+      "next": "19-F"
+    },
+    "19-F": {
+      "numero": "19-F",
+      "texto": "Art. 19-F. Dever-se-á obrigatoriamente levar em consideração a realidade local e as especificidades da cultura dos povos indígenas e o modelo a ser adotado para a atenção à saúde indígena, que se deve pautar por uma abordagem diferenciada e global, contemplando os aspectos de assistência à saúde, saneamento básico, nutrição, habitação, meio ambiente, demarcação de terras, educação sanitária e integração institucional. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-F.%20Dever-se-%C3%A1%20obrigatoriamente%20levar%20em%20considera%C3%A7%C3%A3o%20a%20realidade%20local%20e%20as%20especificidades%20da%20cultura%20dos%20povos%20ind%C3%ADgenas%20e%20o%20modelo%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-E",
+      "next": "19-G"
+    },
+    "19-G": {
+      "numero": "19-G",
+      "texto": "Art. 19-G. O Subsistema de Atenção à Saúde Indígena deverá ser, como o SUS, descentralizado, hierarquizado e regionalizado. (Incluído pela Lei nº 9.836, de 1999)\n\n§ 1o O Subsistema de que trata o caput deste artigo terá como base os Distritos Sanitários Especiais Indígenas. (Incluído pela Lei nº 9.836, de 1999)\n\n§ 1º-A. A rede do SUS deverá obrigatoriamente fazer o registro e a notificação da declaração de raça ou cor, garantindo a identificação de todos os indígenas atendidos nos sistemas públicos de saúde. (Incluído pela Lei nº 14.021, de 2020)\n\n§ 1º-B. A União deverá integrar os sistemas de informação da rede do SUS com os dados do Subsistema de Atenção à Saúde Indígena. (Incluído pela Lei nº 14.021, de 2020)\n\n§ 2o O SUS servirá de retaguarda e referência ao Subsistema de Atenção à Saúde Indígena, devendo, para isso, ocorrer adaptações na estrutura e organização do SUS nas regiões onde residem as populações indígenas, para propiciar essa integração e o atendimento necessário em todos os níveis, sem discriminações. (Incluído pela Lei nº 9.836, de 1999)\n\n§ 3o As populações indígenas devem ter acesso garantido ao SUS, em âmbito local, regional e de centros especializados, de acordo com suas necessidades, compreendendo a atenção primária, secundária e terciária à saúde. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-G.%20O%20Subsistema%20de%20Aten%C3%A7%C3%A3o%20%C3%A0%20Sa%C3%BAde%20Ind%C3%ADgena%20dever%C3%A1%20ser%2C%20como%20o%20SUS%2C%20descentralizado%2C%20hierarquizado%20e%20regionalizado.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-F",
+      "next": "19-H"
+    },
+    "19-H": {
+      "numero": "19-H",
+      "texto": "Art. 19-H. As populações indígenas terão direito a participar dos organismos colegiados de formulação, acompanhamento e avaliação das políticas de saúde, tais como o Conselho Nacional de Saúde e os Conselhos Estaduais e Municipais de Saúde, quando for o caso. (Incluído pela Lei nº 9.836, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-H.%20As%20popula%C3%A7%C3%B5es%20ind%C3%ADgenas%20ter%C3%A3o%20direito%20a%20participar%20dos%20organismos%20colegiados%20de%20formula%C3%A7%C3%A3o%2C%20acompanhamento%20e%20avalia%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20de%20sa%C3%BAde%2C%20tais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-G",
+      "next": "19-I"
+    },
+    "19-I": {
+      "numero": "19-I",
+      "texto": "Art. 19-I. São estabelecidos, no âmbito do Sistema Único de Saúde, o atendimento domiciliar e a internação domiciliar. (Incluído pela Lei nº 10.424, de 2002)\n\n§ 1o Na modalidade de assistência de atendimento e internação domiciliares incluem-se, principalmente, os procedimentos médicos, de enfermagem, fisioterapêuticos, psicológicos e de assistência social, entre outros necessários ao cuidado integral dos pacientes em seu domicílio. (Incluído pela Lei nº 10.424, de 2002)\n\n§ 2o O atendimento e a internação domiciliares serão realizados por equipes multidisciplinares que atuarão nos níveis da medicina preventiva, terapêutica e reabilitadora. (Incluído pela Lei nº 10.424, de 2002)\n\n§ 3o O atendimento e a internação domiciliares só poderão ser realizados por indicação médica, com expressa concordância do paciente e de sua família. (Incluído pela Lei nº 10.424, de 2002)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-I.%20S%C3%A3o%20estabelecidos%2C%20no%20%C3%A2mbito%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%2C%20o%20atendimento%20domiciliar%20e%20a%20interna%C3%A7%C3%A3o%20domiciliar.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-H",
+      "next": "19-J"
+    },
+    "19-J": {
+      "numero": "19-J",
+      "texto": "Art. 19-J. Os serviços de saúde do Sistema Único de Saúde - SUS, da rede própria ou conveniada, ficam obrigados a permitir a presença, junto à parturiente, de 1 (um) acompanhante durante todo o período de trabalho de parto, parto e pós-parto imediato. (Incluído pela Lei nº 11.108, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-J.%20Os%20servi%C3%A7os%20de%20sa%C3%BAde%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20-%20SUS%2C%20da%20rede%20pr%C3%B3pria%20ou%20conveniada%2C%20ficam%20obrigados%20a%20permitir",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DO SUBSISTEMA DE ACOMPANHAMENTO DURANTE O TRABALHO DE PARTO, PARTO E PÓS-PARTO IMEDIATO (Incluído pela Lei nº 11.108, de 2005)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-I",
+      "next": "19-L"
+    },
+    "19-L": {
+      "numero": "19-L",
+      "texto": "Art. 19-L. (VETADO) (Incluído pela Lei nº 11.108, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-L.%20%28VETADO%29%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2011.108%2C%20de%202005%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DO SUBSISTEMA DE ACOMPANHAMENTO DURANTE O TRABALHO DE PARTO, PARTO E PÓS-PARTO IMEDIATO (Incluído pela Lei nº 11.108, de 2005)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-J",
+      "next": "19-M"
+    },
+    "19-M": {
+      "numero": "19-M",
+      "texto": "Art. 19-M. A assistência terapêutica integral a que se refere a alínea d do inciso I do art. 6o consiste em: (Incluído pela Lei nº 12.401, de 2011)\n\nI - dispensação de medicamentos e produtos de interesse para a saúde, cuja prescrição esteja em conformidade com as diretrizes terapêuticas definidas em protocolo clínico para a doença ou o agravo à saúde a ser tratado ou, na falta do protocolo, em conformidade com o disposto no art. 19-P; (Incluído pela Lei nº 12.401, de 2011)\n\nII - oferta de procedimentos terapêuticos, em regime domiciliar, ambulatorial e hospitalar, constantes de tabelas elaboradas pelo gestor federal do Sistema Único de Saúde - SUS, realizados no território nacional por serviço próprio, conveniado ou contratado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-M.%20A%20assist%C3%AAncia%20terap%C3%AAutica%20integral%20a%20que%20se%20refere%20a%20al%C3%ADnea%20d%20do%20inciso%20I%20do%20art.%206o%20consiste%20em%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-L",
+      "next": "19-N"
+    },
+    "19-N": {
+      "numero": "19-N",
+      "texto": "Art. 19-N. Para os efeitos do disposto no art. 19-M, são adotadas as seguintes definições: (Incluído pela Lei nº 12.401, de 2011)\n\nI - produtos de interesse para a saúde: órteses, próteses, bolsas coletoras e equipamentos médicos; (Incluído pela Lei nº 12.401, de 2011)\n\nII - protocolo clínico e diretriz terapêutica: documento que estabelece critérios para o diagnóstico da doença ou do agravo à saúde; o tratamento preconizado, com os medicamentos e demais produtos apropriados, quando couber; as posologias recomendadas; os mecanismos de controle clínico; e o acompanhamento e a verificação dos resultados terapêuticos, a serem seguidos pelos gestores do SUS. (Incluído pela Lei nº 12.401, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-N.%20Para%20os%20efeitos%20do%20disposto%20no%20art.%2019-M%2C%20s%C3%A3o%20adotadas%20as%20seguintes%20defini%C3%A7%C3%B5es%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.401%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-M",
+      "next": "19-O"
+    },
+    "19-O": {
+      "numero": "19-O",
+      "texto": "Art. 19-O. Os protocolos clínicos e as diretrizes terapêuticas deverão estabelecer os medicamentos ou produtos necessários nas diferentes fases evolutivas da doença ou do agravo à saúde de que tratam, bem como aqueles indicados em casos de perda de eficácia e de surgimento de intolerância ou reação adversa relevante, provocadas pelo medicamento, produto ou procedimento de primeira escolha. (Incluído pela Lei nº 12.401, de 2011)\n\nParágrafo único. Em qualquer caso, os medicamentos ou produtos de que trata o caput deste artigo serão aqueles avaliados quanto à sua eficácia, segurança, efetividade e custo-efetividade para as diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo. (Incluído pela Lei nº 12.401, de 2011)\n\n§ 1º Em qualquer caso, os medicamentos ou produtos de que trata o caput deste artigo serão aqueles avaliados quanto à sua eficácia, segurança, efetividade e custo-efetividade para as diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo. (Redação dada pela Lei nº 15.379, de 2026)\n\n§ 2º Os protocolos clínicos e as diretrizes terapêuticas do câncer incluirão a utilização de imunoterapia quando se mostrar superior ou mais segura que as opções tradicionais, na forma do regulamento. (Incluído pela Lei nº 15.379, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-O.%20Os%20protocolos%20cl%C3%ADnicos%20e%20as%20diretrizes%20terap%C3%AAuticas%20dever%C3%A3o%20estabelecer%20os%20medicamentos%20ou%20produtos%20necess%C3%A1rios%20nas%20diferentes%20fases%20evolutivas%20da%20doen%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-N",
+      "next": "19-P"
+    },
+    "19-P": {
+      "numero": "19-P",
+      "texto": "Art. 19-P. Na falta de protocolo clínico ou de diretriz terapêutica, a dispensação será realizada: (Incluído pela Lei nº 12.401, de 2011)\n\nI - com base nas relações de medicamentos instituídas pelo gestor federal do SUS, observadas as competências estabelecidas nesta Lei, e a responsabilidade pelo fornecimento será pactuada na Comissão Intergestores Tripartite; (Incluído pela Lei nº 12.401, de 2011)\n\nII - no âmbito de cada Estado e do Distrito Federal, de forma suplementar, com base nas relações de medicamentos instituídas pelos gestores estaduais do SUS, e a responsabilidade pelo fornecimento será pactuada na Comissão Intergestores Bipartite; (Incluído pela Lei nº 12.401, de 2011)\n\nIII - no âmbito de cada Município, de forma suplementar, com base nas relações de medicamentos instituídas pelos gestores municipais do SUS, e a responsabilidade pelo fornecimento será pactuada no Conselho Municipal de Saúde. (Incluído pela Lei nº 12.401, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-P.%20Na%20falta%20de%20protocolo%20cl%C3%ADnico%20ou%20de%20diretriz%20terap%C3%AAutica%2C%20a%20dispensa%C3%A7%C3%A3o%20ser%C3%A1%20realizada%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.401%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-O",
+      "next": "19-Q"
+    },
+    "19-Q": {
+      "numero": "19-Q",
+      "texto": "Art. 19-Q. A incorporação, a exclusão ou a alteração pelo SUS de novos medicamentos, produtos e procedimentos, bem como a constituição ou a alteração de protocolo clínico ou de diretriz terapêutica, são atribuições do Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS. (Incluído pela Lei nº 12.401, de 2011)\n\n§ 1o A Comissão Nacional de Incorporação de Tecnologias no SUS, cuja composição e regimento são definidos em regulamento, contará com a participação de 1 (um) representante indicado pelo Conselho Nacional de Saúde e de 1 (um) representante, especialista na área, indicado pelo Conselho Federal de Medicina. (Incluído pela Lei nº 12.401, de 2011)\n\n§ 1º A Comissão Nacional de Incorporação de Tecnologias no SUS, cuja composição e regimento são definidos em regulamento, contará com a participação de 1 (um) representante indicado pelo Conselho Nacional de Saúde, de 1 (um) representante, especialista na área, indicado pelo Conselho Federal de Medicina e de 1 (um) representante, especialista na área, indicado pela Associação Médica Brasileira. (Redação dada pela Lei nº 14.655, de 2023)\n\n§ 1º A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), cuja composição e regimento são definidos em regulamento, contará com a participação de 1 (um) representante indicado pelo Conselho Nacional de Saúde, de 1 (um) representante, especialista na área, indicado pelo Conselho Federal de Medicina, de 1 (um) representante, especialista na área, indicado pela Associação Médica Brasileira, e de 1 (um) representante de organização da sociedade civil constituída há mais de 2 (dois) anos e atuante na área da respectiva especialidade ou patologia, assegurado o direito a voto. (Redação dada pela Lei nº 15.120, de 2025 Vigência\n\n§ 1º-A. O assento destinado ao representante de organização da sociedade civil de caráter nacional é de ocupação rotativa e será preenchido pela entidade cuja representatividade seja afeta à condição de saúde analisada. (Incluído pela Lei nº 15.120, de 2025 Vigência\n\n§ 2o O relatório da Comissão Nacional de Incorporação de Tecnologias no SUS levará em consideração, necessariamente: (Incluído pela Lei nº 12.401, de 2011)\n\nI - as evidências científicas sobre a eficácia, a acurácia, a efetividade e a segurança do medicamento, produto ou procedimento objeto do processo, acatadas pelo órgão competente para o registro ou a autorização de uso; (Incluído pela Lei nº 12.401, de 2011)\n\nII - a avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já incorporadas, inclusive no que se refere aos atendimentos domiciliar, ambulatorial ou hospitalar, quando cabível. (Incluído pela Lei nº 12.401, de 2011)\n\n§ 3º As metodologias empregadas na avaliação econômica a que se refere o inciso II do § 2º deste artigo serão dispostas em regulamento e amplamente divulgadas, inclusive em relação aos indicadores e parâmetros de custo-efetividade utilizados em combinação com outros critérios. (Incluído pela Lei nº 14.313, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-Q.%20A%20incorpora%C3%A7%C3%A3o%2C%20a%20exclus%C3%A3o%20ou%20a%20altera%C3%A7%C3%A3o%20pelo%20SUS%20de%20novos%20medicamentos%2C%20produtos%20e%20procedimentos%2C%20bem%20como%20a%20constitui%C3%A7%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-P",
+      "next": "19-R"
+    },
+    "19-R": {
+      "numero": "19-R",
+      "texto": "Art. 19-R. A incorporação, a exclusão e a alteração a que se refere o art. 19-Q serão efetuadas mediante a instauração de processo administrativo, a ser concluído em prazo não superior a 180 (cento e oitenta) dias, contado da data em que foi protocolado o pedido, admitida a sua prorrogação por 90 (noventa) dias corridos, quando as circunstâncias exigirem. (Incluído pela Lei nº 12.401, de 2011)\n\n§ 1o O processo de que trata o caput deste artigo observará, no que couber, o disposto na Lei no 9.784, de 29 de janeiro de 1999, e as seguintes determinações especiais: (Incluído pela Lei nº 12.401, de 2011)\n\nI - apresentação pelo interessado dos documentos e, se cabível, das amostras de produtos, na forma do regulamento, com informações necessárias para o atendimento do disposto no § 2o do art. 19-Q; (Incluído pela Lei nº 12.401, de 2011)\n\nII - (VETADO); (Incluído pela Lei nº 12.401, de 2011)\n\nIII - realização de consulta pública que inclua a divulgação do parecer emitido pela Comissão Nacional de Incorporação de Tecnologias no SUS; (Incluído pela Lei nº 12.401, de 2011)\n\nIV - realização de audiência pública, antes da tomada de decisão, se a relevância da matéria justificar o evento. (Incluído pela Lei nº 12.401, de 2011)\n\nV - distribuição aleatória, respeitadas a especialização e a competência técnica requeridas para a análise da matéria; (Incluído pela Lei nº 14.313, de 2022)\n\nVI - publicidade dos atos processuais. (Incluído pela Lei nº 14.313, de 2022)\n\n§ 2o (VETADO). (Incluído pela Lei nº 12.401, de 2011)\n\n§ 3º O procedimento referido no caput deste artigo tramitará em regime prioritário quando se tratar de análise de medicamento, de produto ou de procedimento relacionado à assistência da pessoa com câncer. (Incluído pela Lei nº 14.758, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-R.%20A%20incorpora%C3%A7%C3%A3o%2C%20a%20exclus%C3%A3o%20e%20a%20altera%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20art.%2019-Q%20ser%C3%A3o%20efetuadas%20mediante%20a%20instaura%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-Q",
+      "next": "19-S"
+    },
+    "19-S": {
+      "numero": "19-S",
+      "texto": "Art. 19-S. (VETADO). (Incluído pela Lei nº 12.401, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-S.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.401%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-R",
+      "next": "19-T"
+    },
+    "19-T": {
+      "numero": "19-T",
+      "texto": "Art. 19-T. São vedados, em todas as esferas de gestão do SUS: (Incluído pela Lei nº 12.401, de 2011)\n\nI - o pagamento, o ressarcimento ou o reembolso de medicamento, produto e procedimento clínico ou cirúrgico experimental, ou de uso não autorizado pela Agência Nacional de Vigilância Sanitária - ANVISA; (Incluído pela Lei nº 12.401, de 2011)\n\nII - a dispensação, o pagamento, o ressarcimento ou o reembolso de medicamento e produto, nacional ou importado, sem registro na Anvisa. (Incluído pela Lei nº 12.401, de 2011)\n\nParágrafo único. Excetuam-se do disposto neste artigo: (Incluído pela Lei nº 14.313, de 2022)\n\nI - medicamento e produto em que a indicação de uso seja distinta daquela aprovada no registro na Anvisa, desde que seu uso tenha sido recomendado pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), demonstradas as evidências científicas sobre a eficácia, a acurácia, a efetividade e a segurança, e esteja padronizado em protocolo estabelecido pelo Ministério da Saúde; (Incluído pela Lei nº 14.313, de 2022)\n\nII - medicamento e produto recomendados pela Conitec e adquiridos por intermédio de organismos multilaterais internacionais, para uso em programas de saúde pública do Ministério da Saúde e suas entidades vinculadas, nos termos do § 5º do art. 8º da Lei nº 9.782, de 26 de janeiro de 1999. (Incluído pela Lei nº 14.313, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-T.%20S%C3%A3o%20vedados%2C%20em%20todas%20as%20esferas%20de%20gest%C3%A3o%20do%20SUS%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.401%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-S",
+      "next": "19-U"
+    },
+    "19-U": {
+      "numero": "19-U",
+      "texto": "Art. 19-U. A responsabilidade financeira pelo fornecimento de medicamentos, produtos de interesse para a saúde ou procedimentos de que trata este Capítulo será pactuada na Comissão Intergestores Tripartite. (Incluído pela Lei nº 12.401, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-U.%20A%20responsabilidade%20financeira%20pelo%20fornecimento%20de%20medicamentos%2C%20produtos%20de%20interesse%20para%20a%20sa%C3%BAde%20ou%20procedimentos%20de%20que%20trata%20este%20Cap%C3%ADtulo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-T",
+      "next": "19-V"
+    },
+    "19-V": {
+      "numero": "19-V",
+      "texto": "Art. 19-V. Os gestores do SUS, em todas as esferas, realizarão campanhas permanentes de conscientização contra a automedicação, com o objetivo de informar a população sobre os riscos dessa prática, especialmente quanto à ingestão de antibióticos ou de medicamentos sujeitos a controle especial. (Incluído pela Lei nº 14.912, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-V.%20Os%20gestores%20do%20SUS%2C%20em%20todas%20as%20esferas%2C%20realizar%C3%A3o%20campanhas%20permanentes%20de%20conscientiza%C3%A7%C3%A3o%20contra%20a%20automedica%C3%A7%C3%A3o%2C%20com%20o%20objetivo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-U",
+      "next": "19-W"
+    },
+    "19-W": {
+      "numero": "19-W",
+      "texto": "Art. 19-W. Os laboratórios farmacêuticos de natureza pública que tiverem as condições técnicas para a produção de fármacos deverão produzir os princípios ativos destinados ao tratamento das doenças determinadas socialmente, nos termos de regulamento. (Incluído pela Lei nº 14.977, de 2025) Vigência\n\n§ 1º Os laboratórios farmacêuticos de natureza pública que não tiverem as condições técnicas para a produção de fármacos poderão desenvolver projetos e celebrar acordos, convênios e outros ajustes com vistas à adaptação de sua linha produtiva e à aquisição de tecnologias e processos direcionados à produção farmoquímica. (Incluído pela Lei nº 14.977, de 2025) Vigência\n\n§ 2º O poder público fica autorizado a financiar, a estimular, a promover e a buscar parcerias nacionais e internacionais com laboratórios farmoquímicos que detenham a tecnologia para a produção de fármacos, a fim de obter os requisitos necessários à transferência dessa tecnologia e do conhecimento para os laboratórios de natureza pública capacitados na forma deste artigo. (Incluído pela Lei nº 14.977, de 2025) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2019-W.%20Os%20laborat%C3%B3rios%20farmac%C3%AAuticos%20de%20natureza%20p%C3%BAblica%20que%20tiverem%20as%20condi%C3%A7%C3%B5es%20t%C3%A9cnicas%20para%20a%20produ%C3%A7%C3%A3o%20de%20f%C3%A1rmacos%20dever%C3%A3o%20produzir%20os%20princ%C3%ADpios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-V",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os serviços privados de assistência à saúde caracterizam-se pela atuação, por iniciativa própria, de profissionais liberais, legalmente habilitados, e de pessoas jurídicas de direito privado na promoção, proteção e recuperação da saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2020.%20Os%20servi%C3%A7os%20privados%20de%20assist%C3%AAncia%20%C3%A0%20sa%C3%BAde%20caracterizam-se%20pela%20atua%C3%A7%C3%A3o%2C%20por%20iniciativa%20pr%C3%B3pria%2C%20de%20profissionais%20liberais%2C%20legalmente%20habilitados%2C%20e%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-W",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A assistência à saúde é livre à iniciativa privada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2021.%20A%20assist%C3%AAncia%20%C3%A0%20sa%C3%BAde%20%C3%A9%20livre%20%C3%A0%20iniciativa%20privada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Na prestação de serviços privados de assistência à saúde, serão observados os princípios éticos e as normas expedidas pelo órgão de direção do Sistema Único de Saúde (SUS) quanto às condições para seu funcionamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2022.%20Na%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20privados%20de%20assist%C3%AAncia%20%C3%A0%20sa%C3%BAde%2C%20ser%C3%A3o%20observados%20os%20princ%C3%ADpios%20%C3%A9ticos%20e%20as%20normas%20expedidas%20pelo%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. É vedada a participação direta ou indireta de empresas ou de capitais estrangeiros na assistência à saúde, salvo através de doações de organismos internacionais vinculados à Organização das Nações Unidas, de entidades de cooperação técnica e de financiamento e empréstimos.\n\n§ 1° Em qualquer caso é obrigatória a autorização do órgão de direção nacional do Sistema Único de Saúde (SUS), submetendo-se a seu controle as atividades que forem desenvolvidas e os instrumentos que forem firmados.\n\n§ 2° Excetuam-se do disposto neste artigo os serviços de saúde mantidos, sem finalidade lucrativa, por empresas, para atendimento de seus empregados e dependentes, sem qualquer ônus para a seguridade social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2023.%20%C3%89%20vedada%20a%20participa%C3%A7%C3%A3o%20direta%20ou%20indireta%20de%20empresas%20ou%20de%20capitais%20estrangeiros%20na%20assist%C3%AAncia%20%C3%A0%20sa%C3%BAde%2C%20salvo%20atrav%C3%A9s%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Quando as suas disponibilidades forem insuficientes para garantir a cobertura assistencial à população de uma determinada área, o Sistema Único de Saúde (SUS) poderá recorrer aos serviços ofertados pela iniciativa privada.\n\nParágrafo único. A participação complementar dos serviços privados será formalizada mediante contrato ou convênio, observadas, a respeito, as normas de direito público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2024.%20Quando%20as%20suas%20disponibilidades%20forem%20insuficientes%20para%20garantir%20a%20cobertura%20assistencial%20%C3%A0%20popula%C3%A7%C3%A3o%20de%20uma%20determinada%20%C3%A1rea%2C%20o%20Sistema%20%C3%9Anico",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Na hipótese do artigo anterior, as entidades filantrópicas e as sem fins lucrativos terão preferência para participar do Sistema Único de Saúde (SUS).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2025.%20Na%20hip%C3%B3tese%20do%20artigo%20anterior%2C%20as%20entidades%20filantr%C3%B3picas%20e%20as%20sem%20fins%20lucrativos%20ter%C3%A3o%20prefer%C3%AAncia%20para%20participar%20do%20Sistema%20%C3%9Anico",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Os critérios e valores para a remuneração de serviços e os parâmetros de cobertura assistencial serão estabelecidos pela direção nacional do Sistema Único de Saúde (SUS), aprovados no Conselho Nacional de Saúde.\n\n§ 1° Na fixação dos critérios, valores, formas de reajuste e de pagamento da remuneração aludida neste artigo, a direção nacional do Sistema Único de Saúde (SUS) deverá fundamentar seu ato em demonstrativo econômico-financeiro que garanta a efetiva qualidade de execução dos serviços contratados.\n\n§ 2° Os serviços contratados submeter-se-ão às normas técnicas e administrativas e aos princípios e diretrizes do Sistema Único de Saúde (SUS), mantido o equilíbrio econômico e financeiro do contrato.\n\n§ 3° (Vetado).\n\n§ 4° Aos proprietários, administradores e dirigentes de entidades ou serviços contratados é vedado exercer cargo de chefia ou função de confiança no Sistema Único de Saúde (SUS).\n\n§ 5º Os valores a que se refere o caput deste artigo, para o conjunto das remunerações dos serviços de saúde, serão definidos no mês de dezembro de cada ano, por meio de ato do Ministério da Saúde, devendo-se buscar a garantia da qualidade do atendimento, o equilíbrio econômico-financeiro na prestação dos serviços e a preservação do valor real destinado à remuneração de serviços, observada a disponibilidade orçamentária e financeira. (Incluído pela Lei nº 14.820, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026.%20Os%20crit%C3%A9rios%20e%20valores%20para%20a%20remunera%C3%A7%C3%A3o%20de%20servi%C3%A7os%20e%20os%20par%C3%A2metros%20de%20cobertura%20assistencial%20ser%C3%A3o%20estabelecidos%20pela%20dire%C3%A7%C3%A3o%20nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. A telessaúde abrange a prestação remota de serviços relacionados a todas as profissões da área da saúde regulamentadas pelos órgãos competentes do Poder Executivo federal e obedecerá aos seguintes princípios: (Incluído pela Lei nº 14.510, de 2022)\n\nI - autonomia do profissional de saúde; (Incluído pela Lei nº 14.510, de 2022)\n\nII - consentimento livre e informado do paciente;\n\nIII - direito de recusa ao atendimento na modalidade telessaúde, com a garantia do atendimento presencial sempre que solicitado; (Incluído pela Lei nº 14.510, de 2022)\n\nIV - dignidade e valorização do profissional de saúde; (Incluído pela Lei nº 14.510, de 2022)\n\nV - assistência segura e com qualidade ao paciente; (Incluído pela Lei nº 14.510, de 2022)\n\nVI - confidencialidade dos dados; (Incluído pela Lei nº 14.510, de 2022)\n\nVII - promoção da universalização do acesso dos brasileiros às ações e aos serviços de saúde; (Incluído pela Lei nº 14.510, de 2022)\n\nVIII - estrita observância das atribuições legais de cada profissão; (Incluído pela Lei nº 14.510, de 2022)\n\nIX - responsabilidade digital. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-A.%20A%20telessa%C3%BAde%20abrange%20a%20presta%C3%A7%C3%A3o%20remota%20de%20servi%C3%A7os%20relacionados%20a%20todas%20as%20profiss%C3%B5es%20da%20%C3%A1rea%20da%20sa%C3%BAde%20regulamentadas%20pelos%20%C3%B3rg%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "26-B"
+    },
+    "26-B": {
+      "numero": "26-B",
+      "texto": "Art. 26-B. Para fins desta Lei, considera-se telessaúde a modalidade de prestação de serviços de saúde a distância, por meio da utilização das tecnologias da informação e da comunicação, que envolve, entre outros, a transmissão segura de dados e informações de saúde, por meio de textos, de sons, de imagens ou outras formas adequadas. (Incluído pela Lei nº 14.510, de 2022)\n\nParágrafo único. Os atos do profissional de saúde, quando praticados na modalidade telessaúde, terão validade em todo o território nacional. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-B.%20Para%20fins%20desta%20Lei%2C%20considera-se%20telessa%C3%BAde%20a%20modalidade%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20de%20sa%C3%BAde%20a%20dist%C3%A2ncia%2C%20por%20meio%20da%20utiliza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "26-C"
+    },
+    "26-C": {
+      "numero": "26-C",
+      "texto": "Art. 26-C. Ao profissional de saúde são asseguradas a liberdade e a completa independência de decidir sobre a utilização ou não da telessaúde, inclusive com relação à primeira consulta, atendimento ou procedimento, e poderá indicar a utilização de atendimento presencial ou optar por ele, sempre que entender necessário. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-C.%20Ao%20profissional%20de%20sa%C3%BAde%20s%C3%A3o%20asseguradas%20a%20liberdade%20e%20a%20completa%20independ%C3%AAncia%20de%20decidir%20sobre%20a%20utiliza%C3%A7%C3%A3o%20ou%20n%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-B",
+      "next": "26-D"
+    },
+    "26-D": {
+      "numero": "26-D",
+      "texto": "Art. 26-D. Compete aos conselhos federais de fiscalização do exercício profissional a normatização ética relativa à prestação dos serviços previstos neste Título, aplicando-se os padrões normativos adotados para as modalidades de atendimento presencial, no que não colidirem com os preceitos desta Lei. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-D.%20Compete%20aos%20conselhos%20federais%20de%20fiscaliza%C3%A7%C3%A3o%20do%20exerc%C3%ADcio%20profissional%20a%20normatiza%C3%A7%C3%A3o%20%C3%A9tica%20relativa%20%C3%A0%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20previstos%20neste%20T%C3%ADtulo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-C",
+      "next": "26-E"
+    },
+    "26-E": {
+      "numero": "26-E",
+      "texto": "Art. 26-E. Na prestação de serviços por telessaúde, serão observadas as normas expedidas pelo órgão de direção do Sistema Único de Saúde (SUS) quanto às condições para seu funcionamento, observada a competência dos demais órgãos reguladores. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-E.%20Na%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20por%20telessa%C3%BAde%2C%20ser%C3%A3o%20observadas%20as%20normas%20expedidas%20pelo%20%C3%B3rg%C3%A3o%20de%20dire%C3%A7%C3%A3o%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-D",
+      "next": "26-F"
+    },
+    "26-F": {
+      "numero": "26-F",
+      "texto": "Art. 26-F. O ato normativo que pretenda restringir a prestação de serviço de telessaúde deverá demonstrar a imprescindibilidade da medida para que sejam evitados danos à saúde dos pacientes. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-F.%20O%20ato%20normativo%20que%20pretenda%20restringir%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7o%20de%20telessa%C3%BAde%20dever%C3%A1%20demonstrar%20a%20imprescindibilidade%20da%20medida%20para%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-E",
+      "next": "26-G"
+    },
+    "26-G": {
+      "numero": "26-G",
+      "texto": "Art. 26-G. A prática da telessaúde deve seguir as seguintes determinações: (Incluído pela Lei nº 14.510, de 2022)\n\nI - ser realizada por consentimento livre e esclarecido do paciente, ou de seu representante legal, e sob responsabilidade do profissional de saúde; (Incluído pela Lei nº 14.510, de 2022)\n\nII - prestar obediência aos ditames das Leis nºs 12.965, de 23 de abril de 2014 (Marco Civil da Internet), 12.842, de 10 de julho de 2013 (Lei do Ato Médico), 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados), 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) e, nas hipóteses cabíveis, aos ditames da Lei nº 13.787, de 27 de dezembro de 2018 (Lei do Prontuário Eletrônico). (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-G.%20A%20pr%C3%A1tica%20da%20telessa%C3%BAde%20deve%20seguir%20as%20seguintes%20determina%C3%A7%C3%B5es%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.510%2C%20de%202022%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-F",
+      "next": "26-H"
+    },
+    "26-H": {
+      "numero": "26-H",
+      "texto": "Art. 26-H. É dispensada a inscrição secundária ou complementar do profissional de saúde que exercer a profissão em outra jurisdição exclusivamente por meio da modalidade telessaúde. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2026-H.%20%C3%89%20dispensada%20a%20inscri%C3%A7%C3%A3o%20secund%C3%A1ria%20ou%20complementar%20do%20profissional%20de%20sa%C3%BAde%20que%20exercer%20a%20profiss%C3%A3o%20em%20outra%20jurisdi%C3%A7%C3%A3o%20exclusivamente%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-G",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A política de recursos humanos na área da saúde será formalizada e executada, articuladamente, pelas diferentes esferas de governo, em cumprimento dos seguintes objetivos:\n\nI - organização de um sistema de formação de recursos humanos em todos os níveis de ensino, inclusive de pós-graduação, além da elaboração de programas de permanente aperfeiçoamento de pessoal;\n\nII - (Vetado)\n\nIII - (Vetado)\n\nIV - valorização da dedicação exclusiva aos serviços do Sistema Único de Saúde (SUS).\n\nParágrafo único. Os serviços públicos que integram o Sistema Único de Saúde (SUS) constituem campo de prática para ensino e pesquisa, mediante normas específicas, elaboradas conjuntamente com o sistema educacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2027.%20A%20pol%C3%ADtica%20de%20recursos%20humanos%20na%20%C3%A1rea%20da%20sa%C3%BAde%20ser%C3%A1%20formalizada%20e%20executada%2C%20articuladamente%2C%20pelas%20diferentes%20esferas%20de%20governo%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-H",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Os cargos e funções de chefia, direção e assessoramento, no âmbito do Sistema Único de Saúde (SUS), só poderão ser exercidas em regime de tempo integral.\n\n§ 1° Os servidores que legalmente acumulam dois cargos ou empregos poderão exercer suas atividades em mais de um estabelecimento do Sistema Único de Saúde (SUS).\n\n§ 2° O disposto no parágrafo anterior aplica-se também aos servidores em regime de tempo integral, com exceção dos ocupantes de cargos ou função de chefia, direção ou assessoramento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2028.%20Os%20cargos%20e%20fun%C3%A7%C3%B5es%20de%20chefia%2C%20dire%C3%A7%C3%A3o%20e%20assessoramento%2C%20no%20%C3%A2mbito%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20s%C3%B3%20poder%C3%A3o%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2029.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As especializações na forma de treinamento em serviço sob supervisão serão regulamentadas por Comissão Nacional, instituída de acordo com o art. 12 desta Lei, garantida a participação das entidades profissionais correspondentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2030.%20As%20especializa%C3%A7%C3%B5es%20na%20forma%20de%20treinamento%20em%20servi%C3%A7o%20sob%20supervis%C3%A3o%20ser%C3%A3o%20regulamentadas%20por%20Comiss%C3%A3o%20Nacional%2C%20institu%C3%ADda%20de%20acordo%20com%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O orçamento da seguridade social destinará ao Sistema Único de Saúde (SUS) de acordo com a receita estimada, os recursos necessários à realização de suas finalidades, previstos em proposta elaborada pela sua direção nacional, com a participação dos órgãos da Previdência Social e da Assistência Social, tendo em vista as metas e prioridades estabelecidas na Lei de Diretrizes Orçamentárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2031.%20O%20or%C3%A7amento%20da%20seguridade%20social%20destinar%C3%A1%20ao%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%20de%20acordo%20com%20a%20receita%20estimada%2C%20os%20recursos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. São considerados de outras fontes os recursos provenientes de:\n\nI - (Vetado)\n\nII - Serviços que possam ser prestados sem prejuízo da assistência à saúde;\n\nIII - ajuda, contribuições, doações e donativos;\n\nIV - alienações patrimoniais e rendimentos de capital;\n\nV - taxas, multas, emolumentos e preços públicos arrecadados no âmbito do Sistema Único de Saúde (SUS); e\n\nVI - rendas eventuais, inclusive comerciais e industriais.\n\n§ 1° Ao Sistema Único de Saúde (SUS) caberá metade da receita de que trata o inciso I deste artigo, apurada mensalmente, a qual será destinada à recuperação de viciados.\n\n§ 2° As receitas geradas no âmbito do Sistema Único de Saúde (SUS) serão creditadas diretamente em contas especiais, movimentadas pela sua direção, na esfera de poder onde forem arrecadadas.\n\n§ 3º As ações de saneamento que venham a ser executadas supletivamente pelo Sistema Único de Saúde (SUS), serão financiadas por recursos tarifários específicos e outros da União, Estados, Distrito Federal, Municípios e, em particular, do Sistema Financeiro da Habitação (SFH).\n\n§ 4º (Vetado).\n\n§ 5º As atividades de pesquisa e desenvolvimento científico e tecnológico em saúde serão co-financiadas pelo Sistema Único de Saúde (SUS), pelas universidades e pelo orçamento fiscal, além de recursos de instituições de fomento e financiamento ou de origem externa e receita própria das instituições executoras.\n\n§ 6º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2032.%20S%C3%A3o%20considerados%20de%20outras%20fontes%20os%20recursos%20provenientes%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os recursos financeiros do Sistema Único de Saúde (SUS) serão depositados em conta especial, em cada esfera de sua atuação, e movimentados sob fiscalização dos respectivos Conselhos de Saúde.\n\n§ 1º Na esfera federal, os recursos financeiros, originários do Orçamento da Seguridade Social, de outros Orçamentos da União, além de outras fontes, serão administrados pelo Ministério da Saúde, através do Fundo Nacional de Saúde.\n\n§ 2º (Vetado).\n\n§ 3º (Vetado).\n\n§ 4º O Ministério da Saúde acompanhará, através de seu sistema de auditoria, a conformidade à programação aprovada da aplicação dos recursos repassados a Estados e Municípios. Constatada a malversação, desvio ou não aplicação dos recursos, caberá ao Ministério da Saúde aplicar as medidas previstas em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2033.%20Os%20recursos%20financeiros%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%20ser%C3%A3o%20depositados%20em%20conta%20especial%2C%20em%20cada%20esfera%20de%20sua%20atua%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As autoridades responsáveis pela distribuição da receita efetivamente arrecadada transferirão automaticamente ao Fundo Nacional de Saúde (FNS), observado o critério do parágrafo único deste artigo, os recursos financeiros correspondentes às dotações consignadas no Orçamento da Seguridade Social, a projetos e atividades a serem executados no âmbito do Sistema Único de Saúde (SUS).\n\nParágrafo único. Na distribuição dos recursos financeiros da Seguridade Social será observada a mesma proporção da despesa prevista de cada área, no Orçamento da Seguridade Social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2034.%20As%20autoridades%20respons%C3%A1veis%20pela%20distribui%C3%A7%C3%A3o%20da%20receita%20efetivamente%20arrecadada%20transferir%C3%A3o%20automaticamente%20ao%20Fundo%20Nacional%20de%20Sa%C3%BAde%20%28FNS%29%2C%20observado%20o%20crit%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Para o estabelecimento de valores a serem transferidos a Estados, Distrito Federal e Municípios, será utilizada a combinação dos seguintes critérios, segundo análise técnica de programas e projetos:\n\nI - perfil demográfico da região;\n\nII - perfil epidemiológico da população a ser coberta;\n\nIII - características quantitativas e qualitativas da rede de saúde na área;\n\nIV - desempenho técnico, econômico e financeiro no período anterior;\n\nV - níveis de participação do setor saúde nos orçamentos estaduais e municipais;\n\nVI - previsão do plano qüinqüenal de investimentos da rede;\n\nVII - ressarcimento do atendimento a serviços prestados para outras esferas de governo.\n\n§ 1º Metade dos recursos destinados a Estados e Municípios será distribuída segundo o quociente de sua divisão pelo número de habitantes, independentemente de qualquer procedimento prévio. (Revogado pela Lei Complementar nº 141, de 2012) (Vide Lei nº 8.142, de 1990)\n\n§ 2º Nos casos de Estados e Municípios sujeitos a notório processo de migração, os critérios demográficos mencionados nesta lei serão ponderados por outros indicadores de crescimento populacional, em especial o número de eleitores registrados.\n\n§ 3º (Vetado).\n\n§ 4º (Vetado).\n\n§ 5º (Vetado).\n\n§ 6º O disposto no parágrafo anterior não prejudica a atuação dos órgãos de controle interno e externo e nem a aplicação de penalidades previstas em lei, em caso de irregularidades verificadas na gestão dos recursos transferidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2035.%20Para%20o%20estabelecimento%20de%20valores%20a%20serem%20transferidos%20a%20Estados%2C%20Distrito%20Federal%20e%20Munic%C3%ADpios%2C%20ser%C3%A1%20utilizada%20a%20combina%C3%A7%C3%A3o%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O processo de planejamento e orçamento do Sistema Único de Saúde (SUS) será ascendente, do nível local até o federal, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de saúde com a disponibilidade de recursos em planos de saúde dos Municípios, dos Estados, do Distrito Federal e da União.\n\n§ 1º Os planos de saúde serão a base das atividades e programações de cada nível de direção do Sistema Único de Saúde (SUS), e seu financiamento será previsto na respectiva proposta orçamentária.\n\n§ 2º É vedada a transferência de recursos para o financiamento de ações não previstas nos planos de saúde, exceto em situações emergenciais ou de calamidade pública, na área de saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2036.%20O%20processo%20de%20planejamento%20e%20or%C3%A7amento%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%20ser%C3%A1%20ascendente%2C%20do%20n%C3%ADvel%20local%20at%C3%A9%20o%20federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O Conselho Nacional de Saúde estabelecerá as diretrizes a serem observadas na elaboração dos planos de saúde, em função das características epidemiológicas e da organização dos serviços em cada jurisdição administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2037.%20O%20Conselho%20Nacional%20de%20Sa%C3%BAde%20estabelecer%C3%A1%20as%20diretrizes%20a%20serem%20observadas%20na%20elabora%C3%A7%C3%A3o%20dos%20planos%20de%20sa%C3%BAde%2C%20em%20fun%C3%A7%C3%A3o%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Não será permitida a destinação de subvenções e auxílios a instituições prestadoras de serviços de saúde com finalidade lucrativa.\n\nDAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2038.%20N%C3%A3o%20ser%C3%A1%20permitida%20a%20destina%C3%A7%C3%A3o%20de%20subven%C3%A7%C3%B5es%20e%20aux%C3%ADlios%20a%20institui%C3%A7%C3%B5es%20prestadoras%20de%20servi%C3%A7os%20de%20sa%C3%BAde%20com%20finalidade%20lucrativa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. (Vetado).\n\n§ 1º (Vetado).\n\n§ 2º (Vetado).\n\n§ 3º (Vetado).\n\n§ 4º (Vetado).\n\n§ 5º A cessão de uso dos imóveis de propriedade do Inamps para órgãos integrantes do Sistema Único de Saúde (SUS) será feita de modo a preservá-los como patrimônio da Seguridade Social.\n\n§ 6º Os imóveis de que trata o parágrafo anterior serão inventariados com todos os seus acessórios, equipamentos e outros bens móveis e ficarão disponíveis para utilização pelo órgão de direção municipal do Sistema Único de Saúde - SUS ou, eventualmente, pelo estadual, em cuja circunscrição administrativa se encontrem, mediante simples termo de recebimento.\n\n§ 7º (Vetado).\n\n§ 8º O acesso aos serviços de informática e bases de dados, mantidos pelo Ministério da Saúde e pelo Ministério do Trabalho e da Previdência Social, será assegurado às Secretarias Estaduais e Municipais de Saúde ou órgãos congêneres, como suporte ao processo de gestão, de forma a permitir a gerencia informatizada das contas e a disseminação de estatísticas sanitárias e epidemiológicas médico-hospitalares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2039.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. (Vetado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2040.%20%28Vetado%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. As ações desenvolvidas pela Fundação das Pioneiras Sociais e pelo Instituto Nacional do Câncer, supervisionadas pela direção nacional do Sistema Único de Saúde (SUS), permanecerão como referencial de prestação de serviços, formação de recursos humanos e para transferência de tecnologia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2041.%20As%20a%C3%A7%C3%B5es%20desenvolvidas%20pela%20Funda%C3%A7%C3%A3o%20das%20Pioneiras%20Sociais%20e%20pelo%20Instituto%20Nacional%20do%20C%C3%A2ncer%2C%20supervisionadas%20pela%20dire%C3%A7%C3%A3o%20nacional%20do%20Sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2042.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A gratuidade das ações e serviços de saúde fica preservada nos serviços públicos contratados, ressalvando-se as cláusulas dos contratos ou convênios estabelecidos com as entidades privadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2043.%20A%20gratuidade%20das%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20de%20sa%C3%BAde%20fica%20preservada%20nos%20servi%C3%A7os%20p%C3%BAblicos%20contratados%2C%20ressalvando-se%20as%20cl%C3%A1usulas%20dos%20contratos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2044.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os serviços de saúde dos hospitais universitários e de ensino integram-se ao Sistema Único de Saúde (SUS), mediante convênio, preservada a sua autonomia administrativa, em relação ao patrimônio, aos recursos humanos e financeiros, ensino, pesquisa e extensão nos limites conferidos pelas instituições a que estejam vinculados.\n\n§ 1º Os serviços de saúde de sistemas estaduais e municipais de previdência social deverão integrar-se à direção correspondente do Sistema Único de Saúde (SUS), conforme seu âmbito de atuação, bem como quaisquer outros órgãos e serviços de saúde.\n\n§ 2º Em tempo de paz e havendo interesse recíproco, os serviços de saúde das Forças Armadas poderão integrar-se ao Sistema Único de Saúde (SUS), conforme se dispuser em convênio que, para esse fim, for firmado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2045.%20Os%20servi%C3%A7os%20de%20sa%C3%BAde%20dos%20hospitais%20universit%C3%A1rios%20e%20de%20ensino%20integram-se%20ao%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20mediante%20conv%C3%AAnio%2C%20preservada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. o Sistema Único de Saúde (SUS), estabelecerá mecanismos de incentivos à participação do setor privado no investimento em ciência e tecnologia e estimulará a transferência de tecnologia das universidades e institutos de pesquisa aos serviços de saúde nos Estados, Distrito Federal e Municípios, e às empresas nacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2046.%20o%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20estabelecer%C3%A1%20mecanismos%20de%20incentivos%20%C3%A0%20participa%C3%A7%C3%A3o%20do%20setor%20privado%20no%20investimento%20em%20ci%C3%AAncia%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O Ministério da Saúde, em articulação com os níveis estaduais e municipais do Sistema Único de Saúde (SUS), organizará, no prazo de dois anos, um sistema nacional de informações em saúde, integrado em todo o território nacional, abrangendo questões epidemiológicas e de prestação de serviços. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2047.%20O%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20em%20articula%C3%A7%C3%A3o%20com%20os%20n%C3%ADveis%20estaduais%20e%20municipais%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20organizar%C3%A1%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "47-A"
+    },
+    "47-A": {
+      "numero": "47-A",
+      "texto": "Art. 47-A. O SUS contará com sistema de dados públicos mantido pelo Ministério da Saúde, que conterá informações sobre o tempo médio de espera para a realização de consultas, procedimentos, exames e demais ações e serviços da atenção especializada à saúde. (Incluído pela Medida Provisória nº 1.301, de 2025) (Regulamento)\n\n§ 1º Compete ao Ministério da Saúde regulamentar o sistema de que trata o caput, especialmente quanto à interoperabilidade para recebimento dos dados dos entes federativos, permitida a gestão compartilhada pela União e pelos entes subnacionais, garantidos o atendimento aos princípios e os parâmetros estabelecidos pela Lei nº 13.709, de 14 de agosto de 2018, quando aplicáveis. (Incluído pela Medida Provisória nº 1.301, de 2025) (Regulamento) § 2º As secretarias estaduais, distrital e municipais de saúde deverão garantir o registro das informações da regulação assistencial em seu âmbito de gestão e enviar, obrigatoriamente, os dados ao Ministério da Saúde. (Incluído pela Medida Provisória nº 1.301, de 2025) (Regulamento)\n\n§ 3º Os pedidos de novas habilitações, credenciamentos e majoração de valores relacionados à prestação de serviços estabelecidos pelas políticas e pelos programas da atenção especializada à saúde somente serão analisados e concedidos, na forma prevista no regulamento de que trata o § 1º, para os entes federativos que cumprirem o disposto no § 2º. (Incluído pela Medida Provisória nº 1.301, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2047-A.%20O%20SUS%20contar%C3%A1%20com%20sistema%20de%20dados%20p%C3%BAblicos%20mantido%20pelo%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20que%20conter%C3%A1%20informa%C3%A7%C3%B5es%20sobre%20o%20tempo%20m%C3%A9dio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2048.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47-A",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2049.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Os convênios entre a União, os Estados e os Municípios, celebrados para implantação dos Sistemas Unificados e Descentralizados de Saúde, ficarão rescindidos à proporção que seu objeto for sendo absorvido pelo Sistema Único de Saúde (SUS).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2050.%20Os%20conv%C3%AAnios%20entre%20a%20Uni%C3%A3o%2C%20os%20Estados%20e%20os%20Munic%C3%ADpios%2C%20celebrados%20para%20implanta%C3%A7%C3%A3o%20dos%20Sistemas%20Unificados%20e%20Descentralizados%20de%20Sa%C3%BAde%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2051.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Sem prejuízo de outras sanções cabíveis, constitui crime de emprego irregular de verbas ou rendas públicas (Código Penal, art. 315) a utilização de recursos financeiros do Sistema Único de Saúde (SUS) em finalidades diversas das previstas nesta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2052.%20Sem%20preju%C3%ADzo%20de%20outras%20san%C3%A7%C3%B5es%20cab%C3%ADveis%2C%20constitui%20crime%20de%20emprego%20irregular%20de%20verbas%20ou%20rendas%20p%C3%BAblicas%20%28C%C3%B3digo%20Penal%2C%20art.%20315%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2053.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "53-A"
+    },
+    "53-A": {
+      "numero": "53-A",
+      "texto": "Art. 53-A. Na qualidade de ações e serviços de saúde, as atividades de apoio à assistência à saúde são aquelas desenvolvidas pelos laboratórios de genética humana, produção e fornecimento de medicamentos e produtos para saúde, laboratórios de analises clínicas, anatomia patológica e de diagnóstico por imagem e são livres à participação direta ou indireta de empresas ou de capitais estrangeiros. (Incluído pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2053-A.%20Na%20qualidade%20de%20a%C3%A7%C3%B5es%20e%20servi%C3%A7os%20de%20sa%C3%BAde%2C%20as%20atividades%20de%20apoio%20%C3%A0%20assist%C3%AAncia%20%C3%A0%20sa%C3%BAde%20s%C3%A3o%20aquelas%20desenvolvidas%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2054.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-A",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. São revogadas a Lei nº. 2.312, de 3 de setembro de 1954, a Lei nº. 6.229, de 17 de julho de 1975, e demais disposições em contrário.\n\nBrasília, 19 de setembro de 1990; 169º da Independência e 102º da República.\n\nFERNANDO COLLOR Alceni Guerra\n\nEste texto não substitui o publicado no DOU de 20.9.1990\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm#:~:text=Art.%2055.%20S%C3%A3o%20revogadas%20a%20Lei%20n%C2%BA.%202.312%2C%20de%203%20de%20setembro%20de%201954%2C%20a%20Lei%20n%C2%BA.%206.229%2C%20de%2017%20de%20julho",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": null
+    }
+  }
+}

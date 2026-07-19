@@ -1,0 +1,1775 @@
+{
+  "_meta": {
+    "codigo": "L9478",
+    "nome": "Petróleo",
+    "lei": "Lei 9.478/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm",
+    "total_artigos": 110,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º As políticas nacionais para o aproveitamento racional das fontes de energia visarão aos seguintes objetivos:\n\nI - preservar o interesse nacional;\n\nII - promover o desenvolvimento, ampliar o mercado de trabalho e valorizar os recursos energéticos;\n\nIII - proteger os interesses do consumidor quanto a preço, qualidade e oferta dos produtos;\n\nIV - proteger o meio ambiente e promover a conservação de energia;\n\nV - garantir o fornecimento de derivados de petróleo em todo o território nacional, nos termos do § 2º do art. 177 da Constituição Federal;\n\nVI - incrementar, em bases econômicas, a utilização do gás natural;\n\nVII - identificar as soluções mais adequadas para o suprimento de energia elétrica nas diversas regiões do País;\n\nVIII - utilizar fontes alternativas de energia, mediante o aproveitamento econômico dos insumos disponíveis e das tecnologias aplicáveis;\n\nIX - promover a livre concorrência;\n\nX - atrair investimentos na produção de energia;\n\nXI - ampliar a competitividade do País no mercado internacional.\n\nXII - incrementar, em bases econômicas, sociais e ambientais, a participação dos biocombustíveis na matriz energética nacional. (Redação dada pela Lei nº 11.097, de 2005)\n\nXIII - garantir o fornecimento de biocombustíveis em todo o território nacional.. (Incluído pela Medida Provisória nº 532, de 2011)\n\nXIII - garantir o fornecimento de biocombustíveis em todo o território nacional; (Incluído pela Lei nº 12.490, de 2011)\n\nXIV - incentivar a geração de energia elétrica a partir da biomassa e de subprodutos da produção de biocombustíveis, em razão do seu caráter limpo, renovável e complementar à fonte hidráulica; (Incluído pela Lei nº 12.490, de 2011)\n\nXV - promover a competitividade do País no mercado internacional de biocombustíveis; (Incluído pela Lei nº 12.490, de 2011)\n\nXVI - atrair investimentos em infraestrutura para transporte e estocagem de biocombustíveis; (Incluído pela Lei nº 12.490, de 2011)\n\nXVII - fomentar a pesquisa e o desenvolvimento relacionados à energia renovável; (Incluído pela Lei nº 12.490, de 2011)\n\nXVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis. (Incluído pela Lei nº 12.490, de 2011)\n\nXVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis e de hidrogênio de baixa emissão de carbono e seus derivados; e (Redação dada pela Lei nº 14.948, de 2024)\n\nXVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis e da captura e da estocagem geológica de dióxido de carbono; (Redação dada pela Lei nº 14.993, de 2024)\n\nXVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis, de hidrogênio de baixa emissão de carbono e seus derivados e da captura e da estocagem geológica de dióxido de carbono; (Redação dada pela Lei nº 15.103, de 2025)\n\nXIX - incentivar a produção e promover a competitividade no País e no mercado internacional, bem como atrair investimentos em infraestrutura ligada à indústria do hidrogênio de baixa emissão de carbono e seus derivados. (Incluído pela Lei nº 14.948, de 2024)\n\nXX - promover o aproveitamento econômico racional e sustentável do potencial para geração de energia elétrica no mar territorial, na plataforma continental, na zona econômica exclusiva ou em outros corpos hídricos sob domínio da União; (Incluído pela Lei nº 15.097, de 2025)\n\nXXI - incentivar a geração de energia elétrica a partir do aproveitamento de potencial energético offshore. (Incluído pela Lei nº 15.097, de 2025)\n\nXXII - promover e assegurar, em bases sustentáveis, a manutenção, modernização e expansão do aproveitamento racional do potencial hidroelétrico nacional, reconhecendo seu papel estruturante para a segurança energética, a modicidade tarifária e a integração entre as regiões do País; (Incluído pela Lei nº 15.269, de 2025)\n\nXXIII - maximizar o aproveitamento da produção nacional de gás natural. (Incluído pela Lei nº 15.269, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%201%C2%BA%20As%20pol%C3%ADticas%20nacionais%20para%20o%20aproveitamento%20racional%20das%20fontes%20de%20energia%20visar%C3%A3o%20aos%20seguintes%20objetivos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° Fica criado o Conselho Nacional de Política Energética - CNPE, vinculado à Presidência da República e presidido pelo Ministro de Estado de Minas e Energia, com a atribuição de propor ao Presidente da República políticas nacionais e medidas específicas destinadas a:\n\nI - promover o aproveitamento racional dos recursos energéticos do País, em conformidade com os princípios enumerados no capítulo anterior e com o disposto na legislação aplicável;\n\nII - assegurar, em função das características regionais, o suprimento de insumos energéticos às áreas mais remotas ou de difícil acesso do País, submetendo as medidas específicas ao Congresso Nacional, quando implicarem criação de subsídios;\n\nIII - rever periodicamente as matrizes energéticas aplicadas às diversas regiões do País, considerando as fontes convencionais e alternativas e as tecnologias disponíveis;\n\nIV - estabelecer diretrizes para programas específicos, como os de uso do gás natural, do álcool, do carvão e da energia termonuclear;\n\nIV - estabelecer diretrizes para programas específicos, como os de uso do gás natural, do carvão, da energia termonuclear, dos biocombustíveis, da energia solar, da energia eólica e da energia proveniente de outras fontes alternativas; (Redação dada pela Lei nº 11.097, de 2005)\n\nIV – estabelecer diretrizes e metas, quando aplicáveis, para programas específicos, como os de uso do gás natural, do carvão, da energia termonuclear, dos biocombustíveis, da energia solar, da energia eólica, do biogás, do biometano e da energia proveniente de outras fontes alternativas; (Redação dada pela Lei nº 14.993, de 2024)\n\nIV - estabelecer diretrizes e metas, quando aplicáveis, para programas específicos, como os de uso do gás natural, do carvão, da energia termonuclear, dos biocombustíveis, da energia solar, da energia eólica, do biogás, do biometano, da energia hidráulica e da energia proveniente de outras fontes alternativas; (Redação dada pela Lei nº 15.269, de 2025)\n\nV - estabelecer diretrizes para a importação e exportação, de maneira a atender às necessidades de consumo interno de petróleo e seus derivados, gás natural e condensado, e assegurar o adequado funcionamento do Sistema Nacional de Estoques de Combustíveis e o cumprimento do Plano Anual de Estoques Estratégicos de Combustíveis, de que trata o art. 4º da Lei nº 8.176, de 8 de fevereiro de 1991.\n\nV - estabelecer diretrizes para a importação e exportação, de maneira a atender às necessidades de consumo interno de petróleo e seus derivados, biocombustíveis, gás natural e condensado, e assegurar o adequado funcionamento do Sistema Nacional de Estoques de Combustíveis e o cumprimento do Plano Anual de Estoques Estratégicos de Combustíveis, de que trata o art. 4o da Lei no 8.176, de 8 de fevereiro de 1991; . (Redação dada pela Medida Provisória nº 532, de 2011)\n\nV - estabelecer diretrizes para a importação e exportação, de maneira a atender às necessidades de consumo interno de petróleo e seus derivados, biocombustíveis, gás natural e condensado, e assegurar o adequado funcionamento do Sistema Nacional de Estoques de Combustíveis e o cumprimento do Plano Anual de Estoques Estratégicos de Combustíveis, de que trata o art. 4o da Lei no 8.176, de 8 de fevereiro de 1991; (Redação dada pela Lei nº 12.490, de 2011)\n\nVI - sugerir a adoção de medidas necessárias para garantir o atendimento à demanda nacional de energia elétrica, considerando o planejamento de longo, médio e curto prazos, podendo indicar empreendimentos que devam ter prioridade de licitação e implantação, tendo em vista seu caráter estratégico e de interesse público, de forma que tais projetos venham assegurar a otimização do binômio modicidade tarifária e confiabilidade do Sistema Elétrico. (Incluído pela lei nº 10.848, de 2004)\n\nVII - estabelecer diretrizes para o uso de gás natural como matéria-prima em processos produtivos industriais, mediante a regulamentação de condições e critérios específicos, que visem a sua utilização eficiente e compatível com os mercados interno e externos. (Incluído pela Lei nº 11.909, de 2009)\n\nVIII - definir os blocos a serem objeto de concessão ou partilha de produção; (Incluído pela Lei nº 12.351, de 2010)\n\nIX - definir a estratégia e a política de desenvolvimento econômico e tecnológico da indústria de petróleo, de gás natural e de outros hidrocarbonetos fluidos, bem como da sua cadeia de suprimento; . (Incluído pela Lei nº 12.351, de 2010)\n\nIX - definir a estratégia e a política de desenvolvimento econômico e tecnológico da indústria de petróleo, de gás natural, de outros hidrocarbonetos fluidos e de biocombustíveis, bem como da sua cadeia de suprimento;. (Redação dada pela Medida Provisória nº 532, de 2011)\n\nIX - definir a estratégia e a política de desenvolvimento econômico e tecnológico da indústria de petróleo, de gás natural, de outros hidrocarbonetos fluidos e de biocombustíveis, bem como da sua cadeia de suprimento; (Redação dada pela Lei nº 12490, de 2011)\n\nX - induzir o incremento dos índices mínimos de conteúdo local de bens e serviços, a serem observados em licitações e contratos de concessão e de partilha de produção, observado o disposto no inciso IX. (Incluído pela Lei nº 12.351, de 2010)\n\nXI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica. (Incluído pela Medida Provisória nº 647, de 2014)\n\nXI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica.. (Incluído pela Lei nº 13.033, de 2014)\n\nXI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica; e . (Redação dada pela Medida Provisória nº 688, de 2015)\n\nXI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica. (Incluído pela Lei nº 13.033, de 2014) (Vide Medida Provisória nº 688, de 2015)\n\nXII - estabelecer os parâmetros técnicos e econômicos das licitações de concessões de geração, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013. . (Incluído pela Medida Provisória nº 688, de 2015)\n\nXII - estabelecer os parâmetros técnicos e econômicos das licitações de concessões de geração, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013; e (Redação dada pela Lei nº 13.203, de 2015)\n\nXII - estabelecer os parâmetros técnicos e econômicos das licitações de concessões de geração, transmissão e distribuição de energia elétrica de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013; (Redação dada pela Lei nº 14.993, de 2024)\n\nXIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica. (Incluído pela Lei nº 13.203, de 2015)\n\nXIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica; (Redação dada pela Lei nº 14.993, de 2024)\n\nXIV – estabelecer diretrizes para o suprimento de gás natural nas situações caracterizadas como de contingência, nos termos previstos em lei. (Incluído pela Lei nº 14.134, de 2021)\n\nXIV - estabelecer diretrizes para o suprimento de gás natural nas situações caracterizadas como de contingência, nos termos previstos em lei; (Redação dada pela Lei nº 14.993, de 2024)\n\nXV - estabelecer diretrizes para o desenvolvimento da indústria do hidrogênio de baixa emissão de carbono. (Incluído pela Lei nº 14.948, de 2024)\n\nXV - estabelecer diretrizes para a regulação e a fiscalização da captura e da estocagem geológica de dióxido de carbono; e; (Redação dada pela Lei nº 14.993, de 2024)\n\nXVI - definir índices mínimos de conteúdo local em navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados exclusivamente em atividade de cabotagem de petróleo e seus derivados, a serem beneficiados por quotas diferenciadas de depreciação acelerada de que trata a Lei nº 14.871, de 28 de maio de 2024. (Incluído pela Medida Provisória nº 1.255, de 2024) (Vide Decreto nº 12.242, de 2024)\n\nXVI - definir índices mínimos de conteúdo local em navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados, exclusivamente, em atividade de cabotagem de petróleo e seus derivados, a serem beneficiados por quotas diferenciadas de depreciação acelerada de que trata a Lei nº 14.871, de 28 de maio de 2024. (Incluído pela Lei nº 15.075, de 2024)\n\nXVII - estabelecer diretrizes para o desenvolvimento da indústria do hidrogênio de baixa emissão de carbono. (Incluído pela Lei nº 15.103, de 2025)\n\nXVIII - determinar as condições de acesso, inclusive em relação ao seu valor, aos sistemas integrados de escoamento, de processamento e de transporte para a comercialização do gás natural da União. (Incluído pela Medida Provisória nº 1.304, de 2025)\n\nXIX - estabelecer diretrizes para maximizar o aproveitamento da produção nacional de gás natural e definir limites de reinjeção de gás natural para os blocos a serem objeto de concessão ou partilha de produção. (Incluído pela Lei nº 15.269, de 2025)\n\n§ 1º Para o exercício de suas atribuições, o CNPE contará com o apoio técnico dos órgãos reguladores do setor energético.\n\n§ 2º O CNPE será regulamentado por decreto do Presidente da República, que determinará sua composição e a forma de seu funcionamento.\n\n§ 2º-A Com vistas ao cumprimento dos objetivos de que tratam os incisos III, IV e XVIII do caput do art. 1º deste artigo, o CNPE poderá estender a aplicação do sistema de rastreabilidade de que trata o § 3º do art. 1º da Lei nº 13.033, de 24 de setembro de 2014, para as demais fontes de energia de que trata esta Lei. (Incluído pela Lei nº 14.993, de 2024)\n\n§ 3º A definição dos índices mínimos de conteúdo local a que se referem os incisos X e XVI do caput deve observar o dinamismo inerente ao setor de petróleo e gás natural e se basear em dados concretos acerca da capacidade da indústria, de forma a garantir que os custos decorrentes da política sejam proporcionais aos benefícios auferidos. (Incluído pela Medida Provisória nº 1.255, de 2024)\n\n§ 3º A definição dos índices mínimos de conteúdo local a que se referem os incisos X e XVI do caput deste artigo deverá observar o dinamismo inerente ao setor de petróleo e gás natural e basear-se em dados concretos acerca da capacidade da indústria, de forma a garantir que os custos decorrentes da política sejam proporcionais aos benefícios auferidos. (Incluído pela Lei nº 15.075, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%202%C2%B0%20Fica%20criado%20o%20Conselho%20Nacional%20de%20Pol%C3%ADtica%20Energ%C3%A9tica%20-%20CNPE%2C%20vinculado%20%C3%A0%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20e%20presidido%20pelo%20Ministro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. Caberá ao Ministério de Minas e Energia, entre outras competências, propor ao CNPE os seguintes parâmetros técnicos e econômicos: (Incluído pela Lei nº 13.203, de 2015)\n\nI – valores de bonificação pela outorga das concessões a serem licitadas nos termos do art. 8o da Lei no 12.783, de 11 de janeiro de 2013; (Incluído pela Lei nº 13.203, de 2015)\n\nII – prazo e forma de pagamento da bonificação pela outorga de que trata o inciso I; e (Incluído pela Lei nº 13.203, de 2015)\n\nIII – nas licitações de geração: (Incluído pela Lei nº 13.203, de 2015) (Revogado pela Lei nº 15.269, de 2025)\n\na) a parcela da garantia física destinada ao Ambiente de Contratação Regulada – ACR dos empreendimentos de geração licitados nos termos do art. 8o da Lei no 12.783, de 11 de janeiro de 2013, observado o limite mínimo de 70% (setenta por cento) destinado ao ACR, e o disposto no § 3o do art. 8o da Lei no 12.783, de 11 de janeiro de 2013; e (Incluída pela Lei nº 13.203, de 2015) (Revogado pela Lei nº 15.269, de 2025)\n\nb) a data de que trata o § 8o do art. 8o da Lei no 12.783, de 11 de janeiro de 2013. (Incluída pela Lei nº 13.203, de 2015) (Revogado pela Lei nº 15.269, de 2025)\n\nParágrafo único. Nos casos previstos nos incisos I e II do caput, será ouvido o Ministério da Fazenda. (Incluído pela Lei nº 13.203, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%202o-A.%20Caber%C3%A1%20ao%20Minist%C3%A9rio%20de%20Minas%20e%20Energia%2C%20entre%20outras%20compet%C3%AAncias%2C%20propor%20ao%20CNPE%20os%20seguintes%20par%C3%A2metros%20t%C3%A9cnicos%20e%20econ%C3%B4micos%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "2-B"
+    },
+    "2-B": {
+      "numero": "2-B",
+      "texto": "Art. 2o-B. Caberá ao Ministério de Minas e Energia, entre outras competências, propor ao CNPE a política de desenvolvimento tecnológico do setor de energia elétrica. (Incluído pela Lei nº 13.203, de 2015)\n\nParágrafo único. Na proposição de que trata o caput, será ouvido o Ministério da Ciência, Tecnologia e Inovação. (Incluído pela Lei nº 13.203, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%202o-B.%20Caber%C3%A1%20ao%20Minist%C3%A9rio%20de%20Minas%20e%20Energia%2C%20entre%20outras%20compet%C3%AAncias%2C%20propor%20ao%20CNPE%20a%20pol%C3%ADtica%20de%20desenvolvimento%20tecnol%C3%B3gico%20do%20setor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Pertencem à União os depósitos de petróleo, gás natural e outros hidrocarbonetos fluidos existentes no território nacional, nele compreendidos a parte terrestre, o mar territorial, a plataforma continental e a zona econômica exclusiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%203%C2%BA%20Pertencem%20%C3%A0%20Uni%C3%A3o%20os%20dep%C3%B3sitos%20de%20petr%C3%B3leo%2C%20g%C3%A1s%20natural%20e%20outros%20hidrocarbonetos%20fluidos%20existentes%20no%20territ%C3%B3rio%20nacional%2C%20nele%20compreendidos%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "2-B",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Constituem monopólio da União, nos termos do art. 177 da Constituição Federal, as seguintes atividades:\n\nI - a pesquisa e lavra das jazidas de petróleo e gás natural e outros hidrocarbonetos fluidos;\n\nII - a refinação de petróleo nacional ou estrangeiro;\n\nIII - a importação e exportação dos produtos e derivados básicos resultantes das atividades previstas nos incisos anteriores;\n\nIV - o transporte marítimo do petróleo bruto de origem nacional ou de derivados básicos de petróleo produzidos no País, bem como o transporte, por meio de conduto, de petróleo bruto, seus derivados e de gás natural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%204%C2%BA%20Constituem%20monop%C3%B3lio%20da%20Uni%C3%A3o%2C%20nos%20termos%20do%20art.%20177%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20as%20seguintes%20atividades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As atividades econômicas de que trata o artigo anterior serão reguladas e fiscalizadas pela União e poderão ser exercidas, mediante concessão ou autorização, por empresas constituídas sob as leis brasileiras, com sede e administração no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%205%C2%BA%20As%20atividades%20econ%C3%B4micas%20de%20que%20trata%20o%20artigo%20anterior%20ser%C3%A3o%20reguladas%20e%20fiscalizadas%20pela%20Uni%C3%A3o%20e%20poder%C3%A3o%20ser%20exercidas%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° Para os fins desta Lei e de sua regulamentação, ficam estabelecidas as seguintes definições:\n\nI - Petróleo: todo e qualquer hidrocarboneto líquido em seu estado natural, a exemplo do óleo cru e condensado;\n\nII - Gás Natural ou Gás: todo hidrocarboneto que permaneça em estado gasoso nas condições atmosféricas normais, extraído diretamente a partir de reservatórios petrolíferos ou gaseíferos, incluindo gases úmidos, secos, residuais e gases raros;\n\nIII - Derivados de Petróleo: produtos decorrentes da transformação do petróleo;\n\nIV - Derivados Básicos: principais derivados de petróleo, referidos no art. 177 da Constituição Federal, a serem classificados pela Agência Nacional do Petróleo;\n\nV - Refino ou Refinação: conjunto de processos destinados a transformar o petróleo em derivados de petróleo;\n\nVI - Tratamento ou Processamento de Gás Natural: conjunto de operações destinadas a permitir o seu transporte, distribuição e utilização;\n\nVII - Transporte: movimentação de petróleo e seus derivados ou gás natural em meio ou percurso considerado de interesse geral;\n\nVII - Transporte: movimentação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse geral;. (Redação dada pela Medida Provisória nº 532, de 2011)\n\nVIII - Transferência: movimentação de petróleo, derivados ou gás natural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades;\n\nVIII - Transferência: movimentação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades;. (Redação dada pela Medida Provisória nº 532, de 2011)\n\nVII - Transporte: movimentação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse geral; (Redação dada pela Lei nº 12.490, de 2011)\n\nVIII - Transferência: movimentação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades; (Redação dada pela Lei nº 12.490, de 2011)\n\nIX - Bacia Sedimentar: depressão da crosta terrestre onde se acumulam rochas sedimentares que podem ser portadoras de petróleo ou gás, associados ou não;\n\nX - Reservatório ou Depósito: configuração geológica dotada de propriedades específicas, armazenadora de petróleo ou gás, associados ou não;\n\nXI - Jazida: reservatório ou depósito já identificado e possível de ser posto em produção;\n\nXII - Prospecto: feição geológica mapeada como resultado de estudos geofísicos e de interpretação geológica, que justificam a perfuração de poços exploratórios para a localização de petróleo ou gás natural;\n\nXIII - Bloco: parte de uma bacia sedimentar, formada por um prisma vertical de profundidade indeterminada, com superfície poligonal definida pelas coordenadas geográficas de seus vértices, onde são desenvolvidas atividades de exploração ou produção de petróleo e gás natural;\n\nXIV - Campo de Petróleo ou de Gás Natural: área produtora de petróleo ou gás natural, a partir de um reservatório contínuo ou de mais de um reservatório, a profundidades variáveis, abrangendo instalações e equipamentos destinados à produção;\n\nXV - Pesquisa ou Exploração: conjunto de operações ou atividades destinadas a avaliar áreas, objetivando a descoberta e a identificação de jazidas de petróleo ou gás natural;\n\nXVI - Lavra ou Produção: conjunto de operações coordenadas de extração de petróleo ou gás natural de uma jazida e de preparo para sua movimentação;\n\nXVII - Desenvolvimento: conjunto de operações e investimentos destinados a viabilizar as atividades de produção de um campo de petróleo ou gás;\n\nXVIII - Descoberta Comercial: descoberta de petróleo ou gás natural em condições que, a preços de mercado, tornem possível o retorno dos investimentos no desenvolvimento e na produção;\n\nXIX - Indústria do Petróleo: conjunto de atividades econômicas relacionadas com a exploração, desenvolvimento, produção, refino, processamento, transporte, importação e exportação de petróleo, gás natural e outros hidrocarbonetos fluidos e seus derivados;\n\nXX - Distribuição: atividade de comercialização por atacado com a rede varejista ou com grandes consumidores de combustíveis, lubrificantes, asfaltos e gás liquefeito envasado, exercida por empresas especializadas, na forma das leis e regulamentos aplicáveis;\n\nXXI - Revenda: atividade de venda a varejo de combustíveis, lubrificantes e gás liquefeito envasado, exercida por postos de serviços ou revendedores, na forma das leis e regulamentos aplicáveis;\n\nXXII - Distribuição de Gás Canalizado: serviços locais de comercialização de gás canalizado, junto aos usuários finais, explorados com exclusividade pelos Estados, diretamente ou mediante concessão, nos termos do § 2º do art. 25 da Constituição Federal; (Revogado pela Lei nº 14.134, de 2021)\n\nXXIII - Estocagem de Gás Natural: armazenamento de gás natural em reservatórios próprios, formações naturais ou artificiais.\n\nXXIV - Biocombustível: combustível derivado de biomassa renovável para uso em motores a combustão interna ou, conforme regulamento, para outro tipo de geração de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil; . (Incluído pela Lei nº 11.097, de 2005)\n\nXXIV - Biocombustível: substância derivada de biomassa renovável que pode ser empregada diretamente ou mediante alterações em motores a combustão interna ou para outro tipo de geração de energia, podendo substituir parcial ou totalmente combustíveis de origem fóssil, tal como biodiesel, etanol e outras substâncias estabelecidas em regulamento da ANP; . (Redação dada pela Medida Provisória nº 532, de 2011)\n\nXXIV - Biocombustível: substância derivada de biomassa renovável, tal como biodiesel, etanol e outras substâncias estabelecidas em regulamento da ANP, que pode ser empregada diretamente ou mediante alterações em motores a combustão interna ou para outro tipo de geração de energia, podendo substituir parcial ou totalmente combustíveis de origem fóssil; (Redação dada pela Lei nº 12.490, de 2011)\n\nXXIV – Biocombustível: substância derivada de biomassa renovável, tal como biodiesel, etanol, biometano e outras substâncias estabelecidas em regulamento da ANP, que pode ser empregada diretamente ou mediante alterações em motores a combustão interna ou para outro tipo de geração de energia, podendo substituir parcial ou totalmente combustíveis de origem fóssil; (Redação dada pela Lei nº 14.993, de 2024)\n\nXXV - Biodiesel: biocombustível derivado de biomassa renovável para uso em motores a combustão interna com ignição por compressão ou, conforme regulamento, para geração de outro tipo de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil. (Incluído pela Lei nº 11.097, de 2005)\n\nXXVI – Indústria Petroquímica de Primeira e Segunda Geração: conjunto de indústrias que fornecem produtos petroquímicos básicos, a exemplo do eteno, do propeno e de resinas termoplásticas. (Incluído pela lei nº 11.921, de 2009)\n\nXXVII - cadeia produtiva do petróleo: sistema de produção de petróleo, gás natural e outros hidrocarbonetos fluidos e seus derivados, incluindo a distribuição, a revenda e a estocagem, bem como o seu consumo. (Incluído pela lei nº 12.114, de 2009)\n\nXXVIII - Indústria de Biocombustível: conjunto de atividades econômicas relacionadas com produção, importação, exportação, transferência, transporte, armazenagem, comercialização, distribuição, avaliação de conformidade e certificação de qualidade de biocombustíveis; e . (incluído pela Medida Provisória nº 532, de 2011)\n\nXXIX - Produção de Biocombustível: conjunto de operações industriais para a transformação de biomassa renovável, de origem vegetal ou animal, em combustível.. (incluído pela Medida Provisória nº 532, de 2011)\n\nXXVIII - Indústria de Biocombustível: conjunto de atividades econômicas relacionadas com produção, importação, exportação, transferência, transporte, armazenagem, comercialização, distribuição, avaliação de conformidade e certificação de qualidade de biocombustíveis; (Incluído pela Lei nº 12490, de 2011)\n\nXXIX - Produção de Biocombustível: conjunto de operações industriais para a transformação de biomassa renovável, de origem vegetal ou animal, em combustível; (Incluído pela Lei nº 12.490, de 2011)\n\nXXX - Etanol: biocombustível líquido derivado de biomassa renovável, que tem como principal componente o álcool etílico, que pode ser utilizado, diretamente ou mediante alterações, em motores a combustão interna com ignição por centelha, em outras formas de geração de energia ou em indústria petroquímica, podendo ser obtido por rotas tecnológicas distintas, conforme especificado em regulamento; e (Incluído pela Lei nº 12.490, de 2011)\n\nXXX - Etanol: biocombustível líquido derivado de biomassa renovável, que tem como principal componente o álcool etílico, que pode ser utilizado, diretamente ou mediante alterações, em motores a combustão interna com ignição por centelha, em outras formas de geração de energia ou em indústria petroquímica, podendo ser obtido por rotas tecnológicas distintas, conforme especificado em regulamento; (Redação dada pela Lei nº 14.993, de 2024)\n\nXXXI - Bioquerosene de Aviação: substância derivada de biomassa renovável que pode ser usada em turborreatores e turbopropulsores aeronáuticos ou, conforme regulamento, em outro tipo de aplicação que possa substituir parcial ou totalmente combustível de origem fóssil. (Incluído pela Lei nº 12.490, de 2011)\n\nXXXI - Combustível Sustentável de Aviação (Sustainable Aviation Fuel - SAF): combustível alternativo ao combustível aeronáutico de origem fóssil, produzido a partir de quaisquer matérias-primas e processos que atendam a padrões de sustentabilidade, conforme definição da Organização de Aviação Civil Internacional (International Civil Aviation Organization - ICAO), que possa ser utilizado puro ou em mistura com o combustível de origem fóssil, conforme as especificações técnicas das normas aplicáveis, e que promova benefícios ambientais quando considerado o seu ciclo de vida completo; (Redação dada pela Lei nº 14.993, de 2024)\n\nXXXII - Biogás: gás bruto que na sua composição contém metano obtido de matéria-prima renovável ou de resíduos orgânicos; (Incluído pela Lei nº 14.993, de 2024)\n\nXXXIII - Biometano: biocombustível gasoso constituído essencialmente de metano, derivado da purificação do biogás; (Incluído pela Lei nº 14.993, de 2024)\n\nXXXIV - Combustível Sintético: combustível sintetizado a partir de rotas tecnológicas a exemplo de processos termoquímicos e catalíticos e que possa substituir parcial ou totalmente combustíveis de origem fóssil; (Incluído pela Lei nº 14.993, de 2024)\n\nXXXV - Área Não Contratada: área que não é objeto de contrato de concessão, de contrato de cessão onerosa ou de contrato de partilha de produção; e (Incluído pela Lei nº 14.993, de 2024)\n\nXXXVI - Área sob Contrato: bloco ou campo objeto de um contrato de concessão, de contrato de cessão onerosa ou de contrato de partilha de produção. (Incluído pela Lei nº 14.993, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%206%C2%B0%20Para%20os%20fins%20desta%20Lei%20e%20de%20sua%20regulamenta%C3%A7%C3%A3o%2C%20ficam%20estabelecidas%20as%20seguintes%20defini%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° Fica instituída a Agência Nacional do Petróleo - ANP, entidade integrante da Administração Federal indireta, submetida ao regime autárquico especial, como órgão regulador da indústria do petróleo, vinculado ao Ministério de Minas e Energia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%207%C2%B0%20Fica%20institu%C3%ADda%20a%20Ag%C3%AAncia%20Nacional%20do%20Petr%C3%B3leo%20-%20ANP%2C%20entidade%20integrante%20da%20Administra%C3%A7%C3%A3o%20Federal%20indireta%2C%20submetida%20ao%20regime%20aut%C3%A1rquico%20especial%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8° A ANP terá como finalidade promover a regulação, a contratação e a fiscalização das atividades econômicas integrantes da indústria do petróleo, cabendo-lhe:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%208%C2%B0%20A%20ANP%20ter%C3%A1%20como%20finalidade%20promover%20a%20regula%C3%A7%C3%A3o%2C%20a%20contrata%C3%A7%C3%A3o%20e%20a%20fiscaliza%C3%A7%C3%A3o%20das%20atividades%20econ%C3%B4micas%20integrantes%20da%20ind%C3%BAstria%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8o-A. Caberá à ANP supervisionar a movimentação de gás natural na rede de transporte e coordená-la em situações caracterizadas como de contingência. (Incluído pela Lei nº 11.909, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%208o-A.%20Caber%C3%A1%20%C3%A0%20ANP%20supervisionar%20a%20movimenta%C3%A7%C3%A3o%20de%20g%C3%A1s%20natural%20na%20rede%20de%20transporte%20e%20coorden%C3%A1-la%20em%20situa%C3%A7%C3%B5es%20caracterizadas%20como%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B. Fica instituído o Sistema Nacional de Transparência de Preços de GLP, com o objetivo de promover a transparência de informações, de fortalecer a concorrência e de ampliar a proteção e o acesso do consumidor, na forma do regulamento. (Incluído pela Lei nº 15.348, de 2026)\n\n§ 1º O sistema referido no caput deste artigo deverá disponibilizar ao público, em meio eletrônico de fácil acesso, inclusive por aplicativo móvel, informações atualizadas sobre os preços de GLP praticados por revendas varejistas, de forma georreferenciada. (Incluído pela Lei nº 15.348, de 2026)\n\n§ 2º Os órgãos fazendários estaduais e a Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda deverão disponibilizar à ANP as informações lastreadas em documentos fiscais eletrônicos das operações de compra e venda de GLP, desde que autorizados pelos respectivos agentes regulados, e os servidores da ANP ficarão obrigados a preservar e a zelar pelo sigilo das informações fiscais a eles transferidas. (Incluído pela Lei nº 15.348, de 2026)\n\n§ 3º As informações de que tratam o § 2º deste artigo e o § 2º do art. 4º-B da Lei nº 14.237, de 19 de novembro de 2021, deverão ser utilizadas no sistema de que trata o caput deste artigo. (Incluído pela Lei nº 15.348, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%208%C2%BA-B.%20Fica%20institu%C3%ADdo%20o%20Sistema%20Nacional%20de%20Transpar%C3%AAncia%20de%20Pre%C3%A7os%20de%20GLP%2C%20com%20o%20objetivo%20de%20promover%20a%20transpar%C3%AAncia%20de%20informa%C3%A7%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8-A",
+      "next": "8-C"
+    },
+    "8-C": {
+      "numero": "8-C",
+      "texto": "Art. 8º-C. Fica instituído o Selo Gás Legal, destinado a revendas e a distribuidores de GLP que adotem práticas de transparência de preços, qualidade de serviço, segurança operacional e conformidade regulatória, com caráter informativo e reputacional, com vistas a promover a confiança e a concorrência no setor, na forma do regulamento. (Incluído pela Lei nº 15.348, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%208%C2%BA-C.%20Fica%20institu%C3%ADdo%20o%20Selo%20G%C3%A1s%20Legal%2C%20destinado%20a%20revendas%20e%20a%20distribuidores%20de%20GLP%20que%20adotem%20pr%C3%A1ticas%20de%20transpar%C3%AAncia%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8-B",
+      "next": "8-D"
+    },
+    "8-D": {
+      "numero": "8-D",
+      "texto": "Art. 8º-D. O GLP envasado, independentemente de estar ou não vinculado ao Auxílio Gás do Povo, deverá ser comercializado com os seguintes critérios de segurança e de conformidade: (Incluído pela Lei nº 15.348, de 2026)\n\nI - exclusivamente em recipientes transportáveis que ostentem a marca comercial, conforme regulação da ANP, observadas as normas técnicas e as regulamentações de segurança expedidas pelos órgãos competentes; (Incluído pela Lei nº 15.348, de 2026)\n\nII - cheio e lacrado, com selo de inviolabilidade e rótulo que indique de forma clara a quantidade líquida do produto e a marca comercial da pessoa jurídica devidamente autorizada pela ANP para o exercício da atividade de envase ou de distribuição. (Incluído pela Lei nº 15.348, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%208%C2%BA-D.%20O%20GLP%20envasado%2C%20independentemente%20de%20estar%20ou%20n%C3%A3o%20vinculado%20ao%20Aux%C3%ADlio%20G%C3%A1s%20do%20Povo%2C%20dever%C3%A1%20ser%20comercializado%20com%20os%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8-C",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Além das atribuições que lhe são conferidas no artigo anterior, caberá à ANP exercer, a partir de sua implantação, as atribuições do Departamento Nacional de Combustíveis - DNC, relacionadas com as atividades de distribuição e revenda de derivados de petróleo e álcool, observado o disposto no art. 78.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%209%C2%BA%20Al%C3%A9m%20das%20atribui%C3%A7%C3%B5es%20que%20lhe%20s%C3%A3o%20conferidas%20no%20artigo%20anterior%2C%20caber%C3%A1%20%C3%A0%20ANP%20exercer%2C%20a%20partir%20de%20sua%20implanta%C3%A7%C3%A3o%2C%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8-D",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Quando, no exercício de suas atribuições, a ANP tomar conhecimento de fato que configure ou possa configurar infração da ordem econômica, deverá comunicá-lo ao Conselho Administrativo de Defesa Econômica - CADE, para que este adote as providências cabíveis, no âmbito da legislação pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2010.%20Quando%2C%20no%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20a%20ANP%20tomar%20conhecimento%20de%20fato%20que%20configure%20ou%20possa%20configurar%20infra%C3%A7%C3%A3o%20da%20ordem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A ANP será dirigida, em regime de colegiado, por uma Diretoria composta de um Diretor-Geral e quatro Diretores.\n\n§ 1º Integrará a estrutura organizacional da ANP um Procurador-Geral.\n\n§ 2º Os membros da Diretoria serão nomeados pelo Presidente da República, após aprovação dos respectivos nomes pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.\n\n§ 3° Os membros da Diretoria cumprirão mandatos de quatro anos, não coincidentes, permitida a recondução, observado o disposto no art. 75 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2011.%20A%20ANP%20ser%C3%A1%20dirigida%2C%20em%20regime%20de%20colegiado%2C%20por%20uma%20Diretoria%20composta%20de%20um%20Diretor-Geral%20e%20quatro%20Diretores.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. (VETADO)\n\nI - (VETADO)\n\nII - (VETADO)\n\nIII - (VETADO)\n\nParágrafo único. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2012.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Está impedida de exercer cargo de Diretor na ANP a pessoa que mantenha, ou haja mantido nos doze meses anteriores à data de início do mandato, um dos seguintes vínculos com empresa que explore qualquer das atividades integrantes da indústria do petróleo ou de distribuição\n\nI - acionista ou sócio com participação individual direta superior a cinco por cento do capital social total ou dois por cento do capital votante da empresa ou, ainda, um por cento do capital total da respectiva empresa controladora;\n\nII - administrador, sócio-gerente ou membro do Conselho Fiscal;\n\nIII - empregado, ainda que o respectivo contrato de trabalho esteja suspenso, inclusive da empresa controladora ou de entidade de previdência complementar custeada pelo empregador.\n\nParágrafo único. Está também impedida de assumir cargo de Diretor na ANP a pessoa que exerça, ou haja exercido nos doze meses anteriores à data de início do mandato, cargo de direção em entidade sindical ou associação de classe, de âmbito nacional ou regional, representativa de interesses de empresas que explorem quaisquer das atividades integrantes da indústria do petróleo ou de distribuição. (Revogado pela Lei nº 9.986, de 18.7.2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2013.%20Est%C3%A1%20impedida%20de%20exercer%20cargo%20de%20Diretor%20na%20ANP%20a%20pessoa%20que%20mantenha%2C%20ou%20haja%20mantido%20nos%20doze%20meses%20anteriores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Terminado o mandato, ou uma vez exonerado do cargo, o ex-Diretor da ANP ficará impedido, por um período de doze meses, contados da data de sua exoneração, de prestar, direta ou indiretamente, qualquer tipo de serviço a empresa integrante da indústria do petróleo ou de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2014.%20Terminado%20o%20mandato%2C%20ou%20uma%20vez%20exonerado%20do%20cargo%2C%20o%20ex-Diretor%20da%20ANP%20ficar%C3%A1%20impedido%2C%20por%20um%20per%C3%ADodo%20de%20doze",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Constituem receitas da ANP:\n\nI - as dotações consignadas no Orçamento Geral da União, créditos especiais, transferências e repasses que lhe forem conferidos;\n\nII - parcela das participações governamentais referidas nos incisos I e III do art. 45 desta Lei, de acordo com as necessidades operacionais da ANP, consignadas no orçamento aprovado;\n\nIII - os recursos provenientes de convênios, acordos ou contratos celebrados com entidades, organismos ou empresas, excetuados os referidos no inciso anterior;\n\nIV - as doações, legados, subvenções e outros recursos que lhe forem destinados;\n\nV - o produto dos emolumentos, taxas e multas previstos na legislação específica, os valores apurados na venda ou locação dos bens móveis e imóveis de sua propriedade, bem como os decorrentes da venda de dados e informações técnicas, inclusive para fins de licitação, ressalvados os referidos no § 2° do art. 22 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2015.%20Constituem%20receitas%20da%20ANP%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os recursos provenientes da participação governamental prevista no inciso IV do art. 45, nos termos do art. 51, destinar-se-ão ao financiamento das despesas da ANP para o exercício das atividades que lhe são conferidas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2016.%20Os%20recursos%20provenientes%20da%20participa%C3%A7%C3%A3o%20governamental%20prevista%20no%20inciso%20IV%20do%20art.%2045%2C%20nos%20termos%20do%20art.%2051%2C%20destinar-se-%C3%A3o%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O processo decisório da ANP obedecerá aos princípios da legalidade, impessoalidade, moralidade e publicidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2017.%20O%20processo%20decis%C3%B3rio%20da%20ANP%20obedecer%C3%A1%20aos%20princ%C3%ADpios%20da%20legalidade%2C%20impessoalidade%2C%20moralidade%20e%20publicidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As sessões deliberativas da Diretoria da ANP que se destinem a resolver pendências entre agentes econômicos e entre estes e consumidores e usuários de bens e serviços da indústria do petróleo serão públicas, permitida a sua gravação por meios eletrônicos e assegurado aos interessados o direito de delas obter transcrições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2018.%20As%20sess%C3%B5es%20deliberativas%20da%20Diretoria%20da%20ANP%20que%20se%20destinem%20a%20resolver%20pend%C3%AAncias%20entre%20agentes%20econ%C3%B4micos%20e%20entre%20estes%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As iniciativas de projetos de lei ou de alteração de normas administrativas que impliquem afetação de direito dos agentes econômicos ou de consumidores e usuários de bens e serviços da indústria do petróleo serão precedidas de audiência pública convocada e dirigida pela ANP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2019.%20As%20iniciativas%20de%20projetos%20de%20lei%20ou%20de%20altera%C3%A7%C3%A3o%20de%20normas%20administrativas%20que%20impliquem%20afeta%C3%A7%C3%A3o%20de%20direito%20dos%20agentes%20econ%C3%B4micos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O regimento interno da ANP disporá sobre os procedimentos a serem adotados para a solução de conflitos entre agentes econômicos, e entre estes e usuários e consumidores, com ênfase na conciliação e no arbitramento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2020.%20O%20regimento%20interno%20da%20ANP%20dispor%C3%A1%20sobre%20os%20procedimentos%20a%20serem%20adotados%20para%20a%20solu%C3%A7%C3%A3o%20de%20conflitos%20entre%20agentes%20econ%C3%B4micos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Todos os direitos de exploração e produção de petróleo e gás natural em território nacional, nele compreendidos a parte terrestre, o mar territorial, a plataforma continental e a zona econômica exclusiva, pertencem à União, cabendo sua administração à ANP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2021.%20Todos%20os%20direitos%20de%20explora%C3%A7%C3%A3o%20e%20produ%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20e%20g%C3%A1s%20natural%20em%20territ%C3%B3rio%20nacional%2C%20nele%20compreendidos%20a%20parte%20terrestre%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O acervo técnico constituído pelos dados e informações sobre as bacias sedimentares brasileiras é também considerado parte integrante dos recursos petrolíferos nacionais, cabendo à ANP sua coleta, manutenção e administração.\n\n§ 1° A Petróleo Brasileiro S.A. - PETROBRÁS transferirá para a ANP as informações e dados de que dispuser sobre as bacias sedimentares brasileiras, assim como sobre as atividades de pesquisa, exploração e produção de petróleo ou gás natural, desenvolvidas em função da exclusividade do exercício do monopólio até a publicação desta Lei.\n\n§ 2° A ANP estabelecerá critérios para remuneração à PETROBRÁS pelos dados e informações referidos no parágrafo anterior e que venham a ser utilizados pelas partes interessadas, com fiel observância ao disposto no art. 117 da Lei nº 6.404, de 15 de dezembro de 1976, com as alterações procedidas pela Lei nº 9.457, de 5 de maio de 1997.\n\n§ 3o O Ministério de Minas e Energia terá acesso irrestrito e gratuito ao acervo a que se refere o caput deste artigo, com o objetivo de realizar estudos e planejamento setorial, mantido o sigilo a que esteja submetido, quando for o caso. (Incluído pela Lei nº 12.351, de 2010)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2022.%20O%20acervo%20t%C3%A9cnico%20constitu%C3%ADdo%20pelos%20dados%20e%20informa%C3%A7%C3%B5es%20sobre%20as%20bacias%20sedimentares%20brasileiras%20%C3%A9%20tamb%C3%A9m%20considerado%20parte%20integrante%20dos%20recursos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As atividades de exploração, desenvolvimento e produção de petróleo e de gás natural serão exercidas mediante contratos de concessão, precedidos de licitação, na forma estabelecida nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2023.%20As%20atividades%20de%20explora%C3%A7%C3%A3o%2C%20desenvolvimento%20e%20produ%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20e%20de%20g%C3%A1s%20natural%20ser%C3%A3o%20exercidas%20mediante%20contratos%20de%20concess%C3%A3o%2C%20precedidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os contratos de concessão deverão prever duas fases: a de exploração e a de produção.\n\n§ 1º Incluem-se na fase de exploração as atividades de avaliação de eventual descoberta de petróleo ou gás natural, para determinação de sua comercialidade.\n\n§ 2º A fase de produção incluirá também as atividades de desenvolvimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2024.%20Os%20contratos%20de%20concess%C3%A3o%20dever%C3%A3o%20prever%20duas%20fases%3A%20a%20de%20explora%C3%A7%C3%A3o%20e%20a%20de%20produ%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Somente poderão obter concessão para a exploração e produção de petróleo ou gás natural as empresas que atendam aos requisitos técnicos, econômicos e jurídicos estabelecidos pela ANP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2025.%20Somente%20poder%C3%A3o%20obter%20concess%C3%A3o%20para%20a%20explora%C3%A7%C3%A3o%20e%20produ%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20ou%20g%C3%A1s%20natural%20as%20empresas%20que%20atendam%20aos%20requisitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A concessão implica, para o concessionário, a obrigação de explorar, por sua conta e risco e, em caso de êxito, produzir petróleo ou gás natural em determinado bloco, conferindo-lhe a propriedade desses bens, após extraídos, com os encargos relativos ao pagamento dos tributos incidentes e das participações legais ou contratuais correspondentes.\n\n§ 1° Em caso de êxito na exploração, o concessionário submeterá à aprovação da ANP os planos e projetos de desenvolvimento e produção.\n\n§ 2° A ANP emitirá seu parecer sobre os planos e projetos referidos no parágrafo anterior no prazo máximo de cento e oitenta dias.\n\n§ 3° Decorrido o prazo estipulado no parágrafo anterior sem que haja manifestação da ANP, os planos e projetos considerar-se-ão automaticamente aprovados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2026.%20A%20concess%C3%A3o%20implica%2C%20para%20o%20concession%C3%A1rio%2C%20a%20obriga%C3%A7%C3%A3o%20de%20explorar%2C%20por%20sua%20conta%20e%20risco%20e%2C%20em%20caso%20de%20%C3%AAxito%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Quando se tratar de campos que se estendam por blocos vizinhos, onde atuem concessionários distintos, deverão eles celebrar acordo para a individualização da produção. (Revogado pela Lei nº 12.351, de 2010)\n\nParágrafo único. Não chegando as partes a acordo, em prazo máximo fixado pela ANP, caberá a esta determinar, com base em laudo arbitral, como serão eqüitativamente apropriados os direitos e obrigações sobre os blocos, com base nos princípios gerais de Direito aplicáveis. (Revogado pela Lei nº 12.351, de 2010)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2027.%20Quando%20se%20tratar%20de%20campos%20que%20se%20estendam%20por%20blocos%20vizinhos%2C%20onde%20atuem%20concession%C3%A1rios%20distintos%2C%20dever%C3%A3o%20eles%20celebrar%20acordo%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. As concessões extinguir-se-ão:\n\nI - pelo vencimento do prazo contratual;\n\nII - por acordo entre as partes;\n\nIII - pelos motivos de rescisão previstos em contrato;\n\nIV - ao término da fase de exploração, sem que tenha sido feita qualquer descoberta comercial, conforme definido no contrato;\n\nV - no decorrer da fase de exploração, se o concessionário exercer a opção de desistência e de devolução das áreas em que, a seu critério, não se justifiquem investimentos em desenvolvimento.\n\n§ 1° A devolução de áreas, assim como a reversão de bens, não implicará ônus de qualquer natureza para a União ou para a ANP, nem conferirá ao concessionário qualquer direito de indenização pelos serviços, poços, imóveis e bens reversíveis, os quais passarão à propriedade da União e à administração da ANP, na forma prevista no inciso VI do art. 43.\n\n§ 2° Em qualquer caso de extinção da concessão, o concessionário fará, por sua conta exclusiva, a remoção dos equipamentos e bens que não sejam objeto de reversão, ficando obrigado a reparar ou indenizar os danos decorrentes de suas atividades e praticar os atos de recuperação ambiental determinados pelos órgãos competentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2028.%20As%20concess%C3%B5es%20extinguir-se-%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. É permitida a transferência do contrato de concessão, preservando-se seu objeto e as condições contratuais, desde que o novo concessionário atenda aos requisitos técnicos, econômicos e jurídicos estabelecidos pela ANP, conforme o previsto no art. 25.\n\nParágrafo único. A transferência do contrato só poderá ocorrer mediante prévia e expressa autorização da ANP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2029.%20%C3%89%20permitida%20a%20transfer%C3%AAncia%20do%20contrato%20de%20concess%C3%A3o%2C%20preservando-se%20seu%20objeto%20e%20as%20condi%C3%A7%C3%B5es%20contratuais%2C%20desde%20que%20o%20novo%20concession%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. O contrato para exploração, desenvolvimento e produção de petróleo ou gás natural não se estende a nenhum outro recurso natural, ficando o concessionário obrigado a informar a sua descoberta, prontamente e em caráter exclusivo, à ANP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2030.%20O%20contrato%20para%20explora%C3%A7%C3%A3o%2C%20desenvolvimento%20e%20produ%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20ou%20g%C3%A1s%20natural%20n%C3%A3o%20se%20estende%20a%20nenhum%20outro%20recurso%20natural%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A PETROBRÁS submeterá à ANP, no prazo de três meses da publicação desta Lei, seu programa de exploração, desenvolvimento e produção, com informações e dados que propiciem:\n\nI - o conhecimento das atividades de produção em cada campo, cuja demarcação poderá incluir uma área de segurança técnica;\n\nII - o conhecimento das atividades de exploração e desenvolvimento, registrando, neste caso, os custos incorridos, os investimentos realizados e o cronograma dos investimentos a realizar, em cada bloco onde tenha definido prospectos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2031.%20A%20PETROBR%C3%81S%20submeter%C3%A1%20%C3%A0%20ANP%2C%20no%20prazo%20de%20tr%C3%AAs%20meses%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20seu%20programa%20de%20explora%C3%A7%C3%A3o%2C%20desenvolvimento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. A PETROBRÁS terá ratificados seus direitos sobre cada um dos campos que se encontrem em efetiva produção na data de inicío de vigência desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2032.%20A%20PETROBR%C3%81S%20ter%C3%A1%20ratificados%20seus%20direitos%20sobre%20cada%20um%20dos%20campos%20que%20se%20encontrem%20em%20efetiva%20produ%C3%A7%C3%A3o%20na%20data%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Nos blocos em que, quando do início da vigência desta Lei, tenha a PETROBRÁS realizado descobertas comerciais ou promovido investimentos na exploração, poderá ela, observada sua capacidade de investir, inclusive por meio de financiamentos, prosseguir nos trabalhos de exploração e desenvolvimento pelo prazo de três anos e, nos casos de êxito, prosseguir nas atividades de produção.\n\nParágrafo único. Cabe à ANP, após a avaliação da capacitação financeira da PETROBRÁS e dos dados e informações de que trata o art. 31, aprovar os blocos em que os trabalhos referidos neste artigo terão continuidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2033.%20Nos%20blocos%20em%20que%2C%20quando%20do%20in%C3%ADcio%20da%20vig%C3%AAncia%20desta%20Lei%2C%20tenha%20a%20PETROBR%C3%81S%20realizado%20descobertas%20comerciais%20ou%20promovido%20investimentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Cumprido o disposto no art. 31 e dentro do prazo de um ano a partir da data de publicação desta Lei, a ANP celebrará com a PETROBRÁS, dispensada a licitação prevista no art. 23, contratos de concessão dos blocos que atendam às condições estipuladas nos arts. 32 e 33, definindo-se, em cada um desses contratos, as participações devidas, nos termos estabelecidos na Seção VI.\n\nParágrafo único. Os contratos de concessão referidos neste artigo serão regidos, no que couber, pelas normas gerais estabelecidas na Seção anterior e obedecerão ao disposto na Seção V deste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2034.%20Cumprido%20o%20disposto%20no%20art.%2031%20e%20dentro%20do%20prazo%20de%20um%20ano%20a%20partir%20da%20data%20de%20publica%C3%A7%C3%A3o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os blocos não contemplados pelos contratos de concessão mencionados no artigo anterior e aqueles em que tenha havido insucesso nos trabalhos de exploração, ou não tenham sido ajustados com a ANP, dentro dos prazos estipulados, serão objeto de licitação pela ANP para a outorga de novos contratos de concessão, regidos pelas normas gerais estabelecidas na Seção anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2035.%20Os%20blocos%20n%C3%A3o%20contemplados%20pelos%20contratos%20de%20concess%C3%A3o%20mencionados%20no%20artigo%20anterior%20e%20aqueles%20em%20que%20tenha%20havido%20insucesso%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A licitação para outorga dos contratos de concessão referidos no art. 23 obedecerá ao disposto nesta Lei, na regulamentação a ser expedida pela ANP e no respectivo edital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2036.%20A%20licita%C3%A7%C3%A3o%20para%20outorga%20dos%20contratos%20de%20concess%C3%A3o%20referidos%20no%20art.%2023%20obedecer%C3%A1%20ao%20disposto%20nesta%20Lei%2C%20na%20regulamenta%C3%A7%C3%A3o%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O edital da licitação será acompanhado da minuta básica do respectivo contrato e indicará, obrigatoriamente:\n\nI - o bloco objeto da concessão, o prazo estimado para a duração da fase de exploração, os investimentos e programas exploratórios mínimos;\n\nII - os requisitos exigidos dos concorrentes, nos termos do art. 25, e os critérios de pré-qualificação, quando este procedimento for adotado;\n\nIII - as participações governamentais mínimas, na forma do disposto no art. 45, e a participação dos superficiários prevista no art. 52;\n\nIV - a relação de documentos exigidos e os critérios a serem seguidos para aferição da capacidade técnica, da idoneidade financeira e da regularidade jurídica dos interessados, bem como para o julgamento técnico e econômico-financeiro da proposta;\n\nV - a expressa indicação de que caberá ao concessionário o pagamento das indenizações devidas por desapropriações ou servidões necessárias ao cumprimento do contrato;\n\nVI - o prazo, local e horário em que serão fornecidos, aos interessados, os dados, estudos e demais elementos e informações necessários à elaboração das propostas, bem como o custo de sua aquisição.\n\nParágrafo único. O prazo de duração da fase de exploração, referido no inciso I deste artigo, será estimado pela ANP, em função do nível de informações disponíveis, das características e da localização de cada bloco.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2037.%20O%20edital%20da%20licita%C3%A7%C3%A3o%20ser%C3%A1%20acompanhado%20da%20minuta%20b%C3%A1sica%20do%20respectivo%20contrato%20e%20indicar%C3%A1%2C%20obrigatoriamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Quando permitida a participação de empresas em consórcio, o edital conterá as seguintes exigências:\n\nI - comprovação de compromisso, público ou particular, de constituição do consórcio, subscrito pelas consorciadas;\n\nII - indicação da empresa líder, responsável pelo consórcio e pela condução das operações, sem prejuízo da responsabilidade solidária das demais consorciadas;\n\nIII - apresentação, por parte de cada uma das empresas consorciadas, dos documentos exigidos para efeito de avaliação da qualificação técnica e econômico-financeira do consórcio;\n\nIV - proibição de participação de uma mesma empresa em outro consórcio, ou isoladamente, na licitação de um mesmo bloco;\n\nV - outorga de concessão ao consórcio vencedor da licitação condicionada ao registro do instrumento constitutivo do consórcio, na forma do disposto no parágrafo único do art. 279 da Lei n° 6.404, de 15 de dezembro de 1976.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2038.%20Quando%20permitida%20a%20participa%C3%A7%C3%A3o%20de%20empresas%20em%20cons%C3%B3rcio%2C%20o%20edital%20conter%C3%A1%20as%20seguintes%20exig%C3%AAncias%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O edital conterá a exigência de que a empresa estrangeira que concorrer isoladamente ou em consórcio deverá apresentar, juntamente com sua proposta e em envelope separado:\n\nI - prova de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal, nos termos da regulamentação a ser editada pela ANP;\n\nII - inteiro teor dos atos constitutivos e prova de encontrar-se organizada e em funcionamento regular, conforme a lei de seu país;\n\nIII - designação de um representante legal junto à ANP, com poderes especiais para a prática de atos e assunção de responsabilidades relativamente à licitação e à proposta apresentada;\n\nIV - compromisso de, caso vencedora, constituir empresa segundo as leis brasileiras, com sede e administração no Brasil.\n\nParágrafo único. A assinatura do contrato de concessão ficará condicionada ao efetivo cumprimento do compromisso assumido de acordo com o inciso IV deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2039.%20O%20edital%20conter%C3%A1%20a%20exig%C3%AAncia%20de%20que%20a%20empresa%20estrangeira%20que%20concorrer%20isoladamente%20ou%20em%20cons%C3%B3rcio%20dever%C3%A1%20apresentar%2C%20juntamente%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O julgamento da licitação identificará a proposta mais vantajosa, segundo critérios objetivos, estabelecidos no instrumento convocatório, com fiel observância dos princípios da legalidade, impessoalidade, moralidade, publicidade e igualdade entre os concorrentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2040.%20O%20julgamento%20da%20licita%C3%A7%C3%A3o%20identificar%C3%A1%20a%20proposta%20mais%20vantajosa%2C%20segundo%20crit%C3%A9rios%20objetivos%2C%20estabelecidos%20no%20instrumento%20convocat%C3%B3rio%2C%20com%20fiel%20observ%C3%A2ncia%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. No julgamento da licitação, além de outros critérios que o edital expressamente estipular, serão levados em conta:\n\nI - o programa geral de trabalho, as propostas para as atividades de exploração, os prazos, os volumes mínimos de investimentos e os cronogramas físico-financeiros;\n\nII - as participações governamentais referidas no art. 45.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2041.%20No%20julgamento%20da%20licita%C3%A7%C3%A3o%2C%20al%C3%A9m%20de%20outros%20crit%C3%A9rios%20que%20o%20edital%20expressamente%20estipular%2C%20ser%C3%A3o%20levados%20em%20conta%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Em caso de empate, a licitação será decidida em favor da PETROBRÁS, quando esta concorrer não consorciada com outras empresas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2042.%20Em%20caso%20de%20empate%2C%20a%20licita%C3%A7%C3%A3o%20ser%C3%A1%20decidida%20em%20favor%20da%20PETROBR%C3%81S%2C%20quando%20esta%20concorrer%20n%C3%A3o%20consorciada%20com%20outras%20empresas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O contrato de concessão deverá refletir fielmente as condições do edital e da proposta vencedora e terá como cláusulas essenciais:\n\nI - a definição do bloco objeto da concessão;\n\nII - o prazo de duração da fase de exploração e as condições para sua prorrogação;\n\nIII - o programa de trabalho e o volume do investimento previsto;\n\nIV - as obrigações do concessionário quanto às participações, conforme o disposto na Seção VI;\n\nV - a indicação das garantias a serem prestadas pelo concessionário quanto ao cumprimento do contrato, inclusive quanto à realização dos investimentos ajustados para cada fase;\n\nVI - a especificação das regras sobre devolução e desocupação de áreas, inclusive retirada de equipamentos e instalações, e reversão de bens;\n\nVII - os procedimentos para acompanhamento e fiscalização das atividades de exploração, desenvolvimento e produção, e para auditoria do contrato;\n\nVIII - a obrigatoriedade de o concessionário fornecer à ANP relatórios, dados e informações relativos às atividades desenvolvidas;\n\nIX - os procedimentos relacionados com a transferência do contrato, conforme o disposto no art. 29;\n\nX - as regras sobre solução de controvérsias, relacionadas com o contrato e sua execução, inclusive a conciliação e a arbitragem internacional;\n\nXI - os casos de rescisão e extinção do contrato;\n\nXII - as penalidades aplicáveis na hipótese de descumprimento pelo concessionário das obrigações contratuais.\n\nParágrafo único. As condições contratuais para prorrogação do prazo de exploração, referidas no inciso II deste artigo, serão estabelecidas de modo a assegurar a devolução de um percentual do bloco, a critério da ANP, e o aumento do valor do pagamento pela ocupação da área, conforme disposto no parágrafo único do art. 51.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2043.%20O%20contrato%20de%20concess%C3%A3o%20dever%C3%A1%20refletir%20fielmente%20as%20condi%C3%A7%C3%B5es%20do%20edital%20e%20da%20proposta%20vencedora%20e%20ter%C3%A1%20como%20cl%C3%A1usulas%20essenciais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O contrato estabelecerá que o concessionário estará obrigado a:\n\nI - adotar, em todas as suas operações, as medidas necessárias para a conservação dos reservatórios e de outros recursos naturais, para a segurança das pessoas e dos equipamentos e para a proteção do meio ambiente;\n\nII - comunicar à ANP, imediatamente, a descoberta de qualquer jazida de petróleo, gás natural ou outros hidrocarbonetos ou de outros minerais;\n\nIII - realizar a avaliação da descoberta nos termos do programa submetido à ANP, apresentando relatório de comercialidade e declarando seu interesse no desenvolvimento do campo;\n\nIV - submeter à ANP o plano de desenvolvimento de campo declarado comercial, contendo o cronograma e a estimativa de investimento;\n\nV - responsabilizar-se civilmente pelos atos de seus prepostos e indenizar todos e quaisquer danos decorrentes das atividades de exploração, desenvolvimento e produção contratadas, devendo ressarcir à ANP ou à União os ônus que venham a suportar em conseqüência de eventuais demandas motivadas por atos de responsabilidade do concessionário;\n\nVI - adotar as melhores práticas da indústria internacional do petróleo e obedecer às normas e procedimentos técnicos e científicos pertinentes, inclusive quanto às técnicas apropriadas de recuperação, objetivando a racionalização da produção e o controle do declínio das reservas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2044.%20O%20contrato%20estabelecer%C3%A1%20que%20o%20concession%C3%A1rio%20estar%C3%A1%20obrigado%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O contrato de concessão disporá sobre as seguintes participações governamentais, previstas no edital de licitação:\n\nI - bônus de assinatura;\n\nII - royalties;\n\nIII - participação especial;\n\nIV - pagamento pela ocupação ou retenção de área.\n\n§ 1º As participações governamentais constantes dos incisos II e IV serão obrigatórias.\n\n§ 2º As receitas provenientes das participações governamentais definidas no caput, alocadas para órgãos da administração pública federal, de acordo com o disposto nesta Lei, serão mantidas na Conta Única do Governo Federal, enquanto não forem destinadas para as respectivas programações.\n\n§ 3º O superávit financeiro dos órgãos da administração pública federal referidos no parágrafo anterior, apurado em balanço de cada exercício financeiro, será transferido ao Tesouro Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2045.%20O%20contrato%20de%20concess%C3%A3o%20dispor%C3%A1%20sobre%20as%20seguintes%20participa%C3%A7%C3%B5es%20governamentais%2C%20previstas%20no%20edital%20de%20licita%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O bônus de assinatura terá seu valor mínimo estabelecido no edital e corresponderá ao pagamento ofertado na proposta para obtenção da concessão, devendo ser pago no ato da assinatura do contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2046.%20O%20b%C3%B4nus%20de%20assinatura%20ter%C3%A1%20seu%20valor%20m%C3%ADnimo%20estabelecido%20no%20edital%20e%20corresponder%C3%A1%20ao%20pagamento%20ofertado%20na%20proposta%20para%20obten%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Os royalties serão pagos mensalmente, em moeda nacional, a partir da data de início da produção comercial de cada campo, em montante correspondente a dez por cento da produção de petróleo ou gás natural.\n\n§ 1º Tendo em conta os riscos geológicos, as expectativas de produção e outros fatores pertinentes, a ANP poderá prever, no edital de licitação correspondente, a redução do valor dos royalties estabelecido no caput deste artigo para um montante correspondente a, no mínimo, cinco por cento da produção.\n\n§ 1º-A. O Poder Executivo federal poderá reduzir o montante de royalties dos contratos de concessão de exploração e produção de petróleo e gás natural oriundos da denominada Rodada Zero de Licitações promovida pela ANP, nos termos do art. 34 da Lei nº 9.478, de 6 de agosto de 1997, para até 5% (cinco por cento) sobre o total da produção como incentivo a investimentos em conteúdo local nas atividades de exploração e de produção desses contratos, nos termos e nas condições previstos em regulamentos. (Incluído pela Lei nº 15.075, de 2024)\n\n§ 2º Os critérios para o cálculo do valor dos royalties serão estabelecidos por decreto do Presidente da República, em função dos preços de mercado do petróleo, gás natural ou condensado, das especificações do produto e da localização do campo.\n\n§ 2º-A. (VETADO). (Incluído pela Lei nº 15.269, de 2025)\n\n§ 3º A queima de gás em flares, em prejuízo de sua comercialização, e a perda de produto ocorrida sob a responsabilidade do concessionário serão incluídas no volume total da produção a ser computada para cálculo dos royalties devidos.\n\n§ 4o Os recursos provenientes dos pagamentos dos royalties serão distribuídos, nos termos do disposto nesta Lei, com base nos cálculos de valores devidos a cada beneficiário, fornecidos pela autoridade administrativa competente. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 5o No caso dos Estados e dos Municípios, os recursos de que trata o § 4o deste artigo serão creditados em contas bancárias específicas de titularidade deles. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 6o Observado o disposto no § 9o deste artigo, na hipótese de o Estado ou o Município ter celebrado operação de cessão ou transferência, parcial ou total, dos seus direitos sobre os royalties ou de antecipação, parcial ou total, das receitas decorrentes dos direitos sobre os royalties, os recursos de que trata o § 4o deste artigo serão creditados pelo seu valor líquido, após as deduções de natureza legal, tributária e/ou contratual anteriormente incidentes, se houver, e desde que tais deduções tenham prioridade de pagamentos, diretamente pela União, em conta bancária específica de titularidade dos investidores, no Brasil ou no exterior, ou de entidade representativa dos interesses dos investidores que tenham contratado com o Estado ou o Município a respectiva operação de cessão ou transferência de direitos sobre os royalties ou de antecipação das receitas decorrentes dos direitos sobre os royalties. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 7o Na hipótese prevista no § 6o deste artigo, a União não poderá alterar a conta bancária específica indicada para o pagamento dos direitos e receitas sobre os royalties sem a prévia e expressa autorização do beneficiário da operação. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 8o Eventual adesão do Estado ao Regime de Recuperação Fiscal previsto na Lei Complementar nº 159, de 19 de maio de 2017, não poderá afetar a transferência dos direitos e receitas sobre os royalties para a conta bancária específica de titularidade do investidor ou da entidade representativa dos interesses do investidor referida no § 6o deste artigo, até o integral cumprimento da obrigação assumida. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 9o Para as operações já contratadas na data da promulgação desta Lei, poderão as partes, de comum acordo, ajustar a transferência do depósito dos recursos de que trata o § 4o deste artigo diretamente para conta bancária específica do investidor ou da entidade representativa dos interesses do investidor para essa finalidade. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 10. (VETADO). (Incluído pela Lei nº 13.609, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2047.%20Os%20royalties%20ser%C3%A3o%20pagos%20mensalmente%2C%20em%20moeda%20nacional%2C%20a%20partir%20da%20data%20de%20in%C3%ADcio%20da%20produ%C3%A7%C3%A3o%20comercial%20de%20cada%20campo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A parcela do valor do royalty, previsto no contrato de concessão, que representar cinco por cento da produção, correspondente ao montante mínimo referido no § 1º do artigo anterior, será distribuída segundo os critérios estipulados pela Lei nº 7.990, de 28 de dezembro de 1989. . (Vide Lei nº 10.261, de 2001) . (Vide Decreto nº 7.403, de 2010)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2048.%20A%20parcela%20do%20valor%20do%20royalty%2C%20previsto%20no%20contrato%20de%20concess%C3%A3o%2C%20que%20representar%20cinco%20por%20cento%20da%20produ%C3%A7%C3%A3o%2C%20correspondente%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "47",
+      "next": "48-A"
+    },
+    "48-A": {
+      "numero": "48-A",
+      "texto": "Art. 48-A. A parcela do valor do royalty previsto nos contratos de concessão firmados a partir de 3 de dezembro de 2012 que representar cinco por cento da produção, correspondente ao montante mínimo referido no § 1o do art. 47, terá a seguinte distribuição:. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)\n\nI - quando a lavra ocorrer em terra ou em lagos, rios, ilhas fluviais e lacustres, segundo os critérios estipulados pelo art. 48 desta Lei; e. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)) (Vigência encerrada)\n\nII - quando a lavra ocorrer na plataforma continental, no mar territorial ou na zona econômica exclusiva, na forma do Anexo I a esta Lei. . (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2048-A.%20A%20parcela%20do%20valor%20do%20royalty%20previsto%20nos%20contratos%20de%20concess%C3%A3o%20firmados%20a%20partir%20de%203%20de%20dezembro%20de%202012",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "48",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A parcela do valor do royalty que exceder a cinco por cento da produção terá a seguinte distribuição: (Vide Lei nº 10.261, de 2001)\n\nI - quando a lavra ocorrer em terra ou em lagos, rios, ilhas fluviais e lacustres:\n\na) cinqüenta e dois inteiros e cinco décimos por cento aos Estados onde ocorrer a produção;\n\nb) quinze por cento aos Municípios onde ocorrer a produção;\n\nc) sete inteiros e cinco décimos por cento aos Municípios que sejam afetados pelas operações de embarque e desembarque de petróleo e gás natural, na forma e critério estabelecidos pela ANP;\n\nd) vinte e cinco por cento ao Ministério da Ciência e Tecnologia para financiar programas de amparo à pesquisa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo;\n\nd) 25% (vinte e cinco por cento) ao Ministério da Ciência e Tecnologia, para financiar programas de amparo à pesquisa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo, do gás natural e dos biocombustíveis; . (Redação dada pela Lei nº 11.097, de 2005)\n\nd) 25% (vinte e cinco por cento) ao Ministério da Ciência e Tecnologia para financiar programas de amparo à pesquisa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo, do gás natural, dos biocombustíveis e à indústria petroquímica de primeira e segunda geração, bem como para programas de mesma natureza que tenham por finalidade a prevenção e a recuperação de danos causados ao meio ambiente por essas indústrias; . (Redação dada pela Lei nº 11.921, de 2009) . (Vide Decreto nº 7.403, de 2010)\n\nd) 25% (vinte e cinco por cento) para a União, a ser destinado ao Fundo Social, instituído por esta Lei, deduzidas as parcelas destinadas aos órgãos específicos da Administração Direta da União, nos termos do regulamento do Poder Executivo; (Redação dada pela Lei nº 12.734, de 2012)\n\nII - quando a lavra ocorrer na plataforma continental: (Vide ADI 4917)\n\na) vinte e dois inteiros e cinco décimos por cento aos Estados produtores confrontantes;\n\na) 20% (vinte por cento) para os Estados confrontantes; (Redação dada pela Lei nº 12.734, de 2012)\n\nb) vinte e dois inteiros e cinco décimos por cento aos Municípios produtores confrontantes;\n\nb) 17% (dezessete por cento) para os Municípios confrontantes e respectivas áreas geoeconômicas, conforme definido nos arts. 2o, 3º e 4º da Lei nº 7.525, de 22 de julho de 1986; (Redação dada pela Lei nº 12.734, de 2012)\n\nc) quinze por cento ao Ministério da Marinha, para atender aos encargos de fiscalização e proteção das áreas de produção; (Vide Decreto nº 7.403, de 2010)\n\nc) 3% (três por cento) para os Municípios que sejam afetados pelas operações de embarque e desembarque de petróleo, de gás natural e de outros hidrocarbonetos fluidos, na forma e critério estabelecidos pela ANP; (Redação dada pela Lei nº 12.734, de 2012)\n\nd) sete inteiros e cinco décimos por cento aos Municípios que sejam afetados pelas operações de embarque e desembarque de petróleo e gás natural, na forma e critério estabelecidos pela ANP;\n\nd) 20% (vinte por cento) para constituição de fundo especial, a ser distribuído entre Estados e o Distrito Federal, se for o caso, de acordo com os seguintes critérios: (Redação dada pela Lei nº 12.734, de 2012)\n\n1. os recursos serão distribuídos somente para os Estados e, se for o caso, o Distrito Federal, que não tenham recebido recursos em decorrência do disposto na alínea “a” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, na alínea “a” deste inciso e do inciso II do art. 48 desta Lei e no inciso II do § 2o do art. 50 desta Lei; (Incluído pela Lei nº 12.734, de 2012)\n\n2. o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE), de que trata o art. 159 da Constituição; (Incluído pela Lei nº 12.734, de 2012)\n\n3. o percentual que o FPE destina aos Estados e ao Distrito Federal, se for o caso, que serão excluídos do rateio dos recursos do fundo especial em decorrência do disposto no item 1 será redistribuído entre os demais Estados e o Distrito Federal, se for o caso, proporcionalmente às suas participações no FPE; (Incluído pela Lei nº 12.734, de 2012)\n\n4. o Estado produtor ou confrontante, e o Distrito Federal, se for produtor, poderá optar por receber os recursos do fundo especial de que trata esta alínea, desde que não receba os recursos referidos no item 1; (Incluído pela Lei nº 12.734, de 2012)\n\n5. os recursos que Estados produtores ou confrontantes, ou que o Distrito Federal, se for o caso, tenham deixado de arrecadar em função da opção prevista no item 4 serão adicionados aos recursos do fundo especial de que trata esta alínea; (Incluído pela Lei nº 12.734, de 2012)\n\ne) sete inteiros e cinco décimos por cento para constituição de um Fundo Especial, a ser distribuído entre todos os Estados, Territórios e Municípios;\n\ne) 20% (vinte por cento) para constituição de fundo especial, a ser distribuído entre os Municípios de acordo com os seguintes critérios: (Redação dada pela Lei nº 12.734, de 2012)\n\n1. os recursos serão distribuídos somente para os Municípios que não tenham recebido recursos em decorrência do disposto nas alíneas “b” e “c” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, nas alíneas “b” e “c” deste inciso e do inciso II do art. 48 desta Lei e no inciso III do § 2o do art. 50 desta Lei; (Incluído pela Lei nº 12.734, de 2012)\n\n2. o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do FPM, de que trata o art. 159 da Constituição; (Incluído pela Lei nº 12.734, de 2012)\n\n3. o percentual que o FPM destina aos Municípios que serão excluídos do rateio dos recursos do fundo especial em decorrência do disposto no item 1 será redistribuído entre Municípios proporcionalmente às suas participações no FPM; (Incluído pela Lei nº 12.734, de 2012)\n\n4. o Município produtor ou confrontante poderá optar por receber os recursos do fundo especial de que trata esta alínea, desde que não receba os recursos referidos no item 1; (Incluído pela Lei nº 12.734, de 2012)\n\n5. os recursos que Municípios produtores ou confrontantes tenham deixado de arrecadar em função da opção prevista no item 4 serão adicionados aos recursos do fundo especial de que trata esta alínea; (Incluído pela Lei nº 12.734, de 2012)\n\nf) vinte e cinco por cento ao Ministério da Ciência e Tecnologia, para financiar programas de amparo à pesquisa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo.\n\nf) 25% (vinte e cinco por cento) ao Ministério da Ciência e Tecnologia, para financiar programas de amparo à pesquisa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo, do gás natural e dos biocombustíveis.. (Redação dada pela Lei nº 11.097, de 2005)\n\nf) 25% (vinte e cinco por cento) ao Ministério da Ciência e Tecnologia para financiar programas de amparo à pesquisa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo, do gás natural, dos biocombustíveis e à indústria petroquímica de primeira e segunda geração, bem como para programas de mesma natureza que tenham por finalidade a prevenção e a recuperação de danos causados ao meio ambiente por essas indústrias.. (Redação dada pela Lei nº 11.921, de 2009). (Vide Decreto nº 7.403, de 2010)\n\nf) 20% (vinte por cento) para a União, a ser destinado ao Fundo Social, instituído por esta Lei, deduzidas as parcelas destinadas aos órgãos específicos da Administração Direta da União, nos termos do regulamento do Poder Executivo. (Redação dada pela Lei nº 12.734, de 2012)\n\n§ 1° Do total de recursos destinados ao Ministério da Ciência e Tecnologia, serão aplicados no mínimo quarenta por cento em programas de fomento à capacitação e ao desenvolvimento científico e tecnológico nas regiões Norte e Nordeste.\n\n§ 1o Do total de recursos destinados ao Ministério da Ciência e Tecnologia serão aplicados, no mínimo, 40% (quarenta por cento) em programas de fomento à capacitação e ao desenvolvimento científico e tecnológico das regiões Norte e Nordeste, incluindo as respectivas áreas de abrangência das Agências de Desenvolvimento Regional.. (Redação dada pela Lei nº 11.540, de 2007)\n\n§ 1o (Revogado). (Redação dada pela Lei nº 12.734, de 2012)\n\n§ 2° O Ministério da Ciência e Tecnologia administrará os programas de amparo à pesquisa científica e ao desenvolvimento tecnológico previstos no caput deste artigo, com o apoio técnico da ANP, no cumprimento do disposto no inciso X do art. 8º, e mediante convênios com as universidades e os centros de pesquisa do País, segundo normas a serem definidas em decreto do Presidente da República. . (Vide Decreto nº 7.403, de 2010)\n\n§ 2o (Revogado). (Redação dada pela Lei nº 12.734, de 2012)\n\n§ 3o Nas áreas localizadas no pré-sal contratadas sob o regime de concessão, a parcela dos royalties que cabe à administração direta da União será destinada integralmente ao fundo de natureza contábil e financeira, criado por lei específica, com a finalidade de constituir fonte de recursos para o desenvolvimento social e regional, na forma de programas e projetos nas áreas de combate à pobreza e de desenvolvimento da educação, da cultura, do esporte, da saúde pública, da ciência e tecnologia, do meio ambiente e de mitigação e adaptação às mudanças climáticas, vedada sua destinação aos órgãos específicos de que trata este artigo.. (Incluído pela Lei nº 12.351, de 2010) . (Vide Decreto nº 7.403, de 2010) . (Vide Medida Provisória nº 592, 2012)\n\n§ 3o (Revogado). (Redação dada pela Lei nº 12.734, de 2012)\n\n§ 4o A soma dos valores referentes aos royalties devidos aos Municípios nos termos das alíneas “b” e “c” dos incisos I e II do art. 42-B da Lei no 12.351, de 22 de dezembro de 2010, com os royalties devidos nos termos das alíneas “b” e “c” dos incisos I e II deste artigo e do art. 48 desta Lei, com a participação especial devida nos termos do inciso III do § 2o do art. 50 desta Lei, ficarão limitados ao maior dos seguintes valores: (Incluído pela Lei nº 12.734, de 2012)\n\nI - os valores que o Município recebeu a título de royalties e participação especial em 2011; (Incluído pela Lei nº 12.734, de 2012)\n\nII - 2 (duas) vezes o valor per capita distribuído pelo FPM, calculado em nível nacional, multiplicado pela população do Município. (Incluído pela Lei nº 12.734, de 2012)\n\n§ 5o A parcela dos royalties de que trata este artigo que contribuir para o valor que exceder o limite de pagamentos aos Municípios em decorrência do disposto no § 4o será transferida para o fundo especial de que trata a alínea “e” do inciso II. (Incluído pela Lei nº 12.734, de 2012)\n\n§ 6o A opção dos Estados, Distrito Federal e Municípios de que trata o item 4 das alíneas “d” e “e” do inciso II poderá ser feita após conhecido o valor dos royalties e da participação especial a serem distribuídos, nos termos do regulamento. (Incluído pela Lei nº 12.734, de 2012)\n\n§ 7o Os pontos de entrega às concessionárias de gás natural produzido no País serão considerados instalações de embarque e desembarque, para fins de pagamento de royalties aos Municípios afetados por essas operações, em razão do disposto na alínea “c” dos incisos I e II. (Incluído pela Lei nº 12.734, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2049.%20A%20parcela%20do%20valor%20do%20royalty%20que%20exceder%20a%20cinco%20por%20cento%20da%20produ%C3%A7%C3%A3o%20ter%C3%A1%20a%20seguinte%20distribui%C3%A7%C3%A3o%3A%20%28Vide%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "48-A",
+      "next": "49-A"
+    },
+    "49-A": {
+      "numero": "49-A",
+      "texto": "Art. 49-A. A parcela do valor do royalty previsto nos contratos de concessão firmados a partir de 3 de dezembro de 2012 que exceder a cinco por cento da produção terá a seguinte distribuição: . (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)\n\nI - quando a lavra ocorrer em terra ou em lagos, rios, ilhas fluviais e lacustres, segundo a forma estipulada pelo inciso I do caput do art. 49; e (Incluído pela Medida Provisória nº 592, de 2012,) (Vigência encerrada)\n\nII - quando a lavra ocorrer na plataforma continental, no mar territorial ou na zona econômica exclusiva, na forma do Anexo II a esta Lei. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2049-A.%20A%20parcela%20do%20valor%20do%20royalty%20previsto%20nos%20contratos%20de%20concess%C3%A3o%20firmados%20a%20partir%20de%203%20de%20dezembro%20de%202012",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "49",
+      "next": "49-B"
+    },
+    "49-B": {
+      "numero": "49-B",
+      "texto": "Art. 49-B. Os percentuais de distribuição a que se referem a alínea “d” do inciso II do art. 48 e a alínea “d” do inciso II do art. 49 serão acrescidos: (Incluído pela Lei nº 12.734, de 2012) (Vide ADI 4917)\n\nI - em 1 (um) ponto percentual em 2013 e em cada ano subsequente até atingir 24% (vinte e quatro por cento) em 2016; (Incluído pela Lei nº 12.734, de 2012)\n\nII - em 1,5 (um inteiro e cinco décimos) de ponto percentual em 2017, quando atingirá 25,5% (vinte e cinco inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012)\n\nIII - em 1 (um) ponto percentual em 2018, quando atingirá 26,5% (vinte e seis inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012)\n\nIV - em 0,5 (cinco décimos) de ponto percentual em 2019, quando atingirá o máximo de 27% (vinte e sete por cento). (Incluído pela Lei nº 12.734, de 2012)\n\nParágrafo único. A partir de 2019, o percentual de distribuição a que se refere este artigo será de 27% (vinte e sete por cento). (Incluído pela Lei nº 12.734, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2049-B.%20Os%20percentuais%20de%20distribui%C3%A7%C3%A3o%20a%20que%20se%20referem%20a%20al%C3%ADnea%20%E2%80%9Cd%E2%80%9D%20do%20inciso%20II%20do%20art.%2048%20e%20a%20al%C3%ADnea",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "49-A",
+      "next": "49-C"
+    },
+    "49-C": {
+      "numero": "49-C",
+      "texto": "Art. 49-C. Os percentuais de distribuição a que se referem a alínea “e” do inciso II do art. 48 e a alínea “e” do inciso II do art. 49 serão acrescidos: (Incluído pela Lei nº 12.734, de 2012) (Vide ADI 4917)\n\nI - em 1 (um) ponto percentual em 2013 e em cada ano subsequente até atingir 24% (vinte e quatro por cento) em 2016; (Incluído pela Lei nº 12.734, de 2012)\n\nII - em 1,5 (um inteiro e cinco décimos) de ponto percentual em 2017, quando atingirá 25,5% (vinte e cinco inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012)\n\nIII - em 1 (um) ponto percentual em 2018, quando atingirá 26,5% (vinte e seis inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012)\n\nIV - em 0,5 (cinco décimos) de ponto percentual em 2019, quando atingirá o máximo de 27% (vinte e sete por cento). (Incluído pela Lei nº 12.734, de 2012)\n\nParágrafo único. A partir de 2019, o percentual de distribuição a que se refere este artigo será de 27% (vinte e sete por cento). (Incluído pela Lei nº 12.734, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2049-C.%20Os%20percentuais%20de%20distribui%C3%A7%C3%A3o%20a%20que%20se%20referem%20a%20al%C3%ADnea%20%E2%80%9Ce%E2%80%9D%20do%20inciso%20II%20do%20art.%2048%20e%20a%20al%C3%ADnea",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "49-B",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. O edital e o contrato estabelecerão que, nos casos de grande volume de produção, ou de grande rentabilidade, haverá o pagamento de uma participação especial, a ser regulamentada em decreto do Presidente da República. (Vide Lei nº 10.261, de 2001) (Vide ADI 4917)\n\n§ 1º A participação especial será aplicada sobre a receita bruta da produção, deduzidos os royalties, os investimentos na exploração, os custos operacionais, a depreciação e os tributos previstos na legislação em vigor.\n\n§ 2º Os recursos da participação especial serão distribuídos na seguinte proporção: (Vide ADI 4917)\n\nI - quarenta por cento ao Ministério de Minas e Energia, para o financiamento de estudos e serviços de geologia e geofísica aplicados à prospecção de petróleo e gás natural, a serem promovidos pela ANP, nos termos dos incisos II e III do art. 8°;\n\nI - 40% (quarenta por cento) ao Ministério de Minas e Energia, sendo 70% (setenta por cento) para o financiamento de estudos e serviços de geologia e geofísica aplicados à prospecção de combustíveis fósseis, a serem promovidos pela ANP, nos termos dos incisos II e III do art. 8o desta Lei, e pelo MME, 15% (quinze por cento) para o custeio dos estudos de planejamento da expansão do sistema energético e 15% (quinze por cento) para o financiamento de estudos, pesquisas, projetos, atividades e serviços de levantamentos geológicos básicos no território nacional;. (Redação dada pela lei nº 10.848, de 2004)\n\nI - 42% (quarenta e dois por cento) à União, a ser destinado ao Fundo Social, instituído pela Lei nº 12.351, de 2010, deduzidas as parcelas destinadas aos órgãos específicos da Administração Direta da União, nos termos do regulamento do Poder Executivo; (Redação dada pela Lei nº 12.734, de 2012)\n\nII - dez por cento ao Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, destinados ao desenvolvimento de estudos e projetos relacionados com a preservação do meio ambiente e recuperação de danos ambientais causados pelas atividades da indústria do petróleo;\n\nII - 10% (dez por cento) ao Ministério do Meio Ambiente, destinados, preferencialmente, ao desenvolvimento das seguintes atividades de gestão ambiental relacionadas à cadeia produtiva do petróleo, incluindo as consequências de sua utilização:. (Redação dada pela lei nº 12.114, de 2009)\n\na) modelos e instrumentos de gestão, controle (fiscalização, monitoramento, licenciamento e instrumentos voluntários), planejamento e ordenamento do uso sustentável dos espaços e dos recursos naturais;. (Incluído pela lei nº 12.114, de 2009)\n\nb) estudos e estratégias de conservação ambiental, uso sustentável dos recursos naturais e recuperação de danos ambientais; . (Incluído pela lei nº 12.114, de 2009)\n\nc) novas práticas e tecnologias menos poluentes e otimização de sistemas de controle de poluição, incluindo eficiência energética e ações consorciadas para o tratamento de resíduos e rejeitos oleosos e outras substâncias nocivas e perigosas;. (Incluído pela lei nº 12.114, de 2009)\n\nd) definição de estratégias e estudos de monitoramento ambiental sistemático, agregando o estabelecimento de padrões de qualidade ambiental específicos, na escala das bacias sedimentares; . (Incluído pela lei nº 12.114, de 2009)\n\ne) sistemas de contingência que incluam prevenção, controle e combate e resposta à poluição por óleo;. (Incluído pela lei nº 12.114, de 2009)\n\nf) mapeamento de áreas sensíveis a derramamentos de óleo nas águas jurisdicionais brasileiras;. (Incluído pela lei nº 12.114, de 2009)\n\ng) estudos e projetos de prevenção de emissões de gases de efeito estufa para a atmosfera, assim como para mitigação da mudança do clima e adaptação à mudança do clima e seus efeitos, considerando-se como mitigação a redução de emissão de gases de efeito estufa e o aumento da capacidade de remoção de carbono pelos sumidouros e, como adaptação as iniciativas e medidas para reduzir a vulnerabilidade dos sistemas naturais e humanos frente aos efeitos atuais e esperados da mudança do clima;. (Incluído pela lei nº 12.114, de 2009)\n\nh) estudos e projetos de prevenção, controle e remediação relacionados ao desmatamento e à poluição atmosférica; . (Incluído pela lei nº 12.114, de 2009)\n\ni) iniciativas de fortalecimento do Sistema Nacional do Meio Ambiente - SISNAMA; . (Incluído pela lei nº 12.114, de 2009)\n\nII - 34% (trinta e quatro por cento) para o Estado onde ocorrer a produção em terra, ou confrontante com a plataforma continental onde se realizar a produção; (Redação dada pela Lei nº 12.734, de 2012\n\nIII - quarenta por cento para o Estado onde ocorrer a produção em terra, ou confrontante com a plataforma continental onde se realizar a produção;\n\nIII - 5% (cinco por cento) para o Município onde ocorrer a produção em terra, ou confrontante com a plataforma continental onde se realizar a produção; (Redação dada pela Lei nº 12.734, de 2012\n\nIV - dez por cento para o Município onde ocorrer a produção em terra, ou confrontante com a plataforma continental onde se realizar a produção.\n\nIV - 9,5% (nove inteiros e cinco décimos por cento) para constituição de fundo especial, a ser distribuído entre Estados e o Distrito Federal, se for o caso, de acordo com os seguintes critérios: (Redação dada pela Lei nº 12.734, de 2012\n\na) os recursos serão distribuídos somente para os Estados e, se for o caso, o Distrito Federal, que não tenham recebido recursos em decorrência do disposto na alínea “a” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, na alínea “a” do inciso II dos arts. 48 e 49 desta Lei e no inciso II do § 2o deste artigo; (Incluída pela Lei nº 12.734, de 2012\n\nb) o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE), de que trata o art. 159 da Constituição; (Incluída pela Lei nº 12.734, de 2012\n\nc) o percentual que o FPE destina aos Estados e ao Distrito Federal, se for o caso, que serão excluídos do rateio dos recursos do fundo especial em decorrência do disposto na alínea “a” será redistribuído entre os demais Estados e o Distrito Federal, se for o caso, proporcionalmente às suas participações no FPE; (Incluída pela Lei nº 12.734, de 2012\n\nd) o Estado produtor ou confrontante, e o Distrito Federal, se for produtor, poderá optar por receber os recursos do fundo especial de que trata este inciso, desde que não receba recursos em decorrência do disposto na alínea “a” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, na alínea “a” do inciso II dos arts. 48 e 49 desta Lei e no inciso II do § 2o deste artigo; (Incluída pela Lei nº 12.734, de 2012\n\ne) os recursos que Estados produtores ou confrontantes, ou que o Distrito Federal, se for o caso, tenham deixado de arrecadar em função da opção prevista na alínea “d” serão adicionados aos recursos do fundo especial de que trata este inciso; (Incluída pela Lei nº 12.734, de 2012\n\nV - 9,5% (nove inteiros e cinco décimos por cento) para constituição de fundo especial, a ser distribuído entre os Municípios de acordo com os seguintes critérios: (Incluído pela Lei nº 12.734, de 2012\n\na) os recursos serão distribuídos somente para os Municípios que não tenham recebido recursos em decorrência do disposto nas alíneas “b” e “c” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, nas alíneas “b” e “c” do inciso II dos arts. 48 e 49 desta Lei e no inciso III do § 2o deste artigo; (Incluída pela Lei nº 12.734, de 2012\n\nb) o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do FPM, de que trata o art. 159 da Constituição; (Incluída pela Lei nº 12.734, de 2012\n\nc) o percentual que o FPM destina aos Municípios que serão excluídos do rateio dos recursos do fundo especial em decorrência do disposto na alínea “a” será redistribuído entre Municípios proporcionalmente às suas participações no FPM; (Incluída pela Lei nº 12.734, de 2012\n\nd) o Município produtor ou confrontante poderá optar por receber os recursos do fundo especial de que trata este inciso, desde que não receba recursos em decorrência do disposto nas alíneas “b” e “c” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, nas alíneas “b” e “c” do inciso II dos arts. 48 e 49 desta Lei e no inciso III do § 2o deste artigo; (Incluída pela Lei nº 12.734, de 2012\n\ne) os recursos que Municípios produtores ou confrontantes tenham deixado de arrecadar em função da opção prevista na alínea “d” serão adicionados aos recursos do fundo especial de que trata este inciso. (Incluída pela Lei nº 12.734, de 2012\n\n§ 3° Os estudos a que se refere o inciso II do parágrafo anterior serão desenvolvidos pelo Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, com o apoio técnico da ANP, no cumprimento do disposto no inciso IX do art. 8°. (Revogado pela Lei nº 12.114, de 2009)\n\n§ 4o Nas áreas localizadas no pré-sal contratadas sob o regime de concessão, a parcela da participação especial que cabe à administração direta da União será destinada integralmente ao fundo de natureza contábil e financeira, criado por lei específica, com a finalidade de constituir fonte de recursos para o desenvolvimento social e regional, na forma de programas e projetos nas áreas de combate à pobreza e de desenvolvimento da educação, da cultura, do esporte, da saúde pública, da ciência e tecnologia, do meio ambiente e de mitigação e adaptação às mudanças climáticas, vedada sua destinação aos órgãos específicos de que trata este artigo. (Incluído pela Lei nº 12.351, de 2010) (Vide Medida Provisória nº 592, 2012)\n\n§ 4o (Revogado). (Redação dada pela Lei nº 12.734, de 2012\n\n§ 5o Os recursos da participação especial relativos à produção ocorrida nos contratos de concessão firmados a partir de 3 de dezembro de 2012 serão distribuídos na forma do Anexo III a esta Lei. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)\n\n§ 5o A soma dos valores referentes aos royalties devidos aos Municípios nos termos das alíneas “b” e “c” dos incisos I e II do art. 42-B da Lei nº 12.351, de 22 de dezembro de 2010, com os royalties devidos nos termos das alíneas “b” e “c” dos incisos I e II dos arts. 48 e 49 desta Lei, com a participação especial devida nos termos do inciso III do § 2o deste artigo, ficarão limitados ao maior dos seguintes valores: (Incluído pela Lei nº 12.734, de 2012\n\nI - os valores que o Município recebeu a título de royalties e participação especial em 2011; (Incluído pela Lei nº 12.734, de 2012\n\nII - 2 (duas) vezes o valor per capita distribuído pelo FPM, calculado em nível nacional, multiplicado pela população do Município. (Incluído pela Lei nº 12.734, de 2012\n\n§ 6o A opção dos Estados, Distrito Federal e Municípios de que trata a alínea “d” dos incisos IV e V poderá ser feita após conhecido o valor dos royalties e da participação especial a serem distribuídos, nos termos do regulamento. (Incluído pela Lei nº 12.734, de 2012\n\n§ 7o A parcela da participação especial que contribuir para o valor que exceder o limite de pagamentos aos Municípios em decorrência do disposto no § 5o será transferida para o fundo especial de que trata o inciso V do § 2o. (Incluído pela Lei nº 12.734, de 2012\n\n§ 8o Os recursos provenientes dos pagamentos da participação especial serão distribuídos, nos termos do disposto nesta Lei, com base nos cálculos de valores devidos a cada beneficiário, fornecidos pela autoridade administrativa competente. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 9o No caso dos Estados e dos Municípios, os recursos de que trata o § 8o deste artigo serão creditados em contas bancárias específicas de titularidade deles. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 10. Observado o disposto no § 13 deste artigo, na hipótese de o Estado ou o Município ter celebrado operação de cessão ou transferência, parcial ou total, dos seus direitos sobre a participação especial ou de antecipação, parcial ou total, das receitas decorrentes dos direitos sobre a participação especial, os recursos de que trata o § 8o deste artigo serão creditados pelo seu valor líquido, após as deduções de natureza legal, tributária e/ou contratual anteriormente incidentes, se houver, e desde que tais deduções tenham prioridade de pagamentos, diretamente pela União, em conta bancária específica de titularidade dos investidores, no Brasil ou no exterior, ou de entidade representativa dos interesses dos investidores que tenham contratado com o Estado ou o Município a respectiva operação de cessão ou transferência de direitos sobre a participação especial ou de antecipação das receitas decorrentes dos direitos sobre a participação especial. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 11. Na hipótese prevista no § 10 deste artigo, a União não poderá alterar a conta bancária específica indicada para o pagamento dos direitos e receitas sobre a participação especial sem a prévia e expressa autorização do beneficiário da operação. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 12. Eventual adesão do Estado ao Regime de Recuperação Fiscal previsto na Lei Complementar no 159, de 19 de maio de 2017, não poderá afetar a transferência dos direitos e receitas sobre a participação especial para a conta bancária específica de titularidade do investidor ou da entidade representativa dos interesses do investidor referida no § 10 deste artigo, até o integral cumprimento da obrigação assumida. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 13. Para as operações já contratadas na data da promulgação desta Lei, poderão as partes, de comum acordo, ajustar a transferência do depósito dos recursos de que trata o § 8o deste artigo diretamente para conta bancária específica do investidor ou da entidade representativa dos interesses do investidor para essa finalidade. (Incluído pela Lei nº 13.609, de 2018)\n\n§ 14. (VETADO). (Incluído pela Lei nº 13.609, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050.%20O%20edital%20e%20o%20contrato%20estabelecer%C3%A3o%20que%2C%20nos%20casos%20de%20grande%20volume%20de%20produ%C3%A7%C3%A3o%2C%20ou%20de%20grande%20rentabilidade%2C%20haver%C3%A1%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "49-C",
+      "next": "50-A"
+    },
+    "50-A": {
+      "numero": "50-A",
+      "texto": "Art. 50-A. Serão integralmente destinados ao Fundo Social de que trata o art. 47 da Lei no 12.351, de 2010, os valores dos royalties e da participação especial destinados à União de que tratam os arts. 48, 49 e o § 2º do art. 50 desta Lei e o art. 5º da Lei nº 12.276, de 2010, quando oriundos da produção realizada no horizonte geológico denominado pré-sal, em campos localizados na área definida no inciso IV do caput do art. 2o da Lei no 12.351, de 2010. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050-A.%20Ser%C3%A3o%20integralmente%20destinados%20ao%20Fundo%20Social%20de%20que%20trata%20o%20art.%2047%20da%20Lei%20no%2012.351%2C%20de%202010%2C%20os%20valores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50",
+      "next": "50-B"
+    },
+    "50-B": {
+      "numero": "50-B",
+      "texto": "Art. 50-B. As receitas de que tratam os arts. 48-A, 49-A e o § 5o do art. 50 serão destinadas, exclusivamente, para a educação, em acréscimo ao mínimo constitucionalmente obrigatório, na forma do regulamento. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050-B.%20As%20receitas%20de%20que%20tratam%20os%20arts.%2048-A%2C%2049-A%20e%20o%20%C2%A7%205o%20do%20art.%2050%20ser%C3%A3o%20destinadas%2C%20exclusivamente%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50-A",
+      "next": "50-C"
+    },
+    "50-C": {
+      "numero": "50-C",
+      "texto": "Art. 50-C. O percentual de distribuição a que se refere o inciso III do § 2o do art. 50 será reduzido em 1 (um) ponto percentual em 2019, quando atingirá 4% (quatro por cento). (Incluído pela Lei nº 12.734, de 2012) (Vide ADI 4917)\n\nParágrafo único. A partir de 2019, o percentual de distribuição a que se refere este artigo será de 4% (quatro por cento). (Incluído pela Lei nº 12.734, de 2012",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050-C.%20O%20percentual%20de%20distribui%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20inciso%20III%20do%20%C2%A7%202o%20do%20art.%2050%20ser%C3%A1%20reduzido%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50-B",
+      "next": "50-D"
+    },
+    "50-D": {
+      "numero": "50-D",
+      "texto": "Art. 50-D. O percentual de distribuição a que se refere o inciso IV do § 2o do art. 50 será acrescido: (Incluído pela Lei nº 12.734, de 2012) (Vide ADI 4917)\n\nI - em 0,5 (cinco décimos) de ponto percentual em 2013, quando atingirá 10% (dez por cento); (Incluído pela Lei nº 12.734, de 2012\n\nII - em 1 (um) ponto percentual em 2014 e em 2015, quando atingirá 12% (doze por cento); (Incluído pela Lei nº 12.734, de 2012\n\nIII - em 0,5 (cinco décimos) de ponto percentual em 2016, quando atingirá 12,5% (doze inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012\n\nIV - em 1 (um) ponto percentual em 2017 e em 2018, quando atingirá 14,5% (quatorze inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012\n\nV - em 0,5 (cinco décimos) de ponto percentual em 2019, quando atingirá 15% (quinze por cento). (Incluído pela Lei nº 12.734, de 2012\n\nParágrafo único. A partir de 2019, o percentual de distribuição a que se refere este artigo será de 15% (quinze por cento). (Incluído pela Lei nº 12.734, de 2012",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050-D.%20O%20percentual%20de%20distribui%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20inciso%20IV%20do%20%C2%A7%202o%20do%20art.%2050%20ser%C3%A1%20acrescido%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50-C",
+      "next": "50-E"
+    },
+    "50-E": {
+      "numero": "50-E",
+      "texto": "Art. 50-E. O percentual de distribuição a que se refere o inciso V do § 2o do art. 50 será acrescido: (Incluído pela Lei nº 12.734, de 2012) (Vide ADI 4917)\n\nI - em 0,5 (cinco décimos) de ponto percentual em 2013, quando atingirá 10% (dez por cento); (Incluído pela Lei nº 12.734, de 2012\n\nII - em 1 (um) ponto percentual em 2014 e em 2015, quando atingirá 12% (doze por cento); (Incluído pela Lei nº 12.734, de 2012\n\nIII - em 0,5 (cinco décimos) de ponto percentual em 2016, quando atingirá 12,5% (doze inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012\n\nIV - em 1 (um) ponto percentual em 2017 e em 2018, quando atingirá 14,5% (quatorze inteiros e cinco décimos por cento); (Incluído pela Lei nº 12.734, de 2012\n\nV - em 0,5 (cinco décimos) de ponto percentual em 2019, quando atingirá 15% (quinze por cento). (Incluído pela Lei nº 12.734, de 2012\n\nParágrafo único. A partir de 2019, o percentual de distribuição a que se refere este artigo será de 15% (quinze por cento). (Incluído pela Lei nº 12.734, de 2012",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050-E.%20O%20percentual%20de%20distribui%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20inciso%20V%20do%20%C2%A7%202o%20do%20art.%2050%20ser%C3%A1%20acrescido%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50-D",
+      "next": "50-F"
+    },
+    "50-F": {
+      "numero": "50-F",
+      "texto": "Art. 50-F. O fundo especial de que tratam as alíneas “d” e “e” do inciso II dos arts. 48 e 49 desta Lei, os incisos IV e V do § 2o do art. 50 desta Lei e as alíneas “d” e “e” dos incisos I e II do art. 42-B da Lei no 12.351, de 22 de dezembro de 2010, serão destinados para as áreas de educação, infraestrutura social e econômica, saúde, segurança, programas de erradicação da miséria e da pobreza, cultura, esporte, pesquisa, ciência e tecnologia, defesa civil, meio ambiente, em programas voltados para a mitigação e adaptação às mudanças climáticas, e para o tratamento e reinserção social dos dependentes químicos. (Incluído pela Lei nº 12.734, de 2012\n\nParágrafo único. Os Estados, o Distrito Federal e os Municípios encaminharão anexo contendo a previsão para a aplicação dos recursos de que trata o caput junto aos respectivos planos plurianuais, leis de diretrizes orçamentárias e leis do orçamento anual. (Incluído pela Lei nº 12.734, de 2012",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2050-F.%20O%20fundo%20especial%20de%20que%20tratam%20as%20al%C3%ADneas%20%E2%80%9Cd%E2%80%9D%20e%20%E2%80%9Ce%E2%80%9D%20do%20inciso%20II%20dos%20arts.%2048%20e%2049%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50-E",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O edital e o contrato disporão sobre o pagamento pela ocupação ou retenção de área, a ser feito anualmente, fixado por quilômetro quadrado ou fração da superfície do bloco, na forma da regulamentação por decreto do Presidente da República.\n\nParágrafo único. O valor do pagamento pela ocupação ou retenção de área será aumentado em percentual a ser estabelecido pela ANP, sempre que houver prorrogação do prazo de exploração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2051.%20O%20edital%20e%20o%20contrato%20dispor%C3%A3o%20sobre%20o%20pagamento%20pela%20ocupa%C3%A7%C3%A3o%20ou%20reten%C3%A7%C3%A3o%20de%20%C3%A1rea%2C%20a%20ser%20feito%20anualmente%2C%20fixado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "50-F",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Constará também do contrato de concessão de bloco localizado em terra cláusula que determine o pagamento aos proprietários da terra de participação equivalente, em moeda corrente, a um percentual variável entre cinco décimos por cento e um por cento da produção de petróleo ou gás natural, a critério da ANP.\n\nParágrafo único. A participação a que se refere este artigo será distribuída na proporção da produção realizada nas propriedades regularmente demarcadas na superfície do bloco.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2052.%20Constar%C3%A1%20tamb%C3%A9m%20do%20contrato%20de%20concess%C3%A3o%20de%20bloco%20localizado%20em%20terra%20cl%C3%A1usula%20que%20determine%20o%20pagamento%20aos%20propriet%C3%A1rios%20da%20terra",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Qualquer empresa ou consórcio de empresas que atenda ao disposto no art. 5° poderá submeter à ANP proposta, acompanhada do respectivo projeto, para a construção e operação de refinarias e de unidades de processamento e de estocagem de gás natural, bem como para a ampliação de sua capacidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2053.%20Qualquer%20empresa%20ou%20cons%C3%B3rcio%20de%20empresas%20que%20atenda%20ao%20disposto%20no%20art.%205%C2%B0%20poder%C3%A1%20submeter%20%C3%A0%20ANP%20proposta%2C%20acompanhada%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. É permitida a transferência da titularidade da autorização, mediante prévia e expressa aprovação pela ANP, desde que o novo titular satisfaça os requisitos expressos no § 1º do artigo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2054.%20%C3%89%20permitida%20a%20transfer%C3%AAncia%20da%20titularidade%20da%20autoriza%C3%A7%C3%A3o%2C%20mediante%20pr%C3%A9via%20e%20expressa%20aprova%C3%A7%C3%A3o%20pela%20ANP%2C%20desde%20que%20o%20novo%20titular",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. No prazo de cento e oitenta dias, a partir da publicação desta Lei, a ANP expedirá as autorizações relativas às refinarias e unidades de processamento de gás natural existentes, ratificando sua titularidade e seus direitos.\n\nParágrafo único. As autorizações referidas neste artigo obedecerão ao disposto no art. 53 quanto à transferência da titularidade e à ampliação da capacidade das instalações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2055.%20No%20prazo%20de%20cento%20e%20oitenta%20dias%2C%20a%20partir%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20a%20ANP%20expedir%C3%A1%20as%20autoriza%C3%A7%C3%B5es%20relativas%20%C3%A0s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Observadas as disposições das leis pertinentes, qualquer empresa ou consórcio de empresas que atender ao disposto no art. 5° poderá receber autorização da ANP para construir instalações e efetuar qualquer modalidade de transporte de petróleo, seus derivados e gás natural, seja para suprimento interno ou para importação e exportação.\n\nParágrafo único. A ANP baixará normas sobre a habilitação dos interessados e as condições para a autorização e para transferência de sua titularidade, observado o atendimento aos requisitos de proteção ambiental e segurança de tráfego.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2056.%20Observadas%20as%20disposi%C3%A7%C3%B5es%20das%20leis%20pertinentes%2C%20qualquer%20empresa%20ou%20cons%C3%B3rcio%20de%20empresas%20que%20atender%20ao%20disposto%20no%20art.%205%C2%B0%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. No prazo de cento e oitenta dias, a partir da publicação desta Lei, a PETROBRÁS e as demais empresas proprietárias de equipamentos e instalações de transporte marítimo e dutoviário receberão da ANP as respectivas autorizações, ratificando sua titularidade e seus direitos.\n\nParágrafo único. As autorizações referidas neste artigo observarão as normas de que trata o parágrafo único do artigo anterior, quanto à transferência da titularidade e à ampliação da capacidade das instalações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2057.%20No%20prazo%20de%20cento%20e%20oitenta%20dias%2C%20a%20partir%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20a%20PETROBR%C3%81S%20e%20as%20demais%20empresas%20propriet%C3%A1rias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Facultar-se-á a qualquer interessado o uso dos dutos de transporte e dos terminais marítimos existentes ou a serem construídos, mediante remuneração adequada ao titular das instalações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2058.%20Facultar-se-%C3%A1%20a%20qualquer%20interessado%20o%20uso%20dos%20dutos%20de%20transporte%20e%20dos%20terminais%20mar%C3%ADtimos%20existentes%20ou%20a%20serem%20constru%C3%ADdos%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Os dutos de transferência serão reclassificados pela ANP como dutos de transporte, caso haja comprovado interesse de terceiros em sua utilização, observadas as disposições aplicáveis deste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2059.%20Os%20dutos%20de%20transfer%C3%AAncia%20ser%C3%A3o%20reclassificados%20pela%20ANP%20como%20dutos%20de%20transporte%2C%20caso%20haja%20comprovado%20interesse%20de%20terceiros%20em%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Qualquer empresa ou consórcio de empresas que atender ao disposto no art. 5° poderá receber autorização da ANP para exercer a atividade de importação e exportação de petróleo e seus derivados, de gás natural e condensado.\n\nParágrafo único. O exercício da atividade referida no caput deste artigo observará as diretrizes do CNPE, em particular as relacionadas com o cumprimento das disposições do art. 4° da Lei n° 8.176, de 8 de fevereiro de 1991, e obedecerá às demais normas legais e regulamentares pertinentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2060.%20Qualquer%20empresa%20ou%20cons%C3%B3rcio%20de%20empresas%20que%20atender%20ao%20disposto%20no%20art.%205%C2%B0%20poder%C3%A1%20receber%20autoriza%C3%A7%C3%A3o%20da%20ANP%20para%20exercer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. A Petróleo Brasileiro S.A. - PETROBRÁS é uma sociedade de economia mista vinculada ao Ministério de Minas e Energia, que tem como objeto a pesquisa, a lavra, a refinação, o processamento, o comércio e o transporte de petróleo proveniente de poço, de xisto ou de outras rochas, de seus derivados, de gás natural e de outros hidrocarbonetos fluidos, bem como quaisquer outras atividades correlatas ou afins, conforme definidas em lei.\n\n§ 1º As atividades econômicas referidas neste artigo serão desenvolvidas pela PETROBRÁS em caráter de livre competição com outras empresas, em função das condições de mercado, observados o período de transição previsto no Capítulo X e os demais princípios e diretrizes desta Lei.\n\n§ 2° A PETROBRÁS, diretamente ou por intermédio de suas subsidiárias, associada ou não a terceiros, poderá exercer, fora do território nacional, qualquer uma das atividades integrantes de seu objeto social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2061.%20A%20Petr%C3%B3leo%20Brasileiro%20S.A.%20-%20PETROBR%C3%81S%20%C3%A9%20uma%20sociedade%20de%20economia%20mista%20vinculada%20ao%20Minist%C3%A9rio%20de%20Minas%20e%20Energia%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "61-A"
+    },
+    "61-A": {
+      "numero": "61-A",
+      "texto": "Art. 61-A. Fica a Petrobras autorizada a incluir no seu objeto social as atividades vinculadas à energia, bem como as atividades relacionadas à movimentação e à estocagem de dióxido de carbono, à transição energética e à economia de baixo carbono. (Incluído pela Lei nº 14.993, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2061-A.%20Fica%20a%20Petrobras%20autorizada%20a%20incluir%20no%20seu%20objeto%20social%20as%20atividades%20vinculadas%20%C3%A0%20energia%2C%20bem%20como%20as%20atividades%20relacionadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. A União manterá o controle acionário da PETROBRÁS com a propriedade e posse de, no mínimo, cinqüenta por cento das ações, mais uma ação, do capital votante.\n\nParágrafo único. O capital social da PETROBRÁS é dividido em ações ordinárias, com direito de voto, e ações preferenciais, estas sempre sem direito de voto, todas escriturais, na forma do art. 34 da Lei n° 6.404, de 15 de dezembro de 1976.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2062.%20A%20Uni%C3%A3o%20manter%C3%A1%20o%20controle%20acion%C3%A1rio%20da%20PETROBR%C3%81S%20com%20a%20propriedade%20e%20posse%20de%2C%20no%20m%C3%ADnimo%2C%20cinq%C3%BCenta%20por%20cento%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61-A",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. A PETROBRÁS e suas subsidiárias ficam autorizadas a formar consórcios com empresas nacionais ou estrangeiras, na condição ou não de empresa líder, objetivando expandir atividades, reunir tecnologias e ampliar investimentos aplicados à indústria do petróleo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2063.%20A%20PETROBR%C3%81S%20e%20suas%20subsidi%C3%A1rias%20ficam%20autorizadas%20a%20formar%20cons%C3%B3rcios%20com%20empresas%20nacionais%20ou%20estrangeiras%2C%20na%20condi%C3%A7%C3%A3o%20ou%20n%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Para o estrito cumprimento de atividades de seu objeto social que integrem a indústria do petróleo, fica a PETROBRÁS autorizada a constituir subsidiárias, as quais poderão associar-se, majoritária ou minoritariamente, a outras empresas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2064.%20Para%20o%20estrito%20cumprimento%20de%20atividades%20de%20seu%20objeto%20social%20que%20integrem%20a%20ind%C3%BAstria%20do%20petr%C3%B3leo%2C%20fica%20a%20PETROBR%C3%81S%20autorizada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. A PETROBRÁS deverá constituir uma subsidiária com atribuições específicas de operar e construir seus dutos, terminais marítimos e embarcações para transporte de petróleo, seus derivados e gás natural, ficando facultado a essa subsidiária associar-se, majoritária ou minoritariamente, a outras empresas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2065.%20A%20PETROBR%C3%81S%20dever%C3%A1%20constituir%20uma%20subsidi%C3%A1ria%20com%20atribui%C3%A7%C3%B5es%20espec%C3%ADficas%20de%20operar%20e%20construir%20seus%20dutos%2C%20terminais%20mar%C3%ADtimos%20e%20embarca%C3%A7%C3%B5es%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. A PETROBRÁS poderá transferir para seus ativos os títulos e valores recebidos por qualquer subsidiária, em decorrência do Programa Nacional de Desestatização, mediante apropriada redução de sua participação no capital social da subsidiária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2066.%20A%20PETROBR%C3%81S%20poder%C3%A1%20transferir%20para%20seus%20ativos%20os%20t%C3%ADtulos%20e%20valores%20recebidos%20por%20qualquer%20subsidi%C3%A1ria%2C%20em%20decorr%C3%AAncia%20do%20Programa%20Nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Os contratos celebrados pela PETROBRÁS, para aquisição de bens e serviços, serão precedidos de procedimento licitatório simplificado, a ser definido em decreto do Presidente da República. (Vide Decreto nº 2.745, de 1998) (Revogado pela Lei nº 13.303, de 2016)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2067.%20Os%20contratos%20celebrados%20pela%20PETROBR%C3%81S%2C%20para%20aquisi%C3%A7%C3%A3o%20de%20bens%20e%20servi%C3%A7os%2C%20ser%C3%A3o%20precedidos%20de%20procedimento%20licitat%C3%B3rio%20simplificado%2C%20a%20ser%20definido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Com o objetivo de compor suas propostas para participar das licitações que precedem as concessões de que trata esta Lei, a PETROBRÁS poderá assinar pré-contratos, mediante a expedição de cartas-convites, assegurando preços e compromissos de fornecimento de bens e serviços. (Revogado pela Lei nº 13.303, de 2016)\n\nParágrafo único. Os pré-contratos conterão cláusula resolutiva de pleno direito, a ser exercida, sem penalidade ou indenização, no caso de outro licitante ser declarado vencedor, e serão submetidos, a posteriori, à apreciação dos órgãos de controle externo e fiscalização. (Revogado pela Lei nº 13.303, de 2016)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068.%20Com%20o%20objetivo%20de%20compor%20suas%20propostas%20para%20participar%20das%20licita%C3%A7%C3%B5es%20que%20precedem%20as%20concess%C3%B5es%20de%20que%20trata%20esta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "68-A"
+    },
+    "68-A": {
+      "numero": "68-A",
+      "texto": "Art. 68-A. Qualquer empresa ou consórcio de empresas constituídas sob as leis brasileiras com sede e administração no País poderá obter autorização da ANP para exercer as atividades econômicas da indústria de biocombustíveis. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 1o As autorizações de que trata o caput destinam-se a permitir a exploração das atividades econômicas em regime de livre iniciativa e ampla competição, nos termos da legislação específica. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 2o A autorização de que trata o caput deverá considerar a comprovação, pelo interessado, quando couber, das condições previstas em lei específica, além das seguintes, conforme regulamento: (Incluído pela Lei nº 12.490, de 2011)\n\nI - estar constituído sob as leis brasileiras, com sede e administração no País; (Incluído pela Lei nº 12.490, de 2011)\n\nII - estar regular perante as fazendas federal, estadual e municipal, bem como demonstrar a regularidade de débitos perante a ANP; (Incluído pela Lei nº 12.490, de 2011) (Revogado pela Lei nº 14.292, de 2022)\n\nIII - apresentar projeto básico da instalação, em conformidade às normas e aos padrões técnicos aplicáveis à atividade; (Incluído pela Lei nº 12.490, de 2011)\n\nIV - apresentar licença ambiental, ou outro documento que a substitua, expedida pelo órgão competente; (Incluído pela Lei nº 12.490, de 2011)\n\nV - apresentar projeto de controle de segurança das instalações aprovado pelo órgão competente; (Incluído pela Lei nº 12.490, de 2011)\n\nVI - deter capital social integralizado ou apresentar outras fontes de financiamento suficientes para o empreendimento. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 3o A autorização somente poderá ser revogada por solicitação do próprio interessado ou por ocasião do cometimento de infrações passíveis de punição com essa penalidade, conforme previsto em lei. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 4o A autorização será concedida pela ANP em prazo a ser estabelecido na forma do regulamento. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 5o A autorização não poderá ser concedida se o interessado, nos 5 (cinco) anos anteriores ao requerimento, teve autorização para o exercício de atividade regulamentada pela ANP revogada em decorrência de penalidade aplicada em processo administrativo com decisão definitiva. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 6o Não são sujeitas à regulação e à autorização pela ANP a produção agrícola, a fabricação de produtos agropecuários e alimentícios e a geração de energia elétrica, quando vinculadas ao estabelecimento no qual se construirá, modificará ou ampliará a unidade de produção de biocombustível. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 7o A unidade produtora de biocombustível que produzir ou comercializar energia elétrica deverá atender às normas e aos regulamentos estabelecidos pelos órgãos e entidades competentes. (Incluído pela Lei nº 12.490, de 2011)\n\n§ 8o São condicionadas à prévia aprovação da ANP a modificação ou a ampliação de instalação relativas ao exercício das atividades econômicas da indústria de biocombustíveis. (Incluído pela Lei nº 12.490, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-A.%20Qualquer%20empresa%20ou%20cons%C3%B3rcio%20de%20empresas%20constitu%C3%ADdas%20sob%20as%20leis%20brasileiras%20com%20sede%20e%20administra%C3%A7%C3%A3o%20no%20Pa%C3%ADs%20poder%C3%A1%20obter%20autoriza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-A (Incluído pela Lei nº 12.490, de 2011)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "68-B"
+    },
+    "68-B": {
+      "numero": "68-B",
+      "texto": "Art. 68-B. Sem prejuízo das demais hipóteses previstas na regulação, o agente produtor ou importador de etanol hidratado combustível fica autorizado a comercializá-lo com: (Incluído pela Medida Provisória nº 1.063, de 2021) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-B.%20Sem%20preju%C3%ADzo%20das%20demais%20hip%C3%B3teses%20previstas%20na%20regula%C3%A7%C3%A3o%2C%20o%20agente%20produtor%20ou%20importador%20de%20etanol%20hidratado%20combust%C3%ADvel%20fica%20autorizado%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68-A",
+      "next": "68-C"
+    },
+    "68-C": {
+      "numero": "68-C",
+      "texto": "Art. 68-C. Sem prejuízo das demais hipóteses previstas na regulação, o agente revendedor fica autorizado a adquirir e a comercializar etanol hidratado combustível do: (Incluído pela Medida Provisória nº 1.063, de 2021) (Produção de efeitos)\n\nI - agente produtor ou importador; (Incluído pela Medida Provisória nº 1.063, de 2021) (Produção de efeitos)\n\nI - agente produtor, cooperativa de produção ou comercialização de etanol, empresa comercializadora de etanol ou importador; (Redação dada pela Medida Provisória nº 1.069, de 2021)\n\nII - agente distribuidor; e (Incluído pela Medida Provisória nº 1.063, de 2021) (Produção de efeitos)\n\nIII - transportador-revendedor-retalhista. (Incluído pela Medida Provisória nº 1.063, de 2021) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-C.%20Sem%20preju%C3%ADzo%20das%20demais%20hip%C3%B3teses%20previstas%20na%20regula%C3%A7%C3%A3o%2C%20o%20agente%20revendedor%20fica%20autorizado%20a%20adquirir%20e%20a%20comercializar%20etanol%20hidratado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68-B",
+      "next": "68-D"
+    },
+    "68-D": {
+      "numero": "68-D",
+      "texto": "Art. 68-D. O revendedor varejista que optar por exibir a marca comercial de distribuidor de combustíveis líquidos poderá comercializar combustíveis de outros fornecedores, na forma da regulação aplicável, e desde que devidamente informado ao consumidor. (Incluído pela Medida Provisória nº 1.063, de 2021) Regulamento\n\nParágrafo único. O disposto no caput não prejudicará cláusulas contratuais em sentido contrário, inclusive dos contratos vigentes na data de publicação da Medida Provisória nº 1.063, de 11 de agosto de 2021. (Incluído pela Medida Provisória nº 1.063, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-D.%20O%20revendedor%20varejista%20que%20optar%20por%20exibir%20a%20marca%20comercial%20de%20distribuidor%20de%20combust%C3%ADveis%20l%C3%ADquidos%20poder%C3%A1%20comercializar%20combust%C3%ADveis%20de%20outros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68-C",
+      "next": "68-E"
+    },
+    "68-E": {
+      "numero": "68-E",
+      "texto": "Art. 68-E. Sem prejuízo das demais hipóteses previstas na regulação, o agente produtor, a empresa comercializadora e o importador de etanol hidratado combustível ficam autorizados a comercializá-lo com: (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nI - agente distribuidor; (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nII - revendedor varejista de combustíveis; (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nIII - transportador-revendedor-retalhista; e (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nIV - mercado externo. (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nParágrafo único. Para fins do disposto neste artigo, a cooperativa de produção de etanol hidratado combustível equipara-se a agente produtor. (Incluído pela Medida Provisória nº 1.100, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-E.%20Sem%20preju%C3%ADzo%20das%20demais%20hip%C3%B3teses%20previstas%20na%20regula%C3%A7%C3%A3o%2C%20o%20agente%20produtor%2C%20a%20empresa%20comercializadora%20e%20o%20importador%20de%20etanol%20hidratado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68-D",
+      "next": "68-F"
+    },
+    "68-F": {
+      "numero": "68-F",
+      "texto": "Art. 68-F. Sem prejuízo das demais hipóteses previstas na regulação, o agente revendedor fica autorizado a adquirir e a comercializar etanol hidratado combustível: (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nI - do agente produtor, da empresa comercializadora ou do importador; (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nII - do agente distribuidor; e (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nIII - do transportador-revendedor-retalhista. (Incluído pela Medida Provisória nº 1.100, de 2022)\n\nParágrafo único. Para fins do disposto neste artigo, a cooperativa de produção de etanol hidratado combustível equipara-se a agente produtor. (Incluído pela Medida Provisória nº 1.100, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-F.%20Sem%20preju%C3%ADzo%20das%20demais%20hip%C3%B3teses%20previstas%20na%20regula%C3%A7%C3%A3o%2C%20o%20agente%20revendedor%20fica%20autorizado%20a%20adquirir%20e%20a%20comercializar%20etanol%20hidratado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68-E",
+      "next": "68-G"
+    },
+    "68-G": {
+      "numero": "68-G",
+      "texto": "Art. 68-G. No regime de contrato de fornecimento de biodiesel ou de transação por mercado a vista, o distribuidor de combustíveis deverá comprovar, por meio de balanço, mensalmente, o estoque próprio e em terceiros, as aquisições e as retiradas de biodiesel compatíveis com o volume de diesel B comercializado, nos termos do regulamento. (Incluído pela Lei nº 15.082, de 2024)\n\nParágrafo único. Enquanto não comprovados o estoque próprio e em terceiros, as aquisições e as retiradas de biodiesel compatíveis com o volume de diesel B comercializado, o produtor, o importador, o distribuidor, o formulador, a cooperativa de produtores, a empresa de comercialização e os demais fornecedores de combustíveis ficam vedados de comercializar diesel A, diesel B e diesel C com o distribuidor inadimplente. (Incluído pela Lei nº 15.082, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2068-G.%20No%20regime%20de%20contrato%20de%20fornecimento%20de%20biodiesel%20ou%20de%20transa%C3%A7%C3%A3o%20por%20mercado%20a%20vista%2C%20o%20distribuidor%20de%20combust%C3%ADveis%20dever%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68-F",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Durante um período de transição de, no máximo, trinta e seis meses, contados a partir da publicação desta Lei, os reajustes e revisões dos preços dos derivados básicos de petróleo e do gás natural, praticados pelas refinarias e pelas unidades de processamento, serão efetuados segundo diretrizes e parâmetros específicos estabelecidos, em ato conjunto, pelos Ministros de Estado da Fazenda e de Minas e Energia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2069.%20Durante%20um%20per%C3%ADodo%20de%20transi%C3%A7%C3%A3o%20de%2C%20no%20m%C3%A1ximo%2C%20trinta%20e%20seis%20meses%2C%20contados%20a%20partir%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "68-G",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Durante o período de transição de que trata o artigo anterior, a ANP estabelecerá critérios para as importações de petróleo, de seus derivados básicos e de gás natural, os quais serão compatíveis com os critérios de desregulamentação de preços, previstos no mesmo dispositivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2070.%20Durante%20o%20per%C3%ADodo%20de%20transi%C3%A7%C3%A3o%20de%20que%20trata%20o%20artigo%20anterior%2C%20a%20ANP%20estabelecer%C3%A1%20crit%C3%A9rios%20para%20as%20importa%C3%A7%C3%B5es%20de%20petr%C3%B3leo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Os derivados de petróleo e de gás natural que constituam insumos para a indústria petroquímica terão o tratamento previsto nos arts. 69 e 70, objetivando a competitividade do setor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2071.%20Os%20derivados%20de%20petr%C3%B3leo%20e%20de%20g%C3%A1s%20natural%20que%20constituam%20insumos%20para%20a%20ind%C3%BAstria%20petroqu%C3%ADmica%20ter%C3%A3o%20o%20tratamento%20previsto%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Durante o prazo de cinco anos, contados a partir da data de publicação desta Lei, a União assegurará, por intermédio da ANP, às refinarias em funcionamento no país, excluídas do monopólio da União, nos termos do art. 45 do Ato das Disposições Constitucionais Transitórias, condições operacionais e econômicas, com base nos critérios em vigor, aplicados à atividade de refino.\n\nParágrafo único. No prazo previsto neste artigo, observar-se-á o seguinte:\n\nI - (VETADO)\n\nII - as refinarias se obrigam a submeter à ANP plano de investimentos na modernização tecnológica e na expansão da produtividade de seus respectivos parques de refino, com vistas ao aumento da produção e à conseqüente redução dos subsídios a elas concedidos;\n\nIII - a ANP avaliará, periodicamente, o grau de competitividade das refinarias, a realização dos respectivos planos de investimentos e a conseqüente redução dos subsídios relativos a cada uma delas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2072.%20Durante%20o%20prazo%20de%20cinco%20anos%2C%20contados%20a%20partir%20da%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20a%20Uni%C3%A3o%20assegurar%C3%A1%2C%20por%20interm%C3%A9dio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Até que se esgote o período de transição estabelecido no art. 69, os preços dos derivados básicos praticados pela PETROBRÁS poderão considerar os encargos resultantes de subsídios incidentes sobre as atividades por ela desenvolvidas.\n\nParágrafo único. À exceção das condições e do prazo estabelecidos no artigo anterior, qualquer subsídio incidente sobre os preços dos derivados básicos, transcorrido o período previsto no art. 69, deverá ser proposto pelo CNPE e submetido à aprovação do Congresso Nacional, nos termos do inciso II do art. 2°.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2073.%20At%C3%A9%20que%20se%20esgote%20o%20per%C3%ADodo%20de%20transi%C3%A7%C3%A3o%20estabelecido%20no%20art.%2069%2C%20os%20pre%C3%A7os%20dos%20derivados%20b%C3%A1sicos%20praticados%20pela%20PETROBR%C3%81S",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. A Secretaria do Tesouro Nacional procederá ao levantamento completo de todos os créditos e débitos recíprocos da União e da PETROBRÁS, abrangendo as diversas contas de obrigações recíprocas e subsídios, inclusive os relativos à denominada Conta Petróleo, Derivados e Álcool, instituída pela Lei nº 4.452, de 5 de novembro de 1964, e legislação complementar, ressarcindo-se o Tesouro dos dividendos mínimos legais que tiverem sido pagos a menos desde a promulgação da Lei nº 6.404, de 15 de dezembro de 1976. (Vide Lei nº 10.742, de 6.10.2003)\n\nParágrafo único. Até que se esgote o período de transição, o saldo credor desse encontro de contas deverá ser liquidado pela parte devedora, ficando facultado à União, caso seja a devedora, liquidá-lo em títulos do Tesouro Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2074.%20A%20Secretaria%20do%20Tesouro%20Nacional%20proceder%C3%A1%20ao%20levantamento%20completo%20de%20todos%20os%20cr%C3%A9ditos%20e%20d%C3%A9bitos%20rec%C3%ADprocos%20da%20Uni%C3%A3o%20e%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Na composição da primeira Diretoria da ANP, visando implementar a transição para o sistema de mandatos não coincidentes, o Diretor-Geral e dois Diretores serão nomeados pelo Presidente da República, por indicação do Ministro de Estado de Minas e Energia, respectivamente com mandatos de três, dois e um ano, e dois Diretores serão nomeados conforme o disposto nos §§ 2º e 3° do art. 11.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2075.%20Na%20composi%C3%A7%C3%A3o%20da%20primeira%20Diretoria%20da%20ANP%2C%20visando%20implementar%20a%20transi%C3%A7%C3%A3o%20para%20o%20sistema%20de%20mandatos%20n%C3%A3o%20coincidentes%2C%20o%20Diretor-Geral",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. A ANP poderá contratar especialistas para a execução de trabalhos nas áreas técnica, econômica e jurídica, por projetos ou prazos limitados, com dispensa de licitação nos casos previstos na legislação aplicável.\n\nParágrafo único. Fica a ANP autorizada a efetuar a contratação temporária, por prazo não excedente a trinta e seis meses, nos termos do art. 37 da Constituição Federal, do pessoal técnico imprescindível à implantação de suas atividades. (Revogado pela Lei 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2076.%20A%20ANP%20poder%C3%A1%20contratar%20especialistas%20para%20a%20execu%C3%A7%C3%A3o%20de%20trabalhos%20nas%20%C3%A1reas%20t%C3%A9cnica%2C%20econ%C3%B4mica%20e%20jur%C3%ADdica%2C%20por%20projetos%20ou%20prazos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. O Poder Executivo promoverá a instalação do CNPE e implantará a ANP, mediante a aprovação de sua estrutura regimental, em até cento e vinte dias, contados a partir da data de publicação desta Lei.\n\n§ 1º A estrutura regimental da ANP incluirá os cargos em comissão e funções gratificadas existentes no DNC.\n\n§ 2º (VETADO)\n\n§ 3º Enquanto não implantada a ANP, as competências a ela atribuídas por esta Lei serão exercidas pelo Ministro de Estado de Minas e Energia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2077.%20O%20Poder%20Executivo%20promover%C3%A1%20a%20instala%C3%A7%C3%A3o%20do%20CNPE%20e%20implantar%C3%A1%20a%20ANP%2C%20mediante%20a%20aprova%C3%A7%C3%A3o%20de%20sua%20estrutura%20regimental%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Implantada a ANP, ficará extinto o DNC.\n\nParágrafo único. Serão transferidos para a ANP o acervo técnico-patrimonial, as obrigações, os direitos e as receitas do DNC.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2078.%20Implantada%20a%20ANP%2C%20ficar%C3%A1%20extinto%20o%20DNC.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. Fica o Poder Executivo autorizado a remanejar, transferir ou utilizar os saldos orçamentários do Ministério de Minas e Energia, para atender às despesas de estruturação e manutenção da ANP, utilizando como recursos as dotações orçamentárias destinadas às atividades finalísticas e administrativas, observados os mesmos subprojetos, subatividades e grupos de despesa previstos na Lei Orçamentária em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2079.%20Fica%20o%20Poder%20Executivo%20autorizado%20a%20remanejar%2C%20transferir%20ou%20utilizar%20os%20saldos%20or%C3%A7ament%C3%A1rios%20do%20Minist%C3%A9rio%20de%20Minas%20e%20Energia%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. As disposições desta Lei não afetam direitos anteriores de terceiros, adquiridos mediante contratos celebrados com a PETROBRÁS, em conformidade com as leis em vigor, e não invalidam os atos praticados pela PETROBRÁS e suas subsidiárias, de acordo com seus estatutos, os quais serão ajustados, no que couber, a esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2080.%20As%20disposi%C3%A7%C3%B5es%20desta%20Lei%20n%C3%A3o%20afetam%20direitos%20anteriores%20de%20terceiros%2C%20adquiridos%20mediante%20contratos%20celebrados%20com%20a%20PETROBR%C3%81S%2C%20em%20conformidade%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Não se incluem nas regras desta Lei os equipamentos e instalações destinados a execução de serviços locais de distribuição de gás canalizado, a que se refere o § 2º do art. 25 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2081.%20N%C3%A3o%20se%20incluem%20nas%20regras%20desta%20Lei%20os%20equipamentos%20e%20instala%C3%A7%C3%B5es%20destinados%20a%20execu%C3%A7%C3%A3o%20de%20servi%C3%A7os%20locais%20de%20distribui%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "80",
+      "next": "81-A"
+    },
+    "81-A": {
+      "numero": "81-A",
+      "texto": "Art. 81-A. As regras de distribuição estabelecidas nos arts. 48, 49, e no § 2o do art. 50 desta Lei aplicam-se apenas aos contratos de concessão celebrados até 2 de dezembro de 2012, observado o disposto no art. 50-A. (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2081-A.%20As%20regras%20de%20distribui%C3%A7%C3%A3o%20estabelecidas%20nos%20arts.%2048%2C%2049%2C%20e%20no%20%C2%A7%202o%20do%20art.%2050%20desta%20Lei%20aplicam-se%20apenas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "81",
+      "next": "81-B"
+    },
+    "81-B": {
+      "numero": "81-B",
+      "texto": "Art. 81-B. As contratadas para exploração e produção de petróleo e gás natural poderão aplicar recursos para promover a atividade de desmonte ou de destruição como sucata dos veículos pesados em fim de vida útil. (Incluído pela Medida Provisória nº 1.112, de 2022)\n\n§ 1º Os recursos aplicados na forma do caput serão considerados no cálculo de adimplemento de obrigações contratuais de pesquisa, de desenvolvimento e de inovação referentes a: (Incluído pela Medida Provisória nº 1.112, de 2022)\n\nI - obrigações relativas aos anos de 2022 a 2027; e (Incluído pela Medida Provisória nº 1.112, de 2022)\n\nII - obrigações ainda não adimplidas relativas a períodos anteriores ao ano de 2022. (Incluído pela Medida Provisória nº 1.112, de 2022)\n\n§ 2º Ato do Poder Executivo federal disciplinará a utilização dos recursos destinados a pesquisa, desenvolvimento e inovação de que trata o caput. (Incluído pela Medida Provisória nº 1.112, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2081-B.%20As%20contratadas%20para%20explora%C3%A7%C3%A3o%20e%20produ%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20e%20g%C3%A1s%20natural%20poder%C3%A3o%20aplicar%20recursos%20para%20promover%20a%20atividade%20de%20desmonte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "81-A",
+      "next": "81-C"
+    },
+    "81-C": {
+      "numero": "81-C",
+      "texto": "Art. 81-C. As empresas contratadas pela União para exploração e produção de petróleo e gás natural poderão aplicar recursos em ações do Programa Nacional de Acesso ao Cozimento Limpo de que trata o art. 7º-B da Lei nº 14.237, de 19 de novembro de 2021, direcionadas ao fornecimento ou substituição de equipamentos de cocção, à implantação de tecnologias de baixa emissão e ao desenvolvimento de soluções nacionais eficientes e seguras. (Incluído pela Lei nº 15.348, de 2026)\n\n§ 1º Os recursos aplicados na forma do caput deste artigo serão considerados no cálculo de adimplemento de obrigações contratuais de pesquisa, desenvolvimento e inovação. (Incluído pela Lei nº 15.348, de 2026)\n\n§ 2º Regulamento disciplinará a utilização dos recursos destinados a pesquisa, desenvolvimento e inovação de que trata o caput deste artigo, podendo estabelecer percentuais mínimos de aplicação, prioridades regionais e mecanismos de monitoramento e verificação de resultados, e determinará o percentual máximo do valor total das obrigações contratuais de pesquisa, desenvolvimento e inovação a ser destinado ao Programa Nacional de Acesso ao Cozimento Limpo. (Incluído pela Lei nº 15.348, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2081-C.%20As%20empresas%20contratadas%20pela%20Uni%C3%A3o%20para%20explora%C3%A7%C3%A3o%20e%20produ%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20e%20g%C3%A1s%20natural%20poder%C3%A3o%20aplicar%20recursos%20em%20a%C3%A7%C3%B5es%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "81-B",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2082.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "81-C",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Revogam-se as disposições em contrário, inclusive a Lei nº 2.004, de 3 de outubro de 1953.\n\nBrasília, 6 de agosto de 1997; 176º da Independência e 109º da República.\n\nFERNANDO HENRIQUE CARDOSO Iris Rezende Raimundo Brito Luiz Carlos Bresser Pereira\n\nEste texto não substitui o publicado no DOU de 7.8.1997\n\nANEXO I\n\n(Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)\n\nDISTRIBUIÇÃO DA PARCELA DO VALOR DO ROYALTY QUE REPRESENTAR 5% DA PRODUÇÃO, PREVISTO NOS CONTRATOS FIRMADOS A PARTIR DE 03/12/2012\n\n(INCISO II DO CAPUT DO ART. 48-A)\n\nAno 2013\n\n(em %)\n\nAno 2014\n\n(em %)\n\nAno\n\n2015\n\n(em %)\n\nAno 2016\n\n(em %)\n\nAno\n\n2017\n\n(em %)\n\nAno\n\n2018\n\n(em %)\n\nAno 2019\n\n(em %)\n\nA partir do ano de 2020\n\n(em %)\n\nEstados produtores confrontantes\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\nMunicípios produtores confrontantes\n\n15\n\n13\n\n11\n\n9\n\n7\n\n5\n\n4\n\n4\n\nMunicípios afetados pelas operações de embarque e desembarque de petróleo, gás natural e outros hidrocarbonetos fluidos, na forma e critério estabelecidos pela ANP\n\n3\n\n3\n\n3\n\n3\n\n2\n\n2\n\n2\n\n2\n\nFundo Especial, a ser distribuído entre Estados e o Distrito Federal de acordo com as regras do rateio do FPE de que trata o art. 159 da Constituição\n\n21\n\n22\n\n23\n\n24\n\n25,5\n\n26,5\n\n27\n\n27\n\nFundo Especial, a ser distribuído entre os municípios de acordo com as regras do rateio do FPM de que trata o art. 159 da Constituição\n\n21\n\n22\n\n23\n\n24\n\n25,5\n\n26,5\n\n27\n\n27\n\nUnião\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\nTotal\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\nANEXO II\n\n(Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)\n\nDISTRIBUIÇÃO DA PARCELA DO VALOR DO ROYALTY QUE EXCEDER 5% DA PRODUÇÃO, PREVISTO NOS CONTRATOS FIRMADOS A PARTIR DE 03/12/2012\n\n(INCISO II DO CAPUT DO ART. 49-A)\n\nAno 2013\n\n(em %)\n\nAno 2014\n\n(em %)\n\nAno\n\n2015\n\n(em %)\n\nAno 2016\n\n(em %)\n\nAno\n\n2017\n\n(em %)\n\nAno\n\n2018\n\n(em %)\n\nAno\n\n2019\n\n(em %)\n\nA partir do ano de 2020\n\n(em %)\n\nEstados produtores confrontantes\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\nMunicípios produtores confrontantes\n\n15\n\n13\n\n11\n\n9\n\n7\n\n5\n\n4\n\n4\n\nMunicípios afetados pelas operações de embarque e desembarque de petróleo, gás natural e outros hidrocarbonetos fluidos, na forma e critério estabelecidos pela ANP\n\n3\n\n3\n\n3\n\n3\n\n2\n\n2\n\n2\n\n2\n\nFundo Especial, a ser distribuído entre Estados e o Distrito Federal de acordo com as regras do rateio do FPE de que trata o art. 159 da Constituição\n\n21\n\n22\n\n23\n\n24\n\n25,5\n\n26,5\n\n27\n\n27\n\nFundo Especial, a ser distribuído entre os municípios de acordo com as regras do rateio do FPM de que trata o art. 159 da Constituição\n\n21\n\n22\n\n23\n\n24\n\n25,5\n\n26,5\n\n27\n\n27\n\nUnião\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\n20\n\nTotal\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\nANEXO III\n\n(Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)\n\nDISTRIBUIÇÃO DE RECURSOS DA PARTICIPAÇÃO ESPECIAL,\n\nQUANTO A CONTRATOS FIRMADOS A PARTIR DE 03/12/2012\n\n(ART. 50, § 5o)\n\nAno 2013\n\n(em %)\n\nAno 2014\n\n(em %)\n\nAno\n\n2015\n\n(em %)\n\nAno 2016\n\n(em %)\n\nAno\n\n2017\n\n(em %)\n\nAno\n\n2018\n\n(em %)\n\nAno 2019 (em %)\n\nA partir do ano de 2020\n\n(em %)\n\nEstados produtores confrontantes\n\n32\n\n29\n\n26\n\n24\n\n22\n\n20\n\n20\n\n20\n\nMunicípios produtores confrontantes\n\n5\n\n5\n\n5\n\n5\n\n5\n\n5\n\n4\n\n4\n\nFundo Especial, a ser distribuído entre Estados e o Distrito Federal de acordo com as regras do rateio do FPE de que trata o art. 159 da Constituição\n\n10\n\n11\n\n12\n\n12,5\n\n13,5\n\n14,5\n\n15\n\n15\n\nFundo Especial, a ser distribuído entre os municípios de acordo com as regras do rateio do FPM de que trata o art. 159 da Constituição\n\n10\n\n11\n\n12\n\n12,5\n\n13,5\n\n14,5\n\n15\n\n15\n\nUnião\n\n43\n\n44\n\n45\n\n46\n\n46\n\n46\n\n46\n\n46\n\nTotal\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n100\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm#:~:text=Art.%2083.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20inclusive%20a%20Lei%20n%C2%BA%202.004%2C%20de%203%20de%20outubro%20de%201953.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "82",
+      "next": null
+    }
+  }
+}

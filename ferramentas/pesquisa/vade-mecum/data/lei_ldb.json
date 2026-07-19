@@ -1,0 +1,1951 @@
+{
+  "_meta": {
+    "codigo": "LDB",
+    "nome": "LDB — Lei de Diretrizes e Bases da Educação",
+    "lei": "Lei 9.394/1996",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm",
+    "total_artigos": 121,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º A educação abrange os processos formativos que se desenvolvem na vida familiar, na convivência humana, no trabalho, nas instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.\n\n§ 1º Esta Lei disciplina a educação escolar, que se desenvolve, predominantemente, por meio do ensino, em instituições próprias.\n\n§ 2º A educação escolar deverá vincular-se ao mundo do trabalho e à prática social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%201%C2%BA%20A%20educa%C3%A7%C3%A3o%20abrange%20os%20processos%20formativos%20que%20se%20desenvolvem%20na%20vida%20familiar%2C%20na%20conviv%C3%AAncia%20humana%2C%20no%20trabalho%2C%20nas%20institui%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A educação, dever da família e do Estado, inspirada nos princípios de liberdade e nos ideais de solidariedade humana, tem por finalidade o pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%202%C2%BA%20A%20educa%C3%A7%C3%A3o%2C%20dever%20da%20fam%C3%ADlia%20e%20do%20Estado%2C%20inspirada%20nos%20princ%C3%ADpios%20de%20liberdade%20e%20nos%20ideais%20de%20solidariedade%20humana%2C%20tem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O ensino será ministrado com base nos seguintes princípios:\n\nI - igualdade de condições para o acesso e permanência na escola;\n\nII - liberdade de aprender, ensinar, pesquisar e divulgar a cultura, o pensamento, a arte e o saber;\n\nIII - pluralismo de idéias e de concepções pedagógicas;\n\nIV - respeito à liberdade e apreço à tolerância;\n\nV - coexistência de instituições públicas e privadas de ensino;\n\nVI - gratuidade do ensino público em estabelecimentos oficiais;\n\nVII - valorização do profissional da educação escolar;\n\nVIII – gestão democrática do ensino público, na forma desta Lei e da legislação dos respectivos Estados e Municípios e do Distrito Federal; (Redação dada pela Lei nº 14.644, de 2023)\n\nIX - garantia de padrão de qualidade; (Vide Decreto nº 11.713, de 2023)\n\nX - valorização da experiência extra-escolar;\n\nXI - vinculação entre a educação escolar, o trabalho e as práticas sociais.\n\nXII - consideração com a diversidade étnico-racial. (Incluído pela Lei nº 12.796, de 2013)\n\nXIII - garantia do direito à educação e à aprendizagem ao longo da vida. (Incluído pela Lei nº 13.632, de 2018)\n\nXIV - respeito à diversidade humana, linguística, cultural e identitária das pessoas surdas, surdo-cegas e com deficiência auditiva. (Incluído pela Lei nº 14.191, de 2021)\n\nXV – garantia do direito de acesso a informações públicas sobre a gestão da educação. (Incluído pela Lei nº 15.001, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%203%C2%BA%20O%20ensino%20ser%C3%A1%20ministrado%20com%20base%20nos%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O dever do Estado com educação escolar pública será efetivado mediante a garantia de:\n\nI - educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, organizada da seguinte forma: (Redação dada pela Lei nº 12.796, de 2013)\n\na) pré-escola; (Incluído pela Lei nº 12.796, de 2013)\n\nb) ensino fundamental; (Incluído pela Lei nº 12.796, de 2013)\n\nc) ensino médio; (Incluído pela Lei nº 12.796, de 2013)\n\nII - educação infantil gratuita às crianças de até 5 (cinco) anos de idade; (Redação dada pela Lei nº 12.796, de 2013)\n\nIII - atendimento educacional especializado gratuito aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, transversal a todos os níveis, etapas e modalidades, preferencialmente na rede regular de ensino; (Redação dada pela Lei nº 12.796, de 2013)\n\nIV - acesso público e gratuito aos ensinos fundamental e médio para todos os que não os concluíram na idade própria; (Redação dada pela Lei nº 12.796, de 2013)\n\nV - acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um;\n\nVI - oferta de ensino noturno regular, adequado às condições do educando;\n\nVII - oferta de educação escolar regular para jovens e adultos, com características e modalidades adequadas às suas necessidades e disponibilidades, garantindo-se aos que forem trabalhadores as condições de acesso e permanência na escola;\n\nVIII - atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde; (Redação dada pela Lei nº 12.796, de 2013)\n\nIX – padrões mínimos de qualidade do ensino, definidos como a variedade e a quantidade mínimas, por aluno, de insumos indispensáveis ao desenvolvimento do processo de ensino-aprendizagem adequados à idade e às necessidades específicas de cada estudante, inclusive mediante a provisão de mobiliário, equipamentos e materiais pedagógicos apropriados; (Redação dada pela Lei nº 14.333, de 2022)\n\nX – vaga na escola pública de educação infantil ou de ensino fundamental mais próxima de sua residência a toda criança a partir do dia em que completar 4 (quatro) anos de idade. (Incluído pela Lei nº 11.700, de 2008).\n\nXI – alfabetização plena e capacitação gradual para a leitura ao longo da educação básica como requisitos indispensáveis para a efetivação dos direitos e objetivos de aprendizagem e para o desenvolvimento dos indivíduos. (Incluído pela Lei nº 14.407, de 2022)\n\nXII - educação digital, com a garantia de conectividade de todas as instituições públicas de educação básica e superior à internet em alta velocidade, adequada para o uso pedagógico, com o desenvolvimento de competências voltadas ao letramento digital de jovens e adultos, criação de conteúdos digitais, comunicação e colaboração, segurança e resolução de problemas. (Incluído pela Lei nº 14.533, de 2023) (Vide Decreto nº 11.713, de 2023)\n\nXIII - água potável e infraestrutura física e sanitária adequadas no ambiente escolar. (Incluído pela Lei nº 15.276, de 2025)\n\nParágrafo único. Para efeitos do disposto no inciso XII do caput deste artigo, as relações entre o ensino e a aprendizagem digital deverão prever técnicas, ferramentas e recursos digitais que fortaleçam os papéis de docência e aprendizagem do professor e do aluno e que criem espaços coletivos de mútuo desenvolvimento. (Incluído pela Lei nº 14.533, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%204%C2%BA%20O%20dever%20do%20Estado%20com%20educa%C3%A7%C3%A3o%20escolar%20p%C3%BAblica%20ser%C3%A1%20efetivado%20mediante%20a%20garantia%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "4-A"
+    },
+    "4-A": {
+      "numero": "4-A",
+      "texto": "Art. 4º-A. É assegurado atendimento educacional, durante o período de internação, ao aluno da educação básica internado para tratamento de saúde em regime hospitalar ou domiciliar por tempo prolongado, conforme dispuser o Poder Público em regulamento, na esfera de sua competência federativa. (Incluído pela Lei nº 13.716, de 2018).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%204%C2%BA-A.%20%C3%89%20assegurado%20atendimento%20educacional%2C%20durante%20o%20per%C3%ADodo%20de%20interna%C3%A7%C3%A3o%2C%20ao%20aluno%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20internado%20para%20tratamento%20de%20sa%C3%BAde%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O acesso à educação básica obrigatória é direito público subjetivo, podendo qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou outra legalmente constituída e, ainda, o Ministério Público, acionar o poder público para exigi-lo. (Redação dada pela Lei nº 12.796, de 2013)\n\n§ 1o O poder público, na esfera de sua competência federativa, deverá: (Redação dada pela Lei nº 12.796, de 2013)\n\nI - recensear anualmente as crianças e adolescentes em idade escolar, bem como os jovens e adultos que não concluíram a educação básica; (Redação dada pela Lei nº 12.796, de 2013)\n\nII - fazer-lhes a chamada pública;\n\nIII - zelar, junto aos pais ou responsáveis, pela freqüência à escola.\n\nIV - divulgar a lista de espera por vagas nos estabelecimentos de educação básica de sua rede, inclusive creches, por ordem de colocação e, sempre que possível, por unidade escolar, bem como divulgar os critérios para a elaboração da lista. (Incluído pela Lei nº 14.685, de 2023)\n\nV – garantir aos pais, aos responsáveis e aos estudantes acesso aos resultados das avaliações de qualidade e de rendimento escolar nas instituições de ensino, diretamente realizadas por ele ou em parceria com organizações internacionais. (Incluído pela Lei nº 15.001, de 2024)\n\n§ 2º Em todas as esferas administrativas, o Poder Público assegurará em primeiro lugar o acesso ao ensino obrigatório, nos termos deste artigo, contemplando em seguida os demais níveis e modalidades de ensino, conforme as prioridades constitucionais e legais.\n\n§ 3º Qualquer das partes mencionadas no caput deste artigo tem legitimidade para peticionar no Poder Judiciário, na hipótese do § 2º do art. 208 da Constituição Federal, sendo gratuita e de rito sumário a ação judicial correspondente.\n\n§ 4º Comprovada a negligência da autoridade competente para garantir o oferecimento do ensino obrigatório, poderá ela ser imputada por crime de responsabilidade.\n\n§ 5º Para garantir o cumprimento da obrigatoriedade de ensino, o Poder Público criará formas alternativas de acesso aos diferentes níveis de ensino, independentemente da escolarização anterior.\n\n§ 6º Incumbe ao poder público promover, nos termos de regulamento, o acesso público às informações educacionais do censo anual e dos exames e sistemas de avaliação da educação básica, considerado todo o processo de realização dessas atividades. (Incluído pela Lei nº 15.017, de 2024)\n\n§ 7º A organização e a manutenção de sistema de informações e estatísticas educacionais pela União, pelos Estados, pelo Distrito Federal e pelos Municípios, no âmbito da administração direta e indireta, sujeitar-se-ão ao dever de transparência e publicidade como preceitos gerais e ao direito fundamental de acesso à informação de que trata a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação). (Incluído pela Lei nº 15.017, de 2024)\n\n§ 8º Dados e microdados, agregados e desagregados, coletados na execução de políticas educacionais de caráter censitário, avaliativo ou regulatório, serão tratados, divulgados e compartilhados, sempre que possível, de forma anonimizada, observados os parâmetros para anonimização previstos em regulamento. (Incluído pela Lei nº 15.017, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%205o%20O%20acesso%20%C3%A0%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20obrigat%C3%B3ria%20%C3%A9%20direito%20p%C3%BAblico%20subjetivo%2C%20podendo%20qualquer%20cidad%C3%A3o%2C%20grupo%20de%20cidad%C3%A3os%2C%20associa%C3%A7%C3%A3o%20comunit%C3%A1ria%2C%20organiza%C3%A7%C3%A3o%20sindical%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-A",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A Aplica-se o disposto nos §§ 6º, 7º e 8º do art. 5º desta Lei às informações educacionais do censo, dos exames e do sistema de avaliação da educação superior. (Incluído pela Lei nº 15.017, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%205%C2%BA-A%20Aplica-se%20o%20disposto%20nos%20%C2%A7%C2%A7%206%C2%BA%2C%207%C2%BA%20e%208%C2%BA%20do%20art.%205%C2%BA%20desta%20Lei%20%C3%A0s%20informa%C3%A7%C3%B5es%20educacionais%20do%20censo%2C%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o É dever dos pais ou responsáveis efetuar a matrícula das crianças na educação básica a partir dos 4 (quatro) anos de idade. (Redação dada pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%206o%20%C3%89%20dever%20dos%20pais%20ou%20respons%C3%A1veis%20efetuar%20a%20matr%C3%ADcula%20das%20crian%C3%A7as%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20a%20partir%20dos%204%20%28quatro%29%20anos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-A",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O ensino é livre à iniciativa privada, atendidas as seguintes condições:\n\nI - cumprimento das normas gerais da educação nacional e do respectivo sistema de ensino;\n\nII - autorização de funcionamento e avaliação de qualidade pelo Poder Público;\n\nIII - capacidade de autofinanciamento, ressalvado o previsto no art. 213 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%207%C2%BA%20O%20ensino%20%C3%A9%20livre%20%C3%A0%20iniciativa%20privada%2C%20atendidas%20as%20seguintes%20condi%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A Ao aluno regularmente matriculado em instituição de ensino pública ou privada, de qualquer nível, é assegurado, no exercício da liberdade de consciência e de crença, o direito de, mediante prévio e motivado requerimento, ausentar-se de prova ou de aula marcada para dia em que, segundo os preceitos de sua religião, seja vedado o exercício de tais atividades, devendo-se-lhe atribuir, a critério da instituição e sem custos para o aluno, uma das seguintes prestações alternativas, nos termos do inciso VIII do caput do art. 5º da Constituição Federal: (Incluído pela Lei nº 13.796, de 2019) (Vigência)\n\nI - prova ou aula de reposição, conforme o caso, a ser realizada em data alternativa, no turno de estudo do aluno ou em outro horário agendado com sua anuência expressa; (Incluído pela Lei nº 13.796, de 2019) (Vigência)\n\nII - trabalho escrito ou outra modalidade de atividade de pesquisa, com tema, objetivo e data de entrega definidos pela instituição de ensino. (Incluído pela Lei nº 13.796, de 2019) (Vigência)\n\n§ 1º A prestação alternativa deverá observar os parâmetros curriculares e o plano de aula do dia da ausência do aluno. (Incluído pela Lei nº 13.796, de 2019) (Vigência)\n\n§ 2º O cumprimento das formas de prestação alternativa de que trata este artigo substituirá a obrigação original para todos os efeitos, inclusive regularização do registro de frequência. (Incluído pela Lei nº 13.796, de 2019) (Vigência)\n\n§ 3º As instituições de ensino implementarão progressivamente, no prazo de 2 (dois) anos, as providências e adaptações necessárias à adequação de seu funcionamento às medidas previstas neste artigo. (Incluído pela Lei nº 13.796, de 2019) (Vigência)\n\n§ 4º O disposto neste artigo não se aplica ao ensino militar a que se refere o art. 83 desta Lei. (Incluído pela Lei nº 13.796, de 2019) (Vigência) (Vide parágrafo único do art. 2)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%207%C2%BA-A%20Ao%20aluno%20regularmente%20matriculado%20em%20institui%C3%A7%C3%A3o%20de%20ensino%20p%C3%BAblica%20ou%20privada%2C%20de%20qualquer%20n%C3%ADvel%2C%20%C3%A9%20assegurado%2C%20no%20exerc%C3%ADcio%20da%20liberdade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A União, os Estados, o Distrito Federal e os Municípios organizarão, em regime de colaboração, os respectivos sistemas de ensino. (Vide Decreto nº 11.713, de 2023)\n\n§ 1º Caberá à União a coordenação da política nacional de educação, articulando os diferentes níveis e sistemas e exercendo função normativa, redistributiva e supletiva em relação às demais instâncias educacionais.\n\n§ 2º Os sistemas de ensino terão liberdade de organização nos termos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%208%C2%BA%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20organizar%C3%A3o%2C%20em%20regime%20de%20colabora%C3%A7%C3%A3o%2C%20os%20respectivos%20sistemas%20de%20ensino.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7-A",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A União incumbir-se-á de: (Regulamento)\n\nI - elaborar o Plano Nacional de Educação, em colaboração com os Estados, o Distrito Federal e os Municípios;\n\nII - organizar, manter e desenvolver os órgãos e instituições oficiais do sistema federal de ensino e o dos Territórios;\n\nIII - prestar assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória, exercendo sua função redistributiva e supletiva;\n\nIV - estabelecer, em colaboração com os Estados, o Distrito Federal e os Municípios, competências e diretrizes para a educação infantil, o ensino fundamental e o ensino médio, que nortearão os currículos e seus conteúdos mínimos, de modo a assegurar formação básica comum;\n\nIV-A - estabelecer, em colaboração com os Estados, o Distrito Federal e os Municípios, diretrizes e procedimentos para identificação, cadastramento e atendimento, na educação básica e na educação superior, de alunos com altas habilidades ou superdotação; (Incluído pela Lei nº 13.234, de 2015)\n\nV - coletar, analisar e disseminar informações sobre a educação;\n\nVI - assegurar processo nacional de avaliação do rendimento escolar no ensino fundamental, médio e superior, em colaboração com os sistemas de ensino, objetivando a definição de prioridades e a melhoria da qualidade do ensino;\n\nVII - baixar normas gerais sobre cursos de graduação e pós-graduação;\n\nVII-A - assegurar, em colaboração com os sistemas de ensino, processo nacional de avaliação das instituições e dos cursos de educação profissional técnica e tecnológica; (Incluído pela Lei nº 14.645, de 2023)\n\nVIII - assegurar processo nacional de avaliação das instituições de educação superior, com a cooperação dos sistemas que tiverem responsabilidade sobre este nível de ensino;\n\nIX - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino. (Vide Lei nº 10.870, de 2004)\n\n§ 1º Na estrutura educacional, haverá um Conselho Nacional de Educação, com funções normativas e de supervisão e atividade permanente, criado por lei.\n\n§ 2° Para o cumprimento do disposto nos incisos V a IX, a União terá acesso a todos os dados e informações necessários de todos os estabelecimentos e órgãos educacionais.\n\n§ 3º As atribuições constantes do inciso IX poderão ser delegadas aos Estados e ao Distrito Federal, desde que mantenham instituições de educação superior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%209%C2%BA%20A%20Uni%C3%A3o%20incumbir-se-%C3%A1%20de%3A%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Os Estados incumbir-se-ão de:\n\nI - organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino;\n\nII - definir, com os Municípios, formas de colaboração na oferta do ensino fundamental, as quais devem assegurar a distribuição proporcional das responsabilidades, de acordo com a população a ser atendida e os recursos financeiros disponíveis em cada uma dessas esferas do Poder Público;\n\nIII - elaborar e executar políticas e planos educacionais, em consonância com as diretrizes e planos nacionais de educação, integrando e coordenando as suas ações e as dos seus Municípios;\n\nIV - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino;\n\nV - baixar normas complementares para o seu sistema de ensino;\n\nVI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio a todos que o demandarem, respeitado o disposto no art. 38 desta Lei; (Redação dada pela Lei nº 12.061, de 2009)\n\nVII - assumir o transporte escolar dos alunos da rede estadual, permitindo aos respectivos professores, em trechos autorizados, o uso de assentos vagos nos veículos; (Redação dada pela Lei nº 14.862, de 2024)\n\nVIII – instituir, na forma da lei de que trata o art. 14, Conselhos Escolares e Fóruns dos Conselhos Escolares. (Incluído pela Lei nº 14.644, de 2023)\n\nIX - articular-se com os respectivos Municípios para que o disposto no inciso VII deste caput e no inciso VI do caput do art. 11 desta Lei seja cumprido da forma que melhor atenda aos interesses dos alunos e dos professores. (Incluído pela Lei nº 14.862, de 2024)\n\nParágrafo único. Ao Distrito Federal aplicar-se-ão as competências referentes aos Estados e aos Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2010.%20Os%20Estados%20incumbir-se-%C3%A3o%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os Municípios incumbir-se-ão de:\n\nI - organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino, integrando-os às políticas e planos educacionais da União e dos Estados;\n\nII - exercer ação redistributiva em relação às suas escolas;\n\nIII - baixar normas complementares para o seu sistema de ensino;\n\nIV - autorizar, credenciar e supervisionar os estabelecimentos do seu sistema de ensino;\n\nV – oferecer a educação infantil em creches e pré-escolas nas zonas urbanas e rurais, na proporção da distribuição populacional, e, com prioridade, o ensino fundamental, permitida a atuação em outros níveis de ensino somente quando estiverem atendidas plenamente as necessidades de sua área de competência e com recursos acima dos percentuais mínimos vinculados pela Constituição Federal à manutenção e desenvolvimento do ensino; (Redação dada pela Lei nº 15.369, de 2026)\n\nVI - assumir o transporte escolar dos alunos da rede municipal, permitindo aos respectivos professores, em trechos autorizados, o uso de assentos vagos nos veículos; (Redação dada pela Lei nº 14.862, de 2024)\n\nVII – instituir, na forma da lei de que trata o art. 14, Conselhos Escolares e Fóruns dos Conselhos Escolares. (Incluído pela Lei nº 14.644, de 2023)\n\nParágrafo único. Os Municípios poderão optar, ainda, por se integrar ao sistema estadual de ensino ou compor com ele um sistema único de educação básica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2011.%20Os%20Munic%C3%ADpios%20incumbir-se-%C3%A3o%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os estabelecimentos de ensino, respeitadas as normas comuns e as do seu sistema de ensino, terão a incumbência de:\n\nI - elaborar e executar sua proposta pedagógica;\n\nII - administrar seu pessoal e seus recursos materiais e financeiros;\n\nIII - assegurar o cumprimento dos dias letivos e horas-aula estabelecidas;\n\nIV - velar pelo cumprimento do plano de trabalho de cada docente;\n\nV - prover meios para a recuperação dos alunos de menor rendimento;\n\nVI - articular-se com as famílias e a comunidade, criando processos de integração da sociedade com a escola;\n\nVII - informar pai e mãe, conviventes ou não com seus filhos, e, se for o caso, os responsáveis legais, sobre a frequência e rendimento dos alunos, bem como sobre a execução da proposta pedagógica da escola; (Redação dada pela Lei nº 12.013, de 2009)\n\nVIII - notificar ao Conselho Tutelar do Município: (Redação dada pela Lei nº 15.231, de 2025)\n\na) a relação dos alunos que apresentem quantidade de faltas acima de 30% (trinta por cento) do percentual permitido em lei; (Incluído pela Lei nº 15.231, de 2025)\n\nb) as ocorrências e os dados relativos a casos de violência que envolvam seus alunos, especialmente automutilações, tentativas de suicídio e suicídios consumados; (Incluído pela Lei nº 15.231, de 2025)\n\nIX - promover medidas de conscientização, de prevenção e de combate a todos os tipos de violência, especialmente a intimidação sistemática (bullying), no âmbito das escolas; (Incluído pela Lei nº 13.663, de 2018)\n\nX - estabelecer ações destinadas a promover a cultura de paz nas escolas. (Incluído pela Lei nº 13.663, de 2018)\n\nXI - promover ambiente escolar seguro, adotando estratégias de prevenção e enfrentamento ao uso ou dependência de drogas. (Incluído pela Lei nº 13.840, de 2019)\n\nXII – instituir, na forma da lei de que trata o art. 14, os Conselhos Escolares. (Incluído pela Lei nº 14.644, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2012.%20Os%20estabelecimentos%20de%20ensino%2C%20respeitadas%20as%20normas%20comuns%20e%20as%20do%20seu%20sistema%20de%20ensino%2C%20ter%C3%A3o%20a%20incumb%C3%AAncia%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os docentes incumbir-se-ão de:\n\nI - participar da elaboração da proposta pedagógica do estabelecimento de ensino;\n\nII - elaborar e cumprir plano de trabalho, segundo a proposta pedagógica do estabelecimento de ensino;\n\nIII - zelar pela aprendizagem dos alunos;\n\nIV - estabelecer estratégias de recuperação para os alunos de menor rendimento;\n\nV - ministrar os dias letivos e horas-aula estabelecidos, além de participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional;\n\nVI - colaborar com as atividades de articulação da escola com as famílias e a comunidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2013.%20Os%20docentes%20incumbir-se-%C3%A3o%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Lei dos respectivos Estados e Municípios e do Distrito Federal definirá as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios: (Redação dada pela Lei nº 14.644, de 2023)\n\nI - participação dos profissionais da educação na elaboração do projeto pedagógico da escola;\n\nII – participação das comunidades escolar e local em Conselhos Escolares e em Fóruns dos Conselhos Escolares ou equivalentes. (Redação dada pela Lei nº 14.644, de 2023)\n\n§ 1º O Conselho Escolar, órgão deliberativo, será composto do Diretor da Escola, membro nato, e de representantes das comunidades escolar e local, eleitos por seus pares nas seguintes categorias: (Incluído pela Lei nº 14.644, de 2023)\n\nI – professores, orientadores educacionais, supervisores e administradores escolares; (Incluído pela Lei nº 14.644, de 2023)\n\nII – demais servidores públicos que exerçam atividades administrativas na escola; (Incluído pela Lei nº 14.644, de 2023)\n\nIII – estudantes; (Incluído pela Lei nº 14.644, de 2023)\n\nIV – pais ou responsáveis; (Incluído pela Lei nº 14.644, de 2023)\n\nV – membros da comunidade local. (Incluído pela Lei nº 14.644, de 2023)\n\n§ 2º O Fórum dos Conselhos Escolares é um colegiado de caráter deliberativo que tem como finalidades o fortalecimento dos Conselhos Escolares de sua circunscrição e a efetivação do processo democrático nas unidades educacionais e nas diferentes instâncias decisórias, com vistas a melhorar a qualidade da educação, norteado pelos seguintes princípios: (Incluído pela Lei nº 14.644, de 2023)\n\nI – democratização da gestão; (Incluído pela Lei nº 14.644, de 2023)\n\nII – democratização do acesso e permanência; (Incluído pela Lei nº 14.644, de 2023)\n\nIII – qualidade social da educação. (Incluído pela Lei nº 14.644, de 2023)\n\n§ 3º O Fórum dos Conselhos Escolares será composto de: (Incluído pela Lei nº 14.644, de 2023)\n\nI – 2 (dois) representantes do órgão responsável pelo sistema de ensino; (Incluído pela Lei nº 14.644, de 2023)\n\nII – 2 (dois) representantes de cada Conselho Escolar da circunscrição de atuação do Fórum dos Conselhos Escolares. (Incluído pela Lei nº 14.644, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2014.%20Lei%20dos%20respectivos%20Estados%20e%20Munic%C3%ADpios%20e%20do%20Distrito%20Federal%20definir%C3%A1%20as%20normas%20da%20gest%C3%A3o%20democr%C3%A1tica%20do%20ensino%20p%C3%BAblico%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. A União, os Estados, o Distrito Federal e os Municípios adotarão, como princípios de gestão de suas redes de ensino, a transparência e o acesso à informação, devendo disponibilizar ao público, em meio eletrônico, informações acessíveis referentes a: (Incluído pela Lei nº 15.001, de 2024) (Vide Lei nº 15.001, de 2024)\n\nI – número de vagas disponíveis e preenchidas por instituição de ensino, lista de espera, quando houver, por ordem de colocação, e, no caso de instituições federais, especificação da reserva de vagas, nos termos da Lei nº 12.711, de 29 de agosto de 2012; (Incluído pela Lei nº 15.001, de 2024)\n\nII – bolsas e auxílios para estudo e pesquisa concedidos a estudantes, a professores e a pesquisadores; (Incluído pela Lei nº 15.001, de 2024)\n\nIII – atividades ou projetos de pesquisa, extensão e inovação tecnológica finalizados e em andamento, no caso de instituições de educação superior; (Incluído pela Lei nº 15.001, de 2024)\n\nIV – estatísticas relativas a fluxo e a rendimento escolares; (Incluído pela Lei nº 15.001, de 2024)\n\nV – execução física e financeira de programas, de projetos e de atividades direcionados à educação básica e superior financiados com recursos públicos, renúncia fiscal ou subsídios tributários, financeiros ou creditícios, discriminados de acordo com a denominação a eles atribuída nos diplomas legais que os instituíram; (Incluído pela Lei nº 15.001, de 2024)\n\nVI – currículo profissional e acadêmico dos ocupantes de cargo de direção de instituição de ensino e dos membros dos conselhos de educação, observadas as disposições da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais); (Incluído pela Lei nº 15.001, de 2024)\n\nVII – pautas e atas das reuniões do Conselho Nacional de Educação e dos conselhos de educação dos Estados e do Distrito Federal. (Incluído pela Lei nº 15.001, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2014-A.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20adotar%C3%A3o%2C%20como%20princ%C3%ADpios%20de%20gest%C3%A3o%20de%20suas%20redes%20de%20ensino%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2015.%20Os%20sistemas%20de%20ensino%20assegurar%C3%A3o%20%C3%A0s%20unidades%20escolares%20p%C3%BAblicas%20de%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20que%20os%20integram%20progressivos%20graus%20de%20autonomia%20pedag%C3%B3gica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O sistema federal de ensino compreende: (Regulamento)\n\nI - as instituições de ensino mantidas pela União;\n\nII - as instituições de educação superior mantidas pela iniciativa privada; (Redação dada pela Lei nº 13.868, de 2019)\n\nIII - os órgãos federais de educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2016.%20O%20sistema%20federal%20de%20ensino%20compreende%3A%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os sistemas de ensino dos Estados e do Distrito Federal compreendem:\n\nI - as instituições de ensino mantidas, respectivamente, pelo Poder Público estadual e pelo Distrito Federal;\n\nII - as instituições de educação superior mantidas pelo Poder Público municipal;\n\nIII - as instituições de ensino fundamental e médio criadas e mantidas pela iniciativa privada;\n\nIV - os órgãos de educação estaduais e do Distrito Federal, respectivamente.\n\nParágrafo único. No Distrito Federal, as instituições de educação infantil, criadas e mantidas pela iniciativa privada, integram seu sistema de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2017.%20Os%20sistemas%20de%20ensino%20dos%20Estados%20e%20do%20Distrito%20Federal%20compreendem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Os sistemas municipais de ensino compreendem:\n\nI - as instituições do ensino fundamental, médio e de educação infantil mantidas pelo Poder Público municipal;\n\nII - as instituições de educação infantil criadas e mantidas pela iniciativa privada;\n\nIII – os órgãos municipais de educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2018.%20Os%20sistemas%20municipais%20de%20ensino%20compreendem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As instituições de ensino dos diferentes níveis classificam-se nas seguintes categorias administrativas: (Regulamento) (Regulamento)\n\nI - públicas, assim entendidas as criadas ou incorporadas, mantidas e administradas pelo Poder Público;\n\nII - privadas, assim entendidas as mantidas e administradas por pessoas físicas ou jurídicas de direito privado.\n\nIII - comunitárias, na forma da lei. (Incluído pela Lei nº 13.868, de 2019)\n\n§ 1º As instituições de ensino a que se referem os incisos II e III do caput deste artigo podem qualificar-se como confessionais, atendidas a orientação confessional e a ideologia específicas. (Incluído pela Lei nº 13.868, de 2019)\n\n§ 2º As instituições de ensino a que se referem os incisos II e III do caput deste artigo podem ser certificadas como filantrópicas, na forma da lei. (Incluído pela Lei nº 13.868, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2019.%20As%20institui%C3%A7%C3%B5es%20de%20ensino%20dos%20diferentes%20n%C3%ADveis%20classificam-se%20nas%20seguintes%20categorias%20administrativas%3A%20%28Regulamento%29%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. (Revogado pela Lei nº 13.868, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2020.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.868%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A educação escolar compõe-se de:\n\nI - educação básica, formada pela educação infantil, ensino fundamental e ensino médio;\n\nII - educação superior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2021.%20A%20educa%C3%A7%C3%A3o%20escolar%20comp%C3%B5e-se%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A educação básica tem por finalidades desenvolver o educando, assegurar-lhe a formação comum indispensável para o exercício da cidadania e fornecer-lhe meios para progredir no trabalho e em estudos posteriores.\n\nParágrafo único. São objetivos precípuos da educação básica a alfabetização plena e a formação de leitores, como requisitos essenciais para o cumprimento das finalidades constantes do caput deste artigo. (Incluído pela Lei nº 14.407, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2022.%20A%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20tem%20por%20finalidades%20desenvolver%20o%20educando%2C%20assegurar-lhe%20a%20forma%C3%A7%C3%A3o%20comum%20indispens%C3%A1vel%20para%20o%20exerc%C3%ADcio%20da%20cidadania%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A educação básica poderá organizar-se em séries anuais, períodos semestrais, ciclos, alternância regular de períodos de estudos, grupos não-seriados, com base na idade, na competência e em outros critérios, ou por forma diversa de organização, sempre que o interesse do processo de aprendizagem assim o recomendar.\n\n§ 1º A escola poderá reclassificar os alunos, inclusive quando se tratar de transferências entre estabelecimentos situados no País e no exterior, tendo como base as normas curriculares gerais.\n\n§ 2º O calendário escolar deverá adequar-se às peculiaridades locais, inclusive climáticas e econômicas, a critério do respectivo sistema de ensino, sem com isso reduzir o número de horas letivas previsto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2023.%20A%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20poder%C3%A1%20organizar-se%20em%20s%C3%A9ries%20anuais%2C%20per%C3%ADodos%20semestrais%2C%20ciclos%2C%20altern%C3%A2ncia%20regular%20de%20per%C3%ADodos%20de%20estudos%2C%20grupos%20n%C3%A3o-seriados%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A educação básica, nos níveis fundamental e médio, será organizada de acordo com as seguintes regras comuns:\n\nI – a carga horária mínima anual será de 800 (oitocentas) horas para o ensino fundamental e de 1.000 (mil) horas para o ensino médio, distribuídas por, no mínimo, 200 (duzentos) dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais, quando houver; (Redação dada pela Lei nº 14.945, de 2024)\n\nII - a classificação em qualquer série ou etapa, exceto a primeira do ensino fundamental, pode ser feita:\n\na) por promoção, para alunos que cursaram, com aproveitamento, a série ou fase anterior, na própria escola;\n\nb) por transferência, para candidatos procedentes de outras escolas;\n\nc) independentemente de escolarização anterior, mediante avaliação feita pela escola, que defina o grau de desenvolvimento e experiência do candidato e permita sua inscrição na série ou etapa adequada, conforme regulamentação do respectivo sistema de ensino;\n\nIII - nos estabelecimentos que adotam a progressão regular por série, o regimento escolar pode admitir formas de progressão parcial, desde que preservada a seqüência do currículo, observadas as normas do respectivo sistema de ensino;\n\nIV - poderão organizar-se classes, ou turmas, com alunos de séries distintas, com níveis equivalentes de adiantamento na matéria, para o ensino de línguas estrangeiras, artes, ou outros componentes curriculares;\n\nV - a verificação do rendimento escolar observará os seguintes critérios:\n\na) avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais;\n\nb) possibilidade de aceleração de estudos para alunos com atraso escolar;\n\nc) possibilidade de avanço nos cursos e nas séries mediante verificação do aprendizado;\n\nd) aproveitamento de estudos concluídos com êxito;\n\ne) obrigatoriedade de estudos de recuperação, de preferência paralelos ao período letivo, para os casos de baixo rendimento escolar, a serem disciplinados pelas instituições de ensino em seus regimentos;\n\nVI - o controle de freqüência fica a cargo da escola, conforme o disposto no seu regimento e nas normas do respectivo sistema de ensino, exigida a freqüência mínima de setenta e cinco por cento do total de horas letivas para aprovação;\n\nVII - cabe a cada instituição de ensino expedir históricos escolares, declarações de conclusão de série e diplomas ou certificados de conclusão de cursos, com as especificações cabíveis.\n\n§ 1º A carga horária mínima anual de que trata o inciso I do caput deste artigo será ampliada de forma progressiva para 1.400 (mil e quatrocentas) horas, considerados os prazos e as metas estabelecidos no Plano Nacional de Educação. (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 2o Os sistemas de ensino disporão sobre a oferta de educação de jovens e adultos e de ensino noturno regular, adequado às condições do educando, conforme o inciso VI do art. 4o. (Incluído pela Lei nº 13.415, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2024.%20A%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20nos%20n%C3%ADveis%20fundamental%20e%20m%C3%A9dio%2C%20ser%C3%A1%20organizada%20de%20acordo%20com%20as%20seguintes%20regras%20comuns%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Será objetivo permanente das autoridades responsáveis alcançar relação adequada entre o número de alunos e o professor, a carga horária e as condições materiais do estabelecimento.\n\nParágrafo único. Cabe ao respectivo sistema de ensino, à vista das condições disponíveis e das características regionais e locais, estabelecer parâmetro para atendimento do disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2025.%20Ser%C3%A1%20objetivo%20permanente%20das%20autoridades%20respons%C3%A1veis%20alcan%C3%A7ar%20rela%C3%A7%C3%A3o%20adequada%20entre%20o%20n%C3%BAmero%20de%20alunos%20e%20o%20professor%2C%20a%20carga%20hor%C3%A1ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "24",
+      "next": "25-A"
+    },
+    "25-A": {
+      "numero": "25-A",
+      "texto": "Art. 25-A. É dever do poder público assegurar que todas as escolas públicas de educação básica, respeitadas as especificidades de cada etapa e modalidade, contenham número adequado de educandos por turma, bem como biblioteca, laboratórios de ciências e de informática devidamente equipados, acesso à internet, quadra poliesportiva coberta, cozinha, refeitório, banheiros, instalações com adequadas condições de acessibilidade, acesso a energia elétrica, abastecimento de água tratada, esgotamento sanitário e manejo de resíduos sólidos. (Incluído pela Lei nº 15.360, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2025-A.%20%C3%89%20dever%20do%20poder%20p%C3%BAblico%20assegurar%20que%20todas%20as%20escolas%20p%C3%BAblicas%20de%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20respeitadas%20as%20especificidades%20de%20cada%20etapa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "25",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Os currículos da educação infantil, do ensino fundamental e do ensino médio devem ter base nacional comum, a ser complementada, em cada sistema de ensino e em cada estabelecimento escolar, por uma parte diversificada, exigida pelas características regionais e locais da sociedade, da cultura, da economia e dos educandos. (Redação dada pela Lei nº 12.796, de 2013)\n\n§ 1º Os currículos a que se refere o caput devem abranger, obrigatoriamente, o estudo da língua portuguesa e da matemática, o conhecimento do mundo físico e natural e da realidade social e política, especialmente do Brasil.\n\n§ 2º O ensino da arte, especialmente em suas expressões regionais, constituirá componente curricular obrigatório da educação básica. (Redação dada pela Lei nº 13.415, de 2017)\n\n§ 3º A educação física, integrada à proposta pedagógica da escola, é componente curricular obrigatório da educação básica, sendo sua prática facultativa ao aluno: (Redação dada pela Lei nº 10.793, de 1º.12.2003)\n\nI – que cumpra jornada de trabalho igual ou superior a seis horas; (Incluído pela Lei nº 10.793, de 1º.12.2003)\n\nII – maior de trinta anos de idade; (Incluído pela Lei nº 10.793, de 1º.12.2003)\n\nIII – que estiver prestando serviço militar inicial ou que, em situação similar, estiver obrigado à prática da educação física; (Incluído pela Lei nº 10.793, de 1º.12.2003)\n\nIV – amparado pelo Decreto-Lei no 1.044, de 21 de outubro de 1969; (Incluído pela Lei nº 10.793, de 1º.12.2003)\n\nV – (VETADO) (Incluído pela Lei nº 10.793, de 1º.12.2003)\n\nVI – que tenha prole. (Incluído pela Lei nº 10.793, de 1º.12.2003)\n\n§ 4º O ensino da História do Brasil levará em conta as contribuições das diferentes culturas e etnias para a formação do povo brasileiro, especialmente das matrizes indígena, africana e européia.\n\n§ 5º No currículo do ensino fundamental, a partir do sexto ano, será ofertada a língua inglesa. (Redação dada pela Lei nº 13.415, de 2017)\n\n§ 6º As artes visuais, a dança, a música e o teatro são as linguagens que constituirão o componente curricular de que trata o § 2o deste artigo. (Redação dada pela Lei nº 13.278, de 2016)\n\n§ 7º A integralização curricular poderá incluir, a critério dos sistemas de ensino, projetos e pesquisas envolvendo temas transversais que componham os currículos de que trata o caput deste artigo. (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 8º A exibição de filmes de produção nacional constituirá componente curricular complementar integrado à proposta pedagógica da escola, sendo a sua exibição obrigatória por, no mínimo, 2 (duas) horas mensais. (Incluído pela Lei nº 13.006, de 2014)\n\n§ 9º Conteúdos relativos aos direitos humanos e à prevenção de todas as formas de violência contra a criança, o adolescente e a mulher serão incluídos, como temas transversais, nos currículos de que trata o caput deste artigo, observadas as diretrizes da legislação correspondente e a produção e distribuição de material didático adequado a cada nível de ensino. (Redação dada pela Lei nº 14.164, de 2021)\n\n§ 9º-A. A educação alimentar e nutricional será incluída entre os temas transversais de que trata o caput. (Incluído pela Lei nº 13.666, de 2018)\n\n§ 9º-B. Educação política e direitos da cidadania constituirá componente curricular obrigatório no âmbito do estudo da realidade social e política a que se refere o § 1º deste artigo. (Incluído pela Lei nº 15.468, de 2026)\n\n§ 10. A inclusão de novos componentes curriculares de caráter obrigatório na Base Nacional Comum Curricular dependerá de aprovação do Conselho Nacional de Educação e de homologação pelo Ministro de Estado da Educação. (Incluído pela Lei nº 13.415, de 2017)\n\n§ 11. A educação digital, com foco no letramento digital e no ensino de computação, programação, robótica e outras competências digitais, será componente curricular do ensino fundamental e do ensino médio. (Incluído pela Lei nº 14.533, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2026.%20Os%20curr%C3%ADculos%20da%20educa%C3%A7%C3%A3o%20infantil%2C%20do%20ensino%20fundamental%20e%20do%20ensino%20m%C3%A9dio%20devem%20ter%20base%20nacional%20comum%2C%20a%20ser%20complementada%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "25-A",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Nos estabelecimentos de ensino fundamental e de ensino médio, públicos e privados, torna-se obrigatório o estudo da história e cultura afro-brasileira e indígena. (Redação dada pela Lei nº 11.645, de 2008).\n\n§ 1º O conteúdo programático a que se refere este artigo incluirá diversos aspectos da história e da cultura que caracterizam a formação da população brasileira, a partir desses dois grupos étnicos, tais como o estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da sociedade nacional, resgatando as suas contribuições nas áreas social, econômica e política, pertinentes à história do Brasil. (Redação dada pela Lei nº 11.645, de 2008).\n\n§ 2º Os conteúdos referentes à história e cultura afro-brasileira e dos povos indígenas brasileiros serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de educação artística e de literatura e história brasileiras. (Redação dada pela Lei nº 11.645, de 2008).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2026-A.%20Nos%20estabelecimentos%20de%20ensino%20fundamental%20e%20de%20ensino%20m%C3%A9dio%2C%20p%C3%BAblicos%20e%20privados%2C%20torna-se%20obrigat%C3%B3rio%20o%20estudo%20da%20hist%C3%B3ria%20e%20cultura",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "26",
+      "next": "26-B"
+    },
+    "26-B": {
+      "numero": "26-B",
+      "texto": "Art. 26-B. Nos estabelecimentos de ensino fundamental e médio, públicos e privados, é obrigatória a inclusão de abordagens fundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares. (Incluído pela Lei nº 14.986, de 2024) Vigência\n\nParágrafo único. As abordagens a que se refere este artigo devem incluir diversos aspectos da história, da ciência, das artes e da cultura do Brasil e do mundo, a partir das experiências e das perspectivas femininas, de forma a resgatar as contribuições, as vivências e as conquistas femininas nas áreas científica, social, artística, cultural, econômica e política. (Incluído pela Lei nº 14.986, de 2024) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2026-B.%20Nos%20estabelecimentos%20de%20ensino%20fundamental%20e%20m%C3%A9dio%2C%20p%C3%BAblicos%20e%20privados%2C%20%C3%A9%20obrigat%C3%B3ria%20a%20inclus%C3%A3o%20de%20abordagens%20fundamentadas%20nas%20experi%C3%AAncias%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "26-A",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Os conteúdos curriculares da educação básica observarão, ainda, as seguintes diretrizes:\n\nI - a difusão de valores fundamentais ao interesse social, aos direitos e deveres dos cidadãos, de respeito ao bem comum e à ordem democrática;\n\nII - consideração das condições de escolaridade dos alunos em cada estabelecimento;\n\nIII - orientação para o trabalho;\n\nIV - promoção do desporto educacional e apoio às práticas desportivas não-formais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2027.%20Os%20conte%C3%BAdos%20curriculares%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20observar%C3%A3o%2C%20ainda%2C%20as%20seguintes%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "26-B",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Na oferta de educação básica para a população rural, os sistemas de ensino promoverão as adaptações necessárias à sua adequação às peculiaridades da vida rural e de cada região, especialmente:\n\nI - conteúdos curriculares e metodologias apropriadas às reais necessidades e interesses dos alunos das escolas do campo, com possibilidade de uso, dentre outras, da pedagogia da alternância; (Redação dada pela Lei nº 14.767, de 2023)\n\nII - organização escolar própria, incluindo adequação do calendário escolar às fases do ciclo agrícola e às condições climáticas;\n\nIII - adequação à natureza do trabalho na zona rural.\n\nParágrafo único. O fechamento de escolas do campo, indígenas e quilombolas será precedido de manifestação do órgão normativo do respectivo sistema de ensino, que considerará a justificativa apresentada pela Secretaria de Educação, a análise do diagnóstico do impacto da ação e a manifestação da comunidade escolar. (Incluído pela Lei nº 12.960, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2028.%20Na%20oferta%20de%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20para%20a%20popula%C3%A7%C3%A3o%20rural%2C%20os%20sistemas%20de%20ensino%20promover%C3%A3o%20as%20adapta%C3%A7%C3%B5es%20necess%C3%A1rias%20%C3%A0%20sua%20adequa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. A educação infantil, primeira etapa da educação básica, tem como finalidade o desenvolvimento integral da criança de até 5 (cinco) anos, em seus aspectos físico, psicológico, intelectual e social, complementando a ação da família e da comunidade. (Redação dada pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2029.%20A%20educa%C3%A7%C3%A3o%20infantil%2C%20primeira%20etapa%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20tem%20como%20finalidade%20o%20desenvolvimento%20integral%20da%20crian%C3%A7a%20de%20at%C3%A9%205%20%28cinco%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A educação infantil será oferecida em:\n\nI - creches, ou entidades equivalentes, para crianças de até três anos de idade;\n\nII - pré-escolas, para as crianças de 4 (quatro) a 5 (cinco) anos de idade. (Redação dada pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2030.%20A%20educa%C3%A7%C3%A3o%20infantil%20ser%C3%A1%20oferecida%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A educação infantil será organizada de acordo com as seguintes regras comuns: (Redação dada pela Lei nº 12.796, de 2013)\n\nI - avaliação mediante acompanhamento e registro do desenvolvimento das crianças, sem o objetivo de promoção, mesmo para o acesso ao ensino fundamental; (Incluído pela Lei nº 12.796, de 2013)\n\nII - carga horária mínima anual de 800 (oitocentas) horas, distribuída por um mínimo de 200 (duzentos) dias de trabalho educacional; (Incluído pela Lei nº 12.796, de 2013)\n\nIII - atendimento à criança de, no mínimo, 4 (quatro) horas diárias para o turno parcial e de 7 (sete) horas para a jornada integral; (Incluído pela Lei nº 12.796, de 2013)\n\nIV - controle de frequência pela instituição de educação pré-escolar, exigida a frequência mínima de 60% (sessenta por cento) do total de horas; (Incluído pela Lei nº 12.796, de 2013)\n\nV - expedição de documentação que permita atestar os processos de desenvolvimento e aprendizagem da criança. (Incluído pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2031.%20A%20educa%C3%A7%C3%A3o%20infantil%20ser%C3%A1%20organizada%20de%20acordo%20com%20as%20seguintes%20regras%20comuns%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2012.796%2C%20de%202013%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O ensino fundamental obrigatório, com duração de 9 (nove) anos, gratuito na escola pública, iniciando-se aos 6 (seis) anos de idade, terá por objetivo a formação básica do cidadão, mediante: (Redação dada pela Lei nº 11.274, de 2006)\n\nI - o desenvolvimento da capacidade de aprender, tendo como meios básicos o pleno domínio da leitura, da escrita e do cálculo;\n\nII - a compreensão do ambiente natural e social, do sistema político, da tecnologia, das artes e dos valores em que se fundamenta a sociedade;\n\nIII - o desenvolvimento da capacidade de aprendizagem, tendo em vista a aquisição de conhecimentos e habilidades e a formação de atitudes e valores;\n\nIV - o fortalecimento dos vínculos de família, dos laços de solidariedade humana e de tolerância recíproca em que se assenta a vida social.\n\n§ 1º É facultado aos sistemas de ensino desdobrar o ensino fundamental em ciclos.\n\n§ 2º Os estabelecimentos que utilizam progressão regular por série podem adotar no ensino fundamental o regime de progressão continuada, sem prejuízo da avaliação do processo de ensino-aprendizagem, observadas as normas do respectivo sistema de ensino.\n\n§ 3º O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas a utilização de suas línguas maternas e processos próprios de aprendizagem.\n\n§ 4º O ensino fundamental será presencial, sendo o ensino a distância utilizado como complementação da aprendizagem ou em situações emergenciais.\n\n§ 5º O currículo do ensino fundamental incluirá, obrigatoriamente, conteúdo que trate dos direitos das crianças e dos adolescentes, tendo como diretriz a Lei no 8.069, de 13 de julho de 1990, que institui o Estatuto da Criança e do Adolescente, observada a produção e distribuição de material didático adequado. (Incluído pela Lei nº 11.525, de 2007).\n\n§ 6º O estudo sobre os símbolos nacionais será incluído como tema transversal nos currículos do ensino fundamental. (Incluído pela Lei nº 12.472, de 2011).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2032.%20O%20ensino%20fundamental%20obrigat%C3%B3rio%2C%20com%20dura%C3%A7%C3%A3o%20de%209%20%28nove%29%20anos%2C%20gratuito%20na%20escola%20p%C3%BAblica%2C%20iniciando-se%20aos%206%20%28seis%29%20anos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O ensino religioso, de matrícula facultativa, é parte integrante da formação básica do cidadão e constitui disciplina dos horários normais das escolas públicas de ensino fundamental, assegurado o respeito à diversidade cultural religiosa do Brasil, vedadas quaisquer formas de proselitismo. (Redação dada pela Lei nº 9.475, de 22.7.1997)\n\n§ 1º Os sistemas de ensino regulamentarão os procedimentos para a definição dos conteúdos do ensino religioso e estabelecerão as normas para a habilitação e admissão dos professores. (Incluído pela Lei nº 9.475, de 22.7.1997)\n\n§ 2º Os sistemas de ensino ouvirão entidade civil, constituída pelas diferentes denominações religiosas, para a definição dos conteúdos do ensino religioso. (Incluído pela Lei nº 9.475, de 22.7.1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2033.%20O%20ensino%20religioso%2C%20de%20matr%C3%ADcula%20facultativa%2C%20%C3%A9%20parte%20integrante%20da%20forma%C3%A7%C3%A3o%20b%C3%A1sica%20do%20cidad%C3%A3o%20e%20constitui%20disciplina%20dos%20hor%C3%A1rios%20normais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A jornada escolar no ensino fundamental incluirá pelo menos quatro horas de trabalho efetivo em sala de aula, sendo progressivamente ampliado o período de permanência na escola.\n\n§ 1º São ressalvados os casos do ensino noturno e das formas alternativas de organização autorizadas nesta Lei.\n\n§ 2º O ensino fundamental será ministrado progressivamente em tempo integral, a critério dos sistemas de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2034.%20A%20jornada%20escolar%20no%20ensino%20fundamental%20incluir%C3%A1%20pelo%20menos%20quatro%20horas%20de%20trabalho%20efetivo%20em%20sala%20de%20aula%2C%20sendo%20progressivamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O ensino médio, etapa final da educação básica, com duração mínima de três anos, terá como finalidades:\n\nI - a consolidação e o aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos;\n\nII - a preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores;\n\nIII - o aprimoramento do educando como pessoa humana, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico;\n\nIV - a compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada disciplina.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2035.%20O%20ensino%20m%C3%A9dio%2C%20etapa%20final%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20com%20dura%C3%A7%C3%A3o%20m%C3%ADnima%20de%20tr%C3%AAs%20anos%2C%20ter%C3%A1%20como%20finalidades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "34",
+      "next": "35-A"
+    },
+    "35-A": {
+      "numero": "35-A",
+      "texto": "Art. 35-A. (Revogado Lei nº 14.945, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2035-A.%20%28Revogado%20Lei%20n%C2%BA%2014.945%2C%20de%202024%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "35",
+      "next": "35-B"
+    },
+    "35-B": {
+      "numero": "35-B",
+      "texto": "Art. 35-B. O currículo do ensino médio será composto de formação geral básica e de itinerários formativos. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 1º Os estabelecimentos que ofertem ensino médio estruturarão suas propostas pedagógicas considerando os seguintes elementos: (Incluído pela Lei nº 14.945, de 2024)\n\nI – promoção de metodologias investigativas no processo de ensino e aprendizagem; (Incluído pela Lei nº 14.945, de 2024)\n\nII – conexão dos processos de ensino e aprendizagem com a vida comunitária e social em cada território; (Incluído pela Lei nº 14.945, de 2024)\n\nIII – reconhecimento do trabalho e de seu caráter formativo; e (Incluído pela Lei nº 14.945, de 2024)\n\nIV – articulação entre os diferentes saberes com base nas áreas do conhecimento e, quando for o caso, no currículo da formação técnica e profissional. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 2º Serão asseguradas aos estudantes oportunidades de construção de projetos de vida, em perspectiva orientada pelo desenvolvimento integral, nas dimensões física, cognitiva e socioemocional, pela integração comunitária no território, pela participação cidadã e pela preparação para o mundo do trabalho, de forma ambiental e socialmente responsável. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 3º O ensino médio será ofertado de forma presencial, admitido, excepcionalmente, ensino mediado por tecnologia, na forma de regulamento elaborado com a participação dos sistemas estaduais e distrital de ensino. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 4º Para fins de cumprimento das exigências curriculares do ensino médio em regime de tempo integral, excepcionalmente, os sistemas de ensino poderão reconhecer aprendizagens, competências e habilidades desenvolvidas pelos estudantes em experiências extraescolares, mediante formas de comprovação definidas pelos sistemas de ensino e que considerem: (Incluído pela Lei nº 14.945, de 2024)\n\nI - a experiência de estágio, programas de aprendizagem profissional, trabalho remunerado ou trabalho voluntário supervisionado, desde que explicitada a relação com o currículo do ensino médio; (Incluído pela Lei nº 14.945, de 2024)\n\nII - a conclusão de cursos de qualificação profissional, desde que comprovada por certificação emitida de acordo com a legislação; e (Incluído pela Lei nº 14.945, de 2024)\n\nIII - a participação comprovada em projetos de extensão universitária ou de iniciação científica ou em atividades de direção em grêmios estudantis. (Incluído pela Lei nº 14.945, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2035-B.%20O%20curr%C3%ADculo%20do%20ensino%20m%C3%A9dio%20ser%C3%A1%20composto%20de%20forma%C3%A7%C3%A3o%20geral%20b%C3%A1sica%20e%20de%20itiner%C3%A1rios%20formativos.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.945%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "35-A",
+      "next": "35-C"
+    },
+    "35-C": {
+      "numero": "35-C",
+      "texto": "Art. 35-C. A formação geral básica, com carga horária mínima total de 2.400 (duas mil e quatrocentas) horas, ocorrerá mediante articulação da Base Nacional Comum Curricular e da parte diversificada de que trata o caput do art. 26 desta Lei. (Incluído pela Lei nº 14.945, de 2024)\n\nParágrafo único. No caso da formação técnica e profissional prevista no inciso V do caput do art. 36 desta Lei, a carga horária mínima da formação geral básica será de 2.100 (duas mil e cem) horas, admitindo-se que até 300 (trezentas) horas da carga horária da formação geral básica sejam destinadas ao aprofundamento de estudos de conteúdos da Base Nacional Comum Curricular diretamente relacionados à formação técnica profissional oferecida. (Incluído pela Lei nº 14.945, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2035-C.%20A%20forma%C3%A7%C3%A3o%20geral%20b%C3%A1sica%2C%20com%20carga%20hor%C3%A1ria%20m%C3%ADnima%20total%20de%202.400%20%28duas%20mil%20e%20quatrocentas%29%20horas%2C%20ocorrer%C3%A1%20mediante%20articula%C3%A7%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "35-B",
+      "next": "35-D"
+    },
+    "35-D": {
+      "numero": "35-D",
+      "texto": "Art. 35-D. A Base Nacional Comum Curricular do ensino médio estabelecerá direitos e objetivos de aprendizagem, conforme diretrizes do Conselho Nacional de Educação, nas seguintes áreas do conhecimento: (Incluído pela Lei nº 14.945, de 2024)\n\nI - linguagens e suas tecnologias, integrada pela língua portuguesa e suas literaturas, língua inglesa, artes e educação física; (Incluído pela Lei nº 14.945, de 2024)\n\nII – matemática e suas tecnologias; (Incluído pela Lei nº 14.945, de 2024)\n\nIII – ciências da natureza e suas tecnologias, integrada por biologia, física e química; (Incluído pela Lei nº 14.945, de 2024)\n\nIV – ciências humanas e sociais aplicadas, integrada por filosofia, geografia, história e sociologia. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 1º A Base Nacional Comum Curricular a que se refere o caput deste artigo deverá ser cumprida integralmente ao longo da formação geral básica. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 2º O ensino médio será ministrado em língua portuguesa, assegurada às comunidades indígenas a utilização das línguas maternas. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 3º Os currículos do ensino médio poderão ofertar outras línguas estrangeiras, preferencialmente o espanhol, de acordo com a disponibilidade de oferta, locais e horários definidos pelos sistemas de ensino. (Incluído pela Lei nº 14.945, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2035-D.%20A%20Base%20Nacional%20Comum%20Curricular%20do%20ensino%20m%C3%A9dio%20estabelecer%C3%A1%20direitos%20e%20objetivos%20de%20aprendizagem%2C%20conforme%20diretrizes%20do%20Conselho%20Nacional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "35-C",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os itinerários formativos, articulados com a parte diversificada de que trata o caput do art. 26 desta Lei, terão carga horária mínima de 600 (seiscentas) horas, ressalvadas as especificidades da formação técnica e profissional, e serão compostos de aprofundamento das áreas do conhecimento ou de formação técnica e profissional, conforme a relevância para o contexto local e a possibilidade dos sistemas de ensino, consideradas as seguintes ênfases: (Redação dada pela Lei nº 14.945, de 2024)\n\nI - linguagens e suas tecnologias; (Redação dada pela Lei nº 13.415, de 2017)\n\nII - matemática e suas tecnologias; (Redação dada pela Lei nº 13.415, de 2017)\n\nIII - ciências da natureza e suas tecnologias; (Redação dada pela Lei nº 13.415, de 2017)\n\nIV - ciências humanas e sociais aplicadas; (Redação dada pela Lei nº 13.415, de 2017)\n\nV - formação técnica e profissional, organizada de acordo com os eixos tecnológicos e as áreas tecnológicas definidos nos termos previstos nas diretrizes curriculares nacionais de educação profissional e tecnológica, observados o Catálogo Nacional de Cursos Técnicos (CNCT) referido no § 3º do art. 42-A e o disposto nos arts. 36-A, 36-B, 36-C e 36-D desta Lei. (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 1º-A Cada itinerário formativo deverá contemplar integralmente o aprofundamento de ao menos uma das áreas do conhecimento previstas nos incisos I, II, III e IV do caput, ressalvada a formação técnica e profissional prevista no inciso V do caput deste artigo. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 2º (Revogado pela Lei nº 11.741, de 2008)\n\n§ 2º-A Os sistemas de ensino deverão garantir que todas as escolas de ensino médio ofertem o aprofundamento integral de todas as áreas do conhecimento previstas nos incisos I, II, III e IV do caput deste artigo, organizadas em, no mínimo, 2 (dois) itinerários formativos com ênfases distintas, excetuadas as que oferecerem a formação técnica e profissional. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 2º-B O Conselho Nacional de Educação, com participação dos sistemas estaduais e distrital de ensino, elaborará diretrizes nacionais de aprofundamento de cada uma das áreas do conhecimento previstas nos incisos I, II, III e IV do caput deste artigo, com orientações sobre os direitos e os objetivos de aprendizagem a serem considerados nos itinerários formativos, reconhecidas as especificidades da educação indígena e quilombola. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 2º-C A União desenvolverá indicadores e estabelecerá padrões de desempenho esperados para o ensino médio, que serão referência nos processos nacionais de avaliação, a partir da Base Nacional Comum Curricular prevista no caput do art. 35-D desta Lei e das diretrizes nacionais de aprofundamento previstas no § 2º-B deste artigo. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 2º-D Os sistemas de ensino apoiarão as escolas para a realização de programas e de projetos destinados à orientação dos estudantes no processo de escolha dos itinerários formativos. (Incluído pela Lei nº 14.945, de 2024)\n\n§ 3o (Revogado). (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 4º (Revogado pela Lei nº 11.741, de 2008)\n\n§ 5º Os sistemas de ensino, mediante disponibilidade de vagas na rede, possibilitarão ao aluno concluinte ou egresso do ensino médio cursar um segundo itinerário formativo. (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 6º A oferta de formação técnica e profissional poderá ser realizada mediante convênios ou outras formas de parceria entre as secretarias de educação e as instituições credenciadas de educação profissional, preferencialmente públicas, observados os limites estabelecidos na legislação, e considerará: (Redação dada pela Lei nº 14.945, de 2024)\n\nI - a inclusão de vivências práticas de trabalho no setor produtivo ou em ambientes de simulação, estabelecendo parcerias e fazendo uso, quando aplicável, de instrumentos estabelecidos pela legislação sobre aprendizagem profissional; (Incluído pela Lei nº 13.415, de 2017)\n\nII – (revogado). (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 7º A oferta de formações experimentais relacionadas ao inciso V do caput, em áreas que não constem do Catálogo Nacional dos Cursos Técnicos, dependerá, para sua continuidade, do reconhecimento pelo respectivo Conselho Estadual de Educação, no prazo de três anos, e da inserção no Catálogo Nacional dos Cursos Técnicos, no prazo de cinco anos, contados da data de oferta inicial da formação. (Incluído pela Lei nº 13.415, de 2017)\n\n§ 8º (Revogado). (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 8º-A Os Estados manterão, na sede de cada um de seus Municípios, pelo menos 1 (uma) escola de sua rede pública com oferta de ensino médio regular no turno noturno, quando houver demanda manifesta e comprovada para matrícula de alunos nesse turno, na forma da regulamentação a ser estabelecida pelo respectivo sistema de ensino. (Incluído Lei nº 14.945, de 2024)\n\n§ 9º As instituições de ensino emitirão certificado com validade nacional, que habilitará o concluinte do ensino médio ao prosseguimento dos estudos em nível superior ou em outros cursos ou formações para os quais a conclusão do ensino médio seja etapa obrigatória. (Incluído pela Lei nº 13.415, de 2017)\n\n§ 10. (Revogado). (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 11. (Revogado). (Redação dada pela Lei nº 14.945, de 2024)\n\n§ 12. (Revogado). (Redação dada pela Lei nº 14.945, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2036.%20Os%20itiner%C3%A1rios%20formativos%2C%20articulados%20com%20a%20parte%20diversificada%20de%20que%20trata%20o%20caput%20do%20art.%2026%20desta%20Lei%2C%20ter%C3%A3o%20carga",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "35-D",
+      "next": "36-A"
+    },
+    "36-A": {
+      "numero": "36-A",
+      "texto": "Art. 36-A. Sem prejuízo do disposto na Seção IV deste Capítulo, o ensino médio, atendida a formação geral do educando, poderá prepará-lo para o exercício de profissões técnicas. (Incluído pela Lei nº 11.741, de 2008)\n\nParágrafo único. A preparação geral para o trabalho e, facultativamente, a habilitação profissional poderão ser desenvolvidas nos próprios estabelecimentos de ensino médio ou em cooperação com instituições especializadas em educação profissional. (Incluído pela Lei nº 11.741, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2036-A.%20Sem%20preju%C3%ADzo%20do%20disposto%20na%20Se%C3%A7%C3%A3o%20IV%20deste%20Cap%C3%ADtulo%2C%20o%20ensino%20m%C3%A9dio%2C%20atendida%20a%20forma%C3%A7%C3%A3o%20geral%20do%20educando%2C%20poder%C3%A1%20prepar%C3%A1-lo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "36",
+      "next": "36-B"
+    },
+    "36-B": {
+      "numero": "36-B",
+      "texto": "Art. 36-B. A educação profissional técnica de nível médio será desenvolvida nas seguintes formas: (Incluído pela Lei nº 11.741, de 2008)\n\nI - articulada com o ensino médio; (Incluído pela Lei nº 11.741, de 2008)\n\nII - subseqüente, em cursos destinados a quem já tenha concluído o ensino médio. (Incluído pela Lei nº 11.741, de 2008)\n\n§ 1º A educação profissional técnica de nível médio deverá observar: (Redação dada pela Lei nº 14.645, de 2023)\n\nI - os objetivos e definições contidos nas diretrizes curriculares nacionais estabelecidas pelo Conselho Nacional de Educação; (Incluído pela Lei nº 11.741, de 2008)\n\nII - as normas complementares dos respectivos sistemas de ensino; (Incluído pela Lei nº 11.741, de 2008)\n\nIII - as exigências de cada instituição de ensino, nos termos de seu projeto pedagógico. (Incluído pela Lei nº 11.741, de 2008)\n\n§ 2º As formas referidas nos incisos I e II do caput deste artigo poderão também ser oferecidas em articulação com a aprendizagem profissional, nos termos da Lei nº 10.097, de 19 de dezembro de 2000. (Incluído pela Lei nº 14.645, de 2023)\n\n§ 3º Quando a educação profissional técnica de nível médio for oferecida em articulação com a aprendizagem profissional, poderá haver aproveitamento: (Incluído pela Lei nº 14.645, de 2023)\n\nI - das atividades pedagógicas de educação profissional técnica de nível médio, para efeito de cumprimento do contrato de aprendizagem profissional, nos termos de regulamento; (Incluído pela Lei nº 14.645, de 2023)\n\nII - das horas de trabalho em aprendizagem profissional para efeito de integralização da carga horária do ensino médio, no itinerário da formação técnica e profissional ou na educação profissional técnica de nível médio, nos termos de regulamento. (Incluído pela Lei nº 14.645, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2036-B.%20A%20educa%C3%A7%C3%A3o%20profissional%20t%C3%A9cnica%20de%20n%C3%ADvel%20m%C3%A9dio%20ser%C3%A1%20desenvolvida%20nas%20seguintes%20formas%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2011.741%2C%20de%202008%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "36-A",
+      "next": "36-C"
+    },
+    "36-C": {
+      "numero": "36-C",
+      "texto": "Art. 36-C. A educação profissional técnica de nível médio articulada, prevista no inciso I do caput do art. 36-B desta Lei, será desenvolvida de forma: (Incluído pela Lei nº 11.741, de 2008)\n\nI - integrada, oferecida somente a quem já tenha concluído o ensino fundamental, sendo o curso planejado de modo a conduzir o aluno à habilitação profissional técnica de nível médio, na mesma instituição de ensino, efetuando-se matrícula única para cada aluno; (Incluído pela Lei nº 11.741, de 2008)\n\nII - concomitante, oferecida a quem ingresse no ensino médio ou já o esteja cursando, efetuando-se matrículas distintas para cada curso, e podendo ocorrer: (Incluído pela Lei nº 11.741, de 2008)\n\na) na mesma instituição de ensino, aproveitando-se as oportunidades educacionais disponíveis; (Incluído pela Lei nº 11.741, de 2008)\n\nb) em instituições de ensino distintas, aproveitando-se as oportunidades educacionais disponíveis; (Incluído pela Lei nº 11.741, de 2008)\n\nc) em instituições de ensino distintas, mediante convênios de intercomplementaridade, visando ao planejamento e ao desenvolvimento de projeto pedagógico unificado. (Incluído pela Lei nº 11.741, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2036-C.%20A%20educa%C3%A7%C3%A3o%20profissional%20t%C3%A9cnica%20de%20n%C3%ADvel%20m%C3%A9dio%20articulada%2C%20prevista%20no%20inciso%20I%20do%20caput%20do%20art.%2036-B%20desta%20Lei%2C%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "36-B",
+      "next": "36-D"
+    },
+    "36-D": {
+      "numero": "36-D",
+      "texto": "Art. 36-D. Os diplomas de cursos de educação profissional técnica de nível médio, quando registrados, terão validade nacional e habilitarão ao prosseguimento de estudos na educação superior. (Incluído pela Lei nº 11.741, de 2008)\n\nParágrafo único. Os cursos de educação profissional técnica de nível médio, nas formas articulada concomitante e subseqüente, quando estruturados e organizados em etapas com terminalidade, possibilitarão a obtenção de certificados de qualificação para o trabalho após a conclusão, com aproveitamento, de cada etapa que caracterize uma qualificação para o trabalho. (Incluído pela Lei nº 11.741, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2036-D.%20Os%20diplomas%20de%20cursos%20de%20educa%C3%A7%C3%A3o%20profissional%20t%C3%A9cnica%20de%20n%C3%ADvel%20m%C3%A9dio%2C%20quando%20registrados%2C%20ter%C3%A3o%20validade%20nacional%20e%20habilitar%C3%A3o%20ao%20prosseguimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "36-C",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A educação de jovens e adultos será destinada àqueles que não tiveram acesso ou continuidade de estudos nos ensinos fundamental e médio na idade própria e constituirá instrumento para a educação e a aprendizagem ao longo da vida. (Redação dada pela Lei nº 13.632, de 2018)\n\n§ 1º Os sistemas de ensino assegurarão gratuitamente aos jovens e aos adultos, que não puderam efetuar os estudos na idade regular, oportunidades educacionais apropriadas, consideradas as características do alunado, seus interesses, condições de vida e de trabalho, mediante cursos e exames.\n\n§ 2º O Poder Público viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares entre si.\n\n§ 3º A educação de jovens e adultos deverá articular-se, preferencialmente, com a educação profissional, na forma do regulamento. (Incluído pela Lei nº 11.741, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2037.%20A%20educa%C3%A7%C3%A3o%20de%20jovens%20e%20adultos%20ser%C3%A1%20destinada%20%C3%A0queles%20que%20n%C3%A3o%20tiveram%20acesso%20ou%20continuidade%20de%20estudos%20nos%20ensinos%20fundamental",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "36-D",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os sistemas de ensino manterão cursos e exames supletivos, que compreenderão a base nacional comum do currículo, habilitando ao prosseguimento de estudos em caráter regular.\n\n§ 1º Os exames a que se refere este artigo realizar-se-ão:\n\nI - no nível de conclusão do ensino fundamental, para os maiores de quinze anos;\n\nII - no nível de conclusão do ensino médio, para os maiores de dezoito anos.\n\n§ 2º Os conhecimentos e habilidades adquiridos pelos educandos por meios informais serão aferidos e reconhecidos mediante exames.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2038.%20Os%20sistemas%20de%20ensino%20manter%C3%A3o%20cursos%20e%20exames%20supletivos%2C%20que%20compreender%C3%A3o%20a%20base%20nacional%20comum%20do%20curr%C3%ADculo%2C%20habilitando%20ao%20prosseguimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A educação profissional e tecnológica, no cumprimento dos objetivos da educação nacional, integra-se aos diferentes níveis e modalidades de educação e às dimensões do trabalho, da ciência e da tecnologia. (Redação dada pela Lei nº 11.741, de 2008)\n\n§ 1º Os cursos de educação profissional e tecnológica poderão ser organizados por eixos tecnológicos, possibilitando a construção de diferentes itinerários formativos, observadas as normas do respectivo sistema e nível de ensino. (Incluído pela Lei nº 11.741, de 2008)\n\n§ 2º A educação profissional e tecnológica abrangerá os seguintes cursos: (Incluído pela Lei nº 11.741, de 2008)\n\nI – de formação inicial e continuada ou qualificação profissional; (Incluído pela Lei nº 11.741, de 2008)\n\nII – de educação profissional técnica de nível médio; (Incluído pela Lei nº 11.741, de 2008)\n\nIII – de educação profissional tecnológica de graduação e pós-graduação. (Incluído pela Lei nº 11.741, de 2008)\n\n§ 3º Os cursos de educação profissional tecnológica de graduação e pós-graduação organizar-se-ão, no que concerne a objetivos, características e duração, de acordo com as diretrizes curriculares nacionais estabelecidas pelo Conselho Nacional de Educação. (Incluído pela Lei nº 11.741, de 2008)\n\n§ 4º As instituições de educação superior deverão dar transparência e estabelecer critérios e procedimentos objetivos para o aproveitamento das experiências e dos conhecimentos desenvolvidos na educação profissional técnica de nível médio, sempre que o curso desse nível e o de nível superior sejam de áreas afins, nos termos de regulamento. (Incluído pela Lei nº 14.645, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2039.%20A%20educa%C3%A7%C3%A3o%20profissional%20e%20tecnol%C3%B3gica%2C%20no%20cumprimento%20dos%20objetivos%20da%20educa%C3%A7%C3%A3o%20nacional%2C%20integra-se%20aos%20diferentes%20n%C3%ADveis%20e%20modalidades%20de%20educa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A educação profissional será desenvolvida em articulação com o ensino regular ou por diferentes estratégias de educação continuada, em instituições especializadas ou no ambiente de trabalho. (Regulamento) (Regulamento) (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2040.%20A%20educa%C3%A7%C3%A3o%20profissional%20ser%C3%A1%20desenvolvida%20em%20articula%C3%A7%C3%A3o%20com%20o%20ensino%20regular%20ou%20por%20diferentes%20estrat%C3%A9gias%20de%20educa%C3%A7%C3%A3o%20continuada%2C%20em%20institui%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos. (Redação dada pela Lei nº 11.741, de 2008)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 11.741, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2041.%20O%20conhecimento%20adquirido%20na%20educa%C3%A7%C3%A3o%20profissional%20e%20tecnol%C3%B3gica%2C%20inclusive%20no%20trabalho%2C%20poder%C3%A1%20ser%20objeto%20de%20avalia%C3%A7%C3%A3o%2C%20reconhecimento%20e%20certifica%C3%A7%C3%A3o%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. As instituições de educação profissional e tecnológica, além dos seus cursos regulares, oferecerão cursos especiais, abertos à comunidade, condicionada a matrícula à capacidade de aproveitamento e não necessariamente ao nível de escolaridade. (Redação dada pela Lei nº 11.741, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2042.%20As%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20profissional%20e%20tecnol%C3%B3gica%2C%20al%C3%A9m%20dos%20seus%20cursos%20regulares%2C%20oferecer%C3%A3o%20cursos%20especiais%2C%20abertos%20%C3%A0%20comunidade%2C%20condicionada%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "42-A"
+    },
+    "42-A": {
+      "numero": "42-A",
+      "texto": "Art. 42-A. A educação profissional e tecnológica organizada em eixos tecnológicos observará o princípio da integração curricular entre cursos e programas, de modo a viabilizar itinerários formativos contínuos e trajetórias progressivas de formação entre todos os níveis educacionais. (Incluído pela Lei nº 14.645, de 2023)\n\n§ 1º O itinerário contínuo de formação profissional e tecnológica é o percurso formativo estruturado de forma a permitir o aproveitamento incremental de experiências, certificações e conhecimentos desenvolvidos ao longo da trajetória individual do estudante. (Incluído pela Lei nº 14.645, de 2023)\n\n§ 2º O itinerário referido no § 1º deste artigo poderá integrar um ou mais eixos tecnológicos. (Incluído pela Lei nº 14.645, de 2023)\n\n§ 3º O Catálogo Nacional de Cursos Técnicos (CNCT) e o Catálogo Nacional de Cursos Superiores de Tecnologia (CNCST) orientarão a organização dos cursos e itinerários, segundo eixos tecnológicos, de forma a permitir sua equivalência para o aproveitamento de estudos entre os níveis médio e superior. (Incluído pela Lei nº 14.645, de 2023)\n\n§ 4º O Ministério da Educação, em colaboração com os sistemas de ensino, as instituições e as redes de educação profissional e tecnológica e as entidades representativas de empregadores e trabalhadores, observadas a Classificação Brasileira de Ocupações (CBO) e a dinâmica do mundo do trabalho, manterá e periodicamente atualizará os catálogos referidos no § 3º deste artigo. (Incluído pela Lei nº 14.645, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2042-A.%20A%20educa%C3%A7%C3%A3o%20profissional%20e%20tecnol%C3%B3gica%20organizada%20em%20eixos%20tecnol%C3%B3gicos%20observar%C3%A1%20o%20princ%C3%ADpio%20da%20integra%C3%A7%C3%A3o%20curricular%20entre%20cursos%20e%20programas%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "42-B"
+    },
+    "42-B": {
+      "numero": "42-B",
+      "texto": "Art. 42-B. A oferta de educação profissional técnica e tecnológica será orientada pela avaliação da qualidade das instituições e dos cursos referida no inciso VII-A do caput do art. 9º desta Lei, que deverá considerar as estatísticas de oferta, fluxo e rendimento, a aprendizagem dos saberes do trabalho, a aderência da oferta ao contexto social, econômico e produtivo local e nacional, a inserção dos egressos no mundo do trabalho e as condições institucionais de oferta. (Incluído pela Lei nº 14.645, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2042-B.%20A%20oferta%20de%20educa%C3%A7%C3%A3o%20profissional%20t%C3%A9cnica%20e%20tecnol%C3%B3gica%20ser%C3%A1%20orientada%20pela%20avalia%C3%A7%C3%A3o%20da%20qualidade%20das%20institui%C3%A7%C3%B5es%20e%20dos%20cursos%20referida",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42-A",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A educação superior tem por finalidade:\n\nI - estimular a criação cultural e o desenvolvimento do espírito científico e do pensamento reflexivo;\n\nII - formar diplomados nas diferentes áreas de conhecimento, aptos para a inserção em setores profissionais e para a participação no desenvolvimento da sociedade brasileira, e colaborar na sua formação contínua;\n\nIII - incentivar o trabalho de pesquisa e investigação científica, visando o desenvolvimento da ciência e da tecnologia e da criação e difusão da cultura, e, desse modo, desenvolver o entendimento do homem e do meio em que vive;\n\nIV - promover a divulgação de conhecimentos culturais, científicos e técnicos que constituem patrimônio da humanidade e comunicar o saber através do ensino, de publicações ou de outras formas de comunicação;\n\nV - suscitar o desejo permanente de aperfeiçoamento cultural e profissional e possibilitar a correspondente concretização, integrando os conhecimentos que vão sendo adquiridos numa estrutura intelectual sistematizadora do conhecimento de cada geração;\n\nVI - estimular o conhecimento dos problemas do mundo presente, em particular os nacionais e regionais, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;\n\nVII - promover a extensão, aberta à participação da população, visando à difusão das conquistas e benefícios resultantes da criação cultural e da pesquisa científica e tecnológica geradas na instituição.\n\nVIII - atuar em favor da universalização e do aprimoramento da educação básica, mediante a formação e a capacitação de profissionais, a realização de pesquisas pedagógicas e o desenvolvimento de atividades de extensão que aproximem os dois níveis escolares. (Incluído pela Lei nº 13.174, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2043.%20A%20educa%C3%A7%C3%A3o%20superior%20tem%20por%20finalidade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42-B",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. A educação superior abrangerá os seguintes cursos e programas: (Regulamento)\n\nI - cursos seqüenciais por campo de saber, de diferentes níveis de abrangência, abertos a candidatos que atendam aos requisitos estabelecidos pelas instituições de ensino, desde que tenham concluído o ensino médio ou equivalente; (Redação dada pela Lei nº 11.632, de 2007).\n\nII - de graduação, abertos a candidatos que tenham concluído o ensino médio ou equivalente e tenham sido classificados em processo seletivo;\n\nIII - de pós-graduação, compreendendo programas de mestrado e doutorado, cursos de especialização, aperfeiçoamento e outros, abertos a candidatos diplomados em cursos de graduação e que atendam às exigências das instituições de ensino;\n\nIV - de extensão, abertos a candidatos que atendam aos requisitos estabelecidos em cada caso pelas instituições de ensino.\n\n§ 1º O resultado do processo seletivo referido no inciso II do caput deste artigo será tornado público pela instituição de ensino superior, sendo obrigatórios a divulgação da relação nominal dos classificados, a respectiva ordem de classificação e o cronograma das chamadas para matrícula, de acordo com os critérios para preenchimento das vagas constantes do edital, assegurado o direito do candidato, classificado ou não, a ter acesso a suas notas ou indicadores de desempenho em provas, exames e demais atividades da seleção e a sua posição na ordem de classificação de todos os candidatos. (Redação dada pela Lei nº 13.826, de 2019)\n\n§ 2º No caso de empate no processo seletivo, as instituições públicas de ensino superior darão prioridade de matrícula ao candidato que comprove ter renda familiar inferior a dez salários mínimos, ou ao de menor renda familiar, quando mais de um candidato preencher o critério inicial. (Incluído pela Lei nº 13.184, de 2015)\n\n§ 3º O processo seletivo referido no inciso II considerará as competências e as habilidades definidas na Base Nacional Comum Curricular. (Incluído pela lei nº 13.415, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2044.%20A%20educa%C3%A7%C3%A3o%20superior%20abranger%C3%A1%20os%20seguintes%20cursos%20e%20programas%3A%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A educação superior será ministrada em instituições de ensino superior, públicas ou privadas, com variados graus de abrangência ou especialização. (Regulamento) (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2045.%20A%20educa%C3%A7%C3%A3o%20superior%20ser%C3%A1%20ministrada%20em%20institui%C3%A7%C3%B5es%20de%20ensino%20superior%2C%20p%C3%BAblicas%20ou%20privadas%2C%20com%20variados%20graus%20de%20abrang%C3%AAncia%20ou%20especializa%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A autorização e o reconhecimento de cursos, bem como o credenciamento de instituições de educação superior, terão prazos limitados, sendo renovados, periodicamente, após processo regular de avaliação. (Regulamento) (Regulamento) (Vide Lei nº 10.870, de 2004)\n\n§ 1º Após um prazo para saneamento de deficiências eventualmente identificadas pela avaliação a que se refere este artigo, haverá reavaliação, que poderá resultar, conforme o caso, em desativação de cursos e habilitações, em intervenção na instituição, em suspensão temporária de prerrogativas da autonomia, ou em descredenciamento. (Regulamento) (Regulamento) (Vide Lei nº 10.870, de 2004)\n\n§ 2º No caso de instituição pública, o Poder Executivo responsável por sua manutenção acompanhará o processo de saneamento e fornecerá recursos adicionais, se necessários, para a superação das deficiências.\n\n§ 3º No caso de instituição privada, além das sanções previstas no § 1o deste artigo, o processo de reavaliação poderá resultar em redução de vagas autorizadas e em suspensão temporária de novos ingressos e de oferta de cursos. (Incluído pela Lei nº 13.530, de 2017)\n\n§ 4º É facultado ao Ministério da Educação, mediante procedimento específico e com aquiescência da instituição de ensino, com vistas a resguardar os interesses dos estudantes, comutar as penalidades previstas nos §§ 1o e 3o deste artigo por outras medidas, desde que adequadas para superação das deficiências e irregularidades constatadas. (Incluído pela Lei nº 13.530, de 2017)\n\n§ 5º Para fins de regulação, os Estados e o Distrito Federal deverão adotar os critérios definidos pela União para autorização de funcionamento de curso de graduação em Medicina. (Incluído pela Lei nº 13.530, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2046.%20A%20autoriza%C3%A7%C3%A3o%20e%20o%20reconhecimento%20de%20cursos%2C%20bem%20como%20o%20credenciamento%20de%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior%2C%20ter%C3%A3o%20prazos%20limitados%2C%20sendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Na educação superior, o ano letivo regular, independente do ano civil, tem, no mínimo, duzentos dias de trabalho acadêmico efetivo, excluído o tempo reservado aos exames finais, quando houver.\n\n§ 1º As instituições informarão aos interessados, antes de cada período letivo, os programas dos cursos e demais componentes curriculares, sua duração, requisitos, qualificação dos professores, recursos disponíveis e critérios de avaliação, obrigando-se a cumprir as respectivas condições, e a publicação deve ser feita, sendo as 3 (três) primeiras formas concomitantemente: (Redação dada pela lei nº 13.168, de 2015)\n\nI - em página específica na internet no sítio eletrônico oficial da instituição de ensino superior, obedecido o seguinte: (Incluído pela lei nº 13.168, de 2015)\n\na) toda publicação a que se refere esta Lei deve ter como título “Grade e Corpo Docente”; (Incluída pela lei nº 13.168, de 2015)\n\nb) a página principal da instituição de ensino superior, bem como a página da oferta de seus cursos aos ingressantes sob a forma de vestibulares, processo seletivo e outras com a mesma finalidade, deve conter a ligação desta com a página específica prevista neste inciso; (Incluída pela lei nº 13.168, de 2015)\n\nc) caso a instituição de ensino superior não possua sítio eletrônico, deve criar página específica para divulgação das informações de que trata esta Lei; (Incluída pela lei nº 13.168, de 2015)\n\nd) a página específica deve conter a data completa de sua última atualização; (Incluída pela lei nº 13.168, de 2015)\n\nII - em toda propaganda eletrônica da instituição de ensino superior, por meio de ligação para a página referida no inciso I; (Incluído pela lei nº 13.168, de 2015)\n\nIII - em local visível da instituição de ensino superior e de fácil acesso ao público; (Incluído pela lei nº 13.168, de 2015)\n\nIV - deve ser atualizada semestralmente ou anualmente, de acordo com a duração das disciplinas de cada curso oferecido, observando o seguinte: (Incluído pela lei nº 13.168, de 2015)\n\na) caso o curso mantenha disciplinas com duração diferenciada, a publicação deve ser semestral; (Incluída pela lei nº 13.168, de 2015)\n\nb) a publicação deve ser feita até 1 (um) mês antes do início das aulas; (Incluída pela lei nº 13.168, de 2015)\n\nc) caso haja mudança na grade do curso ou no corpo docente até o início das aulas, os alunos devem ser comunicados sobre as alterações; (Incluída pela lei nº 13.168, de 2015)\n\nV - deve conter as seguintes informações: (Incluído pela lei nº 13.168, de 2015)\n\na) a lista de todos os cursos oferecidos pela instituição de ensino superior; (Incluída pela lei nº 13.168, de 2015)\n\nb) a lista das disciplinas que compõem a grade curricular de cada curso e as respectivas cargas horárias; (Incluída pela lei nº 13.168, de 2015)\n\nc) a identificação dos docentes que ministrarão as aulas em cada curso, as disciplinas que efetivamente ministrará naquele curso ou cursos, sua titulação, abrangendo a qualificação profissional do docente e o tempo de casa do docente, de forma total, contínua ou intermitente. (Incluída pela lei nº 13.168, de 2015)\n\n§ 2º Os alunos que tenham extraordinário aproveitamento nos estudos, demonstrado por meio de provas e outros instrumentos de avaliação específicos, aplicados por banca examinadora especial, poderão ter abreviada a duração dos seus cursos, de acordo com as normas dos sistemas de ensino.\n\n§ 3º É obrigatória a freqüência de alunos e professores, salvo nos programas de educação a distância.\n\n§ 4º As instituições de educação superior oferecerão, no período noturno, cursos de graduação nos mesmos padrões de qualidade mantidos no período diurno, sendo obrigatória a oferta noturna nas instituições públicas, garantida a necessária previsão orçamentária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2047.%20Na%20educa%C3%A7%C3%A3o%20superior%2C%20o%20ano%20letivo%20regular%2C%20independente%20do%20ano%20civil%2C%20tem%2C%20no%20m%C3%ADnimo%2C%20duzentos%20dias%20de%20trabalho%20acad%C3%AAmico%20efetivo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os diplomas de cursos superiores reconhecidos, quando registrados, terão validade nacional como prova da formação recebida por seu titular.\n\n§ 1º Os diplomas expedidos pelas universidades serão por elas próprias registrados, e aqueles conferidos por instituições não-universitárias serão registrados em universidades indicadas pelo Conselho Nacional de Educação.\n\n§ 2º Os diplomas de graduação expedidos por universidades estrangeiras serão revalidados por universidades públicas que tenham curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação.\n\n§ 3º Os diplomas de Mestrado e de Doutorado expedidos por universidades estrangeiras só poderão ser reconhecidos por universidades que possuam cursos de pós-graduação reconhecidos e avaliados, na mesma área de conhecimento e em nível equivalente ou superior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2048.%20Os%20diplomas%20de%20cursos%20superiores%20reconhecidos%2C%20quando%20registrados%2C%20ter%C3%A3o%20validade%20nacional%20como%20prova%20da%20forma%C3%A7%C3%A3o%20recebida%20por%20seu%20titular.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. As instituições de educação superior aceitarão a transferência de alunos regulares, para cursos afins, na hipótese de existência de vagas, e mediante processo seletivo.\n\nParágrafo único. As transferências ex officio dar-se-ão na forma da lei. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2049.%20As%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior%20aceitar%C3%A3o%20a%20transfer%C3%AAncia%20de%20alunos%20regulares%2C%20para%20cursos%20afins%2C%20na%20hip%C3%B3tese%20de%20exist%C3%AAncia%20de%20vagas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. As instituições de educação superior, quando da ocorrência de vagas, abrirão matrícula nas disciplinas de seus cursos a alunos não regulares que demonstrarem capacidade de cursá-las com proveito, mediante processo seletivo prévio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2050.%20As%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior%2C%20quando%20da%20ocorr%C3%AAncia%20de%20vagas%2C%20abrir%C3%A3o%20matr%C3%ADcula%20nas%20disciplinas%20de%20seus%20cursos%20a%20alunos%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. As instituições de educação superior credenciadas como universidades, ao deliberar sobre critérios e normas de seleção e admissão de estudantes, levarão em conta os efeitos desses critérios sobre a orientação do ensino médio, articulando-se com os órgãos normativos dos sistemas de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2051.%20As%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior%20credenciadas%20como%20universidades%2C%20ao%20deliberar%20sobre%20crit%C3%A9rios%20e%20normas%20de%20sele%C3%A7%C3%A3o%20e%20admiss%C3%A3o%20de%20estudantes%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. As universidades são instituições pluridisciplinares de formação dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio e cultivo do saber humano, que se caracterizam por: (Regulamento) (Regulamento)\n\nI - produção intelectual institucionalizada mediante o estudo sistemático dos temas e problemas mais relevantes, tanto do ponto de vista científico e cultural, quanto regional e nacional;\n\nII - um terço do corpo docente, pelo menos, com titulação acadêmica de mestrado ou doutorado;\n\nIII - um terço do corpo docente em regime de tempo integral.\n\nParágrafo único. É facultada a criação de universidades especializadas por campo do saber. (Regulamento) (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2052.%20As%20universidades%20s%C3%A3o%20institui%C3%A7%C3%B5es%20pluridisciplinares%20de%20forma%C3%A7%C3%A3o%20dos%20quadros%20profissionais%20de%20n%C3%ADvel%20superior%2C%20de%20pesquisa%2C%20de%20extens%C3%A3o%20e%20de%20dom%C3%ADnio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. No exercício de sua autonomia, são asseguradas às universidades, sem prejuízo de outras, as seguintes atribuições:\n\nI - criar, organizar e extinguir, em sua sede, cursos e programas de educação superior previstos nesta Lei, obedecendo às normas gerais da União e, quando for o caso, do respectivo sistema de ensino; (Regulamento)\n\nII - fixar os currículos dos seus cursos e programas, observadas as diretrizes gerais pertinentes;\n\nIII - estabelecer planos, programas e projetos de pesquisa científica, produção artística e atividades de extensão;\n\nIV - fixar o número de vagas de acordo com a capacidade institucional e as exigências do seu meio;\n\nV - elaborar e reformar os seus estatutos e regimentos em consonância com as normas gerais atinentes;\n\nVI - conferir graus, diplomas e outros títulos;\n\nVII - firmar contratos, acordos e convênios;\n\nVIII - aprovar e executar planos, programas e projetos de investimentos referentes a obras, serviços e aquisições em geral, bem como administrar rendimentos conforme dispositivos institucionais;\n\nIX - administrar os rendimentos e deles dispor na forma prevista no ato de constituição, nas leis e nos respectivos estatutos;\n\nX - receber subvenções, doações, heranças, legados e cooperação financeira resultante de convênios com entidades públicas e privadas.\n\n§ 1º Para garantir a autonomia didático-científica das universidades, caberá aos seus colegiados de ensino e pesquisa decidir, dentro dos recursos orçamentários disponíveis, sobre: (Redação dada pela Lei nº 13.490, de 2017)\n\nI - criação, expansão, modificação e extinção de cursos; (Redação dada pela Lei nº 13.490, de 2017)\n\nII - ampliação e diminuição de vagas; (Redação dada pela Lei nº 13.490, de 2017)\n\nIII - elaboração da programação dos cursos; (Redação dada pela Lei nº 13.490, de 2017)\n\nIV - programação das pesquisas e das atividades de extensão; (Redação dada pela Lei nº 13.490, de 2017)\n\nV - contratação e dispensa de professores; (Redação dada pela Lei nº 13.490, de 2017)\n\nVI - planos de carreira docente. (Redação dada pela Lei nº 13.490, de 2017)\n\n§ 2º As doações, inclusive monetárias, podem ser dirigidas a setores ou projetos específicos, conforme acordo entre doadores e universidades. (Incluído pela Lei nº 13.490, de 2017)\n\n§ 3º No caso das universidades públicas, os recursos das doações devem ser dirigidos ao caixa único da instituição, com destinação garantida às unidades a serem beneficiadas. (Incluído pela Lei nº 13.490, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2053.%20No%20exerc%C3%ADcio%20de%20sua%20autonomia%2C%20s%C3%A3o%20asseguradas%20%C3%A0s%20universidades%2C%20sem%20preju%C3%ADzo%20de%20outras%2C%20as%20seguintes%20atribui%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. As universidades mantidas pelo Poder Público gozarão, na forma da lei, de estatuto jurídico especial para atender às peculiaridades de sua estrutura, organização e financiamento pelo Poder Público, assim como dos seus planos de carreira e do regime jurídico do seu pessoal. (Regulamento) (Regulamento)\n\n§ 1º No exercício da sua autonomia, além das atribuições asseguradas pelo artigo anterior, as universidades públicas poderão:\n\nI - propor o seu quadro de pessoal docente, técnico e administrativo, assim como um plano de cargos e salários, atendidas as normas gerais pertinentes e os recursos disponíveis;\n\nII - elaborar o regulamento de seu pessoal em conformidade com as normas gerais concernentes;\n\nIII - aprovar e executar planos, programas e projetos de investimentos referentes a obras, serviços e aquisições em geral, de acordo com os recursos alocados pelo respectivo Poder mantenedor;\n\nIV - elaborar seus orçamentos anuais e plurianuais;\n\nV - adotar regime financeiro e contábil que atenda às suas peculiaridades de organização e funcionamento;\n\nVI - realizar operações de crédito ou de financiamento, com aprovação do Poder competente, para aquisição de bens imóveis, instalações e equipamentos;\n\nVII - efetuar transferências, quitações e tomar outras providências de ordem orçamentária, financeira e patrimonial necessárias ao seu bom desempenho.\n\n§ 2º Atribuições de autonomia universitária poderão ser estendidas a instituições que comprovem alta qualificação para o ensino ou para a pesquisa, com base em avaliação realizada pelo Poder Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2054.%20As%20universidades%20mantidas%20pelo%20Poder%20P%C3%BAblico%20gozar%C3%A3o%2C%20na%20forma%20da%20lei%2C%20de%20estatuto%20jur%C3%ADdico%20especial%20para%20atender%20%C3%A0s%20peculiaridades%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Caberá à União assegurar, anualmente, em seu Orçamento Geral, recursos suficientes para manutenção e desenvolvimento das instituições de educação superior por ela mantidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2055.%20Caber%C3%A1%20%C3%A0%20Uni%C3%A3o%20assegurar%2C%20anualmente%2C%20em%20seu%20Or%C3%A7amento%20Geral%2C%20recursos%20suficientes%20para%20manuten%C3%A7%C3%A3o%20e%20desenvolvimento%20das%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. As instituições públicas de educação superior obedecerão ao princípio da gestão transparente e democrática, assegurada a existência de órgãos colegiados deliberativos, dos quais participarão os segmentos da comunidade institucional, local e regional. (Redação dada pela Lei nº 15.001, de 2024)\n\nParágrafo único. Em qualquer caso, os docentes ocuparão setenta por cento dos assentos em cada órgão colegiado e comissão, inclusive nos que tratarem da elaboração e modificações estatutárias e regimentais, bem como da escolha de dirigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2056.%20As%20institui%C3%A7%C3%B5es%20p%C3%BAblicas%20de%20educa%C3%A7%C3%A3o%20superior%20obedecer%C3%A3o%20ao%20princ%C3%ADpio%20da%20gest%C3%A3o%20transparente%20e%20democr%C3%A1tica%2C%20assegurada%20a%20exist%C3%AAncia%20de%20%C3%B3rg%C3%A3os%20colegiados",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Nas instituições públicas de educação superior, o professor ficará obrigado ao mínimo de oito horas semanais de aulas. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2057.%20Nas%20institui%C3%A7%C3%B5es%20p%C3%BAblicas%20de%20educa%C3%A7%C3%A3o%20superior%2C%20o%20professor%20ficar%C3%A1%20obrigado%20ao%20m%C3%ADnimo%20de%20oito%20horas%20semanais%20de%20aulas.%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar oferecida preferencialmente na rede regular de ensino, para educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação. (Redação dada pela Lei nº 12.796, de 2013)\n\n§ 1º Haverá, quando necessário, serviços de apoio especializado, na escola regular, para atender às peculiaridades da clientela de educação especial.\n\n§ 2º O atendimento educacional será feito em classes, escolas ou serviços especializados, sempre que, em função das condições específicas dos alunos, não for possível a sua integração nas classes comuns de ensino regular.\n\n§ 3º A oferta de educação especial, nos termos do caput deste artigo, tem início na educação infantil e estende-se ao longo da vida, observados o inciso III do art. 4º e o parágrafo único do art. 60 desta Lei. (Redação dada pela Lei nº 13.632, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2058.%20Entende-se%20por%20educa%C3%A7%C3%A3o%20especial%2C%20para%20os%20efeitos%20desta%20Lei%2C%20a%20modalidade%20de%20educa%C3%A7%C3%A3o%20escolar%20oferecida%20preferencialmente%20na%20rede%20regular%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Os sistemas de ensino assegurarão aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação: (Redação dada pela Lei nº 12.796, de 2013)\n\nI - currículos, métodos, técnicas, recursos educativos e organização específicos, para atender às suas necessidades;\n\nII - terminalidade específica para aqueles que não puderem atingir o nível exigido para a conclusão do ensino fundamental, em virtude de suas deficiências, e aceleração para concluir em menor tempo o programa escolar para os superdotados;\n\nIII - professores com especialização adequada em nível médio ou superior, para atendimento especializado, bem como professores do ensino regular capacitados para a integração desses educandos nas classes comuns;\n\nIV - educação especial para o trabalho, visando a sua efetiva integração na vida em sociedade, inclusive condições adequadas para os que não revelarem capacidade de inserção no trabalho competitivo, mediante articulação com os órgãos oficiais afins, bem como para aqueles que apresentam uma habilidade superior nas áreas artística, intelectual ou psicomotora;\n\nV - acesso igualitário aos benefícios dos programas sociais suplementares disponíveis para o respectivo nível do ensino regular.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2059.%20Os%20sistemas%20de%20ensino%20assegurar%C3%A3o%20aos%20educandos%20com%20defici%C3%AAncia%2C%20transtornos%20globais%20do%20desenvolvimento%20e%20altas%20habilidades%20ou%20superdota%C3%A7%C3%A3o%3A%20%28Reda%C3%A7%C3%A3o%20dada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "59-A"
+    },
+    "59-A": {
+      "numero": "59-A",
+      "texto": "Art. 59-A. O poder público deverá instituir cadastro nacional de alunos com altas habilidades ou superdotação matriculados na educação básica e na educação superior, a fim de fomentar a execução de políticas públicas destinadas ao desenvolvimento pleno das potencialidades desse alunado. (Incluído pela Lei nº 13.234, de 2015)\n\nParágrafo único. A identificação precoce de alunos com altas habilidades ou superdotação, os critérios e procedimentos para inclusão no cadastro referido no caput deste artigo, as entidades responsáveis pelo cadastramento, os mecanismos de acesso aos dados do cadastro e as políticas de desenvolvimento das potencialidades do alunado de que trata o caput serão definidos em regulamento. (Incluído pela Lei nº 13.234, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2059-A.%20O%20poder%20p%C3%BAblico%20dever%C3%A1%20instituir%20cadastro%20nacional%20de%20alunos%20com%20altas%20habilidades%20ou%20superdota%C3%A7%C3%A3o%20matriculados%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20e%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Os órgãos normativos dos sistemas de ensino estabelecerão critérios de caracterização das instituições privadas sem fins lucrativos, especializadas e com atuação exclusiva em educação especial, para fins de apoio técnico e financeiro pelo Poder Público.\n\nParágrafo único. O poder público adotará, como alternativa preferencial, a ampliação do atendimento aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação na própria rede pública regular de ensino, independentemente do apoio às instituições previstas neste artigo. (Redação dada pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2060.%20Os%20%C3%B3rg%C3%A3os%20normativos%20dos%20sistemas%20de%20ensino%20estabelecer%C3%A3o%20crit%C3%A9rios%20de%20caracteriza%C3%A7%C3%A3o%20das%20institui%C3%A7%C3%B5es%20privadas%20sem%20fins%20lucrativos%2C%20especializadas%20e%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59-A",
+      "next": "60-A"
+    },
+    "60-A": {
+      "numero": "60-A",
+      "texto": "Art. 60-A. Entende-se por educação bilíngue de surdos, para os efeitos desta Lei, a modalidade de educação escolar oferecida em Língua Brasileira de Sinais (Libras), como primeira língua, e em português escrito, como segunda língua, em escolas bilíngues de surdos, classes bilíngues de surdos, escolas comuns ou em polos de educação bilíngue de surdos, para educandos surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas, optantes pela modalidade de educação bilíngue de surdos. (Incluído pela Lei nº 14.191, de 2021)\n\n§ 1º Haverá, quando necessário, serviços de apoio educacional especializado, como o atendimento educacional especializado bilíngue, para atender às especificidades linguísticas dos estudantes surdos. (Incluído pela Lei nº 14.191, de 2021)\n\n§ 2º A oferta de educação bilíngue de surdos terá início ao zero ano, na educação infantil, e se estenderá ao longo da vida. (Incluído pela Lei nº 14.191, de 2021)\n\n§ 3º O disposto no caput deste artigo será efetivado sem prejuízo das prerrogativas de matrícula em escolas e classes regulares, de acordo com o que decidir o estudante ou, no que couber, seus pais ou responsáveis, e das garantias previstas na Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), que incluem, para os surdos oralizados, o acesso a tecnologias assistivas. (Incluído pela Lei nº 14.191, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2060-A.%20Entende-se%20por%20educa%C3%A7%C3%A3o%20bil%C3%ADngue%20de%20surdos%2C%20para%20os%20efeitos%20desta%20Lei%2C%20a%20modalidade%20de%20educa%C3%A7%C3%A3o%20escolar%20oferecida%20em%20L%C3%ADngua%20Brasileira",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V-A (Incluído pela Lei nº 14.191, de 2021)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "60-B"
+    },
+    "60-B": {
+      "numero": "60-B",
+      "texto": "Art. 60-B. Além do disposto no art. 59 desta Lei, os sistemas de ensino assegurarão aos educandos surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas materiais didáticos e professores bilíngues com formação e especialização adequadas, em nível superior. (Incluído pela Lei nº 14.191, de 2021)\n\nParágrafo único. Nos processos de contratação e de avaliação periódica dos professores a que se refere o caput deste artigo serão ouvidas as entidades representativas das pessoas surdas. (Incluído pela Lei nº 14.191, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2060-B.%20Al%C3%A9m%20do%20disposto%20no%20art.%2059%20desta%20Lei%2C%20os%20sistemas%20de%20ensino%20assegurar%C3%A3o%20aos%20educandos%20surdos%2C%20surdo-cegos%2C%20com%20defici%C3%AAncia%20auditiva",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V-A (Incluído pela Lei nº 14.191, de 2021)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60-A",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Consideram-se profissionais da educação escolar básica os que, nela estando em efetivo exercício e tendo sido formados em cursos reconhecidos, são: (Redação dada pela Lei nº 12.014, de 2009)\n\nI – professores habilitados em nível médio ou superior para a docência na educação infantil e nos ensinos fundamental e médio; (Redação dada pela Lei nº 12.014, de 2009)\n\nII – trabalhadores em educação portadores de diploma de pedagogia, com habilitação em administração, planejamento, supervisão, inspeção e orientação educacional, bem como com títulos de mestrado ou doutorado nas mesmas áreas; (Redação dada pela Lei nº 12.014, de 2009)\n\nIII – trabalhadores em educação, portadores de diploma de curso técnico ou superior em área pedagógica ou afim. (Incluído pela Lei nº 12.014, de 2009)\n\nIV - profissionais com notório saber reconhecido pelos respectivos sistemas de ensino, para ministrar conteúdos de áreas afins à sua formação ou experiência profissional, atestados por titulação específica ou prática de ensino em unidades educacionais da rede pública ou privada ou das corporações privadas em que tenham atuado, exclusivamente para atender ao inciso V do caput do art. 36; (Incluído pela lei nº 13.415, de 2017)\n\nV - profissionais graduados que tenham feito complementação pedagógica, conforme disposto pelo Conselho Nacional de Educação. (Incluído pela lei nº 13.415, de 2017)\n\n§ 1º A formação dos profissionais da educação, de modo a atender às especificidades do exercício de suas atividades, bem como aos objetivos das diferentes etapas e modalidades da educação básica, terá como fundamentos: (Redação dada pela Lei nº 15.326, de 2026)\n\nI – a presença de sólida formação básica, que propicie o conhecimento dos fundamentos científicos e sociais de suas competências de trabalho; (Incluído pela Lei nº 12.014, de 2009)\n\nII – a associação entre teorias e práticas, mediante estágios supervisionados e capacitação em serviço; (Incluído pela Lei nº 12.014, de 2009)\n\nIII – o aproveitamento da formação e experiências anteriores, em instituições de ensino e em outras atividades. (Incluído pela Lei nº 12.014, de 2009)\n\nIV – a proteção integral dos direitos de crianças e adolescentes e o apoio à formação permanente dos profissionais de que trata o caput deste artigo para identificação de maus-tratos, de negligência e de violência sexual praticados contra crianças e adolescentes. (Incluído pela Lei nº 14.679, de 2023)\n\n§ 2º São considerados professores da educação infantil, devendo ser enquadrados na carreira do magistério, independentemente da designação do cargo que ocupam, os que exercem função docente e atuam diretamente com as crianças educandas, com formação no magistério ou em curso de nível superior e aprovados em concurso público. (Incluído pela Lei nº 15.326, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2061.%20Consideram-se%20profissionais%20da%20educa%C3%A7%C3%A3o%20escolar%20b%C3%A1sica%20os%20que%2C%20nela%20estando%20em%20efetivo%20exerc%C3%ADcio%20e%20tendo%20sido%20formados%20em%20cursos%20reconhecidos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60-B",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. A formação de docentes para atuar na educação básica far-se-á em nível superior, em curso de licenciatura plena, admitida, como formação mínima para o exercício do magistério na educação infantil e nos cinco primeiros anos do ensino fundamental, a oferecida em nível médio, na modalidade normal. (Redação dada pela lei nº 13.415, de 2017)\n\n§ 1º A União, o Distrito Federal, os Estados e os Municípios, em regime de colaboração, deverão promover a formação inicial, a continuada e a capacitação dos profissionais de magistério. (Incluído pela Lei nº 12.056, de 2009).\n\n§ 2º A formação continuada e a capacitação dos profissionais de magistério poderão utilizar recursos e tecnologias de educação a distância. (Incluído pela Lei nº 12.056, de 2009).\n\n§ 3º A formação inicial de profissionais de magistério dará preferência ao ensino presencial, subsidiariamente fazendo uso de recursos e tecnologias de educação a distância. (Incluído pela Lei nº 12.056, de 2009).\n\n§ 4º A União, o Distrito Federal, os Estados e os Municípios adotarão mecanismos facilitadores de acesso e permanência em cursos de formação de docentes em nível superior para atuar na educação básica pública. (Incluído pela Lei nº 12.796, de 2013)\n\n§ 5º A União, o Distrito Federal, os Estados e os Municípios incentivarão a formação de profissionais do magistério para atuar na educação básica pública mediante programa institucional de bolsa de iniciação à docência a estudantes matriculados em cursos de licenciatura, de graduação plena, nas instituições de educação superior. (Incluído pela Lei nº 12.796, de 2013)\n\n§ 6º O Ministério da Educação poderá estabelecer nota mínima em exame nacional aplicado aos concluintes do ensino médio como pré-requisito para o ingresso em cursos de graduação para formação de docentes, ouvido o Conselho Nacional de Educação - CNE. (Incluído pela Lei nº 12.796, de 2013)\n\n§ 7º (VETADO). (Incluído pela Lei nº 12.796, de 2013)\n\n§ 8º Os currículos dos cursos de formação de docentes terão por referência a Base Nacional Comum Curricular. (Incluído pela lei nº 13.415, de 2017) (Vide Lei nº 13.415, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2062.%20A%20forma%C3%A7%C3%A3o%20de%20docentes%20para%20atuar%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20far-se-%C3%A1%20em%20n%C3%ADvel%20superior%2C%20em%20curso%20de%20licenciatura%20plena%2C%20admitida%2C%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "62-A"
+    },
+    "62-A": {
+      "numero": "62-A",
+      "texto": "Art. 62-A. A formação dos profissionais a que se refere o inciso III do art. 61 far-se-á por meio de cursos de conteúdo técnico-pedagógico, em nível médio ou superior, incluindo habilitações tecnológicas. (Incluído pela Lei nº 12.796, de 2013)\n\nParágrafo único. Garantir-se-á formação continuada para os profissionais a que se refere o caput, no local de trabalho ou em instituições de educação básica e superior, incluindo cursos de educação profissional, cursos superiores de graduação plena ou tecnológicos e de pós-graduação. (Incluído pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2062-A.%20A%20forma%C3%A7%C3%A3o%20dos%20profissionais%20a%20que%20se%20refere%20o%20inciso%20III%20do%20art.%2061%20far-se-%C3%A1%20por%20meio%20de%20cursos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "62-B"
+    },
+    "62-B": {
+      "numero": "62-B",
+      "texto": "Art. 62-B. O acesso de professores das redes públicas de educação básica a cursos superiores de pedagogia e licenciatura será efetivado por meio de processo seletivo diferenciado. (Incluído pela Lei nº 13.478, de 2017)\n\n§ 1º Terão direito de pleitear o acesso previsto no caput deste artigo os professores das redes públicas municipais, estaduais e federal que ingressaram por concurso público, tenham pelo menos três anos de exercício da profissão e não sejam portadores de diploma de graduação. (Incluído pela Lei nº 13.478, de 2017)\n\n§ 2º As instituições de ensino responsáveis pela oferta de cursos de pedagogia e outras licenciaturas definirão critérios adicionais de seleção sempre que acorrerem aos certames interessados em número superior ao de vagas disponíveis para os respectivos cursos. (Incluído pela Lei nº 13.478, de 2017)\n\n§ 3º Sem prejuízo dos concursos seletivos a serem definidos em regulamento pelas universidades, terão prioridade de ingresso os professores que optarem por cursos de licenciatura em matemática, física, química, biologia e língua portuguesa. (Incluído pela Lei nº 13.478, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2062-B.%20O%20acesso%20de%20professores%20das%20redes%20p%C3%BAblicas%20de%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20a%20cursos%20superiores%20de%20pedagogia%20e%20licenciatura%20ser%C3%A1%20efetivado%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62-A",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Os institutos superiores de educação manterão: (Regulamento)\n\nI - cursos formadores de profissionais para a educação básica, inclusive o curso normal superior, destinado à formação de docentes para a educação infantil e para as primeiras séries do ensino fundamental;\n\nII - programas de formação pedagógica para portadores de diplomas de educação superior que queiram se dedicar à educação básica;\n\nIII - programas de educação continuada para os profissionais de educação dos diversos níveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2063.%20Os%20institutos%20superiores%20de%20educa%C3%A7%C3%A3o%20manter%C3%A3o%3A%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62-B",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A formação de profissionais de educação para administração, planejamento, inspeção, supervisão e orientação educacional para a educação básica, será feita em cursos de graduação em pedagogia ou em nível de pós-graduação, a critério da instituição de ensino, garantida, nesta formação, a base comum nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2064.%20A%20forma%C3%A7%C3%A3o%20de%20profissionais%20de%20educa%C3%A7%C3%A3o%20para%20administra%C3%A7%C3%A3o%2C%20planejamento%2C%20inspe%C3%A7%C3%A3o%2C%20supervis%C3%A3o%20e%20orienta%C3%A7%C3%A3o%20educacional%20para%20a%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20ser%C3%A1%20feita",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. A formação docente, exceto para a educação superior, incluirá prática de ensino de, no mínimo, trezentas horas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2065.%20A%20forma%C3%A7%C3%A3o%20docente%2C%20exceto%20para%20a%20educa%C3%A7%C3%A3o%20superior%2C%20incluir%C3%A1%20pr%C3%A1tica%20de%20ensino%20de%2C%20no%20m%C3%ADnimo%2C%20trezentas%20horas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. A preparação para o exercício do magistério superior far-se-á em nível de pós-graduação, prioritariamente em programas de mestrado e doutorado.\n\nParágrafo único. O notório saber, reconhecido por universidade com curso de doutorado em área afim, poderá suprir a exigência de título acadêmico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2066.%20A%20prepara%C3%A7%C3%A3o%20para%20o%20exerc%C3%ADcio%20do%20magist%C3%A9rio%20superior%20far-se-%C3%A1%20em%20n%C3%ADvel%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o%2C%20prioritariamente%20em%20programas%20de%20mestrado%20e%20doutorado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Os sistemas de ensino promoverão a valorização dos profissionais da educação, assegurando-lhes, inclusive nos termos dos estatutos e dos planos de carreira do magistério público:\n\nI - ingresso exclusivamente por concurso público de provas e títulos;\n\nII – aperfeiçoamento profissional continuado, inclusive com licenciamento periódico remunerado para esse fim, compreendendo, entre outras atividades, cursos de qualificação, cursos de pós-graduação lato sensu e stricto sensu e período para realização de pesquisa na área da educação; (Redação dada pela Lei nº 15.462, de 2026)\n\nIII - piso salarial profissional;\n\nIV - progressão funcional baseada na titulação ou habilitação, e na avaliação do desempenho;\n\nV - período reservado a estudos, planejamento e avaliação, incluído na carga de trabalho;\n\nVI - condições adequadas de trabalho.\n\n§ 1º A experiência docente é pré-requisito para o exercício profissional de quaisquer outras funções de magistério, nos termos das normas de cada sistema de ensino. (Renumerado pela Lei nº 11.301, de 2006)\n\n§ 2º Para os efeitos do disposto no § 5º do art. 40 e no § 8o do art. 201 da Constituição Federal, são consideradas funções de magistério as exercidas por professores e especialistas em educação no desempenho de atividades educativas, quando exercidas em estabelecimento de educação básica em seus diversos níveis e modalidades, incluídas, além do exercício da docência, as de direção de unidade escolar e as de coordenação e assessoramento pedagógico. (Incluído pela Lei nº 11.301, de 2006)\n\n§ 3º A União prestará assistência técnica aos Estados, ao Distrito Federal e aos Municípios na elaboração de concursos públicos para provimento de cargos dos profissionais da educação. (Incluído pela Lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2067.%20Os%20sistemas%20de%20ensino%20promover%C3%A3o%20a%20valoriza%C3%A7%C3%A3o%20dos%20profissionais%20da%20educa%C3%A7%C3%A3o%2C%20assegurando-lhes%2C%20inclusive%20nos%20termos%20dos%20estatutos%20e%20dos%20planos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Serão recursos públicos destinados à educação os originários de:\n\nI - receita de impostos próprios da União, dos Estados, do Distrito Federal e dos Municípios;\n\nII - receita de transferências constitucionais e outras transferências;\n\nIII - receita do salário-educação e de outras contribuições sociais;\n\nIV - receita de incentivos fiscais;\n\nV - outros recursos previstos em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2068.%20Ser%C3%A3o%20recursos%20p%C3%BAblicos%20destinados%20%C3%A0%20educa%C3%A7%C3%A3o%20os%20origin%C3%A1rios%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios, vinte e cinco por cento, ou o que consta nas respectivas Constituições ou Leis Orgânicas, da receita resultante de impostos, compreendidas as transferências constitucionais, na manutenção e desenvolvimento do ensino público. (Vide Medida Provisória nº 773, de 2017) (Vigência encerrada)\n\n§ 1º A parcela da arrecadação de impostos transferida pela União aos Estados, ao Distrito Federal e aos Municípios, ou pelos Estados aos respectivos Municípios, não será considerada, para efeito do cálculo previsto neste artigo, receita do governo que a transferir.\n\n§ 2º Serão consideradas excluídas das receitas de impostos mencionadas neste artigo as operações de crédito por antecipação de receita orçamentária de impostos.\n\n§ 3º Para fixação inicial dos valores correspondentes aos mínimos estatuídos neste artigo, será considerada a receita estimada na lei do orçamento anual, ajustada, quando for o caso, por lei que autorizar a abertura de créditos adicionais, com base no eventual excesso de arrecadação.\n\n§ 4º As diferenças entre a receita e a despesa previstas e as efetivamente realizadas, que resultem no não atendimento dos percentuais mínimos obrigatórios, serão apuradas e corrigidas a cada trimestre do exercício financeiro.\n\n§ 5º O repasse dos valores referidos neste artigo do caixa da União, dos Estados, do Distrito Federal e dos Municípios ocorrerá imediatamente ao órgão responsável pela educação, observados os seguintes prazos:\n\nI - recursos arrecadados do primeiro ao décimo dia de cada mês, até o vigésimo dia;\n\nII - recursos arrecadados do décimo primeiro ao vigésimo dia de cada mês, até o trigésimo dia;\n\nIII - recursos arrecadados do vigésimo primeiro dia ao final de cada mês, até o décimo dia do mês subseqüente.\n\n§ 6º O atraso da liberação sujeitará os recursos a correção monetária e à responsabilização civil e criminal das autoridades competentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2069.%20A%20Uni%C3%A3o%20aplicar%C3%A1%2C%20anualmente%2C%20nunca%20menos%20de%20dezoito%2C%20e%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20vinte%20e%20cinco",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Considerar-se-ão como de manutenção e desenvolvimento do ensino as despesas realizadas com vistas à consecução dos objetivos básicos das instituições educacionais de todos os níveis, compreendendo as que se destinam a:\n\nI - remuneração e aperfeiçoamento do pessoal docente e demais profissionais da educação;\n\nII - aquisição, manutenção, construção e conservação de instalações e equipamentos necessários ao ensino;\n\nIII – uso e manutenção de bens e serviços vinculados ao ensino;\n\nIV - levantamentos estatísticos, estudos e pesquisas visando precipuamente ao aprimoramento da qualidade e à expansão do ensino;\n\nV - realização de atividades-meio necessárias ao funcionamento dos sistemas de ensino;\n\nVI - concessão de bolsas de estudo a alunos de escolas públicas e privadas;\n\nVII - amortização e custeio de operações de crédito destinadas a atender ao disposto nos incisos deste artigo;\n\nVIII - aquisição de material didático-escolar e manutenção de programas de transporte escolar.\n\nIX – realização de atividades curriculares complementares voltadas ao aprendizado dos alunos ou à formação continuada dos profissionais da educação, tais como exposições, feiras ou mostras de ciências da natureza ou humanas, matemática, língua portuguesa ou língua estrangeira, literatura e cultura. (Incluído pela Lei nº 14.560, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2070.%20Considerar-se-%C3%A3o%20como%20de%20manuten%C3%A7%C3%A3o%20e%20desenvolvimento%20do%20ensino%20as%20despesas%20realizadas%20com%20vistas%20%C3%A0%20consecu%C3%A7%C3%A3o%20dos%20objetivos%20b%C3%A1sicos%20das%20institui%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Não constituirão despesas de manutenção e desenvolvimento do ensino aquelas realizadas com:\n\nI - pesquisa, quando não vinculada às instituições de ensino, ou, quando efetivada fora dos sistemas de ensino, que não vise, precipuamente, ao aprimoramento de sua qualidade ou à sua expansão;\n\nII - subvenção a instituições públicas ou privadas de caráter assistencial, desportivo ou cultural;\n\nIII - formação de quadros especiais para a administração pública, sejam militares ou civis, inclusive diplomáticos;\n\nIV - programas suplementares de alimentação, assistência médico-odontológica, farmacêutica e psicológica, e outras formas de assistência social;\n\nV - obras de infra-estrutura, ainda que realizadas para beneficiar direta ou indiretamente a rede escolar;\n\nVI - pessoal docente e demais trabalhadores da educação, quando em desvio de função ou em atividade alheia à manutenção e desenvolvimento do ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2071.%20N%C3%A3o%20constituir%C3%A3o%20despesas%20de%20manuten%C3%A7%C3%A3o%20e%20desenvolvimento%20do%20ensino%20aquelas%20realizadas%20com%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. As receitas e as despesas com manutenção e desenvolvimento do ensino serão apuradas e publicadas: (Redação dada pela Lei nº 15.001, de 2024)\n\nI – nos balanços do poder público e nos relatórios a que se refere o § 3º do art. 165 da Constituição Federal; (Incluído pela Lei nº 15.001, de 2024)\n\nII – nos sítios eletrônicos do Ministério da Educação e dos órgãos gestores da educação pública de cada ente federado subnacional. (Incluído pela Lei nº 15.001, de 2024)\n\nParágrafo único. Deverão ser publicados, de forma específica, dados relativos a: (Incluído pela Lei nº 15.001, de 2024)\n\nI – receitas próprias, de convênios ou de doações das instituições federais de ensino; (Incluído pela Lei nº 15.001, de 2024)\n\nII – gestão e execução dos recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb); (Incluído pela Lei nº 15.001, de 2024)\n\nIII – repasses de recursos públicos a instituições de ensino conveniadas para oferta da educação escolar. (Incluído pela Lei nº 15.001, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2072.%20As%20receitas%20e%20as%20despesas%20com%20manuten%C3%A7%C3%A3o%20e%20desenvolvimento%20do%20ensino%20ser%C3%A3o%20apuradas%20e%20publicadas%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Os órgãos fiscalizadores examinarão, prioritariamente, na prestação de contas de recursos públicos, o cumprimento do disposto no art. 212 da Constituição Federal, no art. 60 do Ato das Disposições Constitucionais Transitórias e na legislação concernente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2073.%20Os%20%C3%B3rg%C3%A3os%20fiscalizadores%20examinar%C3%A3o%2C%20prioritariamente%2C%20na%20presta%C3%A7%C3%A3o%20de%20contas%20de%20recursos%20p%C3%BAblicos%2C%20o%20cumprimento%20do%20disposto%20no%20art.%20212%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. A União, em colaboração com os Estados, o Distrito Federal e os Municípios, estabelecerá padrão mínimo de oportunidades educacionais para o ensino fundamental, baseado no cálculo do custo mínimo por aluno, capaz de assegurar ensino de qualidade.\n\nParágrafo único. O custo mínimo de que trata este artigo será calculado pela União ao final de cada ano, com validade para o ano subseqüente, considerando variações regionais no custo dos insumos e as diversas modalidades de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2074.%20A%20Uni%C3%A3o%2C%20em%20colabora%C3%A7%C3%A3o%20com%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20estabelecer%C3%A1%20padr%C3%A3o%20m%C3%ADnimo%20de%20oportunidades%20educacionais%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. A ação supletiva e redistributiva da União e dos Estados será exercida de modo a corrigir, progressivamente, as disparidades de acesso e garantir o padrão mínimo de qualidade de ensino.\n\n§ 1º A ação a que se refere este artigo obedecerá a fórmula de domínio público que inclua a capacidade de atendimento e a medida do esforço fiscal do respectivo Estado, do Distrito Federal ou do Município em favor da manutenção e do desenvolvimento do ensino.\n\n§ 2º A capacidade de atendimento de cada governo será definida pela razão entre os recursos de uso constitucionalmente obrigatório na manutenção e desenvolvimento do ensino e o custo anual do aluno, relativo ao padrão mínimo de qualidade.\n\n§ 3º Com base nos critérios estabelecidos nos §§ 1º e 2º, a União poderá fazer a transferência direta de recursos a cada estabelecimento de ensino, considerado o número de alunos que efetivamente freqüentam a escola.\n\n§ 4º A ação supletiva e redistributiva não poderá ser exercida em favor do Distrito Federal, dos Estados e dos Municípios se estes oferecerem vagas, na área de ensino de sua responsabilidade, conforme o inciso VI do art. 10 e o inciso V do art. 11 desta Lei, em número inferior à sua capacidade de atendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2075.%20A%20a%C3%A7%C3%A3o%20supletiva%20e%20redistributiva%20da%20Uni%C3%A3o%20e%20dos%20Estados%20ser%C3%A1%20exercida%20de%20modo%20a%20corrigir%2C%20progressivamente%2C%20as%20disparidades%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. A ação supletiva e redistributiva prevista no artigo anterior ficará condicionada ao efetivo cumprimento pelos Estados, Distrito Federal e Municípios do disposto nesta Lei, sem prejuízo de outras prescrições legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2076.%20A%20a%C3%A7%C3%A3o%20supletiva%20e%20redistributiva%20prevista%20no%20artigo%20anterior%20ficar%C3%A1%20condicionada%20ao%20efetivo%20cumprimento%20pelos%20Estados%2C%20Distrito%20Federal%20e%20Munic%C3%ADpios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas que:\n\nI - comprovem finalidade não-lucrativa e não distribuam resultados, dividendos, bonificações, participações ou parcela de seu patrimônio sob nenhuma forma ou pretexto;\n\nII - apliquem seus excedentes financeiros em educação;\n\nIII - assegurem a destinação de seu patrimônio a outra escola comunitária, filantrópica ou confessional, ou ao Poder Público, no caso de encerramento de suas atividades;\n\nIV - prestem contas ao Poder Público dos recursos recebidos.\n\nV – não tenham como dirigente agente político de Poder ou do Ministério Público, dirigente de órgão ou entidade da administração pública de qualquer esfera governamental, ou seu cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau. (Incluído pela Lei nº 15.001, de 2024)\n\n§ 1º Os recursos de que trata este artigo poderão ser destinados a bolsas de estudo para a educação básica, na forma da lei, para os que demonstrarem insuficiência de recursos, quando houver falta de vagas e cursos regulares da rede pública de domicílio do educando, ficando o Poder Público obrigado a investir prioritariamente na expansão da sua rede local.\n\n§ 2º As atividades universitárias de pesquisa e extensão poderão receber apoio financeiro do Poder Público, inclusive mediante bolsas de estudo.\n\n§ 3º As escolas comunitárias, confessionais ou filantrópicas deverão disponibilizar ao público, em meio eletrônico, nos termos de regulamento, informações acessíveis referentes a: (Incluído pela Lei nº 15.001, de 2024)\n\nI – recursos financeiros públicos diretamente recebidos e objetivos a serem alcançados por meio da sua utilização; (Incluído pela Lei nº 15.001, de 2024)\n\nII – caso certificadas como entidades beneficentes, nos termos da Lei Complementar nº 187, de 16 de dezembro de 2021: (Incluído pela Lei nº 15.001, de 2024)\n\na) comprovação da certificação e respectivo prazo de validade; (Incluído pela Lei nº 15.001, de 2024)\n\nb) número de bolsas integrais e parciais concedidas de acordo com o disposto na Lei Complementar nº 187, de 16 de dezembro de 2021, bem como os critérios utilizados para sua concessão. (Incluído pela Lei nº 15.001, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2077.%20Os%20recursos%20p%C3%BAblicos%20ser%C3%A3o%20destinados%20%C3%A0s%20escolas%20p%C3%BAblicas%2C%20podendo%20ser%20dirigidos%20a%20escolas%20comunit%C3%A1rias%2C%20confessionais%20ou%20filantr%C3%B3picas%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. O Sistema de Ensino da União, com a colaboração das agências federais de fomento à cultura e de assistência aos índios, desenvolverá programas integrados de ensino e pesquisa, para oferta de educação escolar bilingüe e intercultural aos povos indígenas, com os seguintes objetivos:\n\nI - proporcionar aos índios, suas comunidades e povos, a recuperação de suas memórias históricas; a reafirmação de suas identidades étnicas; a valorização de suas línguas e ciências;\n\nII - garantir aos índios, suas comunidades e povos, o acesso às informações, conhecimentos técnicos e científicos da sociedade nacional e demais sociedades indígenas e não-índias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2078.%20O%20Sistema%20de%20Ensino%20da%20Uni%C3%A3o%2C%20com%20a%20colabora%C3%A7%C3%A3o%20das%20ag%C3%AAncias%20federais%20de%20fomento%20%C3%A0%20cultura%20e%20de%20assist%C3%AAncia%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "78-A"
+    },
+    "78-A": {
+      "numero": "78-A",
+      "texto": "Art. 78-A. Os sistemas de ensino, em regime de colaboração, desenvolverão programas integrados de ensino e pesquisa, para oferta de educação escolar bilíngue e intercultural aos estudantes surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas, com os seguintes objetivos: (Incluído pela Lei nº 14.191, de 2021)\n\nI - proporcionar aos surdos a recuperação de suas memórias históricas, a reafirmação de suas identidades e especificidades e a valorização de sua língua e cultura; (Incluído pela Lei nº 14.191, de 2021)\n\nII - garantir aos surdos o acesso às informações e conhecimentos técnicos e científicos da sociedade nacional e demais sociedades surdas e não surdas. (Incluído pela Lei nº 14.191, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2078-A.%20Os%20sistemas%20de%20ensino%2C%20em%20regime%20de%20colabora%C3%A7%C3%A3o%2C%20desenvolver%C3%A3o%20programas%20integrados%20de%20ensino%20e%20pesquisa%2C%20para%20oferta%20de%20educa%C3%A7%C3%A3o%20escolar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. A União apoiará técnica e financeiramente os sistemas de ensino no provimento da educação intercultural às comunidades indígenas, desenvolvendo programas integrados de ensino e pesquisa.\n\n§ 1º Os programas serão planejados com audiência das comunidades indígenas.\n\n§ 2º Os programas a que se refere este artigo, incluídos nos Planos Nacionais de Educação, terão os seguintes objetivos:\n\nI - fortalecer as práticas sócio-culturais e a língua materna de cada comunidade indígena;\n\nII - manter programas de formação de pessoal especializado, destinado à educação escolar nas comunidades indígenas;\n\nIII - desenvolver currículos e programas específicos, neles incluindo os conteúdos culturais correspondentes às respectivas comunidades;\n\nIV - elaborar e publicar sistematicamente material didático específico e diferenciado.\n\n§ 3º No que se refere à educação superior, sem prejuízo de outras ações, o atendimento aos povos indígenas efetivar-se-á, nas universidades públicas e privadas, mediante a oferta de ensino e de assistência estudantil, assim como de estímulo à pesquisa e desenvolvimento de programas especiais. (Incluído pela Lei nº 12.416, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2079.%20A%20Uni%C3%A3o%20apoiar%C3%A1%20t%C3%A9cnica%20e%20financeiramente%20os%20sistemas%20de%20ensino%20no%20provimento%20da%20educa%C3%A7%C3%A3o%20intercultural%20%C3%A0s%20comunidades%20ind%C3%ADgenas%2C%20desenvolvendo%20programas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78-A",
+      "next": "79-A"
+    },
+    "79-A": {
+      "numero": "79-A",
+      "texto": "Art. 79-A. (VETADO) (Incluído pela Lei nº 10.639, de 9.1.2003)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2079-A.%20%28VETADO%29%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.639%2C%20de%209.1.2003%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "79-B"
+    },
+    "79-B": {
+      "numero": "79-B",
+      "texto": "Art. 79-B. O calendário escolar incluirá o dia 20 de novembro como ‘Dia Nacional da Consciência Negra’. (Incluído pela Lei nº 10.639, de 9.1.2003)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2079-B.%20O%20calend%C3%A1rio%20escolar%20incluir%C3%A1%20o%20dia%2020%20de%20novembro%20como%20%E2%80%98Dia%20Nacional%20da%20Consci%C3%AAncia%20Negra%E2%80%99.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.639%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79-A",
+      "next": "79-C"
+    },
+    "79-C": {
+      "numero": "79-C",
+      "texto": "Art. 79-C. A União apoiará técnica e financeiramente os sistemas de ensino no provimento da educação bilíngue e intercultural às comunidades surdas, com desenvolvimento de programas integrados de ensino e pesquisa. (Incluído pela Lei nº 14.191, de 2021)\n\n§ 1º Os programas serão planejados com participação das comunidades surdas, de instituições de ensino superior e de entidades representativas das pessoas surdas. (Incluído pela Lei nº 14.191, de 2021)\n\n§ 2º Os programas a que se refere este artigo, incluídos no Plano Nacional de Educação, terão os seguintes objetivos: (Incluído pela Lei nº 14.191, de 2021)\n\nI - fortalecer as práticas socioculturais dos surdos e a Língua Brasileira de Sinais; (Incluído pela Lei nº 14.191, de 2021)\n\nII - manter programas de formação de pessoal especializado, destinados à educação bilíngue escolar dos surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas; (Incluído pela Lei nº 14.191, de 2021)\n\nIII - desenvolver currículos, métodos, formação e programas específicos, neles incluídos os conteúdos culturais correspondentes aos surdos; (Incluído pela Lei nº 14.191, de 2021)\n\nIV - elaborar e publicar sistematicamente material didático bilíngue, específico e diferenciado. (Incluído pela Lei nº 14.191, de 2021)\n\n§ 3º Na educação superior, sem prejuízo de outras ações, o atendimento aos estudantes surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas efetivar-se-á mediante a oferta de ensino bilíngue e de assistência estudantil, assim como de estímulo à pesquisa e desenvolvimento de programas especiais. (Incluído pela Lei nº 14.191, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2079-C.%20A%20Uni%C3%A3o%20apoiar%C3%A1%20t%C3%A9cnica%20e%20financeiramente%20os%20sistemas%20de%20ensino%20no%20provimento%20da%20educa%C3%A7%C3%A3o%20bil%C3%ADngue%20e%20intercultural%20%C3%A0s%20comunidades%20surdas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79-B",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. O Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada. (Regulamento) (Regulamento)\n\n§ 1º A educação a distância, organizada com abertura e regime especiais, será oferecida por instituições especificamente credenciadas pela União.\n\n§ 2º A União regulamentará os requisitos para a realização de exames e registro de diploma relativos a cursos de educação a distância.\n\n§ 3º As normas para produção, controle e avaliação de programas de educação a distância e a autorização para sua implementação, caberão aos respectivos sistemas de ensino, podendo haver cooperação e integração entre os diferentes sistemas. (Regulamento)\n\n§ 4º A educação a distância gozará de tratamento diferenciado, que incluirá:\n\nI - custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens e em outros meios de comunicação que sejam explorados mediante autorização, concessão ou permissão do poder público; (Redação dada pela Lei nº 12.603, de 2012)\n\nII - concessão de canais com finalidades exclusivamente educativas;\n\nIII - reserva de tempo mínimo, sem ônus para o Poder Público, pelos concessionários de canais comerciais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2080.%20O%20Poder%20P%C3%BAblico%20incentivar%C3%A1%20o%20desenvolvimento%20e%20a%20veicula%C3%A7%C3%A3o%20de%20programas%20de%20ensino%20a%20dist%C3%A2ncia%2C%20em%20todos%20os%20n%C3%ADveis%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79-C",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. É permitida a organização de cursos ou instituições de ensino experimentais, desde que obedecidas as disposições desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2081.%20%C3%89%20permitida%20a%20organiza%C3%A7%C3%A3o%20de%20cursos%20ou%20institui%C3%A7%C3%B5es%20de%20ensino%20experimentais%2C%20desde%20que%20obedecidas%20as%20disposi%C3%A7%C3%B5es%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "81-A"
+    },
+    "81-A": {
+      "numero": "81-A",
+      "texto": "Art. 81-A. Os sistemas de ensino estabelecerão, para a educação básica e superior, regime escolar especial para o atendimento a: (Incluído pela Lei nº 14.952, de 2024)\n\nI - estudantes impossibilitados de frequentar as aulas em razão de tratamento de saúde ou de condição de saúde que impossibilite o acesso à instituição de ensino; (Incluído pela Lei nº 14.952, de 2024)\n\nII - mães estudantes lactantes; (Incluído pela Lei nº 14.952, de 2024)\n\nIII - (VETADO). (Incluído pela Lei nº 14.952, de 2024)\n\n§ 1º (VETADO). (Incluído pela Lei nº 14.952, de 2024)\n\n§ 2º O acesso ao regime escolar especial será condicionado à comprovação de que o educando se encontra em uma das situações previstas nos incisos I, II e III do caput deste artigo e de que a inclusão no regime especial é condição necessária para garantir a continuidade e a permanência de suas atividades escolares, nos termos de regulamento. (Incluído pela Lei nº 14.952, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2081-A.%20Os%20sistemas%20de%20ensino%20estabelecer%C3%A3o%2C%20para%20a%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20e%20superior%2C%20regime%20escolar%20especial%20para%20o%20atendimento%20a%3A%20%28Inclu%C3%ADdo%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Os sistemas de ensino estabelecerão as normas de realização de estágio em sua jurisdição, observada a lei federal sobre a matéria. (Redação dada pela Lei nº 11.788, de 2008)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 11.788, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2082.%20Os%20sistemas%20de%20ensino%20estabelecer%C3%A3o%20as%20normas%20de%20realiza%C3%A7%C3%A3o%20de%20est%C3%A1gio%20em%20sua%20jurisdi%C3%A7%C3%A3o%2C%20observada%20a%20lei%20federal%20sobre%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81-A",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. O ensino militar é regulado em lei específica, admitida a equivalência de estudos, de acordo com as normas fixadas pelos sistemas de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2083.%20O%20ensino%20militar%20%C3%A9%20regulado%20em%20lei%20espec%C3%ADfica%2C%20admitida%20a%20equival%C3%AAncia%20de%20estudos%2C%20de%20acordo%20com%20as%20normas%20fixadas%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Os discentes da educação superior poderão ser aproveitados em tarefas de ensino e pesquisa pelas respectivas instituições, exercendo funções de monitoria, de acordo com seu rendimento e seu plano de estudos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2084.%20Os%20discentes%20da%20educa%C3%A7%C3%A3o%20superior%20poder%C3%A3o%20ser%20aproveitados%20em%20tarefas%20de%20ensino%20e%20pesquisa%20pelas%20respectivas%20institui%C3%A7%C3%B5es%2C%20exercendo%20fun%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. Qualquer cidadão habilitado com a titulação própria poderá exigir a abertura de concurso público de provas e títulos para cargo de docente de instituição pública de ensino que estiver sendo ocupado por professor não concursado, por mais de seis anos, ressalvados os direitos assegurados pelos arts. 41 da Constituição Federal e 19 do Ato das Disposições Constitucionais Transitórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2085.%20Qualquer%20cidad%C3%A3o%20habilitado%20com%20a%20titula%C3%A7%C3%A3o%20pr%C3%B3pria%20poder%C3%A1%20exigir%20a%20abertura%20de%20concurso%20p%C3%BAblico%20de%20provas%20e%20t%C3%ADtulos%20para%20cargo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. As instituições de educação superior constituídas como universidades integrar-se-ão, também, na sua condição de instituições de pesquisa, ao Sistema Nacional de Ciência e Tecnologia, nos termos da legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2086.%20As%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior%20constitu%C3%ADdas%20como%20universidades%20integrar-se-%C3%A3o%2C%20tamb%C3%A9m%2C%20na%20sua%20condi%C3%A7%C3%A3o%20de%20institui%C3%A7%C3%B5es%20de%20pesquisa%2C%20ao%20Sistema%20Nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. É instituída a Década da Educação, a iniciar-se um ano a partir da publicação desta Lei.\n\n§ 1º A União, no prazo de um ano a partir da publicação desta Lei, encaminhará, ao Congresso Nacional, o Plano Nacional de Educação, com diretrizes e metas para os dez anos seguintes, em sintonia com a Declaração Mundial sobre Educação para Todos.\n\n§ 2º (Revogado). (Redação dada pela lei nº 12.796, de 2013)\n\n§ 3º O Distrito Federal, cada Estado e Município, e, supletivamente, a União, devem: (Redação dada pela Lei nº 11.330, de 2006)\n\nI - (revogado); (Redação dada pela lei nº 12.796, de 2013)\n\nII - prover cursos presenciais ou a distância aos jovens e adultos insuficientemente escolarizados;\n\nIII - realizar programas de capacitação para todos os professores em exercício, utilizando também, para isto, os recursos da educação a distância;\n\nIV - integrar todos os estabelecimentos de ensino fundamental do seu território ao sistema nacional de avaliação do rendimento escolar.\n\n§ 4º (Revogado) (Redação dada pela lei nº 12.796, de 2013)\n\n§ 5º Serão conjugados todos os esforços objetivando a progressão das redes escolares públicas urbanas de ensino fundamental para o regime de escolas de tempo integral.\n\n§ 6º A assistência financeira da União aos Estados, ao Distrito Federal e aos Municípios, bem como a dos Estados aos seus Municípios, ficam condicionadas ao cumprimento do art. 212 da Constituição Federal e dispositivos legais pertinentes pelos governos beneficiados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2087.%20%C3%89%20institu%C3%ADda%20a%20D%C3%A9cada%20da%20Educa%C3%A7%C3%A3o%2C%20a%20iniciar-se%20um%20ano%20a%20partir%20da%20publica%C3%A7%C3%A3o%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "87-A"
+    },
+    "87-A": {
+      "numero": "87-A",
+      "texto": "Art. 87-A. (VETADO). (Incluído pela lei nº 12.796, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2087-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20lei%20n%C2%BA%2012.796%2C%20de%202013%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. A União, os Estados, o Distrito Federal e os Municípios adaptarão sua legislação educacional e de ensino às disposições desta Lei no prazo máximo de um ano, a partir da data de sua publicação. (Regulamento) (Regulamento)\n\n§ 1º As instituições educacionais adaptarão seus estatutos e regimentos aos dispositivos desta Lei e às normas dos respectivos sistemas de ensino, nos prazos por estes estabelecidos.\n\n§ 2º O prazo para que as universidades cumpram o disposto nos incisos II e III do art. 52 é de oito anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2088.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20adaptar%C3%A3o%20sua%20legisla%C3%A7%C3%A3o%20educacional%20e%20de%20ensino%20%C3%A0s%20disposi%C3%A7%C3%B5es%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87-A",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. As creches e pré-escolas existentes ou que venham a ser criadas deverão, no prazo de três anos, a contar da publicação desta Lei, integrar-se ao respectivo sistema de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2089.%20As%20creches%20e%20pr%C3%A9-escolas%20existentes%20ou%20que%20venham%20a%20ser%20criadas%20dever%C3%A3o%2C%20no%20prazo%20de%20tr%C3%AAs%20anos%2C%20a%20contar%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. As questões suscitadas na transição entre o regime anterior e o que se institui nesta Lei serão resolvidas pelo Conselho Nacional de Educação ou, mediante delegação deste, pelos órgãos normativos dos sistemas de ensino, preservada a autonomia universitária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2090.%20As%20quest%C3%B5es%20suscitadas%20na%20transi%C3%A7%C3%A3o%20entre%20o%20regime%20anterior%20e%20o%20que%20se%20institui%20nesta%20Lei%20ser%C3%A3o%20resolvidas%20pelo%20Conselho",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": "90-A"
+    },
+    "90-A": {
+      "numero": "90-A",
+      "texto": "Art. 90-A. Até a entrada em vigor da lei de que trata o art. 14, os Conselhos Escolares e os Fóruns dos Conselhos Escolares já instituídos continuarão a observar as normas expedidas pelos respectivos sistemas de ensino. (Incluído pela Lei nº 14.644, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2090-A.%20At%C3%A9%20a%20entrada%20em%20vigor%20da%20lei%20de%20que%20trata%20o%20art.%2014%2C%20os%20Conselhos%20Escolares%20e%20os%20F%C3%B3runs%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2091.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90-A",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. Revogam-se as disposições das Leis nºs 4.024, de 20 de dezembro de 1961, e 5.540, de 28 de novembro de 1968, não alteradas pelas Leis nºs 9.131, de 24 de novembro de 1995 e 9.192, de 21 de dezembro de 1995 e, ainda, as Leis nºs 5.692, de 11 de agosto de 1971 e 7.044, de 18 de outubro de 1982, e as demais leis e decretos-lei que as modificaram e quaisquer outras disposições em contrário.\n\nBrasília, 20 de dezembro de 1996; 175º da Independência e 108º da República.\n\nFERNANDO HENRIQUE CARDOSO Paulo Renato Souza\n\nEste texto não substitui o publicado no DOU de 23.12.1996.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm#:~:text=Art.%2092.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20das%20Leis%20n%C2%BAs%204.024%2C%20de%2020%20de%20dezembro%20de%201961%2C%20e%205.540%2C%20de%2028%20de%20novembro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "91",
+      "next": null
+    }
+  }
+}

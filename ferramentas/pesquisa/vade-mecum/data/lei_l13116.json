@@ -1,0 +1,511 @@
+{
+  "_meta": {
+    "codigo": "L13116",
+    "nome": "Marco das Antenas",
+    "lei": "Lei 13.116/2015",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm",
+    "total_artigos": 31,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei estabelece normas gerais aplicáveis ao processo de licenciamento, instalação e compartilhamento de infraestrutura de telecomunicações, com o propósito de torná-lo compatível com o desenvolvimento socioeconômico do País.\n\n§ 1º A gestão da infraestrutura de que trata o caput será realizada de forma a atender às metas sociais, econômicas e tecnológicas estabelecidas pelo poder público.\n\n§ 2º Não estão sujeitos aos dispositivos previstos nesta Lei:\n\nI - as infraestruturas de telecomunicações destinadas à prestação de serviços de interesse restrito em plataformas off-shore de exploração de petróleo;\n\nII - os radares militares e civis com propósito de defesa ou controle de tráfego aéreo, cujo funcionamento deverá obedecer à regulamentação específica;\n\nIII - as infraestruturas de radionavegação aeronáutica e as de telecomunicações aeronáuticas, fixas e móveis, destinadas a garantir a segurança das operações aéreas, cujo funcionamento deverá obedecer à regulamentação específica.\n\n§ 3º Aplicam-se de forma suplementar as legislações estaduais e distrital, resguardado o disposto no art. 24, § 4º, da Constituição Federal .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20estabelece%20normas%20gerais%20aplic%C3%A1veis%20ao%20processo%20de%20licenciamento%2C%20instala%C3%A7%C3%A3o%20e%20compartilhamento%20de%20infraestrutura%20de%20telecomunica%C3%A7%C3%B5es%2C%20com%20o%20prop%C3%B3sito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O disposto nesta Lei tem por objetivo promover e fomentar os investimentos em infraestrutura de redes de telecomunicações, visando, entre outros:\n\nI - à uniformização, simplificação e celeridade de procedimentos e critérios para a outorga de licenças pelos órgãos competentes;\n\nII - à minimização dos impactos urbanísticos, paisagísticos e ambientais;\n\nIII - à ampliação da capacidade instalada de redes de telecomunicações, tendo em vista a atualização tecnológica e a melhoria da cobertura e da qualidade dos serviços prestados;\n\nIV - à precaução contra os efeitos da emissão de radiação não ionizante, de acordo com os parâmetros definidos em lei; e\n\nV - ao incentivo ao compartilhamento de infraestrutura de redes de telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%202%C2%BA%20O%20disposto%20nesta%20Lei%20tem%20por%20objetivo%20promover%20e%20fomentar%20os%20investimentos%20em%20infraestrutura%20de%20redes%20de%20telecomunica%C3%A7%C3%B5es%2C%20visando%2C%20entre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Para os fins desta Lei, adotam-se as seguintes definições:\n\nI - capacidade excedente: infraestrutura de suporte instalada e não utilizada, total ou parcialmente, disponível para compartilhamento;\n\nII - compartilhamento de infraestrutura: cessão, a título oneroso, de capacidade excedente da infraestrutura de suporte, para a prestação de serviços de telecomunicações por prestadoras de outros grupos econômicos;\n\nIII - detentora: pessoa física ou jurídica que detém, administra ou controla, direta ou indiretamente, uma infraestrutura de suporte;\n\nIV - direito de passagem: prerrogativa de acessar, utilizar, atravessar, cruzar, transpor e percorrer imóvel de propriedade alheia, com o objetivo de construir, instalar, alterar ou reparar infraestrutura de suporte, bem como cabos, sistemas, equipamentos ou quaisquer outros recursos ou elementos de redes de telecomunicações;\n\nV - estação transmissora de radiocomunicação: conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de comunicação, incluindo seus acessórios e periféricos, que emitem radiofrequências, possibilitando a prestação dos serviços de telecomunicações;\n\nVI - infraestrutura de suporte: meios físicos fixos utilizados para dar suporte a redes de telecomunicações, entre os quais postes, torres, mastros, armários, estruturas de superfície e estruturas suspensas;\n\nVII - limiar de acionamento: percentual de uso da capacidade da estação transmissora de radiocomunicação que determina a necessidade de expansão da capacidade da estação ou do sistema da prestadora;\n\nVIII - prestadora: pessoa jurídica que detém concessão, permissão ou autorização para a exploração de serviço de telecomunicações;\n\nIX - radiocomunicação: telecomunicação que utiliza frequências radioelétricas não confinadas a fios, cabos ou outros meios físicos; e\n\nX - rede de telecomunicações: conjunto operacional contínuo de circuitos e equipamentos, incluindo funções de transmissão, comutação, multiplexação ou quaisquer outras indispensáveis à operação de serviços de telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%203%C2%BA%20Para%20os%20fins%20desta%20Lei%2C%20adotam-se%20as%20seguintes%20defini%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A aplicação das disposições desta Lei rege-se pelos seguintes pressupostos:\n\nI - o sistema nacional de telecomunicações compõe-se de bens e serviços de utilidade pública e de relevante interesse social;\n\nII - a regulamentação e a fiscalização de aspectos técnicos das redes e dos serviços de telecomunicações é competência exclusiva da União, sendo vedado aos Estados, aos Municípios e ao Distrito Federal impor condicionamentos que possam afetar a seleção de tecnologia, a topologia das redes e a qualidade dos serviços prestados;\n\nIII - (VETADO);\n\nIV - as prestadoras devem cumprir integralmente as disposições legais e regulamentares aplicáveis a sua atividade econômica, em especial as relativas à segurança dos usuários dos serviços, sendo passíveis de responsabilização civil e penal em caso de descumprimento;\n\nV - a otimização dos recursos proveniente do compartilhamento de infraestrutura deve ser revertida em investimentos, pelas prestadoras dos serviços, em sua ampliação e modernização, bem como no mapeamento e georreferenciamento das redes a fim de garantir ao poder público a devida informação acerca de sua localização, dimensão e capacidade disponível;\n\nVI - o uso racional dos recursos e a modernização tecnológica das redes e de sua infraestrutura de suporte, com vistas a reduzir o impacto ambiental, devem nortear permanentemente as decisões das prestadoras;\n\nVII - aos entes federados compete promover a conciliação entre as normas ambientais, de ordenamento territorial e de telecomunicações;\n\nVIII - a atuação dos Estados, dos Municípios e do Distrito Federal não deve comprometer as condições e os prazos impostos ou contratados pela União em relação a qualquer serviço de telecomunicações de interesse coletivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%204%C2%BA%20A%20aplica%C3%A7%C3%A3o%20das%20disposi%C3%A7%C3%B5es%20desta%20Lei%20rege-se%20pelos%20seguintes%20pressupostos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O licenciamento para a instalação de infraestrutura e de redes de telecomunicações em área urbana obedecerá ao disposto nesta Lei e será pautado pelos seguintes princípios:\n\nI - razoabilidade e proporcionalidade;\n\nII - eficiência e celeridade;\n\nIII - integração e complementaridade entre as atividades de instalação de infraestrutura de suporte e de urbanização;\n\nIV - redução do impacto paisagístico da infraestrutura de telecomunicações, sempre que tecnicamente possível e economicamente viável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%205%C2%BA%20O%20licenciamento%20para%20a%20instala%C3%A7%C3%A3o%20de%20infraestrutura%20e%20de%20redes%20de%20telecomunica%C3%A7%C3%B5es%20em%20%C3%A1rea%20urbana%20obedecer%C3%A1%20ao%20disposto%20nesta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A instalação de infraestrutura de rede de telecomunicações em área urbana não poderá:\n\nI - obstruir a circulação de veículos, pedestres ou ciclistas;\n\nII - contrariar parâmetros urbanísticos e paisagísticos aprovados para a área;\n\nIII - prejudicar o uso de praças e parques;\n\nIV - prejudicar a visibilidade dos motoristas que circulem em via pública ou interferir na visibilidade da sinalização de trânsito;\n\nV - danificar, impedir acesso ou inviabilizar a manutenção, o funcionamento e a instalação de infraestrutura de outros serviços públicos;\n\nVI - pôr em risco a segurança de terceiros e de edificações vizinhas;\n\nVII - desrespeitar as normas relativas à Zona de Proteção de Aeródromo, à Zona de Proteção de Heliponto, à Zona de Proteção de Auxílios à Navegação Aérea e à Zona de Proteção de Procedimentos de Navegação Aérea, editadas pelo Comando da Aeronáutica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%206%C2%BA%20A%20instala%C3%A7%C3%A3o%20de%20infraestrutura%20de%20rede%20de%20telecomunica%C3%A7%C3%B5es%20em%20%C3%A1rea%20urbana%20n%C3%A3o%20poder%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As licenças necessárias para a instalação de infraestrutura de suporte em área urbana serão expedidas mediante procedimento simplificado, sem prejuízo da manifestação dos diversos órgãos competentes no decorrer da tramitação do processo administrativo.\n\n§ 1º O prazo para emissão de qualquer licença referida no caput não poderá ser superior a 60 (sessenta) dias, contados da data de apresentação do requerimento.\n\n§ 2º O requerimento de que trata o § 1º será único e dirigido a um único órgão ou entidade em cada ente federado.\n\n§ 3º O prazo previsto no § 1º será contado de forma comum nos casos em que for exigida manifestação de mais de um órgão ou entidade de um mesmo ente federado.\n\n§ 4º O órgão ou entidade de que trata o § 2º poderá exigir, uma única vez, esclarecimentos, complementação de informações ou a realização de alterações no projeto original, respeitado o prazo previsto no § 1º.\n\n§ 5º O prazo previsto no § 1º ficará suspenso entre a data da notificação da exigência a que se refere o § 4º e a data da apresentação dos esclarecimentos, das informações ou das alterações pela solicitante.\n\n§ 6º Nas hipóteses de utilização de mecanismos de consulta ou audiência públicas, nos processos a que se refere o caput , o prazo previsto no § lº deste artigo não será postergado por mais de 15 (quinze) dias.\n\n§ 7º O prazo de vigência das licenças referidas no caput não será inferior a 10 (dez) anos e poderá ser renovado por iguais períodos.\n\n§ 8º Será dispensada de novo licenciamento a infraestrutura de suporte a estação transmissora de radiocomunicação por ocasião da alteração de características técnicas decorrente de processo de remanejamento, substituição ou modernização tecnológica, nos termos da regulamentação.\n\n§ 9º Será dispensada de novo licenciamento a infraestrutura de suporte a estação transmissora de radiocomunicação com padrões e características técnicas equiparadas a anteriores já licenciadas, nos termos da regulamentação da Agência Nacional de Telecomunicações (Anatel).\n\n§ 10. O processo de licenciamento ambiental, quando for necessário, ocorrerá de maneira integrada ao procedimento de licenciamento indicado neste artigo.\n\n§ 11. Caso o prazo mencionado no § 1º deste artigo tenha decorrido sem decisão do órgão ou entidade competente, a requerente ficará autorizada a realizar a instalação em conformidade com as condições estipuladas no requerimento de licença apresentado e com as demais regras previstas em leis e em normas municipais, estaduais, distritais e federais pertinentes à matéria. (Incluído pela Lei nº 14.424, de 2022)\n\n§ 12. O órgão ou entidade competente poderá cassar, a qualquer tempo, a licença de que trata o § 11 deste artigo, caso as condições estipuladas no requerimento ou em demais leis e normas pertinentes sejam descumpridas. (Incluído pela Lei nº 14.424, de 2022)\n\n§ 13. Da decisão de que trata o § 12 deste artigo caberá recurso administrativo com efeito suspensivo. (Incluído pela Lei nº 14.424, de 2022)\n\n§ 14. A retirada da infraestrutura de suporte, caso determinada em decisão administrativa final de órgão ou entidade competente, será de responsabilidade da requerente das licenças de que trata o caput deste artigo, a quem caberá também a reparação dos eventuais danos causados ao meio ambiente e a terceiros, nos termos do § 3º do art. 225 da Constituição Federal e do § 1º do art. 14 da Lei nº 6.938, de 31 de agosto de 1981. (Incluído pela Lei nº 14.424, de 2022)\n\n§ 15. Independem da manifestação da autoridade licenciadora as alterações na operação de instalações de radiodifusão ou de telecomunicações previamente licenciadas, incluídos o compartilhamento de excedente de infraestrutura e a instalação de estações de radiodifusão complementares, desde que essas alterações não incrementem os impactos ambientais negativos avaliados nas etapas anteriores do licenciamento ambiental, nos termos do § 5º do art. 5º da Lei nº 15.190, de 8 de agosto de 2025. (Incluído pela Lei nº 15.300, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%207%C2%BA%20As%20licen%C3%A7as%20necess%C3%A1rias%20para%20a%20instala%C3%A7%C3%A3o%20de%20infraestrutura%20de%20suporte%20em%20%C3%A1rea%20urbana%20ser%C3%A3o%20expedidas%20mediante%20procedimento%20simplificado%2C%20sem%20preju%C3%ADzo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Os órgãos competentes não poderão impor condições ou vedações que impeçam a prestação de serviços de telecomunicações de interesse coletivo, nos termos da legislação vigente.\n\nParágrafo único. Eventuais condicionamentos impostos pelas autoridades competentes na instalação de infraestrutura de suporte não poderão provocar condições não isonômicas de competição e de prestação de serviços de telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%208%C2%BA%20Os%20%C3%B3rg%C3%A3os%20competentes%20n%C3%A3o%20poder%C3%A3o%20impor%20condi%C3%A7%C3%B5es%20ou%20veda%C3%A7%C3%B5es%20que%20impe%C3%A7am%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20de%20interesse%20coletivo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O Conselho Nacional do Meio Ambiente (Conama) disciplinará o procedimento de licenciamento ambiental a que se refere o § 10 do art. 7º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%209%C2%BA%20O%20Conselho%20Nacional%20do%20Meio%20Ambiente%20%28Conama%29%20disciplinar%C3%A1%20o%20procedimento%20de%20licenciamento%20ambiental%20a%20que%20se%20refere%20o%20%C2%A7%2010",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A instalação, em área urbana, de infraestrutura de redes de telecomunicações de pequeno porte, conforme definido em regulamentação específica, prescindirá da emissão das licenças previstas no art. 7º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2010.%20A%20instala%C3%A7%C3%A3o%2C%20em%20%C3%A1rea%20urbana%2C%20de%20infraestrutura%20de%20redes%20de%20telecomunica%C3%A7%C3%B5es%20de%20pequeno%20porte%2C%20conforme%20definido%20em%20regulamenta%C3%A7%C3%A3o%20espec%C3%ADfica%2C%20prescindir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Sem prejuízo de eventual direito de regresso, a responsabilidade pela conformidade técnica da infraestrutura de redes de telecomunicações será da detentora daquela infraestrutura.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2011.%20Sem%20preju%C3%ADzo%20de%20eventual%20direito%20de%20regresso%2C%20a%20responsabilidade%20pela%20conformidade%20t%C3%A9cnica%20da%20infraestrutura%20de%20redes%20de%20telecomunica%C3%A7%C3%B5es%20ser%C3%A1%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Não será exigida contraprestação em razão do direito de passagem em vias públicas, em faixas de domínio e em outros bens públicos de uso comum do povo, ainda que esses bens ou instalações sejam explorados por meio de concessão ou outra forma de delegação, excetuadas aquelas cujos contratos decorram de licitações anteriores à data de promulgação desta Lei.\n\n§ 1º O disposto no caput não abrange os custos necessários à instalação, à operação, à manutenção e à remoção da infraestrutura e dos equipamentos, que deverão ser arcados pela entidade interessada, e não afeta obrigações indenizatórias decorrentes de eventual dano efetivo ou de restrição de uso significativa.\n\n§ 2º O direito de passagem será autorizado pelos órgãos reguladores sob cuja competência estiver a área a ser ocupada ou atravessada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2012.%20N%C3%A3o%20ser%C3%A1%20exigida%20contrapresta%C3%A7%C3%A3o%20em%20raz%C3%A3o%20do%20direito%20de%20passagem%20em%20vias%20p%C3%BAblicas%2C%20em%20faixas%20de%20dom%C3%ADnio%20e%20em%20outros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O órgão regulador competente, na forma do regulamento:\n\nI - estabelecerá os parâmetros técnicos para instalação, operação, manutenção e remoção das redes de telecomunicações, incluindo sua infraestrutura de suporte;\n\nII - (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2013.%20O%20%C3%B3rg%C3%A3o%20regulador%20competente%2C%20na%20forma%20do%20regulamento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. É obrigatório o compartilhamento da capacidade excedente da infraestrutura de suporte, exceto quando houver justificado motivo técnico.\n\n§ 1º A obrigação a que se refere o caput será observada de forma a não prejudicar o patrimônio urbanístico, histórico, cultural, turístico e paisagístico.\n\n§ 2º As condições sob as quais o compartilhamento poderá ser dispensado serão determinadas em regulamentação específica.\n\n§ 3º A construção e a ocupação de infraestrutura de suporte devem ser planejadas e executadas com vistas a permitir seu compartilhamento pelo maior número possível de prestadoras.\n\n§ 4º O compartilhamento de infraestrutura será realizado de forma não discriminatória e a preços e condições justos e razoáveis, tendo como referência o modelo de custos setorial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2014.%20%C3%89%20obrigat%C3%B3rio%20o%20compartilhamento%20da%20capacidade%20excedente%20da%20infraestrutura%20de%20suporte%2C%20exceto%20quando%20houver%20justificado%20motivo%20t%C3%A9cnico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Nos termos da regulamentação da Anatel, as detentoras devem tornar disponíveis, de forma transparente e não discriminatória, às possíveis solicitantes, documentos que descrevam as condições de compartilhamento, incluindo, entre outras, informações técnicas georreferenciadas da infraestrutura disponível e os preços e prazos aplicáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2015.%20Nos%20termos%20da%20regulamenta%C3%A7%C3%A3o%20da%20Anatel%2C%20as%20detentoras%20devem%20tornar%20dispon%C3%ADveis%2C%20de%20forma%20transparente%20e%20n%C3%A3o%20discriminat%C3%B3ria%2C%20%C3%A0s%20poss%C3%ADveis%20solicitantes%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As obras de infraestrutura de interesse público deverão comportar a instalação de infraestrutura para redes de telecomunicações, conforme regulamentação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2016.%20As%20obras%20de%20infraestrutura%20de%20interesse%20p%C3%BAblico%20dever%C3%A3o%20comportar%20a%20instala%C3%A7%C3%A3o%20de%20infraestrutura%20para%20redes%20de%20telecomunica%C3%A7%C3%B5es%2C%20conforme%20regulamenta%C3%A7%C3%A3o%20espec%C3%ADfica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A instalação das estações transmissoras de radiocomunicação deve ocorrer com o mínimo de impacto paisagístico, buscando a harmonização estética com a edificação e a integração dos equipamentos à paisagem urbana.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2017.%20A%20instala%C3%A7%C3%A3o%20das%20esta%C3%A7%C3%B5es%20transmissoras%20de%20radiocomunica%C3%A7%C3%A3o%20deve%20ocorrer%20com%20o%20m%C3%ADnimo%20de%20impacto%20paisag%C3%ADstico%2C%20buscando%20a%20harmoniza%C3%A7%C3%A3o%20est%C3%A9tica%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As estações transmissoras de radiocomunicação, incluindo terminais de usuário, deverão atender aos limites de exposição humana aos campos elétricos, magnéticos e eletromagnéticos estabelecidos em lei e na regulamentação específica.\n\n§ 1º A fiscalização do atendimento aos limites legais mencionados no caput é de competência do órgão regulador federal de telecomunicações.\n\n§ 2º Os órgãos estaduais, distritais ou municipais deverão oficiar ao órgão regulador federal de telecomunicações no caso de eventuais indícios de irregularidades quanto aos limites legais de exposição humana a campos elétricos, magnéticos e eletromagnéticos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2018.%20As%20esta%C3%A7%C3%B5es%20transmissoras%20de%20radiocomunica%C3%A7%C3%A3o%2C%20incluindo%20terminais%20de%20usu%C3%A1rio%2C%20dever%C3%A3o%20atender%20aos%20limites%20de%20exposi%C3%A7%C3%A3o%20humana%20aos%20campos%20el%C3%A9tricos%2C%20magn%C3%A9ticos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A avaliação das estações transmissoras de radiocomunicação deve ser efetuada por entidade competente, que elaborará e assinará relatório de conformidade para cada estação analisada, nos termos da regulamentação específica.\n\n§ 1º O relatório de conformidade deve ser publicado na internet e apresentado por seu responsável, sempre que requisitado pelas autoridades competentes.\n\n§ 2º As estações devidamente licenciadas pela Anatel que possuírem relatório de conformidade adequado às exigências legais e regulamentares não poderão ter sua instalação impedida por razões relativas à exposição humana a radiação não ionizante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2019.%20A%20avalia%C3%A7%C3%A3o%20das%20esta%C3%A7%C3%B5es%20transmissoras%20de%20radiocomunica%C3%A7%C3%A3o%20deve%20ser%20efetuada%20por%20entidade%20competente%2C%20que%20elaborar%C3%A1%20e%20assinar%C3%A1%20relat%C3%B3rio%20de%20conformidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Compete às prestadoras e aos poderes públicos federal, estadual, distrital e municipal promover a conscientização da sociedade quanto aos limites de exposição humana aos campos elétricos, magnéticos e eletromagnéticos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2020.%20Compete%20%C3%A0s%20prestadoras%20e%20aos%20poderes%20p%C3%BAblicos%20federal%2C%20estadual%2C%20distrital%20e%20municipal%20promover%20a%20conscientiza%C3%A7%C3%A3o%20da%20sociedade%20quanto%20aos%20limites",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. (VETADO).\n\n§ 1º As prestadoras de que trata esta Lei deverão publicar e manter atualizados em sítio de internet próprio ou do órgão regulador federal de telecomunicações, para qualquer interessado, os percentuais de uso da capacidade das estações, conforme regulamentação da Anatel.\n\n§ 2º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2021.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2022.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2023.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Em municípios com população superior a 300.000 (trezentos mil) habitantes, o poder público municipal deverá instituir comissão de natureza consultiva, que contará com a participação de representantes da sociedade civil e de prestadoras de serviços de telecomunicações, cuja finalidade é contribuir para a implementação do disposto nesta Lei no âmbito local.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2024.%20Em%20munic%C3%ADpios%20com%20popula%C3%A7%C3%A3o%20superior%20a%20300.000%20%28trezentos%20mil%29%20habitantes%2C%20o%20poder%20p%C3%BAblico%20municipal%20dever%C3%A1%20instituir%20comiss%C3%A3o%20de%20natureza%20consultiva%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O descumprimento das obrigações estabelecidas por esta Lei sujeita as prestadoras de serviços de telecomunicações à aplicação das sanções estabelecidas no art. 173 da Lei nº 9.472, de 16 de julho de 1997 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2025.%20O%20descumprimento%20das%20obriga%C3%A7%C3%B5es%20estabelecidas%20por%20esta%20Lei%20sujeita%20as%20prestadoras%20de%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20%C3%A0%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20estabelecidas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. As prestadoras de serviços de telecomunicações deverão disponibilizar informações técnicas e georreferenciadas acerca de sua infraestrutura, de acordo com os parâmetros estabelecidos em regulamentação específica.\n\nParágrafo único. A regulamentação preverá, entre outros aspectos, o procedimento para acesso às informações pelos entes federados interessados e as condições em que os dados serão disponibilizados a terceiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2026.%20As%20prestadoras%20de%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20dever%C3%A3o%20disponibilizar%20informa%C3%A7%C3%B5es%20t%C3%A9cnicas%20e%20georreferenciadas%20acerca%20de%20sua%20infraestrutura%2C%20de%20acordo%20com%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O art. 74 da Lei nº 9.472, de 16 de julho de 1997, passa a vigorar com a seguinte redação:\n\n“Art. 74. A concessão, permissão ou autorização de serviço de telecomunicações não isenta a prestadora do atendimento às normas de engenharia e às leis municipais, estaduais ou distritais relativas à construção civil.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2027.%20O%20art.%2074%20da%20Lei%20n%C2%BA%209.472%2C%20de%2016%20de%20julho%20de%201997%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Os arts. 6º, 10 e 14 da Lei nº 11.934, de 5 de maio de 2009 , passam a vigorar com a seguinte redação:\n\n“Art. 6º ......................................................................................................................\n\n.................................................................................................................................................\n\n§ 2º São permitidos a instalação e o funcionamento de estações transmissoras de radiocomunicação e de infraestruturas de suporte em bens privados ou públicos, com a devida autorização do proprietário ou, quando não for possível, do possuidor do imóvel.” (NR)\n\n“Art. 10......................................................................................................................\n\n§ 1º O disposto no caput deste artigo não se aplica à utilização de antenas fixadas sobre estruturas prediais, das harmonizadas à paisagem e tampouco das instaladas até 5 de maio de 2009.\n\n................................................................................................................................. .....”(NR)\n\n“Art. 14. ....................................................................................................................\n\n.................................................................................................................................................\n\n§ 3º Para a comercialização de terminais de usuário, não serão exigidas por Estados, pelo Distrito Federal e por Municípios condições distintas daquelas previstas na regulamentação do órgão regulador federal de telecomunicações, na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), e nas demais normas federais aplicáveis às relações de consumo, inclusive quanto ao conteúdo e à forma de disponibilização de informações ao usuário.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2028.%20Os%20arts.%206%C2%BA%2C%2010%20e%2014%20da%20Lei%20n%C2%BA%2011.934%2C%20de%205%20de%20maio%20de%202009%20%2C%20passam%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. A construção de edifício público ou privado destinado ao uso coletivo deverá ser executada de modo a dispor de dutos, condutos, caixas de passagem e outras infraestruturas que permitam a passagem de cabos e fibras óticas para a instalação de redes de telecomunicações, nos termos das normas técnicas de edificações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2029.%20A%20constru%C3%A7%C3%A3o%20de%20edif%C3%ADcio%20p%C3%BAblico%20ou%20privado%20destinado%20ao%20uso%20coletivo%20dever%C3%A1%20ser%20executada%20de%20modo%20a%20dispor%20de%20dutos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Os arts. 2º e 3º da Lei nº 10.257, de 10 de julho de 2001 , passam a vigorar com a seguinte redação:\n\n“Art. 2º ......................................................................................................................\n\n.................................................................................................................................................\n\nXVIII - tratamento prioritário às obras e edificações de infraestrutura de energia, telecomunicações, abastecimento de água e saneamento.” (NR)\n\n“Art. 3º .......................................................................................................................\n\n.................................................................................................................................................\n\nIV - instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico, transportes urbanos e infraestrutura de energia e telecomunicações;\n\n..................................................................................................................................... ” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2030.%20Os%20arts.%202%C2%BA%20e%203%C2%BA%20da%20Lei%20n%C2%BA%2010.257%2C%20de%2010%20de%20julho%20de%202001%20%2C%20passam%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 20 de abril de 2015; 194º da Independência e 127º da República.\n\nDILMA ROUSSEFF\n\nJosé Eduardo Cardoso\n\nTarcísio José Massote de Godoy\n\nNelson Barbosa\n\nRicardo Berzoini\n\nLuíz Inácio Lucena Adams\n\nEste texto não substitui o publicado no DOU de 22.4.2015\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm#:~:text=Art.%2031.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": null
+    }
+  }
+}

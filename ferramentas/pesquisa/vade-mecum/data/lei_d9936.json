@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "codigo": "D9936",
+    "nome": "Decreto 9.936/2019 - Regulamenta Base de Dados para Score de Crédito",
+    "lei": "Decreto 9.936/2019",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm",
+    "total_artigos": 23,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Este Decreto regulamenta a Lei nº 12.414, de 9 de junho de 2011 , que disciplina a formação e a consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%201%C2%BA%20Este%20Decreto%20regulamenta%20a%20Lei%20n%C2%BA%2012.414%2C%20de%209%20de%20junho%20de%202011%20%2C%20que%20disciplina%20a%20forma%C3%A7%C3%A3o%20e%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O funcionamento dos gestores de bancos de dados e o compartilhamento de informações autorizados pela Lei nº 12.414, de 2011 , deverão atender aos seguintes requisitos mínimos:\n\nI - aspectos econômico-financeiros: patrimônio líquido mínimo de R$ 100.000.000,00 (cem milhões de reais), detido pelo gestor de banco de dados, comprovado por meio de demonstração financeira relativa ao exercício mais recente auditada por auditor independente registrado na Comissão de Valores Mobiliários;\n\nII - aspectos técnico-operacionais:\n\na) certificação técnica emitida por empresa qualificada independente, renovada, no mínimo, a cada três anos, e revisada anualmente, que:\n\n1. ateste a disponibilidade de plataforma tecnológica apta a preservar a integridade e o sigilo dos dados armazenados; e\n\n2. indique que as estruturas tecnológicas envolvidas no fornecimento do serviço de cadastro seguem as melhores práticas de segurança da informação, inclusive quanto a plano de recuperação em caso de desastre, com infraestrutura de cópia de segurança para o armazenamento dos dados dos cadastrados, das autorizações e das solicitações de cancelamento e de reabertura de cadastro;\n\nb) certificação técnica emitida por empresa qualificada independente, renovada, no mínimo, a cada três anos, e revisada anualmente, que ateste a adequabilidade da política de segurança da informação sobre a criação, a guarda, a utilização e o descarte de informações no âmbito interno e externo, inclusive quanto à transferência ou à utilização de informações por outras empresas prestadoras de serviço contratadas;\n\nc) certificação técnica emitida por empresa qualificada independente, renovada, no mínimo, a cada três anos, com revisão anual, que ateste a adequabilidade da política de estabelecimento da responsabilidade, principalmente quanto aos quesitos de sigilo e proteção das informações, de privacidade de dados dos clientes e de prevenção e tratamento de fraudes;\n\nd) implementação e manutenção de programa de gestão de vulnerabilidades, programa de prevenção de vazamentos de dados e controles de acesso privilegiado;\n\ne) asseguração de procedimentos de segurança e realização de testes periódicos de firewalls , de vulnerabilidade e penetração, por entidade independente; e\n\nf) implementação e manutenção de programa de gestão de fornecedores que os classifique de acordo com a criticidade, com a adoção de regras de verificações de acordo com sua relevância, de modo a assegurar o cumprimento dos requisitos estabelecidos na política de segurança do gestor de banco de dados;\n\nIII - aspectos relacionados à governança:\n\na) aprovação e manutenção de estatuto ou contrato social com o desenho e as regras relativas à estrutura administrativa do gestor de banco de dados;\n\nb) disponibilização dos procedimentos operacionais do desempenho da atividade e dos controles de risco disponíveis;\n\nc) disponibilização mensal das informações relevantes relacionadas ao seu funcionamento no período que atestem a plena operação do gestor de banco de dados, tais como:\n\n1. desempenho econômico-financeiro;\n\n2. quantitativo de operações registradas;\n\n3. quantitativo de consultas realizadas;\n\n4. quantitativo de cadastrados;\n\n5. quantitativo de consulentes cadastrados;\n\n6. quantitativo de fontes ativas;\n\n7. relatório de erros ocorridos;\n\n8. quantitativo de ocorrências registradas no serviço de atendimento ao consumidor; e\n\n9. ouvidoria;\n\nd) designação pelo conselho de administração ou, se inexistente, pela diretoria da entidade, de diretores responsáveis técnicos pela gestão do banco de dados e pela política de segurança da informação; e\n\ne) asseguração da política de transparência de uso e coleta de dados por empresa de auditoria independente registrada na Comissão de Valores Mobiliários; e\n\nIV - aspectos relacionais:\n\na) disponibilização de canais de acesso, inclusive em sítio eletrônico, que assegurem ao cadastrado a possibilidade de exercer os seus direitos, de forma simples e segura, em especial aqueles de que tratam os art. 5º e art. 6º da Lei nº 12.414, de 2011 ;\n\nb) manutenção de serviço gratuito de atendimento ao consumidor que atenda aos requisitos estabelecidos no Decreto nº 6.523, de 31 de julho de 2008 , ou em ato normativo que venha a substituí-lo;\n\nc) constituição e manutenção de componente organizacional de ouvidoria, com a atribuição de atuar como canal de comunicação entre os gestores de bancos de dados e os cadastrados, inclusive na mediação de conflitos;\n\nd) divulgação ampla dos serviços prestados pelo serviço de atendimento ao consumidor e pelo componente de ouvidoria, de que tratam as alíneas “b” e “c” do inciso IV do caput , com informações completas acerca das suas finalidades, suas formas de acesso e sua utilização; e\n\ne) disponibilização aos cadastrados de formas de acesso gratuito ao serviço de atendimento ao consumidor e ao componente de ouvidoria por telefone, pelo sítio eletrônico da entidade e pelos demais canais de comunicação, inclusive nos extratos e nos comprovantes fornecidos ao cadastrado.\n\n§ 1º O ato constitutivo da pessoa jurídica, as suas eventuais alterações, a ata de eleição de administradores, quando aplicável, e os documentos comprobatórios dos aspectos a que se refere o caput serão disponibilizados aos órgãos públicos sempre que solicitado.\n\n§ 2º Os documentos referidos nos incisos II e III do caput serão atualizados e disponibilizados, de forma pública e de fácil acesso, no sítio eletrônico da entidade.\n\n§ 3º O serviço gratuito de atendimento ao consumidor deverá prestar esclarecimentos aos cadastrados sobre os principais elementos e critérios considerados para a composição da nota ou da pontuação de crédito, exceto quanto às informações consideradas sigilosas em decorrência de sigilo empresarial.\n\n§ 4º Compete ao órgão de ouvidoria, no mínimo:\n\nI - receber, registrar, instruir, analisar e dar tratamento formal e adequado às reclamações dos cadastrados não solucionadas no prazo de cinco dias úteis pelos demais canais de atendimento;\n\nII - prestar esclarecimentos e informar os reclamantes sobre o andamento de suas reclamações e das providências adotadas, conforme número de protocolo, observado o prazo de dez dias úteis para resposta, contado da data de registro da reclamação; e\n\nIII - propor ao gestor do banco de dados medidas corretivas ou de aprimoramento relativas aos procedimentos e às rotinas, em decorrência da análise das reclamações recebidas.\n\n§ 5º Para o gestor de banco de dados em operação na data da entrada em vigor deste Decreto, poderá ser considerado, para fins de cumprimento da exigência de que trata o inciso I do caput , o patrimônio líquido de pessoas jurídicas controladoras ou associadas que assumam, contratual ou estatutariamente, responsabilidade solidária pelo cumprimento das obrigações financeiras do gestor.\n\n§ 6º O patrimônio líquido dos controladores e associados que, nos termos do disposto no § 5º, vier a ser considerado na composição do valor previsto no inciso I do caput não será superior a:\n\nI - sessenta por cento do valor, até 31 de dezembro de 2020;\n\nII - cinquenta por cento do valor, até 31 de dezembro de 2022;\n\nIII - quarenta por cento do valor, até 31 de dezembro de 2023;\n\nIV - trinta por cento do valor, até 31 de dezembro de 2024;\n\nV - vinte por cento do valor, até 31 de dezembro de 2025; e\n\nVI - dez por cento do valor, até 31 de dezembro de 2026.\n\n§ 7º A responsabilidade a ser estabelecida, contratual ou estatutariamente, na forma prevista no § 5º, abrangerá, no mínimo, os valores correspondentes aos percentuais de que trata o § 6º.\n\n§ 8º Na hipótese em que a responsabilidade pela gestão de banco de dados que esteja em operação na data da entrada em vigor deste Decreto seja transferida para outra pessoa jurídica:\n\nI - as certificações e as assegurações emitidas e os testes realizados antes da transferência da responsabilidade pela gestão de banco de dados que ainda estejam em vigor podem ser considerados para fins de cumprimento dos requisitos de funcionamento de que trata o inciso II do caput pela pessoa jurídica que venha a assumir essa responsabilidade; e\n\nII - o disposto nos § 5º ao § 7º se aplica à pessoa jurídica que venha a assumir essa responsabilidade.\n\n§ 9º Os responsáveis técnicos pela gestão do banco de dados e pela política de segurança da informação:\n\nI - devem ocupar os cargos de diretor estatutário, administrador ou sócio gerente da entidade; e\n\nII - podem acumular as atribuições de que trata o inciso I e o caput e exercer outras atividades na entidade, desde que não gerem conflito de interesses.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%202%C2%BA%20O%20funcionamento%20dos%20gestores%20de%20bancos%20de%20dados%20e%20o%20compartilhamento%20de%20informa%C3%A7%C3%B5es%20autorizados%20pela%20Lei%20n%C2%BA%2012.414%2C%20de%202011",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O histórico de crédito do cadastrado é composto pelo conjunto de dados financeiros e de pagamentos relativos às operações de crédito e obrigações de pagamento adimplidas ou em andamento realizadas por pessoa natural ou jurídica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%203%C2%BA%20O%20hist%C3%B3rico%20de%20cr%C3%A9dito%20do%20cadastrado%20%C3%A9%20composto%20pelo%20conjunto%20de%20dados%20financeiros%20e%20de%20pagamentos%20relativos%20%C3%A0s%20opera%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Para fins do disposto neste Decreto, o conjunto de dados financeiros e de pagamentos é composto por:\n\nI - data da concessão do crédito ou da assunção da obrigação de pagamento;\n\nII - valor do crédito concedido ou da obrigação de pagamento assumida;\n\nIII - valores devidos das prestações ou das obrigações, com indicação das datas de vencimento e de pagamento; e\n\nIV - valores pagos, integral ou parcialmente, das prestações ou obrigações, com indicação das datas de pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%204%C2%BA%20Para%20fins%20do%20disposto%20neste%20Decreto%2C%20o%20conjunto%20de%20dados%20financeiros%20e%20de%20pagamentos%20%C3%A9%20composto%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Os bancos de dados apresentarão, para fins de composição do histórico de crédito, informações objetivas, claras, verdadeiras e de fácil compreensão, que sejam necessárias para a avaliação da situação econômico-financeira do cadastrado e da composição de sua nota de crédito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%205%C2%BA%20Os%20bancos%20de%20dados%20apresentar%C3%A3o%2C%20para%20fins%20de%20composi%C3%A7%C3%A3o%20do%20hist%C3%B3rico%20de%20cr%C3%A9dito%2C%20informa%C3%A7%C3%B5es%20objetivas%2C%20claras%2C%20verdadeiras%20e%20de%20f%C3%A1cil",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O gestor de banco de dados deverá disponibilizar ao cadastrado, por meio físico e eletrônico, acesso ao sistema de registro e acompanhamento de solicitação de correção de erro nas informações relativas ao histórico de crédito do cadastrado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%206%C2%BA%20O%20gestor%20de%20banco%20de%20dados%20dever%C3%A1%20disponibilizar%20ao%20cadastrado%2C%20por%20meio%20f%C3%ADsico%20e%20eletr%C3%B4nico%2C%20acesso%20ao%20sistema%20de%20registro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A disponibilização a consulentes do histórico de crédito do cadastrado, pelo gestor de banco de dados, fica condicionada à autorização, prévia e específica, do cadastrado.\n\nParágrafo único. A autorização de que trata o caput também se aplica aos bancos de dados em funcionamento em 9 de julho de 2019, conforme o disposto no inciso II do caput do art. 7º da Lei Complementar nº 166, de 8 de abril de 2019 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%207%C2%BA%20A%20disponibiliza%C3%A7%C3%A3o%20a%20consulentes%20do%20hist%C3%B3rico%20de%20cr%C3%A9dito%20do%20cadastrado%2C%20pelo%20gestor%20de%20banco%20de%20dados%2C%20fica%20condicionada%20%C3%A0%20autoriza%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A autorização para disponibilização de histórico de crédito a consulentes será concedida pelo cadastrado a gestor de banco de dados, em formato físico ou eletrônico, diretamente ou por meio de consulente, conforme o modelo apresentado no Anexo.\n\n§ 1º A autorização de que trata o caput será concedida:\n\nI - para cada acesso pelo consulente autorizado; ou\n\nII - para acesso pelo consulente autorizado por prazo fixo:\n\na) de até três meses, na hipótese de autorização concedida por pessoa natural; ou\n\nb) de até doze meses, na hipótese de autorização concedida por pessoa jurídica.\n\n§ 2º Na hipótese de o consulente ser instituição autorizada a funcionar pelo Banco Central do Brasil, a autorização de que trata o caput poderá ser concedida por prazo indeterminado, limitado ao período de duração do relacionamento contratual entre a instituição e o cadastrado.\n\n§ 3º O cadastrado poderá revogar a autorização concedida por prazo fixo ou indeterminado, unilateralmente, a qualquer tempo, perante o gestor de bancos de dados.\n\n§ 4º A autorização de que trata o caput será extensiva a todos os gestores de bancos de dados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%208%C2%BA%20A%20autoriza%C3%A7%C3%A3o%20para%20disponibiliza%C3%A7%C3%A3o%20de%20hist%C3%B3rico%20de%20cr%C3%A9dito%20a%20consulentes%20ser%C3%A1%20concedida%20pelo%20cadastrado%20a%20gestor%20de%20banco%20de%20dados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º As informações sobre o cadastrado constantes dos bancos de dados somente poderão ser acessadas por consulentes que com ele mantiverem ou pretenderem manter relação comercial ou creditícia.\n\nParágrafo único. O gestor do banco de dados manterá políticas e controles para garantir que as informações sobre o cadastrado sejam acessadas somente por consulente que atender ao disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%209%C2%BA%20As%20informa%C3%A7%C3%B5es%20sobre%20o%20cadastrado%20constantes%20dos%20bancos%20de%20dados%20somente%20poder%C3%A3o%20ser%20acessadas%20por%20consulentes%20que%20com%20ele%20mantiverem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O gestor do banco de dados deverá:\n\nI - indicar, em cada resposta a consulta, a data da última atualização das informações enviadas ao banco de dados;\n\nII - adotar as cautelas necessárias à preservação do sigilo das informações que lhe forem enviadas e divulgá-las apenas para as finalidades previstas na Lei nº 12.414, de 2011 ;\n\nIII - manter sistemas de guarda e acesso com requisitos de segurança que protejam as informações de acesso por terceiros não autorizados e de uso em desacordo com as finalidades previstas na Lei nº 12.414, de 2011 ;\n\nIV - dotar os sistemas de guarda e acesso das informações de características de rastreabilidade passíveis de serem auditadas;\n\nV - disponibilizar, em seus sítios eletrônicos, para consulta do cadastrado, com acesso formalizado, de maneira segura e gratuita:\n\na) as informações sobre o cadastrado constantes do banco de dados no momento da solicitação;\n\nb) a indicação das fontes que encaminharam informações sobre o cadastrado, com endereço e telefone para contato;\n\nc) a indicação dos gestores dos bancos de dados com os quais as informações sobre o cadastrado tenham sido compartilhadas; e\n\nd) a indicação clara dos consulentes que tiveram acesso ao histórico de crédito e à nota de crédito do cadastrado nos seis meses anteriores à data da solicitação;\n\nVI - informar claramente os direitos do cadastrado definidos em lei e em normas infralegais pertinentes à sua relação com as fontes e os gestores de bancos de dados, inclusive em seu sítio eletrônico;\n\nVII - disponibilizar, em seu sítio eletrônico, a relação de órgãos governamentais aos quais o cadastrado poderá recorrer em caso de violação de dados; e\n\nVIII - manter por, no mínimo, quinze anos os dados sobre as autorizações concedidas, os pedidos de cancelamento e a reabertura de cadastro, exclusão, revogação e correção de anotação.\n\nParágrafo único. As informações de que trata o inciso V do caput serão gratuitamente disponibilizadas ao cadastrado também por telefone.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2010.%20O%20gestor%20do%20banco%20de%20dados%20dever%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O gestor do banco de dados não poderá informar aos consulentes as fontes individuais das informações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2011.%20O%20gestor%20do%20banco%20de%20dados%20n%C3%A3o%20poder%C3%A1%20informar%20aos%20consulentes%20as%20fontes%20individuais%20das%20informa%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O gestor de banco de dados manterá em arquivo, exclusivamente para fins de auditoria, os dados, as autorizações concedidas, os pedidos de cancelamento e a reabertura de cadastro, exclusão, revogação e correção de anotação, pelo prazo mínimo de quinze anos, contado da data do cancelamento do cadastro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2012.%20O%20gestor%20de%20banco%20de%20dados%20manter%C3%A1%20em%20arquivo%2C%20exclusivamente%20para%20fins%20de%20auditoria%2C%20os%20dados%2C%20as%20autoriza%C3%A7%C3%B5es%20concedidas%2C%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O cadastrado poderá requerer a gestor de banco de dados, a qualquer tempo, o cancelamento e a reabertura do seu cadastro e a suspensão do acesso à sua nota de crédito por consulentes.\n\n§ 1º O gestor que receber a solicitação de suspensão de acesso à nota de crédito deverá, no prazo de dois dias úteis, contado da data de sua solicitação:\n\nI - suspender, por prazo indeterminado, o acesso à nota de crédito por consulentes; e\n\nII - transmitir a solicitação aos demais gestores, que deverão atendê-la no prazo de dois dias úteis, contado da data do recebimento da comunicação.\n\n§ 2º O direito de acesso do cadastrado à sua própria nota de crédito será mantido durante o período de suspensão de que trata o caput .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2013.%20O%20cadastrado%20poder%C3%A1%20requerer%20a%20gestor%20de%20banco%20de%20dados%2C%20a%20qualquer%20tempo%2C%20o%20cancelamento%20e%20a%20reabertura%20do%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. As solicitações de cancelamento ou de reabertura do cadastro e de suspensão de acesso à nota de crédito do cadastrado serão realizadas de forma expressa e poderão ser feitas por meio eletrônico.\n\n§ 1º Não será admitido pedido de exclusão parcial de informações registradas em banco de dados, exceto se houverem sido indevidamente registradas.\n\n§ 2º O gestor de banco de dados não poderá anotar informações de adimplemento de cadastrado que tenha solicitado o cancelamento do seu cadastro após o prazo de dois dias úteis, contado da data de sua solicitação.\n\n§ 3º O gestor de banco de dados manterá disponível ao cadastrado, por meio telefônico e eletrônico, sistema de registro e acompanhamento de solicitação de cancelamento ou reabertura do cadastro e de suspensão de acesso à nota de crédito do cadastrado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2014.%20As%20solicita%C3%A7%C3%B5es%20de%20cancelamento%20ou%20de%20reabertura%20do%20cadastro%20e%20de%20suspens%C3%A3o%20de%20acesso%20%C3%A0%20nota%20de%20cr%C3%A9dito%20do%20cadastrado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. As fontes fornecerão aos gestores de bancos de dados o conjunto de dados financeiros e de pagamentos e os dados pessoais do cadastrado, mesmo na hipótese de o termo inicial desse período ser anterior a 9 de julho de 2019, conforme o\n\n§ 1º Os dados pessoais deverão ser fornecidos pelas fontes aos gestores de bancos de dados para a abertura do cadastro e sempre que houver alteração no conteúdo dessas informações.\n\n§ 2º As informações de adimplemento prestadas pelas fontes compreenderão, no mínimo, o período de doze meses anteriores à data de prestação da informação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2015.%20As%20fontes%20fornecer%C3%A3o%20aos%20gestores%20de%20bancos%20de%20dados%20o%20conjunto%20de%20dados%20financeiros%20e%20de%20pagamentos%20e%20os%20dados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O envio das informações pelas fontes aos gestores de bancos de dados será realizado por mecanismos que preservem a integridade e o sigilo dos dados enviados.\n\nParágrafo único. Os gestores de bancos de dados poderão fornecer às fontes os mecanismos de envio das informações, observado o disposto no art. 10 da Lei nº 12.414, de 2011 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2016.%20O%20envio%20das%20informa%C3%A7%C3%B5es%20pelas%20fontes%20aos%20gestores%20de%20bancos%20de%20dados%20ser%C3%A1%20realizado%20por%20mecanismos%20que%20preservem%20a%20integridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Serão definidos em comum acordo entre as fontes e os gestores de bancos de dados o padrão e o leiaute para o envio das seguintes informações:\n\nI - dados da fonte:\n\na) nome da fonte; e\n\nb) CNPJ/CPF da fonte;\n\nII - dados do cadastrado:\n\na) nome do cadastrado;\n\nb) CPF/CNPJ do cadastrado;\n\nc) endereço residencial ou comercial do cadastrado;\n\nd) endereço eletrônico do cadastrado, quando houver; e\n\ne) telefone do cadastrado;\n\nIII - informações de adimplemento:\n\na) natureza da relação:\n\n1. creditícia;\n\n2. comercial;\n\n3. de serviço continuado; ou\n\n4. outra a ser definida;\n\nb) data de início da concessão do crédito ou da assunção da obrigação de pagamento;\n\nc) valor do crédito concedido ou, quando for possível definir, da obrigação assumida;\n\nd) datas de pagamentos a vencer;\n\ne) valores de pagamentos a vencer;\n\nf) datas de vencimento pretéritas;\n\ng) valores devidos nas datas de vencimento pretéritas;\n\nh) datas dos pagamentos realizados, mesmo que parciais; e\n\ni) valores dos pagamentos realizados, mesmo que parciais.\n\nParágrafo único. Os reguladores das fontes poderão, no âmbito de suas competências legais, editar atos normativos complementares sobre o padrão e o leiaute de que trata o caput .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2017.%20Ser%C3%A3o%20definidos%20em%20comum%20acordo%20entre%20as%20fontes%20e%20os%20gestores%20de%20bancos%20de%20dados%20o%20padr%C3%A3o%20e%20o%20leiaute",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Na ocorrência de vazamento de informações de cadastrados ou de outro incidente de segurança que possa acarretar risco ou prejuízo relevante a cadastrados, o gestor de banco de dados comunicará o fato:\n\nI - à Autoridade Nacional de Proteção de Dados, na hipótese de ocorrência que envolva o fornecimento de dados de pessoas naturais;\n\nII - ao Banco Central do Brasil, na hipótese de ocorrência que envolva o fornecimento de dados prestados por instituições autorizadas a funcionar pelo Banco Central do Brasil; e\n\nIII - à Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública, na hipótese de ocorrência que envolva o fornecimento de dados de consumidores.\n\n§ 1º A comunicação de que trata o caput será feita no prazo de dois dias úteis, contado da data do conhecimento do incidente, e mencionará, no mínimo:\n\nI - a descrição da natureza dos dados pessoais afetados;\n\nII - as informações sobre os cadastrados envolvidos;\n\nIII - a indicação das medidas de segurança utilizadas para a proteção dos dados, inclusive os procedimentos de encriptação;\n\nIV - os riscos relacionados ao incidente; e\n\nV - as medidas que foram ou que serão adotadas para reverter ou mitigar os efeitos do prejuízo.\n\n§ 2º No juízo de gravidade do incidente de que trata o caput , será avaliada eventual comprovação de que foram adotadas medidas técnicas adequadas que tornem os dados pessoais afetados ininteligíveis para terceiros não autorizados a acessá-los.\n\n§ 3º Será obrigatória a pronta comunicação aos cadastrados afetados pelo incidente de segurança de que trata este artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2018.%20Na%20ocorr%C3%AAncia%20de%20vazamento%20de%20informa%C3%A7%C3%B5es%20de%20cadastrados%20ou%20de%20outro%20incidente%20de%20seguran%C3%A7a%20que%20possa%20acarretar%20risco%20ou%20preju%C3%ADzo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Na hipótese de decisão baseada em consulta ao banco de dados e realizada exclusivamente por meios automatizados, caso o cadastrado solicite ao consulente a revisão da decisão, o consulente apresentará o resultado no prazo de sete dias úteis, contado da data do requerimento de revisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2019.%20Na%20hip%C3%B3tese%20de%20decis%C3%A3o%20baseada%20em%20consulta%20ao%20banco%20de%20dados%20e%20realizada%20exclusivamente%20por%20meios%20automatizados%2C%20caso%20o%20cadastrado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Não poderá ser registrada pelo gestor do banco de dados como informação negativa a ausência de comunicação pela fonte sobre a situação de adimplência do cadastrado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2020.%20N%C3%A3o%20poder%C3%A1%20ser%20registrada%20pelo%20gestor%20do%20banco%20de%20dados%20como%20informa%C3%A7%C3%A3o%20negativa%20a%20aus%C3%AAncia%20de%20comunica%C3%A7%C3%A3o%20pela%20fonte%20sobre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Compete exclusivamente ao Banco Central do Brasil requerer aos gestores de banco de dados, na forma e no prazo que estabelecer, as informações necessárias para o desempenho das atribuições de que trata o § 6º do art. 12 da Lei nº 12.414, de 2011 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2021.%20Compete%20exclusivamente%20ao%20Banco%20Central%20do%20Brasil%20requerer%20aos%20gestores%20de%20banco%20de%20dados%2C%20na%20forma%20e%20no%20prazo%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Fica revogado o Decreto nº 7.829, de 17 de outubro de 2012 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2022.%20Fica%20revogado%20o%20Decreto%20n%C2%BA%207.829%2C%20de%2017%20de%20outubro%20de%202012%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Este Decreto entra em vigor na data de sua publicação.\n\nBrasília, 24 de julho de 2019; 198º da Independência e 131º da República.\n\nJAIR MESSIAS BOLSONARO Sérgio Moro Paulo Guedes Roberto de Oliveira Campos Neto\n\nEste texto não substitui o publicado no DOU de 25.7.2019 e retificado em 1º.8.2019\n\nANEXO\n\nMODELO DE AUTORIZAÇÃO PARA DISPONIBILIZAÇÃO DE HISTÓRICO DE CRÉDITO A CONSULENTES\n\n1. Autorizo os gestores de banco de dados de que trata a Lei nº 12.414, de 9 de junho de 2011 , a disponibilizar a(o) ________________________________, CNPJ nº ____________________, o meu histórico de crédito, o qual abrangerá os dados financeiros e de pagamentos relativos às operações de crédito e obrigações de pagamento adimplidas em seus respectivos vencimentos, e aquelas a vencer, constantes de banco(s) de dados, com a finalidade única e exclusiva de subsidiar a análise e a eventual concessão de crédito, a venda a prazo ou outras transações comerciais e empresariais que impliquem risco financeiro.\n\n2. Esta autorização tem validade:\n\n( ) para uma consulta nesta data;\n\n( ) até __/__/___; ou\n\n( ) por tempo indeterminado (somente no caso dos consulentes de que trata o § 2º do art. 8º do Decreto nº 9.936, de 24 de julho de 2019 ).\n\n3. Estou ciente de que poderei revogar, a qualquer tempo, esta autorização, perante o gestor de banco de dados.\n\nLocal e data:\n\nNome:\n\nCPF/CNPJ:\n\nRG.:\n\nAssinatura (ou certificação eletrônica):\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm#:~:text=Art.%2023.%20Este%20Decreto%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "codigo": "L9961",
+    "nome": "Agência Nacional de Saúde (ANS)",
+    "lei": "Lei 9.961/2000",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm",
+    "total_artigos": 41,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o É criada a Agência Nacional de Saúde Suplementar – ANS, autarquia sob o regime especial, vinculada ao Ministério da Saúde, com sede e foro na cidade do Rio de Janeiro - RJ, prazo de duração indeterminado e atuação em todo o território nacional, como órgão de regulação, normatização, controle e fiscalização das atividades que garantam a assistência suplementar à saúde.\n\nParágrafo único. A natureza de autarquia especial conferida à ANS é caracterizada por autonomia administrativa, financeira, patrimonial e de gestão de recursos humanos, autonomia nas suas decisões técnicas e mandato fixo de seus dirigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%201o%20%C3%89%20criada%20a%20Ag%C3%AAncia%20Nacional%20de%20Sa%C3%BAde%20Suplementar%20%E2%80%93%20ANS%2C%20autarquia%20sob%20o%20regime%20especial%2C%20vinculada%20ao%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Caberá ao Poder Executivo instalar a ANS, devendo o seu regulamento, aprovado por decreto do Presidente da República, fixar-lhe a estrutura organizacional básica.\n\nParágrafo único. Constituída a ANS, com a publicação de seu regimento interno, pela diretoria colegiada, ficará a autarquia, automaticamente, investida no exercício de suas atribuições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%202o%20Caber%C3%A1%20ao%20Poder%20Executivo%20instalar%20a%20ANS%2C%20devendo%20o%20seu%20regulamento%2C%20aprovado%20por%20decreto%20do%20Presidente%20da%20Rep%C3%BAblica%2C%20fixar-lhe%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o A ANS terá por finalidade institucional promover a defesa do interesse público na assistência suplementar à saúde, regulando as operadoras setoriais, inclusive quanto às suas relações com prestadores e consumidores, contribuindo para o desenvolvimento das ações de saúde no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%203o%20A%20ANS%20ter%C3%A1%20por%20finalidade%20institucional%20promover%20a%20defesa%20do%20interesse%20p%C3%BAblico%20na%20assist%C3%AAncia%20suplementar%20%C3%A0%20sa%C3%BAde%2C%20regulando%20as%20operadoras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Compete à ANS:\n\nI - propor políticas e diretrizes gerais ao Conselho Nacional de Saúde Suplementar - Consu para a regulação do setor de saúde suplementar;\n\nII - estabelecer as características gerais dos instrumentos contratuais utilizados na atividade das operadoras;\n\nIII - elaborar o rol de procedimentos e eventos em saúde, que constituirão referência básica para os fins do disposto na Lei no 9.656, de 3 de junho de 1998, e suas excepcionalidades;\n\nIV - fixar critérios para os procedimentos de credenciamento e descredenciamento de prestadores de serviço às operadoras;\n\nV - estabelecer parâmetros e indicadores de qualidade e de cobertura em assistência à saúde para os serviços próprios e de terceiros oferecidos pelas operadoras;\n\nVI - estabelecer normas para ressarcimento ao Sistema Único de Saúde - SUS;\n\nVII - estabelecer normas relativas à adoção e utilização, pelas operadoras de planos de assistência à saúde, de mecanismos de regulação do uso dos serviços de saúde;\n\nVIII - deliberar sobre a criação de câmaras técnicas, de caráter consultivo, de forma a subsidiar suas decisões;\n\nIX - normatizar os conceitos de doença e lesão preexistentes;\n\nX - definir, para fins de aplicação da Lei no 9.656, de 1998, a segmentação das operadoras e administradoras de planos privados de assistência à saúde, observando as suas peculiaridades;\n\nXI - estabelecer critérios, responsabilidades, obrigações e normas de procedimento para garantia dos direitos assegurados nos arts. 30 e 31 da Lei nº 9.656, de 1998;\n\nXII - estabelecer normas para registro dos produtos definidos no inciso I e no § 1o do art. 1o da Lei no 9.656, de 1998;\n\nXIII - decidir sobre o estabelecimento de sub-segmentações aos tipos de planos definidos nos incisos I a IV do art. 12 da Lei no 9.656, de 1998;\n\nXIV - estabelecer critérios gerais para o exercício de cargos diretivos das operadoras de planos privados de assistência à saúde;\n\nXV - estabelecer critérios de aferição e controle da qualidade dos serviços oferecidos pelas operadoras de planos privados de assistência à saúde, sejam eles próprios, referenciados, contratados ou conveniados;\n\nXVI - estabelecer normas, rotinas e procedimentos para concessão, manutenção e cancelamento de registro dos produtos das operadoras de planos privados de assistência à saúde;\n\nXVII - autorizar reajustes e revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, de acordo com parâmetros e diretrizes gerais fixados conjuntamente pelos Ministérios da Fazenda e da Saúde;\n\nXVII - autorizar reajustes e revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, ouvido o Ministério da Fazenda; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nXVIII - expedir normas e padrões para o envio de informações de natureza econômico-financeira pelas operadoras, com vistas à homologação de reajustes e revisões;\n\nXIX - proceder à integração de informações com os bancos de dados do Sistema Único de Saúde;\n\nXX - autorizar o registro dos planos privados de assistência à saúde;\n\nXXI - monitorar a evolução dos preços de planos de assistência à saúde, seus prestadores de serviços, e respectivos componentes e insumos;\n\nXXII - autorizar o registro e o funcionamento das operadoras de planos privados de assistência à saúde, bem assim, ouvidos previamente os órgãos do sistema de defesa da concorrência, sua cisão, fusão, incorporação, alteração ou transferência do controle societário;\n\nXXII - autorizar o registro e o funcionamento das operadoras de planos privados de assistência à saúde, bem assim sua cisão, fusão, incorporação, alteração ou transferência do controle societário, sem prejuízo do disposto na Lei no 8.884, de 11 de junho de 1994; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nXXIII - fiscalizar as atividades das operadoras de planos privados de assistência à saúde e zelar pelo cumprimento das normas atinentes ao seu funcionamento;\n\nXXIV - exercer o controle e a avaliação dos aspectos concernentes à garantia de acesso, manutenção e qualidade dos serviços prestados, direta ou indiretamente, pelas operadoras de planos privados de assistência à saúde;\n\nXXV - avaliar a capacidade técnico-operacional das operadoras de planos privados de assistência à saúde para garantir a compatibilidade da cobertura oferecida com os recursos disponíveis na área geográfica de abrangência;\n\nXXVI - fiscalizar a atuação das operadoras e prestadores de serviços de saúde com relação à abrangência das coberturas de patologias e procedimentos;\n\nXXVII - fiscalizar aspectos concernentes às coberturas e o cumprimento da legislação referente aos aspectos sanitários e epidemiológicos, relativos à prestação de serviços médicos e hospitalares no âmbito da saúde suplementar;\n\nXXVIII - avaliar os mecanismos de regulação utilizados pelas operadoras de planos privados de assistência à saúde;\n\nXXIX - fiscalizar o cumprimento das disposições da Lei no 9.656, de 1998, e de sua regulamentação;\n\nXXX - aplicar as penalidades pelo descumprimento da Lei no 9.656, de 1998, e de sua regulamentação;\n\nXXXI - requisitar o fornecimento de informações às operadoras de planos privados de assistência à saúde, bem como da rede prestadora de serviços a elas credenciadas;\n\nXXXII - adotar as medidas necessárias para estimular a competição no setor de planos privados de assistência à saúde;\n\nXXXIII - instituir o regime de direção fiscal ou técnica nas operadoras;\n\nXXXIV - proceder à liquidação das operadoras que tiverem cassada a autorização de funcionamento;\n\nXXXIV - proceder à liquidação extrajudicial e autorizar o liquidante a requerer a falência ou insolvência civil das operadores de planos privados de assistência à saúde; (Redação dada pela Medida Provisória nº 2.097-36, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nXXXV - promover a alienação da carteira de planos privados de assistência à saúde das operadoras;\n\nXXXV - determinar ou promover a alienação da carteira de planos privados de assistência à saúde das operadoras; (Redação dada pela Medida Provisória nº 2.097-36, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nXXXVI - articular-se com os órgãos de defesa do consumidor visando a eficácia da proteção e defesa do consumidor de serviços privados de assistência à saúde, observado o disposto na Lei no 8.078, de 11 de setembro de 1990;\n\nXXXVII - zelar pela qualidade dos serviços de assistência à saúde no âmbito da assistência à saúde suplementar;\n\nXXXVIII - administrar e arrecadar as taxas instituídas por esta Lei.\n\nXXXIX - celebrar, nas condições que estabelecer, termo de compromisso de ajuste de conduta e termo de compromisso e fiscalizar os seus cumprimentos; (Incluído pela Medida Provisória nº 1.976-33, de 2000) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nXL - definir as atribuições e competências do Diretor Técnico, Diretor Fiscal, do liquidante e do responsável pela alienação de carteira. (Incluído pela Medida Provisória nº 2.097-36, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nXLI - fixar as normas para constituição, organização, funcionamento e fiscalização das operadoras de produtos de que tratam o inciso I e o § 1o do art. 1o da Lei no 9.656, de 3 de junho de 1998, incluindo: (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\na) conteúdos e modelos assistenciais; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nb) adequação e utilização de tecnologias em saúde; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nc) direção fiscal ou técnica; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nd) liquidação extrajudicial; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\ne) procedimentos de recuperação financeira das operadoras; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nf) normas de aplicação de penalidades; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\ng) garantias assistenciais, para cobertura dos planos ou produtos comercializados ou disponibilizados; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nXLII - editar as normas, após a fixação das diretrizes gerais pelo CONSU, para implementação no setor de saúde suplementar de: (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Vide Medida Provisória nº 2.177-44, de 2001)\n\na) assistência farmacêutica; (Incluída pela Medida Provisória nº 2.177-43, de 2001)\n\nb) ampliação das ações de prevenção e promoção à saúde; (Incluída pela Medida Provisória nº 2.177-43, de 2001)\n\nc) mobilidade de beneficiários entre operadoras e portabilidade de suas carências; (Incluída pela Medida Provisória nº 2.177-43, de 2001)\n\nXLII - estipular índices e demais condições técnicas sobre investimentos e outras relações patrimoniais a serem observadas pelas operadoras de planos de assistência à saúde. (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nXLIII - estipular índices e demais condições técnicas sobre investimentos e outras relações patrimoniais a serem observadas pelas operadoras de planos de assistência à saúde. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Vide Medida Provisória nº 2.177-44, de 2001)\n\n§ 1o A recusa, a omissão, a falsidade ou o retardamento injustificado de informações ou documentos solicitados pela ANS constitui infração punível com multa diária de cinco mil Ufir, podendo ser aumentada em até vinte vezes se necessário para garantir a sua eficácia em razão da situação econômica da operadora ou prestadora de serviços.\n\n§ 1o A recusa, a omissão, a falsidade ou o retardamento injustificado de informações ou documentos solicitados pela ANS constitui infração punível com multa diária de R$ 5.000,00 (cinco mil reais), podendo ser aumentada em até vinte vezes, se necessário, para garantir a sua eficácia em razão da situação econômica da operadora ou prestadora de serviços. (Redação dada pela Medida Provisória nº 1.976-33, de 2000) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 2o As normas previstas neste artigo obedecerão às características específicas da operadora, especialmente no que concerne à natureza jurídica de seus atos constitutivos.\n\n§ 3o O Presidente da República poderá determinar que os reajustes e as revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, de que trata o inciso XVII, sejam autorizados em ato conjunto dos Ministros de Estado da Fazenda e da Saúde. (Revogado pela Medida Provisória nº 2.177-43, de 2001) (Revogado pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 4º Estão subordinados às normas e à fiscalização da ANS quaisquer modalidades de plano, produto, serviço, contrato ou correlato que ofereçam garantia de prestação de serviço de saúde especializados, específicos ou auxiliares, para utilização futura ou eventual, tais como: cartão de desconto, cobertura de procedimento ou doença específica, UTI móvel ou remoção, cuidados domiciliares, dentre outros, conforme disciplinamento específico da ANS. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Vide Medida Provisória nº 2.177-44, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%204o%20Compete%20%C3%A0%20ANS%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o A ANS será dirigida por uma Diretoria Colegiada, devendo contar, também, com um Procurador, um Corregedor e um Ouvidor, além de unidades especializadas incumbidas de diferentes funções, de acordo com o regimento interno.\n\nParágrafo único. A ANS contará, ainda, com a Câmara de Saúde Suplementar, de caráter permanente e consultivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%205o%20A%20ANS%20ser%C3%A1%20dirigida%20por%20uma%20Diretoria%20Colegiada%2C%20devendo%20contar%2C%20tamb%C3%A9m%2C%20com%20um%20Procurador%2C%20um%20Corregedor%20e%20um%20Ouvidor%2C%20al%C3%A9m",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A gestão da ANS será exercida pela Diretoria Colegiada, composta por até cinco Diretores, sendo um deles o seu Diretor-Presidente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%206o%20A%20gest%C3%A3o%20da%20ANS%20ser%C3%A1%20exercida%20pela%20Diretoria%20Colegiada%2C%20composta%20por%20at%C3%A9%20cinco%20Diretores%2C%20sendo%20um%20deles%20o%20seu%20Diretor-Presidente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o O Diretor-Presidente da ANS será designado pelo Presidente da República, dentre os membros da Diretoria Colegiada, e investido na função por três anos, ou pelo prazo restante de seu mandato, admitida uma única recondução por três anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%207o%20O%20Diretor-Presidente%20da%20ANS%20ser%C3%A1%20designado%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20dentre%20os%20membros%20da%20Diretoria%20Colegiada%2C%20e%20investido%20na%20fun%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Após os primeiros quatro meses de exercício, os dirigentes da ANS somente perderão o mandato em virtude de: (Revogado pela Lei nº 13.848, de 2019) Vigência\n\nI - condenação penal transitada em julgado; (Revogado pela Lei nº 13.848, de 2019) Vigência\n\nII - condenação em processo administrativo, a ser instaurado pelo Ministro de Estado da Saúde, assegurados o contraditório e a ampla defesa; (Revogado pela Lei nº 13.848, de 2019) Vigência\n\nIII - acumulação ilegal de cargos, empregos ou funções públicas; e (Revogado pela Lei nº 13.848, de 2019) Vigência\n\nIV - descumprimento injustificado de objetivos e metas acordados no contrato de gestão de que trata o Capítulo III desta Lei. (Revogado pela Lei nº 13.848, de 2019) Vigência\n\n§ 1o Instaurado processo administrativo para apuração de irregularidades, poderá o Presidente da República, por solicitação do Ministro de Estado da Saúde, no interesse da Administração, determinar o afastamento provisório do dirigente, até a conclusão. (Revogado pela Lei nº 13.848, de 2019) Vigência\n\n§ 2o O afastamento de que trata o § 1o não implica prorrogação ou permanência no cargo além da data inicialmente prevista para o término do mandato. (Revogado pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%208o%20Ap%C3%B3s%20os%20primeiros%20quatro%20meses%20de%20exerc%C3%ADcio%2C%20os%20dirigentes%20da%20ANS%20somente%20perder%C3%A3o%20o%20mandato%20em%20virtude%20de%3A%20%28Revogado%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Até doze meses após deixar o cargo, é vedado a ex-dirigente da ANS:\n\nI - representar qualquer pessoa ou interesse perante a Agência, excetuando-se os interesses próprios relacionados a contrato particular de assistência à saúde suplementar, na condição de contratante ou consumidor;\n\nII - deter participação, exercer cargo ou função em organização sujeita à regulação da ANS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%209o%20At%C3%A9%20doze%20meses%20ap%C3%B3s%20deixar%20o%20cargo%2C%20%C3%A9%20vedado%20a%20ex-dirigente%20da%20ANS%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Compete à Diretoria Colegiada:\n\nI - exercer a administração da ANS;\n\nII - editar normas sobre matérias de competência da ANS;\n\nIII - aprovar o regimento interno da ANS e definir a área de atuação de cada Diretor;\n\nIV - cumprir e fazer cumprir as normas relativas à saúde suplementar;\n\nV - elaborar e divulgar relatórios periódicos sobre suas atividades;\n\nVI - julgar, em grau de recurso, as decisões dos Diretores, mediante provocação dos interessados;\n\nVII - encaminhar os demonstrativos contábeis da ANS aos órgãos competentes.\n\n§ 1o A Diretoria reunir-se-á com a presença de, pelo menos, três diretores, dentre eles o Diretor-Presidente ou seu substituto legal.\n\n§ 1o A Diretoria reunir-se-á com a presença de, pelo menos, três diretores, dentre eles o Diretor-Presidente ou seu substituto legal, e deliberará com, no mínimo, três votos coincidentes (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 1º A Diretoria Colegiada reunir-se-á com a presença de, pelo menos, 3 (três) diretores, entre eles o Diretor-Presidente ou seu substituto legal, e deliberará com, no mínimo, 3 (três) votos coincidentes. (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\n§ 2o Dos atos praticados pelos Diretores da Agência caberá recurso à Diretoria Colegiada.\n\n§ 2o Dos atos praticados pelos Diretores caberá recurso à Diretoria Colegiada como última instância administrativa. (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 3o O recurso a que se refere o § 2o terá efeito suspensivo, salvo quando a matéria que lhe constituir o objeto envolver risco à saúde dos consumidores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2010.%20Compete%20%C3%A0%20Diretoria%20Colegiada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Compete ao Diretor-Presidente:\n\nI - representar legalmente a ANS;\n\nII - presidir as reuniões da Diretoria Colegiada;\n\nIII - cumprir e fazer cumprir as decisões da Diretoria Colegiada;\n\nIV - decidir nas questões de urgência ad referendum da Diretoria Colegiada;\n\nV - decidir, em caso de empate, nas deliberações da Diretoria Colegiada;\n\nVI - nomear ou exonerar servidores, provendo os cargos efetivos, em comissão e funções de confiança, e exercer o poder disciplinar, nos termos da legislação em vigor;\n\nVII - encaminhar ao Ministério da Saúde e ao Consu os relatórios periódicos elaborados pela Diretoria Colegiada;\n\nVIII - assinar contratos e convênios, ordenar despesas e praticar os atos de gestão necessários ao alcance dos objetivos da ANS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2011.%20Compete%20ao%20Diretor-Presidente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. São criados os cargos em comissão de Natureza Especial, do Grupo-Direção e Assessoramento Superiores - DAS e os Cargos Comissionados de Saúde Suplementar - CCSS, com a finalidade de integrar a estrutura da ANS, relacionados no Anexo I desta Lei. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 1o Os cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS serão exercidos, preferencialmente, por integrantes do quadro de pessoal da autarquia. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 2o Do total de CCSS, no mínimo noventa por cento são de ocupação exclusiva de empregados do quadro efetivo, cabendo à Diretoria Colegiada dispor sobre o provimento dos dez por cento restantes. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 3o Enquanto não estiverem completamente preenchidas as vagas do quadro de pessoal efetivo da ANS, os cargos de que trata o caput poderão ser ocupados por pessoal requisitado de outros órgãos e entidades da administração pública, devendo essa ocupação ser reduzida no prazo máximo de cinco anos. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 4o O servidor ou empregado investido em CCSS perceberá os vencimentos do cargo efetivo, acrescidos do valor do cargo comissionado para o qual tiver sido designado. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 5o Cabe à Diretoria Colegiada dispor sobre a realocação dos quantitativos e distribuição dos CCSS dentro de sua estrutura organizacional, observados os níveis hierárquicos, os valores de retribuição correspondentes e o respectivo custo global estabelecidos no Anexo I. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 6o A designação para CCSS é inacumulável com a designação ou nomeação para qualquer outra forma de comissionamento, cessando o seu pagamento durante as situações de afastamento do servidor, inclusive aquelas consideradas de efetivo exercício, ressalvados os períodos a que se referem os incisos I, IV, VI e VIII do art. 102 da Lei nº 8.112, de 11 de dezembro de 1990, com as alterações da Lei no 9.527, de 10 de dezembro de 1997. (Revogado pela Lei nº 9.986, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2012.%20S%C3%A3o%20criados%20os%20cargos%20em%20comiss%C3%A3o%20de%20Natureza%20Especial%2C%20do%20Grupo-Dire%C3%A7%C3%A3o%20e%20Assessoramento%20Superiores%20-%20DAS%20e%20os%20Cargos%20Comissionados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A Câmara de Saúde Suplementar será integrada:\n\nI - pelo Diretor-Presidente da ANS, ou seu substituto, na qualidade de Presidente;\n\nII - por um diretor da ANS, na qualidade de Secretário;\n\nIII - por um representante de cada Ministério a seguir indicado:\n\na) da Fazenda;\n\nb) da Previdência e Assistência Social;\n\nc) do Trabalho e Emprego;\n\nd) da Justiça;\n\ne) da Saúde;\n\nIV - por um representante de cada órgão e entidade a seguir indicados:\n\na) Conselho Nacional de Saúde;\n\nb) Conselho Nacional dos Secretários Estaduais de Saúde;\n\nc) Conselho Nacional dos Secretários Municipais de Saúde;\n\nd) Conselho Federal de Medicina;\n\ne) Conselho Federal de Odontologia;\n\nf) Conselho Federal de Enfermagem;\n\ng) Federação Brasileira de Hospitais;\n\nh) Confederação Nacional de Saúde, Hospitais, Estabelecimentos e Serviços;\n\ni) Confederação das Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas;\n\nj) Confederação Nacional da Indústria;\n\nl) Confederação Nacional do Comércio;\n\nm) Central Única dos Trabalhadores;\n\nn) Força Sindical;\n\no) Social Democracia Sindical;\n\np) Federação Nacional das Empresas de Seguros Privados e de Capitalização; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nq) Associação Médica Brasileira; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nV - por um representante de cada entidade a seguir indicada:\n\na) de defesa do consumidor;\n\na) do segmento de autogestão de assistência à saúde; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nb) de associações de consumidores de planos privados de assistência à saúde;\n\nb) das empresas de medicina de grupo; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nc) do segmento de auto-gestão de assistência à saúde;\n\nc) das cooperativas de serviços médicos que atuem na saúde suplementar; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nd) das empresas de medicina de grupo;\n\nd) das empresas de odontologia de grupo; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\ne) das cooperativas de serviços médicos que atuem na saúde suplementar;\n\ne) das cooperativas de serviços odontológicos que atuem na área de saúde suplementar; (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\nf) das empresas de odontologia de grupo;\n\ng) das cooperativas de serviços odontológicos que atuem na área de saúde suplementar;\n\nh) das entidades de portadores de deficiência e de patologias especiais.\n\nVI - por dois representantes de entidades a seguir indicadas: (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\na) de defesa do consumidor; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nb) de associações de consumidores de planos privados de assistência à saúde; (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\nc) das entidades de portadores de deficiência e de patologias especiais. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 1o Os membros da Câmara de Saúde Suplementar serão designados pelo Diretor-Presidente da ANS.\n\n§ 2o As entidades de que trata as alíneas do inciso V escolherão entre si dentro de cada categoria o seu representante e respectivo suplente na Câmara de Saúde Suplementar.\n\n§ 2o As entidades de que tratam as alíneas dos incisos V e VI escolherão entre si, dentro de cada categoria, os seus representantes e respectivos suplentes na Câmara de Saúde Suplementar. (Redação dada pela Medida Provisória nº 2.177-43, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2013.%20A%20C%C3%A2mara%20de%20Sa%C3%BAde%20Suplementar%20ser%C3%A1%20integrada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A administração da ANS será regida por um contrato de gestão, negociado entre seu Diretor-Presidente e o Ministro de Estado da Saúde e aprovado pelo Conselho de Saúde Suplementar, no prazo máximo de cento e vinte dias seguintes à designação do Diretor-Presidente da autarquia. (Revogado pela Lei nº 13.848, de 2019) Vigência\n\nParágrafo único. O contrato de gestão estabelecerá os parâmetros para a administração interna da ANS, bem assim os indicadores que permitam avaliar, objetivamente, a sua atuação administrativa e o seu desempenho. (Revogado pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2014.%20A%20administra%C3%A7%C3%A3o%20da%20ANS%20ser%C3%A1%20regida%20por%20um%20contrato%20de%20gest%C3%A3o%2C%20negociado%20entre%20seu%20Diretor-Presidente%20e%20o%20Ministro%20de%20Estado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O descumprimento injustificado do contrato de gestão implicará a dispensa do Diretor-Presidente, pelo Presidente da República, mediante solicitação do Ministro de Estado da Saúde. (Revogado pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2015.%20O%20descumprimento%20injustificado%20do%20contrato%20de%20gest%C3%A3o%20implicar%C3%A1%20a%20dispensa%20do%20Diretor-Presidente%2C%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20mediante%20solicita%C3%A7%C3%A3o%20do%20Ministro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Constituem patrimônio da ANS os bens e direitos de sua propriedade, os que lhe forem conferidos ou os que venha a adquirir ou incorporar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2016.%20Constituem%20patrim%C3%B4nio%20da%20ANS%20os%20bens%20e%20direitos%20de%20sua%20propriedade%2C%20os%20que%20lhe%20forem%20conferidos%20ou%20os%20que%20venha",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Constituem receitas da ANS:\n\nI - o produto resultante da arrecadação da Taxa de Saúde Suplementar de que trata o art. 18;\n\nII - a retribuição por serviços de quaisquer natureza prestados a terceiros;\n\nIII - o produto da arrecadação das multas resultantes das suas ações fiscalizadoras;\n\nIV - o produto da execução da sua dívida ativa;\n\nV - as dotações consignadas no Orçamento-Geral da União, créditos especiais, créditos adicionais, transferências e repasses que lhe forem conferidos;\n\nVI - os recursos provenientes de convênios, acordos ou contratos celebrados com entidades ou organismos nacionais e internacionais;\n\nVII - as doações, legados, subvenções e outros recursos que lhe forem destinados;\n\nVIII - os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade;\n\nIX - o produto da venda de publicações, material técnico, dados e informações;\n\nX - os valores apurados em aplicações no mercado financeiro das receitas previstas neste artigo, na forma definida pelo Poder Executivo;\n\nXI - quaisquer outras receitas não especificadas nos incisos I a X deste artigo.\n\nParágrafo único. Os recursos previstos nos incisos I a IV e VI a XI deste artigo serão creditados diretamente à ANS, na forma definida pelo Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2017.%20Constituem%20receitas%20da%20ANS%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. É instituída a Taxa de Saúde Suplementar, cujo fato gerador é o exercício pela ANS do poder de polícia que lhe é legalmente atribuído.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2018.%20%C3%89%20institu%C3%ADda%20a%20Taxa%20de%20Sa%C3%BAde%20Suplementar%2C%20cujo%20fato%20gerador%20%C3%A9%20o%20exerc%C3%ADcio%20pela%20ANS%20do%20poder%20de%20pol%C3%ADcia%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. São sujeitos passivos da Taxa de Saúde Suplementar as pessoas jurídicas, condomínios ou consórcios constituídos sob a modalidade de sociedade civil ou comercial, cooperativa ou entidade de autogestão, que operem produto, serviço ou contrato com a finalidade de garantir a assistência à saúde visando a assistência médica, hospitalar ou odontológica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2019.%20S%C3%A3o%20sujeitos%20passivos%20da%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20as%20pessoas%20jur%C3%ADdicas%2C%20condom%C3%ADnios%20ou%20cons%C3%B3rcios%20constitu%C3%ADdos%20sob%20a%20modalidade%20de%20sociedade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A Taxa de Saúde Suplementar será devida:\n\nI - por plano de assistência à saúde, e seu valor será o produto da multiplicação de R$ 2,00 (dois reais) pelo número médio de usuários de cada plano privado de assistência à saúde, deduzido o percentual total de descontos apurado em cada plano, de acordo com as Tabelas I e II do Anexo II desta Lei;\n\nII - por registro de produto, registro de operadora, alteração de dados referente ao produto, alteração de dados referente à operadora, pedido de reajuste de contraprestação pecuniária, conforme os valores constantes da Tabela que constitui o Anexo III desta Lei.\n\n§ 1o Para fins do cálculo do número médio de usuários de cada plano privado de assistência à saúde, previsto no inciso I deste artigo, não serão incluídos os maiores de sessenta anos.\n\n§ 2o Para fins do inciso I deste artigo, a Taxa de Saúde Suplementar será devida anualmente e recolhida até o último dia útil do primeiro decêndio dos meses de março, junho, setembro e dezembro e de acordo com o disposto no regulamento da ANS.\n\n§ 3o Para fins do inciso II deste artigo, a Taxa de Saúde Suplementar será devida quando da protocolização do requerimento e de acordo com o regulamento da ANS.\n\n§ 4o Para fins do inciso II deste artigo, os casos de alteração de dados referentes ao produto ou à operadora que não produzam conseqüências para o consumidor ou o mercado de saúde suplementar, conforme disposto em resolução da Diretoria Colegiada da ANS, poderão fazer jus a isenção ou redução da respectiva Taxa de Saúde Suplementar.\n\n§ 5o Até 31 de dezembro de 2000, os valores estabelecidos no Anexo III desta Lei sofrerão um desconto de 50% (cinqüenta por cento).\n\n§ 6o As operadoras de planos privados de assistência à saúde que se enquadram nos segmentos de autogestão por departamento de recursos humanos, ou de filantropia, ou que tenham número de usuários inferior a vinte mil, ou que despendem, em sua rede própria, mais de sessenta por cento do custo assistencial relativo aos gastos em serviços hospitalares referentes a seus Planos Privados de Assistência à Saúde e que prestam ao menos trinta por cento de sua atividade ao Sistema Único de Saúde - SUS, farão jus a um desconto de trinta por cento sobre o montante calculado na forma do inciso I deste artigo, conforme dispuser a ANS. (Incluído pela Medida Provisória nº 2.097-36, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 7o As operadoras de planos privados de assistência à saúde que comercializam exclusivamente planos odontológicos farão jus a um desconto de cinqüenta por cento sobre o montante calculado na forma do inciso I deste artigo, conforme dispuser a ANS. (Incluído pela Medida Provisória nº 2.097-36, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 8o As operadoras com número de usuários inferior a vinte mil poderão optar pelo recolhimento em parcela única no mês de março, fazendo jus a um desconto de cinco por cento sobre o montante calculado na forma do inciso I deste artigo, além dos descontos previstos nos §§ 6o e 7o, conforme dispuser a ANS. (Incluído pela Medida Provisória nº 2.097-36, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 9o Os valores constantes do Anexo III desta Lei ficam reduzidos em cinqüenta por cento, no caso das empresas com número de usuários inferior a vinte mil. (Incluído pela Medida Provisória nº 2.097-40, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 10. Para fins do disposto no inciso II deste artigo, os casos de alteração de dados referentes a produtos ou a operadoras, até edição da norma correspondente aos seus registros definitivos, conforme o disposto na Lei no 9.656, de 1998, ficam isentos da respectiva Taxa de Saúde Suplementar. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 11. Para fins do disposto no inciso I deste artigo, nos casos de alienação compulsória de carteira, as operadoras de planos privados de assistência à saúde adquirentes ficam isentas de pagamento da respectiva Taxa de Saúde Suplementar, relativa aos beneficiários integrantes daquela carteira, pelo prazo de cinco anos. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2020.%20A%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20ser%C3%A1%20devida%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A Taxa de Saúde Suplementar não recolhida nos prazos fixados será cobrada com os seguintes acréscimos:\n\nI - juros de mora, na via administrativa ou judicial, contados do mês seguinte ao do vencimento, à razão de 1% a.m. (um por cento ao mês) ou fração de mês;\n\nII - multa de mora de 10% (dez por cento).\n\nParágrafo único. Os débitos relativos à Taxa de Saúde Suplementar poderão ser parcelados, a juízo da ANS, de acordo com os critérios fixados na legislação tributária.\n\n§ 1o Os débitos relativos à Taxa de Saúde Suplementar poderão ser parcelados, a juízo da ANS, de acordo com os critérios fixados na legislação tributária. (Incluído pela Medida Provisória nº 2.097-36, de 2001) (Renumerado pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 2o Além dos acréscimos previstos nos incisos I e II deste artigo, o não recolhimento da Taxa de Saúde Suplementar implicará a perda dos descontos previstos nesta Lei. (Incluído pela Medida Provisória nº 2.097-36, de 2001) (Incluído pela Medida Provisória nº 2.177-44, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2021.%20A%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20n%C3%A3o%20recolhida%20nos%20prazos%20fixados%20ser%C3%A1%20cobrada%20com%20os%20seguintes%20acr%C3%A9scimos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A Taxa de Saúde Suplementar será devida a partir de 1o de janeiro de 2000.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2022.%20A%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20ser%C3%A1%20devida%20a%20partir%20de%201o%20de%20janeiro%20de%202000.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A Taxa de Saúde Suplementar será recolhida em conta vinculada à ANS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2023.%20A%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20ser%C3%A1%20recolhida%20em%20conta%20vinculada%20%C3%A0%20ANS.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os valores cuja cobrança seja atribuída por lei à ANS e apurados administrativamente, não recolhidos no prazo estipulado, serão inscritos em dívida ativa da própria ANS e servirão de título executivo para cobrança judicial na forma da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2024.%20Os%20valores%20cuja%20cobran%C3%A7a%20seja%20atribu%C3%ADda%20por%20lei%20%C3%A0%20ANS%20e%20apurados%20administrativamente%2C%20n%C3%A3o%20recolhidos%20no%20prazo%20estipulado%2C%20ser%C3%A3o%20inscritos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A execução fiscal da dívida ativa será promovida pela Procuradoria da ANS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2025.%20A%20execu%C3%A7%C3%A3o%20fiscal%20da%20d%C3%ADvida%20ativa%20ser%C3%A1%20promovida%20pela%20Procuradoria%20da%20ANS.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A ANS poderá contratar especialistas para a execução de trabalhos nas áreas técnica, científica, administrativa, econômica e jurídica, por projetos ou prazos limitados, observada a legislação em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2026.%20A%20ANS%20poder%C3%A1%20contratar%20especialistas%20para%20a%20execu%C3%A7%C3%A3o%20de%20trabalhos%20nas%20%C3%A1reas%20t%C3%A9cnica%2C%20cient%C3%ADfica%2C%20administrativa%2C%20econ%C3%B4mica%20e%20jur%C3%ADdica%2C%20por%20projetos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A ANS poderá requisitar, com ônus e para ocupação de cargos comissionados, servidores e empregados de órgãos e entidades integrantes da Administração Pública Federal. (Revogado pela Lei nº 9.986, de 2000)\n\nParágrafo único. Durante os primeiros trinta e seis meses subseqüentes à sua instalação, a ANS poderá: (Revogado pela Lei nº 9.986, de 2000)\n\nI - requisitar servidores e empregados de órgãos e entidades públicos, independentemente da função ou atividade a ser exercida; (Revogado pela Lei nº 9.986, de 2000)\n\nII - complementar a remuneração do servidor ou empregado requisitado, até o limite da remuneração do cargo efetivo ou emprego ocupado no órgão ou na entidade de origem, quando a requisição implicar redução dessa remuneração. (Revogado pela Lei nº 9.986, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2027.%20A%20ANS%20poder%C3%A1%20requisitar%2C%20com%20%C3%B4nus%20e%20para%20ocupa%C3%A7%C3%A3o%20de%20cargos%20comissionados%2C%20servidores%20e%20empregados%20de%20%C3%B3rg%C3%A3os%20e%20entidades%20integrantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Nos termos do inciso IX do art. 37 da Constituição Federal, é a ANS autorizada a efetuar contratação temporária por prazo não excedente a trinta e seis meses, a contar de sua instalação. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei 10.871, de 2004)\n\n§ 1o Para os fins do disposto no caput deste artigo, são consideradas necessidades temporárias de excepcional interesse público as atividades relativas à implementação, ao acompanhamento e à avaliação de atividades, projetos e programas de caráter finalístico na área de regulação da saúde suplementar, suporte administrativo e jurídico imprescindíveis à implantação da ANS. (Revogado pela Lei 10.871, de 2004)\n\n§ 2o A contratação de pessoal temporário poderá ser efetivada à vista de notória capacidade técnica ou científica do profissional, mediante análise do curriculum vitae. (Revogado pela Lei 10.871, de 2004)\n\n§ 3o As contratações temporárias serão feitas por tempo determinado e observado o prazo máximo de doze meses, podendo ser prorrogadas desde que sua duração não ultrapasse o termo final da autorização de que trata o caput. (Revogado pela Lei 10.871, de 2004)\n\n§ 4o A remuneração do pessoal contratado temporariamente terá como referência valores definidos em ato conjunto da ANS e do órgão central do Sistema de Pessoal Civil da Administração Federal - Sipec. (Revogado pela Lei 10.871, de 2004)\n\n§ 5o Aplica-se ao pessoal contratado temporariamente pela ANS o disposto nos arts. 5º e 6º, no parágrafo único do art. 7º, nos arts. 8º, 9º, 10, 11, 12 e 16 da Lei nº 8.745, de 9 de dezembro de 1993. (Revogado pela Lei 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2028.%20Nos%20termos%20do%20inciso%20IX%20do%20art.%2037%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20%C3%A9%20a%20ANS%20autorizada%20a%20efetuar%20contrata%C3%A7%C3%A3o%20tempor%C3%A1ria%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. É vedado à ANS requisitar pessoal com vínculo empregatício ou contratual junto a entidades sujeitas à sua ação reguladora, bem assim os respectivos responsáveis, ressalvada a participação em comissões de trabalho criadas com fim específico, duração determinada e não integrantes da sua estrutura organizacional.\n\nParágrafo único. Excetuam-se da vedação prevista neste artigo os empregados de empresas públicas e sociedades de economia mista que mantenham sistema de assistência à saúde na modalidade de autogestão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2029.%20%C3%89%20vedado%20%C3%A0%20ANS%20requisitar%20pessoal%20com%20v%C3%ADnculo%20empregat%C3%ADcio%20ou%20contratual%20junto%20a%20entidades%20sujeitas%20%C3%A0%20sua%20a%C3%A7%C3%A3o%20reguladora%2C%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Durante o prazo máximo de cinco anos, contado da data de instalação da ANS, o exercício da fiscalização das operadoras de planos privados de assistência à saúde poderá ser realizado por contratado, servidor ou empregado requisitado ou pertencente ao Quadro da Agência ou do Ministério da Saúde, mediante designação da Diretoria Colegiada, conforme dispuser o regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2030.%20Durante%20o%20prazo%20m%C3%A1ximo%20de%20cinco%20anos%2C%20contado%20da%20data%20de%20instala%C3%A7%C3%A3o%20da%20ANS%2C%20o%20exerc%C3%ADcio%20da%20fiscaliza%C3%A7%C3%A3o%20das%20operadoras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Na primeira gestão da ANS, visando implementar a transição para o sistema de mandatos não coincidentes, as nomeações observarão os seguintes critérios:\n\nI - três diretores serão nomeados pelo Presidente da República, por indicação do Ministro de Estado da Saúde;\n\nII - dois diretores serão nomeados na forma do parágrafo único do art. 6o desta Lei.\n\n§ 1o Dos três diretores referidos no inciso I deste artigo, dois serão nomeados para mandato de quatro anos e um, para mandato de três anos.\n\n§ 2o Dos dois diretores referidos no inciso II deste artigo, um será nomeado para mandato de quatro anos e o outro, para mandato de três anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2031.%20Na%20primeira%20gest%C3%A3o%20da%20ANS%2C%20visando%20implementar%20a%20transi%C3%A7%C3%A3o%20para%20o%20sistema%20de%20mandatos%20n%C3%A3o%20coincidentes%2C%20as%20nomea%C3%A7%C3%B5es%20observar%C3%A3o%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. É o Poder Executivo autorizado a:\n\nI - transferir para a ANS o acervo técnico e patrimonial, as obrigações, os direitos e as receitas do Ministério da Saúde e de seus órgãos, necessários ao desempenho de suas funções;\n\nII - remanejar, transferir ou utilizar os saldos orçamentários do Ministério da Saúde e do Fundo Nacional de Saúde para atender as despesas de estruturação e manutenção da ANS, utilizando como recursos as dotações orçamentárias destinadas às atividades finalísticas e administrativas, observados os mesmos subprojetos, subatividades e grupos de despesas previstos na Lei Orçamentária em vigor;\n\nIII - sub-rogar contratos ou parcelas destes relativos à manutenção, instalação e funcionamento da ANS.\n\nParágrafo único. Até que se conclua a instalação da ANS, são o Ministério da Saúde e a Fundação Nacional de Saúde incumbidos de assegurar o suporte administrativo e financeiro necessário ao funcionamento da Agência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2032.%20%C3%89%20o%20Poder%20Executivo%20autorizado%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A ANS poderá designar servidor ou empregado da Administração Pública Federal, direta ou indireta, para exercer o encargo de diretor fiscal, diretor técnico ou liquidante de operadora de plano de assistência à saúde com remuneração equivalente à do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS, de nível 5.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2033.%20A%20ANS%20poder%C3%A1%20designar%20servidor%20ou%20empregado%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal%2C%20direta%20ou%20indireta%2C%20para%20exercer%20o%20encargo%20de%20diretor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Aplica-se à ANS o disposto nos arts. 54 a 58 da Lei nº 9.472, de 16 de julho de 1997.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2034.%20Aplica-se%20%C3%A0%20ANS%20o%20disposto%20nos%20arts.%2054%20a%2058%20da%20Lei%20n%C2%BA%209.472%2C%20de%2016%20de%20julho%20de%201997.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Aplica-se à ANS o disposto no art. 24, parágrafo único, da Lei nº 8.666, de 21 de junho de 1993, alterado pela Lei no 9.648, de 27 de maio de 1998.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2035.%20Aplica-se%20%C3%A0%20ANS%20o%20disposto%20no%20art.%2024%2C%20par%C3%A1grafo%20%C3%BAnico%2C%20da%20Lei%20n%C2%BA%208.666%2C%20de%2021%20de%20junho%20de%201993%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. São estendidas à ANS, após a assinatura e enquanto estiver vigendo o contrato de gestão, as prerrogativas e flexibilidades de gestão previstas em lei, regulamentos e atos normativos para as Agências Executivas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2036.%20S%C3%A3o%20estendidas%20%C3%A0%20ANS%2C%20ap%C3%B3s%20a%20assinatura%20e%20enquanto%20estiver%20vigendo%20o%20contrato%20de%20gest%C3%A3o%2C%20as%20prerrogativas%20e%20flexibilidades%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Até a efetiva implementação da ANS, a Taxa de Saúde Suplementar instituída por esta Lei poderá ser recolhida ao Fundo Nacional de Saúde, a critério da Diretoria Colegiada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2037.%20At%C3%A9%20a%20efetiva%20implementa%C3%A7%C3%A3o%20da%20ANS%2C%20a%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20institu%C3%ADda%20por%20esta%20Lei%20poder%C3%A1%20ser%20recolhida%20ao%20Fundo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A Advocacia-Geral da União e o Ministério da Saúde, por intermédio de sua Consultoria Jurídica, mediante comissão conjunta, promoverão, no prazo de cento e oitenta dias, levantamento dos processos judiciais em curso, envolvendo matéria cuja competência tenha sido transferida à ANS, a qual substituirá a União nos respectivos processos.\n\n§ 1o A substituição a que se refere o caput, naqueles processos judiciais, será requerida mediante petição subscrita pela Advocacia-Geral da União, dirigida ao Juízo ou Tribunal competente, requerendo a intimação da Procuradoria da ANS para assumir o feito.\n\n§ 2o Enquanto não operada a substituição na forma do § 1o, a Advocacia-Geral da União permanecerá no feito, praticando todos os atos processuais necessários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2038.%20A%20Advocacia-Geral%20da%20Uni%C3%A3o%20e%20o%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20por%20interm%C3%A9dio%20de%20sua%20Consultoria%20Jur%C3%ADdica%2C%20mediante%20comiss%C3%A3o%20conjunta%2C%20promover%C3%A3o%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O disposto nesta Lei aplica-se, no que couber, aos produtos de que tratam o inciso I e o § 1º do art. 1º da Lei nº 9.656, de 1998, bem assim às suas operadoras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2039.%20O%20disposto%20nesta%20Lei%20aplica-se%2C%20no%20que%20couber%2C%20aos%20produtos%20de%20que%20tratam%20o%20inciso%20I%20e%20o%20%C2%A7%201%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O Poder Executivo, no prazo de 45 (quarenta e cinco) dias, enviará projeto de lei tratando da matéria objeto da presente Lei, inclusive da estrutura física e do funcionamento da ANS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2040.%20O%20Poder%20Executivo%2C%20no%20prazo%20de%2045%20%28quarenta%20e%20cinco%29%20dias%2C%20enviar%C3%A1%20projeto%20de%20lei%20tratando%20da%20mat%C3%A9ria%20objeto%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 28 de janeiro de 2000; 179o da Independência e 112o da República.\n\nFERNANDO HENRIQUE CARDOSO José Serra\n\nEste texto não substitui o publicado no DOU de 29.1.2000 - Edição Extra\n\nANEXO I (Revogado pela Lei nº 9.986, de 18.7.2000)\n\nQUADRO DEMONSTRATIVO DE CARGOS DE NATUREZA ESPECIAL E EM COMISSÃO DA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR\n\nUNIDADE\n\nNo DE CARGOS\n\nDENOMINAÇÃO\n\nNE/DAS\n\nDiretoria Colegiada\n\n5\n\nDiretor\n\nNE\n\n5\n\nDiretor-Adjunto\n\n101.5\n\n6\n\nAssessor Especial\n\n102.5\n\n5\n\nAssessor\n\n102.4\n\nGabinete\n\n1\n\nChefe\n\n101.4\n\nProcuradoria\n\n1\n\nProcurador-Geral\n\n101.5\n\nOuvidoria\n\n1\n\nOuvidor\n\n101.4\n\nCorregedoria\n\n1\n\nCorregedor\n\n101.4\n\n6\n\nGerente-Geral\n\n101.5\n\n29\n\nGerente\n\n101.4\n\nQUADRO DEMONSTRATIVO DE CARGOS COMISSIONADOS DE SAÚDE SUPLEMENTAR DA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR\n\nCÓDIGO/CCSS\n\nQUANTIDADE\n\nVALOR UNITÁRIO (R$)\n\nTOTAL (R$)\n\nCCSS-V\n\n34\n\n1.170,00\n\n39.780,00\n\nCCSS-IV\n\n70\n\n855,00\n\n59.850,00\n\nCCSS-III\n\n12\n\n664,00\n\n7.968,00\n\nCCSS-II\n\n16\n\n585,00\n\n9.360,00\n\nCCSS-I\n\n38\n\n518,00\n\n19.684,00\n\nTOTAL\n\n170\n\n136.642,00\n\nANEXO II\n\nTABELA I\n\nDESCONTOS POR ABRANGÊNCIA GEOGRÁFICA DO PLANO\n\nAbrangência Geográfica\n\nDesconto (%)\n\nNacional\n\n5\n\nGrupo de Estados\n\n10\n\nEstadual\n\n15\n\nGrupo de Municípios\n\n20\n\nMunicipal\n\n25\n\nTABELA II\n\nDESCONTOS POR COBERTURA MÉDICO-HOSPITALAR-ODONTOLÓGICA OFERECIDA\n\nCobertura\n\nDesconto (%)\n\nAmbulatorial (A)\n\n20\n\nA+Hospitalar (H)\n\n6\n\nA+H +Odontológico (O)\n\n4\n\nA+H+Obstetrícia (OB)\n\n4\n\nA+H+OB+O\n\n2\n\nA+O\n\n14\n\nH\n\n16\n\nH+O\n\n14\n\nH+OB\n\n14\n\nH+OB+O\n\n12\n\nO\n\n32\n\nANEXO III\n\nATOS DE SAÚDE SUPLEMENTAR\n\nAtos de Saúde Suplementar\n\nValor (R$)\n\nRegistro de Produto\n\n1.000,00\n\nRegistro de Operadora\n\n2.000,00\n\nAlteração de Dados – Produto\n\n500,00\n\nAlteração de Dados – Operadora\n\n1.000,00\n\nPedido de Reajuste de Mensalidade\n\n1.000,00\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2041.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": null
+    }
+  }
+}

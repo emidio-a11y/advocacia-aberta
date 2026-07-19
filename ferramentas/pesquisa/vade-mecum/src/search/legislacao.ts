@@ -155,6 +155,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_d70235.json",
     rotulo: "Processo Administrativo Fiscal (PAF) Federal (Decreto 70.235/1972)",
   },
+  D7962: {
+    arquivo: "../../data/lei_d7962.json",
+    rotulo: "Regulamentação da contratação no comércio eletrônico (Decreto 7.962/2013)",
+  },
   D8660: {
     arquivo: "../../data/lei_d8660.json",
     rotulo: "Apostila da Haia (1961) — promulgação (Decreto 8.660/2016)",
@@ -166,6 +170,10 @@ const REGISTRO_CODIGOS = {
   D9734: {
     arquivo: "../../data/lei_d9734.json",
     rotulo: "Haia — Citação/Intimação no Exterior (1965) — promulgação (Decreto 9.734/2019)",
+  },
+  D9936: {
+    arquivo: "../../data/lei_d9936.json",
+    rotulo: "Decreto 9.936/2019 - Regulamenta Base de Dados para Score de Crédito (Decreto 9.936/2019)",
   },
   DL1598: {
     arquivo: "../../data/lei_dl1598.json",
@@ -258,6 +266,10 @@ const REGISTRO_CODIGOS = {
   L10185: {
     arquivo: "../../data/lei_l10185.json",
     rotulo: "Seguro Saúde (Lei 10.185/2001)",
+  },
+  L10233: {
+    arquivo: "../../data/lei_l10233.json",
+    rotulo: "ANTT/ANTAQ — Reestruturação dos Transportes (Lei 10.233/2001)",
   },
   L10259: {
     arquivo: "../../data/lei_l10259.json",
@@ -379,6 +391,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12153.json",
     rotulo: "Juizados da Fazenda Pública (Lei 12.153/2009)",
   },
+  L12305: {
+    arquivo: "../../data/lei_l12305.json",
+    rotulo: "Política Nacional de Resíduos Sólidos (PNRS) (Lei 12.305/2010)",
+  },
   L12318: {
     arquivo: "../../data/lei_l12318.json",
     rotulo: "Alienação Parental (Lei 12.318/2010)",
@@ -430,6 +446,10 @@ const REGISTRO_CODIGOS = {
   L13103: {
     arquivo: "../../data/lei_l13103.json",
     rotulo: "Motorista Profissional (Lei 13.103/2015)",
+  },
+  L13116: {
+    arquivo: "../../data/lei_l13116.json",
+    rotulo: "Marco das Antenas (Lei 13.116/2015)",
   },
   L13140: {
     arquivo: "../../data/lei_l13140.json",
@@ -522,6 +542,10 @@ const REGISTRO_CODIGOS = {
   L14063: {
     arquivo: "../../data/lei_l14063.json",
     rotulo: "Assinaturas Eletrônicas na Administração Pública (Lei 14.063/2020)",
+  },
+  L14113: {
+    arquivo: "../../data/lei_l14113.json",
+    rotulo: "FUNDEB (permanente) (Lei 14.113/2020)",
   },
   L14129: {
     arquivo: "../../data/lei_l14129.json",
@@ -663,6 +687,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l6321.json",
     rotulo: "Programa de Alimentação do Trabalhador (PAT) (Lei 6.321/1976)",
   },
+  L6360: {
+    arquivo: "../../data/lei_l6360.json",
+    rotulo: "Vigilância de Medicamentos (Lei 6.360/1976)",
+  },
   L6385: {
     arquivo: "../../data/lei_l6385.json",
     rotulo: "Mercado de Valores Mobiliários (CVM) (Lei 6.385/1976)",
@@ -690,6 +718,10 @@ const REGISTRO_CODIGOS = {
   L6858: {
     arquivo: "../../data/lei_l6858.json",
     rotulo: "Pagamento a Dependentes sem Inventário (Lei 6.858/1980)",
+  },
+  L6938: {
+    arquivo: "../../data/lei_l6938.json",
+    rotulo: "Política Nacional do Meio Ambiente (PNMA) (Lei 6.938/1981)",
   },
   L6996: {
     arquivo: "../../data/lei_l6996.json",
@@ -751,6 +783,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8072.json",
     rotulo: "Crimes Hediondos (Lei 8.072/1990)",
   },
+  L8080: {
+    arquivo: "../../data/lei_l8080.json",
+    rotulo: "Lei Orgânica da Saúde (SUS) (Lei 8.080/1990)",
+  },
   L8112: {
     arquivo: "../../data/lei_l8112.json",
     rotulo: "Regime Jurídico dos Servidores Federais (RJU) (Lei 8.112/1990)",
@@ -758,6 +794,10 @@ const REGISTRO_CODIGOS = {
   L8137: {
     arquivo: "../../data/lei_l8137.json",
     rotulo: "Crimes contra Ordem Tributária (Lei 8.137/1990)",
+  },
+  L8142: {
+    arquivo: "../../data/lei_l8142.json",
+    rotulo: "Participação da Comunidade no SUS (Lei 8.142/1990)",
   },
   L8212: {
     arquivo: "../../data/lei_l8212.json",
@@ -843,9 +883,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9430.json",
     rotulo: "Legislação Tributária Federal (IRPJ, compensação etc.) (Lei 9.430/1996)",
   },
+  L9434: {
+    arquivo: "../../data/lei_l9434.json",
+    rotulo: "Transplantes (Lei 9.434/1997)",
+  },
   L9455: {
     arquivo: "../../data/lei_l9455.json",
     rotulo: "Tortura (Lei 9.455/1997)",
+  },
+  L9478: {
+    arquivo: "../../data/lei_l9478.json",
+    rotulo: "Petróleo (Lei 9.478/1997)",
   },
   L9492: {
     arquivo: "../../data/lei_l9492.json",
@@ -866,6 +914,10 @@ const REGISTRO_CODIGOS = {
   L9514: {
     arquivo: "../../data/lei_l9514.json",
     rotulo: "Alienação Fiduciária de Imóveis (SFI) (Lei 9.514/1997)",
+  },
+  L9537: {
+    arquivo: "../../data/lei_l9537.json",
+    rotulo: "Segurança do Tráfego Aquaviário (Lei 9.537/1997)",
   },
   L9601: {
     arquivo: "../../data/lei_l9601.json",
@@ -899,9 +951,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9717.json",
     rotulo: "Normas Gerais dos RPPS (Lei 9.717/1998)",
   },
+  L9782: {
+    arquivo: "../../data/lei_l9782.json",
+    rotulo: "ANVISA — Sistema Nacional de Vigilância Sanitária (Lei 9.782/1999)",
+  },
   L9784: {
     arquivo: "../../data/lei_l9784.json",
     rotulo: "Processo Administrativo Federal (PAF) (Lei 9.784/1999)",
+  },
+  L9787: {
+    arquivo: "../../data/lei_l9787.json",
+    rotulo: "Genéricos (Lei 9.787/1999)",
   },
   L9790: {
     arquivo: "../../data/lei_l9790.json",
@@ -922,6 +982,14 @@ const REGISTRO_CODIGOS = {
   L9882: {
     arquivo: "../../data/lei_l9882.json",
     rotulo: "ADPF no STF (processo e julgamento) (Lei 9.882/1999)",
+  },
+  L9961: {
+    arquivo: "../../data/lei_l9961.json",
+    rotulo: "Agência Nacional de Saúde (ANS) (Lei 9.961/2000)",
+  },
+  L9985: {
+    arquivo: "../../data/lei_l9985.json",
+    rotulo: "Sistema Nacional de Unidades de Conservação (SNUC) (Lei 9.985/2000)",
   },
   L9986: {
     arquivo: "../../data/lei_l9986.json",
@@ -987,9 +1055,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lcp.json",
     rotulo: "Contravenções Penais (Decreto-Lei 3.688/1941)",
   },
+  LDB: {
+    arquivo: "../../data/lei_ldb.json",
+    rotulo: "LDB — Lei de Diretrizes e Bases da Educação (Lei 9.394/1996)",
+  },
   LEF: {
     arquivo: "../../data/lei_lef.json",
     rotulo: "Execução Fiscal (LEF) (Lei 6.830/1980)",
+  },
+  LGT: {
+    arquivo: "../../data/lei_lgt.json",
+    rotulo: "Lei Geral de Telecomunicações (LGT) (Lei 9.472/1997)",
   },
   LIA: {
     arquivo: "../../data/lei_lia.json",
@@ -1026,6 +1102,10 @@ const REGISTRO_CODIGOS = {
   LSA: {
     arquivo: "../../data/lei_lsa.json",
     rotulo: "Lei das S.A. (Lei 6.404/1976)",
+  },
+  MCI: {
+    arquivo: "../../data/lei_mci.json",
+    rotulo: "Marco Civil da Internet (Lei 12.965/2014)",
   },
   // [expansao:fim]
 } as const;

@@ -1,0 +1,799 @@
+{
+  "_meta": {
+    "codigo": "L9782",
+    "nome": "ANVISA — Sistema Nacional de Vigilância Sanitária",
+    "lei": "Lei 9.782/1999",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm",
+    "total_artigos": 49,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O Sistema Nacional de Vigilância Sanitária compreende o conjunto de ações definido pelo § 1º do art. 6º e pelos arts. 15 a 18 da Lei nº 8.080, de 19 de setembro de 1990, executado por instituições da Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, que exerçam atividades de regulação, normatização, controle e fiscalização na área de vigilância sanitária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%201%C2%BA%20O%20Sistema%20Nacional%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%20compreende%20o%20conjunto%20de%20a%C3%A7%C3%B5es%20definido%20pelo%20%C2%A7%201%C2%BA%20do%20art.%206%C2%BA%20e%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Compete à União no âmbito do Sistema Nacional de Vigilância Sanitária:\n\nI - definir a política nacional de vigilância sanitária;\n\nII - definir o Sistema Nacional de Vigilância Sanitária;\n\nIII - normatizar, controlar e fiscalizar produtos, substâncias e serviços de interesse para a saúde;\n\nIV - exercer a vigilância sanitária de portos, aeroportos e fronteiras, podendo essa atribuição ser supletivamente exercida pelos Estados, pelo Distrito Federal e pelos Municípios;\n\nV - acompanhar e coordenar as ações estaduais, distrital e municipais de vigilância sanitária;\n\nVI - prestar cooperação técnica e financeira aos Estados, ao Distrito Federal e aos Municípios;\n\nVII - atuar em circunstâncias especiais de risco à saúde; e\n\nVIII - manter sistema de informações em vigilância sanitária, em cooperação com os Estados, o Distrito Federal e os Municípios.\n\n§ 1º A competência da União será exercida:\n\nI - pelo Ministério da Saúde, no que se refere à formulação, ao acompanhamento e à avaliação da política nacional de vigilância sanitária e das diretrizes gerais do Sistema Nacional de Vigilância Sanitária;\n\nII - pela Agência Nacional de Vigilância Sanitária - ANVS, em conformidade com as atribuições que lhe são conferidas por esta Lei; e\n\nIII - pelos demais órgãos e entidades do Poder Executivo Federal, cujas áreas de atuação se relacionem com o sistema.\n\n§ 2º O Poder Executivo Federal definirá a alocação, entre os seus órgãos e entidades, das demais atribuições e atividades executadas pelo Sistema Nacional de Vigilância Sanitária, não abrangidas por esta Lei.\n\n§ 3º Os Estados, o Distrito Federal e os Municípios fornecerão, mediante convênio, as informações solicitadas pela coordenação do Sistema Nacional de Vigilância Sanitária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%202%C2%BA%20Compete%20%C3%A0%20Uni%C3%A3o%20no%20%C3%A2mbito%20do%20Sistema%20Nacional%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Fica criada a Agência Nacional de Vigilância Sanitária, autarquia sob regime especial, vinculada ao Ministério da Saúde, com sede e foro no Distrito Federal, prazo de duração indeterminado e atuação em todo território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%203%C2%BA%20Fica%20criada%20a%20Ag%C3%AAncia%20Nacional%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%2C%20autarquia%20sob%20regime%20especial%2C%20vinculada%20ao%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20com%20sede%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A Agência atuará como entidade administrativa independente, sendo-lhe assegurada, nos termos desta Lei, as prerrogativas necessárias ao exercício adequado de suas atribuições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%204%C2%BA%20A%20Ag%C3%AAncia%20atuar%C3%A1%20como%20entidade%20administrativa%20independente%2C%20sendo-lhe%20assegurada%2C%20nos%20termos%20desta%20Lei%2C%20as%20prerrogativas%20necess%C3%A1rias%20ao%20exerc%C3%ADcio%20adequado%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Caberá ao Poder Executivo instalar a Agência, devendo o seu regulamento, aprovado por decreto do Presidente da República, fixar-lhe a estrutura organizacional.\n\nParágrafo único. A edição do regulamento marcará a instalação da Agência, investindo-a, automaticamente, no exercício de suas atribuições. (Revogado pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%205%C2%BA%20Caber%C3%A1%20ao%20Poder%20Executivo%20instalar%20a%20Ag%C3%AAncia%2C%20devendo%20o%20seu%20regulamento%2C%20aprovado%20por%20decreto%20do%20Presidente%20da%20Rep%C3%BAblica%2C%20fixar-lhe%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A Agência terá por finalidade institucional promover a proteção da saúde da população, por intermédio do controle sanitário da produção e da comercialização de produtos e serviços submetidos à vigilância sanitária, inclusive dos ambientes, dos processos, dos insumos e das tecnologias a eles relacionados, bem como o controle de portos, aeroportos e de fronteiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%206%C2%BA%20A%20Ag%C3%AAncia%20ter%C3%A1%20por%20finalidade%20institucional%20promover%20a%20prote%C3%A7%C3%A3o%20da%20sa%C3%BAde%20da%20popula%C3%A7%C3%A3o%2C%20por%20interm%C3%A9dio%20do%20controle%20sanit%C3%A1rio%20da%20produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Compete à Agência proceder à implementação e à execução do disposto nos incisos II a VII do art. 2º desta Lei, devendo:\n\nI - coordenar o Sistema Nacional de Vigilância Sanitária;\n\nII - fomentar e realizar estudos e pesquisas no âmbito de suas atribuições;\n\nIII - estabelecer normas, propor, acompanhar e executar as políticas, as diretrizes e as ações de vigilância sanitária;\n\nIV - estabelecer normas e padrões sobre limites de contaminantes, resíduos tóxicos, desinfetantes, metais pesados e outros que envolvam risco à saúde;\n\nV - intervir, temporariamente, na administração de entidades produtoras, que sejam financiadas, subsidiadas ou mantidas com recursos públicos, assim como nos prestadores de serviços e ou produtores exclusivos ou estratégicos para o abastecimento do mercado nacional, obedecido o disposto no art. 5º da Lei nº 6.437, de 20 de agosto de 1977, com a redação que lhe foi dada pelo art. 2º da Lei nº 9.695, de 20 de agosto de 1998;\n\nVI - administrar e arrecadar a taxa de fiscalização de vigilância sanitária, instituída pelo art. 23 desta Lei;\n\nVII - autorizar o funcionamento de empresas de fabricação, distribuição e importação dos produtos mencionados no art. 6º desta Lei;\n\nVII - autorizar o funcionamento de empresas de fabricação, distribuição e importação dos produtos mencionados no art. 8o desta Lei e de comercialização de medicamentos; (Redação dada pela Medida Provisória nº 2.190-34, de 2001)\n\nVIII - anuir com a importação e exportação dos produtos mencionados no art. 8º desta Lei;\n\nIX - conceder registros de produtos, segundo as normas de sua área de atuação;\n\nX - conceder e cancelar o certificado de cumprimento de boas práticas de fabricação;\n\nXI - exigir, mediante regulamentação específica, a certificação de conformidade no âmbito do Sistema Brasileiro de Certificação - SBC, de produtos e serviços sob o regime de vigilância sanitária segundo sua classe de risco; (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\nXII - exigir o credenciamento, no âmbito do SINMETRO, dos laboratórios de serviços de apoio diagnóstico e terapêutico e outros de interesse para o controle de riscos à saúde da população, bem como daqueles que impliquem a incorporação de novas tecnologias; (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\nXIII - exigir o credenciamento dos laboratórios públicos de análise fiscal no âmbito do SINMETRO; (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\nXIV - interditar, como medida de vigilância sanitária, os locais de fabricação, controle, importação, armazenamento, distribuição e venda de produtos e de prestação de serviços relativos à saúde, em caso de violação da legislação pertinente ou de risco iminente à saúde;\n\nXV - proibir a fabricação, a importação, o armazenamento, a distribuição e a comercialização de produtos e insumos, em caso de violação da legislação pertinente ou de risco iminente à saúde;\n\nXVI - cancelar a autorização de funcionamento e a autorização especial de funcionamento de empresas, em caso de violação da legislação pertinente ou de risco iminente à saúde;\n\nXVII - coordenar as ações de vigilância sanitária realizadas por todos os laboratórios que compõem a rede oficial de laboratórios de controle de qualidade em saúde;\n\nXVIII - estabelecer, coordenar e monitorar os sistemas de vigilância toxicológica e farmacológica;\n\nXIX - promover a revisão e atualização periódica da farmacopéia;\n\nXX - manter sistema de informação contínuo e permanente para integrar suas atividades com as demais ações de saúde, com prioridade às ações de vigilância epidemiológica e assistência ambulatorial e hospitalar;\n\nXXI - monitorar e auditar os órgãos e entidades estaduais, distrital e municipais que integram o Sistema Nacional de Vigilância Sanitária, incluindo-se os laboratórios oficiais de controle de qualidade em saúde;\n\nXXII - coordenar e executar o controle da qualidade de bens e produtos relacionados no art. 8º desta Lei, por meio de análises previstas na legislação sanitária, ou de programas especiais de monitoramento da qualidade em saúde;\n\nXXIII - fomentar o desenvolvimento de recursos humanos para o sistema e a cooperação técnico-científica nacional e internacional;\n\nXXIV - autuar e aplicar as penalidades previstas em lei.\n\nXXV - monitorar a evolução dos preços de medicamentos, equipamentos, componentes, insumos e serviços de saúde, podendo para tanto: (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\na) requisitar, quando julgar necessário, informações sobre produção, insumos, matérias-primas, vendas e quaisquer outros dados, em poder de pessoas de direito público ou privado que se dediquem às atividades de produção, distribuição e comercialização dos bens e serviços previstos neste inciso, mantendo o sigilo legal quando for o caso; (Vide Medida Provisória nº 1.912-9, de 1999) (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nb) proceder ao exame de estoques, papéis e escritas de quaisquer empresas ou pessoas de direito público ou privado que se dediquem às atividades de produção, distribuição e comercialização dos bens e serviços previstos neste inciso, mantendo o sigilo legal quando for o caso; (Vide Medida Provisória nº 1.912-9, de 1999) (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nc) quando for verificada a existência de indícios da ocorrência de infrações previstas nos incisos III ou IV do art. 20 da Lei no 8.884, de 11 de junho de 1994, mediante aumento injustificado de preços ou imposição de preços excessivos, dos bens e serviços referidos nesses incisos, convocar os responsáveis para, no prazo máximo de dez dias úteis, justificar a respectiva conduta; (Vide Medida Provisória nº 1.912-9, de 1999) (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nd) aplicar a penalidade prevista no art. 26 da Lei no 8.884, de 1994; (Vide Medida Provisória nº 1.912-9, de 1999) (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nXXVI - controlar, fiscalizar e acompanhar, sob o prisma da legislação sanitária, a propaganda e publicidade de produtos submetidos ao regime de vigilância sanitária; (Vide Medida Provisória nº 2.000-17, de 2000) (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nXXVII - definir, em ato próprio, os locais de entrada e saída de entorpecentes, psicotrópicos e precursores no País, ouvido o Departamento de Polícia Federal e a Secretaria da Receita Federal. (Vide Medida Provisória nº 2.134-31, de 2001) (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nXXVIII - fiscalizar a constituição das Comissões de Cadastro, Vigilância e Acompanhamento das Gestantes e Puérperas de Risco no âmbito do Sistema Nacional de Cadastro, Vigilância e Acompanhamento da Gestante e Puérpera para Prevenção da Mortalidade Materna pelos estabelecimentos de saúde, públicos e privados, conveniados ou não ao Sistema Único de Saúde - SUS. (Incluído pela Medida Provisória nº 557, de 2011) Sem eficácia\n\n§ 1º A Agência poderá delegar aos Estados, ao Distrito Federal e aos Municípios a execução de atribuições que lhe são próprias, excetuadas as previstas nos incisos I, V, VIII, IX, XV, XVI, XVII, XVIII e XIX deste artigo.\n\n§ 2º A Agência poderá assessorar, complementar ou suplementar as ações estaduais, municipais e do Distrito Federal para o exercício do controle sanitário.\n\n§ 3º As atividades de vigilância epidemiológica e de controle de vetores relativas a portos, aeroportos e fronteiras, serão executadas pela Agência, sob orientação técnica e normativa do Ministério da Saúde.\n\n§ 4o A Agência poderá delegar a órgão do Ministério da Saúde a execução de atribuições previstas neste artigo relacionadas a serviços médico-ambulatorial-hospitalares, previstos nos §§ 2o e 3o do art. 8o, observadas as vedações definidas no § 1o deste artigo. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 5o A Agência deverá pautar sua atuação sempre em observância das diretrizes estabelecidas pela Lei no 8.080, de 19 de setembro de 1990, para dar seguimento ao processo de descentralização da execução de atividades para Estados, Distrito Federal e Municípios, observadas as vedações relacionadas no § 1o deste artigo. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 6o A descentralização de que trata o § 5o será efetivada somente após manifestação favorável dos respectivos Conselhos Estaduais, Distrital e Municipais de Saúde. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 7o Para o cumprimento do disposto no inciso X deste artigo, a Agência poderá se utilizar de informações confidenciais sobre inspeções recebidas no âmbito de acordos ou convênios com autoridade sanitária de outros países, bem como autorizar a realização de vistorias e inspeções em plantas fabris por instituições nacionais ou internacionais credenciadas pela Agência para tais atividades. (Incluído pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%207%C2%BA%20Compete%20%C3%A0%20Ag%C3%AAncia%20proceder%20%C3%A0%20implementa%C3%A7%C3%A3o%20e%20%C3%A0%20execu%C3%A7%C3%A3o%20do%20disposto%20nos%20incisos%20II%20a%20VII%20do%20art.%202%C2%BA%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Incumbe à Agência, respeitada a legislação em vigor, regulamentar, controlar e fiscalizar os produtos e serviços que envolvam risco à saúde pública.\n\n§ 1º Consideram-se bens e produtos submetidos ao controle e fiscalização sanitária pela Agência:\n\nI - medicamentos de uso humano, suas substâncias ativas e demais insumos, processos e tecnologias;\n\nII - alimentos, inclusive bebidas, águas envasadas, seus insumos, suas embalagens, aditivos alimentares, limites de contaminantes orgânicos, resíduos de agrotóxicos e de medicamentos veterinários;\n\nIII - cosméticos, produtos de higiene pessoal e perfumes;\n\nIV - saneantes destinados à higienização, desinfecção ou desinfestação em ambientes domiciliares, hospitalares e coletivos;\n\nV - conjuntos, reagentes e insumos destinados a diagnóstico;\n\nVI - equipamentos e materiais médico-hospitalares, odontológicos e hemoterápicos e de diagnóstico laboratorial e por imagem;\n\nVII - imunobiológicos e suas substâncias ativas, sangue e hemoderivados;\n\nVIII - órgãos, tecidos humanos e veterinários para uso em transplantes ou reconstituições;\n\nIX - radioisótopos para uso diagnóstico in vivo e radiofármacos e produtos radioativos utilizados em diagnóstico e terapia;\n\nX - cigarros, cigarrilhas, charutos e qualquer outro produto fumígero, derivado ou não do tabaco;\n\nXI - quaisquer produtos que envolvam a possibilidade de risco à saúde, obtidos por engenharia genética, por outro procedimento ou ainda submetidos a fontes de radiação.\n\n§ 2º Consideram-se serviços submetidos ao controle e fiscalização sanitária pela Agência, aqueles voltados para a atenção ambulatorial, seja de rotina ou de emergência, os realizados em regime de internação, os serviços de apoio diagnóstico e terapêutico, bem como aqueles que impliquem a incorporação de novas tecnologias.\n\n§ 3º Sem prejuízo do disposto nos §§ 1º e 2º deste artigo, submetem-se ao regime de vigilância sanitária as instalações físicas, equipamentos, tecnologias, ambientes e procedimentos envolvidos em todas as fases dos processos de produção dos bens e produtos submetidos ao controle e fiscalização sanitária, incluindo a destinação dos respectivos resíduos.\n\n§ 4º A Agência poderá regulamentar outros produtos e serviços de interesse para o controle de riscos à saúde da população, alcançados pelo Sistema Nacional de Vigilância Sanitária.\n\n§ 5o A Agência poderá dispensar de registro os imunobiológicos, inseticidas, medicamentos e outros insumos estratégicos quando adquiridos por intermédio de organismos multilaterais internacionais, para uso em programas de saúde pública pelo Ministério da Saúde e suas entidades vinculadas. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 6o O Ministro de Estado da Saúde poderá determinar a realização de ações previstas nas competências da Agência Nacional de Vigilância Sanitária, em casos específicos e que impliquem risco à saúde da população. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 7o O ato de que trata o § 6o deverá ser publicado no Diário Oficial da União. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 8º Consideram-se serviços e instalações submetidos ao controle e fiscalização sanitária aqueles relacionados com as atividades de portos, aeroportos e fronteiras e nas estações aduaneiras e terminais alfandegados, serviços de transportes aquáticos, terrestres e aéreos. (Vide Medida Provisória nº 2.134-31, de 2001) (Incluído pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%208%C2%BA%20Incumbe%20%C3%A0%20Ag%C3%AAncia%2C%20respeitada%20a%20legisla%C3%A7%C3%A3o%20em%20vigor%2C%20regulamentar%2C%20controlar%20e%20fiscalizar%20os%20produtos%20e%20servi%C3%A7os%20que%20envolvam%20risco%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A Agência será dirigida por uma Diretoria Colegiada, devendo contar, também, com um Procurador, um Corregedor e um Ouvidor, além de unidades especializadas incumbidas de diferentes funções.\n\nParágrafo único. A Agência contará, ainda, com um Conselho Consultivo, na forma disposta em regulamento.\n\nParágrafo único. A Agência contará, ainda, com um Conselho Consultivo, que deverá ter, no mínimo, representantes da União, dos Estados, do Distrito Federal, dos Municípios, dos produtores, dos comerciantes, da comunidade científica e dos usuários, na forma do regulamento. (Redação dada pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%209%C2%BA%20A%20Ag%C3%AAncia%20ser%C3%A1%20dirigida%20por%20uma%20Diretoria%20Colegiada%2C%20devendo%20contar%2C%20tamb%C3%A9m%2C%20com%20um%20Procurador%2C%20um%20Corregedor%20e%20um%20Ouvidor%2C%20al%C3%A9m",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A gerência e a administração da Agência serão exercidas por uma Diretoria Colegiada, composta por até cinco membros, sendo um deles o seu Diretor-Presidente.\n\nParágrafo único. Os Diretores serão brasileiros, indicados e nomeados pelo Presidente da República após aprovação prévia do Senado Federal nos termos do art. 52, III, \"f\", da Constituição Federal, para cumprimento de mandato de três anos, admitida uma única recondução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2010.%20A%20ger%C3%AAncia%20e%20a%20administra%C3%A7%C3%A3o%20da%20Ag%C3%AAncia%20ser%C3%A3o%20exercidas%20por%20uma%20Diretoria%20Colegiada%2C%20composta%20por%20at%C3%A9%20cinco%20membros%2C%20sendo%20um",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O Diretor-Presidente da Agência será nomeado pelo Presidente da República, dentre os membros da Diretoria Colegiada, e investido na função por três anos, ou pelo prazo restante de seu mandato, admitida uma única recondução por três anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2011.%20O%20Diretor-Presidente%20da%20Ag%C3%AAncia%20ser%C3%A1%20nomeado%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20dentre%20os%20membros%20da%20Diretoria%20Colegiada%2C%20e%20investido%20na%20fun%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A exoneração imotivada de Diretor da Agência somente poderá ser promovida nos quatro meses iniciais do mandato, findos os quais será assegurado seu pleno e integral exercício, salvo nos casos de prática de ato de improbidade administrativa, de condenação penal transitada em julgado e de descumprimento injustificado do contrato de gestão da autarquia. (Revogado pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2012.%20A%20exonera%C3%A7%C3%A3o%20imotivada%20de%20Diretor%20da%20Ag%C3%AAncia%20somente%20poder%C3%A1%20ser%20promovida%20nos%20quatro%20meses%20iniciais%20do%20mandato%2C%20findos%20os%20quais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Aos dirigentes da Agência é vedado o exercício de qualquer outra atividade profissional, empresarial, sindical ou de direção político-partidária.\n\n§ 1º É vedado aos dirigentes, igualmente, ter interesse direto ou indireto, em empresa relacionada com a área de atuação da Vigilância Sanitária, prevista nesta Lei, conforme dispuser o regulamento.\n\n§ 2º A vedação de que trata o caput deste artigo não se aplica aos casos em que a atividade profissional decorra de vínculo contratual mantido com entidades públicas destinadas ao ensino e à pesquisa, inclusive com as de direito privado a elas vinculadas.\n\n§ 3º No caso de descumprimento da obrigação prevista no caput e no § 1o deste artigo, o infrator perderá o cargo, sem prejuízo de responder as ações cíveis e penais cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2013.%20Aos%20dirigentes%20da%20Ag%C3%AAncia%20%C3%A9%20vedado%20o%20exerc%C3%ADcio%20de%20qualquer%20outra%20atividade%20profissional%2C%20empresarial%2C%20sindical%20ou%20de%20dire%C3%A7%C3%A3o%20pol%C3%ADtico-partid%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Até um ano após deixar o cargo, é vedado ao ex-dirigente representar qualquer pessoa ou interesse perante a Agência.\n\nParágrafo único. Durante o prazo estabelecido no caput é vedado, ainda, ao ex-dirigente, utilizar em benefício próprio informações privilegiadas obtidas em decorrência do cargo exercido, sob pena de incorrer em ato de improbidade administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2014.%20At%C3%A9%20um%20ano%20ap%C3%B3s%20deixar%20o%20cargo%2C%20%C3%A9%20vedado%20ao%20ex-dirigente%20representar%20qualquer%20pessoa%20ou%20interesse%20perante%20a%20Ag%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Compete à Diretoria Colegiada:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2015.%20Compete%20%C3%A0%20Diretoria%20Colegiada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Compete ao Diretor-Presidente:\n\nI - representar a Agência em juízo ou fora dele;\n\nII - presidir as reuniões da Diretoria Colegiada;\n\nIII - cumprir e fazer cumprir as decisões da Diretoria Colegiada;\n\nIV - decidir ad referendum da Diretoria Colegiada as questões de urgência;\n\nV - decidir em caso de empate nas deliberações da Diretoria Colegiada;\n\nVI - nomear e exonerar servidores, provendo os cargos efetivos, em comissão e funções de confiança, e exercer o poder disciplinar, nos termos da legislação em vigor;\n\nVII - encaminhar ao Conselho Consultivo os relatórios periódicos elaborados pela Diretoria Colegiada;\n\nVIII - assinar contratos, convênios e ordenar despesas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2016.%20Compete%20ao%20Diretor-Presidente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Ficam criados os Cargos em Comissão de Natureza Especial e do Grupo de Direção e Assessoramento Superiores - DAS, com a finalidade de integrar a estrutura da Agência, relacionados no Anexo I desta Lei.\n\nParágrafo único. Os cargos em Comissão do Grupo de Direção e Assessoramento Superior serão exercidos, preferencialmente, por integrantes do quadro de pessoal da autarquia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2017.%20Ficam%20criados%20os%20Cargos%20em%20Comiss%C3%A3o%20de%20Natureza%20Especial%20e%20do%20Grupo%20de%20Dire%C3%A7%C3%A3o%20e%20Assessoramento%20Superiores%20-%20DAS%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Ficam criadas funções de confiança denominadas Funções Comissionadas de Vigilância Sanitária - FCVS de exercício privativo de servidores públicos, no quantitativo e valores previstos no Anexo I desta Lei. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 1º O Servidor investido em FCVS perceberá os vencimentos do cargo efetivo, acrescidos do valor da função para a qual tiver sido designado. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 2º Cabe à Diretoria Colegiada da Agência dispor sobre a realocação dos quantitativos e distribuição das FCVS dentro de sua estrutura organizacional, observados os níveis hierárquicos, os valores de retribuição correspondentes e o respectivo custo global estabelecidos no Anexo I. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 3º A designação para a função comissionada de vigilância sanitária é inacumulável com a designação ou nomeação para qualquer outra forma de comissionamento, cessando o seu pagamento durante as situações de afastamento do servidor, inclusive aquelas consideradas de efetivo exercício, ressalvados os períodos a que se referem os incisos I, IV, VI e VIII, do art. 102 da Lei nº 8.112, de 11 de dezembro de 1990, com as alterações da Lei nº 9.527, de 10 de dezembro de 1997. (Revogado pela Lei nº 9.986, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2018.%20Ficam%20criadas%20fun%C3%A7%C3%B5es%20de%20confian%C3%A7a%20denominadas%20Fun%C3%A7%C3%B5es%20Comissionadas%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%20-%20FCVS%20de%20exerc%C3%ADcio%20privativo%20de%20servidores%20p%C3%BAblicos%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A administração da Agência será regida por um contrato de gestão, negociado entre o seu Diretor-Presidente e o Ministro de Estado da Saúde, ouvido previamente os Ministros de Estado da Fazenda e do Orçamento e Gestão, no prazo máximo de noventa dias seguintes à nomeação do Diretor-Presidente da autarquia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2019.%20A%20administra%C3%A7%C3%A3o%20da%20Ag%C3%AAncia%20ser%C3%A1%20regida%20por%20um%20contrato%20de%20gest%C3%A3o%2C%20negociado%20entre%20o%20seu%20Diretor-Presidente%20e%20o%20Ministro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O descumprimento injustificado do contrato de gestão implicará a exoneração do Diretor-Presidente, pelo Presidente da República, mediante solicitação do Ministro de Estado da Saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2020.%20O%20descumprimento%20injustificado%20do%20contrato%20de%20gest%C3%A3o%20implicar%C3%A1%20a%20exonera%C3%A7%C3%A3o%20do%20Diretor-Presidente%2C%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20mediante%20solicita%C3%A7%C3%A3o%20do%20Ministro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Constituem patrimônio da Agência os bens e direitos de sua propriedade, os que lhe forem conferidos ou que venha adquirir ou incorporar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2021.%20Constituem%20patrim%C3%B4nio%20da%20Ag%C3%AAncia%20os%20bens%20e%20direitos%20de%20sua%20propriedade%2C%20os%20que%20lhe%20forem%20conferidos%20ou%20que%20venha%20adquirir",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Constituem receita da Agência:\n\nI - o produto resultante da arrecadação da taxa de fiscalização de vigilância sanitária, na forma desta Lei;\n\nII - a retribuição por serviços de quaisquer natureza prestados a terceiros;\n\nIII - o produto da arrecadação das receitas das multas resultantes das ações fiscalizadoras;\n\nIV - o produto da execução de sua dívida ativa;\n\nV - as dotações consignadas no Orçamento Geral da União, créditos especiais, créditos adicionais e transferências e repasses que lhe forem conferidos;\n\nVI - os recursos provenientes de convênios, acordos ou contratos celebrados com entidades e organismos nacionais e internacionais;\n\nVII - as doações, legados, subvenções e outros recursos que lhe forem destinados;\n\nVIII - os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade; e,\n\nIX - o produto da alienação de bens, objetos e instrumentos utilizados para a prática de infração, assim como do patrimônio dos infratores, apreendidos em decorrência do exercício do poder de polícia e incorporados ao patrimônio da Agência nos termos de decisão judicial.\n\nX - os valores apurados em aplicações no mercado financeiro das receitas previstas nos incisos I a IV e VI a IX deste artigo. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\nParágrafo único. Os recursos previstos nos incisos I, II e VII deste artigo, serão recolhidos diretamente à Agência, na forma definida pelo Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2022.%20Constituem%20receita%20da%20Ag%C3%AAncia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Fica instituída a Taxa de Fiscalização de Vigilância Sanitária.\n\n§ 1º Constitui fato gerador da Taxa de Fiscalização de Vigilância Sanitária a prática dos atos de competência da Agência Nacional de Vigilância Sanitária constantes do Anexo II.\n\n§ 2º São sujeitos passivos da taxa a que se refere o caput deste artigo as pessoas físicas e jurídicas que exercem atividades de fabricação, distribuição e venda de produtos e a prestação de serviços mencionados no art. 8º desta Lei.\n\n§ 3º A taxa será devida em conformidade com o respectivo fato gerador, valor e prazo a que refere a tabela que constitui o Anexo II desta Lei.\n\n§ 4º A taxa deverá ser recolhida nos prazos dispostos em regulamento próprio da Agência. (Vide Medida Provisória nº 2.134-31, de 2001)\n\n§ 4º A taxa deverá ser recolhida nos termos dispostos em ato próprio da ANVISA. (Redação dada pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 5º A arrecadação e a cobrança da taxa a que se refere este artigo poderá ser delegada aos Estados, ao Distrito Federal e aos Municípios, a critério da Agência, nos casos em que por eles estejam sendo realizadas ações de vigilância, respeitado o disposto no § 1º do art. 7º desta Lei.\n\n§ 6o Os laboratórios instituídos ou controlados pelo Poder Público, produtores de medicamentos e insumos sujeitos à Lei no 6.360, de 23 de setembro de 1976, à vista do interesse da saúde pública, estão isentos do pagamento da Taxa de Fiscalização de Vigilância Sanitária. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 7o Às renovações de registros, autorizações e certificados aplicam-se as periodicidades e os valores estipulados para os atos iniciais na forma prevista no Anexo. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 8o O disposto no § 7o aplica-se ao contido nos §§ 1o a 8o do art. 12 e parágrafo único do art. 50 da Lei no 6.360, de 1976, no § 2o do art. 3o do Decreto-Lei no 986, de 21 de outubro de 1969, e § 3o do art. 41 desta Lei. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 9o O agricultor familiar, definido conforme a Lei no 11.326, de 24 de julho de 2006, e identificado pela Declaração de Aptidão ao PRONAF - DAP, Física ou Jurídica, bem como o Microempreendedor Individual, previsto no art. 18-A da Lei Complementar no 123, de 14 de dezembro de 2006, e o empreendedor da economia solidária estão isentos do pagamento de Taxa de Fiscalização de Vigilância Sanitária. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 10. As autorizações de funcionamento de empresas previstas nos subitens dos itens 3.1, 3.2, 5.1 e 7.1 do Anexo II, ficam isentas de renovação. (Incluído pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2023.%20Fica%20institu%C3%ADda%20a%20Taxa%20de%20Fiscaliza%C3%A7%C3%A3o%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A Taxa não recolhida nos prazos fixados em regulamento, na forma do artigo anterior, será cobrada com os seguintes acréscimos:\n\nI - juros de mora, na via administrativa ou judicial, contados do mês seguinte ao do vencimento, à razão de 1% ao mês, calculados na forma da legislação aplicável aos tributos federais;\n\nII - multa de mora de 20%, reduzida a 10% se o pagamento for efetuado até o último dia útil do mês subsequente ao do seu vencimento;\n\nIII - encargos de 20%, substitutivo da condenação do devedor em honorários de advogado, calculado sobre o total do débito inscrito como Dívida Ativa, que será reduzido para 10%, se o pagamento for efetuado antes do ajuizamento da execução.\n\n§ 1º Os juros de mora não incidem sobre o valor da multa de mora.\n\n§ 2º Os débitos relativos à Taxa poderão ser parcelados, a juízo da Agência Nacional de Vigilância Sanitária, de acordo com os critérios fixados na legislação tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2024.%20A%20Taxa%20n%C3%A3o%20recolhida%20nos%20prazos%20fixados%20em%20regulamento%2C%20na%20forma%20do%20artigo%20anterior%2C%20ser%C3%A1%20cobrada%20com%20os%20seguintes%20acr%C3%A9scimos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A Taxa de Fiscalização de Vigilância Sanitária será devida a partir de 1º de janeiro de 1999.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2025.%20A%20Taxa%20de%20Fiscaliza%C3%A7%C3%A3o%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%20ser%C3%A1%20devida%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%201999.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A Taxa de Fiscalização de Vigilância Sanitária será recolhida em conta bancária vinculada à Agência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2026.%20A%20Taxa%20de%20Fiscaliza%C3%A7%C3%A3o%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%20ser%C3%A1%20recolhida%20em%20conta%20banc%C3%A1ria%20vinculada%20%C3%A0%20Ag%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Os valores cuja cobrança seja atribuída por lei à Agência e apurados administrativamente, não recolhidos no prazo estipulado, serão inscritos em dívida ativa própria da Agência e servirão de título executivo para cobrança judicial, na forma da Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2027.%20Os%20valores%20cuja%20cobran%C3%A7a%20seja%20atribu%C3%ADda%20por%20lei%20%C3%A0%20Ag%C3%AAncia%20e%20apurados%20administrativamente%2C%20n%C3%A3o%20recolhidos%20no%20prazo%20estipulado%2C%20ser%C3%A3o%20inscritos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A execução fiscal da dívida ativa será promovida pela Procuradoria da Agência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2028.%20A%20execu%C3%A7%C3%A3o%20fiscal%20da%20d%C3%ADvida%20ativa%20ser%C3%A1%20promovida%20pela%20Procuradoria%20da%20Ag%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Na primeira gestão da Autarquia, visando implementar a transição para o sistema de mandatos não coincidentes:\n\nI - três diretores da Agência serão nomeados pelo Presidente da República, por indicação do Ministro de Estado da Saúde;\n\nII - dois diretores serão nomeados na forma do parágrafo único, do art. 10, desta Lei.\n\nParágrafo único. Dos três diretores referidos no inciso I deste artigo, dois serão nomeados para mandato de quatro anos e um para dois anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2029.%20Na%20primeira%20gest%C3%A3o%20da%20Autarquia%2C%20visando%20implementar%20a%20transi%C3%A7%C3%A3o%20para%20o%20sistema%20de%20mandatos%20n%C3%A3o%20coincidentes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Constituída a Agência Nacional de Vigilância Sanitária, com a publicação de seu Regimento Interno, pela Diretoria Colegiada , estará extinta a Secretaria de Vigilância Sanitária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2030.%20Constitu%C3%ADda%20a%20Ag%C3%AAncia%20Nacional%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%2C%20com%20a%20publica%C3%A7%C3%A3o%20de%20seu%20Regimento%20Interno%2C%20pela%20Diretoria%20Colegiada%20%2C%20estar%C3%A1%20extinta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Fica o Poder Executivo autorizado a:\n\nI - transferir para a Agência o acervo técnico e patrimonial, obrigações, direitos e receitas do Ministério da Saúde e de seus órgãos, necessários ao desempenho de suas funções;\n\nII - remanejar, transferir ou utilizar os saldos orçamentários do Ministério da Saúde para atender as despesas de estruturação e manutenção da Agência, utilizando como recursos as dotações orçamentárias destinadas às atividades finalísticas e administrativas, observados os mesmos subprojetos, subatividades e grupos de despesas previstos na Lei Orçamentária em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2031.%20Fica%20o%20Poder%20Executivo%20autorizado%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Fica transferido da Fundação Oswaldo Cruz, para a Agência Nacional de Vigilância Sanitária, o Instituto Nacional de Controle de Qualidade em Saúde, bem como suas atribuições institucionais, acervo patrimonial e dotações orçamentárias. (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\nParágrafo único. A Fundação Osvaldo Cruz dará todo o suporte necessário à manutenção das atividades do Instituto Nacional de Controle de Qualidade em Saúde, até a organização da Agência. (Revogado pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2032.%20Fica%20transferido%20da%20Funda%C3%A7%C3%A3o%20Oswaldo%20Cruz%2C%20para%20a%20Ag%C3%AAncia%20Nacional%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%2C%20o%20Instituto%20Nacional%20de%20Controle%20de%20Qualidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "32-A"
+    },
+    "32-A": {
+      "numero": "32-A",
+      "texto": "Art. 32-A. A Agência Nacional de Vigilância Sanitária poderá, mediante celebração de convênios de cooperação técnica e científica, solicitar a execução de trabalhos técnicos e científicos, inclusive os de cunho econômico e jurídico, dando preferência às instituições de ensino superior e de pesquisa mantidas pelo poder público e organismos internacionais com os quais o Brasil tenha acordos de cooperação técnica. (Incluído pela Lei nº 12.090, de 2009). Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2032-A.%20A%20Ag%C3%AAncia%20Nacional%20de%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%20poder%C3%A1%2C%20mediante%20celebra%C3%A7%C3%A3o%20de%20conv%C3%AAnios%20de%20coopera%C3%A7%C3%A3o%20t%C3%A9cnica%20e%20cient%C3%ADfica%2C%20solicitar%20a%20execu%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A Agência poderá contratar especialistas para a execução de trabalhos nas áreas técnica, científica, econômica e jurídica, por projetos ou prazos limitados, observada a legislação em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2033.%20A%20Ag%C3%AAncia%20poder%C3%A1%20contratar%20especialistas%20para%20a%20execu%C3%A7%C3%A3o%20de%20trabalhos%20nas%20%C3%A1reas%20t%C3%A9cnica%2C%20cient%C3%ADfica%2C%20econ%C3%B4mica%20e%20jur%C3%ADdica%2C%20por%20projetos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32-A",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A Agência poderá requisitar, nos três primeiros anos de sua instalação, com ônus, servidores ou contratados, de órgãos de entidades integrantes da Administração Pública Federal direta, indireta ou fundacional, quaisquer que sejam as funções a serem exercidas. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 1º Durante os primeiros vinte e quatro meses subseqüentes à instalação da Agência, as requisições de que trata o caput deste artigo serão irrecusáveis, quando feitas a órgãos e entidades do Poder Executivo Federal, e desde que aprovadas pelo Ministros de Estado da Saúde e do Orçamento e Gestão. (Revogado pela Lei nº 9.986, de 2000)\n\n§ 2º Quando a requisição implicar redução de remuneração do servidor requisitado, fica a Agência autorizada a complementá-la até o limite da remuneração do cargo efetivo percebida no órgão de origem. (Revogado pela Lei nº 9.986, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2034.%20A%20Ag%C3%AAncia%20poder%C3%A1%20requisitar%2C%20nos%20tr%C3%AAs%20primeiros%20anos%20de%20sua%20instala%C3%A7%C3%A3o%2C%20com%20%C3%B4nus%2C%20servidores%20ou%20contratados%2C%20de%20%C3%B3rg%C3%A3os%20de%20entidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. É vedado à ANVS contratar pessoal com vínculo empregatício ou contratual junto a entidades sujeitas à ação da Vigilância Sanitária, bem como os respectivos proprietários ou responsáveis, ressalvada a participação em comissões de trabalho criadas com fim específico, duração determinada e não integrantes da sua estrutura organizacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2035.%20%C3%89%20vedado%20%C3%A0%20ANVS%20contratar%20pessoal%20com%20v%C3%ADnculo%20empregat%C3%ADcio%20ou%20contratual%20junto%20a%20entidades%20sujeitas%20%C3%A0%20a%C3%A7%C3%A3o%20da%20Vigil%C3%A2ncia%20Sanit%C3%A1ria%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. São consideradas necessidades temporárias de excepcional interesse público, nos termos do art. 37 da Constituição Federal, as atividades relativas à implementação, ao acompanhamento e à avaliação de projetos e programas de caráter finalístico na área de vigilância sanitária, à regulamentação e à normatização de produtos, substâncias e serviços de interesse para a saúde, imprescindíveis à implantação da Agência. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei 10.871, de 2004)\n\n§ 1º Fica a ANVS autorizada a efetuar contratação temporária, para o desempenho das atividades de que trata o caput deste artigo, por período não superior a trinta e seis meses a contar de sua instalação. (Revogado pela Lei 10.871, de 2004)\n\n§ 2º A contratação de pessoal temporário poderá ser efetivada à vista de notória capacidade técnica ou científica do profissional, mediante análise do curriculum vitae. (Revogado pela Lei 10.871, de 2004)\n\n§ 3º As contratações temporárias serão feitas por tempo determinado e observado o prazo máximo de doze meses, podendo ser prorrogadas desde que sua duração não ultrapasse o termo final da autorização de que trata o § 1º. (Revogado pela Lei 10.871, de 2004)\n\n§ 4º A remuneração do pessoal contratado temporariamente terá como referência valores definidos em ato conjunto da ANVS e do órgão central do Sistema de Pessoal Civil da Administração Federal (SIPEC). (Revogado pela Lei 10.871, de 2004)\n\n§ 5º Aplica-se ao pessoal contratado temporariamente pela ANVS, o disposto nos arts. 5º e 6º, no parágrafo único do art. 7º, nos arts. 8º, 9º, 10, 11, 12 e 16 da Lei nº 8.745, de 9 de dezembro de 1993. (Revogado pela Lei 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2036.%20S%C3%A3o%20consideradas%20necessidades%20tempor%C3%A1rias%20de%20excepcional%20interesse%20p%C3%BAblico%2C%20nos%20termos%20do%20art.%2037%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20as%20atividades%20relativas%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O quadro de pessoal da Agência poderá contar com servidores redistribuídos de órgãos e entidades do Poder Executivo Federal. (Revogado pela Lei nº 9.986, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2037.%20O%20quadro%20de%20pessoal%20da%20Ag%C3%AAncia%20poder%C3%A1%20contar%20com%20servidores%20redistribu%C3%ADdos%20de%20%C3%B3rg%C3%A3os%20e%20entidades%20do%20Poder%20Executivo%20Federal.%20%28Revogado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Em prazo não superior a cinco anos, o exercício da fiscalização de produtos, serviços, produtores, distribuidores e comerciantes, inseridos no Sistema Nacional de Vigilância Sanitária, poderá ser realizado por servidor requisitado ou pertencente ao quadro da ANVS, mediante designação da Diretoria, conforme regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2038.%20Em%20prazo%20n%C3%A3o%20superior%20a%20cinco%20anos%2C%20o%20exerc%C3%ADcio%20da%20fiscaliza%C3%A7%C3%A3o%20de%20produtos%2C%20servi%C3%A7os%2C%20produtores%2C%20distribuidores%20e%20comerciantes%2C%20inseridos%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Os ocupantes dos cargos efetivos de nível superior das carreiras de Pesquisa em Ciência e Tecnologia, de Desenvolvimento Tecnológico e de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia, criadas pela Lei nº 8.691, de 28 de julho de 1993, em exercício de atividades inerentes às respectivas atribuições na Agência, fazem jus à Gratificação de Desempenho de Atividade de Ciência e Tecnologia - GDCT, criada pela Lei nº 9.638, de 20 de maio de 1998. (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 1º A gratificação referida no caput também será devida aos ocupantes dos cargos efetivos de nível intermediário da carreira de Desenvolvimento Tecnológico em exercício de atividades inerentes às suas atribuições na Agência. (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 2º A Gratificação de Desempenho de Atividade de Ciência e Tecnologia - GDCT, para os ocupantes dos cargos efetivos de nível intermediário da carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia, criada pela Lei nº 9.647, de 26 de maio de 1998, será devida a esses servidores em exercício de atividades inerentes às atribuições dos respectivos cargos na Agência. (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 3º Para fins de percepção das gratificações referidas neste artigo serão observados os demais critérios e regras estabelecidos na legislação em vigor. (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 4º O disposto neste artigo aplica-se apenas aos servidores da Fundação Osvaldo Cruz lotados no Instituto Nacional de Controle de Qualidade em Saúde em 31 de dezembro de 1998, e que venham a ser redistribuídos para a Agência.(Revogado pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2039.%20Os%20ocupantes%20dos%20cargos%20efetivos%20de%20n%C3%ADvel%20superior%20das%20carreiras%20de%20Pesquisa%20em%20Ci%C3%AAncia%20e%20Tecnologia%2C%20de%20Desenvolvimento%20Tecnol%C3%B3gico%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A Advocacia Geral da União e o Ministério da Saúde, por intermédio de sua Consultoria Jurídica, mediante comissão conjunta, promoverão, no prazo de cento e oitenta dias, levantamento das ações judiciais em curso, envolvendo matéria cuja competência tenha sido transferida à Agência, a qual substituirá a União nos respectivos processos.\n\n§ 1º A substituição a que se refere o caput, naqueles processos judiciais, será requerida mediante petição subscrita pela Advocacia-Geral da União, dirigida ao Juízo ou Tribunal competente, requerendo a intimação da Procuradoria da Agência para assumir o feito.\n\n§ 2º Enquanto não operada a substituição na forma do parágrafo anterior, a Advocacia-Geral da União permanecerá no feito, praticando todos os atos processuais necessários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2040.%20A%20Advocacia%20Geral%20da%20Uni%C3%A3o%20e%20o%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20por%20interm%C3%A9dio%20de%20sua%20Consultoria%20Jur%C3%ADdica%2C%20mediante%20comiss%C3%A3o%20conjunta%2C%20promover%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O registro dos produtos de que trata a Lei nº 6.360, de 1976, e o Decreto-Lei nº 986, de 21 de outubro de 1969, poderá ser objeto de regulamentação pelo Ministério da Saúde e pela Agência visando a desburocratização e a agilidade nos procedimentos, desde que isto não implique riscos à saúde da população ou à condição de fiscalização das atividades de produção e circulação.\n\nParágrafo único. A Agência poderá conceder autorização de funcionamento a empresas e registro a produtos que sejam aplicáveis apenas a plantas produtivas e a mercadorias destinadas a mercados externos, desde que não acarrete riscos à saúde pública.\n\n§ 1o A Agência poderá conceder autorização de funcionamento a empresas e registro a produtos que sejam aplicáveis apenas a plantas produtivas e a mercadorias destinadas a mercados externos, desde que não acarretem riscos à saúde pública. (Renumerado do parágrafo único pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 2o A regulamentação a que se refere o caput deste artigo atinge inclusive a isenção de registro. (Incluído pela Medida Provisória nº 2.190-34, de 2001)\n\n§ 3o As empresas sujeitas ao Decreto-Lei nº 986, de 1969, ficam, também, obrigadas a cumprir o art. 2o da Lei no 6.360, de 1976, no que se refere à autorização de funcionamento pelo Ministério da Saúde e ao licenciamento pelos órgãos sanitários das Unidades Federativas em que se localizem. (Vide Medida Provisória nº 1.814-4, de 1999) (Incluído pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2041.%20O%20registro%20dos%20produtos%20de%20que%20trata%20a%20Lei%20n%C2%BA%206.360%2C%20de%201976%2C%20e%20o%20Decreto-Lei%20n%C2%BA%20986%2C%20de%2021",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41-A"
+    },
+    "41-A": {
+      "numero": "41-A",
+      "texto": "Art. 41-A. O registro de medicamentos com denominação exclusivamente genérica terá prioridade sobre o dos demais, conforme disposto em ato da Diretoria Colegiada da Agência Nacional de Vigilância Sanitária. (Incluído pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2041-A.%20O%20registro%20de%20medicamentos%20com%20denomina%C3%A7%C3%A3o%20exclusivamente%20gen%C3%A9rica%20ter%C3%A1%20prioridade%20sobre%20o%20dos%20demais%2C%20conforme%20disposto%20em%20ato%20da%20Diretoria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "41-B"
+    },
+    "41-B": {
+      "numero": "41-B",
+      "texto": "Art. 41-B. Quando ficar comprovada a comercialização de produtos sujeitos à vigilância sanitária, impróprios para o consumo, ficará a empresa responsável obrigada a veicular publicidade contendo alerta à população, no prazo e nas condições indicados pela autoridade sanitária, sujeitando-se ao pagamento de taxa correspondente ao exame e à anuência prévia do conteúdo informativo pela Agência Nacional de Vigilância Sanitária. (Incluído pela Medida Provisória nº 2.190-34, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2041-B.%20Quando%20ficar%20comprovada%20a%20comercializa%C3%A7%C3%A3o%20de%20produtos%20sujeitos%20%C3%A0%20vigil%C3%A2ncia%20sanit%C3%A1ria%2C%20impr%C3%B3prios%20para%20o%20consumo%2C%20ficar%C3%A1%20a%20empresa%20respons%C3%A1vel%20obrigada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-A",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O art. 57 do Decreto-Lei nº 986, de 21 de Outubro de 1969, passa a vigorar com a seguinte redação:\n\n\"Art. 57. A importação de alimentos, de aditivos para alimentos e de substâncias destinadas a serem empregadas no fabrico de artigos, utensílios e equipamentos destinados a entrar em contato com alimentos, fica sujeita ao disposto neste Decreto-lei e em seus Regulamentos sendo a análise de controle efetuada por amostragem, a critério da autoridade sanitária, no momento de seu desembarque no país.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2042.%20O%20art.%2057%20do%20Decreto-Lei%20n%C2%BA%20986%2C%20de%2021%20de%20Outubro%20de%201969%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-B",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A Agência poderá apreender bens, equipamentos, produtos e utensílios utilizados para a prática de crime contra a saúde pública, e a promover a respectiva alienação judicial, observado, no que couber, o disposto no art. 34 da Lei nº 6.368, de 21 de outubro de 1976, bem como requerer, em juízo, o bloqueio de contas bancárias de titularidade da empresa e de seus proprietários e dirigentes, responsáveis pela autoria daqueles delitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2043.%20A%20Ag%C3%AAncia%20poder%C3%A1%20apreender%20bens%2C%20equipamentos%2C%20produtos%20e%20utens%C3%ADlios%20utilizados%20para%20a%20pr%C3%A1tica%20de%20crime%20contra%20a%20sa%C3%BAde%20p%C3%BAblica%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Os arts. 20 e 21 da Lei nº 6.360, de 23 de setembro de 1976, passam a vigorar com a seguinte redação:\n\n\"Art. 20. .......................................................................\"\n\n\"Parágrafo único. Não poderá ser registrado o medicamento que não tenha em sua composição substância reconhecidamente benéfica do ponto de vista clínico ou terapêutico.\" (NR)\n\n\"Art. 21. Fica assegurado o direito de registro de medicamentos similares a outros já registrados, desde que satisfaçam as exigências estabelecidas nesta Lei.\" (NR)\n\n\"§ 1º Os medicamentos similares a serem fabricados no País, consideram-se registrados após decorrido o prazo de cento e vinte dias, contado da apresentação do respectivo requerimento, se até então não tiver sido indeferido.\n\n§ 2º A contagem do prazo para registro será interrompida até a satisfação, pela empresa interessada, de exigência da autoridade sanitária, não podendo tal prazo exceder a cento e oitenta dias.\n\n§ 3º O registro, concedido nas condições dos parágrafos anteriores, perderá a sua validade, independentemente de notificação ou interpelação, se o produto não for comercializado no prazo de um ano após a data de sua concessão, prorrogável por mais seis meses, a critério da autoridade sanitária, mediante justificação escrita de iniciativa da empresa interessada.\n\n§ 4º O pedido de novo registro do produto poderá ser formulado dois anos após a verificação do fato que deu causa à perda da validade do anteriormente concedido, salvo se não for imputável à empresa interessada.\n\n§ 5º As disposições deste artigo aplicam-se aos produtos registrados e fabricados em Estado-Parte integrante do Mercado Comum do Sul - MERCOSUL, para efeito de sua comercialização no País, se corresponderem a similar nacional já registrado.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2044.%20Os%20arts.%2020%20e%2021%20da%20Lei%20n%C2%BA%206.360%2C%20de%2023%20de%20setembro%20de%201976%2C%20passam%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2045.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Fica revogado o art. 58 do Decreto-Lei nº 986, de 21 de outubro de 1969.\n\nCongresso Nacional, em 26 de janeiro de 1999; 178º da Independência e 111º da República.\n\nANTONIO CARLOS MAGALHÃES Presidente\n\nEste texto não substitui o publicado no DOU de 27.1.1999\n\nANEXO I (Vide Medida Provisória nº 1.912-7, de 1999) (Vide Medida Provisória nº 2.134-28, de 2001) (Revogado pela Medida Provisória nº 2.190-34, de 2001)\n\nQUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E\n\nFUNÇÕES COMISSIONADAS DE VIGILÂNCIA SANITÁRIA\n\nUNIDADE\n\nCARGOS/\n\nFUNÇÕES\n\nNº\n\nDENOMINAÇÃO\n\nCARGO/FUNÇÃO\n\nNE/\n\nDAS/\n\nFG\n\nDIRETORIA\n\n5\n\nNE\n\n5\n\n102.5\n\n3\n\n102.1\n\n1\n\n101.4\n\n1\n\n101.5\n\n1\n\n101.4\n\n1\n\n101.4\n\n1\n\n101.4\n\n17\n\n101.5\n\n38\n\n101.4\n\nQUADRO DEMONSTRATIVO DE FUNÇÕES COMISSIONADAS DE VIGILÂNCIA SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA\n\nCÓDIGO/FCVS\n\nQTDE.\n\nVALOR\n\nFCVS-V\n\n42\n\n1.170,00\n\nFCVS-IV\n\n58\n\n855,00\n\nFCVS-III\n\n47\n\n515,00\n\nFCVS-II\n\n58\n\n454,00\n\nFCVS-I\n\n69\n\n402,00\n\nTOTAL\n\n274\n\n177.005,00\n\nANEXO II TAXA DE FISCALIZAÇÃO DE VIGILÂNCIA SANITÁRIA\n\nFatos Geradores\n\nValores em R$\n\nPrazos para Renovação\n\n1. Autorização de funcionamento de empresa, para cada tipo de atividade\n\n40.000\n\nanual\n\n20.000\n\nanual\n\n1.3. Distribuidores de medicamentos, drogarias e farmácias\n\n15.000\n\nanual\n\n10.000\n\nanual\n\n2. Alteração ou acréscimo na autorização (tipo de atividade, dados cadastrais,\n\n6.600\n\nindeterminado\n\nFusão ou incorporação empresarial)\n\n3. Substituição de representante legal, resp. técnico ou cancelamento de autorização\n\nIsento\n\nindeterminado\n\n4. Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção/ comercialização\n\n30.000\n\nanual\n\n12.000\n\nanual\n\n4.000\n\nanual\n\n37.000\n\nanual\n\n3.700\n\ntrês anos\n\n11.700\n\ntrês anos\n\n5.3.1. Equipamentos, Aparelhos e Instrumentos\n\n65.000\n\ntrês anos\n\n5.3.2. Outros (conj. de diagn. e bolsas de sangue)\n\n16.300\n\ntrês anos\n\n80.000\n\ncinco anos\n\n35.000\n\ncinco anos\n\n10.600\n\ncinco anos\n\n10.000\n\ncinco anos\n\n100.000\n\nanual\n\n1.800\n\nindeterminado\n\n4.500\n\nindeterminado\n\n6.3. Texto de bula, formulário de uso e rotulagem\n\n2.200\n\nindeterminado\n\nIsento\n\nindeterminado\n\n8.100\n\nindeterminado\n\n2.200\n\nindeterminado\n\n8. Certidão, atestado, classificação toxicológica, extensão de uso, cota de comercialização por empresa de produto controlado demais atos declaratórios\n\n10.000\n\nindeterminado\n\n9. Desarquivamento de processo e 2ª via de documento\n\n2.200\n\nindeterminado\n\n10. Anuência na notificação de publicidade de produtos para veiculação máxima de 6 meses\n\n8.800\n\nindeterminado\n\n11. Anuência em processo de importação ou exportação para pesquisa clínica\n\n10.000\n\n12. Anuência para isenção de imposto e em processo de importação ou exportação de produtos. sujeito a Vigilância Sanitária.\n\nIsento\n\nindeterminado\n\n13. Anuência em processo de importação e exportação para fins de comercialização de produto sujeito a Vigilância Sanitária\n\n100\n\nindeterminado\n\n14. Colheita e transporte de amostras para análise de controle de produtos importados.\n\n- dentro do município\n\n- outro município no mesmo Estado\n\n- outra Estado\n\n150\n\n300\n\n600\n\nIndeterminado\n\n15. Vistoria para verificação de cumprimento de exigências sanitárias\n\n500\n\nindeterminado\n\n16. Atividades de Controle Sanitário de Portos, Aeroportos e Fronteiras\n\n16.1. Emissão de Certificado de Desratização e Isenção de Desratização de Embarcação\n\n1000\n\nIndeterminado\n\n16.2. Emissão de Guia de Desembarque de Passageiros e Tripulantes de Embarcações Aeronaves e Veículos Terrestre de Trânsito internacional.\n\n500\n\n16.3. Emissão de Certificado de Livre Prática\n\n600\n\nIndeterminado\n\n16.4. Emissão de Guia Traslado de Cadáver- em Embarcações Aeronaves e veículos terrestres em trânsito interestadual e internacional\n\n150\n\nindeterminado\n\nOs valores da tabela ficam reduzidos, exceto 16.1, 16.2, 16.3, 16.4, em:\n\na) 30% no caso de empresas médias tal qual definido pela Lei 9.531 de 10 de dezembro de 1997;\n\nb) 60% no caso das pequenas empresas tal qual definido na Lei 9.317 de 5 de dezembro de 1996;\n\nc) 90% no caso das micro empresas tal qual definido na Lei 9.317 de 5 de dezembro de 1996.\n\nObs: No caso de empresas que estejam em processo de instalação, a cobrança se realizará por auto-declaração, a ser comprovada no ano subseqüente, sem a qual o valor descontado passará a ser devido.\n\nANEXO II (Redação dada pela Medida Provisória nº 2.190-34, de 2001)\n\nVide Lei nº 11.972, de 2009\n\n(Vide Lei nº 13.043, de 2014)\n\nTAXA DE FISCALIZAÇÃO DE VIGILÂNCIA SANITÁRIA\n\nFATOS GERADORES\n\nPrazo para\n\nRenovação\n\n1\n\n1.1\n\nRegistro de alimentos, aditivos alimentares, bebidas, águas envasadas e embalagens recicladas\n\n6.000\n\nCinco anos\n\n1.2\n\nAlteração, inclusão ou isenção de registro de alimentos\n\n1.800\n\n---\n\n1.3\n\nRevalidação ou renovação de registro de alimentos\n\n6.000\n\nCinco anos\n\n1.4\n\nCertificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril, por linha de produção de alimentos\n\n1.4.1\n\nNo País e MERCOSUL\n\n1.4.1.1\n\nCertificação de Boas Práticas de Fabricação e Controle para cada estabelecimento ou unidade fabril, por tipo de atividade e linha de produção ou comercialização para indústrias de alimentos\n\n15.000\n\nAnual\n\n1.4.2\n\nOutros países\n\n37.000\n\nAnual\n\n2\n\n2.1\n\nRegistro de cosméticos\n\n2.500\n\nCinco anos\n\n2.2\n\nAlteração, inclusão ou isenção de registro de cosméticos\n\n1.800\n\n---\n\n2.3\n\nRevalidação ou renovação de registro de cosméticos\n\n2.500\n\nCinco anos\n\n2.4\n\nCertificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril, por linha de produção de cosméticos\n\n2.4.1\n\nNo País e MERCOSUL\n\n2.4.1.1\n\nCertificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril por linha de produção de cosméticos, produtos de higiene e perfumes\n\n15.000\n\nAnual\n\n2.4.2\n\nOutros países\n\n37.000\n\nAnual\n\n3.1\n\n---\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.1.1\n\nIndústria de medicamentos\n\n20.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.1.2\n\nIndústria de insumos farmacêuticos\n\n20.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.1.3\n\nDistribuidora, importadora, exportadora, transportadora, armazenadora, embaladora e reembaladora e demais previstas em legislação específica de medicamentos e insumos farmacêuticos\n\n15.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n3.1.4\n\nFracionamento de insumos farmacêuticos\n\n15.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n3.1.5\n\nDrogarias e farmácias\n\n500\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n3.1.6\n\nIndústria de cosméticos, produtos de higiene e perfumes\n\n6.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.1.7\n\nDistribuidora, importadora, exportadora, transportadora, armazenadora, embaladora, e reembaladora e demais prevista em legislação específica de cosméticos, produtos de higiene e perfumes\n\n6.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.1.8\n\n6.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.1.9\n\n6.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n3.2\n\nAutorização e autorização especial de funcionamento de farmácia de manipulação\n\n5.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n4\n\n4.1\n\nRegistro, revalidação e renovação de registro de medicamentos\n\n4.1.1\n\nProduto novo\n\n80.000\n\nCinco anos\n\n4.1.2\n\nProduto similar\n\n21.000\n\nCinco anos\n\n4.1.3\n\nProduto genérico\n\n6.000\n\nCinco anos\n\n4.1.4\n\nNova associação no País\n\n21.000\n\n---\n\n4.1.5\n\nMonodroga aprovada em associação\n\n21.000\n\n---\n\n4.1.6\n\nNova via de administração do medicamento no País\n\n21.000\n\n---\n\n4.1.7\n\nNova concentração no País\n\n21.000\n\n---\n\n4.1.8\n\nNova forma farmacêutica no País\n\n21.000\n\n---\n\n4.1.9\n\nMedicamentos fitoterápicos\n\n4.1.9.1\n\nProduto novo\n\n6.000\n\nCinco anos\n\n4.1.9.2\n\nProduto similar\n\n6.000\n\nCinco anos\n\n4.1.9.3\n\nProduto tradicional\n\n6.000\n\nCinco anos\n\n4.1.10\n\nMedicamentos homeopáticos\n\n4.1.10.1\n\nProduto novo\n\n6.000\n\nCinco anos\n\n4.1.10.2\n\nProduto similar\n\n6.000\n\nCinco anos\n\n4.1.11\n\nNovo acondicionamento no País\n\n1.800\n\n---\n\n4.2\n\nAlteração, inclusão ou isenção de registro de medicamentos\n\n1.800\n\n---\n\n4.3\n\nCertificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril, por linha de produção de medicamentos\n\n4.3.1\n\nNo País e MERCOSUL\n\n4.3.2\n\nCertificação de Boas Praticas de Fabricação de medicamentos e insumos farmacêuticos\n\n15.000\n\nAnual\n\n4.3.3\n\nOutros países\n\n37.000\n\nAnual\n\n4.3.4\n\nCertificação de Boas Práticas de Distribuição e Armazenagem de medicamentos e insumos farmacêuticos por estabelecimento\n\n15.000\n\nAnual\n\n5.1\n\nAutorização de Funcionamento\n\n5.1.1\n\nAutorização de funcionamento de empresas que prestam serviços de armazenagem e distribuição de medicamentos, matérias-primas e insumos farmacêuticos em terminais alfandegados de uso público\n\n15.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.2\n\nAutorização de funcionamento de empresas que prestam serviços de armazenagem e distribuição de substâncias e medicamentos sob controle especial em terminais alfandegados de uso público\n\n15.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.3\n\nAutorização de funcionamento de empresas que prestam serviços de armazenagem e distribuição de cosméticos, produtos de higiene ou perfumes e matérias-primas em terminais alfandegados de uso público\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.4\n\nAutorização de funcionamento de empresas que prestam serviços de armazenagem e distribuição de produtos saneantes domissanitários e matérias-primas em terminais alfandegados de uso público\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.5\n\nAutorização de funcionamento de empresas que prestam serviços de armazenagem e distribuição de materiais e equipamentos médico-hospitalares e produtos de diagnóstico de uso \"in vitro\" (correlatos) em terminais alfandegados de uso público\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.6\n\nAutorização de funcionamento de empresas que prestam serviços de armazenagem e distribuição de alimentos em terminais alfandegados de uso público\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.7\n\nAutorização de funcionamento de empresas que prestam serviços alternativos de abastecimento de água potável para consumo humano a bordo de aeronaves, embarcações e veículos terrestres que operam transporte coletivo internacional de passageiros\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.8\n\nAutorização de funcionamento de empresas que prestam serviços de desinsetização ou desratização em embarcações, veículos terrestres em trânsito por estações e passagens de fronteira, aeronaves, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.9\n\nAutorização de funcionamento de empresas que prestam serviços de limpeza, desinfecção e descontaminação de superfícies de aeronaves, veículos terrestres em trânsito por estações e passagens de fronteira, embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estação e passagem de fronteiras\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.10\n\nAutorização de funcionamento de empresas que prestam serviços de limpeza e recolhimento de resíduos resultantes do tratamento de águas servidas e dejetos em terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.11\n\nAutorização de funcionamento de empresas que prestam serviços de esgotamento e tratamento de efluentes sanitários de aeronaves, embarcações e veículos terrestres em trânsito por estações e passagens de fronteira em terminais aeroportuários, portuário e estações e passagens de fronteira\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.12\n\nAutorização de funcionamento de empresas que prestam serviços de segregação, coleta, acondicionamento, armazenamento, transporte, tratamento e disposição final de resíduos sólidos resultantes de aeronaves, veículos terrestres em trânsito por estações e passagens de fronteira, embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais alfandegados de uso público e estações e passagens de fronteira\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.13\n\nAutorização de funcionamento de empresas que operam a prestação de serviços, nas áreas portuárias, aeroportuárias e estações e passagens de fronteira, de lavanderia, atendimento médico, hotelaria, drogarias, farmácias e ervanários, comércio de materiais e equipamentos hospitalares, salões de barbeiros e cabeleleiros, pedicuros e institutos de beleza e congêneres\n\n500\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.1.14\n\nAutorização de funcionamento de empresas prepostas para gerir, representar ou administrar negócios, em nome de empresa de navegação, tomando as providências necessárias ao despacho de embarcação em porto (agência de navegação)\n\n6.000\n\nAnual (Vide Lei nº 13.043, de 2014)\n\n5.2\n\nAnuência em processo de importação de produtos sujeito à vigilância sanitária\n\n5.2.1\n\nAnuência de importação, por pessoa jurídica, de bens, produtos, matérias-primas e insumos sujeitos à vigilância sanitária, para fins de comercialização ou industrialização\n\n5.2.1.1\n\nImportação de até dez itens de bens, produtos, matérias-primas ou insumos\n\n100\n\n---\n\n5.2.1.2\n\nImportação de onze a vinte itens de bens, produtos, matérias-primas ou insumos\n\n200\n\n---\n\n5.2.1.3\n\nImportação de vinte e um a trinta itens de bens, produtos, matérias-primas ou insumos\n\n300\n\n---\n\n5.2.1.4\n\nImportação de trinta e um a cinqüenta itens de bens, produtos, matérias-primas ou insumos\n\n1.000\n\n---\n\n5.2.1.5\n\nImportação de cinqüenta e um a cem itens de bens, produtos, matérias-primas ou insumos\n\n2.000\n\n---\n\n5.3\n\nAnuência de importação, por pessoa física, de materiais e equipamentos médico-hospitalares e de produtos para diagnóstico de uso \"in vitro\", sujeitos à vigilância sanitária, para fins de oferta e comércio de prestação de serviços a terceiros\n\n100\n\n---\n\n5.4\n\nAnuência de importação, por hospitais e estabelecimentos de saúde privados, de materiais e equipamentos médico-hospitalares e de produtos para diagnóstico de uso \"in vitro\", sujeitos à vigilância sanitária, para fins de oferta e comércio de prestação de serviços a terceiros\n\n100\n\n---\n\n5.5\n\nAnuência de importação e exportação, por pessoa física, de produtos ou matérias-primas sujeitas à vigilância sanitária, para fins de uso individual ou próprio\n\nISENTO\n\n---\n\n5.6\n\nAnuência de importação, por pessoa jurídica, de amostras de produto ou matérias-primas sujeitas à vigilância sanitária, para análises e experiências, com vistas ao registro de produto\n\n100\n\n---\n\n5.7\n\nAnuência de importação, por pessoa jurídica, de amostras de produto ou matérias-primas sujeitas à vigilância sanitária, para fins de demonstração em feiras ou eventos públicos\n\n100\n\n---\n\n5.8\n\nAnuência de importação, por pessoa jurídica, de amostras de produto sujeitas à vigilância sanitária, para fins de demonstração a profissionais especializados\n\n100\n\n---\n\n5.9\n\nAnuência em processo de exportação de produtos sujeitos à vigilância sanitária\n\n---\n\n---\n\n5.9.1\n\nAnuência de exportação, por pessoa jurídica, de bens, produtos, matérias-primas e insumos sujeitos à vigilância sanitária, para fins de comercialização ou industrialização\n\nISENTO\n\n---\n\n5.9.2\n\nAnuência de exportação, por pessoa jurídica, de amostras de bens, produtos, matérias-primas ou insumos sujeitos à vigilância sanitária, para análises e experiências, com vistas ao registro de produto\n\nISENTO\n\n---\n\n5.9.3\n\nAnuência de exportação, por pessoa jurídica, de amostras de produto ou matérias-primas sujeitas à vigilância sanitária, para fins de demonstração em feiras ou eventos públicos\n\nISENTO\n\n---\n\n5.9.4\n\nAnuência de exportação, por pessoa jurídica, de amostras de produto sujeitas à vigilância sanitária, para fins de demonstração a profissionais especializados\n\nISENTO\n\n---\n\n5.9.5\n\nAnuência de exportação e importação, por pessoa jurídica, de amostras biológicas humanas, para fins de realização de ensaios e experiências laboratoriais\n\n5.9.5.1\n\nExportação e importação de no máximo vinte amostras\n\n100\n\n---\n\n5.9.5.2\n\nExportação e importação de vinte e uma até cinqüenta amostras\n\n200\n\n---\n\n5.9.6\n\nAnuência de exportação, por instituições públicas de pesquisa, de amostras biológicas humanas, para fins de realização de ensaios e experiências laboratoriais\n\nISENTO\n\n---\n\n5.9.7\n\nAnuência em licença de importação substitutiva relacionada a processos de importação de produtos e matérias-primas sujeitas à vigilância sanitária\n\n50\n\n---\n\n5.10\n\nColheita e transporte de amostras para análise laboratorial de produtos importados sujeitos a análise de controle\n\n5.10.1\n\ndentro do Município\n\n150\n\n---\n\n5.10.2\n\noutro Município no mesmo Estado\n\n300\n\n---\n\n5.10.3\n\noutro Estado\n\n600\n\n---\n\n5.11\n\nVistoria para verificação do cumprimento de exigências sanitárias relativas à desinterdição de produtos importados, armazenados em área externa ao terminal alfandegado de uso público\n\n5.11.1\n\ndentro do Município\n\n150\n\n---\n\n5.11.2\n\noutro Município no mesmo Estado\n\n300\n\n---\n\n5.11.3\n\noutro Estado\n\n600\n\n---\n\n5.12\n\nVistoria semestral para verificação do cumprimento de exigências sanitárias relativas às condições higiênico-sanitárias de plataformas constituídas de instalação ou estrutura, fixas ou móveis, localizadas em águas sob jurisdição nacional, destinadas a atividade direta ou indireta de pesquisa e de lavra de recursos minerais oriundos do leito das águas interiores ou de seu subsolo, ou do mar, da plataforma continental ou de seu subsolo\n\n6.000\n\n---\n\n5.13\n\nAnuência para isenção de imposto em processo de importação ou exportação de produtos sujeitos à vigilância sanitária\n\nISENTO\n\n---\n\n5.14\n\nAtividades de controle sanitário de portos\n\n5.14.1\n\nEmissão de certificado internacional de desratização e isenção de desratização de embarcações que realizem navegação de\n\n5.14.1.1\n\nMar aberto de longo curso, em trânsito internacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre, e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n1000\n\n---\n\n5.14.1.2\n\nMar aberto de longo curso, em trânsito internacional, com deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre, e que desenvolvem atividades de pesca\n\n1000\n\n---\n\n5.14.1.3\n\nMar aberto de longo curso, em trânsito internacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre, e que desenvolvem atividades de esporte e recreio com fins não comerciais\n\nISENTO\n\n---\n\n5.14.1.4\n\nInterior, em trânsito internacional, com deslocamento fluvial e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n1000\n\n---\n\n5.14.1.5\n\nInterior, em trânsito internacional, com deslocamento fluvial e que desenvolvem atividades de pesca\n\n1000\n\n---\n\n5.14.1.6\n\nInterior, em trânsito internacional, com deslocamento fluvial e que desenvolvem atividades de esporte e recreio com fins não comerciais\n\nISENTO\n\n---\n\n5.14.2\n\nEmissão dos certificados nacional de desratização e isenção de desratização de embarcações que realizem navegação de\n\n5.14.2.1\n\nMar aberto de cabotagem, em trânsito exclusivamente nacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre, e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n500\n\n---\n\n5.14.2.2\n\nMar aberto de apoio marítimo, em trânsito exclusivamente nacional e com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre\n\n500\n\n---\n\n5.14.2.3\n\nMar aberto que desenvolvem outra atividade ou serviço, em trânsito exclusivamente nacional e com deslocamento marítimo, marítimo-fluvial ou marítimo lacustre\n\n500\n\n---\n\n5.14.2.4\n\nInterior, em trânsito exclusivamente nacional, com deslocamento marítimo ou marítimo-lacustre e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n500\n\n---\n\n5.14.2.5\n\nInterior, em trânsito exclusivamente nacional, com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n500\n\n---\n\n5.14.2.6\n\nInterior, de apoio portuário, em trânsito exclusivamente nacional e com deslocamento marítimo ou marítimo-lacustre.\n\n500\n\n---\n\n5.14.2.7\n\nInterior, de apoio portuário, em trânsito exclusivamente nacional e com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre\n\n500\n\n---\n\n5.14.2.8\n\nInterior que desenvolvem outra atividade ou serviço, em trânsito exclusivamente nacional e com deslocamento marítimo ou marítimo-lacustre\n\n500\n\n---\n\n5.14.2.9\n\nInterior que desenvolvem outra atividade ou serviço, em trânsito exclusivamente nacional e com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre.\n\n500\n\n---\n\n5.14.2.10\n\nMar aberto ou interior, que desenvolvem atividade de pesca, com saída e entrada entre portos distintos do território nacional\n\n500\n\n---\n\n5.14.2.11\n\nMar aberto ou interior, que desenvolvem atividade de pesca, com saída e retorno ao mesmo porto do território nacional e sem escalas intermediárias\n\nISENTO\n\n---\n\n5.14.2.12\n\nInterior que desenvolvem atividades de esporte e recreio com fins não comerciais, em trânsito municipal, intermunicipal ou interestadual, com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre\n\nISENTO\n\n---\n\n5.14.2.13\n\nInterior que desenvolvem atividades de esporte e recreio com fins não comerciais, em trânsito municipal, intermunicipal ou interestadual, com deslocamento marítimo ou marítimo-lacustre\n\nISENTO\n\n---\n\n5.14.3\n\nEmissão de guia de desembarque de passageiros e tripulantes de embarcações, aeronaves ou veículos terrestres de trânsito internacional\n\n500\n\n---\n\n5.14.4\n\nEmissão do certificado de livre prática de embarcações que realizam navegação de\n\n5.14.4.1\n\nMar aberto de longo curso, em trânsito internacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre e que desenvolvem atividades ou serviços de transporte de cargas ou passageiros.\n\n600\n\n---\n\n5.14.4.2\n\nMar aberto de longo curso, em trânsito internacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre e que desenvolvem atividades de pesca\n\n600\n\n---\n\n5.14.4.3\n\nMar aberto de longo curso, em trânsito internacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre e que desenvolvem atividades de esporte e recreio com fins não comerciais.\n\nISENTO\n\n---\n\n5.14.4.4\n\nMar aberto de longo curso, em trânsito internacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre e que desenvolvem atividades de esporte e recreio com fins comerciais\n\n600\n\n---\n\n5.14.4.5\n\nInterior, em trânsito internacional, com deslocamento fluvial e que desenvolvem atividades de esporte e recreio com fins não comerciais\n\nISENTO\n\n---\n\n5.14.4.6\n\nInterior, em trânsito internacional, com deslocamento fluvial e que desenvolvem atividades de esporte e recreio com fins comerciais\n\n600\n\n---\n\n5.14.4.7\n\nInterior, em trânsito internacional, com deslocamento fluvial e que desenvolvem atividades de pesca\n\n600\n\n---\n\n5.14.4.8\n\nMar aberto de cabotagem, em trânsito exclusivamente nacional, com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n600\n\n---\n\n5.14.4.9\n\nMar aberto de apoio marítimo, em trânsito exclusivamente nacional e com deslocamento marítimo, marítimo-fluvial ou marítimo-lacustre\n\n600\n\n---\n\n5.14.4.10\n\nMar aberto que desenvolvem outra atividade ou serviço, em trânsito exclusivamente nacional e com deslocamento marítimo, marítimo-fluvial ou marítimo lacustre\n\n600\n\n---\n\n5.14.4.11\n\nInterior, em trânsito exclusivamente nacional, com deslocamento marítimo ou marítimo-lacustre e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n600\n\n---\n\n5.14.4.12\n\nInterior, em trânsito exclusivamente nacional, com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre e que desenvolvem atividades ou serviços de transporte de cargas ou de passageiros\n\n600\n\n---\n\n5.14.4.13\n\nInterior de apoio portuário, em trânsito exclusivamente nacional e com deslocamento marítimo ou marítimo-lacustre\n\n600\n\n---\n\n5.14.4.14\n\nInterior de apoio portuário, em trânsito exclusivamente nacional e com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre\n\n600\n\n---\n\n5.14.4.15\n\nInterior que desenvolvem outra atividade ou serviço, em trânsito exclusivamente nacional e com deslocamento marítimo ou marítimo-lacustre\n\n600\n\n---\n\n5.14.4.16\n\nInterior que desenvolvem outra atividade ou serviço, em trânsito exclusivamente nacional e com deslocamento marítimo-fluvial, fluvial ou fluvial-lacustre\n\n600\n\n---\n\n5.14.4.17\n\nMar aberto ou interior, que desenvolvem atividade de pesca, com saída e entrada entre portos distintos do território nacional\n\n600\n\n---\n\n5.14.4.18\n\nMar aberto ou interior, que desenvolvem atividade de pesca, com saída e retorno ao mesmo porto do território nacional e sem escalas intermediárias\n\nISENTO\n\n---\n\n5.14.4.19\n\nInterior que desenvolvem atividades de esporte e recreio com fins não comerciais, em trânsito municipal, intermunicipal ou interestadual, com deslocamento marítimo ou marítimo-lacustre\n\nISENTO\n\n---\n\n5.14.4.20\n\nInterior que desenvolvem atividades de esporte e recreio com fins não comerciais em trânsito municipal, intermunicipal ou interestadual, com deslocamento marítimo-lacustre, marítimo-fluvial, fluvial ou fluvial-lacustre\n\nISENTO\n\n---\n\n5.14.4.21\n\nQualquer embarcação da Marinha do Brasil, ou sob seu convite, utilizadas para fins não comerciais\n\nISENTO\n\n---\n\n6\n\n6.1\n\nRegistro de saneantes\n\n6.1.1\n\nProduto de Grau de Risco II\n\n8.000\n\nCinco anos\n\n6.2\n\nAlteração, inclusão ou isenção de registro de saneantes\n\n1.800\n\n---\n\n6.3\n\nRevalidação ou renovação de registro de saneantes\n\n6.3.1\n\nProduto de Grau de Risco II\n\n8.000\n\nCinco anos\n\n6.4\n\nCertificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril por linha de produção de saneantes\n\n6.4.1\n\nNo País e MERCOSUL\n\n6.4.1.1\n\nCertificação de Boas Práticas de Fabricação por estabelecimento ou unidade fabril por linha de produção para indústrias de saneantes domissanitários\n\n15.000\n\nAnual\n\n6.4.2\n\nOutros países\n\n37.000\n\nAnual\n\n7\n\n7.1\n\nAutorização e renovação de funcionamento de empresas por estabelecimento ou unidade fabril para cada tipo de atividade\n\n---\n\n--- (Vide Lei nº 13.043, de 2014)\n\n7.1.1\n\nPor estabelecimento fabricante de uma ou mais linhas de produtos para saúde (equipamentos, materiais e produtos para diagnóstico de uso \"in vitro\")\n\n10.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n7.1.2\n\nDistribuidora, importadora, exportadora, transportadora, armazenadora, embaladora, reembaladora e demais previstas em legislação específica de produtos para saúde\n\n8.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n7.1.3\n\nPor estabelecimento de comércio varejista de produtos para saúde\n\n5.000\n\n--- (Vide Lei nº 13.043, de 2014)\n\n7.2\n\nCertificação de Boas Práticas de Fabricação de produtos para saúde, para cada estabelecimento ou unidade fabril por linha de produção\n\n---\n\n7.2.1\n\nNo País e MERCOSUL\n\n---\n\n---\n\n7.2.1.1\n\nCertificação de Boas Práticas de Fabricação de produtos para saúde\n\n15.000\n\nAnual\n\n7.2.2\n\nOutros países\n\n37.000\n\nAnual\n\n7.3\n\nCertificação de Boas Práticas de Distribuição e Armazenagem de produtos para saúde por estabelecimento\n\n15.000\n\nAnual Vide Lei nº 11.972, de 2009\n\n7.4\n\nModificação ou acréscimo na certificação por inclusão de novo tipo de linha de produto (equipamento, materiais e produtos para diagnóstico de uso \"in vitro\")\n\n5.000\n\n---\n\n7.5\n\nRegistro, revalidação ou renovação de registro de produtos para saúde\n\n7.5.1\n\nEquipamentos de grande porte para diagnóstico ou terapia, tais como medicina nuclear, tomografia computadorizada, ressonância magnética e cineangiocoro-nariografia.\n\n20.000\n\nCinco anos\n\n7.5.2\n\nOutros equipamentos de médio e pequeno portes para diagnóstico ou terapia, artigos, materiais, produtos para diagnóstico de uso \"in-vitro\" e demais produtos para saúde\n\n8.000\n\nCinco anos\n\n7.5.3\n\nFamília de equipamentos de grande porte para diagnóstico ou terapia\n\n28.000\n\nCinco anos\n\n7.5.4\n\nFamília de equipamentos de médio e pequeno portes para diagnóstico ou terapia, artigos, materiais, reagentes de diagnóstico de uso \"in vitro\" e demais produtos para saúde\n\n12.000\n\nCinco anos\n\n7.6\n\nAlteração, inclusão ou isenção no registro de produtos para saúde\n\n1.800\n\n---\n\n7.7\n\nEmissão de certificado para exportação\n\nISENTO\n\n---\n\n8\n\n8.1\n\nAvaliação toxicológica para fim de registro de produto\n\n8.1.1\n\nProduto técnico de ingrediente ativo não registrado no País\n\n1.800\n\n---\n\n8.1.2\n\nProduto técnico de ingrediente ativo já registrado no País\n\n1.800\n\n---\n\n8.1.3\n\nProduto formulado\n\n1.800\n\n---\n\n8.2\n\nAvaliação toxicológica para registro de componente\n\n1.800\n\n---\n\n8.3\n\nAvaliação toxicológica para fim de Registro Especial Temporário\n\n1.800\n\n---\n\n8.4\n\nReclassificação toxicológica\n\n1.800\n\n---\n\n8.5\n\nReavaliação de registro de produto, conforme Decreto nº 991/93\n\n1.800\n\n---\n\n8.6\n\nAvaliação toxicológica para fim de inclusão de cultura\n\n1.800\n\n---\n\n8.7\n\nAlteração de dose\n\n8.7.1\n\nAlteração de dose, para maior, na aplicação\n\n1.800\n\n---\n\n8.8\n\nAlteração de dose, para menor, na aplicação\n\nISENTO\n\n---\n\n9\n\n9.1\n\nRegistro, revalidação ou renovação de registro de fumígenos Registro, revalidação ou renovação de registro de fumígenos, com exceção dos produtos destinados exclusivamente à exportação. (Redação dada pela Lei nº 12.546, de 2011)\n\n100.000\n\nAnual\n\n10\n\nAnuência para veicular publicidade contendo alerta à população, no prazo e nas condições indicados pela autoridade sanitária\n\n10.000\n\n---\n\n11\n\nAnuência em processo de pesquisa clínica\n\n10.000\n\n---\n\n12\n\nAlteração ou acréscimo na autorização de funcionamento\n\n4.000\n\n---\n\n13\n\nSubstituição de representante legal, responsável técnico ou cancelamento de autorização\n\nISENTO\n\n---\n\n14\n\nCertidão, atestado e demais atos declaratórios\n\n1.800\n\n---\n\n15\n\nDesarquivamento de processo e segunda via de documento\n\n1.800\n\nNotas:\n\n1. Os valores da Tabela ficam reduzidos em:\n\na) quinze por cento, no caso das empresas com faturamento anual igual ou inferior a R$ 50.000.000,00 (cinqüenta milhões de reais) e superior a R$ 20.000.000,00 (vinte milhões de reais);\n\nb) trinta por cento, no caso das empresas com faturamento anual igual ou inferior a R$ 20.000.000,00 (vinte milhões de reais) e superior a R$ 6.000.000,00 (seis milhões de reais);\n\nc) sessenta por cento, no caso das empresas com faturamento anual igual ou inferior a R$ 6.000.000,00 (seis milhões de reais);\n\nd) noventa por cento, no caso das pequenas empresas;\n\ne) noventa e cinco por cento, no caso das microempresas, exceto para os itens 3.1, cujos valores, no caso de microempresa, ficam reduzidos em noventa por cento.\n\n2. Nos itens 3.1.1, 3.1.2, 3.1.6, 3.1.8 e 7.1.1, o processo de fabricação contempla as atividades necessárias para a obtenção dos produtos mencionados nesses itens.\n\n3. Nos itens 3.1.3, 3.1.7, 3.1.9 e 7.1.2, a distribuição de medicamentos, cosméticos, produtos de higiene, perfume e saneantes domissánitarios contempla as atividades de armazenamento e expedição.\n\n4. Para as pequenas e microempresas, a taxa para concessão de Certificação de Boas Práticas de Fabricação e Controle será cobrada para cada estabelecimento ou unidade fabril.\n\n5. Até 31 de dezembro de 2001, as microempresas estarão isentas da taxa para concessão de Certificado de Boas Práticas de Fabricação e Controle, Registro ou Renovação de Registro de Produtos ou Grupo de Produtos, bem como das taxas relativas às hipóteses previstas nos itens 5.2.1 e 5.10.1, podendo essa isenção ser prorrogada, até 31 de dezembro de 2003, por decisão da Diretoria Colegiada da ANVISA.\n\n6. Será considerado novo, para efeito de Registro ou Renovação de Registro, o medicamento que contenha molécula nova e tenha proteção patentária.\n\n7. A taxa para Registro ou Renovação de Registro de medicamentos ou grupo de medicamentos fitoterápicos, homeopáticos, Soluções Parenterais de Grande Volume e Soluções Parenterais de Pequeno Volume será a do item 4.1.3. Genéricos.\n\n8. Os valores da Tabela para Renovação de Registro de Produto ou Grupo de Produtos serão reduzidos em dez por cento na renovação.\n\n9. O enquadramento como pequena empresa e microempresa, para os efeitos previstos no item 1, dar-se-á em conformidade com o que estabelece a Lei no 9.841, de 5 de outubro de 1999.\n\n10. Fica isento o recolhimento de taxa para emissão de certidões, atestados e demais atos declaratórios, desarquivamento de processo e segunda via de documento, quanto se tratar de atividade voltada para exportação.\n\n11. Fica isento o recolhimento de taxa para acréscimo ou alteração de registro, referente a texto de bula, formulário de uso e rotulagem, mudança de número de telefone, número de CGC/CNPJ, ou outras informações legais, conforme dispuser ato da Diretoria Colegiada da ANVISA.\n\n12. Os valores de redução previstos no item 1 não se aplicam aos itens 3.1.5 e 5.1.13 da Tabela, e às empresas localizadas em países que não os membros do MERCOSUL.\n\n13. Às empresas que exercem atividades de remessa expressa (courrier) e que estão enquadradas nas letras \"a\", \"b\" e \"c\" do item 1 das Notas, aplica-se, independentemente do faturamento, a taxa única de anuência de importação das mercadorias de que tratam os itens 5.3, 5.4, 5.6, 5.7 e 5.8 deste Anexo, no valor de R$ 40,00.\n\n14. Às empresas que exercem atividades de remessa expressa (courrier) e que estão enquadradas nas letas \"a\", \"b\" e \"c\" do item 1 das Notas, aplica-se, independentemente do faturamento, a taxa de anuência de exportação das mercadorias de que tratam os itens 5.9.5.1 e 5.9.5.2 deste Anexo, nos seguintes valores:\n\na) R$ 40,00, quando se tratar de no máximo 20 amostras por remessa a destinatário, comprovada por item, mediante conferência do conhecimento de embarque de carga pela autoridade sanitária;\n\nb) R$ 80,00, quando se tratar de 21 a 50 amostras por remessa a destinatário, comprovada por item, mediante conferência do conhecimento de embarque de carga pela autoridade sanitária.\n\n15. A Diretoria Colegiada da ANVISA adequará o disposto no item 5.14 e seus descontos ao porte das embarcações por arqueação líquida e classe, tipos de navegação, vias navegáveis e deslocamentos efetuados.\n\n16. Para os efeitos do disposto no item anterior, considera-se:\n\n16.1. Arqueação líquida - AL: expressão da capacidade útil de uma embarcação, determinada de acordo com as prescrições dessas regras, sendo função do volume dos espaços fechados destinados ao transporte de carga, do número de passageiros transportados, do local onde serão transportados os passageiros, da relação calado/pontal e da arqueação bruta, entendida arqueação líquida ainda como um tamanho adimensional.\n\n16.2. Classe de embarcações: esporte recreio, pesca, passageiros, cargas, mistas e outras.\n\n16.3. Tipo de navegação:\n\n16.3.1. Navegação de Mar Aberto: realizada em águas marítimas consideradas desabrigadas, podendo ser de:\n\n16.3.1.1. Longo Curso: aquela realizada entre portos brasileiros e estrangeiros;\n\n16.3.1.2. Cabotagem: aquela realizada entre portos ou pontos do território brasileiro utilizado a via marítima ou esta e as vias navegáveis interiores; e\n\n16.3.1.3. Apoio Marítimo: aquela realizada para apoio logístico a embarcações e instalações em águas territoriais nacionais e na zona econômica exclusiva, que atuem nas atividades de pesquisa e lavra de minerais e hidorcarbonetos;\n\n16.3.2. Navegação de Interior: realizada em hidrovias interiores assim considerados rios, lagos, canais, lagoas, baías, angras, enseadas e áreas marítimas consideradas abrigadas;\n\n16.3.3. Navegação de Apoio Portuário: realizada exclusivamente nos portos e terminais aquaviários para atendimento de embarcações e instalações portuárias.\n\n16.4. Vias navegáveis: marítimas, fluviais, lacustres.\n\n16.5. Deslocamentos: municipal, intermunicipal, interestadual e internacional.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm#:~:text=Art.%2046.%20Fica%20revogado%20o%20art.%2058%20do%20Decreto-Lei%20n%C2%BA%20986%2C%20de%2021%20de%20outubro%20de%201969.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": null
+    }
+  }
+}

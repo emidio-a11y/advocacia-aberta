@@ -1311,6 +1311,38 @@
     "L12846:5"
    ],
    "justificativa": "O art. 1º institui a responsabilização objetiva de pessoas jurídicas; o art. 5º tipifica os atos lesivos; o art. 30 preserva a independência das demais instâncias. Os arts. 17-A e 9º (competências), também recuperados, não foram julgados relevantes."
+  },
+  {
+   "id": "mci-responsabilidade-provedor",
+   "grupo": "legislacao",
+   "consulta": "provedor de aplicações responsabilizado ordem judicial conteúdo",
+   "filtro": {
+    "codigo": "MCI"
+   },
+   "relevantes": [
+    "MCI:19",
+    "MCI:20"
+   ],
+   "obrigatorios": [
+    "MCI:19"
+   ],
+   "justificativa": "O art. 19 condiciona a responsabilização do provedor de aplicações ao descumprimento de ordem judicial de remoção; o art. 20 disciplina a comunicação ao usuário responsável pelo conteúdo. Os arts. 7º, 10 e 15 (direitos do usuário e guarda de registros) não respondem à consulta."
+  },
+  {
+   "id": "ldb-educacao-obrigatoria",
+   "grupo": "legislacao",
+   "consulta": "educação básica obrigatória gratuita quatro aos dezessete",
+   "filtro": {
+    "codigo": "LDB"
+   },
+   "relevantes": [
+    "LDB:4",
+    "LDB:5"
+   ],
+   "obrigatorios": [
+    "LDB:4"
+   ],
+   "justificativa": "O art. 4º, I, garante a educação básica obrigatória e gratuita dos 4 aos 17 anos como dever do Estado; o art. 5º qualifica o acesso como direito público subjetivo. Os arts. 9º, 24 e 26 (organização e currículos) não versam sobre a obrigatoriedade."
   }
  ]
 }

@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "codigo": "L8142",
+    "nome": "Participação da Comunidade no SUS",
+    "lei": "Lei 8.142/1990",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm",
+    "total_artigos": 7,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1° O Sistema Único de Saúde (SUS), de que trata a Lei n° 8.080, de 19 de setembro de 1990, contará, em cada esfera de governo, sem prejuízo das funções do Poder Legislativo, com as seguintes instâncias colegiadas:\n\nI - a Conferência de Saúde; e\n\nII - o Conselho de Saúde.\n\n§ 1° A Conferência de Saúde reunir-se-á a cada quatro anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por esta ou pelo Conselho de Saúde.\n\n§ 2° O Conselho de Saúde, em caráter permanente e deliberativo, órgão colegiado composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários, atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo.\n\n§ 3° O Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretários Municipais de Saúde (Conasems) terão representação no Conselho Nacional de Saúde.\n\n§ 4° A representação dos usuários nos Conselhos de Saúde e Conferências será paritária em relação ao conjunto dos demais segmentos.\n\n§ 5° As Conferências de Saúde e os Conselhos de Saúde terão sua organização e normas de funcionamento definidas em regimento próprio, aprovadas pelo respectivo conselho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%201%C2%B0%20O%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20de%20que%20trata%20a%20Lei%20n%C2%B0%208.080%2C%20de%2019%20de%20setembro%20de%201990%2C%20contar%C3%A1%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° Os recursos do Fundo Nacional de Saúde (FNS) serão alocados como:\n\nI - despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta;\n\nII - investimentos previstos em lei orçamentária, de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional;\n\nIII - investimentos previstos no Plano Qüinqüenal do Ministério da Saúde;\n\nIV - cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal.\n\nParágrafo único. Os recursos referidos no inciso IV deste artigo destinar-se-ão a investimentos na rede de serviços, à cobertura assistencial ambulatorial e hospitalar e às demais ações de saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%202%C2%B0%20Os%20recursos%20do%20Fundo%20Nacional%20de%20Sa%C3%BAde%20%28FNS%29%20ser%C3%A3o%20alocados%20como%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° Os recursos referidos no inciso IV do art. 2° desta lei serão repassados de forma regular e automática para os Municípios, Estados e Distrito Federal, de acordo com os critérios previstos no art. 35 da Lei n° 8.080, de 19 de setembro de 1990.\n\n§ 1° Enquanto não for regulamentada a aplicação dos critérios previstos no art. 35 da Lei n° 8.080, de 19 de setembro de 1990, será utilizado, para o repasse de recursos, exclusivamente o critério estabelecido no § 1° do mesmo artigo. (Vide Lei nº 8.080, de 1990)\n\n§ 2° Os recursos referidos neste artigo serão destinados, pelo menos setenta por cento, aos Municípios, afetando-se o restante aos Estados.\n\n§ 3° Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde, remanejando, entre si, parcelas de recursos previstos no inciso IV do art. 2° desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%203%C2%B0%20Os%20recursos%20referidos%20no%20inciso%20IV%20do%20art.%202%C2%B0%20desta%20lei%20ser%C3%A3o%20repassados%20de%20forma%20regular%20e%20autom%C3%A1tica%20para%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° Para receberem os recursos, de que trata o art. 3° desta lei, os Municípios, os Estados e o Distrito Federal deverão contar com:\n\nI - Fundo de Saúde;\n\nII - Conselho de Saúde, com composição paritária de acordo com o Decreto n° 99.438, de 7 de agosto de 1990;\n\nIII - plano de saúde;\n\nIV - relatórios de gestão que permitam o controle de que trata o § 4° do art. 33 da Lei n° 8.080, de 19 de setembro de 1990;\n\nV - contrapartida de recursos para a saúde no respectivo orçamento;\n\nVI - Comissão de elaboração do Plano de Carreira, Cargos e Salários (PCCS), previsto o prazo de dois anos para sua implantação.\n\nParágrafo único. O não atendimento pelos Municípios, ou pelos Estados, ou pelo Distrito Federal, dos requisitos estabelecidos neste artigo, implicará em que os recursos concernentes sejam administrados, respectivamente, pelos Estados ou pela União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%204%C2%B0%20Para%20receberem%20os%20recursos%2C%20de%20que%20trata%20o%20art.%203%C2%B0%20desta%20lei%2C%20os%20Munic%C3%ADpios%2C%20os%20Estados%20e%20o%20Distrito%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° É o Ministério da Saúde, mediante portaria do Ministro de Estado, autorizado a estabelecer condições para aplicação desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%205%C2%B0%20%C3%89%20o%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20mediante%20portaria%20do%20Ministro%20de%20Estado%2C%20autorizado%20a%20estabelecer%20condi%C3%A7%C3%B5es%20para%20aplica%C3%A7%C3%A3o%20desta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%206%C2%B0%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° Revogam-se as disposições em contrário.\n\nBrasília, 28 de dezembro de 1990; 169° da Independência e 102° da República.\n\nFERNANDO COLLOR Alceni Guerra\n\nEste texto não substitui o publicado no DOU de 31.12.1990\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=Art.%207%C2%B0%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": null
+    }
+  }
+}
