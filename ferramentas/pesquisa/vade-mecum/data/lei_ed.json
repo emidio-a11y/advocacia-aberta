@@ -4,7 +4,7 @@
     "nome": "Estatuto do Desarmamento",
     "lei": "Lei 10.826/2003",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
-    "total_artigos": 40,
+    "total_artigos": 41,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -109,7 +109,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7º As armas de fogo utilizadas pelos profissionais de segurança privada dos prestadores de serviços de segurança privada e das empresas e dos condomínios edilícios possuidores de serviços orgânicos de segurança privada, constituídas na forma da lei, serão de propriedade, responsabilidade e guarda das respectivas empresas, somente podendo ser utilizadas quando em serviço, devendo essas observarem as condições de uso e de armazenagem estabelecidas pelo órgão competente, sendo o certificado de registro e a autorização de porte expedidos pela Polícia Federal em nome da empresa. (Redação dada pela Lei nº 14.967, de 2024)\n\n§ 1o O proprietário ou diretor responsável de empresa de segurança privada e de transporte de valores responderá pelo crime previsto no parágrafo único do art. 13 desta Lei, sem prejuízo das demais sanções administrativas e civis, se deixar de registrar ocorrência policial e de comunicar à Polícia Federal perda, furto, roubo ou outras formas de extravio de armas de fogo, acessórios e munições que estejam sob sua guarda, nas primeiras 24 (vinte e quatro) horas depois de ocorrido o fato.\n\n§ 2o A empresa de segurança e de transporte de valores deverá apresentar documentação comprobatória do preenchimento dos requisitos constantes do art. 4o desta Lei quanto aos empregados que portarão arma de fogo.\n\n§ 3o A listagem dos empregados das empresas referidas neste artigo deverá ser atualizada semestralmente junto ao Sinarm.\n\nArt. 7o-A. As armas de fogo utilizadas pelos servidores das instituições descritas no inciso XI do art. 6o serão de propriedade, responsabilidade e guarda das respectivas instituições, somente podendo ser utilizadas quando em serviço, devendo estas observar as condições de uso e de armazenagem estabelecidas pelo órgão competente, sendo o certificado de registro e a autorização de porte expedidos pela Polícia Federal em nome da instituição. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 1o A autorização para o porte de arma de fogo de que trata este artigo independe do pagamento de taxa. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 2o O presidente do tribunal ou o chefe do Ministério Público designará os servidores de seus quadros pessoais no exercício de funções de segurança que poderão portar arma de fogo, respeitado o limite máximo de 50% (cinquenta por cento) do número de servidores que exerçam funções de segurança. (Incluído pela Lei nº 12.694, de 2012) (Vide ADI 5157)\n\n§ 3o O porte de arma pelos servidores das instituições de que trata este artigo fica condicionado à apresentação de documentação comprobatória do preenchimento dos requisitos constantes do art. 4o desta Lei, bem como à formação funcional em estabelecimentos de ensino de atividade policial e à existência de mecanismos de fiscalização e de controle interno, nas condições estabelecidas no regulamento desta Lei. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 4o A listagem dos servidores das instituições de que trata este artigo deverá ser atualizada semestralmente no Sinarm. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 5o As instituições de que trata este artigo são obrigadas a registrar ocorrência policial e a comunicar à Polícia Federal eventual perda, furto, roubo ou outras formas de extravio de armas de fogo, acessórios e munições que estejam sob sua guarda, nas primeiras 24 (vinte e quatro) horas depois de ocorrido o fato. (Incluído pela Lei nº 12.694, de 2012)",
+      "texto": "Art. 7º As armas de fogo utilizadas pelos profissionais de segurança privada dos prestadores de serviços de segurança privada e das empresas e dos condomínios edilícios possuidores de serviços orgânicos de segurança privada, constituídas na forma da lei, serão de propriedade, responsabilidade e guarda das respectivas empresas, somente podendo ser utilizadas quando em serviço, devendo essas observarem as condições de uso e de armazenagem estabelecidas pelo órgão competente, sendo o certificado de registro e a autorização de porte expedidos pela Polícia Federal em nome da empresa. (Redação dada pela Lei nº 14.967, de 2024)\n\n§ 1o O proprietário ou diretor responsável de empresa de segurança privada e de transporte de valores responderá pelo crime previsto no parágrafo único do art. 13 desta Lei, sem prejuízo das demais sanções administrativas e civis, se deixar de registrar ocorrência policial e de comunicar à Polícia Federal perda, furto, roubo ou outras formas de extravio de armas de fogo, acessórios e munições que estejam sob sua guarda, nas primeiras 24 (vinte e quatro) horas depois de ocorrido o fato.\n\n§ 2o A empresa de segurança e de transporte de valores deverá apresentar documentação comprobatória do preenchimento dos requisitos constantes do art. 4o desta Lei quanto aos empregados que portarão arma de fogo.\n\n§ 3o A listagem dos empregados das empresas referidas neste artigo deverá ser atualizada semestralmente junto ao Sinarm.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm#:~:text=Art.%207%C2%BA%20As%20armas%20de%20fogo%20utilizadas%20pelos%20profissionais%20de%20seguran%C3%A7a%20privada%20dos%20prestadores%20de%20servi%C3%A7os%20de%20seguran%C3%A7a%20privada%20e%20das%20empresas",
       "keywords": [],
       "hierarchy": {
@@ -121,6 +121,22 @@
         "section_name": null
       },
       "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7o-A. As armas de fogo utilizadas pelos servidores das instituições descritas no inciso XI do art. 6o serão de propriedade, responsabilidade e guarda das respectivas instituições, somente podendo ser utilizadas quando em serviço, devendo estas observar as condições de uso e de armazenagem estabelecidas pelo órgão competente, sendo o certificado de registro e a autorização de porte expedidos pela Polícia Federal em nome da instituição. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 1o A autorização para o porte de arma de fogo de que trata este artigo independe do pagamento de taxa. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 2o O presidente do tribunal ou o chefe do Ministério Público designará os servidores de seus quadros pessoais no exercício de funções de segurança que poderão portar arma de fogo, respeitado o limite máximo de 50% (cinquenta por cento) do número de servidores que exerçam funções de segurança. (Incluído pela Lei nº 12.694, de 2012) (Vide ADI 5157)\n\n§ 3o O porte de arma pelos servidores das instituições de que trata este artigo fica condicionado à apresentação de documentação comprobatória do preenchimento dos requisitos constantes do art. 4o desta Lei, bem como à formação funcional em estabelecimentos de ensino de atividade policial e à existência de mecanismos de fiscalização e de controle interno, nas condições estabelecidas no regulamento desta Lei. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 4o A listagem dos servidores das instituições de que trata este artigo deverá ser atualizada semestralmente no Sinarm. (Incluído pela Lei nº 12.694, de 2012)\n\n§ 5o As instituições de que trata este artigo são obrigadas a registrar ocorrência policial e a comunicar à Polícia Federal eventual perda, furto, roubo ou outras formas de extravio de armas de fogo, acessórios e munições que estejam sob sua guarda, nas primeiras 24 (vinte e quatro) horas depois de ocorrido o fato. (Incluído pela Lei nº 12.694, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm#:~:text=Art.%207o-A.%20As%20armas%20de%20fogo%20utilizadas%20pelos%20servidores%20das%20institui%C3%A7%C3%B5es%20descritas%20no%20inciso%20XI%20do%20art.%206o%20ser%C3%A3o%20de%20propriedade%2C%20responsabilidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
       "next": "8"
     },
     "8": {
@@ -136,7 +152,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "7",
+      "prev": "7-A",
       "next": "9"
     },
     "9": {

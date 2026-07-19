@@ -296,12 +296,18 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         # Padrão da Lei 14.133: o art. 178 insere dispositivos no Código
         # Penal e a página cita o texto inserido com o rótulo apontando
         # (href) para Del2848.htm. O dispositivo citado não pertence à lei.
+        # A Lei 6.515 cita redações pontilhadas sem link ("Art. 155. ....."),
+        # e a Lei 11.804 tem artigos vetados próprios com o rótulo ligado à
+        # mensagem de veto — o vetado é preservado; a citação, não.
         html = """
         <html><body>
         <p><a name="art1"></a>Art. 1º Artigo próprio da lei.</p>
         <p>Art. 2º O Código passa a vigorar acrescido do seguinte artigo:</p>
         <p><a href="Del2848.htm#art337e">Art. 337-E</a>. Texto inserido no
         outro diploma.</p>
+        <p>Art. 155. ..................................................
+        II - trecho citado de norma alterada.</p>
+        <p><a href="Msg/VEP-100.htm">Art. 2º-A</a>. (VETADO)</p>
         <p><a name="art3"></a>Art. 3º Esta Lei entra em vigor.</p>
         </body></html>
         """
@@ -329,7 +335,8 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
                 config, bruto, publicados, raiz / "candidatos"
             )
             objeto = json.loads(saida.read_text())
-        self.assertEqual(set(objeto["artigos"]), {"1", "2", "3"})
+        self.assertEqual(set(objeto["artigos"]), {"1", "2", "2-A", "3"})
+        self.assertIn("VETADO", objeto["artigos"]["2-A"]["texto"])
 
     def test_transforma_legislacao_sem_remover_registro_nao_reencontrado(self) -> None:
         html = """

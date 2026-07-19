@@ -4,7 +4,7 @@
     "nome": "Cálculo/Contribuição de Servidor Federal (RPPS União)",
     "lei": "Lei 10.887/2004",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.887compilado.htm",
-    "total_artigos": 19,
+    "total_artigos": 20,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -125,7 +125,7 @@
     },
     "8": {
       "numero": "8",
-      "texto": "Art. 8º A contribuição da União, de suas autarquias e fundações para o custeio do regime de previdência, de que trata o art. 40 da Constituição Federal, será o dobro da contribuição do servidor ativo, devendo o produto de sua arrecadação ser contabilizado em conta específica.\n\nParágrafo único. A União é responsável pela cobertura de eventuais insuficiências financeiras do regime decorrentes do pagamento de benefícios previdenciários.\n\nArt. 8º-A. A responsabilidade pela retenção e recolhimento das contribuições de que tratam os arts. 4º a 6º e 8º será do dirigente e do ordenador de despesa do órgão ou entidade que efetuar o pagamento da remuneração ou do benefício. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 1º O recolhimento das contribuições de que trata este artigo deve ser efetuado: (Incluído pela Lei nº 12.350, de 2010)\n\nI – até o dia 15, no caso de pagamentos de remunerações ou benefícios efetuados no primeiro decêndio do mês; (Incluído pela Lei nº 12.350, de 2010)\n\nII – até o dia 25, no caso de pagamentos de remunerações ou benefícios efetuados no segundo decêndio do mês; ou (Incluído pela Lei nº 12.350, de 2010)\n\nIII – até o dia 5 do mês posterior, no caso de pagamentos de remunerações ou benefícios efetuados no último decêndio do mês. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 2º O não recolhimento das contribuições nos prazos previstos no § 1º : (Incluído pela Lei nº 12.350, de 2010)\n\nI – enseja a aplicação dos acréscimos de mora previstos para os tributos federais; e (Incluído pela Lei nº 12.350, de 2010)\n\nII – sujeita o responsável às sanções penais e administrativas cabíveis. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 3º A não retenção das contribuições pelo órgão pagador sujeita o responsável às sanções penais e administrativas, cabendo a esse órgão apurar os valores não retidos e proceder ao desconto na folha de pagamento do servidor ativo, do aposentado e do pensionista, em rubrica e classificação contábil específicas, podendo essas contribuições ser parceladas na forma do art. 46 da Lei nº 8.112, de 11 de dezembro de 1990, observado o disposto no art. 56 da Lei nº 9.784, de 29 de janeiro de 1999. (Incluído pela Lei nº 12.688, de 2012)\n\n§ 4º Caso o órgão público não observe o disposto no § 3º , a Secretaria da Receita Federal do Brasil formalizará representações aos órgãos de controle e constituirá o crédito tributário relativo à parcela devida pelo servidor ativo, aposentado ou pensionista. (Incluído pela Lei nº 12.688, de 2012)",
+      "texto": "Art. 8º A contribuição da União, de suas autarquias e fundações para o custeio do regime de previdência, de que trata o art. 40 da Constituição Federal, será o dobro da contribuição do servidor ativo, devendo o produto de sua arrecadação ser contabilizado em conta específica.\n\nParágrafo único. A União é responsável pela cobertura de eventuais insuficiências financeiras do regime decorrentes do pagamento de benefícios previdenciários.",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.887compilado.htm#:~:text=Art.%208%C2%BA%20A%20contribui%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20de%20suas%20autarquias%20e%20funda%C3%A7%C3%B5es%20para%20o%20custeio%20do%20regime%20de%20previd%C3%AAncia%2C%20de%20que%20trata%20o",
       "keywords": [],
       "hierarchy": {
@@ -137,6 +137,22 @@
         "section_name": null
       },
       "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A. A responsabilidade pela retenção e recolhimento das contribuições de que tratam os arts. 4º a 6º e 8º será do dirigente e do ordenador de despesa do órgão ou entidade que efetuar o pagamento da remuneração ou do benefício. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 1º O recolhimento das contribuições de que trata este artigo deve ser efetuado: (Incluído pela Lei nº 12.350, de 2010)\n\nI – até o dia 15, no caso de pagamentos de remunerações ou benefícios efetuados no primeiro decêndio do mês; (Incluído pela Lei nº 12.350, de 2010)\n\nII – até o dia 25, no caso de pagamentos de remunerações ou benefícios efetuados no segundo decêndio do mês; ou (Incluído pela Lei nº 12.350, de 2010)\n\nIII – até o dia 5 do mês posterior, no caso de pagamentos de remunerações ou benefícios efetuados no último decêndio do mês. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 2º O não recolhimento das contribuições nos prazos previstos no § 1º : (Incluído pela Lei nº 12.350, de 2010)\n\nI – enseja a aplicação dos acréscimos de mora previstos para os tributos federais; e (Incluído pela Lei nº 12.350, de 2010)\n\nII – sujeita o responsável às sanções penais e administrativas cabíveis. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 3º A não retenção das contribuições pelo órgão pagador sujeita o responsável às sanções penais e administrativas, cabendo a esse órgão apurar os valores não retidos e proceder ao desconto na folha de pagamento do servidor ativo, do aposentado e do pensionista, em rubrica e classificação contábil específicas, podendo essas contribuições ser parceladas na forma do art. 46 da Lei nº 8.112, de 11 de dezembro de 1990, observado o disposto no art. 56 da Lei nº 9.784, de 29 de janeiro de 1999. (Incluído pela Lei nº 12.688, de 2012)\n\n§ 4º Caso o órgão público não observe o disposto no § 3º , a Secretaria da Receita Federal do Brasil formalizará representações aos órgãos de controle e constituirá o crédito tributário relativo à parcela devida pelo servidor ativo, aposentado ou pensionista. (Incluído pela Lei nº 12.688, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.887compilado.htm#:~:text=Art.%208%C2%BA-A.%20A%20responsabilidade%20pela%20reten%C3%A7%C3%A3o%20e%20recolhimento%20das%20contribui%C3%A7%C3%B5es%20de%20que%20tratam%20os%20arts.%204%C2%BA%20a%206%C2%BA%20e%208%C2%BA%20ser%C3%A1%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
       "next": "9"
     },
     "9": {
@@ -152,7 +168,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "8",
+      "prev": "8-A",
       "next": "10"
     },
     "10": {

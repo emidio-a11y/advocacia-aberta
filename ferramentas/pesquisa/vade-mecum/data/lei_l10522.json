@@ -4,7 +4,7 @@
     "nome": "CADIN – Cadastro Informativo de Créditos não Quitados",
     "lei": "Lei 10.522/2002",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm",
-    "total_artigos": 66,
+    "total_artigos": 68,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -93,7 +93,7 @@
     },
     "6": {
       "numero": "6",
-      "texto": "Art. 6o É obrigatória a consulta prévia ao Cadin, pelos órgãos e entidades da Administração Pública Federal, direta e indireta, para: (Vide Medida Provisória nº 958, de 2020) (Vide Lei nº 13.999, de 2020) (Vide Medida Provisória nº 975, de 2020). (Vide Medida Provisória nº 1.028, de 2021). (Vide Lei nº 14.179, de 2021) (Vide Lei nº 14.690, de 2023) (Vide Medida Provisória nº 1.259, de 2024)\n\nI - realização de operações de crédito que envolvam a utilização de recursos públicos;\n\nII - concessão de incentivos fiscais e financeiros;\n\nIII - celebração de convênios, acordos, ajustes ou contratos que envolvam desembolso, a qualquer título, de recursos públicos, e respectivos aditamentos.\n\nParágrafo único. O disposto neste artigo não se aplica:\n\nI - à concessão de auxílios a Municípios atingidos por calamidade pública reconhecida pelo Governo Federal;\n\nII - às operações destinadas à composição e regularização dos créditos e obrigações objeto de registro no Cadin, sem desembolso de recursos por parte do órgão ou entidade credora;\n\nIII - às operações relativas ao crédito educativo e ao penhor civil de bens de uso pessoal ou doméstico.\n\nArt. 6º-A. A existência de registro no Cadin, quando da consulta prévia de que trata o art. 6º, constitui fator impeditivo para a realização de qualquer dos atos previstos nos incisos I, II e III do caput do art. 6º. (Incluído pela Lei nº 14.973, de 2024)",
+      "texto": "Art. 6o É obrigatória a consulta prévia ao Cadin, pelos órgãos e entidades da Administração Pública Federal, direta e indireta, para: (Vide Medida Provisória nº 958, de 2020) (Vide Lei nº 13.999, de 2020) (Vide Medida Provisória nº 975, de 2020). (Vide Medida Provisória nº 1.028, de 2021). (Vide Lei nº 14.179, de 2021) (Vide Lei nº 14.690, de 2023) (Vide Medida Provisória nº 1.259, de 2024)\n\nI - realização de operações de crédito que envolvam a utilização de recursos públicos;\n\nII - concessão de incentivos fiscais e financeiros;\n\nIII - celebração de convênios, acordos, ajustes ou contratos que envolvam desembolso, a qualquer título, de recursos públicos, e respectivos aditamentos.\n\nParágrafo único. O disposto neste artigo não se aplica:\n\nI - à concessão de auxílios a Municípios atingidos por calamidade pública reconhecida pelo Governo Federal;\n\nII - às operações destinadas à composição e regularização dos créditos e obrigações objeto de registro no Cadin, sem desembolso de recursos por parte do órgão ou entidade credora;\n\nIII - às operações relativas ao crédito educativo e ao penhor civil de bens de uso pessoal ou doméstico.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%206o%20%C3%89%20obrigat%C3%B3ria%20a%20consulta%20pr%C3%A9via%20ao%20Cadin%2C%20pelos%20%C3%B3rg%C3%A3os%20e%20entidades%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal%2C%20direta%20e%20indireta%2C%20para%3A%20%28Vide",
       "keywords": [],
       "hierarchy": {
@@ -105,12 +105,12 @@
         "section_name": null
       },
       "prev": "5",
-      "next": "7"
+      "next": "6-A"
     },
-    "7": {
-      "numero": "7",
-      "texto": "Art. 7o Será suspenso o registro no Cadin quando o devedor comprove que:\n\nI - tenha ajuizado ação, com o objetivo de discutir a natureza da obrigação ou o seu valor, com o oferecimento de garantia idônea e suficiente ao Juízo, na forma da lei;\n\nII - esteja suspensa a exigibilidade do crédito objeto do registro, nos termos da lei.\n\nArt. 7º-A. No caso de estado de calamidade pública reconhecido pelo governo federal, o Procurador-Geral da Fazenda Nacional e o Procurador-Geral Federal, nos limites de suas competências, poderão, em favor das pessoas físicas e jurídicas domiciliadas em área atingida: (Incluído pela Lei nº 14.973, de 2024)\n\nI – suspender os prazos de inclusão de novos registros no Cadin; (Incluído pela Lei nº 14.973, de 2024)\n\nII – prorrogar a dispensa de que trata o § 3º do art. 4º; (Incluído pela Lei nº 14.973, de 2024)\n\nIII – dispensar, nos termos do art. 6º, a consulta prévia ao Cadin em relação a auxílios e financiamentos relacionados aos esforços de superação da crise. (Incluído pela Lei nº 14.973, de 2024)",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%207o%20Ser%C3%A1%20suspenso%20o%20registro%20no%20Cadin%20quando%20o%20devedor%20comprove%20que%3A",
+    "6-A": {
+      "numero": "6-A",
+      "texto": "Art. 6º-A. A existência de registro no Cadin, quando da consulta prévia de que trata o art. 6º, constitui fator impeditivo para a realização de qualquer dos atos previstos nos incisos I, II e III do caput do art. 6º. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%206%C2%BA-A.%20A%20exist%C3%AAncia%20de%20registro%20no%20Cadin%2C%20quando%20da%20consulta%20pr%C3%A9via%20de%20que%20trata%20o%20art.%206%C2%BA%2C%20constitui%20fator%20impeditivo%20para",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -121,6 +121,38 @@
         "section_name": null
       },
       "prev": "6",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Será suspenso o registro no Cadin quando o devedor comprove que:\n\nI - tenha ajuizado ação, com o objetivo de discutir a natureza da obrigação ou o seu valor, com o oferecimento de garantia idônea e suficiente ao Juízo, na forma da lei;\n\nII - esteja suspensa a exigibilidade do crédito objeto do registro, nos termos da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%207o%20Ser%C3%A1%20suspenso%20o%20registro%20no%20Cadin%20quando%20o%20devedor%20comprove%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6-A",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A. No caso de estado de calamidade pública reconhecido pelo governo federal, o Procurador-Geral da Fazenda Nacional e o Procurador-Geral Federal, nos limites de suas competências, poderão, em favor das pessoas físicas e jurídicas domiciliadas em área atingida: (Incluído pela Lei nº 14.973, de 2024)\n\nI – suspender os prazos de inclusão de novos registros no Cadin; (Incluído pela Lei nº 14.973, de 2024)\n\nII – prorrogar a dispensa de que trata o § 3º do art. 4º; (Incluído pela Lei nº 14.973, de 2024)\n\nIII – dispensar, nos termos do art. 6º, a consulta prévia ao Cadin em relação a auxílios e financiamentos relacionados aos esforços de superação da crise. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%207%C2%BA-A.%20No%20caso%20de%20estado%20de%20calamidade%20p%C3%BAblica%20reconhecido%20pelo%20governo%20federal%2C%20o%20Procurador-Geral%20da%20Fazenda%20Nacional%20e%20o%20Procurador-Geral%20Federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
       "next": "8"
     },
     "8": {
@@ -136,7 +168,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "7",
+      "prev": "7-A",
       "next": "9"
     },
     "9": {

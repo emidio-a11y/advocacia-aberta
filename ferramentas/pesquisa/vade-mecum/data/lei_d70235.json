@@ -4,7 +4,7 @@
     "nome": "Processo Administrativo Fiscal (PAF) Federal",
     "lei": "Decreto 70.235/1972",
     "url_base": "https://www.planalto.gov.br/ccivil_03/decreto/d70235compilado.htm",
-    "total_artigos": 73,
+    "total_artigos": 75,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -77,7 +77,7 @@
     },
     "5": {
       "numero": "5",
-      "texto": "Art. 5º Na contagem dos prazos previstos neste Decreto: (Redação dada pela Lei Complementar nº 227, de 2026)\n\nI - serão considerados os dias corridos, salvo se houver disposição em contrário; e (Incluído pela Lei Complementar nº 227, de 2026)\n\nII - será excluído da contagem o dia do início e incluído o dia do vencimento. (Incluído pela Lei Complementar nº 227, de 2026)\n\nParágrafo único. Os prazos só se iniciam ou vencem no dia de expediente normal no órgão em que corra o processo ou deva ser praticado o ato. (Vide Medida Provisória nº 367, de 1993)\n\nArt. 5º-A. Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive. (Incluído pela Lei Complementar nº 227, de 2026)\n\nParágrafo único. No período referido no caput deste artigo, não serão realizadas sessões de julgamento no órgão referido no inciso II do art. 25 deste Decreto. (Incluído pela Lei Complementar nº 227, de 2026)\n\nArt. 5º-B. Se não houver prazo expressamente previsto neste Decreto, será de 10 (dez) dias úteis o prazo para a realização de ato a cargo do sujeito passivo ou da Fazenda Pública. (Incluído pela Lei Complementar nº 227, de 2026)",
+      "texto": "Art. 5º Na contagem dos prazos previstos neste Decreto: (Redação dada pela Lei Complementar nº 227, de 2026)\n\nI - serão considerados os dias corridos, salvo se houver disposição em contrário; e (Incluído pela Lei Complementar nº 227, de 2026)\n\nII - será excluído da contagem o dia do início e incluído o dia do vencimento. (Incluído pela Lei Complementar nº 227, de 2026)\n\nParágrafo único. Os prazos só se iniciam ou vencem no dia de expediente normal no órgão em que corra o processo ou deva ser praticado o ato. (Vide Medida Provisória nº 367, de 1993)",
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d70235compilado.htm#:~:text=Art.%205%C2%BA%20Na%20contagem%20dos%20prazos%20previstos%20neste%20Decreto%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20Complementar%20n%C2%BA%20227%2C%20de%202026%29",
       "keywords": [],
       "hierarchy": {
@@ -89,6 +89,38 @@
         "section_name": "SEÇÃO II Dos Prazos"
       },
       "prev": "4",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A. Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive. (Incluído pela Lei Complementar nº 227, de 2026)\n\nParágrafo único. No período referido no caput deste artigo, não serão realizadas sessões de julgamento no órgão referido no inciso II do art. 25 deste Decreto. (Incluído pela Lei Complementar nº 227, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d70235compilado.htm#:~:text=Art.%205%C2%BA-A.%20Suspende-se%20o%20curso%20do%20prazo%20processual%20nos%20dias%20compreendidos%20entre%2020%20de%20dezembro%20e%2020%20de%20janeiro%2C%20inclusive.%20%28Inclu%C3%ADdo%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Processo Fiscal",
+        "section": "II",
+        "section_name": "SEÇÃO II Dos Prazos"
+      },
+      "prev": "5",
+      "next": "5-B"
+    },
+    "5-B": {
+      "numero": "5-B",
+      "texto": "Art. 5º-B. Se não houver prazo expressamente previsto neste Decreto, será de 10 (dez) dias úteis o prazo para a realização de ato a cargo do sujeito passivo ou da Fazenda Pública. (Incluído pela Lei Complementar nº 227, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d70235compilado.htm#:~:text=Art.%205%C2%BA-B.%20Se%20n%C3%A3o%20houver%20prazo%20expressamente%20previsto%20neste%20Decreto%2C%20ser%C3%A1%20de%2010%20%28dez%29%20dias%20%C3%BAteis%20o%20prazo%20para%20a%20realiza%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Processo Fiscal",
+        "section": "II",
+        "section_name": "SEÇÃO II Dos Prazos"
+      },
+      "prev": "5-A",
       "next": "6"
     },
     "6": {
@@ -104,7 +136,7 @@
         "section": "II",
         "section_name": "SEÇÃO II Dos Prazos"
       },
-      "prev": "5",
+      "prev": "5-B",
       "next": "7"
     },
     "7": {

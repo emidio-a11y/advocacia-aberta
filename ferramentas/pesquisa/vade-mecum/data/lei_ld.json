@@ -4,7 +4,7 @@
     "nome": "Lei de Drogas",
     "lei": "Lei 11.343/2006",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
-    "total_artigos": 92,
+    "total_artigos": 99,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -109,7 +109,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7º A organização do Sisnad assegura a orientação central e a execução descentralizada das atividades realizadas em seu âmbito, nas esferas federal, distrital, estadual e municipal e se constitui matéria definida no regulamento desta Lei.\n\nArt. 7º-A. (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "texto": "Art. 7º A organização do Sisnad assegura a orientação central e a execução descentralizada das atividades realizadas em seu âmbito, nas esferas federal, distrital, estadual e municipal e se constitui matéria definida no regulamento desta Lei.",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%207%C2%BA%20A%20organiza%C3%A7%C3%A3o%20do%20Sisnad%20assegura%20a%20orienta%C3%A7%C3%A3o%20central%20e%20a%20execu%C3%A7%C3%A3o%20descentralizada%20das%20atividades%20realizadas%20em%20seu%20%C3%A2mbito%2C%20nas%20esferas",
       "keywords": [],
       "hierarchy": {
@@ -121,6 +121,22 @@
         "section_name": "Seção I"
       },
       "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A. (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%207%C2%BA-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
       "next": "8"
     },
     "8": {
@@ -136,7 +152,103 @@
         "section": "I",
         "section_name": "Seção I"
       },
-      "prev": "7",
+      "prev": "7-A",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A. Compete à União: (Incluído pela Lei nº 13.840, de 2019)\n\nI - formular e coordenar a execução da Política Nacional sobre Drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nII - elaborar o Plano Nacional de Políticas sobre Drogas, em parceria com Estados, Distrito Federal, Municípios e a sociedade; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - coordenar o Sisnad; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - estabelecer diretrizes sobre a organização e funcionamento do Sisnad e suas normas de referência; (Incluído pela Lei nº 13.840, de 2019)\n\nV - elaborar objetivos, ações estratégicas, metas, prioridades, indicadores e definir formas de financiamento e gestão das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nVI – (VETADO); (Incluído pela Lei nº 13.840, de 2019)\n\nVII – (VETADO); (Incluído pela Lei nº 13.840, de 2019)\n\nVIII - promover a integração das políticas sobre drogas com os Estados, o Distrito Federal e os Municípios; (Incluído pela Lei nº 13.840, de 2019)\n\nIX - financiar, com Estados, Distrito Federal e Municípios, a execução das políticas sobre drogas, observadas as obrigações dos integrantes do Sisnad; (Incluído pela Lei nº 13.840, de 2019)\n\nX - estabelecer formas de colaboração com Estados, Distrito Federal e Municípios para a execução das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nXI - garantir publicidade de dados e informações sobre repasses de recursos para financiamento das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nXII - sistematizar e divulgar os dados estatísticos nacionais de prevenção, tratamento, acolhimento, reinserção social e econômica e repressão ao tráfico ilícito de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nXIII - adotar medidas de enfretamento aos crimes transfronteiriços; e (Incluído pela Lei nº 13.840, de 2019)\n\nXIV - estabelecer uma política nacional de controle de fronteiras, visando a coibir o ingresso de drogas no País. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA-A.%20Compete%20%C3%A0%20Uni%C3%A3o%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B . (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA-B%20.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8-A",
+      "next": "8-C"
+    },
+    "8-C": {
+      "numero": "8-C",
+      "texto": "Art. 8º-C. (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA-C.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8-B",
+      "next": "8-D"
+    },
+    "8-D": {
+      "numero": "8-D",
+      "texto": "Art. 8º-D. São objetivos do Plano Nacional de Políticas sobre Drogas, dentre outros: (Incluído pela Lei nº 13.840, de 2019)\n\nI - promover a interdisciplinaridade e integração dos programas, ações, atividades e projetos dos órgãos e entidades públicas e privadas nas áreas de saúde, educação, trabalho, assistência social, previdência social, habitação, cultura, desporto e lazer, visando à prevenção do uso de drogas, atenção e reinserção social dos usuários ou dependentes de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nII - viabilizar a ampla participação social na formulação, implementação e avaliação das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - priorizar programas, ações, atividades e projetos articulados com os estabelecimentos de ensino, com a sociedade e com a família para a prevenção do uso de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - ampliar as alternativas de inserção social e econômica do usuário ou dependente de drogas, promovendo programas que priorizem a melhoria de sua escolarização e a qualificação profissional; (Incluído pela Lei nº 13.840, de 2019)\n\nV - promover o acesso do usuário ou dependente de drogas a todos os serviços públicos; (Incluído pela Lei nº 13.840, de 2019)\n\nVI - estabelecer diretrizes para garantir a efetividade dos programas, ações e projetos das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nVII - fomentar a criação de serviço de atendimento telefônico com orientações e informações para apoio aos usuários ou dependentes de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nVIII - articular programas, ações e projetos de incentivo ao emprego, renda e capacitação para o trabalho, com objetivo de promover a inserção profissional da pessoa que haja cumprido o plano individual de atendimento nas fases de tratamento ou acolhimento; (Incluído pela Lei nº 13.840, de 2019)\n\nIX - promover formas coletivas de organização para o trabalho, redes de economia solidária e o cooperativismo, como forma de promover autonomia ao usuário ou dependente de drogas egresso de tratamento ou acolhimento, observando-se as especificidades regionais; (Incluído pela Lei nº 13.840, de 2019)\n\nX - propor a formulação de políticas públicas que conduzam à efetivação das diretrizes e princípios previstos no art. 22; (Incluído pela Lei nº 13.840, de 2019)\n\nXI - articular as instâncias de saúde, assistência social e de justiça no enfrentamento ao abuso de drogas; e (Incluído pela Lei nº 13.840, de 2019)\n\nXII - promover estudos e avaliação dos resultados das políticas sobre drogas. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 1º O plano de que trata o caput terá duração de 5 (cinco) anos a contar de sua aprovação.\n\n§ 2º O poder público deverá dar a mais ampla divulgação ao conteúdo do Plano Nacional de Políticas sobre Drogas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA-D.%20S%C3%A3o%20objetivos%20do%20Plano%20Nacional%20de%20Pol%C3%ADticas%20sobre%20Drogas%2C%20dentre%20outros%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "8-C",
+      "next": "8-E"
+    },
+    "8-E": {
+      "numero": "8-E",
+      "texto": "Art. 8º-E. Os conselhos de políticas sobre drogas, constituídos por Estados, Distrito Federal e Municípios, terão os seguintes objetivos: (Incluído pela Lei nº 13.840, de 2019)\n\nI - auxiliar na elaboração de políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nII - colaborar com os órgãos governamentais no planejamento e na execução das políticas sobre drogas, visando à efetividade das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - propor a celebração de instrumentos de cooperação, visando à elaboração de programas, ações, atividades e projetos voltados à prevenção, tratamento, acolhimento, reinserção social e econômica e repressão ao tráfico ilícito de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - promover a realização de estudos, com o objetivo de subsidiar o planejamento das políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nV - propor políticas públicas que permitam a integração e a participação do usuário ou dependente de drogas no processo social, econômico, político e cultural no respectivo ente federado; e (Incluído pela Lei nº 13.840, de 2019)\n\nVI - desenvolver outras atividades relacionadas às políticas sobre drogas em consonância com o Sisnad e com os respectivos planos. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA-E.%20Os%20conselhos%20de%20pol%C3%ADticas%20sobre%20drogas%2C%20constitu%C3%ADdos%20por%20Estados%2C%20Distrito%20Federal%20e%20Munic%C3%ADpios%2C%20ter%C3%A3o%20os%20seguintes%20objetivos%3A%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8-D",
+      "next": "8-F"
+    },
+    "8-F": {
+      "numero": "8-F",
+      "texto": "Art. 8º-F. (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA-F.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "8-E",
       "next": "9"
     },
     "9": {
@@ -152,7 +264,7 @@
         "section": "III",
         "section_name": "Seção III"
       },
-      "prev": "8",
+      "prev": "8-F",
       "next": "10"
     },
     "10": {

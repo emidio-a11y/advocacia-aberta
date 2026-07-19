@@ -4,7 +4,7 @@
     "nome": "ISS – Normas Gerais e Lista de Serviços",
     "lei": "Lei Complementar 116/2003",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
-    "total_artigos": 10,
+    "total_artigos": 12,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -125,7 +125,7 @@
     },
     "8": {
       "numero": "8",
-      "texto": "Art. 8o As alíquotas máximas do Imposto Sobre Serviços de Qualquer Natureza são as seguintes:\n\nI – (VETADO)\n\nII – demais serviços, 5% (cinco por cento).\n\nArt. 8o-A. A alíquota mínima do Imposto sobre Serviços de Qualquer Natureza é de 2% (dois por cento). (Incluído pela Lei Complementar nº 157, de 2016)\n\n§ 1o O imposto não será objeto de concessão de isenções, incentivos ou benefícios tributários ou financeiros, inclusive de redução de base de cálculo ou de crédito presumido ou outorgado, ou sob qualquer outra forma que resulte, direta ou indiretamente, em carga tributária menor que a decorrente da aplicação da alíquota mínima estabelecida no caput, exceto para os serviços a que se referem os subitens 7.02, 7.05 e 16.01 da lista anexa a esta Lei Complementar. (Incluído pela Lei Complementar nº 157, de 2016)\n\n§ 2o É nula a lei ou o ato do Município ou do Distrito Federal que não respeite as disposições relativas à alíquota mínima previstas neste artigo no caso de serviço prestado a tomador ou intermediário localizado em Município diverso daquele onde está localizado o prestador do serviço. (Incluído pela Lei Complementar nº 157, de 2016)\n\n§ 3o A nulidade a que se refere o § 2o deste artigo gera, para o prestador do serviço, perante o Município ou o Distrito Federal que não respeitar as disposições deste artigo, o direito à restituição do valor efetivamente pago do Imposto sobre Serviços de Qualquer Natureza calculado sob a égide da lei nula. (Incluído pela Lei Complementar nº 157, de 2016)\n\nArt. 8º-B. Em relação aos fatos geradores ocorridos de 1º de janeiro de 2029 a 31 de dezembro de 2032, as alíquotas do imposto serão reduzidas nas seguintes proporções das alíquotas previstas nas legislações dos Municípios ou do Distrito Federal, vigentes em 31 de dezembro de 2028: (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - 10% (dez por cento), em 2029; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nII - 20% (vinte por cento), em 2030; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIII - 30% (trinta por cento), em 2031; e (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIV - 40% (quarenta por cento), em 2032. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º No período de que trata o caput, os benefícios ou os incentivos fiscais ou financeiros relativos ao imposto serão reduzidos na mesma proporção da redução das alíquotas prevista nos incisos do caput. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 2º Para os fins da aplicação do disposto no § 1º, os percentuais e outros parâmetros utilizados para calcular os benefícios ou incentivos fiscais ou financeiros relativos ao imposto serão reduzidos na mesma proporção da redução das alíquotas, em decorrência do disposto no caput deste artigo. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 3º O disposto no § 2º não se aplica, caso os benefícios ou os incentivos fiscais ou financeiros relativos ao imposto já tenham sido reduzidos proporcionalmente por força da redução das alíquotas nos termos do caput deste artigo. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "texto": "Art. 8o As alíquotas máximas do Imposto Sobre Serviços de Qualquer Natureza são as seguintes:\n\nI – (VETADO)\n\nII – demais serviços, 5% (cinco por cento).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm#:~:text=Art.%208o%20As%20al%C3%ADquotas%20m%C3%A1ximas%20do%20Imposto%20Sobre%20Servi%C3%A7os%20de%20Qualquer%20Natureza%20s%C3%A3o%20as%20seguintes%3A",
       "keywords": [],
       "hierarchy": {
@@ -137,6 +137,38 @@
         "section_name": null
       },
       "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8o-A. A alíquota mínima do Imposto sobre Serviços de Qualquer Natureza é de 2% (dois por cento). (Incluído pela Lei Complementar nº 157, de 2016)\n\n§ 1o O imposto não será objeto de concessão de isenções, incentivos ou benefícios tributários ou financeiros, inclusive de redução de base de cálculo ou de crédito presumido ou outorgado, ou sob qualquer outra forma que resulte, direta ou indiretamente, em carga tributária menor que a decorrente da aplicação da alíquota mínima estabelecida no caput, exceto para os serviços a que se referem os subitens 7.02, 7.05 e 16.01 da lista anexa a esta Lei Complementar. (Incluído pela Lei Complementar nº 157, de 2016)\n\n§ 2o É nula a lei ou o ato do Município ou do Distrito Federal que não respeite as disposições relativas à alíquota mínima previstas neste artigo no caso de serviço prestado a tomador ou intermediário localizado em Município diverso daquele onde está localizado o prestador do serviço. (Incluído pela Lei Complementar nº 157, de 2016)\n\n§ 3o A nulidade a que se refere o § 2o deste artigo gera, para o prestador do serviço, perante o Município ou o Distrito Federal que não respeitar as disposições deste artigo, o direito à restituição do valor efetivamente pago do Imposto sobre Serviços de Qualquer Natureza calculado sob a égide da lei nula. (Incluído pela Lei Complementar nº 157, de 2016)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm#:~:text=Art.%208o-A.%20A%20al%C3%ADquota%20m%C3%ADnima%20do%20Imposto%20sobre%20Servi%C3%A7os%20de%20Qualquer%20Natureza%20%C3%A9%20de%202%25%20%28dois%20por%20cento%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20Complementar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B. Em relação aos fatos geradores ocorridos de 1º de janeiro de 2029 a 31 de dezembro de 2032, as alíquotas do imposto serão reduzidas nas seguintes proporções das alíquotas previstas nas legislações dos Municípios ou do Distrito Federal, vigentes em 31 de dezembro de 2028: (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - 10% (dez por cento), em 2029; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nII - 20% (vinte por cento), em 2030; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIII - 30% (trinta por cento), em 2031; e (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIV - 40% (quarenta por cento), em 2032. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º No período de que trata o caput, os benefícios ou os incentivos fiscais ou financeiros relativos ao imposto serão reduzidos na mesma proporção da redução das alíquotas prevista nos incisos do caput. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 2º Para os fins da aplicação do disposto no § 1º, os percentuais e outros parâmetros utilizados para calcular os benefícios ou incentivos fiscais ou financeiros relativos ao imposto serão reduzidos na mesma proporção da redução das alíquotas, em decorrência do disposto no caput deste artigo. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 3º O disposto no § 2º não se aplica, caso os benefícios ou os incentivos fiscais ou financeiros relativos ao imposto já tenham sido reduzidos proporcionalmente por força da redução das alíquotas nos termos do caput deste artigo. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm#:~:text=Art.%208%C2%BA-B.%20Em%20rela%C3%A7%C3%A3o%20aos%20fatos%20geradores%20ocorridos%20de%201%C2%BA%20de%20janeiro%20de%202029%20a%2031%20de%20dezembro%20de%202032%2C%20as%20al%C3%ADquotas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-A",
       "next": "9"
     },
     "9": {
@@ -152,7 +184,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "8",
+      "prev": "8-B",
       "next": "10"
     },
     "10": {

@@ -131,6 +131,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_cppm.json",
     rotulo: "Código de Processo Penal Militar (Decreto-Lei 1.002/1969)",
   },
+  D3413: {
+    arquivo: "../../data/lei_d3413.json",
+    rotulo: "Convenção de Haia – Sequestro Internacional de Crianças (promulgação) (Decreto 3.413/2000)",
+  },
   D70235: {
     arquivo: "../../data/lei_d70235.json",
     rotulo: "Processo Administrativo Fiscal (PAF) Federal (Decreto 70.235/1972)",
@@ -243,6 +247,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10887.json",
     rotulo: "Cálculo/Contribuição de Servidor Federal (RPPS União) (Lei 10.887/2004)",
   },
+  L11441: {
+    arquivo: "../../data/lei_l11441.json",
+    rotulo: "Inventários Extrajudiciais (Lei 11.441/2007)",
+  },
   L11770: {
     arquivo: "../../data/lei_l11770.json",
     rotulo: "Programa Empresa Cidadã (licenças) (Lei 11.770/2008)",
@@ -250,6 +258,18 @@ const REGISTRO_CODIGOS = {
   L11788: {
     arquivo: "../../data/lei_l11788.json",
     rotulo: "Lei do Estágio (Lei 11.788/2008)",
+  },
+  L11804: {
+    arquivo: "../../data/lei_l11804.json",
+    rotulo: "Alimentos Gravídicos (Lei 11.804/2008)",
+  },
+  L12010: {
+    arquivo: "../../data/lei_l12010.json",
+    rotulo: "Adoção (Lei 12.010/2009)",
+  },
+  L12318: {
+    arquivo: "../../data/lei_l12318.json",
+    rotulo: "Alienação Parental (Lei 12.318/2010)",
   },
   L12506: {
     arquivo: "../../data/lei_l12506.json",
@@ -267,13 +287,25 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12850.json",
     rotulo: "Organização Criminosa (Lei 12.850/2013)",
   },
+  L13058: {
+    arquivo: "../../data/lei_l13058.json",
+    rotulo: "Guarda Compartilhada (Lei 13.058/2014)",
+  },
   L13103: {
     arquivo: "../../data/lei_l13103.json",
     rotulo: "Motorista Profissional (Lei 13.103/2015)",
   },
+  L13257: {
+    arquivo: "../../data/lei_l13257.json",
+    rotulo: "Marco Legal da Primeira Infância (Lei 13.257/2016)",
+  },
   L13260: {
     arquivo: "../../data/lei_l13260.json",
     rotulo: "Antiterrorismo (Lei 13.260/2016)",
+  },
+  L13431: {
+    arquivo: "../../data/lei_l13431.json",
+    rotulo: "Sistema de Garantia – Escuta e Depoimento Especial (Lei 13.431/2017)",
   },
   L13869: {
     arquivo: "../../data/lei_l13869.json",
@@ -286,6 +318,10 @@ const REGISTRO_CODIGOS = {
   L14344: {
     arquivo: "../../data/lei_l14344.json",
     rotulo: "Violência Contra Crianças e Adolescentes (Lei 14.344/2022)",
+  },
+  L14382: {
+    arquivo: "../../data/lei_l14382.json",
+    rotulo: "Modernização dos Registros Públicos (SERP) (Lei 14.382/2022)",
   },
   L14442: {
     arquivo: "../../data/lei_l14442.json",
@@ -315,6 +351,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l4950a.json",
     rotulo: "Pisos Profissionais (Eng., Arq., Agr., Vet., Quím.) (Lei 4.950-A/1966)",
   },
+  L5478: {
+    arquivo: "../../data/lei_l5478.json",
+    rotulo: "Alimentos (Lei 5.478/1968)",
+  },
   L5584: {
     arquivo: "../../data/lei_l5584.json",
     rotulo: "Normas do Processo do Trabalho (Lei 5.584/1970)",
@@ -335,6 +375,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l6321.json",
     rotulo: "Programa de Alimentação do Trabalhador (PAT) (Lei 6.321/1976)",
   },
+  L6515: {
+    arquivo: "../../data/lei_l6515.json",
+    rotulo: "Lei do Divórcio (Lei 6.515/1977)",
+  },
   L6533: {
     arquivo: "../../data/lei_l6533.json",
     rotulo: "Profissão de Artista e de Técnico em Espetáculos (Lei 6.533/1978)",
@@ -342,6 +386,10 @@ const REGISTRO_CODIGOS = {
   L6615: {
     arquivo: "../../data/lei_l6615.json",
     rotulo: "Profissão de Radialista (Lei 6.615/1978)",
+  },
+  L6858: {
+    arquivo: "../../data/lei_l6858.json",
+    rotulo: "Pagamento a Dependentes sem Inventário (Lei 6.858/1980)",
   },
   L7064: {
     arquivo: "../../data/lei_l7064.json",
@@ -379,6 +427,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l7998.json",
     rotulo: "Seguro‑Desemprego, Abono e FAT (Lei 7.998/1990)",
   },
+  L8009: {
+    arquivo: "../../data/lei_l8009.json",
+    rotulo: "Bem de Família (impenhorabilidade do imóvel residencial) (Lei 8.009/1990)",
+  },
   L8072: {
     arquivo: "../../data/lei_l8072.json",
     rotulo: "Crimes Hediondos (Lei 8.072/1990)",
@@ -391,6 +443,18 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8212.json",
     rotulo: "Plano de Custeio da Seguridade Social (Lei 8.212/1991)",
   },
+  L8560: {
+    arquivo: "../../data/lei_l8560.json",
+    rotulo: "Investigação de Paternidade (filho havido fora do casamento) (Lei 8.560/1992)",
+  },
+  L8935: {
+    arquivo: "../../data/lei_l8935.json",
+    rotulo: "Cartórios (Lei 8.935/1994)",
+  },
+  L8971: {
+    arquivo: "../../data/lei_l8971.json",
+    rotulo: "Companheiros Alimentos e Sucessão (Lei 8.971/1994)",
+  },
   L8989: {
     arquivo: "../../data/lei_l8989.json",
     rotulo: "IPI – Isenção para PcD (automóveis) (Lei 8.989/1995)",
@@ -402,6 +466,10 @@ const REGISTRO_CODIGOS = {
   L9249: {
     arquivo: "../../data/lei_l9249.json",
     rotulo: "IRPJ/CSLL – Regras centrais (JCP, bases e limites) (Lei 9.249/1995)",
+  },
+  L9278: {
+    arquivo: "../../data/lei_l9278.json",
+    rotulo: "União Estável (regime jurídico) (Lei 9.278/1996)",
   },
   L9296: {
     arquivo: "../../data/lei_l9296.json",
@@ -486,6 +554,10 @@ const REGISTRO_CODIGOS = {
   LOAS: {
     arquivo: "../../data/lei_loas.json",
     rotulo: "Lei Orgânica da Assistência Social (LOAS) (Lei 8.742/1993)",
+  },
+  LRP: {
+    arquivo: "../../data/lei_lrp.json",
+    rotulo: "Registros Públicos (Lei 6.015/1973)",
   },
   // [expansao:fim]
 } as const;

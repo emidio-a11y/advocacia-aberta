@@ -4,7 +4,7 @@
     "nome": "Profissão de Radialista",
     "lei": "Lei 6.615/1978",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6615.htm",
-    "total_artigos": 34,
+    "total_artigos": 37,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -121,6 +121,54 @@
         "section_name": null
       },
       "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A. É válida em todo o território nacional, para fins de identificação profissional, a carteira profissional de Radialista, emitida pelo Ministério do Trabalho e Emprego. (Incluído pela Lei nº 15.335, de 2026)\n\n§ 1º O Ministério do Trabalho e Emprego poderá delegar etapas do processo de emissão da carteira de que trata o caput deste artigo a sindicato da categoria ou a federação devidamente credenciada e registrada, nos termos de regulamento. (Incluído pela Lei nº 15.335, de 2026)\n\n§ 2º A carteira de que trata o caput deste artigo será válida desde que respeitado o modelo próprio. (Incluído pela Lei nº 15.335, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6615.htm#:~:text=Art.%207%C2%BA-A.%20%C3%89%20v%C3%A1lida%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20para%20fins%20de%20identifica%C3%A7%C3%A3o%20profissional%2C%20a%20carteira%20profissional%20de%20Radialista%2C%20emitida%20pelo%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "7-B"
+    },
+    "7-B": {
+      "numero": "7-B",
+      "texto": "Art. 7º-B. O modelo da carteira de identidade profissional de Radialista será aprovado pelo Ministério do Trabalho e Emprego e deverá conter a inscrição ‘Válida em todo o território nacional’ e as seguintes informações, além daquelas previstas em regulamento: (Incluído pela Lei nº 15.335, de 2026)\n\nI – as Armas da República Federativa do Brasil, a inscrição ‘República Federativa do Brasil’ e a inscrição ‘Governo Federal’; (Incluído pela Lei nº 15.335, de 2026)\n\nII – registro geral no órgão emitente e local e data de expedição; (Incluído pela Lei nº 15.335, de 2026)\n\nIII – número e série da Carteira de Trabalho e Previdência Social; (Incluído pela Lei nº 15.335, de 2026)\n\nIV – nome, filiação, sexo, local e data de nascimento do identificado, bem como, de forma resumida, comarca, cartório, livro, folha e número do registro de nascimento; (Incluído pela Lei nº 15.335, de 2026)\n\nV – fotografia, no formato 3x4 cm, assinatura e impressão digital do polegar direito do identificado; (Incluído pela Lei nº 15.335, de 2026)\n\nVI – nacionalidade e naturalidade; (Incluído pela Lei nº 15.335, de 2026)\n\nVII – data de nascimento; (Incluído pela Lei nº 15.335, de 2026)\n\nVIII – número do registro profissional perante o órgão regional do Ministério do Trabalho e Emprego; (Incluído pela Lei nº 15.335, de 2026)\n\nIX – cargo ou função profissional específica. (Incluído pela Lei nº 15.335, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6615.htm#:~:text=Art.%207%C2%BA-B.%20O%20modelo%20da%20carteira%20de%20identidade%20profissional%20de%20Radialista%20ser%C3%A1%20aprovado%20pelo%20Minist%C3%A9rio%20do%20Trabalho%20e%20Emprego%20e%20dever%C3%A1%20conter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7-A",
+      "next": "7-C"
+    },
+    "7-C": {
+      "numero": "7-C",
+      "texto": "Art. 7º-C. O Radialista não sindicalizado também fará jus à carteira profissional de Radialista, desde que seja habilitado e registrado perante o órgão regional do Ministério do Trabalho e Emprego, nos termos da legislação que regulamenta a atividade profissional. (Incluído pela Lei nº 15.335, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6615.htm#:~:text=Art.%207%C2%BA-C.%20O%20Radialista%20n%C3%A3o%20sindicalizado%20tamb%C3%A9m%20far%C3%A1%20jus%20%C3%A0%20carteira%20profissional%20de%20Radialista%2C%20desde%20que%20seja%20habilitado%20e%20registrado%20perante%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7-B",
       "next": "8"
     },
     "8": {
@@ -136,7 +184,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "7",
+      "prev": "7-C",
       "next": "9"
     },
     "9": {

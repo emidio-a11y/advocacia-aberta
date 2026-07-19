@@ -1,0 +1,879 @@
+{
+  "_meta": {
+    "codigo": "L6515",
+    "nome": "Lei do Divórcio",
+    "lei": "Lei 6.515/1977",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm",
+    "total_artigos": 54,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art 1º - A separação judicial, a dissolução do casamento, ou a cessação de seus efeitos civis, de que trata a Emenda Constitucional nº 9, de 28 de junho de 1977, ocorrerão nos casos e segundo a forma que esta Lei regula.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%201%C2%BA%20-%20A%20separa%C3%A7%C3%A3o%20judicial%2C%20a%20dissolu%C3%A7%C3%A3o%20do%20casamento%2C%20ou%20a%20cessa%C3%A7%C3%A3o%20de%20seus%20efeitos%20civis%2C%20de%20que%20trata%20a%20Emenda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art 2º - A Sociedade Conjugal termina:\n\nI - pela morte de um dos cônjuges;\n\nIl - pela nulidade ou anulação do casamento;\n\nIII - pela separação judicial;\n\nIV - pelo divórcio.\n\nParágrafo único - O casamento válido somente se dissolve pela morte de um dos cônjuges ou pelo divórcio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%202%C2%BA%20-%20A%20Sociedade%20Conjugal%20termina%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art 3º - A separação judicial põe termo aos deveres de coabitação, fidelidade recíproca e ao regime matrimonial de bens, como se o casamento fosse dissolvido.\n\n§ 1º - O procedimento judicial da separação caberá somente aos cônjuges, e, no caso de incapacidade, serão representados por curador, ascendente ou irmão.\n\n§ 2º - O juiz deverá promover todos os meios para que as partes se reconciliem ou transijam, ouvindo pessoal e separadamente cada uma delas e, a seguir, reunindo-as em sua presença, se assim considerar necessário.\n\n§ 3º - Após a fase prevista no parágrafo anterior, se os cônjuges pedirem, os advogados deverão ser chamados a assistir aos entendimentos e deles participar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%203%C2%BA%20-%20A%20separa%C3%A7%C3%A3o%20judicial%20p%C3%B5e%20termo%20aos%20deveres%20de%20coabita%C3%A7%C3%A3o%2C%20fidelidade%20rec%C3%ADproca%20e%20ao%20regime%20matrimonial%20de%20bens%2C%20como%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEçãO I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art 4º - Dar-se-á a separação judicial por mútuo consentimento dos cônjuges, se forem casados há mais de 2 (dois) anos, manifestado perante o juiz e devidamente homologado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%204%C2%BA%20-%20Dar-se-%C3%A1%20a%20separa%C3%A7%C3%A3o%20judicial%20por%20m%C3%BAtuo%20consentimento%20dos%20c%C3%B4njuges%2C%20se%20forem%20casados%20h%C3%A1%20mais%20de%202%20%28dois%29%20anos%2C%20manifestado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEçãO I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art 5º - A separação judicial pode ser pedida por um só dos cônjuges quando imputar ao outro conduta desonrosa ou qualquer ato que importe em grave violação dos deveres do casamento e tornem insuportável a vida em comum.\n\n§ 1º - A separação judicial pode, também, ser pedida se um dos cônjuges provar a ruptura da vida em comum há mais de 5 (cinco) anos consecutivos, e a impossibilidade de sua reconstituição.\n\n§ 1° A separação judicial pode, também, ser pedida se um dos cônjuges provar a ruptura da vida em comum há mais de um ano consecutivo, e a impossibilidade de sua reconstituição. (Redação dada pela Lei nº 8.408, de 1992)\n\n§ 2º - O cônjuge pode ainda pedir a separação judicial quando o outro estiver acometido de grave doença mental, manifestada após o casamento, que torne impossível a continuação da vida em comum, desde que, após uma duração de 5 (cinco) anos, a enfermidade tenha sido reconhecida de cura improvável.\n\n§ 3º - Nos casos dos parágrafos anteriores, reverterão, ao cônjuge que não houver pedido a separação judicial, os remanescentes dos bens que levou para o casamento, e, se o regime de bens adotado o permitir, também a meação nos adquiridos na constância da sociedade conjugal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%205%C2%BA%20-%20A%20separa%C3%A7%C3%A3o%20judicial%20pode%20ser%20pedida%20por%20um%20s%C3%B3%20dos%20c%C3%B4njuges%20quando%20imputar%20ao%20outro%20conduta%20desonrosa%20ou%20qualquer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEçãO I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art 6º - Nos casos dos §§ 1º e 2º do artigo anterior, a separação judicial poderá ser negada, se constituir respectivamente, causa de agravamento das condições pessoais ou da doença do outro cônjuge, ou determinar, em qualquer caso, conseqüências morais de excepcional gravidade para os filhos menores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%206%C2%BA%20-%20Nos%20casos%20dos%20%C2%A7%C2%A7%201%C2%BA%20e%202%C2%BA%20do%20artigo%20anterior%2C%20a%20separa%C3%A7%C3%A3o%20judicial%20poder%C3%A1%20ser%20negada%2C%20se%20constituir%20respectivamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEçãO I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art 7º - A separação judicial importará na separação de corpos e na partilha de bens.\n\n§ 1º - A separação de corpos poderá ser determinada como medida cautelar (art. 796 do CPC).\n\n§ 2º - A partilha de bens poderá ser feita mediante proposta dos cônjuges e homologada pelo juiz ou por este decidida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%207%C2%BA%20-%20A%20separa%C3%A7%C3%A3o%20judicial%20importar%C3%A1%20na%20separa%C3%A7%C3%A3o%20de%20corpos%20e%20na%20partilha%20de%20bens.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEçãO I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art 8º - A sentença que julgar a separação judicial produz seus efeitos à data de seu trânsito em julgado, o à da decisão que tiver concedido separação cautelar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%208%C2%BA%20-%20A%20senten%C3%A7a%20que%20julgar%20a%20separa%C3%A7%C3%A3o%20judicial%20produz%20seus%20efeitos%20%C3%A0%20data%20de%20seu%20tr%C3%A2nsito%20em%20julgado%2C%20o%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEçãO I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º - No caso de dissolução da sociedade conjugal pela separação judicial consensual (art. 4º), observar-se-á o que os cônjuges acordarem sobre a guarda dos filhos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%209%C2%BA%20-%20No%20caso%20de%20dissolu%C3%A7%C3%A3o%20da%20sociedade%20conjugal%20pela%20separa%C3%A7%C3%A3o%20judicial%20consensual%20%28art.%204%C2%BA%29%2C%20observar-se-%C3%A1%20o%20que%20os%20c%C3%B4njuges%20acordarem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art 10 - Na separação judicial fundada no \" caput \" do art. 5º, os filhos menores ficarão com o cônjuge que a e não houver dado causa.\n\n§ 1º - Se pela separação judicial forem responsáveis ambos os cônjuges; os filhos menores ficarão em poder da mãe, salvo se o juiz verificar que de tal solução possa adv prejuízo de ordem moral para eles.\n\n§ 2º - Verificado que não devem os filhos permanecer em poder da mãe nem do pai, deferirá o juiz a sua guarda a pessoa notoriamente idônea da família de qualquer dos cônjuges.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2010%20-%20Na%20separa%C3%A7%C3%A3o%20judicial%20fundada%20no%20%22%20caput%20%22%20do%20art.%205%C2%BA%2C%20os%20filhos%20menores%20ficar%C3%A3o%20com%20o%20c%C3%B4njuge%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art 11 - Quando a separação judicial ocorrer com fundamento no § 1º do art. 5º, os filhos ficarão em poder do cônjuge em cuja companhia estavam durante o tempo de ruptura da vida em comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2011%20-%20Quando%20a%20separa%C3%A7%C3%A3o%20judicial%20ocorrer%20com%20fundamento%20no%20%C2%A7%201%C2%BA%20do%20art.%205%C2%BA%2C%20os%20filhos%20ficar%C3%A3o%20em%20poder%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art 12 - Na separação judicial fundada no § 2º do art. 5º, o juiz deferirá a entrega dos filhos ao cônjuge que estiver em condições de assumir, normalmente, a responsabilidade de sua guarda e educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2012%20-%20Na%20separa%C3%A7%C3%A3o%20judicial%20fundada%20no%20%C2%A7%202%C2%BA%20do%20art.%205%C2%BA%2C%20o%20juiz%20deferir%C3%A1%20a%20entrega%20dos%20filhos%20ao%20c%C3%B4njuge",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art 13 - Se houver motivos graves, poderá o juiz, em qualquer caso, a bem dos filhos, regular por maneira diferente da estabelecida nos artigos anteriores a situação deles com os pais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2013%20-%20Se%20houver%20motivos%20graves%2C%20poder%C3%A1%20o%20juiz%2C%20em%20qualquer%20caso%2C%20a%20bem%20dos%20filhos%2C%20regular%20por%20maneira%20diferente%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art 14 - No caso de anulação do casamento, havendo filhos comuns, observar-se-á o disposto nos arts. 10 e 13.\n\nParágrafo único - Ainda que nenhum dos cônjuges esteja de boa fé ao contrair o casamento, seus efeitos civis aproveitarão aos filhos comuns.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2014%20-%20No%20caso%20de%20anula%C3%A7%C3%A3o%20do%20casamento%2C%20havendo%20filhos%20comuns%2C%20observar-se-%C3%A1%20o%20disposto%20nos%20arts.%2010%20e%2013.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art 15 - Os pais, em cuja guarda não estejam os filhos, poderão visitá-los e tê-los em sua companhia, segundo fixar o juiz, bem como fiscalizar sua manutenção e educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2015%20-%20Os%20pais%2C%20em%20cuja%20guarda%20n%C3%A3o%20estejam%20os%20filhos%2C%20poder%C3%A3o%20visit%C3%A1-los%20e%20t%C3%AA-los%20em%20sua%20companhia%2C%20segundo%20fixar%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art 16 - As disposições relativas à guarda e à prestação de alimentos aos filhos menores estendem-se aos filhos maiores inválidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2016%20-%20As%20disposi%C3%A7%C3%B5es%20relativas%20%C3%A0%20guarda%20e%20%C3%A0%20presta%C3%A7%C3%A3o%20de%20alimentos%20aos%20filhos%20menores%20estendem-se%20aos%20filhos%20maiores%20inv%C3%A1lidos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEçãO II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art 17 - Vencida na ação de separação judicial (art. 5º \" caput \"), voltará a mulher a usar o nome de solteira.\n\n§ 1º - Aplica-se, ainda, o disposto neste artigo, quando é da mulher a iniciativa da separação judicial com fundamento nos §§ 1º e 2º do art. 5º.\n\n§ 2º - Nos demais casos, caberá à mulher a opção pela conservação do nome de casada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2017%20-%20Vencida%20na%20a%C3%A7%C3%A3o%20de%20separa%C3%A7%C3%A3o%20judicial%20%28art.%205%C2%BA%20%22%20caput%20%22%29%2C%20voltar%C3%A1%20a%20mulher%20a%20usar%20o%20nome%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEçãO III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art 18 - Vencedora na ação de separação judicial (art. 5º \" caput \"), poderá a mulher renunciar, a qualquer momento, o direito de usar o nome do marido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2018%20-%20Vencedora%20na%20a%C3%A7%C3%A3o%20de%20separa%C3%A7%C3%A3o%20judicial%20%28art.%205%C2%BA%20%22%20caput%20%22%29%2C%20poder%C3%A1%20a%20mulher%20renunciar%2C%20a%20qualquer%20momento%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEçãO III"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art 19 - O cônjuge responsável pela separação judicial prestará ao outro, se dela necessitar, a pensão que o juiz fixar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2019%20-%20O%20c%C3%B4njuge%20respons%C3%A1vel%20pela%20separa%C3%A7%C3%A3o%20judicial%20prestar%C3%A1%20ao%20outro%2C%20se%20dela%20necessitar%2C%20a%20pens%C3%A3o%20que%20o%20juiz%20fixar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEçãO IV"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art 20 - Para manutenção dos filhos, os cônjuges, separados judicialmente, contribuirão na proporção de seus recursos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2020%20-%20Para%20manuten%C3%A7%C3%A3o%20dos%20filhos%2C%20os%20c%C3%B4njuges%2C%20separados%20judicialmente%2C%20contribuir%C3%A3o%20na%20propor%C3%A7%C3%A3o%20de%20seus%20recursos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEçãO IV"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art 21 - Para assegurar o pagamento da pensão alimentícia, o juiz poderá determinar a constituição de garantia real ou fidejussória.\n\n§ 1º - Se o cônjuge credor preferir, o juiz poderá determinar que a pensão consista no usufruto de determinados bens do cônjuge devedor.\n\n§ 2º - Aplica-se, também, o disposto no parágrafo anterior, se o cônjuge credor justificar a possibilidade do não recebimento regular da pensão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2021%20-%20Para%20assegurar%20o%20pagamento%20da%20pens%C3%A3o%20aliment%C3%ADcia%2C%20o%20juiz%20poder%C3%A1%20determinar%20a%20constitui%C3%A7%C3%A3o%20de%20garantia%20real%20ou%20fidejuss%C3%B3ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEçãO IV"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art 22 - Salvo decisão judicial, as prestações alimentícias, de qualquer natureza, serão corrigidas monetariamente na forma dos índices de atualização das Obrigações Reajustáveis do Tesouro Nacional - ORTN.\n\nParágrafo único - No caso do não pagamento das referidas prestações no vencimento, o devedor responderá, ainda, por custas e honorários de advogado apurados simultaneamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2022%20-%20Salvo%20decis%C3%A3o%20judicial%2C%20as%20presta%C3%A7%C3%B5es%20aliment%C3%ADcias%2C%20de%20qualquer%20natureza%2C%20ser%C3%A3o%20corrigidas%20monetariamente%20na%20forma%20dos%20%C3%ADndices%20de%20atualiza%C3%A7%C3%A3o%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEçãO IV"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art 23 - A obrigação de prestar alimentos transmite-se aos herdeiros do devedor, na forma do art. 1.796 do Código Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2023%20-%20A%20obriga%C3%A7%C3%A3o%20de%20prestar%20alimentos%20transmite-se%20aos%20herdeiros%20do%20devedor%2C%20na%20forma%20do%20art.%201.796%20do%20C%C3%B3digo%20Civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEçãO IV"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art 24 - O divórcio põe termo ao casamento e aos efeitos civis do matrimônio religioso.\n\nParágrafo único - O pedido somente competirá aos cônjuges, podendo, contudo, ser exercido, em caso de incapacidade, por curador, ascendente ou irmão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2024%20-%20O%20div%C3%B3rcio%20p%C3%B5e%20termo%20ao%20casamento%20e%20aos%20efeitos%20civis%20do%20matrim%C3%B4nio%20religioso.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art 25 - A conversão em divórcio da separação judicial dos cônjuges, existente há mais de três anos, contada da data da decisão ou da que concedeu a medida cautelar correspondente (art. 8º), será decretada por sentença, da qual não constará referência à causa que a determinou.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2025%20-%20A%20convers%C3%A3o%20em%20div%C3%B3rcio%20da%20separa%C3%A7%C3%A3o%20judicial%20dos%20c%C3%B4njuges%2C%20existente%20h%C3%A1%20mais%20de%20tr%C3%AAs%20anos%2C%20contada%20da%20data%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art 26 - No caso de divórcio resultante da separação prevista nos §§ 1º e 2º do art. 5º, o cônjuge que teve a iniciativa da separação continuará com o dever de assistência ao outro. (Código Civil - art. 231, nº III).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2026%20-%20No%20caso%20de%20div%C3%B3rcio%20resultante%20da%20separa%C3%A7%C3%A3o%20prevista%20nos%20%C2%A7%C2%A7%201%C2%BA%20e%202%C2%BA%20do%20art.%205%C2%BA%2C%20o%20c%C3%B4njuge%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art 27 - O divórcio não modificará os direitos e deveres dos pais em relação aos filhos.\n\nParágrafo único - O novo casamento de qualquer dos pais ou de ambos também não importará restrição a esses direitos e deveres.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2027%20-%20O%20div%C3%B3rcio%20n%C3%A3o%20modificar%C3%A1%20os%20direitos%20e%20deveres%20dos%20pais%20em%20rela%C3%A7%C3%A3o%20aos%20filhos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art 28 - Os alimentos devidos pelos pais e fixados na sentença de separação poderão ser alterados a qualquer tempo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2028%20-%20Os%20alimentos%20devidos%20pelos%20pais%20e%20fixados%20na%20senten%C3%A7a%20de%20separa%C3%A7%C3%A3o%20poder%C3%A3o%20ser%20alterados%20a%20qualquer%20tempo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art 29 - O novo casamento do cônjuge credor da pensão extingüirá a obrigação do cônjuge devedor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2029%20-%20O%20novo%20casamento%20do%20c%C3%B4njuge%20credor%20da%20pens%C3%A3o%20exting%C3%BCir%C3%A1%20a%20obriga%C3%A7%C3%A3o%20do%20c%C3%B4njuge%20devedor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art 30 - Se o cônjuge devedor da pensão vier a casar-se, o novo casamento não alterará sua obrigação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2030%20-%20Se%20o%20c%C3%B4njuge%20devedor%20da%20pens%C3%A3o%20vier%20a%20casar-se%2C%20o%20novo%20casamento%20n%C3%A3o%20alterar%C3%A1%20sua%20obriga%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art 31 - Não se decretará o divórcio se ainda não houver sentença definitiva de separação judicial, ou se esta não tiver decidido sobre a partilha dos bens. (Vide Lei nº 10.406, de 2002)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2031%20-%20N%C3%A3o%20se%20decretar%C3%A1%20o%20div%C3%B3rcio%20se%20ainda%20n%C3%A3o%20houver%20senten%C3%A7a%20definitiva%20de%20separa%C3%A7%C3%A3o%20judicial%2C%20ou%20se%20esta%20n%C3%A3o%20tiver",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art 32 - A sentença definitiva do divórcio produzirá efeitos depois de registrada no Registro Público competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2032%20-%20A%20senten%C3%A7a%20definitiva%20do%20div%C3%B3rcio%20produzir%C3%A1%20efeitos%20depois%20de%20registrada%20no%20Registro%20P%C3%BAblico%20competente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art 33 - Se os cônjuges divorciados quiserem restabelecer a união conjugal só poderão fazê-lo mediante novo casamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2033%20-%20Se%20os%20c%C3%B4njuges%20divorciados%20quiserem%20restabelecer%20a%20uni%C3%A3o%20conjugal%20s%C3%B3%20poder%C3%A3o%20faz%C3%AA-lo%20mediante%20novo%20casamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art 34 - A separação judicial consensual se fará pelo procedimento previsto nos arts. 1.120 e 1.124 do Código de Processo Civil, e as demais pelo procedimento ordinário.\n\n§ 1º - A petição será também assinada pelos advogados das partes ou pelo advogado escolhido de comum acordo.\n\n§ 2º - O juiz pode recusar a homologação e não decretar a separação judicial, se comprovar que a convenção não preserva suficientemente os interesses dos filhos ou de um dos cônjuges.\n\n§ 3º - Se os cônjuges não puderem ou não souberem assinar, é lícito que outrem o faça a rogo deles.\n\n§ 4º - Às assinaturas, quando não lançadas na presença do juiz, serão, obrigatoriamente, reconhecidas por tabelião.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2034%20-%20A%20separa%C3%A7%C3%A3o%20judicial%20consensual%20se%20far%C3%A1%20pelo%20procedimento%20previsto%20nos%20arts.%201.120%20e%201.124%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art 35 - A conversão da separação judicial em divórcio será feita mediante pedido de qualquer dos cônjuges.\n\nParágrafo único - O pedido será apensado aos autos da separação judicial. (art. 48)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2035%20-%20A%20convers%C3%A3o%20da%20separa%C3%A7%C3%A3o%20judicial%20em%20div%C3%B3rcio%20ser%C3%A1%20feita%20mediante%20pedido%20de%20qualquer%20dos%20c%C3%B4njuges.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art 36 - Do pedido referido no artigo anterior, será citado o outro cônjuge, em cuja resposta não caberá reconvenção.\n\nParágrafo único - A contestação só pode fundar-se em:\n\nI - falta de decurso do prazo de 3 (três) anos de separação judicial;\n\nI - falta do decurso de 1 (um) ano da separação judicial; (Redação dada pela Lei nº 7.841, de 1989)\n\nII - descumprimento das obrigações assumidas pelo requerente na separação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2036%20-%20Do%20pedido%20referido%20no%20artigo%20anterior%2C%20ser%C3%A1%20citado%20o%20outro%20c%C3%B4njuge%2C%20em%20cuja%20resposta%20n%C3%A3o%20caber%C3%A1%20reconven%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art 37 - O juiz conhecerá diretamente do pedido, quando não houver contestação ou necessidade de produzir prova em audiência, e proferirá sentença dentro em 10 (dez) dias.\n\n§ 1º - A sentença limitar-se-á à conversão da separação em divórcio, que não poderá ser negada, salvo se provada qualquer das hipóteses previstas no parágrafo único do artigo anterior.\n\n§ 2º - A improcedência do pedido de conversão não impede que o mesmo cônjuge o renove, desde que satisfeita a condição anteriormente descumprida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2037%20-%20O%20juiz%20conhecer%C3%A1%20diretamente%20do%20pedido%2C%20quando%20n%C3%A3o%20houver%20contesta%C3%A7%C3%A3o%20ou%20necessidade%20de%20produzir%20prova%20em%20audi%C3%AAncia%2C%20e%20proferir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art 38 - O pedido de divórcio, em qualquer dos seus casos, somente poderá ser formulado uma vez. (Revogado pela Lei nº 7.841, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2038%20-%20O%20pedido%20de%20div%C3%B3rcio%2C%20em%20qualquer%20dos%20seus%20casos%2C%20somente%20poder%C3%A1%20ser%20formulado%20uma%20vez.%20%28Revogado%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art 39 - O capítulo III do Título Il do Livro IV do Código de Processo Civil, as expressões \"desquite por mútuo consentimento\", \"desquite\" e \"desquite litigioso\" são substituídas por \"separação consensual\" e \"separação judicial\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2039%20-%20O%20cap%C3%ADtulo%20III%20do%20T%C3%ADtulo%20Il%20do%20Livro%20IV%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C%20as%20express%C3%B5es%20%22desquite%20por%20m%C3%BAtuo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art 40 - No caso de separação de fato, com início anterior a 28 de junho de 1977, e desde que completados 5 (cinco) anos, poderá ser promovida ação de divórcio, na qual se deverão provar o decurso do tempo da separação e a sua causa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2040%20-%20No%20caso%20de%20separa%C3%A7%C3%A3o%20de%20fato%2C%20com%20in%C3%ADcio%20anterior%20a%2028%20de%20junho%20de%201977%2C%20e%20desde%20que%20completados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art 41 - As causas de desquite em curso na data da vigência desta Lei, tanto as que se processam pelo procedimento especial quanto as de procedimento ordinário, passam automaticamente a visar à separação judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2041%20-%20As%20causas%20de%20desquite%20em%20curso%20na%20data%20da%20vig%C3%AAncia%20desta%20Lei%2C%20tanto%20as%20que%20se%20processam%20pelo%20procedimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art 42 - As sentenças já proferidas em causas de desquite são equiparadas, para os efeitos desta Lei, às de separação judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2042%20-%20As%20senten%C3%A7as%20j%C3%A1%20proferidas%20em%20causas%20de%20desquite%20s%C3%A3o%20equiparadas%2C%20para%20os%20efeitos%20desta%20Lei%2C%20%C3%A0s%20de%20separa%C3%A7%C3%A3o%20judicial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art 43 - Se, na sentença do desquite, não tiver sido homologada ou decidida a partilha dos bens, ou quando esta não tenha sido feita posteriormente, a decisão de conversão disporá sobre ela.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2043%20-%20Se%2C%20na%20senten%C3%A7a%20do%20desquite%2C%20n%C3%A3o%20tiver%20sido%20homologada%20ou%20decidida%20a%20partilha%20dos%20bens%2C%20ou%20quando%20esta%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art 44 - Contar-se-á o prazo de separação judicial a partir da data em que, por decisão judicial proferida em qualquer processo, mesmo nos de jurisdição voluntária, for determinada ou presumida a separação dos cônjuges.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2044%20-%20Contar-se-%C3%A1%20o%20prazo%20de%20separa%C3%A7%C3%A3o%20judicial%20a%20partir%20da%20data%20em%20que%2C%20por%20decis%C3%A3o%20judicial%20proferida%20em%20qualquer%20processo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art 45 - Quando o casamento se seguir a uma comunhão de vida entre os nubentes, existentes antes de 28 de junho de 1977, que haja perdurado por 10 (dez) anos consecutivos ou da qual tenha resultado filhos, o regime matrimonial de bens será estabelecido livremente, não se lhe aplicando o disposto no artigo 258, parágrafo único, nº II, do Código Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2045%20-%20Quando%20o%20casamento%20se%20seguir%20a%20uma%20comunh%C3%A3o%20de%20vida%20entre%20os%20nubentes%2C%20existentes%20antes%20de%2028%20de%20junho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art 46 - Seja qual for a causa da separação judicial, e o modo como esta se faça, é permitido aos cônjuges restabelecer a todo o tempo a sociedade conjugal, nos termos sem que fora constituída, contanto que o façam mediante requerimento nos autos da ação de separação.\n\nParágrafo único - A reconciliação em nada prejudicará os direitos de terceiros, adquiridos antes e durante a separação, seja qual for o regime de bens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2046%20-%20Seja%20qual%20for%20a%20causa%20da%20separa%C3%A7%C3%A3o%20judicial%2C%20e%20o%20modo%20como%20esta%20se%20fa%C3%A7a%2C%20%C3%A9%20permitido%20aos%20c%C3%B4njuges",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art 47 - Se os autos do desquite ou os da separação judicial tiverem sido extraviados, ou se encontrarem em outra circunscrição judiciária, o pedido de conversão em divórcio será instruído com a certidão da sentença, ou da sua averbação no assento de casamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2047%20-%20Se%20os%20autos%20do%20desquite%20ou%20os%20da%20separa%C3%A7%C3%A3o%20judicial%20tiverem%20sido%20extraviados%2C%20ou%20se%20encontrarem%20em%20outra%20circunscri%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art 48 - Aplica-se o disposto no artigo anterior, quando a mulher desquitada tiver domicílio diverso daquele em que se julgou o desquite.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2048%20-%20Aplica-se%20o%20disposto%20no%20artigo%20anterior%2C%20quando%20a%20mulher%20desquitada%20tiver%20domic%C3%ADlio%20diverso%20daquele%20em%20que%20se%20julgou%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art 49 - Os §§ 5º e 6º do art. 7º da Lei de Introdução ao Código Civil passam a vigorar com a seguinte redação:\n\n\"Art. 7º. ..................................................\n\n§ 5º - O estrangeiro casado, que se naturalizar brasileiro, pode, mediante expressa anuência de seu cônjuge, requerer ao juiz, no ato de entrega do decreto de naturalização, se apostile ao mesmo a adoção do regime de comunhão parcial de bens, respeitados os direitos de terceiros e dada esta adoção ao competente registro.\n\n§ 6º - O divórcio realizado no estrangeiro, se um ou ambos os cônjuges forem brasileiros, só será reconhecido no Brasil depois de três anos da data da sentença, salvo se houver sido antecedida de separarão judicial por igual prazo, caso em que a homologação produzirá efeito imediato, obedecidas as condições estabelecidas para a eficácia das sentenças estrangeiras no País. O Supremo Tribunal Federal, na forma de seu regimento interno, poderá reexaminar, a requerimento do interessado, decisões já proferidas em pedidos de homologação de sentenças estrangeiras de divórcio de brasileiros, a fim de que passem a produzir todos os efeitos legais.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2049%20-%20Os%20%C2%A7%C2%A7%205%C2%BA%20e%206%C2%BA%20do%20art.%207%C2%BA%20da%20Lei%20de%20Introdu%C3%A7%C3%A3o%20ao%20C%C3%B3digo%20Civil%20passam%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art 50 - São introduzidas no Código Civil as alterações seguintes:\n\n1) \"Art. 12. .................................\n\nI - os nascimentos, casamentos, separações judiciais, divórcios e óbitos.\"\n\n2) \"Art. 180. .............................\n\nV - certidão de óbito do cônjuge falecido, da anulação do casamento anterior ou do registro da sentença de divórcio.\"\n\n3) \"Art. 186 - Discordando eles entre si, prevalecerá a vontade paterna, ou, sendo o casal separado, devorciado ou tiver sido o seu casamento anulado, a vontade do cônjuge, com quem estiverem os filhos.\"\n\n4) \"Art. 195. .................................\n\nVII - o regime do casamento, com a declaração data e do cartório em cujas notas foi passada a escritura antenupcial, quando o regime não for o de comunhão parcial, ou o legal estabelecido no Titulo IIl deste livro, para outros casamentos.\"\n\n5) \"Art. 240 - A mulher, com o casamento, assume a condição de companheira, consorte e colaboradora do marido nos encargos de família, cumprindo-lhe velar pela direção material e moral desta.\n\nParágrafo único - A mulher poderá acrescer ao seus os apelidos do marido.\"\n\n6) \"Art. 248. ......................................\n\nVIII - propor a separação judicial e o divórcio.\"\n\n7) \"Art. 258 - Não havendo convenção, ou sendo nula, vigorará, quanto aos bens entre os cônjuges, o regime de comunhão parcial.\"\n\n8) \"Art. 267. ........................................\n\nIII - pela separação judicial;\n\nIV - pelo divórcio.\"\n\n9) \"Art. 1.611 - A falta de descendentes ou ascedentes será deferida a sucessão ao cônjuge sobrevivente se, ao tempo da morte do outro, não estava dissolvida a sociedade conjugal.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2050%20-%20S%C3%A3o%20introduzidas%20no%20C%C3%B3digo%20Civil%20as%20altera%C3%A7%C3%B5es%20seguintes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art 51 - A Lei nº 883, de 21 de outubro de 1949 passa a vigorar com as seguintes alterações:\n\n1) \"Art. 1º. ....................\n\nParágrafo único - Ainda na vigência do casamento qualquer dos cônjuges poderá reconhecer o filho havido fora do matrimônio, em testamento cerrado, aprovado antes ou depois do nascimento do filho, e, nessa parte, irrevogável.\"\n\n2) \"Art. 2º - Qualquer que seja a natureza da filiação, o direito à herança será reconhecido em igualdade de condições.\"\n\n3) - \"Art. 4º. ...................................\n\nParágrafo único - Dissolvida a sociedade conjugal do que foi condenado a prestar alimentos, quem os obteve não precisa propor ação de investigação para ser reconhecido, cabendo, porém, aos interessados o direito de impugnar a filiação.\"\n\n4) \"Art. 9º - O filho havido fora do casamento e reconhecido pode ser privado da herança nos casos dos arts. 1.595 e 1.744 do Código Civil.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2051%20-%20A%20Lei%20n%C2%BA%20883%2C%20de%2021%20de%20outubro%20de%201949%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art 52 - O nº I do art. 100, o nº Il do art. 155 e o § 2º do art. 733 do Código de Processo Civil passam a vigorar com a seguinte redação:\n\n\"Art. 100. .................................\n\nI - da residência da mulher, para a ação de separação dos cônjuges e a conversão desta em divórcio, e para a anulação de casamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2052%20-%20O%20n%C2%BA%20I%20do%20art.%20100%2C%20o%20n%C2%BA%20Il%20do%20art.%20155%20e%20o%20%C2%A7%202%C2%BA%20do%20art.%20733",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art 53 - A presente Lei entrará em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2053%20-%20A%20presente%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art 54 - Revogam-se os arts. 315 a 328 e o § 1º do art. 1605 do Código Civil e as demais disposições em contrário.\n\nBrasília, em 26 de dezembro de 1977; 156º da Independência e 89º da República.\n\nERNESTO GEISEL Armando Falcão\n\nEste teto não substitui o publicado no DOU de 27.12.1977\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm#:~:text=Art%2054%20-%20Revogam-se%20os%20arts.%20315%20a%20328%20e%20o%20%C2%A7%201%C2%BA%20do%20art.%201605%20do%20C%C3%B3digo%20Civil%20e%20as%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": null
+    }
+  }
+}

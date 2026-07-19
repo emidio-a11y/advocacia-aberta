@@ -4,7 +4,7 @@
     "nome": "Participação nos Lucros ou Resultados (PLR)",
     "lei": "Lei 10.101/2000",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l10101compilado.htm",
-    "total_artigos": 8,
+    "total_artigos": 10,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -93,7 +93,7 @@
     },
     "6": {
       "numero": "6",
-      "texto": "Art. 6o Fica autorizado o trabalho aos domingos nas atividades do comércio em geral, observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição. (Redação dada pela Lei nº 11.603, de 2007)\n\nParágrafo único. O repouso semanal remunerado deverá coincidir, pelo menos uma vez no período máximo de três semanas, com o domingo, respeitadas as demais normas de proteção ao trabalho e outras a serem estipuladas em negociação coletiva. (Redação dada pela Lei nº 11.603, de 2007)\n\nArt. 6o-A. É permitido o trabalho em feriados nas atividades do comércio em geral, desde que autorizado em convenção coletiva de trabalho e observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição. (Incluído pela Lei nº 11.603, de 2007)\n\nArt. 6o-B. As infrações ao disposto nos arts. 6o e 6o-A desta Lei serão punidas com a multa prevista no art. 75 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943. (Incluído pela Lei nº 11.603, de 2007\n\nParágrafo único. O processo de fiscalização, de autuação e de imposição de multas reger-se-á pelo disposto no Título VII da Consolidação das Leis do Trabalho. (Incluído pela Lei nº 11.603, de 2007)",
+      "texto": "Art. 6o Fica autorizado o trabalho aos domingos nas atividades do comércio em geral, observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição. (Redação dada pela Lei nº 11.603, de 2007)\n\nParágrafo único. O repouso semanal remunerado deverá coincidir, pelo menos uma vez no período máximo de três semanas, com o domingo, respeitadas as demais normas de proteção ao trabalho e outras a serem estipuladas em negociação coletiva. (Redação dada pela Lei nº 11.603, de 2007)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l10101compilado.htm#:~:text=Art.%206o%20Fica%20autorizado%20o%20trabalho%20aos%20domingos%20nas%20atividades%20do%20com%C3%A9rcio%20em%20geral%2C%20observada%20a%20legisla%C3%A7%C3%A3o%20municipal%2C%20nos%20termos%20do%20art.",
       "keywords": [],
       "hierarchy": {
@@ -105,6 +105,38 @@
         "section_name": null
       },
       "prev": "5",
+      "next": "6-A"
+    },
+    "6-A": {
+      "numero": "6-A",
+      "texto": "Art. 6o-A. É permitido o trabalho em feriados nas atividades do comércio em geral, desde que autorizado em convenção coletiva de trabalho e observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição. (Incluído pela Lei nº 11.603, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l10101compilado.htm#:~:text=Art.%206o-A.%20%C3%89%20permitido%20o%20trabalho%20em%20feriados%20nas%20atividades%20do%20com%C3%A9rcio%20em%20geral%2C%20desde%20que%20autorizado%20em%20conven%C3%A7%C3%A3o%20coletiva%20de%20trabalho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "6-B"
+    },
+    "6-B": {
+      "numero": "6-B",
+      "texto": "Art. 6o-B. As infrações ao disposto nos arts. 6o e 6o-A desta Lei serão punidas com a multa prevista no art. 75 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943. (Incluído pela Lei nº 11.603, de 2007\n\nParágrafo único. O processo de fiscalização, de autuação e de imposição de multas reger-se-á pelo disposto no Título VII da Consolidação das Leis do Trabalho. (Incluído pela Lei nº 11.603, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l10101compilado.htm#:~:text=Art.%206o-B.%20As%20infra%C3%A7%C3%B5es%20ao%20disposto%20nos%20arts.%206o%20e%206o-A%20desta%20Lei%20ser%C3%A3o%20punidas%20com%20a%20multa%20prevista%20no%20art.%2075",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6-A",
       "next": "7"
     },
     "7": {
@@ -120,7 +152,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "6",
+      "prev": "6-B",
       "next": "8"
     },
     "8": {

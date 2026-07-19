@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "codigo": "L6858",
+    "nome": "Pagamento a Dependentes sem Inventário",
+    "lei": "Lei 6.858/1980",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6858.htm",
+    "total_artigos": 4,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - Os valores devidos pelos empregadores aos empregados e os montantes das contas individuais do Fundo de Garantia do Tempo de Serviço e do Fundo de Participação PIS-PASEP, não recebidos em vida pelos respectivos titulares, serão pagos, em quotas iguais, aos dependentes habilitados perante a Previdência Social ou na forma da legislação específica dos servidores civis e militares, e, na sua falta, aos sucessores previstos na lei civil, indicados em alvará judicial, independentemente de inventário ou arrolamento.\n\n§ 1º - As quotas atribuídas a menores ficarão depositadas em caderneta de poupança, rendendo juros e correção monetária, e só serão disponíveis após o menor completar 18 (dezoito) anos, salvo autorização do juiz para aquisição de imóvel destinado à residência do menor e de sua família ou para dispêndio necessário à subsistência e educação do menor.\n\n§ 2º - Inexistindo dependentes ou sucessores, os valores de que trata este artigo reverterão em favor, respectivamente, do Fundo de Previdência e Assistência Social, do Fundo de Garantia do Tempo de Serviço ou do Fundo de Participação PIS-PASEP, conforme se tratar de quantias devidas pelo empregador ou de contas de FGTS e do Fundo PIS PASEP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6858.htm#:~:text=Art.%201%C2%BA%20-%20Os%20valores%20devidos%20pelos%20empregadores%20aos%20empregados%20e%20os%20montantes%20das%20contas%20individuais%20do%20Fundo%20de%20Garantia%20do%20Tempo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O disposto nesta Lei se aplica às restituições relativas ao imposto de renda e outros tributos, recolhidos por pessoa física, e, não existindo outros bens sujeitos a inventário, aos saldos bancários e de contas de cadernetas de poupança e fundos de investimento de valor até 500 (quinhentas) Obrigações Reajustáveis do Tesouro Nacional.\n\nParágrafo único. Na hipótese de inexistirem dependentes ou sucessores do titular, os valores referidos neste artigo reverterão em favor do Fundo de Previdência e Assistência Social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6858.htm#:~:text=Art.%202%C2%BA%20O%20disposto%20nesta%20Lei%20se%20aplica%20%C3%A0s%20restitui%C3%A7%C3%B5es%20relativas%20ao%20imposto%20de%20renda%20e%20outros%20tributos%2C%20recolhidos%20por%20pessoa%20f%C3%ADsica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - Esta Lei entrará em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6858.htm#:~:text=Art.%203%C2%BA%20-%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - Revogam-se as disposições em contrário.\n\nBrasília, 24 de novembro de 1980; 159º da Independência e 92º da República.\n\nJOÃO FIGUEIREDO Ibrahim Abi-Ackel Ernane Galvêas Hélio Beltrão\n\nEste texto não substitui o publicado no DOU de 25.11.1980 e retificado em 26.11.1980\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6858.htm#:~:text=Art.%204%C2%BA%20-%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": null
+    }
+  }
+}

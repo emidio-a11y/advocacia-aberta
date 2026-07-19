@@ -4,7 +4,7 @@
     "nome": "Seguro‑Desemprego, Abono e FAT",
     "lei": "Lei 7.998/1990",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm",
-    "total_artigos": 35,
+    "total_artigos": 45,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -29,7 +29,7 @@
     },
     "2": {
       "numero": "2",
-      "texto": "Art. 2º O programa do seguro-desemprego tem por finalidade: (Redação dada pela Lei nº 8.900, de 30.06.94)\n\nI - prover assistência financeira temporária ao trabalhador desempregado em virtude de dispensa sem justa causa, inclusive a indireta, e ao trabalhador comprovadamente resgatado de regime de trabalho forçado ou da condição análoga à de escravo; (Redação dada pela Lei nº 10.608, de 20.12.2002)\n\nII - auxiliar os trabalhadores na busca ou preservação do emprego, promovendo, para tanto, ações integradas de orientação, recolocação e qualificação profissional. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\nArt. 2o-A. Para efeito do disposto no inciso II do art. 2o, fica instituída a bolsa de qualificação profissional, a ser custeada pelo Fundo de Amparo ao Trabalhador - FAT, à qual fará jus o trabalhador que estiver com o contrato de trabalho suspenso em virtude de participação em curso ou programa de qualificação profissional oferecido pelo empregador, em conformidade com o disposto em convenção ou acordo coletivo celebrado para este fim. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nArt. 2o-B. (Revogado pela Lei nº 13.134, de 2015)\n\nArt. 2º-C. O trabalhador que vier a ser identificado como submetido a regime de trabalho forçado ou reduzido a condição análoga à de escravo, em decorrência de ação de fiscalização do Ministério do Trabalho e Emprego, será dessa situação resgatado e terá direito à percepção de 6 (seis) parcelas de seguro-desemprego no valor de 1 (um) salário mínimo cada, conforme o disposto no § 2º deste artigo. (Redação dada pela Lei nº 15.455, de 2026)\n\n§ 1o O trabalhador resgatado nos termos do caput deste artigo será encaminhado, pelo Ministério do Trabalho e Emprego, para qualificação profissional e recolocação no mercado de trabalho, por meio do Sistema Nacional de Emprego - SINE, na forma estabelecida pelo Conselho Deliberativo do Fundo de Amparo ao Trabalhador - CODEFAT. (Incluído pela Lei nº 10.608, de 20.12.2002)\n\n§ 2o Caberá ao CODEFAT, por proposta do Ministro de Estado do Trabalho e Emprego, estabelecer os procedimentos necessários ao recebimento do benefício previsto no caput deste artigo, observados os respectivos limites de comprometimento dos recursos do FAT, ficando vedado ao mesmo trabalhador o recebimento do benefício, em circunstâncias similares, nos doze meses seguintes à percepção da última parcela. (Incluído pela Lei nº 10.608, de 20.12.2002)",
+      "texto": "Art. 2º O programa do seguro-desemprego tem por finalidade: (Redação dada pela Lei nº 8.900, de 30.06.94)\n\nI - prover assistência financeira temporária ao trabalhador desempregado em virtude de dispensa sem justa causa, inclusive a indireta, e ao trabalhador comprovadamente resgatado de regime de trabalho forçado ou da condição análoga à de escravo; (Redação dada pela Lei nº 10.608, de 20.12.2002)\n\nII - auxiliar os trabalhadores na busca ou preservação do emprego, promovendo, para tanto, ações integradas de orientação, recolocação e qualificação profissional. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%202%C2%BA%20O%20programa%20do%20seguro-desemprego%20tem%20por%20finalidade%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%208.900%2C%20de%2030.06.94%29",
       "keywords": [],
       "hierarchy": {
@@ -41,12 +41,12 @@
         "section_name": null
       },
       "prev": "1",
-      "next": "3"
+      "next": "2-A"
     },
-    "3": {
-      "numero": "3",
-      "texto": "Art. 3º Terá direito à percepção do seguro-desemprego o trabalhador dispensado sem justa causa que comprove:\n\nI - ter recebido salários de pessoa jurídica ou de pessoa física a ela equiparada, relativos a: (Redação dada pela Lei nº 13.134, de 2015)\n\na) pelo menos 12 (doze) meses nos últimos 18 (dezoito) meses imediatamente anteriores à data de dispensa, quando da primeira solicitação; (Incluído pela Lei nº 13.134, de 2015)\n\nb) pelo menos 9 (nove) meses nos últimos 12 (doze) meses imediatamente anteriores à data de dispensa, quando da segunda solicitação; e (Incluído pela Lei nº 13.134, de 2015)\n\nc) cada um dos 6 (seis) meses imediatamente anteriores à data de dispensa, quando das demais solicitações; (Incluído pela Lei nº 13.134, de 2015)\n\nII - (Revogado); (Redação dada pela Lei nº 13.134, de 2015)\n\nIII - não estar em gozo de qualquer benefício previdenciário de prestação continuada, previsto no Regulamento dos Benefícios da Previdência Social, excetuado o auxílio-acidente e o auxílio suplementar previstos na Lei nº 6.367, de 19 de outubro de 1976, bem como o abono de permanência em serviço previsto na Lei nº 5.890, de 8 de junho de 1973;\n\nIV - não estar em gozo do auxílio-desemprego; e\n\nV - não possuir renda própria de qualquer natureza suficiente à sua manutenção e de sua família.\n\nVI - matrícula e frequência, quando aplicável, nos termos do regulamento, em curso de formação inicial e continuada ou de qualificação profissional habilitado pelo Ministério da Educação, nos termos do art. 18 da Lei no 12.513, de 26 de outubro de 2011, ofertado por meio da Bolsa-Formação Trabalhador concedida no âmbito do Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec), instituído pela Lei no 12.513, de 26 de outubro de 2011, ou de vagas gratuitas na rede de educação profissional e tecnológica. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 1o A União poderá condicionar o recebimento da assistência financeira do Programa de Seguro-Desemprego à comprovação da matrícula e da frequência do trabalhador segurado em curso de formação inicial e continuada ou qualificação profissional, com carga horária mínima de 160 (cento e sessenta) horas. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 2o O Poder Executivo regulamentará os critérios e requisitos para a concessão da assistência financeira do Programa de Seguro-Desemprego nos casos previstos no § 1o, considerando a disponibilidade de bolsas-formação no âmbito do Pronatec ou de vagas gratuitas na rede de educação profissional e tecnológica para o cumprimento da condicionalidade pelos respectivos beneficiários. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 3o A oferta de bolsa para formação dos trabalhadores de que trata este artigo considerará, entre outros critérios, a capacidade de oferta, a reincidência no recebimento do benefício, o nível de escolaridade e a faixa etária do trabalhador. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 4o O registro como Microempreendedor Individual - MEI, de que trata o art. 18-A da Lei Complementar no 123, de 14 de dezembro de 2006, não comprovará renda própria suficiente à manutenção da família, exceto se demonstrado na declaração anual simplificada da microempresa individual. (Incluído pela Lei Complementar nº 155, de 2016) Produção de efeito\n\nArt. 3o-A. A periodicidade, os valores, o cálculo do número de parcelas e os demais procedimentos operacionais de pagamento da bolsa de qualificação profissional, nos termos do art. 2o-A desta Lei, bem como os pré-requisitos para habilitação serão os mesmos adotados em relação ao benefício do Seguro-Desemprego, exceto quanto à dispensa sem justa causa. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%203%C2%BA%20Ter%C3%A1%20direito%20%C3%A0%20percep%C3%A7%C3%A3o%20do%20seguro-desemprego%20o%20trabalhador%20dispensado%20sem%20justa%20causa%20que%20comprove%3A",
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. Para efeito do disposto no inciso II do art. 2o, fica instituída a bolsa de qualificação profissional, a ser custeada pelo Fundo de Amparo ao Trabalhador - FAT, à qual fará jus o trabalhador que estiver com o contrato de trabalho suspenso em virtude de participação em curso ou programa de qualificação profissional oferecido pelo empregador, em conformidade com o disposto em convenção ou acordo coletivo celebrado para este fim. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%202o-A.%20Para%20efeito%20do%20disposto%20no%20inciso%20II%20do%20art.%202o%2C%20fica%20institu%C3%ADda%20a%20bolsa%20de%20qualifica%C3%A7%C3%A3o%20profissional%2C%20a%20ser%20custeada",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -57,12 +57,60 @@
         "section_name": null
       },
       "prev": "2",
-      "next": "4"
+      "next": "2-B"
     },
-    "4": {
-      "numero": "4",
-      "texto": "Art. 4o O benefício do seguro-desemprego será concedido ao trabalhador desempregado, por período máximo variável de 3 (três) a 5 (cinco) meses, de forma contínua ou alternada, a cada período aquisitivo, contados da data de dispensa que deu origem à última habilitação, cuja duração será definida pelo Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat). (Redação dada pela Lei nº 13.134, de 2015)\n\n§ 1o O benefício do seguro-desemprego poderá ser retomado a cada novo período aquisitivo, satisfeitas as condições arroladas nos incisos I, III, IV e V do caput do art. 3o. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 2o A determinação do período máximo mencionado no caput observará a seguinte relação entre o número de parcelas mensais do benefício do seguro-desemprego e o tempo de serviço do trabalhador nos 36 (trinta e seis) meses que antecederem a data de dispensa que originou o requerimento do seguro-desemprego, vedado o cômputo de vínculos empregatícios utilizados em períodos aquisitivos anteriores: (Incluído pela Lei nº 13.134, de 2015)\n\nI - para a primeira solicitação: (Incluído pela Lei nº 13.134, de 2015)\n\na) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou (Incluído pela Lei nº 13.134, de 2015)\n\nb) 5 (cinco) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 24 (vinte e quatro) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nII - para a segunda solicitação: (Incluído pela Lei nº 13.134, de 2015)\n\na) 3 (três) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 9 (nove) meses e, no máximo, 11 (onze) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nb) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou (Incluído pela Lei nº 13.134, de 2015)\n\nc) 5 (cinco) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 24 (vinte e quatro) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nIII - a partir da terceira solicitação: (Incluído pela Lei nº 13.134, de 2015)\n\na) 3 (três) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 6 (seis) meses e, no máximo, 11 (onze) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nb) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou (Incluído pela Lei nº 13.134, de 2015)\n\nc) 5 (cinco) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 24 (vinte e quatro) meses, no período de referência. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 3o A fração igual ou superior a 15 (quinze) dias de trabalho será havida como mês integral para os efeitos do § 2o. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 4o Nos casos em que o cálculo da parcela do seguro-desemprego resultar em valores decimais, o valor a ser pago deverá ser arredondado para a unidade inteira imediatamente superior. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 5o O período máximo de que trata o caput poderá ser excepcionalmente prolongado por até 2 (dois) meses, para grupos específicos de segurados, a critério do Codefat, desde que o gasto adicional representado por esse prolongamento não ultrapasse, em cada semestre, 10% (dez por cento) do montante da reserva mínima de liquidez de que trata o § 2o do art. 9o da Lei no 8.019, de 11 de abril de 1990. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 6o Na hipótese de prolongamento do período máximo de percepção do benefício do seguro-desemprego, o Codefat observará, entre outras variáveis, a evolução geográfica e setorial das taxas de desemprego no País e o tempo médio de desemprego de grupos específicos de trabalhadores. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 7o O Codefat observará as estatísticas do mercado de trabalho, inclusive o tempo médio de permanência no emprego, por setor, e recomendará ao Ministro de Estado do Trabalho e Emprego a adoção de políticas públicas que julgar adequadas à mitigação da alta rotatividade no emprego. (Incluído pela Lei nº 13.134, de 2015)\n\nArt. 4o-A. (VETADO). (Incluído pela Lei nº 13.134, de 2015)",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%204o%20O%20benef%C3%ADcio%20do%20seguro-desemprego%20ser%C3%A1%20concedido%20ao%20trabalhador%20desempregado%2C%20por%20per%C3%ADodo%20m%C3%A1ximo%20vari%C3%A1vel%20de%203%20%28tr%C3%AAs%29%20a%205%20%28cinco%29%20meses%2C",
+    "2-B": {
+      "numero": "2-B",
+      "texto": "Art. 2o-B. (Revogado pela Lei nº 13.134, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%202o-B.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.134%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "2-C"
+    },
+    "2-C": {
+      "numero": "2-C",
+      "texto": "Art. 2º-C. O trabalhador que vier a ser identificado como submetido a regime de trabalho forçado ou reduzido a condição análoga à de escravo, em decorrência de ação de fiscalização do Ministério do Trabalho e Emprego, será dessa situação resgatado e terá direito à percepção de 6 (seis) parcelas de seguro-desemprego no valor de 1 (um) salário mínimo cada, conforme o disposto no § 2º deste artigo. (Redação dada pela Lei nº 15.455, de 2026)\n\n§ 1o O trabalhador resgatado nos termos do caput deste artigo será encaminhado, pelo Ministério do Trabalho e Emprego, para qualificação profissional e recolocação no mercado de trabalho, por meio do Sistema Nacional de Emprego - SINE, na forma estabelecida pelo Conselho Deliberativo do Fundo de Amparo ao Trabalhador - CODEFAT. (Incluído pela Lei nº 10.608, de 20.12.2002)\n\n§ 2o Caberá ao CODEFAT, por proposta do Ministro de Estado do Trabalho e Emprego, estabelecer os procedimentos necessários ao recebimento do benefício previsto no caput deste artigo, observados os respectivos limites de comprometimento dos recursos do FAT, ficando vedado ao mesmo trabalhador o recebimento do benefício, em circunstâncias similares, nos doze meses seguintes à percepção da última parcela. (Incluído pela Lei nº 10.608, de 20.12.2002)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%202%C2%BA-C.%20O%20trabalhador%20que%20vier%20a%20ser%20identificado%20como%20submetido%20a%20regime%20de%20trabalho%20for%C3%A7ado%20ou%20reduzido%20a%20condi%C3%A7%C3%A3o%20an%C3%A1loga%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-B",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Terá direito à percepção do seguro-desemprego o trabalhador dispensado sem justa causa que comprove:\n\nI - ter recebido salários de pessoa jurídica ou de pessoa física a ela equiparada, relativos a: (Redação dada pela Lei nº 13.134, de 2015)\n\na) pelo menos 12 (doze) meses nos últimos 18 (dezoito) meses imediatamente anteriores à data de dispensa, quando da primeira solicitação; (Incluído pela Lei nº 13.134, de 2015)\n\nb) pelo menos 9 (nove) meses nos últimos 12 (doze) meses imediatamente anteriores à data de dispensa, quando da segunda solicitação; e (Incluído pela Lei nº 13.134, de 2015)\n\nc) cada um dos 6 (seis) meses imediatamente anteriores à data de dispensa, quando das demais solicitações; (Incluído pela Lei nº 13.134, de 2015)\n\nII - (Revogado); (Redação dada pela Lei nº 13.134, de 2015)\n\nIII - não estar em gozo de qualquer benefício previdenciário de prestação continuada, previsto no Regulamento dos Benefícios da Previdência Social, excetuado o auxílio-acidente e o auxílio suplementar previstos na Lei nº 6.367, de 19 de outubro de 1976, bem como o abono de permanência em serviço previsto na Lei nº 5.890, de 8 de junho de 1973;\n\nIV - não estar em gozo do auxílio-desemprego; e\n\nV - não possuir renda própria de qualquer natureza suficiente à sua manutenção e de sua família.\n\nVI - matrícula e frequência, quando aplicável, nos termos do regulamento, em curso de formação inicial e continuada ou de qualificação profissional habilitado pelo Ministério da Educação, nos termos do art. 18 da Lei no 12.513, de 26 de outubro de 2011, ofertado por meio da Bolsa-Formação Trabalhador concedida no âmbito do Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec), instituído pela Lei no 12.513, de 26 de outubro de 2011, ou de vagas gratuitas na rede de educação profissional e tecnológica. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 1o A União poderá condicionar o recebimento da assistência financeira do Programa de Seguro-Desemprego à comprovação da matrícula e da frequência do trabalhador segurado em curso de formação inicial e continuada ou qualificação profissional, com carga horária mínima de 160 (cento e sessenta) horas. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 2o O Poder Executivo regulamentará os critérios e requisitos para a concessão da assistência financeira do Programa de Seguro-Desemprego nos casos previstos no § 1o, considerando a disponibilidade de bolsas-formação no âmbito do Pronatec ou de vagas gratuitas na rede de educação profissional e tecnológica para o cumprimento da condicionalidade pelos respectivos beneficiários. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 3o A oferta de bolsa para formação dos trabalhadores de que trata este artigo considerará, entre outros critérios, a capacidade de oferta, a reincidência no recebimento do benefício, o nível de escolaridade e a faixa etária do trabalhador. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 4o O registro como Microempreendedor Individual - MEI, de que trata o art. 18-A da Lei Complementar no 123, de 14 de dezembro de 2006, não comprovará renda própria suficiente à manutenção da família, exceto se demonstrado na declaração anual simplificada da microempresa individual. (Incluído pela Lei Complementar nº 155, de 2016) Produção de efeito",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%203%C2%BA%20Ter%C3%A1%20direito%20%C3%A0%20percep%C3%A7%C3%A3o%20do%20seguro-desemprego%20o%20trabalhador%20dispensado%20sem%20justa%20causa%20que%20comprove%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-C",
+      "next": "3-A"
+    },
+    "3-A": {
+      "numero": "3-A",
+      "texto": "Art. 3o-A. A periodicidade, os valores, o cálculo do número de parcelas e os demais procedimentos operacionais de pagamento da bolsa de qualificação profissional, nos termos do art. 2o-A desta Lei, bem como os pré-requisitos para habilitação serão os mesmos adotados em relação ao benefício do Seguro-Desemprego, exceto quanto à dispensa sem justa causa. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%203o-A.%20A%20periodicidade%2C%20os%20valores%2C%20o%20c%C3%A1lculo%20do%20n%C3%BAmero%20de%20parcelas%20e%20os%20demais%20procedimentos%20operacionais%20de%20pagamento%20da%20bolsa%20de",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -73,6 +121,38 @@
         "section_name": null
       },
       "prev": "3",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O benefício do seguro-desemprego será concedido ao trabalhador desempregado, por período máximo variável de 3 (três) a 5 (cinco) meses, de forma contínua ou alternada, a cada período aquisitivo, contados da data de dispensa que deu origem à última habilitação, cuja duração será definida pelo Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat). (Redação dada pela Lei nº 13.134, de 2015)\n\n§ 1o O benefício do seguro-desemprego poderá ser retomado a cada novo período aquisitivo, satisfeitas as condições arroladas nos incisos I, III, IV e V do caput do art. 3o. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 2o A determinação do período máximo mencionado no caput observará a seguinte relação entre o número de parcelas mensais do benefício do seguro-desemprego e o tempo de serviço do trabalhador nos 36 (trinta e seis) meses que antecederem a data de dispensa que originou o requerimento do seguro-desemprego, vedado o cômputo de vínculos empregatícios utilizados em períodos aquisitivos anteriores: (Incluído pela Lei nº 13.134, de 2015)\n\nI - para a primeira solicitação: (Incluído pela Lei nº 13.134, de 2015)\n\na) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou (Incluído pela Lei nº 13.134, de 2015)\n\nb) 5 (cinco) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 24 (vinte e quatro) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nII - para a segunda solicitação: (Incluído pela Lei nº 13.134, de 2015)\n\na) 3 (três) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 9 (nove) meses e, no máximo, 11 (onze) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nb) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou (Incluído pela Lei nº 13.134, de 2015)\n\nc) 5 (cinco) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 24 (vinte e quatro) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nIII - a partir da terceira solicitação: (Incluído pela Lei nº 13.134, de 2015)\n\na) 3 (três) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 6 (seis) meses e, no máximo, 11 (onze) meses, no período de referência; (Incluído pela Lei nº 13.134, de 2015)\n\nb) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou (Incluído pela Lei nº 13.134, de 2015)\n\nc) 5 (cinco) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 24 (vinte e quatro) meses, no período de referência. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 3o A fração igual ou superior a 15 (quinze) dias de trabalho será havida como mês integral para os efeitos do § 2o. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 4o Nos casos em que o cálculo da parcela do seguro-desemprego resultar em valores decimais, o valor a ser pago deverá ser arredondado para a unidade inteira imediatamente superior. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 5o O período máximo de que trata o caput poderá ser excepcionalmente prolongado por até 2 (dois) meses, para grupos específicos de segurados, a critério do Codefat, desde que o gasto adicional representado por esse prolongamento não ultrapasse, em cada semestre, 10% (dez por cento) do montante da reserva mínima de liquidez de que trata o § 2o do art. 9o da Lei no 8.019, de 11 de abril de 1990. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 6o Na hipótese de prolongamento do período máximo de percepção do benefício do seguro-desemprego, o Codefat observará, entre outras variáveis, a evolução geográfica e setorial das taxas de desemprego no País e o tempo médio de desemprego de grupos específicos de trabalhadores. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 7o O Codefat observará as estatísticas do mercado de trabalho, inclusive o tempo médio de permanência no emprego, por setor, e recomendará ao Ministro de Estado do Trabalho e Emprego a adoção de políticas públicas que julgar adequadas à mitigação da alta rotatividade no emprego. (Incluído pela Lei nº 13.134, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%204o%20O%20benef%C3%ADcio%20do%20seguro-desemprego%20ser%C3%A1%20concedido%20ao%20trabalhador%20desempregado%2C%20por%20per%C3%ADodo%20m%C3%A1ximo%20vari%C3%A1vel%20de%203%20%28tr%C3%AAs%29%20a%205%20%28cinco%29%20meses%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-A",
+      "next": "4-A"
+    },
+    "4-A": {
+      "numero": "4-A",
+      "texto": "Art. 4o-A. (VETADO). (Incluído pela Lei nº 13.134, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%204o-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.134%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
       "next": "5"
     },
     "5": {
@@ -88,7 +168,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "4",
+      "prev": "4-A",
       "next": "6"
     },
     "6": {
@@ -109,7 +189,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7º O pagamento do benefício do seguro-desemprego será suspenso nas seguintes situações:\n\nI - admissão do trabalhador em novo emprego;\n\nII - início de percepção de benefício de prestação continuada da Previdência Social, exceto o auxílio-acidente, o auxílio suplementar e o abono de permanência em serviço;\n\nIII - início de percepção de auxílio-desemprego.\n\nIV - recusa injustificada por parte do trabalhador desempregado em participar de ações de recolocação de emprego, conforme regulamentação do Codefat. (Incluído pela Lei nº 13.134, de 2015)\n\nArt. 7o-A. O pagamento da bolsa de qualificação profissional será suspenso se ocorrer a rescisão do contrato de trabalho. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "texto": "Art. 7º O pagamento do benefício do seguro-desemprego será suspenso nas seguintes situações:\n\nI - admissão do trabalhador em novo emprego;\n\nII - início de percepção de benefício de prestação continuada da Previdência Social, exceto o auxílio-acidente, o auxílio suplementar e o abono de permanência em serviço;\n\nIII - início de percepção de auxílio-desemprego.\n\nIV - recusa injustificada por parte do trabalhador desempregado em participar de ações de recolocação de emprego, conforme regulamentação do Codefat. (Incluído pela Lei nº 13.134, de 2015)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%207%C2%BA%20O%20pagamento%20do%20benef%C3%ADcio%20do%20seguro-desemprego%20ser%C3%A1%20suspenso%20nas%20seguintes%20situa%C3%A7%C3%B5es%3A",
       "keywords": [],
       "hierarchy": {
@@ -121,12 +201,12 @@
         "section_name": null
       },
       "prev": "6",
-      "next": "8"
+      "next": "7-A"
     },
-    "8": {
-      "numero": "8",
-      "texto": "Art. 8o O benefício do seguro-desemprego será cancelado: (Redação dada pela Lei nº 12.513, de 2011)\n\nI - pela recusa por parte do trabalhador desempregado de outro emprego condizente com sua qualificação registrada ou declarada e com sua remuneração anterior; (Redação dada pela Lei nº 12.513, de 2011)\n\nII - por comprovação de falsidade na prestação das informações necessárias à habilitação; (Redação dada pela Lei nº 12.513, de 2011)\n\nIII - por comprovação de fraude visando à percepção indevida do benefício do seguro-desemprego; ou (Redação dada pela Lei nº 12.513, de 2011)\n\nIV - por morte do segurado. (Redação dada pela Lei nº 12.513, de 2011)\n\n§ 1o Nos casos previstos nos incisos I a III deste artigo, será suspenso por um período de 2 (dois) anos, ressalvado o prazo de carência, o direito do trabalhador à percepção do seguro-desemprego, dobrando-se este período em caso de reincidência. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 2o O benefício poderá ser cancelado na hipótese de o beneficiário deixar de cumprir a condicionalidade de que trata o § 1o do art. 3o desta Lei, na forma do regulamento. (Incluído pela Lei nº 12.513, de 2011)\n\nArt. 8o-A. O benefício da bolsa de qualificação profissional será cancelado nas seguintes situações: (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nI - fim da suspensão contratual e retorno ao trabalho; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nII - por comprovação de falsidade na prestação das informações necessárias à habilitação; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nIII - por comprovação de fraude visando à percepção indevida da bolsa de qualificação profissional; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nIV - por morte do beneficiário. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nArt. 8o-B. Na hipótese prevista no § 5o do art. 476-A da Consolidação das Leis do Trabalho - CLT, as parcelas da bolsa de qualificação profissional que o empregado tiver recebido serão descontadas das parcelas do benefício do Seguro-Desemprego a que fizer jus, sendo-lhe garantido, no mínimo, o recebimento de uma parcela do Seguro-Desemprego. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nArt. 8o-C. Para efeito de habilitação ao Seguro-Desemprego, desconsiderar-se-á o período de suspensão contratual de que trata o art. 476-A da CLT, para o cálculo dos períodos de que tratam os incisos I e II do art. 3o desta Lei. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nDo Abono Salarial",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%208o%20O%20benef%C3%ADcio%20do%20seguro-desemprego%20ser%C3%A1%20cancelado%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2012.513%2C%20de%202011%29",
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7o-A. O pagamento da bolsa de qualificação profissional será suspenso se ocorrer a rescisão do contrato de trabalho. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%207o-A.%20O%20pagamento%20da%20bolsa%20de%20qualifica%C3%A7%C3%A3o%20profissional%20ser%C3%A1%20suspenso%20se%20ocorrer%20a%20rescis%C3%A3o%20do%20contrato%20de%20trabalho.%20%28Inclu%C3%ADdo%20pela%20Medida",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -137,12 +217,28 @@
         "section_name": null
       },
       "prev": "7",
-      "next": "9"
+      "next": "8"
     },
-    "9": {
-      "numero": "9",
-      "texto": "Art. 9o É assegurado o recebimento de abono salarial anual, no valor máximo de 1 (um) salário-mínimo vigente na data do respectivo pagamento, aos empregados que: (Redação dada pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\nI - tenham percebido, de empregadores que contribuem para o Programa de Integração Social (PIS) ou para o Programa de Formação do Patrimônio do Servidor Público (Pasep), até 2 (dois) salários mínimos médios de remuneração mensal no período trabalhado e que tenham exercido atividade remunerada pelo menos durante 30 (trinta) dias no ano-base;\n\nII - estejam cadastrados há pelo menos 5 (cinco) anos no Fundo de Participação PIS-Pasep ou no Cadastro Nacional do Trabalhador.\n\nParágrafo único. (Revogado pela Medida Provisória nº 665, de 2014)\n\n§ 1o No caso de beneficiários integrantes do Fundo de Participação PIS-Pasep, serão computados no valor do abono salarial os rendimentos proporcionados pelas respectivas contas individuais. (Incluído pela Medida Provisória nº 665, de 2014)\n\n§ 2o O valor do abono salarial anual de que trata o caput será calculado na proporção de 1/12 (um doze avos) do valor do salário-mínimo vigente na data do respectivo pagamento, multiplicado pelo número de meses trabalhados no ano correspondente. (Incluído pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\n§ 3o A fração igual ou superior a 15 (quinze) dias de trabalho será contada como mês integral para os efeitos do § 2o deste artigo. (Incluído pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\n§ 4o O valor do abono salarial será emitido em unidades inteiras de moeda corrente, com a suplementação das partes decimais até a unidade inteira imediatamente superior. (Incluído pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\nArt. 9o-A. O abono será pago pelo Banco do Brasil S.A. e pela Caixa Econômica Federal mediante: (Incluído pela Lei nº 13.134, de 2015)\n\nI - depósito em nome do trabalhador; (Incluído pela Lei nº 13.134, de 2015)\n\nII - saque em espécie; ou (Incluído pela Lei nº 13.134, de 2015)\n\nIII - folha de salários. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 1o Ao Banco do Brasil S.A. caberá o pagamento aos servidores e empregados dos contribuintes mencionados no art. 14 do Decreto-Lei no 2.052, de 3 de agosto de 1983, e à Caixa Econômica Federal, aos empregados dos contribuintes a que se refere o art. 15 desse Decreto-Lei. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 2o As instituições financeiras pagadoras manterão em seu poder, à disposição das autoridades fazendárias, por processo que possibilite sua imediata recuperação, os comprovantes de pagamentos efetuados. (Incluído pela Lei nº 13.134, de 2015)\n\nDo Fundo de Amparo ao Trabalhador",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%209o%20%C3%89%20assegurado%20o%20recebimento%20de%20abono%20salarial%20anual%2C%20no%20valor%20m%C3%A1ximo%20de%201%20%28um%29%20sal%C3%A1rio-m%C3%ADnimo%20vigente%20na%20data%20do%20respectivo",
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o O benefício do seguro-desemprego será cancelado: (Redação dada pela Lei nº 12.513, de 2011)\n\nI - pela recusa por parte do trabalhador desempregado de outro emprego condizente com sua qualificação registrada ou declarada e com sua remuneração anterior; (Redação dada pela Lei nº 12.513, de 2011)\n\nII - por comprovação de falsidade na prestação das informações necessárias à habilitação; (Redação dada pela Lei nº 12.513, de 2011)\n\nIII - por comprovação de fraude visando à percepção indevida do benefício do seguro-desemprego; ou (Redação dada pela Lei nº 12.513, de 2011)\n\nIV - por morte do segurado. (Redação dada pela Lei nº 12.513, de 2011)\n\n§ 1o Nos casos previstos nos incisos I a III deste artigo, será suspenso por um período de 2 (dois) anos, ressalvado o prazo de carência, o direito do trabalhador à percepção do seguro-desemprego, dobrando-se este período em caso de reincidência. (Incluído pela Lei nº 12.513, de 2011)\n\n§ 2o O benefício poderá ser cancelado na hipótese de o beneficiário deixar de cumprir a condicionalidade de que trata o § 1o do art. 3o desta Lei, na forma do regulamento. (Incluído pela Lei nº 12.513, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%208o%20O%20benef%C3%ADcio%20do%20seguro-desemprego%20ser%C3%A1%20cancelado%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2012.513%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7-A",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8o-A. O benefício da bolsa de qualificação profissional será cancelado nas seguintes situações: (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nI - fim da suspensão contratual e retorno ao trabalho; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nII - por comprovação de falsidade na prestação das informações necessárias à habilitação; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nIII - por comprovação de fraude visando à percepção indevida da bolsa de qualificação profissional; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nIV - por morte do beneficiário. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%208o-A.%20O%20benef%C3%ADcio%20da%20bolsa%20de%20qualifica%C3%A7%C3%A3o%20profissional%20ser%C3%A1%20cancelado%20nas%20seguintes%20situa%C3%A7%C3%B5es%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%202.164-41%2C%20de%202001%29",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -153,6 +249,70 @@
         "section_name": null
       },
       "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8o-B. Na hipótese prevista no § 5o do art. 476-A da Consolidação das Leis do Trabalho - CLT, as parcelas da bolsa de qualificação profissional que o empregado tiver recebido serão descontadas das parcelas do benefício do Seguro-Desemprego a que fizer jus, sendo-lhe garantido, no mínimo, o recebimento de uma parcela do Seguro-Desemprego. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%208o-B.%20Na%20hip%C3%B3tese%20prevista%20no%20%C2%A7%205o%20do%20art.%20476-A%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%2C%20as%20parcelas%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-A",
+      "next": "8-C"
+    },
+    "8-C": {
+      "numero": "8-C",
+      "texto": "Art. 8o-C. Para efeito de habilitação ao Seguro-Desemprego, desconsiderar-se-á o período de suspensão contratual de que trata o art. 476-A da CLT, para o cálculo dos períodos de que tratam os incisos I e II do art. 3o desta Lei. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nDo Abono Salarial",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%208o-C.%20Para%20efeito%20de%20habilita%C3%A7%C3%A3o%20ao%20Seguro-Desemprego%2C%20desconsiderar-se-%C3%A1%20o%20per%C3%ADodo%20de%20suspens%C3%A3o%20contratual%20de%20que%20trata%20o%20art.%20476-A%20da%20CLT%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-B",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o É assegurado o recebimento de abono salarial anual, no valor máximo de 1 (um) salário-mínimo vigente na data do respectivo pagamento, aos empregados que: (Redação dada pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\nI - tenham percebido, de empregadores que contribuem para o Programa de Integração Social (PIS) ou para o Programa de Formação do Patrimônio do Servidor Público (Pasep), até 2 (dois) salários mínimos médios de remuneração mensal no período trabalhado e que tenham exercido atividade remunerada pelo menos durante 30 (trinta) dias no ano-base;\n\nII - estejam cadastrados há pelo menos 5 (cinco) anos no Fundo de Participação PIS-Pasep ou no Cadastro Nacional do Trabalhador.\n\nParágrafo único. (Revogado pela Medida Provisória nº 665, de 2014)\n\n§ 1o No caso de beneficiários integrantes do Fundo de Participação PIS-Pasep, serão computados no valor do abono salarial os rendimentos proporcionados pelas respectivas contas individuais. (Incluído pela Medida Provisória nº 665, de 2014)\n\n§ 2o O valor do abono salarial anual de que trata o caput será calculado na proporção de 1/12 (um doze avos) do valor do salário-mínimo vigente na data do respectivo pagamento, multiplicado pelo número de meses trabalhados no ano correspondente. (Incluído pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\n§ 3o A fração igual ou superior a 15 (quinze) dias de trabalho será contada como mês integral para os efeitos do § 2o deste artigo. (Incluído pela Lei nº 13.134, de 2015) (Produção de efeitos)\n\n§ 4o O valor do abono salarial será emitido em unidades inteiras de moeda corrente, com a suplementação das partes decimais até a unidade inteira imediatamente superior. (Incluído pela Lei nº 13.134, de 2015) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%209o%20%C3%89%20assegurado%20o%20recebimento%20de%20abono%20salarial%20anual%2C%20no%20valor%20m%C3%A1ximo%20de%201%20%28um%29%20sal%C3%A1rio-m%C3%ADnimo%20vigente%20na%20data%20do%20respectivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-C",
+      "next": "9-A"
+    },
+    "9-A": {
+      "numero": "9-A",
+      "texto": "Art. 9o-A. O abono será pago pelo Banco do Brasil S.A. e pela Caixa Econômica Federal mediante: (Incluído pela Lei nº 13.134, de 2015)\n\nI - depósito em nome do trabalhador; (Incluído pela Lei nº 13.134, de 2015)\n\nII - saque em espécie; ou (Incluído pela Lei nº 13.134, de 2015)\n\nIII - folha de salários. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 1o Ao Banco do Brasil S.A. caberá o pagamento aos servidores e empregados dos contribuintes mencionados no art. 14 do Decreto-Lei no 2.052, de 3 de agosto de 1983, e à Caixa Econômica Federal, aos empregados dos contribuintes a que se refere o art. 15 desse Decreto-Lei. (Incluído pela Lei nº 13.134, de 2015)\n\n§ 2o As instituições financeiras pagadoras manterão em seu poder, à disposição das autoridades fazendárias, por processo que possibilite sua imediata recuperação, os comprovantes de pagamentos efetuados. (Incluído pela Lei nº 13.134, de 2015)\n\nDo Fundo de Amparo ao Trabalhador",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm#:~:text=Art.%209o-A.%20O%20abono%20ser%C3%A1%20pago%20pelo%20Banco%20do%20Brasil%20S.A.%20e%20pela%20Caixa%20Econ%C3%B4mica%20Federal%20mediante%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.134%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
       "next": "10"
     },
     "10": {
@@ -168,7 +328,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "9",
+      "prev": "9-A",
       "next": "11"
     },
     "11": {

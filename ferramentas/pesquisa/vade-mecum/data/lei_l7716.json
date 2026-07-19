@@ -4,7 +4,7 @@
     "nome": "Racismo",
     "lei": "Lei 7.716/1989",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm",
-    "total_artigos": 26,
+    "total_artigos": 27,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -29,7 +29,7 @@
     },
     "2": {
       "numero": "2",
-      "texto": "Art. 2º (Vetado).\n\nArt. 2º-A Injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia ou procedência nacional. (Incluído pela Lei nº 14.532, de 2023)\n\nPena: reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Incluído pela Lei nº 14.532, de 2023)\n\nParágrafo único. A pena é aumentada de metade se o crime for cometido mediante concurso de 2 (duas) ou mais pessoas. (Incluído pela Lei nº 14.532, de 2023)",
+      "texto": "Art. 2º (Vetado).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm#:~:text=Art.%202%C2%BA%20%28Vetado%29.",
       "keywords": [],
       "hierarchy": {
@@ -41,6 +41,22 @@
         "section_name": null
       },
       "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2º-A Injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia ou procedência nacional. (Incluído pela Lei nº 14.532, de 2023)\n\nPena: reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Incluído pela Lei nº 14.532, de 2023)\n\nParágrafo único. A pena é aumentada de metade se o crime for cometido mediante concurso de 2 (duas) ou mais pessoas. (Incluído pela Lei nº 14.532, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm#:~:text=Art.%202%C2%BA-A%20Injuriar%20algu%C3%A9m%2C%20ofendendo-lhe%20a%20dignidade%20ou%20o%20decoro%2C%20em%20raz%C3%A3o%20de%20ra%C3%A7a%2C%20cor%2C%20etnia%20ou%20proced%C3%AAncia%20nacional.%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
       "next": "3"
     },
     "3": {
@@ -56,7 +72,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "2",
+      "prev": "2-A",
       "next": "4"
     },
     "4": {

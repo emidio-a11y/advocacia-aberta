@@ -4,7 +4,7 @@
     "nome": "Programa de Alimentação do Trabalhador (PAT)",
     "lei": "Lei 6.321/1976",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm",
-    "total_artigos": 5,
+    "total_artigos": 7,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -25,6 +25,22 @@
         "section_name": null
       },
       "prev": null,
+      "next": "1-A"
+    },
+    "1-A": {
+      "numero": "1-A",
+      "texto": "Art. 1º-A. Os serviços de pagamentos de alimentação contratados para execução dos programas de alimentação de que trata esta Lei observarão o seguinte: (Incluído pela Lei nº 14.442, de 2022)\n\nI - a operacionalização por meio de arranjo de pagamento fechado ou aberto, devendo as empresas organizadas na forma de arranjo de pagamento fechado permitir a interoperabilidade entre si e com arranjos abertos, indistintamente, com o objetivo de compartilhar a rede credenciada de estabelecimentos comerciais, a partir de 1º de maio de 2023; (Incluído pela Lei nº 14.442, de 2022)\n\nI - a operacionalização por meio de arranjo de pagamento fechado ou aberto, devendo as empresas organizadas na forma de arranjo de pagamento fechado permitir a interoperabilidade entre si e com arranjos abertos, indistintamente, com o objetivo de compartilhar a rede credenciada de estabelecimentos comerciais, a partir de 1º de maio de 2024; e (Redação dada pela Medida Provisória nº 1.173, de 2023) Vigência encerrada\n\nI - a operacionalização por meio de arranjo de pagamento fechado ou aberto, devendo as empresas organizadas na forma de arranjo de pagamento fechado permitir a interoperabilidade entre si e com arranjos abertos, indistintamente, com o objetivo de compartilhar a rede credenciada de estabelecimentos comerciais, a partir de 1º de maio de 2023; (Incluído pela Lei nº 14.442, de 2022)\n\nII - a portabilidade gratuita do serviço, mediante solicitação expressa do trabalhador, além de outras normas fixadas em decreto do Poder Executivo, a partir de 1º de maio de 2023; (Incluído pela Lei nº 14.442, de 2022)\n\nII - a portabilidade dos serviços será gratuita e ocorrerá por meio de solicitação expressa do trabalhador, conforme o disposto em ato do Poder Executivo federal, a partir de 1º de maio de 2024; (Redação dada pela Medida Provisória nº 1.173, de 2023) Vigência encerrada\n\nII - a portabilidade gratuita do serviço, mediante solicitação expressa do trabalhador, além de outras normas fixadas em decreto do Poder Executivo, a partir de 1º de maio de 2023; (Incluído pela Lei nº 14.442, de 2022)\n\nIII - (VETADO). (Incluído pela Lei nº 14.442, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art.%201%C2%BA-A.%20Os%20servi%C3%A7os%20de%20pagamentos%20de%20alimenta%C3%A7%C3%A3o%20contratados%20para%20execu%C3%A7%C3%A3o%20dos%20programas%20de%20alimenta%C3%A7%C3%A3o%20de%20que%20trata%20esta%20Lei%20observar%C3%A3o%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
       "next": "2"
     },
     "2": {
@@ -40,12 +56,12 @@
         "section": null,
         "section_name": null
       },
-      "prev": "1",
+      "prev": "1-A",
       "next": "3"
     },
     "3": {
       "numero": "3",
-      "texto": "Art 3º Não se inclui como salário de contribuição a parcela paga in natura , pela empresa, nos programas de alimentação aprovados pelo Ministério do Trabalho.\n\nArt. 3º-A A execução inadequada, o desvio ou o desvirtuamento das finalidades dos programas de alimentação do trabalhador pelas pessoas jurídicas beneficiárias ou pelas empresas registradas no Ministério do Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretará: (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nI - a aplicação de multa no valor de R$5.000,00 (cinco mil reais) a R$ 50.000,00 (cinquenta mil reais), aplicada em dobro em caso de reincidência ou embaraço à fiscalização; (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nII - o cancelamento da inscrição da pessoa jurídica beneficiária ou do registro das empresas vinculadas aos programas de alimentação do trabalhador cadastradas no Ministério do Trabalho e Previdência, desde a data da primeira irregularidade passível de cancelamento, conforme estabelecido em ato específico; e (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nIII - a perda do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 1º Os critérios de cálculo e os parâmetros de gradação da multa prevista no inciso I do caput serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 2º O estabelecimento que comercializa produtos não relacionados à alimentação do trabalhador, e a empresa que o credenciou, sujeitam-se à aplicação da multa prevista no inciso I do caput. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 3º Na hipótese do cancelamento previsto no inciso II do caput, nova inscrição ou registro junto ao Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nArt. 3º-A. A execução inadequada, o desvio ou o desvirtuamento das finalidades dos programas de alimentação do trabalhador pelas pessoas jurídicas beneficiárias ou pelas empresas registradas no Ministério do Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretarão: (Incluído pela Lei nº 14.442, de 2022)\n\nI - a aplicação de multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 50.000,00 (cinquenta mil reais), a qual será aplicada em dobro em caso de reincidência ou de embaraço à fiscalização; (Incluído pela Lei nº 14.442, de 2022)\n\nII - o cancelamento da inscrição da pessoa jurídica beneficiária ou do registro das empresas vinculadas aos programas de alimentação do trabalhador cadastradas no Ministério do Trabalho e Previdência, desde a data da primeira irregularidade passível de cancelamento, conforme estabelecido em ato específico; e (Incluído pela Lei nº 14.442, de 2022)\n\nIII - a perda do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II deste caput. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 1º Os critérios de cálculo e os parâmetros de gradação da multa prevista no inciso I do caput deste artigo serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O estabelecimento que comercializa produtos não relacionados à alimentação do trabalhador e a empresa que o credenciou sujeitam-se à aplicação da multa prevista no inciso I do caput deste artigo. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese do cancelamento previsto no inciso II do caput deste artigo, novo registro ou inscrição perante o Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento. (Incluído pela Lei nº 14.442, de 2022)",
+      "texto": "Art 3º Não se inclui como salário de contribuição a parcela paga in natura , pela empresa, nos programas de alimentação aprovados pelo Ministério do Trabalho.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art%203%C2%BA%20N%C3%A3o%20se%20inclui%20como%20sal%C3%A1rio%20de%20contribui%C3%A7%C3%A3o%20a%20parcela%20paga%20in%20natura%20%2C%20pela%20empresa%2C%20nos%20programas%20de%20alimenta%C3%A7%C3%A3o%20aprovados",
       "keywords": [],
       "hierarchy": {
@@ -57,6 +73,22 @@
         "section_name": null
       },
       "prev": "2",
+      "next": "3-A"
+    },
+    "3-A": {
+      "numero": "3-A",
+      "texto": "Art. 3º-A A execução inadequada, o desvio ou o desvirtuamento das finalidades dos programas de alimentação do trabalhador pelas pessoas jurídicas beneficiárias ou pelas empresas registradas no Ministério do Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretará: (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nI - a aplicação de multa no valor de R$5.000,00 (cinco mil reais) a R$ 50.000,00 (cinquenta mil reais), aplicada em dobro em caso de reincidência ou embaraço à fiscalização; (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nII - o cancelamento da inscrição da pessoa jurídica beneficiária ou do registro das empresas vinculadas aos programas de alimentação do trabalhador cadastradas no Ministério do Trabalho e Previdência, desde a data da primeira irregularidade passível de cancelamento, conforme estabelecido em ato específico; e (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nIII - a perda do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 1º Os critérios de cálculo e os parâmetros de gradação da multa prevista no inciso I do caput serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 2º O estabelecimento que comercializa produtos não relacionados à alimentação do trabalhador, e a empresa que o credenciou, sujeitam-se à aplicação da multa prevista no inciso I do caput. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 3º Na hipótese do cancelamento previsto no inciso II do caput, nova inscrição ou registro junto ao Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento. (Incluído pela Medida Provisória nº 1.108, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art.%203%C2%BA-A%20A%20execu%C3%A7%C3%A3o%20inadequada%2C%20o%20desvio%20ou%20o%20desvirtuamento%20das%20finalidades%20dos%20programas%20de%20alimenta%C3%A7%C3%A3o%20do%20trabalhador%20pelas%20pessoas%20jur%C3%ADdicas%20benefici%C3%A1rias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
       "next": "4"
     },
     "4": {
@@ -72,7 +104,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "3",
+      "prev": "3-A",
       "next": "5"
     },
     "5": {

@@ -495,8 +495,10 @@ ARTIGO = re.compile(
     # Páginas antigas do Planalto trazem defeitos tipográficos no rótulo:
     # "Art 4º" sem ponto (Lei 6.001) e "Art . 16." com espaço antes do ponto
     # (Lei 6.880). O ponto é opcional e pode vir espaçado; "Artigo"/"Arts."
-    # continuam fora porque a letra seguinte interrompe o casamento.
-    r"^Art\s*\.?\s*(\d+(?:\.\d{3})*)(?:-([A-Z]))?[ºo°]?(?:\s|\.|$)",
+    # continuam fora porque a letra seguinte interrompe o casamento. O
+    # ordinal pode vir antes do sufixo ("Art. 1º-A", Lei 10.671) ou não
+    # existir ("Art. 121-B", Código Penal).
+    r"^Art\s*\.?\s*(\d+(?:\.\d{3})*)[ºo°]?(?:-([A-Z]))?[ºo°]?(?:\s|\.|$)",
     re.IGNORECASE,
 )
 
@@ -618,12 +620,21 @@ def transformar_legislacao(
             artigo_match = ARTIGO.match(simples)
             if not artigo_match:
                 continue
-            if not tem_ancestral_riscado(paragrafo) and rotulo_inicial_em_link(
-                paragrafo
+            resto = simples[artigo_match.end() :].strip()
+            if re.match(r"^\.{3,}", resto):
+                # Redação pontilhada ("Art. 155. ....."): citação parcial de
+                # dispositivo de outra norma alterada; não é artigo desta lei.
+                continue
+            if (
+                not tem_ancestral_riscado(paragrafo)
+                and rotulo_inicial_em_link(paragrafo)
+                and not re.match(r"^\(?\s*VETADO", resto, re.IGNORECASE)
             ):
                 # Dispositivo citado de outra norma (rótulo com href): não é
                 # artigo desta lei. Parágrafos riscados ficam de fora da regra
-                # para não perder artigos revogados retidos.
+                # para não perder artigos revogados retidos, e artigos vetados
+                # da própria lei (rótulo ligado à mensagem de veto) são
+                # preservados.
                 continue
             numero = numero_artigo(artigo_match)
             blocos = [simples]

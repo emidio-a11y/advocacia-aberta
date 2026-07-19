@@ -1,0 +1,191 @@
+{
+  "_meta": {
+    "codigo": "L9278",
+    "nome": "União Estável (regime jurídico)",
+    "lei": "Lei 9.278/1996",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm",
+    "total_artigos": 11,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º É reconhecida como entidade familiar a convivência duradoura, pública e contínua, de um homem e uma mulher, estabelecida com objetivo de constituição de família.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%201%C2%BA%20%C3%89%20reconhecida%20como%20entidade%20familiar%20a%20conviv%C3%AAncia%20duradoura%2C%20p%C3%BAblica%20e%20cont%C3%ADnua%2C%20de%20um%20homem%20e%20uma%20mulher%2C%20estabelecida%20com%20objetivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° São direitos e deveres iguais dos conviventes:\n\nI - respeito e consideração mútuos;\n\nII - assistência moral e material recíproca;\n\nIII - guarda, sustento e educação dos filhos comuns.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%202%C2%B0%20S%C3%A3o%20direitos%20e%20deveres%20iguais%20dos%20conviventes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%203%C2%B0%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%204%C2%B0%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° Os bens móveis e imóveis adquiridos por um ou por ambos os conviventes, na constância da união estável e a título oneroso, são considerados fruto do trabalho e da colaboração comum, passando a pertencer a ambos, em condomínio e em partes iguais, salvo estipulação contrária em contrato escrito.\n\n§ 1° Cessa a presunção do caput deste artigo se a aquisição patrimonial ocorrer com o produto de bens adquiridos anteriormente ao início da união.\n\n§ 2° A administração do patrimônio comum dos conviventes compete a ambos, salvo estipulação contrária em contrato escrito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%205%C2%B0%20Os%20bens%20m%C3%B3veis%20e%20im%C3%B3veis%20adquiridos%20por%20um%20ou%20por%20ambos%20os%20conviventes%2C%20na%20const%C3%A2ncia%20da%20uni%C3%A3o%20est%C3%A1vel%20e%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%206%C2%B0%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° Dissolvida a união estável por rescisão, a assistência material prevista nesta Lei será prestada por um dos conviventes ao que dela necessitar, a título de alimentos.\n\nParágrafo único. Dissolvida a união estável por morte de um dos conviventes, o sobrevivente terá direito real de habitação, enquanto viver ou não constituir nova união ou casamento, relativamente ao imóvel destinado à residência da família.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%207%C2%B0%20Dissolvida%20a%20uni%C3%A3o%20est%C3%A1vel%20por%20rescis%C3%A3o%2C%20a%20assist%C3%AAncia%20material%20prevista%20nesta%20Lei%20ser%C3%A1%20prestada%20por%20um%20dos%20conviventes%20ao%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8° Os conviventes poderão, de comum acordo e a qualquer tempo, requerer a conversão da união estável em casamento, por requerimento ao Oficial do Registro Civil da Circunscrição de seu domicílio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%208%C2%B0%20Os%20conviventes%20poder%C3%A3o%2C%20de%20comum%20acordo%20e%20a%20qualquer%20tempo%2C%20requerer%20a%20convers%C3%A3o%20da%20uni%C3%A3o%20est%C3%A1vel%20em%20casamento%2C%20por%20requerimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9° Toda a matéria relativa à união estável é de competência do juízo da Vara de Família, assegurado o segredo de justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%209%C2%B0%20Toda%20a%20mat%C3%A9ria%20relativa%20%C3%A0%20uni%C3%A3o%20est%C3%A1vel%20%C3%A9%20de%20compet%C3%AAncia%20do%20ju%C3%ADzo%20da%20Vara%20de%20Fam%C3%ADlia%2C%20assegurado%20o%20segredo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%2010.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Revogam-se as disposições em contrário.\n\nBrasília, 10 de maio de 1996; 175º da Independência e 108º da República.\n\nFERNANDO HENRIQUE CARDOSO Milton Seligman\n\nEste texto não substitui o publicado no DOU de 13.5.1996\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm#:~:text=Art.%2011.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": null
+    }
+  }
+}

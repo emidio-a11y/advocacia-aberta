@@ -4,7 +4,7 @@
     "nome": "Organização Criminosa",
     "lei": "Lei 12.850/2013",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
-    "total_artigos": 33,
+    "total_artigos": 36,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -57,6 +57,54 @@
         "section_name": null
       },
       "prev": "2",
+      "next": "3-A"
+    },
+    "3-A": {
+      "numero": "3-A",
+      "texto": "Art. 3º-A. O acordo de colaboração premiada é negócio jurídico processual e meio de obtenção de prova, que pressupõe utilidade e interesse públicos. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%203%C2%BA-A.%20O%20acordo%20de%20colabora%C3%A7%C3%A3o%20premiada%20%C3%A9%20neg%C3%B3cio%20jur%C3%ADdico%20processual%20e%20meio%20de%20obten%C3%A7%C3%A3o%20de%20prova%2C%20que%20pressup%C3%B5e%20utilidade%20e%20interesse",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "3-B"
+    },
+    "3-B": {
+      "numero": "3-B",
+      "texto": "Art. 3º-B. O recebimento da proposta para formalização de acordo de colaboração demarca o início das negociações e constitui também marco de confidencialidade, configurando violação de sigilo e quebra da confiança e da boa-fé a divulgação de tais tratativas iniciais ou de documento que as formalize, até o levantamento de sigilo por decisão judicial. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º A proposta de acordo de colaboração premiada poderá ser sumariamente indeferida, com a devida justificativa, cientificando-se o interessado. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º Caso não haja indeferimento sumário, as partes deverão firmar Termo de Confidencialidade para prosseguimento das tratativas, o que vinculará os órgãos envolvidos na negociação e impedirá o indeferimento posterior sem justa causa. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 3º O recebimento de proposta de colaboração para análise ou o Termo de Confidencialidade não implica, por si só, a suspensão da investigação, ressalvado acordo em contrário quanto à propositura de medidas processuais penais cautelares e assecuratórias, bem como medidas processuais cíveis admitidas pela legislação processual civil em vigor. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º O acordo de colaboração premiada poderá ser precedido de instrução, quando houver necessidade de identificação ou complementação de seu objeto, dos fatos narrados, sua definição jurídica, relevância, utilidade e interesse público. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 5º Os termos de recebimento de proposta de colaboração e de confidencialidade serão elaborados pelo celebrante e assinados por ele, pelo colaborador e pelo advogado ou defensor público com poderes específicos. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 6º Na hipótese de não ser celebrado o acordo por iniciativa do celebrante, esse não poderá se valer de nenhuma das informações ou provas apresentadas pelo colaborador, de boa-fé, para qualquer outra finalidade. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%203%C2%BA-B.%20O%20recebimento%20da%20proposta%20para%20formaliza%C3%A7%C3%A3o%20de%20acordo%20de%20colabora%C3%A7%C3%A3o%20demarca%20o%20in%C3%ADcio%20das%20negocia%C3%A7%C3%B5es%20e%20constitui%20tamb%C3%A9m%20marco%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3-A",
+      "next": "3-C"
+    },
+    "3-C": {
+      "numero": "3-C",
+      "texto": "Art. 3º-C. A proposta de colaboração premiada deve estar instruída com procuração do interessado com poderes específicos para iniciar o procedimento de colaboração e suas tratativas, ou firmada pessoalmente pela parte que pretende a colaboração e seu advogado ou defensor público. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º Nenhuma tratativa sobre colaboração premiada deve ser realizada sem a presença de advogado constituído ou defensor público. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º Em caso de eventual conflito de interesses, ou de colaborador hipossuficiente, o celebrante deverá solicitar a presença de outro advogado ou a participação de defensor público. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 3º No acordo de colaboração premiada, o colaborador deve narrar todos os fatos ilícitos para os quais concorreu e que tenham relação direta com os fatos investigados. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º Incumbe à defesa instruir a proposta de colaboração e os anexos com os fatos adequadamente descritos, com todas as suas circunstâncias, indicando as provas e os elementos de corroboração. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm#:~:text=Art.%203%C2%BA-C.%20A%20proposta%20de%20colabora%C3%A7%C3%A3o%20premiada%20deve%20estar%20instru%C3%ADda%20com%20procura%C3%A7%C3%A3o%20do%20interessado%20com%20poderes%20espec%C3%ADficos%20para%20iniciar%20o%20procedimento%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3-B",
       "next": "4"
     },
     "4": {
@@ -72,7 +120,7 @@
         "section": "I",
         "section_name": "Seção I"
       },
-      "prev": "3",
+      "prev": "3-C",
       "next": "5"
     },
     "5": {

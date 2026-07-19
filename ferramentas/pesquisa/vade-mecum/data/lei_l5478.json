@@ -1,0 +1,479 @@
+{
+  "_meta": {
+    "codigo": "L5478",
+    "nome": "Alimentos",
+    "lei": "Lei 5.478/1968",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm",
+    "total_artigos": 29,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º. A ação de alimentos é de rito especial, independente de prévia distribuição e de anterior concessão do benefício de gratuidade.\n\n§ 1º A distribuição será determinada posteriormente por ofício do juízo, inclusive para o fim de registro do feito.\n\n§ 2º A parte que não estiver em condições de pagar as custas do processo, sem prejuízo do sustento próprio ou de sua família, gozará do benefício da gratuidade, por simples afirmativa dessas condições perante o juiz, sob pena de pagamento até o décuplo das custas judiciais.\n\n§ 3º Presume-se pobre, até prova em contrário, quem afirmar essa condição, nos termos desta lei.\n\n§ 4º A impugnação do direito à gratuidade não suspende o curso do processo de alimentos e será feita em autos apartados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%201%C2%BA.%20A%20a%C3%A7%C3%A3o%20de%20alimentos%20%C3%A9%20de%20rito%20especial%2C%20independente%20de%20pr%C3%A9via%20distribui%C3%A7%C3%A3o%20e%20de%20anterior%20concess%C3%A3o%20do%20benef%C3%ADcio%20de%20gratuidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º. O credor, pessoalmente, ou por intermédio de advogado, dirigir-se-á ao juiz competente, qualificando-se, e exporá suas necessidades, provando, apenas o parentesco ou a obrigação de alimentar do devedor, indicando seu nome e sobrenome, residência ou local de trabalho, profissão e naturalidade, quanto ganha aproximadamente ou os recursos de que dispõe.\n\n§ 1º Dispensar-se-á a produção inicial de documentos probatórios;\n\nI - quando existente em notas, registros, repartições ou estabelecimentos públicos e ocorrer impedimento ou demora em extrair certidões.\n\nII - quando estiverem em poder do obrigado, as prestações alimentícias ou de terceiro residente em lugar incerto ou não sabido.\n\n§ 2º Os documentos públicos ficam isentos de reconhecimento de firma.\n\n§ 3º Se o credor comparecer pessoalmente e não indicar profissional que haja concordado em assisti-lo, o juiz designará desde logo quem o deva fazer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%202%C2%BA.%20O%20credor%2C%20pessoalmente%2C%20ou%20por%20interm%C3%A9dio%20de%20advogado%2C%20dirigir-se-%C3%A1%20ao%20juiz%20competente%2C%20qualificando-se%2C%20e%20expor%C3%A1%20suas%20necessidades%2C%20provando%2C%20apenas%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º. O pedido será apresentado por escrito, em 3 (três) vias, e deverá conter a indicação do juiz a quem for dirigido, os elementos referidos no artigo anterior e um histórico sumário dos fatos.\n\n§ 1º Se houver sido designado pelo juiz defensor para assistir o solicitante, na forma prevista no art. 2º, formulará o designado, dentro de 24 (vinte e quatro) horas da nomeação, o pedido, por escrito, podendo, se achar conveniente, indicar seja a solicitação verbal reduzida a termo.\n\n§ 2º O termo previsto no parágrafo anterior será em 3 (três) vias, datadas e assinadas pelo escrivão, observado, no que couber, o disposto no \"caput\" do presente artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%203%C2%BA.%20O%20pedido%20ser%C3%A1%20apresentado%20por%20escrito%2C%20em%203%20%28tr%C3%AAs%29%20vias%2C%20e%20dever%C3%A1%20conter%20a%20indica%C3%A7%C3%A3o%20do%20juiz%20a%20quem%20for",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º As despachar o pedido, o juiz fixará desde logo alimentos provisórios a serem pagos pelo devedor, salvo se o credor expressamente declarar que deles não necessita.\n\nParágrafo único. Se se tratar de alimentos provisórios pedidos pelo cônjuge, casado pelo regime da comunhão universal de bens, o juiz determinará igualmente que seja entregue ao credor, mensalmente, parte da renda líquida dos bens comuns, administrados pelo devedor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%204%C2%BA%20As%20despachar%20o%20pedido%2C%20o%20juiz%20fixar%C3%A1%20desde%20logo%20alimentos%20provis%C3%B3rios%20a%20serem%20pagos%20pelo%20devedor%2C%20salvo%20se%20o%20credor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O escrivão, dentro de 48 (quarenta e oito) horas, remeterá ao devedor a segunda via da petição ou do termo, juntamente com a cópia do despacho do juiz, e a comunicação do dia e hora da realização da audiência de conciliação e julgamento.\n\n§ 1º. Na designação da audiência, o juiz fixará o prazo razoável que possibilite ao réu a contestação da ação proposta e a eventualidade de citação por edital.\n\n§ 2º. A comunicação, que será feita mediante registro postal isento de taxas e com aviso de recebimento, importa em citação, para todos os efeitos legais.\n\n§ 3º. Se o réu criar embarações ao recebimento da citação, ou não for encontrado, repetir-se-á a diligência por intermédio do oficial de justiça, servindo de mandado a terceira via da petição ou do termo.\n\n§ 4º. Impossibilitada a citação do réu por qualquer dos modos acima previstos, será ele citado por edital afixado na sede do juízo e publicado 3 (três) vezes consecutivas no órgão oficial do Estado, correndo a despesa por conta do vencido, a final, sendo previamente a conta juntada aos autos.\n\n§ 5º. O edital deverá conter um resumo do pedido inicial, a íntegra do despacho nele exarado, a data e a hora da audiência.\n\n§ 6º. O autor será notificado da data e hora da audiência no ato de recebimento da petição, ou da lavratura do termo.\n\n§ 7º. O juiz, ao marcar a audiência, oficiará ao empregador do réu, ou , se o mesmo for funcionário público, ao responsável por sua repartição, solicitando o envio, no máximo até a data marcada para a audiência, de informações sobre o salário ou os vencimentos do devedor, sob as penas previstas no art. 22 desta lei.\n\n§ 8º A citação do réu, mesmo nos casos dos arts. 175 e 176 do Código de Processo Civil, far-se-á na forma do § 2º do art. 5º desta Lei.\n\n§ 8º. A citação do réu, mesmo no caso dos artigos 200 e 201 do Código de Processo Civil, far-se-á na forma do § 2º do artigo 5º desta lei. (Redação dada pela Lei nº 6.014, de 27/12/73)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%205%C2%BA%20O%20escriv%C3%A3o%2C%20dentro%20de%2048%20%28quarenta%20e%20oito%29%20horas%2C%20remeter%C3%A1%20ao%20devedor%20a%20segunda%20via%20da%20peti%C3%A7%C3%A3o%20ou%20do%20termo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Na audiência de conciliação e julgamento deverão estar presentes autor e réu, independentemente de intimação e de comparecimento de seus representantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%206%C2%BA%20Na%20audi%C3%AAncia%20de%20concilia%C3%A7%C3%A3o%20e%20julgamento%20dever%C3%A3o%20estar%20presentes%20autor%20e%20r%C3%A9u%2C%20independentemente%20de%20intima%C3%A7%C3%A3o%20e%20de%20comparecimento%20de%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O não comparecimento do autor determina o arquivamento do pedido, e a ausência do réu importa em revelia, além de confissão quanto à matéria de fato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%207%C2%BA%20O%20n%C3%A3o%20comparecimento%20do%20autor%20determina%20o%20arquivamento%20do%20pedido%2C%20e%20a%20aus%C3%AAncia%20do%20r%C3%A9u%20importa%20em%20revelia%2C%20al%C3%A9m%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Autor e Réu comparecerão à audiência acompanhados de suas testemunhas, 3 (três no máximo, apresentando, nessa ocasião, as demais provas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%208%C2%BA%20Autor%20e%20R%C3%A9u%20comparecer%C3%A3o%20%C3%A0%20audi%C3%AAncia%20acompanhados%20de%20suas%20testemunhas%2C%203%20%28tr%C3%AAs%20no%20m%C3%A1ximo%2C%20apresentando%2C%20nessa%20ocasi%C3%A3o%2C%20as%20demais%20provas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º Aberta a audiência, lida a petição, ou o têrmo, e a contestação, se houver, ou dispensada a leitura o Juiz ouvirá as partes litigantes e o representante do Ministério Público, propondo conciliação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art%209%C2%BA%20Aberta%20a%20audi%C3%AAncia%2C%20lida%20a%20peti%C3%A7%C3%A3o%2C%20ou%20o%20t%C3%AArmo%2C%20e%20a%20contesta%C3%A7%C3%A3o%2C%20se%20houver%2C%20ou%20dispensada%20a%20leitura%20o%20Juiz",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 A audiência de julgamento será contínua; mas, se não for possível, por motivo de força maior, concluí-la no mesmo dia, o juiz marcará a sua continuação para o primeiro dia desimpedido, independentemente de novas intimações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2010%20A%20audi%C3%AAncia%20de%20julgamento%20ser%C3%A1%20cont%C3%ADnua%3B%20mas%2C%20se%20n%C3%A3o%20for%20poss%C3%ADvel%2C%20por%20motivo%20de%20for%C3%A7a%20maior%2C%20conclu%C3%AD-la%20no%20mesmo%20dia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 Terminada a instrução, poderão as partes e o Ministério Público aduzir alegações finais, em prazo não excedente de 10 (dez) minutos para cada um.\n\nParágrafo único. Em seguida, o juiz renovará a proposta de conciliação e, não sendo aceita, ditará sua sentença, que conterá sucinto relatório do ocorrido na audiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2011%20Terminada%20a%20instru%C3%A7%C3%A3o%2C%20poder%C3%A3o%20as%20partes%20e%20o%20Minist%C3%A9rio%20P%C3%BAblico%20aduzir%20alega%C3%A7%C3%B5es%20finais%2C%20em%20prazo%20n%C3%A3o%20excedente%20de%2010%20%28dez%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Da sentença serão as partes intimadas, pessoalmente ou através de seus representantes, na própria audiência, ainda quando ausentes, desde que intimadas de sua realização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2012.%20Da%20senten%C3%A7a%20ser%C3%A3o%20as%20partes%20intimadas%2C%20pessoalmente%20ou%20atrav%C3%A9s%20de%20seus%20representantes%2C%20na%20pr%C3%B3pria%20audi%C3%AAncia%2C%20ainda%20quando%20ausentes%2C%20desde%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 O disposto nesta lei aplica-se igualmente, no que couber, às ações ordinárias de desquite, nulidade e anulação de casamento, à revisão de sentenças proferidas em pedidos de alimentos e respectivas execuções.\n\n§ 1º. Os alimentos provisórios fixados na inicial poderão ser revistos a qualquer tempo, se houver modificação na situação financeira das partes, mas o pedido será sempre processado em apartado.\n\n§ 2º. Em qualquer caso, os alimentos fixados retroagem à data da citação.\n\n§ 3º. Os alimentos provisórios serão devidos até a decisão final, inclusive o julgamento do recurso extraordinário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2013%20O%20disposto%20nesta%20lei%20aplica-se%20igualmente%2C%20no%20que%20couber%2C%20%C3%A0s%20a%C3%A7%C3%B5es%20ordin%C3%A1rias%20de%20desquite%2C%20nulidade%20e%20anula%C3%A7%C3%A3o%20de%20casamento%2C%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art 14. Da decisão final do Juiz, inclusive nos autos em apartado, caberá agravo de petição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art%2014.%20Da%20decis%C3%A3o%20final%20do%20Juiz%2C%20inclusive%20nos%20autos%20em%20apartado%2C%20caber%C3%A1%20agravo%20de%20peti%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A decisão judicial sobre alimentos não transita em julgado e pode a qualquer tempo ser revista, em face da modificação da situação financeira dos interessados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2015.%20A%20decis%C3%A3o%20judicial%20sobre%20alimentos%20n%C3%A3o%20transita%20em%20julgado%20e%20pode%20a%20qualquer%20tempo%20ser%20revista%2C%20em%20face%20da%20modifica%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art 16. Na execução da sentença ou do acôrdo nas ações de alimento será observado o disposto no artigo 919 e seu parágrafo único do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art%2016.%20Na%20execu%C3%A7%C3%A3o%20da%20senten%C3%A7a%20ou%20do%20ac%C3%B4rdo%20nas%20a%C3%A7%C3%B5es%20de%20alimento%20ser%C3%A1%20observado%20o%20disposto%20no%20artigo%20919%20e%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Quando não for possível a efetivação executiva da sentença ou do acordo mediante desconto em folha, poderão ser as prestações cobradas de alugueres de prédios ou de quaisquer outros rendimentos do devedor, que serão recebidos diretamente pelo alimentando ou por depositário nomeado pelo juiz. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2017.%20Quando%20n%C3%A3o%20for%20poss%C3%ADvel%20a%20efetiva%C3%A7%C3%A3o%20executiva%20da%20senten%C3%A7a%20ou%20do%20acordo%20mediante%20desconto%20em%20folha%2C%20poder%C3%A3o%20ser%20as%20presta%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art 18. Se, mesmo assim, não fôr possível a satisfação do débito alimentício, o Juiz aplicará o disposto no artigo 920 do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art%2018.%20Se%2C%20mesmo%20assim%2C%20n%C3%A3o%20f%C3%B4r%20poss%C3%ADvel%20a%20satisfa%C3%A7%C3%A3o%20do%20d%C3%A9bito%20aliment%C3%ADcio%2C%20o%20Juiz%20aplicar%C3%A1%20o%20disposto%20no%20artigo%20920%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O juiz, para instrução da causa ou na execução da sentença ou do acordo, poderá tomar todas as providências necessárias para seu esclarecimento ou para o cumprimento do julgado ou do acordo, inclusive a decretação de prisão do devedor até 60 (sessenta) dias.\n\n§ 1º O artigo 921 do Código de Processo Civil (Decreto-lei nº 1.608, de 18 de setembro de 1939) passa a vigorar com a seguinte redação:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2019.%20O%20juiz%2C%20para%20instru%C3%A7%C3%A3o%20da%20causa%20ou%20na%20execu%C3%A7%C3%A3o%20da%20senten%C3%A7a%20ou%20do%20acordo%2C%20poder%C3%A1%20tomar%20todas%20as%20provid%C3%AAncias%20necess%C3%A1rias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. As repartições públicas, civis ou militares, inclusive do Imposto de Renda, darão todas as informações necessárias à instrução dos processos previstos nesta lei e à execução do que for decidido ou acordado em juízo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2020.%20As%20reparti%C3%A7%C3%B5es%20p%C3%BAblicas%2C%20civis%20ou%20militares%2C%20inclusive%20do%20Imposto%20de%20Renda%2C%20dar%C3%A3o%20todas%20as%20informa%C3%A7%C3%B5es%20necess%C3%A1rias%20%C3%A0%20instru%C3%A7%C3%A3o%20dos%20processos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O art. 244 do Código Penal passa a vigorar com a seguinte redação:\n\n\"Art. 244. Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor de 18 anos ou inapto para o trabalho ou de ascendente inválido ou valetudinário, não lhes proporcionando os recursos necessários ou faltando ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada; deixar, sem justa causa, de socorrer descendente ou ascendente gravemente enfermo:\n\nPena - Detenção de 1 (um) ano a 4 (quatro) anos e multa, de uma a dez vêzes o maior salário-mínimo vigente no País.\n\nParágrafo único. Nas mesmas penas incide quem, sendo solvente, frustra ou ilide, de qualquer modo, inclusive por abandono injustificado de emprego ou função, o pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2021.%20O%20art.%20244%20do%20C%C3%B3digo%20Penal%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Constitui crime contra a administração da Justiça deixar o empregador ou funcionário público de prestar ao juízo competente as informações necessárias à instrução de processo ou execução de sentença ou acordo que fixe pensão alimentícia:\n\nPena - Detenção de 6 (seis) meses a 1 (um) ano, sem prejuízo da pena acessória de suspensão do emprego de 30 (trinta) a 90 (noventa) dias.\n\nParágrafo único. Nas mesmas penas incide quem, de qualquer modo, ajuda o devedor a eximir-se ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada, ou se recusa, ou procrastina a executar ordem de descontos em folhas de pagamento, expedida pelo juiz competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2022.%20Constitui%20crime%20contra%20a%20administra%C3%A7%C3%A3o%20da%20Justi%C3%A7a%20deixar%20o%20empregador%20ou%20funcion%C3%A1rio%20p%C3%BAblico%20de%20prestar%20ao%20ju%C3%ADzo%20competente%20as%20informa%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A prescrição qüinqüenal referida no art. 178, § 10, inciso I, do Código Civil só alcança as prestações mensais e não o direito a alimentos, que, embora irrenunciável, pode ser provisoriamente dispensado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2023.%20A%20prescri%C3%A7%C3%A3o%20q%C3%BCinq%C3%BCenal%20referida%20no%20art.%20178%2C%20%C2%A7%2010%2C%20inciso%20I%2C%20do%20C%C3%B3digo%20Civil%20s%C3%B3%20alcan%C3%A7a%20as%20presta%C3%A7%C3%B5es%20mensais%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A parte responsável pelo sustento da família, e que deixar a residência comum por motivo, que não necessitará declarar, poderá tomar a iniciativa de comunicar ao juízo os rendimentos de que dispõe e de pedir a citação do credor, para comparecer à audiência de conciliação e julgamento destinada à fixação dos alimento a que está obrigado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2024.%20A%20parte%20respons%C3%A1vel%20pelo%20sustento%20da%20fam%C3%ADlia%2C%20e%20que%20deixar%20a%20resid%C3%AAncia%20comum%20por%20motivo%2C%20que%20n%C3%A3o%20necessitar%C3%A1%20declarar%2C%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A prestação não pecuniária estabelecida no art. 403 do Código Civil, só pode ser autorizada pelo juiz se a ela anuir o alimentado capaz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2025.%20A%20presta%C3%A7%C3%A3o%20n%C3%A3o%20pecuni%C3%A1ria%20estabelecida%20no%20art.%20403%20do%20C%C3%B3digo%20Civil%2C%20s%C3%B3%20pode%20ser%20autorizada%20pelo%20juiz%20se%20a%20ela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. É competente para as ações de alimentos decorrentes da aplicação do Decreto Legislativo nº. 10, de 13 de novembro de 1958, e Decreto nº. 56.826, de 2 de setembro de 1965, o juízo federal da Capital da Unidade Federativa Brasileira em que reside o devedor, sendo considerada instituição intermediária, para os fins dos referidos decretos, a Procuradoria-Geral da República.\n\nParágrafo único. Nos termos do inciso III, art. 2º, da Convenção Internacional sobre ações de alimentos, o Governo Brasileiro Comunicará, sem demora, ao Secretário Geral das Nações Unidas, o disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2026.%20%C3%89%20competente%20para%20as%20a%C3%A7%C3%B5es%20de%20alimentos%20decorrentes%20da%20aplica%C3%A7%C3%A3o%20do%20Decreto%20Legislativo%20n%C2%BA.%2010%2C%20de%2013%20de%20novembro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Aplicam-se supletivamente nos processos regulados por esta lei as disposições do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2027.%20Aplicam-se%20supletivamente%20nos%20processos%20regulados%20por%20esta%20lei%20as%20disposi%C3%A7%C3%B5es%20do%20C%C3%B3digo%20de%20Processo%20Civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Esta lei entrará em vigor 30 (trinta) dias depois de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2028.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%2030%20%28trinta%29%20dias%20depois%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Revogam-se as disposições em contrário.\n\nBrasília, 25 de julho de 1968; 147º da Independência e 80º da República.\n\nA. COSTA E SILVA Luís Antônio da Gama e Silva\n\nEste texto não substitui o publicado no DOU de 26.7.1968 e retificado em 14.8.1968 e republicado em 8.4.1974\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2029.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": null
+    }
+  }
+}

@@ -87,8 +87,13 @@ def artigos_com_rotulo_em_link(arvore: Any) -> list[str]:
         match = pipeline.ARTIGO.match(simples)
         if not match:
             continue
-        if not pipeline.tem_ancestral_riscado(paragrafo) and pipeline.rotulo_inicial_em_link(
-            paragrafo
+        resto = simples[match.end() :].strip()
+        if re.match(r"^\(?\s*VETADO", resto, re.IGNORECASE):
+            # Vetado da própria lei: o transformador o preserva.
+            continue
+        if re.match(r"^\.{3,}", resto) or (
+            not pipeline.tem_ancestral_riscado(paragrafo)
+            and pipeline.rotulo_inicial_em_link(paragrafo)
         ):
             achados.append(pipeline.numero_artigo(match))
     return achados

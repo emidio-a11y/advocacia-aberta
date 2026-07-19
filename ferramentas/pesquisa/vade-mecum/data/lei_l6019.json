@@ -4,7 +4,7 @@
     "nome": "Trabalho Temporário",
     "lei": "Lei 6.019/1974",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm",
-    "total_artigos": 23,
+    "total_artigos": 30,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -61,7 +61,7 @@
     },
     "4": {
       "numero": "4",
-      "texto": "Art. 4o Empresa de trabalho temporário é a pessoa jurídica, devidamente registrada no Ministério do Trabalho, responsável pela colocação de trabalhadores à disposição de outras empresas temporariamente. (Redação dada pela Lei nº 13.429, de 2017)\n\nArt. 4o-A. Considera-se prestação de serviços a terceiros a transferência feita pela contratante da execução de quaisquer de suas atividades, inclusive sua atividade principal, à pessoa jurídica de direito privado prestadora de serviços que possua capacidade econômica compatível com a sua execução. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1o A empresa prestadora de serviços contrata, remunera e dirige o trabalho realizado por seus trabalhadores, ou subcontrata outras empresas para realização desses serviços. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 2o Não se configura vínculo empregatício entre os trabalhadores, ou sócios das empresas prestadoras de serviços, qualquer que seja o seu ramo, e a empresa contratante. (Incluído pela Lei nº 13.429, de 2017)\n\nArt. 4o-B. São requisitos para o funcionamento da empresa de prestação de serviços a terceiros: (Incluído pela Lei nº 13.429, de 2017)\n\nI - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ); (Incluído pela Lei nº 13.429, de 2017)\n\nII - registro na Junta Comercial; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - capital social compatível com o número de empregados, observando-se os seguintes parâmetros: (Incluído pela Lei nº 13.429, de 2017)\n\na) empresas com até dez empregados - capital mínimo de R$ 10.000,00 (dez mil reais); (Incluído pela Lei nº 13.429, de 2017)\n\nb) empresas com mais de dez e até vinte empregados - capital mínimo de R$ 25.000,00 (vinte e cinco mil reais); (Incluído pela Lei nº 13.429, de 2017)\n\nc) empresas com mais de vinte e até cinquenta empregados - capital mínimo de R$ 45.000,00 (quarenta e cinco mil reais); (Incluído pela Lei nº 13.429, de 2017)\n\nd) empresas com mais de cinquenta e até cem empregados - capital mínimo de R$ 100.000,00 (cem mil reais); e (Incluído pela Lei nº 13.429, de 2017)\n\ne) empresas com mais de cem empregados - capital mínimo de R$ 250.000,00 (duzentos e cinquenta mil reais). (Incluído pela Lei nº 13.429, de 2017)\n\nArt. 4o-C. São asseguradas aos empregados da empresa prestadora de serviços a que se refere o art. 4o-A desta Lei, quando e enquanto os serviços, que podem ser de qualquer uma das atividades da contratante, forem executados nas dependências da tomadora, as mesmas condições: (Incluído pela Lei nº 13.467, de 2017)\n\nI - relativas a: (Incluído pela Lei nº 13.467, de 2017)\n\na) alimentação garantida aos empregados da contratante, quando oferecida em refeitórios; (Incluído pela Lei nº 13.467, de 2017)\n\nb) direito de utilizar os serviços de transporte; (Incluído pela Lei nº 13.467, de 2017)\n\nc) atendimento médico ou ambulatorial existente nas dependências da contratante ou local por ela designado; (Incluído pela Lei nº 13.467, de 2017)\n\nd) treinamento adequado, fornecido pela contratada, quando a atividade o exigir. (Incluído pela Lei nº 13.467, de 2017)\n\nII - sanitárias, de medidas de proteção à saúde e de segurança no trabalho e de instalações adequadas à prestação do serviço. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1o Contratante e contratada poderão estabelecer, se assim entenderem, que os empregados da contratada farão jus a salário equivalente ao pago aos empregados da contratante, além de outros direitos não previstos neste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2o Nos contratos que impliquem mobilização de empregados da contratada em número igual ou superior a 20% (vinte por cento) dos empregados da contratante, esta poderá disponibilizar aos empregados da contratada os serviços de alimentação e atendimento ambulatorial em outros locais apropriados e com igual padrão de atendimento, com vistas a manter o pleno funcionamento dos serviços existentes. (Incluído pela Lei nº 13.467, de 2017)",
+      "texto": "Art. 4o Empresa de trabalho temporário é a pessoa jurídica, devidamente registrada no Ministério do Trabalho, responsável pela colocação de trabalhadores à disposição de outras empresas temporariamente. (Redação dada pela Lei nº 13.429, de 2017)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%204o%20Empresa%20de%20trabalho%20tempor%C3%A1rio%20%C3%A9%20a%20pessoa%20jur%C3%ADdica%2C%20devidamente%20registrada%20no%20Minist%C3%A9rio%20do%20Trabalho%2C%20respons%C3%A1vel%20pela%20coloca%C3%A7%C3%A3o%20de%20trabalhadores%20%C3%A0",
       "keywords": [],
       "hierarchy": {
@@ -73,12 +73,12 @@
         "section_name": null
       },
       "prev": "3",
-      "next": "5"
+      "next": "4-A"
     },
-    "5": {
-      "numero": "5",
-      "texto": "Art. 5o Empresa tomadora de serviços é a pessoa jurídica ou entidade a ela equiparada que celebra contrato de prestação de trabalho temporário com a empresa definida no art. 4o desta Lei. (Redação dada pela Lei nº 13.429, de 2017)\n\nArt. 5o-A. Contratante é a pessoa física ou jurídica que celebra contrato com empresa de prestação de serviços relacionados a quaisquer de suas atividades, inclusive sua atividade principal. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1o É vedada à contratante a utilização dos trabalhadores em atividades distintas daquelas que foram objeto do contrato com a empresa prestadora de serviços. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 2o Os serviços contratados poderão ser executados nas instalações físicas da empresa contratante ou em outro local, de comum acordo entre as partes. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 3o É responsabilidade da contratante garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 4o A contratante poderá estender ao trabalhador da empresa de prestação de serviços o mesmo atendimento médico, ambulatorial e de refeição destinado aos seus empregados, existente nas dependências da contratante, ou local por ela designado. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 5o A empresa contratante é subsidiariamente responsável pelas obrigações trabalhistas referentes ao período em que ocorrer a prestação de serviços, e o recolhimento das contribuições previdenciárias observará o disposto no art. 31 da Lei no 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.429, de 2017)\n\nArt. 5o-B. O contrato de prestação de serviços conterá: (Incluído pela Lei nº 13.429, de 2017)\n\nI - qualificação das partes; (Incluído pela Lei nº 13.429, de 2017)\n\nII - especificação do serviço a ser prestado; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prazo para realização do serviço, quando for o caso; (Incluído pela Lei nº 13.429, de 2017)\n\nIV - valor. (Incluído pela Lei nº 13.429, de 2017)\n\nArt. 5o-C. Não pode figurar como contratada, nos termos do art. 4o-A desta Lei, a pessoa jurídica cujos titulares ou sócios tenham, nos últimos dezoito meses, prestado serviços à contratante na qualidade de empregado ou trabalhador sem vínculo empregatício, exceto se os referidos titulares ou sócios forem aposentados. (Incluído pela Lei nº 13.467, de 2017)\n\nArt. 5o-D. O empregado que for demitido não poderá prestar serviços para esta mesma empresa na qualidade de empregado de empresa prestadora de serviços antes do decurso de prazo de dezoito meses, contados a partir da demissão do empregado. (Incluído pela Lei nº 13.467, de 2017)",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%205o%20Empresa%20tomadora%20de%20servi%C3%A7os%20%C3%A9%20a%20pessoa%20jur%C3%ADdica%20ou%20entidade%20a%20ela%20equiparada%20que%20celebra%20contrato%20de%20presta%C3%A7%C3%A3o%20de%20trabalho",
+    "4-A": {
+      "numero": "4-A",
+      "texto": "Art. 4o-A. Considera-se prestação de serviços a terceiros a transferência feita pela contratante da execução de quaisquer de suas atividades, inclusive sua atividade principal, à pessoa jurídica de direito privado prestadora de serviços que possua capacidade econômica compatível com a sua execução. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1o A empresa prestadora de serviços contrata, remunera e dirige o trabalho realizado por seus trabalhadores, ou subcontrata outras empresas para realização desses serviços. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 2o Não se configura vínculo empregatício entre os trabalhadores, ou sócios das empresas prestadoras de serviços, qualquer que seja o seu ramo, e a empresa contratante. (Incluído pela Lei nº 13.429, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%204o-A.%20Considera-se%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20a%20terceiros%20a%20transfer%C3%AAncia%20feita%20pela%20contratante%20da%20execu%C3%A7%C3%A3o%20de%20quaisquer%20de%20suas%20atividades%2C%20inclusive%20sua",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -89,6 +89,118 @@
         "section_name": null
       },
       "prev": "4",
+      "next": "4-B"
+    },
+    "4-B": {
+      "numero": "4-B",
+      "texto": "Art. 4o-B. São requisitos para o funcionamento da empresa de prestação de serviços a terceiros: (Incluído pela Lei nº 13.429, de 2017)\n\nI - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ); (Incluído pela Lei nº 13.429, de 2017)\n\nII - registro na Junta Comercial; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - capital social compatível com o número de empregados, observando-se os seguintes parâmetros: (Incluído pela Lei nº 13.429, de 2017)\n\na) empresas com até dez empregados - capital mínimo de R$ 10.000,00 (dez mil reais); (Incluído pela Lei nº 13.429, de 2017)\n\nb) empresas com mais de dez e até vinte empregados - capital mínimo de R$ 25.000,00 (vinte e cinco mil reais); (Incluído pela Lei nº 13.429, de 2017)\n\nc) empresas com mais de vinte e até cinquenta empregados - capital mínimo de R$ 45.000,00 (quarenta e cinco mil reais); (Incluído pela Lei nº 13.429, de 2017)\n\nd) empresas com mais de cinquenta e até cem empregados - capital mínimo de R$ 100.000,00 (cem mil reais); e (Incluído pela Lei nº 13.429, de 2017)\n\ne) empresas com mais de cem empregados - capital mínimo de R$ 250.000,00 (duzentos e cinquenta mil reais). (Incluído pela Lei nº 13.429, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%204o-B.%20S%C3%A3o%20requisitos%20para%20o%20funcionamento%20da%20empresa%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20a%20terceiros%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.429%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-A",
+      "next": "4-C"
+    },
+    "4-C": {
+      "numero": "4-C",
+      "texto": "Art. 4o-C. São asseguradas aos empregados da empresa prestadora de serviços a que se refere o art. 4o-A desta Lei, quando e enquanto os serviços, que podem ser de qualquer uma das atividades da contratante, forem executados nas dependências da tomadora, as mesmas condições: (Incluído pela Lei nº 13.467, de 2017)\n\nI - relativas a: (Incluído pela Lei nº 13.467, de 2017)\n\na) alimentação garantida aos empregados da contratante, quando oferecida em refeitórios; (Incluído pela Lei nº 13.467, de 2017)\n\nb) direito de utilizar os serviços de transporte; (Incluído pela Lei nº 13.467, de 2017)\n\nc) atendimento médico ou ambulatorial existente nas dependências da contratante ou local por ela designado; (Incluído pela Lei nº 13.467, de 2017)\n\nd) treinamento adequado, fornecido pela contratada, quando a atividade o exigir. (Incluído pela Lei nº 13.467, de 2017)\n\nII - sanitárias, de medidas de proteção à saúde e de segurança no trabalho e de instalações adequadas à prestação do serviço. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1o Contratante e contratada poderão estabelecer, se assim entenderem, que os empregados da contratada farão jus a salário equivalente ao pago aos empregados da contratante, além de outros direitos não previstos neste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2o Nos contratos que impliquem mobilização de empregados da contratada em número igual ou superior a 20% (vinte por cento) dos empregados da contratante, esta poderá disponibilizar aos empregados da contratada os serviços de alimentação e atendimento ambulatorial em outros locais apropriados e com igual padrão de atendimento, com vistas a manter o pleno funcionamento dos serviços existentes. (Incluído pela Lei nº 13.467, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%204o-C.%20S%C3%A3o%20asseguradas%20aos%20empregados%20da%20empresa%20prestadora%20de%20servi%C3%A7os%20a%20que%20se%20refere%20o%20art.%204o-A%20desta%20Lei%2C%20quando%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-B",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Empresa tomadora de serviços é a pessoa jurídica ou entidade a ela equiparada que celebra contrato de prestação de trabalho temporário com a empresa definida no art. 4o desta Lei. (Redação dada pela Lei nº 13.429, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%205o%20Empresa%20tomadora%20de%20servi%C3%A7os%20%C3%A9%20a%20pessoa%20jur%C3%ADdica%20ou%20entidade%20a%20ela%20equiparada%20que%20celebra%20contrato%20de%20presta%C3%A7%C3%A3o%20de%20trabalho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-C",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5o-A. Contratante é a pessoa física ou jurídica que celebra contrato com empresa de prestação de serviços relacionados a quaisquer de suas atividades, inclusive sua atividade principal. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1o É vedada à contratante a utilização dos trabalhadores em atividades distintas daquelas que foram objeto do contrato com a empresa prestadora de serviços. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 2o Os serviços contratados poderão ser executados nas instalações físicas da empresa contratante ou em outro local, de comum acordo entre as partes. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 3o É responsabilidade da contratante garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 4o A contratante poderá estender ao trabalhador da empresa de prestação de serviços o mesmo atendimento médico, ambulatorial e de refeição destinado aos seus empregados, existente nas dependências da contratante, ou local por ela designado. (Incluído pela Lei nº 13.429, de 2017)\n\n§ 5o A empresa contratante é subsidiariamente responsável pelas obrigações trabalhistas referentes ao período em que ocorrer a prestação de serviços, e o recolhimento das contribuições previdenciárias observará o disposto no art. 31 da Lei no 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.429, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%205o-A.%20Contratante%20%C3%A9%20a%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%20que%20celebra%20contrato%20com%20empresa%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20relacionados%20a%20quaisquer%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "5-B"
+    },
+    "5-B": {
+      "numero": "5-B",
+      "texto": "Art. 5o-B. O contrato de prestação de serviços conterá: (Incluído pela Lei nº 13.429, de 2017)\n\nI - qualificação das partes; (Incluído pela Lei nº 13.429, de 2017)\n\nII - especificação do serviço a ser prestado; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prazo para realização do serviço, quando for o caso; (Incluído pela Lei nº 13.429, de 2017)\n\nIV - valor. (Incluído pela Lei nº 13.429, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%205o-B.%20O%20contrato%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20conter%C3%A1%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.429%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-A",
+      "next": "5-C"
+    },
+    "5-C": {
+      "numero": "5-C",
+      "texto": "Art. 5o-C. Não pode figurar como contratada, nos termos do art. 4o-A desta Lei, a pessoa jurídica cujos titulares ou sócios tenham, nos últimos dezoito meses, prestado serviços à contratante na qualidade de empregado ou trabalhador sem vínculo empregatício, exceto se os referidos titulares ou sócios forem aposentados. (Incluído pela Lei nº 13.467, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%205o-C.%20N%C3%A3o%20pode%20figurar%20como%20contratada%2C%20nos%20termos%20do%20art.%204o-A%20desta%20Lei%2C%20a%20pessoa%20jur%C3%ADdica%20cujos%20titulares%20ou%20s%C3%B3cios%20tenham%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-B",
+      "next": "5-D"
+    },
+    "5-D": {
+      "numero": "5-D",
+      "texto": "Art. 5o-D. O empregado que for demitido não poderá prestar serviços para esta mesma empresa na qualidade de empregado de empresa prestadora de serviços antes do decurso de prazo de dezoito meses, contados a partir da demissão do empregado. (Incluído pela Lei nº 13.467, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm#:~:text=Art.%205o-D.%20O%20empregado%20que%20for%20demitido%20n%C3%A3o%20poder%C3%A1%20prestar%20servi%C3%A7os%20para%20esta%20mesma%20empresa%20na%20qualidade%20de%20empregado%20de%20empresa%20prestadora",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-C",
       "next": "6"
     },
     "6": {
@@ -104,7 +216,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "5",
+      "prev": "5-D",
       "next": "7"
     },
     "7": {

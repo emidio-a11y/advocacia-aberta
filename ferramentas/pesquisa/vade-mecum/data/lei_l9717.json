@@ -4,7 +4,7 @@
     "nome": "Normas Gerais dos RPPS",
     "lei": "Lei 9.717/1998",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm",
-    "total_artigos": 11,
+    "total_artigos": 15,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -13,7 +13,7 @@
   "artigos": {
     "1": {
       "numero": "1",
-      "texto": "Art. 1º Os regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal deverão ser organizados, baseados em normas gerais de contabilidade e atuária, de modo a garantir o seu equilíbrio financeiro e atuarial, observados os seguintes critérios:\n\nI - realização de avaliação atuarial inicial e em cada balanço utilizando-se parâmetros gerais, para a organização e revisão do plano de custeio e benefícios; (Redação dada pela Medida Provisória nº 2.187-13, de 2001)\n\nII - financiamento mediante recursos provenientes da União, dos Estados, do Distrito Federal e dos Municípios e das contribuições do pessoal civil e militar, ativo, inativo e dos pensionistas, para os seus respectivos regimes;\n\nIII - as contribuições e os recursos vinculados ao Fundo Previdenciário da União, dos Estados, do Distrito Federal e dos Municípios e as contribuições do pessoal civil e militar, ativo, inativo, e dos pensionistas, somente poderão ser utilizadas para pagamento de benefícios previdenciários dos respectivos regimes, ressalvadas as despesas administrativas estabelecidas no art. 6º, inciso VIII, desta Lei, observado os limites de gastos estabelecidos em parâmetros gerais; (Redação dada pela Medida Provisória nº 2.187-13, de 2001)\n\nIV - cobertura de um número mínimo de segurados, de modo que os regimes possam garantir diretamente a totalidade dos riscos cobertos no plano de benefícios, preservando o equilíbrio atuarial sem necessidade de resseguro, conforme parâmetros gerais;\n\nV - cobertura exclusiva a servidores públicos titulares de cargos efetivos e a militares, e a seus respectivos dependentes, de cada ente estatal, vedado o pagamento de benefícios, mediante convênios ou consórcios entre Estados, entre Estados e Municípios e entre Municípios;\n\nVI - pleno acesso dos segurados às informações relativas à gestão do regime e participação de representantes dos servidores públicos e dos militares, ativos e inativos, nos colegiados e instâncias de decisão em que os seus interesses sejam objeto de discussão e deliberação;\n\nVII - registro contábil individualizado das contribuições de cada servidor e dos entes estatais, conforme diretrizes gerais;\n\nVIII - identificação e consolidação em demonstrativos financeiros e orçamentários de todas as despesas fixas e variáveis com pessoal inativo civil, militar e pensionistas, bem como dos encargos incidentes sobre os proventos e pensões pagos;\n\nIX - sujeição às inspeções e auditorias de natureza atuarial, contábil, financeira, orçamentária e patrimonial dos órgãos de controle interno e externo.\n\nX - vedação de inclusão nos benefícios, para efeito de percepção destes, de parcelas remuneratórias pagas em decorrência de local de trabalho, de função de confiança ou de cargo em comissão, exceto quando tais parcelas integrarem a remuneração de contribuição do servidor que se aposentar com fundamento no art. 40 da Constituição Federal, respeitado, em qualquer hipótese, o limite previsto no § 2o do citado artigo; (Redação dada pela Lei nº 10.887, de 2004)\n\nXI - vedação de inclusão nos benefícios, para efeito de percepção destes, do abono de permanência de que tratam o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003. (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 1º Aplicam-se adicionalmente aos regimes próprios de previdência social as disposições estabelecidas no art. 6º desta Lei relativas aos fundos com finalidade previdenciária por eles instituídos. (Renumerado do parágrafo único pela Lei nº 13.846, de 2019)\n\n§ 2º Os regimes próprios de previdência social da União, dos Estados, do Distrito Federal e dos Municípios operacionalizarão a compensação financeira a que se referem o § 9º do art. 201 da Constituição Federal e a Lei nº 9.796, de 5 de maio de 1999, entre si e com o regime geral de previdência social, sob pena de incidirem nas sanções de que trata o art. 7º desta Lei. (Incluído pela Lei nº 13.846, de 2019)\n\nArt. 1o-A. O servidor público titular de cargo efetivo da União, dos Estados, do Distrito Federal e dos Municípios ou o militar dos Estados e do Distrito Federal filiado a regime próprio de previdência social, quando cedido a órgão ou entidade de outro ente da federação, com ou sem ônus para o cessionário, permanecerá vinculado ao regime de origem. (Redação dada pela Medida Provisória nº 2.187-13, de 2001)",
+      "texto": "Art. 1º Os regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal deverão ser organizados, baseados em normas gerais de contabilidade e atuária, de modo a garantir o seu equilíbrio financeiro e atuarial, observados os seguintes critérios:\n\nI - realização de avaliação atuarial inicial e em cada balanço utilizando-se parâmetros gerais, para a organização e revisão do plano de custeio e benefícios; (Redação dada pela Medida Provisória nº 2.187-13, de 2001)\n\nII - financiamento mediante recursos provenientes da União, dos Estados, do Distrito Federal e dos Municípios e das contribuições do pessoal civil e militar, ativo, inativo e dos pensionistas, para os seus respectivos regimes;\n\nIII - as contribuições e os recursos vinculados ao Fundo Previdenciário da União, dos Estados, do Distrito Federal e dos Municípios e as contribuições do pessoal civil e militar, ativo, inativo, e dos pensionistas, somente poderão ser utilizadas para pagamento de benefícios previdenciários dos respectivos regimes, ressalvadas as despesas administrativas estabelecidas no art. 6º, inciso VIII, desta Lei, observado os limites de gastos estabelecidos em parâmetros gerais; (Redação dada pela Medida Provisória nº 2.187-13, de 2001)\n\nIV - cobertura de um número mínimo de segurados, de modo que os regimes possam garantir diretamente a totalidade dos riscos cobertos no plano de benefícios, preservando o equilíbrio atuarial sem necessidade de resseguro, conforme parâmetros gerais;\n\nV - cobertura exclusiva a servidores públicos titulares de cargos efetivos e a militares, e a seus respectivos dependentes, de cada ente estatal, vedado o pagamento de benefícios, mediante convênios ou consórcios entre Estados, entre Estados e Municípios e entre Municípios;\n\nVI - pleno acesso dos segurados às informações relativas à gestão do regime e participação de representantes dos servidores públicos e dos militares, ativos e inativos, nos colegiados e instâncias de decisão em que os seus interesses sejam objeto de discussão e deliberação;\n\nVII - registro contábil individualizado das contribuições de cada servidor e dos entes estatais, conforme diretrizes gerais;\n\nVIII - identificação e consolidação em demonstrativos financeiros e orçamentários de todas as despesas fixas e variáveis com pessoal inativo civil, militar e pensionistas, bem como dos encargos incidentes sobre os proventos e pensões pagos;\n\nIX - sujeição às inspeções e auditorias de natureza atuarial, contábil, financeira, orçamentária e patrimonial dos órgãos de controle interno e externo.\n\nX - vedação de inclusão nos benefícios, para efeito de percepção destes, de parcelas remuneratórias pagas em decorrência de local de trabalho, de função de confiança ou de cargo em comissão, exceto quando tais parcelas integrarem a remuneração de contribuição do servidor que se aposentar com fundamento no art. 40 da Constituição Federal, respeitado, em qualquer hipótese, o limite previsto no § 2o do citado artigo; (Redação dada pela Lei nº 10.887, de 2004)\n\nXI - vedação de inclusão nos benefícios, para efeito de percepção destes, do abono de permanência de que tratam o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003. (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 1º Aplicam-se adicionalmente aos regimes próprios de previdência social as disposições estabelecidas no art. 6º desta Lei relativas aos fundos com finalidade previdenciária por eles instituídos. (Renumerado do parágrafo único pela Lei nº 13.846, de 2019)\n\n§ 2º Os regimes próprios de previdência social da União, dos Estados, do Distrito Federal e dos Municípios operacionalizarão a compensação financeira a que se referem o § 9º do art. 201 da Constituição Federal e a Lei nº 9.796, de 5 de maio de 1999, entre si e com o regime geral de previdência social, sob pena de incidirem nas sanções de que trata o art. 7º desta Lei. (Incluído pela Lei nº 13.846, de 2019)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%201%C2%BA%20Os%20regimes%20pr%C3%B3prios%20de%20previd%C3%AAncia%20social%20dos%20servidores%20p%C3%BAblicos%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%2C%20dos",
       "keywords": [],
       "hierarchy": {
@@ -25,12 +25,12 @@
         "section_name": null
       },
       "prev": null,
-      "next": "2"
+      "next": "1-A"
     },
-    "2": {
-      "numero": "2",
-      "texto": "Art. 2o A contribuição da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, aos regimes próprios de previdência social a que estejam vinculados seus servidores não poderá ser inferior ao valor da contribuição do servidor ativo, nem superior ao dobro desta contribuição.(Redação dada pela Lei nº 10.887, de 2004)\n\n§ 1o A União, os Estados, o Distrito Federal e os Municípios são responsáveis pela cobertura de eventuais insuficiências financeiras do respectivo regime próprio, decorrentes do pagamento de benefícios previdenciários. (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 2o A União, os Estados, o Distrito Federal e os Municípios publicarão, até 30 (trinta) dias após o encerramento de cada bimestre, demonstrativo financeiro e orçamentário da receita e despesa previdenciárias acumuladas no exercício financeiro em curso.(Redação dada pela Lei nº 10.887, de 2004)\n\n§ 3o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 4o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 5o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 6o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 7o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\nArt. 2o-A. (Revogado pela Lei nº 10.887, de 2004)",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%202o%20A%20contribui%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%2C%20inclu%C3%ADdas%20suas%20autarquias%20e%20funda%C3%A7%C3%B5es%2C%20aos%20regimes%20pr%C3%B3prios",
+    "1-A": {
+      "numero": "1-A",
+      "texto": "Art. 1o-A. O servidor público titular de cargo efetivo da União, dos Estados, do Distrito Federal e dos Municípios ou o militar dos Estados e do Distrito Federal filiado a regime próprio de previdência social, quando cedido a órgão ou entidade de outro ente da federação, com ou sem ônus para o cessionário, permanecerá vinculado ao regime de origem. (Redação dada pela Medida Provisória nº 2.187-13, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%201o-A.%20O%20servidor%20p%C3%BAblico%20titular%20de%20cargo%20efetivo%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%20ou%20o%20militar",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -41,6 +41,38 @@
         "section_name": null
       },
       "prev": "1",
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o A contribuição da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, aos regimes próprios de previdência social a que estejam vinculados seus servidores não poderá ser inferior ao valor da contribuição do servidor ativo, nem superior ao dobro desta contribuição.(Redação dada pela Lei nº 10.887, de 2004)\n\n§ 1o A União, os Estados, o Distrito Federal e os Municípios são responsáveis pela cobertura de eventuais insuficiências financeiras do respectivo regime próprio, decorrentes do pagamento de benefícios previdenciários. (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 2o A União, os Estados, o Distrito Federal e os Municípios publicarão, até 30 (trinta) dias após o encerramento de cada bimestre, demonstrativo financeiro e orçamentário da receita e despesa previdenciárias acumuladas no exercício financeiro em curso.(Redação dada pela Lei nº 10.887, de 2004)\n\n§ 3o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 4o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 5o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 6o (revogado) (Redação dada pela Lei nº 10.887, de 2004)\n\n§ 7o (revogado) (Redação dada pela Lei nº 10.887, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%202o%20A%20contribui%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%2C%20inclu%C3%ADdas%20suas%20autarquias%20e%20funda%C3%A7%C3%B5es%2C%20aos%20regimes%20pr%C3%B3prios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-A",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. (Revogado pela Lei nº 10.887, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%202o-A.%20%28Revogado%20pela%20Lei%20n%C2%BA%2010.887%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
       "next": "3"
     },
     "3": {
@@ -56,7 +88,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "2",
+      "prev": "2-A",
       "next": "4"
     },
     "4": {
@@ -125,7 +157,7 @@
     },
     "8": {
       "numero": "8",
-      "texto": "Art. 8º Os responsáveis pelos poderes, órgãos ou entidades do ente estatal, os dirigentes da unidade gestora do respectivo regime próprio de previdência social e os membros dos seus conselhos e comitês respondem diretamente por infração ao disposto nesta Lei, sujeitando-se, no que couber, ao regime disciplinar estabelecido na Lei Complementar nº 109, de 29 de maio de 2001, e seu regulamento, e conforme diretrizes gerais. (Redação dada pela Lei nº 13.846, de 2019)\n\n§ 1º As infrações serão apuradas mediante processo administrativo que tenha por base o auto, a representação ou a denúncia positiva dos fatos irregulares, assegurados ao acusado o contraditório e a ampla defesa, em conformidade com diretrizes gerais. (Renumerado do parágrafo único pela Lei nº 13.846, de 2019)\n\n§ 2º São também responsáveis quaisquer profissionais que prestem serviços técnicos ao ente estatal e respectivo regime próprio de previdência social, diretamente ou por intermédio de pessoa jurídica contratada. (Incluído pela Lei nº 13.846, de 2019)\n\nArt. 8º-A Os dirigentes do ente federativo instituidor do regime próprio de previdência social e da unidade gestora do regime e os demais responsáveis pelas ações de investimento e aplicação dos recursos previdenciários, inclusive os consultores, os distribuidores, a instituição financeira administradora da carteira, o fundo de investimentos que tenha recebido os recursos e seus gestores e administradores serão solidariamente responsáveis, na medida de sua participação, pelo ressarcimento dos prejuízos decorrentes de aplicação em desacordo com a legislação vigente a que tiverem dado causa. (Incluído pela Lei nº 13.846, de 2019)\n\nArt. 8º-B Os dirigentes da unidade gestora do regime próprio de previdência social deverão atender aos seguintes requisitos mínimos: (Incluído pela Lei nº 13.846, de 2019)\n\nI - não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar; (Incluído pela Lei nº 13.846, de 2019)\n\nII - possuir certificação e habilitação comprovadas, nos termos definidos em parâmetros gerais; (Incluído pela Lei nº 13.846, de 2019)\n\nIII - possuir comprovada experiência no exercício de atividade nas áreas financeira, administrativa, contábil, jurídica, de fiscalização, atuarial ou de auditoria; (Incluído pela Lei nº 13.846, de 2019)\n\nIV - ter formação superior. (Incluído pela Lei nº 13.846, de 2019)\n\nParágrafo único. Os requisitos a que se referem os incisos I e II do caput deste artigo aplicam-se aos membros dos conselhos deliberativo e fiscal e do comitê de investimentos da unidade gestora do regime próprio de previdência social. (Incluído pela Lei nº 13.846, de 2019)",
+      "texto": "Art. 8º Os responsáveis pelos poderes, órgãos ou entidades do ente estatal, os dirigentes da unidade gestora do respectivo regime próprio de previdência social e os membros dos seus conselhos e comitês respondem diretamente por infração ao disposto nesta Lei, sujeitando-se, no que couber, ao regime disciplinar estabelecido na Lei Complementar nº 109, de 29 de maio de 2001, e seu regulamento, e conforme diretrizes gerais. (Redação dada pela Lei nº 13.846, de 2019)\n\n§ 1º As infrações serão apuradas mediante processo administrativo que tenha por base o auto, a representação ou a denúncia positiva dos fatos irregulares, assegurados ao acusado o contraditório e a ampla defesa, em conformidade com diretrizes gerais. (Renumerado do parágrafo único pela Lei nº 13.846, de 2019)\n\n§ 2º São também responsáveis quaisquer profissionais que prestem serviços técnicos ao ente estatal e respectivo regime próprio de previdência social, diretamente ou por intermédio de pessoa jurídica contratada. (Incluído pela Lei nº 13.846, de 2019)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%208%C2%BA%20Os%20respons%C3%A1veis%20pelos%20poderes%2C%20%C3%B3rg%C3%A3os%20ou%20entidades%20do%20ente%20estatal%2C%20os%20dirigentes%20da%20unidade%20gestora%20do%20respectivo%20regime%20pr%C3%B3prio%20de",
       "keywords": [],
       "hierarchy": {
@@ -137,6 +169,38 @@
         "section_name": null
       },
       "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A Os dirigentes do ente federativo instituidor do regime próprio de previdência social e da unidade gestora do regime e os demais responsáveis pelas ações de investimento e aplicação dos recursos previdenciários, inclusive os consultores, os distribuidores, a instituição financeira administradora da carteira, o fundo de investimentos que tenha recebido os recursos e seus gestores e administradores serão solidariamente responsáveis, na medida de sua participação, pelo ressarcimento dos prejuízos decorrentes de aplicação em desacordo com a legislação vigente a que tiverem dado causa. (Incluído pela Lei nº 13.846, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%208%C2%BA-A%20Os%20dirigentes%20do%20ente%20federativo%20instituidor%20do%20regime%20pr%C3%B3prio%20de%20previd%C3%AAncia%20social%20e%20da%20unidade%20gestora%20do%20regime%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B Os dirigentes da unidade gestora do regime próprio de previdência social deverão atender aos seguintes requisitos mínimos: (Incluído pela Lei nº 13.846, de 2019)\n\nI - não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar; (Incluído pela Lei nº 13.846, de 2019)\n\nII - possuir certificação e habilitação comprovadas, nos termos definidos em parâmetros gerais; (Incluído pela Lei nº 13.846, de 2019)\n\nIII - possuir comprovada experiência no exercício de atividade nas áreas financeira, administrativa, contábil, jurídica, de fiscalização, atuarial ou de auditoria; (Incluído pela Lei nº 13.846, de 2019)\n\nIV - ter formação superior. (Incluído pela Lei nº 13.846, de 2019)\n\nParágrafo único. Os requisitos a que se referem os incisos I e II do caput deste artigo aplicam-se aos membros dos conselhos deliberativo e fiscal e do comitê de investimentos da unidade gestora do regime próprio de previdência social. (Incluído pela Lei nº 13.846, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm#:~:text=Art.%208%C2%BA-B%20Os%20dirigentes%20da%20unidade%20gestora%20do%20regime%20pr%C3%B3prio%20de%20previd%C3%AAncia%20social%20dever%C3%A3o%20atender%20aos%20seguintes%20requisitos%20m%C3%ADnimos%3A%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-A",
       "next": "9"
     },
     "9": {
@@ -152,7 +216,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "8",
+      "prev": "8-B",
       "next": "10"
     },
     "10": {

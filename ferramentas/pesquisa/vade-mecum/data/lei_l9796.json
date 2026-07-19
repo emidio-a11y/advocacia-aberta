@@ -4,7 +4,7 @@
     "nome": "Compensação Financeira RGPS × RPPS (COMPREV)",
     "lei": "Lei 9.796/1999",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm",
-    "total_artigos": 10,
+    "total_artigos": 13,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -137,6 +137,54 @@
         "section_name": null
       },
       "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8o-A. A compensação financeira entre os regimes próprios de previdência social da União, dos Estados, do Distrito Federal e dos Municípios, na hipótese de contagem recíproca de tempos de contribuição, obedecerá, no que couber, às disposições desta Lei. (Vide Medida Provisória nº 2.060, de 2000) (Incluído pela Medida Provisória nº 2.187-13, de 2001)\n\n§ 1º O regulamento estabelecerá as disposições específicas a serem observadas na compensação financeira entre os regimes próprios de previdência social, inclusive no que se refere ao período de estoque e às condições para seu pagamento, admitido o parcelamento. (Incluído pela Lei nº 13.846, de 2019)\n\n§ 2º O ente federativo que não aderir à compensação financeira com os demais regimes próprios de previdência social ou inadimplir suas obrigações terá suspenso o recebimento dos valores devidos pela compensação com o regime geral de previdência social, na forma estabelecida no regulamento. (Incluído pela Lei nº 13.846, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%208o-A.%20A%20compensa%C3%A7%C3%A3o%20financeira%20entre%20os%20regimes%20pr%C3%B3prios%20de%20previd%C3%AAncia%20social%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B. A despesa federal anual resultante da compensação financeira entre o Regime Geral de Previdência Social e os regimes de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios fica limitada à dotação orçamentária para essa despesa na data de publicação de cada lei orçamentária anual. (Incluído pela Medida Provisória nº 1.303, de 2025) Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%208%C2%BA-B.%20A%20despesa%20federal%20anual%20resultante%20da%20compensa%C3%A7%C3%A3o%20financeira%20entre%20o%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%20e%20os%20regimes%20de%20previd%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-A",
+      "next": "8-C"
+    },
+    "8-C": {
+      "numero": "8-C",
+      "texto": "Art. 8º-C. A despesa federal anual resultante da compensação financeira entre o Regime Geral de Previdência Social e os regimes de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios fica limitada à dotação orçamentária para essa despesa na data de publicação de cada lei orçamentária anual. (Incluído pela Lei nº 15.265, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%208%C2%BA-C.%20A%20despesa%20federal%20anual%20resultante%20da%20compensa%C3%A7%C3%A3o%20financeira%20entre%20o%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%20e%20os%20regimes%20de%20previd%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-B",
       "next": "9"
     },
     "9": {
@@ -152,7 +200,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "8",
+      "prev": "8-C",
       "next": "10"
     },
     "10": {

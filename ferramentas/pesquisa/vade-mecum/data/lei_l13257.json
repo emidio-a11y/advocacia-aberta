@@ -1,0 +1,703 @@
+{
+  "_meta": {
+    "codigo": "L13257",
+    "nome": "Marco Legal da Primeira Infância",
+    "lei": "Lei 13.257/2016",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm",
+    "total_artigos": 43,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei estabelece princípios e diretrizes para a formulação e a implementação de políticas públicas para a primeira infância em atenção à especificidade e à relevância dos primeiros anos de vida no desenvolvimento infantil e no desenvolvimento do ser humano, em consonância com os princípios e diretrizes da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente) ; altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente); altera os arts. 6º, 185, 304 e 318 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal) ; acrescenta incisos ao art. 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 ; altera os arts. 1º, 3º, 4º e 5º da Lei nº 11.770, de 9 de setembro de 2008 ; e acrescenta parágrafos ao art. 5º da Lei nº 12.662, de 5 de junho de 2012 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20estabelece%20princ%C3%ADpios%20e%20diretrizes%20para%20a%20formula%C3%A7%C3%A3o%20e%20a%20implementa%C3%A7%C3%A3o%20de%20pol%C3%ADticas%20p%C3%BAblicas%20para%20a%20primeira%20inf%C3%A2ncia%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Para os efeitos desta Lei, considera-se primeira infância o período que abrange os primeiros 6 (seis) anos completos ou 72 (setenta e dois) meses de vida da criança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%202%C2%BA%20Para%20os%20efeitos%20desta%20Lei%2C%20considera-se%20primeira%20inf%C3%A2ncia%20o%20per%C3%ADodo%20que%20abrange%20os%20primeiros%206%20%28seis%29%20anos%20completos%20ou%2072",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A prioridade absoluta em assegurar os direitos da criança, do adolescente e do jovem, nos termos do art. 227 da Constituição Federal e do art. 4º da Lei nº 8.069, de 13 de julho de 1990 , implica o dever do Estado de estabelecer políticas, planos, programas e serviços para a primeira infância que atendam às especificidades dessa faixa etária, visando a garantir seu desenvolvimento integral.\n\n§ 1º É instituída a Política Nacional de Atendimento Educacional Especializado a Crianças de Zero a Três Anos (Atenção Precoce), viabilizada por meio da criação e da articulação de serviços multiprofissionais e intersetoriais de atenção precoce destinados a potencializar o processo de desenvolvimento e aprendizagem das crianças de 0 (zero) a 3 (três) anos, em cooperação, preferencialmente, com os serviços de saúde e assistência social. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)\n\n§ 2º A Atenção Precoce priorizará as crianças de 0 (zero) a 3 (três) anos que necessitem de atendimento educacional especializado e os bebês que tenham nascido em condição de risco, como os prematuros, os acometidos por asfixia perinatal ou os que apresentem problemas neurológicos, malformações congênitas, síndromes genéticas, entre outros. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%203%C2%BA%20A%20prioridade%20absoluta%20em%20assegurar%20os%20direitos%20da%20crian%C3%A7a%2C%20do%20adolescente%20e%20do%20jovem%2C%20nos%20termos%20do%20art.%20227%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º As políticas públicas voltadas ao atendimento dos direitos da criança na primeira infância serão elaboradas e executadas de forma a:\n\nI - atender ao interesse superior da criança e à sua condição de sujeito de direitos e de cidadã;\n\nII - incluir a participação da criança na definição das ações que lhe digam respeito, em conformidade com suas características etárias e de desenvolvimento;\n\nIII - respeitar a individualidade e os ritmos de desenvolvimento das crianças e valorizar a diversidade da infância brasileira, assim como as diferenças entre as crianças em seus contextos sociais e culturais;\n\nIV - reduzir as desigualdades no acesso aos bens e serviços que atendam aos direitos da criança na primeira infância, priorizando o investimento público na promoção da justiça social, da equidade e da inclusão sem discriminação da criança;\n\nV - articular as dimensões ética, humanista e política da criança cidadã com as evidências científicas e a prática profissional no atendimento da primeira infância;\n\nVI - adotar abordagem participativa, envolvendo a sociedade, por meio de suas organizações representativas, os profissionais, os pais e as crianças, no aprimoramento da qualidade das ações e na garantia da oferta dos serviços;\n\nVII - articular as ações setoriais com vistas ao atendimento integral e integrado;\n\nVIII - descentralizar as ações entre os entes da Federação;\n\nIX - promover a formação da cultura de proteção e promoção da criança, com apoio dos meios de comunicação social.\n\nX - promover o desenvolvimento das potencialidades das crianças de 0 (zero) a 3 (três) anos com deficiência, transtornos globais do desenvolvimento, altas habilidades ou superdotação e dos bebês que nasceram em condição de risco, no que se refere aos aspectos físico, cognitivo, psicoafetivo, social e cultural, de forma a priorizar o processo de interação e comunicação mediante atividades significativas e lúdicas; (Incluído pela Lei nº 14.880, de 4 de junho de 2024)\n\nXI - garantir o conjunto de serviços, apoios e recursos necessários para atender às necessidades das crianças de 0 (zero) a 3 (três) anos e às necessidades de suas famílias, com vistas à promoção do desenvolvimento infantil pleno e inclusivo, em colaboração interfederativa. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)\n\nParágrafo único. A participação da criança na formulação das políticas e das ações que lhe dizem respeito tem o objetivo de promover sua inclusão social como cidadã e dar-se-á de acordo com a especificidade de sua idade, devendo ser realizada por profissionais qualificados em processos de escuta adequados às diferentes formas de expressão infantil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%204%C2%BA%20As%20pol%C3%ADticas%20p%C3%BAblicas%20voltadas%20ao%20atendimento%20dos%20direitos%20da%20crian%C3%A7a%20na%20primeira%20inf%C3%A2ncia%20ser%C3%A3o%20elaboradas%20e%20executadas%20de%20forma%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Constituem áreas prioritárias para as políticas públicas para a primeira infância a saúde, a alimentação e a nutrição, a educação infantil, a convivência familiar e comunitária, a assistência social à família da criança, a cultura, o brincar e o lazer, o espaço e o meio ambiente, bem como a proteção contra toda forma de violência e de pressão consumista, a prevenção de acidentes e a adoção de medidas que evitem a exposição precoce à comunicação mercadológica.\n\nParágrafo único. Será conferida às crianças de 0 (zero) a 3 (três) anos referidas no § 2º do art. 3º desta Lei prioridade absoluta na oferta de serviços, apoios e recursos necessários ao seu pleno desenvolvimento infantil. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%205%C2%BA%20Constituem%20%C3%A1reas%20priorit%C3%A1rias%20para%20as%20pol%C3%ADticas%20p%C3%BAblicas%20para%20a%20primeira%20inf%C3%A2ncia%20a%20sa%C3%BAde%2C%20a%20alimenta%C3%A7%C3%A3o%20e%20a%20nutri%C3%A7%C3%A3o%2C%20a%20educa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A Política Nacional Integrada para a primeira infância será formulada e implementada mediante abordagem e coordenação intersetorial que articule as diversas políticas setoriais a partir de uma visão abrangente de todos os direitos da criança na primeira infância.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%206%C2%BA%20A%20Pol%C3%ADtica%20Nacional%20Integrada%20para%20a%20primeira%20inf%C3%A2ncia%20ser%C3%A1%20formulada%20e%20implementada%20mediante%20abordagem%20e%20coordena%C3%A7%C3%A3o%20intersetorial%20que%20articule%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A União, os Estados, o Distrito Federal e os Municípios poderão instituir, nos respectivos âmbitos, comitê intersetorial de políticas públicas para a primeira infância com a finalidade de assegurar a articulação das ações voltadas à proteção e à promoção dos direitos da criança, garantida a participação social por meio dos conselhos de direitos.\n\n§ 1º Caberá ao Poder Executivo no âmbito da União, dos Estados, do Distrito Federal e dos Municípios indicar o órgão responsável pela coordenação do comitê intersetorial previsto no caput deste artigo.\n\n§ 2º O órgão indicado pela União nos termos do § 1º deste artigo manterá permanente articulação com as instâncias de coordenação das ações estaduais, distrital e municipais de atenção à criança na primeira infância, visando à complementaridade das ações e ao cumprimento do dever do Estado na garantia dos direitos da criança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%207%C2%BA%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20instituir%2C%20nos%20respectivos%20%C3%A2mbitos%2C%20comit%C3%AA%20intersetorial%20de%20pol%C3%ADticas%20p%C3%BAblicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O pleno atendimento dos direitos da criança na primeira infância constitui objetivo comum de todos os entes da Federação, segundo as respectivas competências constitucionais e legais, a ser alcançado em regime de colaboração entre a União, os Estados, o Distrito Federal e os Municípios.\n\nParágrafo único. A União buscará a adesão dos Estados, do Distrito Federal e dos Municípios à abordagem multi e intersetorial no atendimento dos direitos da criança na primeira infância e oferecerá assistência técnica na elaboração de planos estaduais, distrital e municipais para a primeira infância que articulem os diferentes setores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%208%C2%BA%20O%20pleno%20atendimento%20dos%20direitos%20da%20crian%C3%A7a%20na%20primeira%20inf%C3%A2ncia%20constitui%20objetivo%20comum%20de%20todos%20os%20entes%20da%20Federa%C3%A7%C3%A3o%2C%20segundo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º As políticas para a primeira infância serão articuladas com as instituições de formação profissional, visando à adequação dos cursos às características e necessidades das crianças e à formação de profissionais qualificados, para possibilitar a expansão com qualidade dos diversos serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%209%C2%BA%20As%20pol%C3%ADticas%20para%20a%20primeira%20inf%C3%A2ncia%20ser%C3%A3o%20articuladas%20com%20as%20institui%C3%A7%C3%B5es%20de%20forma%C3%A7%C3%A3o%20profissional%2C%20visando%20%C3%A0%20adequa%C3%A7%C3%A3o%20dos%20cursos%20%C3%A0s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Os profissionais que atuam nos diferentes ambientes de execução das políticas e programas destinados à criança na primeira infância terão acesso garantido e prioritário à qualificação, sob a forma de especialização e atualização, em programas que contemplem, entre outros temas, a especificidade da primeira infância, a estratégia da intersetorialidade na promoção do desenvolvimento integral e a prevenção e a proteção contra toda forma de violência contra a criança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2010.%20Os%20profissionais%20que%20atuam%20nos%20diferentes%20ambientes%20de%20execu%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20e%20programas%20destinados%20%C3%A0%20crian%C3%A7a%20na%20primeira%20inf%C3%A2ncia%20ter%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. As políticas públicas terão, necessariamente, componentes de monitoramento e coleta sistemática de dados, avaliação periódica dos elementos que constituem a oferta dos serviços à criança e divulgação dos seus resultados.\n\n§ 1º A União manterá instrumento individual de registro unificado de dados do crescimento e desenvolvimento da criança, assim como sistema informatizado, que inclua as redes pública e privada de saúde, para atendimento ao disposto neste artigo.\n\n§ 2º A União informará à sociedade a soma dos recursos aplicados anualmente no conjunto dos programas e serviços para a primeira infância e o percentual que os valores representam em relação ao respectivo orçamento realizado, bem como colherá informações sobre os valores aplicados pelos demais entes da Federação.\n\n§ 3º Para atender ao disposto neste artigo, será implementado, em articulação com os entes federados, sistema nacional de informação sobre o desenvolvimento integral da primeira infância, com integração dos bancos de dados das áreas de saúde, educação, assistência social e proteção. (Incluído pela Lei nº 15.220, de 2025)\n\n§ 4º O sistema de que trata o § 3º contará também com informações detalhadas sobre creches e demais instituições de atendimento à primeira infância, de forma a assegurar a qualidade da oferta de educação infantil, nos termos do disposto no art. 16 desta Lei e na legislação educacional. (Incluído pela Lei nº 15.220, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2011.%20As%20pol%C3%ADticas%20p%C3%BAblicas%20ter%C3%A3o%2C%20necessariamente%2C%20componentes%20de%20monitoramento%20e%20coleta%20sistem%C3%A1tica%20de%20dados%2C%20avalia%C3%A7%C3%A3o%20peri%C3%B3dica%20dos%20elementos%20que%20constituem%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A sociedade participa solidariamente com a família e o Estado da proteção e da promoção da criança na primeira infância, nos termos do caput e do § 7º do art. 227 , combinado com o inciso II do art. 204 da Constituição Federal , entre outras formas:\n\nI - formulando políticas e controlando ações, por meio de organizações representativas;\n\nII - integrando conselhos, de forma paritária com representantes governamentais, com funções de planejamento, acompanhamento, controle social e avaliação;\n\nIII - executando ações diretamente ou em parceria com o poder público;\n\nIV - desenvolvendo programas, projetos e ações compreendidos no conceito de responsabilidade social e de investimento social privado;\n\nV - criando, apoiando e participando de redes de proteção e cuidado à criança nas comunidades;\n\nVI - promovendo ou participando de campanhas e ações que visem a aprofundar a consciência social sobre o significado da primeira infância no desenvolvimento do ser humano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2012.%20A%20sociedade%20participa%20solidariamente%20com%20a%20fam%C3%ADlia%20e%20o%20Estado%20da%20prote%C3%A7%C3%A3o%20e%20da%20promo%C3%A7%C3%A3o%20da%20crian%C3%A7a%20na%20primeira%20inf%C3%A2ncia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A União, os Estados, o Distrito Federal e os Municípios apoiarão a participação das famílias em redes de proteção e cuidado da criança em seus contextos sociofamiliar e comunitário visando, entre outros objetivos, à formação e ao fortalecimento dos vínculos familiares e comunitários, com prioridade aos contextos que apresentem riscos ao desenvolvimento da criança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2013.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20apoiar%C3%A3o%20a%20participa%C3%A7%C3%A3o%20das%20fam%C3%ADlias%20em%20redes%20de%20prote%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. As políticas e programas governamentais de apoio às famílias, incluindo as visitas domiciliares e os programas de promoção da paternidade e maternidade responsáveis, buscarão a articulação das áreas de saúde, nutrição, educação, assistência social, cultura, trabalho, habitação, meio ambiente e direitos humanos, entre outras, com vistas ao desenvolvimento integral da criança.\n\n§ 1º Os programas que se destinam ao fortalecimento da família no exercício de sua função de cuidado e educação de seus filhos na primeira infância promoverão atividades centradas na criança, focadas na família e baseadas na comunidade.\n\n§ 2º As famílias identificadas nas redes de saúde, educação e assistência social e nos órgãos do Sistema de Garantia dos Direitos da Criança e do Adolescente que se encontrem em situação de vulnerabilidade e de risco ou com direitos violados para exercer seu papel protetivo de cuidado e educação da criança na primeira infância, bem como as que têm crianças com indicadores de risco ou deficiência, terão prioridade nas políticas sociais públicas.\n\n§ 3º As gestantes e as famílias com crianças na primeira infância deverão receber orientação e formação sobre maternidade e paternidade responsáveis, aleitamento materno, alimentação complementar saudável, crescimento e desenvolvimento infantil integral, prevenção de acidentes e educação sem uso de castigos físicos, nos termos da Lei nº 13.010, de 26 de junho de 2014 , com o intuito de favorecer a formação e a consolidação de vínculos afetivos e estimular o desenvolvimento integral na primeira infância.\n\n§ 4º A oferta de programas e de ações de visita domiciliar e de outras modalidades que estimulem o desenvolvimento integral na primeira infância será considerada estratégia de atuação sempre que respaldada pelas políticas públicas sociais e avaliada pela equipe profissional responsável.\n\n§ 5º Os programas de visita domiciliar voltados ao cuidado e educação na primeira infância deverão contar com profissionais qualificados, apoiados por medidas que assegurem sua permanência e formação continuada.\n\n§ 6º Os programas de visita domiciliar deverão dar prioridade de atendimento às crianças referidas no § 2º do art. 3º desta Lei, com o objetivo de identificar de forma precoce necessidades específicas de atenção e promover o desenvolvimento integral dessas crianças, encaminhadas, inclusive, por meio de serviços estruturados de atenção precoce. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2014.%20As%20pol%C3%ADticas%20e%20programas%20governamentais%20de%20apoio%20%C3%A0s%20fam%C3%ADlias%2C%20incluindo%20as%20visitas%20domiciliares%20e%20os%20programas%20de%20promo%C3%A7%C3%A3o%20da%20paternidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. As políticas públicas criarão condições e meios para que, desde a primeira infância, a criança tenha acesso à produção cultural e seja reconhecida como produtora de cultura.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2015.%20As%20pol%C3%ADticas%20p%C3%BAblicas%20criar%C3%A3o%20condi%C3%A7%C3%B5es%20e%20meios%20para%20que%2C%20desde%20a%20primeira%20inf%C3%A2ncia%2C%20a%20crian%C3%A7a%20tenha%20acesso%20%C3%A0%20produ%C3%A7%C3%A3o%20cultural",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A expansão da educação infantil deverá ser feita de maneira a assegurar a qualidade da oferta, com instalações e equipamentos que obedeçam a padrões de infraestrutura estabelecidos pelo Ministério da Educação, com profissionais qualificados conforme dispõe a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional) , e com currículo e materiais pedagógicos adequados à proposta pedagógica.\n\nParágrafo único. A expansão da educação infantil das crianças de 0 (zero) a 3 (três) anos de idade, no cumprimento da meta do Plano Nacional de Educação, atenderá aos critérios definidos no território nacional pelo competente sistema de ensino, em articulação com as demais políticas sociais.\n\n§ 1º A expansão da educação infantil das crianças de 0 (zero) a 3 (três) anos de idade, no cumprimento da meta do Plano Nacional de Educação, atenderá aos critérios definidos no território nacional pelo competente sistema de ensino, em articulação com as demais políticas sociais. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)\n\n§ 2º Os serviços de atenção precoce atinentes à faixa etária de 0 (zero) a 3 (três) anos, expressão do atendimento educacional especializado em uma perspectiva inclusiva, serão realizados em espaços físicos adequados ou adaptados às necessidades da criança, que contarão com infraestrutura e recursos pedagógicos e de acessibilidade apropriados ao trabalho a ser desenvolvido, bem como com profissionais qualificados. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)\n\n§ 3º Os serviços de atenção precoce e sua operacionalização deverão ter como eixos a perspectiva inclusiva e o processo de aprendizagem global das crianças e deverão fixar objetivos pedagógicos, enfatizar a construção do conhecimento e desenvolver trabalhos coletivos direcionados à aquisição de competências humanas e sociais. (Incluído pela Lei nº 14.880, de 4 de junho de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2016.%20A%20expans%C3%A3o%20da%20educa%C3%A7%C3%A3o%20infantil%20dever%C3%A1%20ser%20feita%20de%20maneira%20a%20assegurar%20a%20qualidade%20da%20oferta%2C%20com%20instala%C3%A7%C3%B5es%20e%20equipamentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A União, os Estados, o Distrito Federal e os Municípios deverão organizar e estimular a criação de espaços lúdicos que propiciem o bem-estar, o brincar e o exercício da criatividade em locais públicos e privados onde haja circulação de crianças, bem como a fruição de ambientes livres e seguros em suas comunidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2017.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20dever%C3%A3o%20organizar%20e%20estimular%20a%20cria%C3%A7%C3%A3o%20de%20espa%C3%A7os%20l%C3%BAdicos%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O art. 3º da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente) , passa a vigorar acrescido do seguinte parágrafo único:\n\n“Art. 3º ..........................................................................\n\nParágrafo único. Os direitos enunciados nesta Lei aplicam-se a todas as crianças e adolescentes, sem discriminação de nascimento, situação familiar, idade, sexo, raça, etnia ou cor, religião ou crença, deficiência, condição pessoal de desenvolvimento e aprendizagem, condição econômica, ambiente social, região e local de moradia ou outra condição que diferencie as pessoas, as famílias ou a comunidade em que vivem.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2018.%20O%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%28Estatuto%20da%20Crian%C3%A7a%20e%20do%20Adolescente%29%20%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O art. 8º da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“ Art. 8º É assegurado a todas as mulheres o acesso aos programas e às políticas de saúde da mulher e de planejamento reprodutivo e, às gestantes, nutrição adequada, atenção humanizada à gravidez, ao parto e ao puerpério e atendimento pré-natal, perinatal e pós-natal integral no âmbito do Sistema Único de Saúde.\n\n§ 1º O atendimento pré-natal será realizado por profissionais da atenção primária.\n\n§ 2º Os profissionais de saúde de referência da gestante garantirão sua vinculação, no último trimestre da gestação, ao estabelecimento em que será realizado o parto, garantido o direito de opção da mulher.\n\n§ 3º Os serviços de saúde onde o parto for realizado assegurarão às mulheres e aos seus filhos recém-nascidos alta hospitalar responsável e contrarreferência na atenção primária, bem como o acesso a outros serviços e a grupos de apoio à amamentação.\n\n.............................................................................................\n\n§ 5º A assistência referida no § 4º deste artigo deverá ser prestada também a gestantes e mães que manifestem interesse em entregar seus filhos para adoção, bem como a gestantes e mães que se encontrem em situação de privação de liberdade.\n\n§ 6º A gestante e a parturiente têm direito a 1 (um) acompanhante de sua preferência durante o período do pré-natal, do trabalho de parto e do pós-parto imediato.\n\n§ 7º A gestante deverá receber orientação sobre aleitamento materno, alimentação complementar saudável e crescimento e desenvolvimento infantil, bem como sobre formas de favorecer a criação de vínculos afetivos e de estimular o desenvolvimento integral da criança.\n\n§ 8º A gestante tem direito a acompanhamento saudável durante toda a gestação e a parto natural cuidadoso, estabelecendo-se a aplicação de cesariana e outras intervenções cirúrgicas por motivos médicos.\n\n§ 9º A atenção primária à saúde fará a busca ativa da gestante que não iniciar ou que abandonar as consultas de pré-natal, bem como da puérpera que não comparecer às consultas pós-parto.\n\n§ 10. Incumbe ao poder público garantir, à gestante e à mulher com filho na primeira infância que se encontrem sob custódia em unidade de privação de liberdade, ambiência que atenda às normas sanitárias e assistenciais do Sistema Único de Saúde para o acolhimento do filho, em articulação com o sistema de ensino competente, visando ao desenvolvimento integral da criança.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2019.%20O%20art.%208%C2%BA%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O art. 9º da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido dos seguintes §§ 1º e 2º :\n\n“Art. 9º ........................................................................\n\n§ 1º Os profissionais das unidades primárias de saúde desenvolverão ações sistemáticas, individuais ou coletivas, visando ao planejamento, à implementação e à avaliação de ações de promoção, proteção e apoio ao aleitamento materno e à alimentação complementar saudável, de forma contínua.\n\n§ 2º Os serviços de unidades de terapia intensiva neonatal deverão dispor de banco de leite humano ou unidade de coleta de leite humano.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2020.%20O%20art.%209%C2%BA%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O art. 11 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“ Art. 11. É assegurado acesso integral às linhas de cuidado voltadas à saúde da criança e do adolescente, por intermédio do Sistema Único de Saúde, observado o princípio da equidade no acesso a ações e serviços para promoção, proteção e recuperação da saúde.\n\n§ 1º A criança e o adolescente com deficiência serão atendidos, sem discriminação ou segregação, em suas necessidades gerais de saúde e específicas de habilitação e reabilitação.\n\n§ 2º Incumbe ao poder público fornecer gratuitamente, àqueles que necessitarem, medicamentos, órteses, próteses e outras tecnologias assistivas relativas ao tratamento, habilitação ou reabilitação para crianças e adolescentes, de acordo com as linhas de cuidado voltadas às suas necessidades específicas.\n\n§ 3º Os profissionais que atuam no cuidado diário ou frequente de crianças na primeira infância receberão formação específica e permanente para a detecção de sinais de risco para o desenvolvimento psíquico, bem como para o acompanhamento que se fizer necessário.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2021.%20O%20art.%2011%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O art. 12 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“ Art. 12. Os estabelecimentos de atendimento à saúde, inclusive as unidades neonatais, de terapia intensiva e de cuidados intermediários, deverão proporcionar condições para a permanência em tempo integral de um dos pais ou responsável, nos casos de internação de criança ou adolescente.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2022.%20O%20art.%2012%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O art. 13 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido do seguinte § 2º, numerando-se o atual parágrafo único como § 1º :\n\n“Art. 13. .......................................................................\n\n§ 1º As gestantes ou mães que manifestem interesse em entregar seus filhos para adoção serão obrigatoriamente encaminhadas, sem constrangimento, à Justiça da Infância e da Juventude.\n\n§ 2º Os serviços de saúde em suas diferentes portas de entrada, os serviços de assistência social em seu componente especializado, o Centro de Referência Especializado de Assistência Social (Creas) e os demais órgãos do Sistema de Garantia de Direitos da Criança e do Adolescente deverão conferir máxima prioridade ao atendimento das crianças na faixa etária da primeira infância com suspeita ou confirmação de violência de qualquer natureza, formulando projeto terapêutico singular que inclua intervenção em rede e, se necessário, acompanhamento domiciliar.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2023.%20O%20art.%2013%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O art. 14 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido dos seguintes §§ 2º, 3º e 4º, numerando-se o atual parágrafo único como § 1º :\n\n“Art. 14. .......................................................................\n\n§ 1º .............................................................................\n\n§ 2º O Sistema Único de Saúde promoverá a atenção à saúde bucal das crianças e das gestantes, de forma transversal, integral e intersetorial com as demais linhas de cuidado direcionadas à mulher e à criança.\n\n§ 3º A atenção odontológica à criança terá função educativa protetiva e será prestada, inicialmente, antes de o bebê nascer, por meio de aconselhamento pré-natal, e, posteriormente, no sexto e no décimo segundo anos de vida, com orientações sobre saúde bucal.\n\n§ 4º A criança com necessidade de cuidados odontológicos especiais será atendida pelo Sistema Único de Saúde.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2024.%20O%20art.%2014%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O art. 19 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“ Art. 19. É direito da criança e do adolescente ser criado e educado no seio de sua família e, excepcionalmente, em família substituta, assegurada a convivência familiar e comunitária, em ambiente que garanta seu desenvolvimento integral.\n\n.............................................................................................\n\n§ 3º A manutenção ou a reintegração de criança ou adolescente à sua família terá preferência em relação a qualquer outra providência, caso em que será esta incluída em serviços e programas de proteção, apoio e promoção, nos termos do § 1º do art. 23, dos incisos I e IV do caput do art. 101 e dos incisos I a IV do caput do art. 129 desta Lei.\n\n....................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2025.%20O%20art.%2019%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O art. 22 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido do seguinte parágrafo único:\n\n“Art. 22. .......................................................................\n\nParágrafo único. A mãe e o pai, ou os responsáveis, têm direitos iguais e deveres e responsabilidades compartilhados no cuidado e na educação da criança, devendo ser resguardado o direito de transmissão familiar de suas crenças e culturas, assegurados os direitos da criança estabelecidos nesta Lei.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2026.%20O%20art.%2022%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O § 1º do art. 23 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“Art. 23. ......................................................................\n\n§ 1º Não existindo outro motivo que por si só autorize a decretação da medida, a criança ou o adolescente será mantido em sua família de origem, a qual deverá obrigatoriamente ser incluída em serviços e programas oficiais de proteção, apoio e promoção.\n\n...................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2027.%20O%20%C2%A7%201%C2%BA%20do%20art.%2023%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O art. 34 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido dos seguintes §§ 3º e 4º :\n\n“Art. 34. ......................................................................\n\n............................................................................................\n\n§ 3º A União apoiará a implementação de serviços de acolhimento em família acolhedora como política pública, os quais deverão dispor de equipe que organize o acolhimento temporário de crianças e de adolescentes em residências de famílias selecionadas, capacitadas e acompanhadas que não estejam no cadastro de adoção.\n\n§ 4º Poderão ser utilizados recursos federais, estaduais, distritais e municipais para a manutenção dos serviços de acolhimento em família acolhedora, facultando-se o repasse de recursos para a própria família acolhedora.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2028.%20O%20art.%2034%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O inciso II do art. 87 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“Art. 87. .......................................................................\n\n.............................................................................................\n\nII - serviços, programas, projetos e benefícios de assistência social de garantia de proteção social e de prevenção e redução de violações de direitos, seus agravamentos ou reincidências;\n\n...................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2029.%20O%20inciso%20II%20do%20art.%2087%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. O art. 88 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido dos seguintes incisos VIII, IX e X:\n\n“Art. 88. ......................................................................\n\n............................................................................................\n\nVIII - especialização e formação continuada dos profissionais que trabalham nas diferentes áreas da atenção à primeira infância, incluindo os conhecimentos sobre direitos da criança e sobre desenvolvimento infantil;\n\nIX - formação profissional com abrangência dos diversos direitos da criança e do adolescente que favoreça a intersetorialidade no atendimento da criança e do adolescente e seu desenvolvimento integral;\n\nX - realização e divulgação de pesquisas sobre desenvolvimento infantil e sobre prevenção da violência.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2030.%20O%20art.%2088%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O art. 92 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido do seguinte § 7º :\n\n“Art. 92. .....................................................................\n\n.............................................................................................\n\n§ 7º Quando se tratar de criança de 0 (zero) a 3 (três) anos em acolhimento institucional, dar-se-á especial atenção à atuação de educadores de referência estáveis e qualitativamente significativos, às rotinas específicas e ao atendimento das necessidades básicas, incluindo as de afeto como prioritárias.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2031.%20O%20art.%2092%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O inciso IV do caput do art. 101 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“Art. 101. ....................................................................\n\n............................................................................................\n\nIV - inclusão em serviços e programas oficiais ou comunitários de proteção, apoio e promoção da família, da criança e do adolescente;\n\n...................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2032.%20O%20inciso%20IV%20do%20caput%20do%20art.%20101%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O art. 102 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescido dos seguintes §§ 5º e 6º :\n\n“Art. 102. ....................................................................\n\n...........................................................................................\n\n§ 5º Os registros e certidões necessários à inclusão, a qualquer tempo, do nome do pai no assento de nascimento são isentos de multas, custas e emolumentos, gozando de absoluta prioridade.\n\n§ 6º São gratuitas, a qualquer tempo, a averbação requerida do reconhecimento de paternidade no assento de nascimento e a certidão correspondente.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2033.%20O%20art.%20102%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O inciso I do art. 129 da Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar com a seguinte redação:\n\n“Art. 129. ....................................................................\n\nI - encaminhamento a serviços e programas oficiais ou comunitários de proteção, apoio e promoção da família;\n\n..................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2034.%20O%20inciso%20I%20do%20art.%20129%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os §§ 1º -A e 2º do art. 260 da Lei nº 8.069, de 13 de julho de 1990 , passam a vigorar com a seguinte redação:\n\n“Art. 260. ....................................................................\n\n............................................................................................\n\n§ 1º -A. Na definição das prioridades a serem atendidas com os recursos captados pelos fundos nacional, estaduais e municipais dos direitos da criança e do adolescente, serão consideradas as disposições do Plano Nacional de Promoção, Proteção e Defesa do Direito de Crianças e Adolescentes à Convivência Familiar e Comunitária e as do Plano Nacional pela Primeira Infância.\n\n§ 2º Os conselhos nacional, estaduais e municipais dos direitos da criança e do adolescente fixarão critérios de utilização, por meio de planos de aplicação, das dotações subsidiadas e demais receitas, aplicando necessariamente percentual para incentivo ao acolhimento, sob a forma de guarda, de crianças e adolescentes e para programas de atenção integral à primeira infância em áreas de maior carência socioeconômica e em situações de calamidade.\n\n.................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2035.%20Os%20%C2%A7%C2%A7%201%C2%BA%20-A%20e%202%C2%BA%20do%20art.%20260%20da%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A Lei nº 8.069, de 13 de julho de 1990 , passa a vigorar acrescida do seguinte art. 265-A:\n\n“ Art. 265-A. O poder público fará periodicamente ampla divulgação dos direitos da criança e do adolescente nos meios de comunicação social.\n\nParágrafo único. A divulgação a que se refere o caput será veiculada em linguagem clara, compreensível e adequada a crianças e adolescentes, especialmente às crianças com idade inferior a 6 (seis) anos.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2036.%20A%20Lei%20n%C2%BA%208.069%2C%20de%2013%20de%20julho%20de%201990%20%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.%20265-A%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O art. 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , passa a vigorar acrescido dos seguintes incisos X e XI:\n\n“Art. 473. ....................................................................\n\n.............................................................................................\n\nX - até 2 (dois) dias para acompanhar consultas médicas e exames complementares durante o período de gravidez de sua esposa ou companheira; (Vide Medida Provisória nº 1.116, de 2022)\n\nXI - por 1 (um) dia por ano para acompanhar filho de até 6 (seis) anos em consulta médica.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2037.%20O%20art.%20473%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20%28CLT%29%2C%20aprovada%20pelo%20Decreto-Lei%20n%C2%BA%205.452%2C%20de%201%C2%BA%20de%20maio%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os arts. 1º, 3º, 4º e 5º da Lei nº 11.770, de 9 de setembro de 2008 , passam a vigorar com as seguintes alterações: (Produção de efeito)\n\n“ Art. 1º É instituído o Programa Empresa Cidadã, destinado a prorrogar:\n\nI - por 60 (sessenta) dias a duração da licença-maternidade prevista no inciso XVIII do caput do art. 7º da Constituição Federal ;\n\nII - por 15 (quinze) dias a duração da licença-paternidade, nos termos desta Lei, além dos 5 (cinco) dias estabelecidos no § 1º do art. 10 do Ato das Disposições Constitucionais Transitórias .\n\n§ 1º A prorrogação de que trata este artigo:\n\nI - será garantida à empregada da pessoa jurídica que aderir ao Programa, desde que a empregada a requeira até o final do primeiro mês após o parto, e será concedida imediatamente após a fruição da licença-maternidade de que trata o inciso XVIII do caput do art. 7º da Constituição Federal ;\n\nII - será garantida ao empregado da pessoa jurídica que aderir ao Programa, desde que o empregado a requeira no prazo de 2 (dois) dias úteis após o parto e comprove participação em programa ou atividade de orientação sobre paternidade responsável.\n\n§ 2º A prorrogação será garantida, na mesma proporção, à empregada e ao empregado que adotar ou obtiver guarda judicial para fins de adoção de criança.” (NR)\n\n“ Art. 3º Durante o período de prorrogação da licença-maternidade e da licença-paternidade:\n\nI - a empregada terá direito à remuneração integral, nos mesmos moldes devidos no período de percepção do salário-maternidade pago pelo Regime Geral de Previdência Social (RGPS);\n\nII - o empregado terá direito à remuneração integral.” (NR)\n\n“ Art. 4º No período de prorrogação da licença-maternidade e da licença-paternidade de que trata esta Lei, a empregada e o empregado não poderão exercer nenhuma atividade remunerada, e a criança deverá ser mantida sob seus cuidados.\n\nParágrafo único. Em caso de descumprimento do disposto no caput deste artigo, a empregada e o empregado perderão o direito à prorrogação.” (NR)\n\n“ Art. 5º A pessoa jurídica tributada com base no lucro real poderá deduzir do imposto devido, em cada período de apuração, o total da remuneração integral da empregada e do empregado pago nos dias de prorrogação de sua licença-maternidade e de sua licença-paternidade, vedada a dedução como despesa operacional.\n\n..................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2038.%20Os%20arts.%201%C2%BA%2C%203%C2%BA%2C%204%C2%BA%20e%205%C2%BA%20da%20Lei%20n%C2%BA%2011.770%2C%20de%209%20de%20setembro%20de%202008%20%2C%20passam%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O Poder Executivo, com vistas ao cumprimento do disposto no inciso II do caput do art. 5º e nos arts. 12 e 14 da Lei Complementar nº 101, de 4 de maio de 2000 , estimará o montante da renúncia fiscal decorrente do disposto no art. 38 desta Lei e o incluirá no demonstrativo a que se refere o § 6º do art. 165 da Constituição Federal , que acompanhará o projeto de lei orçamentária cuja apresentação se der após decorridos 60 (sessenta) dias da publicação desta Lei. (Produção de efeito)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2039.%20O%20Poder%20Executivo%2C%20com%20vistas%20ao%20cumprimento%20do%20disposto%20no%20inciso%20II%20do%20caput%20do%20art.%205%C2%BA%20e%20nos%20arts.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os arts. 38 e 39 desta Lei produzem efeitos a partir do primeiro dia do exercício subsequente àquele em que for implementado o disposto no art. 39.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2040.%20Os%20arts.%2038%20e%2039%20desta%20Lei%20produzem%20efeitos%20a%20partir%20do%20primeiro%20dia%20do%20exerc%C3%ADcio%20subsequente%20%C3%A0quele%20em%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Os arts. 6º, 185, 304 e 318 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal) , passam a vigorar com as seguintes alterações:\n\n“Art. 6º .........................................................................\n\n.............................................................................................\n\nX - colher informações sobre a existência de filhos, respectivas idades e se possuem alguma deficiência e o nome e o contato de eventual responsável pelos cuidados dos filhos, indicado pela pessoa presa.” (NR)\n\n“Art. 185. ....................................................................\n\n............................................................................................\n\n§ 10. Do interrogatório deverá constar a informação sobre a existência de filhos, respectivas idades e se possuem alguma deficiência e o nome e o contato de eventual responsável pelos cuidados dos filhos, indicado pela pessoa presa.” (NR)\n\n“Art. 304. ....................................................................\n\n............................................................................................\n\n§ 4º Da lavratura do auto de prisão em flagrante deverá constar a informação sobre a existência de filhos, respectivas idades e se possuem alguma deficiência e o nome e o contato de eventual responsável pelos cuidados dos filhos, indicado pela pessoa presa.” (NR)\n\n“Art. 318. .....................................................................\n\n.............................................................................................\n\nIV - gestante;\n\nV - mulher com filho de até 12 (doze) anos de idade incompletos;\n\nVI - homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.\n\n...................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2041.%20Os%20arts.%206%C2%BA%2C%20185%2C%20304%20e%20318%20do%20Decreto-Lei%20n%C2%BA%203.689%2C%20de%203%20de%20outubro%20de%201941%20%28C%C3%B3digo%20de%20Processo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O art. 5º da Lei nº 12.662, de 5 de junho de 2012 , passa a vigorar acrescido dos seguintes §§ 3º e 4º :\n\n“Art. 5º .........................................................................\n\n.............................................................................................\n\n§ 3º O sistema previsto no caput deverá assegurar a interoperabilidade com o Sistema Nacional de Informações de Registro Civil (Sirc).\n\n§ 4º Os estabelecimentos de saúde públicos e privados que realizam partos terão prazo de 1 (um) ano para se interligarem, mediante sistema informatizado, às serventias de registro civil existentes nas unidades federativas que aderirem ao sistema interligado previsto em regramento do Conselho Nacional de Justiça (CNJ).” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2042.%20O%20art.%205%C2%BA%20da%20Lei%20n%C2%BA%2012.662%2C%20de%205%20de%20junho%20de%202012%20%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 8 de março de 2016; 195º da Independência e 128º da República.\n\nDILMA ROUSSEFF Nelson Barbosa Aloizio Mercadante Marcelo Costa e Castro Tereza Campello Nilma Lino Gomes\n\nEste texto não substitui o publicado no DOU de 9.3.2016\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm#:~:text=Art.%2043.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": null
+    }
+  }
+}

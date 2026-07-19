@@ -8,10 +8,10 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 52 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
+contém 55 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
 acrescentadas em 19 de julho de 2026 pela expansão da legislação — dez casos do
 piloto e dois a três casos julgados por fatia promovida (estatutos,
-trabalhista, codificadas, penal, tributária e previdenciária):
+trabalhista, codificadas, penal, tributária, previdenciária e cível/família):
 
 | Família | Consultas |
 |---|---:|
@@ -20,7 +20,7 @@ trabalhista, codificadas, penal, tributária e previdenciária):
 | Súmulas vinculantes | 3 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
-| Legislação | 35 |
+| Legislação | 38 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
 e resultados canônicos obrigatórios. Os julgamentos foram feitos sobre o conteúdo do
@@ -50,13 +50,13 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8106 | 0,9892 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,8223 | 0,9900 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Legislação | 0,8387 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Legislação | 0,8529 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 
 Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
 snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatias já
@@ -65,7 +65,10 @@ promovidas da expansão). O caso
 no corpus: a atualização oficial da edição 45 reescreveu a tese 4, que deixou de
 versar diretamente sobre aplicação da pena. Os dez casos dos diplomas novos foram
 julgados sobre o conteúdo dos snapshots; esses diplomas não têm índice curado e a
-busca usa o texto integral dos dispositivos.
+busca usa o texto integral dos dispositivos. Três casos (Código Florestal,
+lavagem de dinheiro e interceptação) tiveram os julgamentos revisados com
+justificativa registrada depois que a correção do rótulo "Art. 1º-A" separou
+dispositivos antes absorvidos no artigo anterior.
 
 Os valores são uma linha de base operacional, não uma alegação de precisão geral para
 qualquer consulta jurídica.

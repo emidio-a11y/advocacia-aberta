@@ -1,0 +1,207 @@
+{
+  "_meta": {
+    "codigo": "L11804",
+    "nome": "Alimentos Gravídicos",
+    "lei": "Lei 11.804/2008",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm",
+    "total_artigos": 12,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei disciplina o direito de alimentos da mulher gestante e a forma como será exercido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%201o%20Esta%20Lei%20disciplina%20o%20direito%20de%20alimentos%20da%20mulher%20gestante%20e%20a%20forma%20como%20ser%C3%A1%20exercido.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Os alimentos de que trata esta Lei compreenderão os valores suficientes para cobrir as despesas adicionais do período de gravidez e que sejam dela decorrentes, da concepção ao parto, inclusive as referentes a alimentação especial, assistência médica e psicológica, exames complementares, internações, parto, medicamentos e demais prescrições preventivas e terapêuticas indispensáveis, a juízo do médico, além de outras que o juiz considere pertinentes.\n\nParágrafo único. Os alimentos de que trata este artigo referem-se à parte das despesas que deverá ser custeada pelo futuro pai, considerando-se a contribuição que também deverá ser dada pela mulher grávida, na proporção dos recursos de ambos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%202o%20Os%20alimentos%20de%20que%20trata%20esta%20Lei%20compreender%C3%A3o%20os%20valores%20suficientes%20para%20cobrir%20as%20despesas%20adicionais%20do%20per%C3%ADodo%20de%20gravidez",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%203%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%204%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%205%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Convencido da existência de indícios da paternidade, o juiz fixará alimentos gravídicos que perdurarão até o nascimento da criança, sopesando as necessidades da parte autora e as possibilidades da parte ré.\n\nParágrafo único. Após o nascimento com vida, os alimentos gravídicos ficam convertidos em pensão alimentícia em favor do menor até que uma das partes solicite a sua revisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%206o%20Convencido%20da%20exist%C3%AAncia%20de%20ind%C3%ADcios%20da%20paternidade%2C%20o%20juiz%20fixar%C3%A1%20alimentos%20grav%C3%ADdicos%20que%20perdurar%C3%A3o%20at%C3%A9%20o%20nascimento%20da%20crian%C3%A7a%2C%20sopesando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o O réu será citado para apresentar resposta em 5 (cinco) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%207o%20O%20r%C3%A9u%20ser%C3%A1%20citado%20para%20apresentar%20resposta%20em%205%20%28cinco%29%20dias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%208%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%209%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%2010%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Aplicam-se supletivamente nos processos regulados por esta Lei as disposições das Leis nos 5.478, de 25 de julho de 1968, e 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%2011.%20Aplicam-se%20supletivamente%20nos%20processos%20regulados%20por%20esta%20Lei%20as%20disposi%C3%A7%C3%B5es%20das%20Leis%20nos%205.478%2C%20de%2025%20de%20julho%20de%201968%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 5 de novembro de 2008; 187o da Independência e 120o da República.\n\nLUIZ INÁCIO LULA DA SILVA Tarso Genro José Antonio Dias Toffoli Dilma Rousseff\n\nEste texto não substitui o publicado no DOU de 6.11.2008",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm#:~:text=Art.%2012.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": null
+    }
+  }
+}

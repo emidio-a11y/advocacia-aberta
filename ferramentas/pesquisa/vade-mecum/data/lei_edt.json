@@ -4,7 +4,7 @@
     "nome": "Estatuto de Defesa do Torcedor",
     "lei": "Lei 10.671/2003",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm",
-    "total_artigos": 57,
+    "total_artigos": 59,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -13,7 +13,7 @@
   "artigos": {
     "1": {
       "numero": "1",
-      "texto": "Art. 1o Este Estatuto estabelece normas de proteção e defesa do torcedor.\n\nArt. 1o-A. A prevenção da violência nos esportes é de responsabilidade do poder público, das confederações, federações, ligas, clubes, associações ou entidades esportivas, entidades recreativas e associações de torcedores, inclusive de seus respectivos dirigentes, bem como daqueles que, de qualquer forma, promovem, organizam, coordenam ou participam dos eventos esportivos. (Incluído pela Lei nº 12.299, de 2010).",
+      "texto": "Art. 1o Este Estatuto estabelece normas de proteção e defesa do torcedor.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%201o%20Este%20Estatuto%20estabelece%20normas%20de%20prote%C3%A7%C3%A3o%20e%20defesa%20do%20torcedor.",
       "keywords": [],
       "hierarchy": {
@@ -25,12 +25,12 @@
         "section_name": null
       },
       "prev": null,
-      "next": "2"
+      "next": "1-A"
     },
-    "2": {
-      "numero": "2",
-      "texto": "Art. 2o Torcedor é toda pessoa que aprecie, apóie ou se associe a qualquer entidade de prática desportiva do País e acompanhe a prática de determinada modalidade esportiva.\n\nParágrafo único. Salvo prova em contrário, presumem-se a apreciação, o apoio ou o acompanhamento de que trata o caput deste artigo.\n\nArt. 2o-A. Considera-se torcida organizada, para os efeitos desta Lei, a pessoa jurídica de direito privado ou existente de fato, que se organize para o fim de torcer e apoiar entidade de prática esportiva de qualquer natureza ou modalidade. (Incluído pela Lei nº 12.299, de 2010).\n\nParágrafo único. A torcida organizada deverá manter cadastro atualizado de seus associados ou membros, o qual deverá conter, pelo menos, as seguintes informações: (Incluído pela Lei nº 12.299, de 2010).\n\nI - nome completo; (Incluído pela Lei nº 12.299, de 2010).\n\nII - fotografia; (Incluído pela Lei nº 12.299, de 2010).\n\nIII - filiação; (Incluído pela Lei nº 12.299, de 2010).\n\nIV - número do registro civil; (Incluído pela Lei nº 12.299, de 2010).\n\nV - número do CPF; (Incluído pela Lei nº 12.299, de 2010).\n\nVI - data de nascimento; (Incluído pela Lei nº 12.299, de 2010).\n\nVII - estado civil; (Incluído pela Lei nº 12.299, de 2010).\n\nVIII - profissão; (Incluído pela Lei nº 12.299, de 2010).\n\nIX - endereço completo; e (Incluído pela Lei nº 12.299, de 2010).\n\nX - escolaridade. (Incluído pela Lei nº 12.299, de 2010).",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%202o%20Torcedor%20%C3%A9%20toda%20pessoa%20que%20aprecie%2C%20ap%C3%B3ie%20ou%20se%20associe%20a%20qualquer%20entidade%20de%20pr%C3%A1tica%20desportiva%20do%20Pa%C3%ADs%20e%20acompanhe",
+    "1-A": {
+      "numero": "1-A",
+      "texto": "Art. 1o-A. A prevenção da violência nos esportes é de responsabilidade do poder público, das confederações, federações, ligas, clubes, associações ou entidades esportivas, entidades recreativas e associações de torcedores, inclusive de seus respectivos dirigentes, bem como daqueles que, de qualquer forma, promovem, organizam, coordenam ou participam dos eventos esportivos. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%201o-A.%20A%20preven%C3%A7%C3%A3o%20da%20viol%C3%AAncia%20nos%20esportes%20%C3%A9%20de%20responsabilidade%20do%20poder%20p%C3%BAblico%2C%20das%20confedera%C3%A7%C3%B5es%2C%20federa%C3%A7%C3%B5es%2C%20ligas%2C%20clubes%2C%20associa%C3%A7%C3%B5es%20ou%20entidades",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -41,6 +41,38 @@
         "section_name": null
       },
       "prev": "1",
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Torcedor é toda pessoa que aprecie, apóie ou se associe a qualquer entidade de prática desportiva do País e acompanhe a prática de determinada modalidade esportiva.\n\nParágrafo único. Salvo prova em contrário, presumem-se a apreciação, o apoio ou o acompanhamento de que trata o caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%202o%20Torcedor%20%C3%A9%20toda%20pessoa%20que%20aprecie%2C%20ap%C3%B3ie%20ou%20se%20associe%20a%20qualquer%20entidade%20de%20pr%C3%A1tica%20desportiva%20do%20Pa%C3%ADs%20e%20acompanhe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-A",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. Considera-se torcida organizada, para os efeitos desta Lei, a pessoa jurídica de direito privado ou existente de fato, que se organize para o fim de torcer e apoiar entidade de prática esportiva de qualquer natureza ou modalidade. (Incluído pela Lei nº 12.299, de 2010).\n\nParágrafo único. A torcida organizada deverá manter cadastro atualizado de seus associados ou membros, o qual deverá conter, pelo menos, as seguintes informações: (Incluído pela Lei nº 12.299, de 2010).\n\nI - nome completo; (Incluído pela Lei nº 12.299, de 2010).\n\nII - fotografia; (Incluído pela Lei nº 12.299, de 2010).\n\nIII - filiação; (Incluído pela Lei nº 12.299, de 2010).\n\nIV - número do registro civil; (Incluído pela Lei nº 12.299, de 2010).\n\nV - número do CPF; (Incluído pela Lei nº 12.299, de 2010).\n\nVI - data de nascimento; (Incluído pela Lei nº 12.299, de 2010).\n\nVII - estado civil; (Incluído pela Lei nº 12.299, de 2010).\n\nVIII - profissão; (Incluído pela Lei nº 12.299, de 2010).\n\nIX - endereço completo; e (Incluído pela Lei nº 12.299, de 2010).\n\nX - escolaridade. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%202o-A.%20Considera-se%20torcida%20organizada%2C%20para%20os%20efeitos%20desta%20Lei%2C%20a%20pessoa%20jur%C3%ADdica%20de%20direito%20privado%20ou%20existente%20de%20fato%2C%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
       "next": "3"
     },
     "3": {
@@ -56,7 +88,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "2",
+      "prev": "2-A",
       "next": "4"
     },
     "4": {

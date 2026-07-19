@@ -4,7 +4,7 @@
     "nome": "Código Florestal",
     "lei": "Lei 12.651/2012",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm",
-    "total_artigos": 90,
+    "total_artigos": 91,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -13,7 +13,7 @@
   "artigos": {
     "1": {
       "numero": "1",
-      "texto": "Art. 1º (VETADO).\n\nArt. 1º-A. Esta Lei estabelece normas gerais sobre a proteção da vegetação, áreas de Preservação Permanente e as áreas de Reserva Legal; a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos florestais e o controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros para o alcance de seus objetivos. (Incluído pela Lei nº 12.727, de 2012).\n\nParágrafo único. Tendo como objetivo o desenvolvimento sustentável, esta Lei atenderá aos seguintes princípios: (Incluído pela Lei nº 12.727, de 2012).\n\nI - afirmação do compromisso soberano do Brasil com a preservação das suas florestas e demais formas de vegetação nativa, bem como da biodiversidade, do solo, dos recursos hídricos e da integridade do sistema climático, para o bem estar das gerações presentes e futuras; (Incluído pela Lei nº 12.727, de 2012).\n\nII - reafirmação da importância da função estratégica da atividade agropecuária e do papel das florestas e demais formas de vegetação nativa na sustentabilidade, no crescimento econômico, na melhoria da qualidade de vida da população brasileira e na presença do País nos mercados nacional e internacional de alimentos e bioenergia; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - ação governamental de proteção e uso sustentável de florestas, consagrando o compromisso do País com a compatibilização e harmonização entre o uso produtivo da terra e a preservação da água, do solo e da vegetação; (Incluído pela Lei nº 12.727, de 2012).\n\nIV - responsabilidade comum da União, Estados, Distrito Federal e Municípios, em colaboração com a sociedade civil, na criação de políticas para a preservação e restauração da vegetação nativa e de suas funções ecológicas e sociais nas áreas urbanas e rurais; (Incluído pela Lei nº 12.727, de 2012).\n\nV - fomento à pesquisa científica e tecnológica na busca da inovação para o uso sustentável do solo e da água, a recuperação e a preservação das florestas e demais formas de vegetação nativa; (Incluído pela Lei nº 12.727, de 2012).\n\nVI - criação e mobilização de incentivos econômicos para fomentar a preservação e a recuperação da vegetação nativa e para promover o desenvolvimento de atividades produtivas sustentáveis. (Incluído pela Lei nº 12.727, de 2012).",
+      "texto": "Art. 1º (VETADO).",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%201%C2%BA%20%28VETADO%29.",
       "keywords": [],
       "hierarchy": {
@@ -25,6 +25,22 @@
         "section_name": null
       },
       "prev": null,
+      "next": "1-A"
+    },
+    "1-A": {
+      "numero": "1-A",
+      "texto": "Art. 1º-A. Esta Lei estabelece normas gerais sobre a proteção da vegetação, áreas de Preservação Permanente e as áreas de Reserva Legal; a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos florestais e o controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros para o alcance de seus objetivos. (Incluído pela Lei nº 12.727, de 2012).\n\nParágrafo único. Tendo como objetivo o desenvolvimento sustentável, esta Lei atenderá aos seguintes princípios: (Incluído pela Lei nº 12.727, de 2012).\n\nI - afirmação do compromisso soberano do Brasil com a preservação das suas florestas e demais formas de vegetação nativa, bem como da biodiversidade, do solo, dos recursos hídricos e da integridade do sistema climático, para o bem estar das gerações presentes e futuras; (Incluído pela Lei nº 12.727, de 2012).\n\nII - reafirmação da importância da função estratégica da atividade agropecuária e do papel das florestas e demais formas de vegetação nativa na sustentabilidade, no crescimento econômico, na melhoria da qualidade de vida da população brasileira e na presença do País nos mercados nacional e internacional de alimentos e bioenergia; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - ação governamental de proteção e uso sustentável de florestas, consagrando o compromisso do País com a compatibilização e harmonização entre o uso produtivo da terra e a preservação da água, do solo e da vegetação; (Incluído pela Lei nº 12.727, de 2012).\n\nIV - responsabilidade comum da União, Estados, Distrito Federal e Municípios, em colaboração com a sociedade civil, na criação de políticas para a preservação e restauração da vegetação nativa e de suas funções ecológicas e sociais nas áreas urbanas e rurais; (Incluído pela Lei nº 12.727, de 2012).\n\nV - fomento à pesquisa científica e tecnológica na busca da inovação para o uso sustentável do solo e da água, a recuperação e a preservação das florestas e demais formas de vegetação nativa; (Incluído pela Lei nº 12.727, de 2012).\n\nVI - criação e mobilização de incentivos econômicos para fomentar a preservação e a recuperação da vegetação nativa e para promover o desenvolvimento de atividades produtivas sustentáveis. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%201%C2%BA-A.%20Esta%20Lei%20estabelece%20normas%20gerais%20sobre%20a%20prote%C3%A7%C3%A3o%20da%20vegeta%C3%A7%C3%A3o%2C%20%C3%A1reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20e%20as%20%C3%A1reas%20de%20Reserva%20Legal%3B",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
       "next": "2"
     },
     "2": {
@@ -40,7 +56,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "1",
+      "prev": "1-A",
       "next": "3"
     },
     "3": {

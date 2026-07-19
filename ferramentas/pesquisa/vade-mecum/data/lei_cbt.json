@@ -4,7 +4,7 @@
     "nome": "Código Brasileiro de Telecomunicações",
     "lei": "Lei 4.117/1962",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm",
-    "total_artigos": 104,
+    "total_artigos": 105,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -141,7 +141,7 @@
     },
     "9": {
       "numero": "9",
-      "texto": "Art. 9º O Conselho Nacional de Telecomunicações ao planejar o Sistema Nacional de Telecomunicações, discriminará os troncos e os centros principais de telecomunicações. (Partes mantidas pelo Congresso Nacional)\n\n§ 1º Na discriminação a que se refere este artigo serão incluídas, na medida das possibilidades e conveniências entre os centros principais de telecomunicação, a Capital da República e as Capitais de todos os Estados e Territórios. (Partes mantidas pelo Congresso Nacional)\n\n§ 2º O Conselho Nacional de Telecomunicações estabelecerá as prioridades, segundo as quais se procederá à instalação dos troncos e redes do Sistema Nacional de Telecomunicações. (Partes mantidas pelo Congresso Nacional)\n\nArt. 9º-A. (VETADO). (Incluído pela Lei nº 15.182, de 2025)",
+      "texto": "Art. 9º O Conselho Nacional de Telecomunicações ao planejar o Sistema Nacional de Telecomunicações, discriminará os troncos e os centros principais de telecomunicações. (Partes mantidas pelo Congresso Nacional)\n\n§ 1º Na discriminação a que se refere este artigo serão incluídas, na medida das possibilidades e conveniências entre os centros principais de telecomunicação, a Capital da República e as Capitais de todos os Estados e Territórios. (Partes mantidas pelo Congresso Nacional)\n\n§ 2º O Conselho Nacional de Telecomunicações estabelecerá as prioridades, segundo as quais se procederá à instalação dos troncos e redes do Sistema Nacional de Telecomunicações. (Partes mantidas pelo Congresso Nacional)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%209%C2%BA%20O%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20ao%20planejar%20o%20Sistema%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%2C%20discriminar%C3%A1%20os%20troncos%20e%20os%20centros%20principais%20de",
       "keywords": [],
       "hierarchy": {
@@ -153,6 +153,22 @@
         "section_name": null
       },
       "prev": "8",
+      "next": "9-A"
+    },
+    "9-A": {
+      "numero": "9-A",
+      "texto": "Art. 9º-A. (VETADO). (Incluído pela Lei nº 15.182, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%209%C2%BA-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2015.182%2C%20de%202025%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
       "next": "10"
     },
     "10": {
@@ -168,7 +184,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "9",
+      "prev": "9-A",
       "next": "11"
     },
     "11": {

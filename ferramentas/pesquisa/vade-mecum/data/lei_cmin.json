@@ -4,7 +4,7 @@
     "nome": "Código de Minas",
     "lei": "Decreto-Lei 227/1967",
     "url_base": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm",
-    "total_artigos": 101,
+    "total_artigos": 102,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -93,7 +93,7 @@
     },
     "6": {
       "numero": "6",
-      "texto": "Art. 6º. Classificam-se as minas, segundo a forma representativa do direito de lavra, em duas categorias: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - mina manifestada, a em lavra, ainda que transitoriamente suspensa a 16 de julho de 1934 e que tenha sido manifestada na conformidade do art. 10 do Decreto nº 24.642, de 10 de julho de 1934, e da Lei nº 94, de 10 de dezembro de 1935; (Incluído pela Lei nº 9.314, de 1996)\n\nII - mina concedida, quando o direito de lavra é outorgado pelo Ministro de Estado de Minas e Energia. (Incluído pela Lei nº 9.314, de 1996)\n\nParágrafo único. Consideram-se partes integrantes da mina:\n\na) edifícios, construções, máquinas, aparelhos e instrumentos destinados à mineração e ao beneficiamento do produto da lavra, desde que êste seja realizado na área de concessão da mina:\n\nb) servidões indispensáveis ao exercício da lavra;\n\nc) animais e veículos empregados no serviço;\n\nd) materiais necessários aos trabalhos da lavra, quando dentro da área concedida; e,\n\ne) provisões necessárias aos trabalhos da lavra, para um período de 120 (cento e vinte) dias.\n\nArt. 6º-A. A atividade de mineração abrange a pesquisa, a lavra, o desenvolvimento da mina, o beneficiamento, o armazenamento de estéreis e rejeitos e o transporte e a comercialização dos minérios, mantida a responsabilidade do titular da concessão diante das obrigações deste Decreto-Lei até o fechamento da mina, que deverá ser obrigatoriamente convalidado pelo órgão regulador da mineração e pelo órgão ambiental licenciador. (Incluído pela Lei nº 14.066, de 2020)\n\nParágrafo único. O exercício da atividade de mineração inclui: (Incluído pela Lei nº 14.066, de 2020)\n\nI - a responsabilidade do minerador pela prevenção, mitigação e compensação dos impactos ambientais decorrentes dessa atividade, contemplando aqueles relativos ao bem-estar das comunidades envolvidas e ao desenvolvimento sustentável no entorno da mina; (Incluído pela Lei nº 14.066, de 2020)\n\nII - a preservação da saúde e da segurança dos trabalhadores; (Incluído pela Lei nº 14.066, de 2020)\n\nIII - a prevenção de desastres ambientais, incluindo a elaboração e a implantação do plano de contingência ou de documento correlato; e (Incluído pela Lei nº 14.066, de 2020)\n\nIV - a recuperação ambiental das áreas impactadas. (Incluído pela Lei nº 14.066, de 2020)",
+      "texto": "Art. 6º. Classificam-se as minas, segundo a forma representativa do direito de lavra, em duas categorias: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - mina manifestada, a em lavra, ainda que transitoriamente suspensa a 16 de julho de 1934 e que tenha sido manifestada na conformidade do art. 10 do Decreto nº 24.642, de 10 de julho de 1934, e da Lei nº 94, de 10 de dezembro de 1935; (Incluído pela Lei nº 9.314, de 1996)\n\nII - mina concedida, quando o direito de lavra é outorgado pelo Ministro de Estado de Minas e Energia. (Incluído pela Lei nº 9.314, de 1996)\n\nParágrafo único. Consideram-se partes integrantes da mina:\n\na) edifícios, construções, máquinas, aparelhos e instrumentos destinados à mineração e ao beneficiamento do produto da lavra, desde que êste seja realizado na área de concessão da mina:\n\nb) servidões indispensáveis ao exercício da lavra;\n\nc) animais e veículos empregados no serviço;\n\nd) materiais necessários aos trabalhos da lavra, quando dentro da área concedida; e,\n\ne) provisões necessárias aos trabalhos da lavra, para um período de 120 (cento e vinte) dias.",
       "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%206%C2%BA.%20Classificam-se%20as%20minas%2C%20segundo%20a%20forma%20representativa%20do%20direito%20de%20lavra%2C%20em%20duas%20categorias%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.314%2C",
       "keywords": [],
       "hierarchy": {
@@ -105,6 +105,22 @@
         "section_name": null
       },
       "prev": "5",
+      "next": "6-A"
+    },
+    "6-A": {
+      "numero": "6-A",
+      "texto": "Art. 6º-A. A atividade de mineração abrange a pesquisa, a lavra, o desenvolvimento da mina, o beneficiamento, o armazenamento de estéreis e rejeitos e o transporte e a comercialização dos minérios, mantida a responsabilidade do titular da concessão diante das obrigações deste Decreto-Lei até o fechamento da mina, que deverá ser obrigatoriamente convalidado pelo órgão regulador da mineração e pelo órgão ambiental licenciador. (Incluído pela Lei nº 14.066, de 2020)\n\nParágrafo único. O exercício da atividade de mineração inclui: (Incluído pela Lei nº 14.066, de 2020)\n\nI - a responsabilidade do minerador pela prevenção, mitigação e compensação dos impactos ambientais decorrentes dessa atividade, contemplando aqueles relativos ao bem-estar das comunidades envolvidas e ao desenvolvimento sustentável no entorno da mina; (Incluído pela Lei nº 14.066, de 2020)\n\nII - a preservação da saúde e da segurança dos trabalhadores; (Incluído pela Lei nº 14.066, de 2020)\n\nIII - a prevenção de desastres ambientais, incluindo a elaboração e a implantação do plano de contingência ou de documento correlato; e (Incluído pela Lei nº 14.066, de 2020)\n\nIV - a recuperação ambiental das áreas impactadas. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%206%C2%BA-A.%20A%20atividade%20de%20minera%C3%A7%C3%A3o%20abrange%20a%20pesquisa%2C%20a%20lavra%2C%20o%20desenvolvimento%20da%20mina%2C%20o%20beneficiamento%2C%20o%20armazenamento%20de%20est%C3%A9reis%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
       "next": "7"
     },
     "7": {
@@ -120,7 +136,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "6",
+      "prev": "6-A",
       "next": "8"
     },
     "8": {

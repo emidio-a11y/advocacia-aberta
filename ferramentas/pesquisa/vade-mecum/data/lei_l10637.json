@@ -4,7 +4,7 @@
     "nome": "PIS (não cumulativo)",
     "lei": "Lei 10.637/2002",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
-    "total_artigos": 64,
+    "total_artigos": 65,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -77,7 +77,7 @@
     },
     "5": {
       "numero": "5",
-      "texto": "Art. 5o A contribuição para o PIS/Pasep não incidirá sobre as receitas decorrentes das operações de: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - exportação de mercadorias para o exterior;\n\nII - prestação de serviços para pessoa física ou jurídica residente ou domiciliada no exterior, cujo pagamento represente ingresso de divisas; (Redação dada pela Lei nº 10.865, de 2004)\n\nIII - vendas a empresa comercial exportadora com o fim específico de exportação.\n\n§ 1o Na hipótese deste artigo, a pessoa jurídica vendedora poderá utilizar o crédito apurado na forma do art. 3o para fins de:\n\nI - dedução do valor da contribuição a recolher, decorrente das demais operações no mercado interno;\n\nII - compensação com débitos próprios, vencidos ou vincendos, relativos a tributos e contribuições administrados pela Secretaria da Receita Federal, observada a legislação específica aplicável à matéria.\n\n§ 2o A pessoa jurídica que, até o final de cada trimestre do ano civil, não conseguir utilizar o crédito por qualquer das formas previstas no § 1o, poderá solicitar o seu ressarcimento em dinheiro, observada a legislação específica aplicável à matéria.\n\nArt. 5º-A Ficam reduzidas a 0 (zero) as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre as receitas decorrentes da comercialização de matérias-primas, produtos intermediários e materiais de embalagem, produzidos na Zona Franca de Manaus para emprego em processo de industrialização por estabelecimentos industriais ali instalados e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA. (Redação dada pela Lei nº 10.865, de 2004) (Vide Lei nº 10.925, de 2004) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "texto": "Art. 5o A contribuição para o PIS/Pasep não incidirá sobre as receitas decorrentes das operações de: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - exportação de mercadorias para o exterior;\n\nII - prestação de serviços para pessoa física ou jurídica residente ou domiciliada no exterior, cujo pagamento represente ingresso de divisas; (Redação dada pela Lei nº 10.865, de 2004)\n\nIII - vendas a empresa comercial exportadora com o fim específico de exportação.\n\n§ 1o Na hipótese deste artigo, a pessoa jurídica vendedora poderá utilizar o crédito apurado na forma do art. 3o para fins de:\n\nI - dedução do valor da contribuição a recolher, decorrente das demais operações no mercado interno;\n\nII - compensação com débitos próprios, vencidos ou vincendos, relativos a tributos e contribuições administrados pela Secretaria da Receita Federal, observada a legislação específica aplicável à matéria.\n\n§ 2o A pessoa jurídica que, até o final de cada trimestre do ano civil, não conseguir utilizar o crédito por qualquer das formas previstas no § 1o, poderá solicitar o seu ressarcimento em dinheiro, observada a legislação específica aplicável à matéria.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm#:~:text=Art.%205o%20A%20contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPasep%20n%C3%A3o%20incidir%C3%A1%20sobre%20as%20receitas%20decorrentes%20das%20opera%C3%A7%C3%B5es%20de%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de",
       "keywords": [],
       "hierarchy": {
@@ -89,6 +89,22 @@
         "section_name": null
       },
       "prev": "4",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A Ficam reduzidas a 0 (zero) as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre as receitas decorrentes da comercialização de matérias-primas, produtos intermediários e materiais de embalagem, produzidos na Zona Franca de Manaus para emprego em processo de industrialização por estabelecimentos industriais ali instalados e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA. (Redação dada pela Lei nº 10.865, de 2004) (Vide Lei nº 10.925, de 2004) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm#:~:text=Art.%205%C2%BA-A%20Ficam%20reduzidas%20a%200%20%28zero%29%20as%20al%C3%ADquotas%20da%20contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPASEP%20e%20da%20COFINS%20incidentes%20sobre%20as%20receitas%20decorrentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
       "next": "6"
     },
     "6": {
@@ -104,7 +120,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "5",
+      "prev": "5-A",
       "next": "7"
     },
     "7": {

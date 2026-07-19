@@ -4,7 +4,7 @@
     "nome": "Interceptação Telefônica",
     "lei": "Lei 9.296/1996",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
-    "total_artigos": 13,
+    "total_artigos": 14,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -125,7 +125,7 @@
     },
     "8": {
       "numero": "8",
-      "texto": "Art. 8° A interceptação de comunicação telefônica, de qualquer natureza, ocorrerá em autos apartados, apensados aos autos do inquérito policial ou do processo criminal, preservando-se o sigilo das diligências, gravações e transcrições respectivas.\n\nParágrafo único. A apensação somente poderá ser realizada imediatamente antes do relatório da autoridade, quando se tratar de inquérito policial (Código de Processo Penal, art.10, § 1°) ou na conclusão do processo ao juiz para o despacho decorrente do disposto nos arts. 407, 502 ou 538 do Código de Processo Penal.\n\nArt. 8º-A. Para investigação ou instrução criminal, poderá ser autorizada pelo juiz, a requerimento da autoridade policial ou do Ministério Público, a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos, quando: (Incluído pela Lei nº 13.964, de 2019)\n\nI - a prova não puder ser feita por outros meios disponíveis e igualmente eficazes; e (Incluído pela Lei nº 13.964, de 2019)\n\nII - houver elementos probatórios razoáveis de autoria e participação em infrações criminais cujas penas máximas sejam superiores a 4 (quatro) anos ou em infrações penais conexas. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º O requerimento deverá descrever circunstanciadamente o local e a forma de instalação do dispositivo de captação ambiental. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º (VETADO).\n\n§ 2º A instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 3º A captação ambiental não poderá exceder o prazo de 15 (quinze) dias, renovável por decisão judicial por iguais períodos, se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º (VETADO).\n\n§ 4º A captação ambiental feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do Ministério Público poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 5º Aplicam-se subsidiariamente à captação ambiental as regras previstas na legislação específica para a interceptação telefônica e telemática. (Incluído pela Lei nº 13.964, de 2019)",
+      "texto": "Art. 8° A interceptação de comunicação telefônica, de qualquer natureza, ocorrerá em autos apartados, apensados aos autos do inquérito policial ou do processo criminal, preservando-se o sigilo das diligências, gravações e transcrições respectivas.\n\nParágrafo único. A apensação somente poderá ser realizada imediatamente antes do relatório da autoridade, quando se tratar de inquérito policial (Código de Processo Penal, art.10, § 1°) ou na conclusão do processo ao juiz para o despacho decorrente do disposto nos arts. 407, 502 ou 538 do Código de Processo Penal.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%208%C2%B0%20A%20intercepta%C3%A7%C3%A3o%20de%20comunica%C3%A7%C3%A3o%20telef%C3%B4nica%2C%20de%20qualquer%20natureza%2C%20ocorrer%C3%A1%20em%20autos%20apartados%2C%20apensados%20aos%20autos%20do%20inqu%C3%A9rito%20policial%20ou%20do",
       "keywords": [],
       "hierarchy": {
@@ -137,6 +137,22 @@
         "section_name": null
       },
       "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A. Para investigação ou instrução criminal, poderá ser autorizada pelo juiz, a requerimento da autoridade policial ou do Ministério Público, a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos, quando: (Incluído pela Lei nº 13.964, de 2019)\n\nI - a prova não puder ser feita por outros meios disponíveis e igualmente eficazes; e (Incluído pela Lei nº 13.964, de 2019)\n\nII - houver elementos probatórios razoáveis de autoria e participação em infrações criminais cujas penas máximas sejam superiores a 4 (quatro) anos ou em infrações penais conexas. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º O requerimento deverá descrever circunstanciadamente o local e a forma de instalação do dispositivo de captação ambiental. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º (VETADO).\n\n§ 2º A instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 3º A captação ambiental não poderá exceder o prazo de 15 (quinze) dias, renovável por decisão judicial por iguais períodos, se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º (VETADO).\n\n§ 4º A captação ambiental feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do Ministério Público poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 5º Aplicam-se subsidiariamente à captação ambiental as regras previstas na legislação específica para a interceptação telefônica e telemática. (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm#:~:text=Art.%208%C2%BA-A.%20Para%20investiga%C3%A7%C3%A3o%20ou%20instru%C3%A7%C3%A3o%20criminal%2C%20poder%C3%A1%20ser%20autorizada%20pelo%20juiz%2C%20a%20requerimento%20da%20autoridade%20policial%20ou%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
       "next": "9"
     },
     "9": {
@@ -152,7 +168,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "8",
+      "prev": "8-A",
       "next": "10"
     },
     "10": {

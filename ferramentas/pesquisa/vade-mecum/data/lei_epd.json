@@ -4,7 +4,7 @@
     "nome": "Estatuto da Pessoa com Deficiência",
     "lei": "Lei 13.146/2015",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
-    "total_artigos": 129,
+    "total_artigos": 130,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -29,7 +29,7 @@
     },
     "2": {
       "numero": "2",
-      "texto": "Art. 2º Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.\n\n§ 1º A avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar e considerará: (Vigência) (Vide Decreto nº 11.063, de 2022)\n\nI - os impedimentos nas funções e nas estruturas do corpo;\n\nII - os fatores socioambientais, psicológicos e pessoais;\n\nIII - a limitação no desempenho de atividades; e\n\nIV - a restrição de participação.\n\n§ 2º O Poder Executivo criará instrumentos para avaliação da deficiência. (Vide Lei nº 13.846, de 2019) (Vide Lei nº 14.126, de 2021) (Vide Lei nº 14.768, de 2023)\n\n§ 3º O exame médico-pericial componente da avaliação biopsicossocial da deficiência de que trata o § 1º deste artigo poderá ser realizado com o uso de tecnologia de telemedicina ou por análise documental conforme situações e requisitos definidos em regulamento. (Incluído pela Lei nº 14.724, de 2023)\n\nArt. 2º-A. É instituído o cordão de fita com desenhos de girassóis como símbolo nacional de identificação de pessoas com deficiências ocultas. (Incluído pela Lei nº 14.624, de 2023)\n\n§ 1º O uso do símbolo de que trata o caput deste artigo é opcional, e sua ausência não prejudica o exercício de direitos e garantias previstos em lei. (Incluído pela Lei nº 14.624, de 2023)\n\n§ 2º A utilização do símbolo de que trata o caput deste artigo não dispensa a apresentação de documento comprobatório da deficiência, caso seja solicitado pelo atendente ou pela autoridade competente. (Incluído pela Lei nº 14.624, de 2023)",
+      "texto": "Art. 2º Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.\n\n§ 1º A avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar e considerará: (Vigência) (Vide Decreto nº 11.063, de 2022)\n\nI - os impedimentos nas funções e nas estruturas do corpo;\n\nII - os fatores socioambientais, psicológicos e pessoais;\n\nIII - a limitação no desempenho de atividades; e\n\nIV - a restrição de participação.\n\n§ 2º O Poder Executivo criará instrumentos para avaliação da deficiência. (Vide Lei nº 13.846, de 2019) (Vide Lei nº 14.126, de 2021) (Vide Lei nº 14.768, de 2023)\n\n§ 3º O exame médico-pericial componente da avaliação biopsicossocial da deficiência de que trata o § 1º deste artigo poderá ser realizado com o uso de tecnologia de telemedicina ou por análise documental conforme situações e requisitos definidos em regulamento. (Incluído pela Lei nº 14.724, de 2023)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%202%C2%BA%20Considera-se%20pessoa%20com%20defici%C3%AAncia%20aquela%20que%20tem%20impedimento%20de%20longo%20prazo%20de%20natureza%20f%C3%ADsica%2C%20mental%2C%20intelectual%20ou%20sensorial%2C%20o%20qual%2C",
       "keywords": [],
       "hierarchy": {
@@ -41,6 +41,22 @@
         "section_name": null
       },
       "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2º-A. É instituído o cordão de fita com desenhos de girassóis como símbolo nacional de identificação de pessoas com deficiências ocultas. (Incluído pela Lei nº 14.624, de 2023)\n\n§ 1º O uso do símbolo de que trata o caput deste artigo é opcional, e sua ausência não prejudica o exercício de direitos e garantias previstos em lei. (Incluído pela Lei nº 14.624, de 2023)\n\n§ 2º A utilização do símbolo de que trata o caput deste artigo não dispensa a apresentação de documento comprobatório da deficiência, caso seja solicitado pelo atendente ou pela autoridade competente. (Incluído pela Lei nº 14.624, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%202%C2%BA-A.%20%C3%89%20institu%C3%ADdo%20o%20cord%C3%A3o%20de%20fita%20com%20desenhos%20de%20girass%C3%B3is%20como%20s%C3%ADmbolo%20nacional%20de%20identifica%C3%A7%C3%A3o%20de%20pessoas%20com%20defici%C3%AAncias%20ocultas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
       "next": "3"
     },
     "3": {
@@ -56,7 +72,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "2",
+      "prev": "2-A",
       "next": "4"
     },
     "4": {

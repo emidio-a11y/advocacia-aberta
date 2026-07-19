@@ -4,7 +4,7 @@
     "nome": "Estatuto da Metrópole",
     "lei": "Lei 13.089/2015",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13089.htm",
-    "total_artigos": 26,
+    "total_artigos": 27,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -109,7 +109,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7º Além das diretrizes gerais estabelecidas no art. 2º da Lei nº 10.257, de 10 de julho de 2001 , a governança interfederativa das regiões metropolitanas e das aglomerações urbanas observará as seguintes diretrizes específicas:\n\nI – implantação de processo permanente e compartilhado de planejamento e de tomada de decisão quanto ao desenvolvimento urbano e às políticas setoriais afetas às funções públicas de interesse comum;\n\nII – estabelecimento de meios compartilhados de organização administrativa das funções públicas de interesse comum;\n\nIII – estabelecimento de sistema integrado de alocação de recursos e de prestação de contas;\n\nIV – execução compartilhada das funções públicas de interesse comum, mediante rateio de custos previamente pactuado no âmbito da estrutura de governança interfederativa;\n\nV – participação de representantes da sociedade civil nos processos de planejamento e de tomada de decisão, no acompanhamento da prestação de serviços e na realização de obras afetas às funções públicas de interesse comum;\n\nV - participação de representantes da sociedade civil nos processos de planejamento e de tomada de decisão; (Redação dada pela Lei nº 13.683, de 2018)\n\nVI – compatibilização dos planos plurianuais, leis de diretrizes orçamentárias e orçamentos anuais dos entes envolvidos na governança interfederativa;\n\nVII – compensação por serviços ambientais ou outros serviços prestados pelo Município à unidade territorial urbana, na forma da lei e dos acordos firmados no âmbito da estrutura de governança interfederativa.\n\nParágrafo único. Na aplicação das diretrizes estabelecidas neste artigo, devem ser consideradas as especificidades dos Municípios integrantes da unidade territorial urbana quanto à população, à renda, ao território e às características ambientais.\n\nArt. 7º-A. No exercício da governança das funções públicas de interesse comum, o Estado e os Municípios da unidade territorial deverão observar as seguintes diretrizes gerais: (Incluído pela Lei nº 13.683, de 2018)\n\nI - compartilhamento da tomada de decisões com vistas à implantação de processo relativo ao planejamento, à elaboração de projetos, à sua estruturação econômico-financeira, à operação e à gestão do serviço ou da atividade; e (Incluído pela Lei nº 13.683, de 2018)\n\nII - compartilhamento de responsabilidades na gestão de ações e projetos relacionados às funções públicas de interesse comum, os quais deverão ser executados mediante a articulação de órgãos e entidades dos entes federados. (Incluído pela Lei nº 13.683, de 2018)",
+      "texto": "Art. 7º Além das diretrizes gerais estabelecidas no art. 2º da Lei nº 10.257, de 10 de julho de 2001 , a governança interfederativa das regiões metropolitanas e das aglomerações urbanas observará as seguintes diretrizes específicas:\n\nI – implantação de processo permanente e compartilhado de planejamento e de tomada de decisão quanto ao desenvolvimento urbano e às políticas setoriais afetas às funções públicas de interesse comum;\n\nII – estabelecimento de meios compartilhados de organização administrativa das funções públicas de interesse comum;\n\nIII – estabelecimento de sistema integrado de alocação de recursos e de prestação de contas;\n\nIV – execução compartilhada das funções públicas de interesse comum, mediante rateio de custos previamente pactuado no âmbito da estrutura de governança interfederativa;\n\nV – participação de representantes da sociedade civil nos processos de planejamento e de tomada de decisão, no acompanhamento da prestação de serviços e na realização de obras afetas às funções públicas de interesse comum;\n\nV - participação de representantes da sociedade civil nos processos de planejamento e de tomada de decisão; (Redação dada pela Lei nº 13.683, de 2018)\n\nVI – compatibilização dos planos plurianuais, leis de diretrizes orçamentárias e orçamentos anuais dos entes envolvidos na governança interfederativa;\n\nVII – compensação por serviços ambientais ou outros serviços prestados pelo Município à unidade territorial urbana, na forma da lei e dos acordos firmados no âmbito da estrutura de governança interfederativa.\n\nParágrafo único. Na aplicação das diretrizes estabelecidas neste artigo, devem ser consideradas as especificidades dos Municípios integrantes da unidade territorial urbana quanto à população, à renda, ao território e às características ambientais.",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13089.htm#:~:text=Art.%207%C2%BA%20Al%C3%A9m%20das%20diretrizes%20gerais%20estabelecidas%20no%20art.%202%C2%BA%20da%20Lei%20n%C2%BA%2010.257%2C%20de%2010%20de%20julho%20de%202001%20%2C%20a",
       "keywords": [],
       "hierarchy": {
@@ -121,6 +121,22 @@
         "section_name": null
       },
       "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A. No exercício da governança das funções públicas de interesse comum, o Estado e os Municípios da unidade territorial deverão observar as seguintes diretrizes gerais: (Incluído pela Lei nº 13.683, de 2018)\n\nI - compartilhamento da tomada de decisões com vistas à implantação de processo relativo ao planejamento, à elaboração de projetos, à sua estruturação econômico-financeira, à operação e à gestão do serviço ou da atividade; e (Incluído pela Lei nº 13.683, de 2018)\n\nII - compartilhamento de responsabilidades na gestão de ações e projetos relacionados às funções públicas de interesse comum, os quais deverão ser executados mediante a articulação de órgãos e entidades dos entes federados. (Incluído pela Lei nº 13.683, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13089.htm#:~:text=Art.%207%C2%BA-A.%20No%20exerc%C3%ADcio%20da%20governan%C3%A7a%20das%20fun%C3%A7%C3%B5es%20p%C3%BAblicas%20de%20interesse%20comum%2C%20o%20Estado%20e%20os%20Munic%C3%ADpios%20da%20unidade%20territorial%20dever%C3%A3o%20observar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
       "next": "8"
     },
     "8": {
@@ -136,7 +152,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "7",
+      "prev": "7-A",
       "next": "9"
     },
     "9": {

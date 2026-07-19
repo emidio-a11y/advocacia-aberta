@@ -4,7 +4,7 @@
     "nome": "Código de Trânsito Brasileiro",
     "lei": "Lei 9.503/1997",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
-    "total_artigos": 390,
+    "total_artigos": 391,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "ultima_correcao_pontual_em": "2026-07-17",
@@ -169,7 +169,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7º Compõem o Sistema Nacional de Trânsito os seguintes órgãos e entidades:\n\nI - o Conselho Nacional de Trânsito - CONTRAN, coordenador do Sistema e órgão máximo normativo e consultivo;\n\nII - os Conselhos Estaduais de Trânsito - CETRAN e o Conselho de Trânsito do Distrito Federal - CONTRANDIFE, órgãos normativos, consultivos e coordenadores;\n\nIII - os órgãos e entidades executivos de trânsito da União, dos Estados, do Distrito Federal e dos Municípios;\n\nIV - os órgãos e entidades executivos rodoviários da União, dos Estados, do Distrito Federal e dos Municípios;\n\nV - a Polícia Rodoviária Federal;\n\nVI - as Polícias Militares dos Estados e do Distrito Federal; e\n\nVII - as Juntas Administrativas de Recursos de Infrações - JARI.\n\nArt. 7o-A. A autoridade portuária ou a entidade concessionária de porto organizado poderá celebrar convênios com os órgãos previstos no art. 7o, com a interveniência dos Municípios e Estados, juridicamente interessados, para o fim específico de facilitar a autuação por descumprimento da legislação de trânsito. (Incluído pela Lei nº 12.058, de 2009)\n\n§ 1o O convênio valerá para toda a área física do porto organizado, inclusive, nas áreas dos terminais alfandegados, nas estações de transbordo, nas instalações portuárias públicas de pequeno porte e nos respectivos estacionamentos ou vias de trânsito internas. (Incluído pela Lei nº 12.058, de 2009)\n\n§ 2o (VETADO) (Incluído pela Lei nº 12.058, de 2009)\n\n§ 3o (VETADO) (Incluído pela Lei nº 12.058, de 2009)",
+      "texto": "Art. 7º Compõem o Sistema Nacional de Trânsito os seguintes órgãos e entidades:\n\nI - o Conselho Nacional de Trânsito - CONTRAN, coordenador do Sistema e órgão máximo normativo e consultivo;\n\nII - os Conselhos Estaduais de Trânsito - CETRAN e o Conselho de Trânsito do Distrito Federal - CONTRANDIFE, órgãos normativos, consultivos e coordenadores;\n\nIII - os órgãos e entidades executivos de trânsito da União, dos Estados, do Distrito Federal e dos Municípios;\n\nIV - os órgãos e entidades executivos rodoviários da União, dos Estados, do Distrito Federal e dos Municípios;\n\nV - a Polícia Rodoviária Federal;\n\nVI - as Polícias Militares dos Estados e do Distrito Federal; e\n\nVII - as Juntas Administrativas de Recursos de Infrações - JARI.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%207.",
       "keywords": [
         "autoridade portuaria",
@@ -190,6 +190,22 @@
         "section_name": "Seção II Da Composição e da Competência do Sistema Nacional de Trânsito"
       },
       "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7o-A. A autoridade portuária ou a entidade concessionária de porto organizado poderá celebrar convênios com os órgãos previstos no art. 7o, com a interveniência dos Municípios e Estados, juridicamente interessados, para o fim específico de facilitar a autuação por descumprimento da legislação de trânsito. (Incluído pela Lei nº 12.058, de 2009)\n\n§ 1o O convênio valerá para toda a área física do porto organizado, inclusive, nas áreas dos terminais alfandegados, nas estações de transbordo, nas instalações portuárias públicas de pequeno porte e nos respectivos estacionamentos ou vias de trânsito internas. (Incluído pela Lei nº 12.058, de 2009)\n\n§ 2o (VETADO) (Incluído pela Lei nº 12.058, de 2009)\n\n§ 3o (VETADO) (Incluído pela Lei nº 12.058, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%207o-A.%20A%20autoridade%20portu%C3%A1ria%20ou%20a%20entidade%20concession%C3%A1ria%20de%20porto%20organizado%20poder%C3%A1%20celebrar%20conv%C3%AAnios%20com%20os%20%C3%B3rg%C3%A3os%20previstos%20no%20art.%207o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO SISTEMA NACIONAL DE TRÂNSITO",
+        "section": "II",
+        "section_name": "Seção II Da Composição e da Competência do Sistema Nacional de Trânsito"
+      },
+      "prev": "7",
       "next": "8"
     },
     "8": {
@@ -214,7 +230,7 @@
         "section": "II",
         "section_name": "Seção II Da Composição e da Competência do Sistema Nacional de Trânsito"
       },
-      "prev": "7",
+      "prev": "7-A",
       "next": "9"
     },
     "9": {

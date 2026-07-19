@@ -4,7 +4,7 @@
     "nome": "Lei de Execução Penal",
     "lei": "Lei 7.210/1984",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7210compilado.htm",
-    "total_artigos": 218,
+    "total_artigos": 219,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -141,7 +141,7 @@
     },
     "9": {
       "numero": "9",
-      "texto": "Art. 9º - A Comissão, no exame para a obtenção de dados reveladores da personalidade, observando a ética profissional e tendo sempre presentes peças ou informações do processo, poderá:\n\nI - entrevistar pessoas;\n\nII - requisitar, de repartições ou estabelecimentos privados, dados e informações a respeito do condenado;\n\nIII - realizar outras diligências e exames necessários.\n\nArt. 9º-A. O condenado à pena de reclusão em regime inicial fechado será submetido obrigatoriamente à identificação do perfil genético, mediante extração de DNA (ácido desoxirribonucleico), por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 1º-A. A regulamentação deverá fazer constar garantias mínimas de proteção de dados genéticos, observando as melhores práticas da genética forense. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 2o A autoridade policial, federal ou estadual, poderá requerer ao juiz competente, no caso de inquérito instaurado, o acesso ao banco de dados de identificação de perfil genético. (Incluído pela Lei nº 12.654, de 2012)\n\n§ 3º Deve ser viabilizado ao titular de dados genéticos o acesso aos seus dados constantes nos bancos de perfis genéticos, bem como a todos os documentos da cadeia de custódia que gerou esse dado, de maneira que possa ser contraditado pela defesa. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 4º O condenado pelos crimes previstos no caput deste artigo que não tiver sido submetido à identificação do perfil genético por ocasião do ingresso no estabelecimento prisional deverá ser submetido ao procedimento durante o cumprimento da pena. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 5º A amostra biológica coletada só poderá ser utilizada para o único e exclusivo fim de permitir a identificação pelo perfil genético, não estando autorizadas as práticas de fenotipagem genética. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 6º Uma vez identificado o perfil genético, a amostra biológica recolhida nos termos do caput deste artigo deverá ser correta e imediatamente descartada, guardando-se material suficiente para a eventualidade de nova perícia, nos termos do regulamento, vedada a sua utilização para qualquer outro fim. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 7º A coleta da amostra biológica será realizada por agente público treinado e respeitará os procedimentos de cadeia de custódia definidos pela legislação em vigor e complementados pelo órgão de perícia oficial de natureza criminal. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 8º Constitui falta grave a recusa do condenado em submeter-se ao procedimento de identificação do perfil genético. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 9º A elaboração do laudo da amostra biológica coletada nos termos do § 7º será realizada por perito oficial. (Incluído pela Lei nº 15.295, de 2025) Vigência\n\n§ 10. Nos casos dos crimes hediondos e equiparados, o processamento dos vestígios biológicos coletados em locais de crime e corpos de delito e a inclusão dos respectivos perfis genéticos no banco deverão ser realizados, se possível, em até 30 (trinta) dias contados da recepção da amostra pelo laboratório de DNA. (Incluído pela Lei nº 15.295, de 2025) Vigência",
+      "texto": "Art. 9º - A Comissão, no exame para a obtenção de dados reveladores da personalidade, observando a ética profissional e tendo sempre presentes peças ou informações do processo, poderá:\n\nI - entrevistar pessoas;\n\nII - requisitar, de repartições ou estabelecimentos privados, dados e informações a respeito do condenado;\n\nIII - realizar outras diligências e exames necessários.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210compilado.htm#:~:text=Art.%209%C2%BA%20-%20A%20Comiss%C3%A3o%2C%20no%20exame%20para%20a%20obten%C3%A7%C3%A3o%20de%20dados%20reveladores%20da%20personalidade%2C%20observando%20a%20%C3%A9tica%20profissional%20e%20tendo%20sempre",
       "keywords": [],
       "hierarchy": {
@@ -153,6 +153,22 @@
         "section_name": null
       },
       "prev": "8",
+      "next": "9-A"
+    },
+    "9-A": {
+      "numero": "9-A",
+      "texto": "Art. 9º-A. O condenado à pena de reclusão em regime inicial fechado será submetido obrigatoriamente à identificação do perfil genético, mediante extração de DNA (ácido desoxirribonucleico), por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 1º-A. A regulamentação deverá fazer constar garantias mínimas de proteção de dados genéticos, observando as melhores práticas da genética forense. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 2o A autoridade policial, federal ou estadual, poderá requerer ao juiz competente, no caso de inquérito instaurado, o acesso ao banco de dados de identificação de perfil genético. (Incluído pela Lei nº 12.654, de 2012)\n\n§ 3º Deve ser viabilizado ao titular de dados genéticos o acesso aos seus dados constantes nos bancos de perfis genéticos, bem como a todos os documentos da cadeia de custódia que gerou esse dado, de maneira que possa ser contraditado pela defesa. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 4º O condenado pelos crimes previstos no caput deste artigo que não tiver sido submetido à identificação do perfil genético por ocasião do ingresso no estabelecimento prisional deverá ser submetido ao procedimento durante o cumprimento da pena. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 5º A amostra biológica coletada só poderá ser utilizada para o único e exclusivo fim de permitir a identificação pelo perfil genético, não estando autorizadas as práticas de fenotipagem genética. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 6º Uma vez identificado o perfil genético, a amostra biológica recolhida nos termos do caput deste artigo deverá ser correta e imediatamente descartada, guardando-se material suficiente para a eventualidade de nova perícia, nos termos do regulamento, vedada a sua utilização para qualquer outro fim. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 7º A coleta da amostra biológica será realizada por agente público treinado e respeitará os procedimentos de cadeia de custódia definidos pela legislação em vigor e complementados pelo órgão de perícia oficial de natureza criminal. (Redação dada pela Lei nº 15.295, de 2025) Vigência\n\n§ 8º Constitui falta grave a recusa do condenado em submeter-se ao procedimento de identificação do perfil genético. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n\n§ 9º A elaboração do laudo da amostra biológica coletada nos termos do § 7º será realizada por perito oficial. (Incluído pela Lei nº 15.295, de 2025) Vigência\n\n§ 10. Nos casos dos crimes hediondos e equiparados, o processamento dos vestígios biológicos coletados em locais de crime e corpos de delito e a inclusão dos respectivos perfis genéticos no banco deverão ser realizados, se possível, em até 30 (trinta) dias contados da recepção da amostra pelo laboratório de DNA. (Incluído pela Lei nº 15.295, de 2025) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210compilado.htm#:~:text=Art.%209%C2%BA-A.%20O%20condenado%20%C3%A0%20pena%20de%20reclus%C3%A3o%20em%20regime%20inicial%20fechado%20ser%C3%A1%20submetido%20obrigatoriamente%20%C3%A0%20identifica%C3%A7%C3%A3o%20do%20perfil%20gen%C3%A9tico%2C%20mediante%20extra%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
       "next": "10"
     },
     "10": {
@@ -168,7 +184,7 @@
         "section": "I",
         "section_name": "Seção I"
       },
-      "prev": "9",
+      "prev": "9-A",
       "next": "11"
     },
     "11": {

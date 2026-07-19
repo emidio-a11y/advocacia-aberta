@@ -1,0 +1,191 @@
+{
+  "_meta": {
+    "codigo": "L8560",
+    "nome": "Investigação de Paternidade (filho havido fora do casamento)",
+    "lei": "Lei 8.560/1992",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm",
+    "total_artigos": 11,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1° O reconhecimento dos filhos havidos fora do casamento é irrevogável e será feito:\n\nI - no registro de nascimento;\n\nII - por escritura pública ou escrito particular, a ser arquivado em cartório;\n\nIII - por testamento, ainda que incidentalmente manifestado;\n\nIV - por manifestação expressa e direta perante o juiz, ainda que o reconhecimento não haja sido o objeto único e principal do ato que o contém.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%201%C2%B0%20O%20reconhecimento%20dos%20filhos%20havidos%20fora%20do%20casamento%20%C3%A9%20irrevog%C3%A1vel%20e%20ser%C3%A1%20feito%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° Em registro de nascimento de menor apenas com a maternidade estabelecida, o oficial remeterá ao juiz certidão integral do registro e o nome e prenome, profissão, identidade e residência do suposto pai, a fim de ser averiguada oficiosamente a procedência da alegação.\n\n§ 1° O juiz, sempre que possível, ouvirá a mãe sobre a paternidade alegada e mandará, em qualquer caso, notificar o suposto pai, independente de seu estado civil, para que se manifeste sobre a paternidade que lhe é atribuída.\n\n§ 2° O juiz, quando entender necessário, determinará que a diligência seja realizada em segredo de justiça.\n\n§ 3° No caso do suposto pai confirmar expressamente a paternidade, será lavrado termo de reconhecimento e remetida certidão ao oficial do registro, para a devida averbação.\n\n§ 4° Se o suposto pai não atender no prazo de trinta dias, a notificação judicial, ou negar a alegada paternidade, o juiz remeterá os autos ao representante do Ministério Público para que intente, havendo elementos suficientes, a ação de investigação de paternidade.\n\n§ 5° A iniciativa conferida ao Ministério não impede a quem tenha legítimo interesse de intentar investigação, visando a obter o pretendido reconhecimento da paternidade.\n\n§ 5o Nas hipóteses previstas no § 4o deste artigo, é dispensável o ajuizamento de ação de investigação de paternidade pelo Ministério Público se, após o não comparecimento ou a recusa do suposto pai em assumir a paternidade a ele atribuída, a criança for encaminhada para adoção. (Redação dada pela Lei nº 12,010, de 2009) Vigência\n\n§ 6o A iniciativa conferida ao Ministério Público não impede a quem tenha legítimo interesse de intentar investigação, visando a obter o pretendido reconhecimento da paternidade. (Incluído pela Lei nº 12,010, de 2009) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%202%C2%B0%20Em%20registro%20de%20nascimento%20de%20menor%20apenas%20com%20a%20maternidade%20estabelecida%2C%20o%20oficial%20remeter%C3%A1%20ao%20juiz%20certid%C3%A3o%20integral%20do%20registro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. Na ação de investigação de paternidade, todos os meios legais, bem como os moralmente legítimos, serão hábeis para provar a verdade dos fatos. (Incluído pela Lei nº 12.004, de 2009).\n\n§ 1º. A recusa do réu em se submeter ao exame de código genético - DNA gerará a presunção da paternidade, a ser apreciada em conjunto com o contexto probatório. (Incluído pela Lei nº 12.004, de 2009). (Renumerado do parágrafo único, pela Lei nº 14.138, de 2021)\n\n§ 2º Se o suposto pai houver falecido ou não existir notícia de seu paradeiro, o juiz determinará, a expensas do autor da ação, a realização do exame de pareamento do código genético (DNA) em parentes consanguíneos, preferindo-se os de grau mais próximo aos mais distantes, importando a recusa em presunção da paternidade, a ser apreciada em conjunto com o contexto probatório. (Incluído pela Lei nº 14.138, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%202o-A.%20Na%20a%C3%A7%C3%A3o%20de%20investiga%C3%A7%C3%A3o%20de%20paternidade%2C%20todos%20os%20meios%20legais%2C%20bem%20como%20os%20moralmente%20leg%C3%ADtimos%2C%20ser%C3%A3o%20h%C3%A1beis%20para%20provar%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° E vedado legitimar e reconhecer filho na ata do casamento.\n\nParágrafo único. É ressalvado o direito de averbar alteração do patronímico materno, em decorrência do casamento, no termo de nascimento do filho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%203%C2%B0%20E%20vedado%20legitimar%20e%20reconhecer%20filho%20na%20ata%20do%20casamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° O filho maior não pode ser reconhecido sem o seu consentimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%204%C2%B0%20O%20filho%20maior%20n%C3%A3o%20pode%20ser%20reconhecido%20sem%20o%20seu%20consentimento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° No registro de nascimento não se fará qualquer referência à natureza da filiação, à sua ordem em relação a outros irmãos do mesmo prenome, exceto gêmeos, ao lugar e cartório do casamento dos pais e ao estado civil destes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%205%C2%B0%20No%20registro%20de%20nascimento%20n%C3%A3o%20se%20far%C3%A1%20qualquer%20refer%C3%AAncia%20%C3%A0%20natureza%20da%20filia%C3%A7%C3%A3o%2C%20%C3%A0%20sua%20ordem%20em%20rela%C3%A7%C3%A3o%20a%20outros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° Das certidões de nascimento não constarão indícios de a concepção haver sido decorrente de relação extraconjugal.\n\n§ 1° Não deverá constar, em qualquer caso, o estado civil dos pais e a natureza da filiação, bem como o lugar e cartório do casamento, proibida referência à presente lei.\n\n§ 2º São ressalvadas autorizações ou requisições judiciais de certidões de inteiro teor, mediante decisão fundamentada, assegurados os direitos, as garantias e interesses relevantes do registrado .",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%206%C2%B0%20Das%20certid%C3%B5es%20de%20nascimento%20n%C3%A3o%20constar%C3%A3o%20ind%C3%ADcios%20de%20a%20concep%C3%A7%C3%A3o%20haver%20sido%20decorrente%20de%20rela%C3%A7%C3%A3o%20extraconjugal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° Sempre que na sentença de primeiro grau se reconhecer a paternidade, nela se fixarão os alimentos provisionais ou definitivos do reconhecido que deles necessite.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%207%C2%B0%20Sempre%20que%20na%20senten%C3%A7a%20de%20primeiro%20grau%20se%20reconhecer%20a%20paternidade%2C%20nela%20se%20fixar%C3%A3o%20os%20alimentos%20provisionais%20ou%20definitivos%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8° Os registros de nascimento, anteriores à data da presente lei, poderão ser retificados por decisão judicial, ouvido o Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%208%C2%B0%20Os%20registros%20de%20nascimento%2C%20anteriores%20%C3%A0%20data%20da%20presente%20lei%2C%20poder%C3%A3o%20ser%20retificados%20por%20decis%C3%A3o%20judicial%2C%20ouvido%20o%20Minist%C3%A9rio%20P%C3%BAblico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9° Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%209%C2%B0%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. São revogados os arts. 332, 337 e 347 do Código Civil e demais disposições em contrário.\n\nBrasília, 29 de dezembro de 1992; 171° da Independência e 104° da República.\n\nITAMAR FRANCO Maurício Corrêa\n\nEste texto não substitui o publicado no DOU de 30.12.1992\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm#:~:text=Art.%2010.%20S%C3%A3o%20revogados%20os%20arts.%20332%2C%20337%20e%20347%20do%20C%C3%B3digo%20Civil%20e%20demais%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": null
+    }
+  }
+}

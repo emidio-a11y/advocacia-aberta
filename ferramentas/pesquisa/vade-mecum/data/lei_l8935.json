@@ -1,0 +1,943 @@
+{
+  "_meta": {
+    "codigo": "L8935",
+    "nome": "Cartórios",
+    "lei": "Lei 8.935/1994",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm",
+    "total_artigos": 58,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Serviços notariais e de registro são os de organização técnica e administrativa destinados a garantir a publicidade, autenticidade, segurança e eficácia dos atos jurídicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%201%C2%BA%20Servi%C3%A7os%20notariais%20e%20de%20registro%20s%C3%A3o%20os%20de%20organiza%C3%A7%C3%A3o%20t%C3%A9cnica%20e%20administrativa%20destinados%20a%20garantir%20a%20publicidade%2C%20autenticidade%2C%20seguran%C3%A7a%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Natureza e Fins",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%202%C2%BA%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Natureza e Fins",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Notário, ou tabelião, e oficial de registro, ou registrador, são profissionais do direito, dotados de fé pública, a quem é delegado o exercício da atividade notarial e de registro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%203%C2%BA%20Not%C3%A1rio%2C%20ou%20tabeli%C3%A3o%2C%20e%20oficial%20de%20registro%2C%20ou%20registrador%2C%20s%C3%A3o%20profissionais%20do%20direito%2C%20dotados%20de%20f%C3%A9%20p%C3%BAblica%2C%20a%20quem%20%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Natureza e Fins",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Os serviços notariais e de registro serão prestados, de modo eficiente e adequado, em dias e horários estabelecidos pelo juízo competente, atendidas as peculiaridades locais, em local de fácil acesso ao público e que ofereça segurança para o arquivamento de livros e documentos.\n\n§ 1º O serviço de registro civil das pessoas naturais será prestado, também, nos sábados, domingos e feriados pelo sistema de plantão.\n\n§ 2º O atendimento ao público será, no mínimo, de seis horas diárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%204%C2%BA%20Os%20servi%C3%A7os%20notariais%20e%20de%20registro%20ser%C3%A3o%20prestados%2C%20de%20modo%20eficiente%20e%20adequado%2C%20em%20dias%20e%20hor%C3%A1rios%20estabelecidos%20pelo%20ju%C3%ADzo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Natureza e Fins",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Os titulares de serviços notariais e de registro são os:\n\nI - tabeliães de notas;\n\nII - tabeliães e oficiais de registro de contratos marítimos;\n\nIII - tabeliães de protesto de títulos;\n\nIV - oficiais de registro de imóveis;\n\nV - oficiais de registro de títulos e documentos e civis das pessoas jurídicas;\n\nVI - oficiais de registro civis das pessoas naturais e de interdições e tutelas;\n\nVII - oficiais de registro de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%205%C2%BA%20Os%20titulares%20de%20servi%C3%A7os%20notariais%20e%20de%20registro%20s%C3%A3o%20os%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "I",
+        "section_name": "SEÇÃO I Dos Titulares"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Aos notários compete:\n\nI - formalizar juridicamente a vontade das partes;\n\nII - intervir nos atos e negócios jurídicos a que as partes devam ou queiram dar forma legal ou autenticidade, autorizando a redação ou redigindo os instrumentos adequados, conservando os originais e expedindo cópias fidedignas de seu conteúdo;\n\nIII - autenticar fatos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%206%C2%BA%20Aos%20not%C3%A1rios%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "5",
+      "next": "6-A"
+    },
+    "6-A": {
+      "numero": "6-A",
+      "texto": "Art. 6º-A A pedido dos interessados, os tabeliães de notas comunicarão ao juiz da vara ou ao tribunal, conforme o caso, a existência de negociação em curso entre o credor atual de precatório ou de crédito reconhecido em sentença transitada em julgado e terceiro, o que constará das informações ou consultas que o juízo emitir, consideradas ineficazes as cessões realizadas para pessoas não identificadas na comunicação notarial se, dentro do prazo de 15 (quinze) dias corridos, contado do recebimento desta pelo juízo, for lavrada a respectiva escritura pública de cessão de crédito. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 1º O tabelião de notas deverá comunicar ao juiz da vara ou tribunal, conforme aplicável e em atenção ao pedido dos interessados, a negociação, imediatamente, e a cessão realizada, em até 3 (três) dias úteis contados da data da assinatura da escritura pública. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 2º Para o fim da regular cessão dos precatórios que emitirem, os tribunais de todos os poderes e esferas darão, exclusivamente aos tabeliães de notas e aos seus substitutos, acesso a consulta ou a banco de dados, por meio de central notarial de âmbito nacional, com identificação do número de cadastro de contribuinte do credor e demais dados do crédito que não sejam sensíveis, bem como receberão as comunicações notariais das cessões de precatórios. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%206%C2%BA-A%20A%20pedido%20dos%20interessados%2C%20os%20tabeli%C3%A3es%20de%20notas%20comunicar%C3%A3o%20ao%20juiz%20da%20vara%20ou%20ao%20tribunal%2C%20conforme%20o%20caso%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "6",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Aos tabeliães de notas compete com exclusividade:\n\nI - lavrar escrituras e procurações, públicas;\n\nII - lavrar testamentos públicos e aprovar os cerrados;\n\nIII - lavrar atas notariais;\n\nIV - reconhecer firmas;\n\nV - autenticar cópias.\n\nParágrafo único. É facultado aos tabeliães de notas realizar todas as gestões e diligências necessárias ou convenientes ao preparo dos atos notariais, requerendo o que couber, sem ônus maiores que os emolumentos devidos pelo ato.\n\n§ 1º É facultado aos tabeliães de notas realizar todas as gestões e diligências necessárias ou convenientes ao preparo dos atos notariais, requerendo o que couber, sem ônus maiores que os emolumentos devidos pelo ato. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 2º É vedada a exigência de testemunhas apenas em razão de o ato envolver pessoa com deficiência, salvo disposição em contrário. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 3º (VETADO). (Incluído pela Lei nº 14.382, de 2022)\n\n§ 4º (VETADO). (Incluído pela Lei nº 14.382, de 2022)\n\n§ 5º Os tabeliães de notas estão autorizados a prestar outros serviços remunerados, na forma prevista em convênio com órgãos públicos, entidades e empresas interessadas, respeitados os requisitos de forma previstos na Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil). (Incluído pela Lei nº 14.382, de 2022)\n\n§ 6º (VETADO). (Incluído pela Lei nº 14.711, de 2023)\n\n§ 7º (VETADO). (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%207%C2%BA%20Aos%20tabeli%C3%A3es%20de%20notas%20compete%20com%20exclusividade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "6-A",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A Aos tabeliães de notas também compete, sem exclusividade, entre outras atividades: (Incluído pela Lei nº 14.711, de 2023)\n\nI - certificar o implemento ou a frustração de condições e outros elementos negociais, respeitada a competência própria dos tabeliães de protesto; (Incluído pela Lei nº 14.711, de 2023)\n\nII - atuar como mediador ou conciliador; (Incluído pela Lei nº 14.711, de 2023)\n\nIII - atuar como árbitro. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 1º O preço do negócio ou os valores conexos poderão ser recebidos ou consignados por meio do tabelião de notas, que repassará o montante à parte devida ao constatar a ocorrência ou a frustração das condições negociais aplicáveis, não podendo o depósito feito em conta vinculada ao negócio, nos termos de convênio firmado entre a entidade de classe de âmbito nacional e instituição financeira credenciada, que constituirá patrimônio segregado, ser constrito por autoridade judicial ou fiscal em razão de obrigação do depositante, de qualquer parte ou do tabelião de notas, por motivo estranho ao próprio negócio. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 2º O tabelião de notas lavrará, a pedido das partes, ata notarial para constatar a verificação da ocorrência ou da frustração das condições negociais aplicáveis e certificará o repasse dos valores devidos e a eficácia ou a rescisão do negócio celebrado, o que, quando aplicável, constituirá título para fins do art. 221 da Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), respeitada a competência própria dos tabeliães de protesto. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 3º A mediação e a conciliação extrajudicial serão remuneradas na forma estabelecida em convênio, nos termos dos §§ 5º e 7º do art. 7º desta Lei, ou, na falta ou na inaplicabilidade do convênio, pela tabela de emolumentos estadual aplicável para escrituras públicas com valor econômico. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º (VETADO). (Incluído pela Lei nº 14.711, de 2023)\n\n§ 5º (VETADO). (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%207%C2%BA-A%20Aos%20tabeli%C3%A3es%20de%20notas%20tamb%C3%A9m%20compete%2C%20sem%20exclusividade%2C%20entre%20outras%20atividades%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.711%2C%20de%202023%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "7",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º É livre a escolha do tabelião de notas, qualquer que seja o domicílio das partes ou o lugar de situação dos bens objeto do ato ou negócio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%208%C2%BA%20%C3%89%20livre%20a%20escolha%20do%20tabeli%C3%A3o%20de%20notas%2C%20qualquer%20que%20seja%20o%20domic%C3%ADlio%20das%20partes%20ou%20o%20lugar%20de%20situa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "7-A",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O tabelião de notas não poderá praticar atos de seu ofício fora do Município para o qual recebeu delegação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%209%C2%BA%20O%20tabeli%C3%A3o%20de%20notas%20n%C3%A3o%20poder%C3%A1%20praticar%20atos%20de%20seu%20of%C3%ADcio%20fora%20do%20Munic%C3%ADpio%20para%20o%20qual%20recebeu%20delega%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Aos tabeliães e oficiais de registro de contratos marítimos compete:\n\nI - lavrar os atos, contratos e instrumentos relativos a transações de embarcações a que as partes devam ou queiram dar forma legal de escritura pública;\n\nII - registrar os documentos da mesma natureza;\n\nIII - reconhecer firmas em documentos destinados a fins de direito marítimo;\n\nIV - expedir traslados e certidões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2010.%20Aos%20tabeli%C3%A3es%20e%20oficiais%20de%20registro%20de%20contratos%20mar%C3%ADtimos%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Aos tabeliães de protesto de título compete privativamente:\n\nI - protocolar de imediato os documentos de dívida, para prova do descumprimento da obrigação;\n\nII - intimar os devedores dos títulos para aceitá-los, devolvê-los ou pagá-los, sob pena de protesto;\n\nIII - receber o pagamento dos títulos protocolizados, dando quitação;\n\nIV - lavrar o protesto, registrando o ato em livro próprio, em microfilme ou sob outra forma de documentação;\n\nV - acatar o pedido de desistência do protesto formulado pelo apresentante;\n\nVI - averbar:\n\na) o cancelamento do protesto;\n\nb) as alterações necessárias para atualização dos registros efetuados;\n\nVII - expedir certidões de atos e documentos que constem de seus registros e papéis.\n\nParágrafo único. Havendo mais de um tabelião de protestos na mesma localidade, será obrigatória a prévia distribuição dos títulos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2011.%20Aos%20tabeli%C3%A3es%20de%20protesto%20de%20t%C3%ADtulo%20compete%20privativamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "II",
+        "section_name": "SEÇÃO II Das Atribuições e Competências dos Notários"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Aos oficiais de registro de imóveis, de títulos e documentos e civis das pessoas jurídicas, civis das pessoas naturais e de interdições e tutelas compete a prática dos atos relacionados na legislação pertinente aos registros públicos, de que são incumbidos, independentemente de prévia distribuição, mas sujeitos os oficiais de registro de imóveis e civis das pessoas naturais às normas que definirem as circunscrições geográficas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2012.%20Aos%20oficiais%20de%20registro%20de%20im%C3%B3veis%2C%20de%20t%C3%ADtulos%20e%20documentos%20e%20civis%20das%20pessoas%20jur%C3%ADdicas%2C%20civis%20das%20pessoas%20naturais%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "III",
+        "section_name": "SEÇÃO III Das Atribuições e Competências dos Oficiais de Registros"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Aos oficiais de registro de distribuição compete privativamente:\n\nI - quando previamente exigida, proceder à distribuição eqüitativa pelos serviços da mesma natureza, registrando os atos praticados; em caso contrário, registrar as comunicações recebidas dos órgãos e serviços competentes;\n\nII - efetuar as averbações e os cancelamentos de sua competência;\n\nIII - expedir certidões de atos e documentos que constem de seus registros e papéis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2013.%20Aos%20oficiais%20de%20registro%20de%20distribui%C3%A7%C3%A3o%20compete%20privativamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Dos Serviços Notariais e de Registros",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Notários e Registradores",
+        "section": "III",
+        "section_name": "SEÇÃO III Das Atribuições e Competências dos Oficiais de Registros"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A delegação para o exercício da atividade notarial e de registro depende dos seguintes requisitos:\n\nI - habilitação em concurso público de provas e títulos;\n\nII - nacionalidade brasileira;\n\nIII - capacidade civil;\n\nIV - quitação com as obrigações eleitorais e militares;\n\nV - diploma de bacharel em direito;\n\nVI - verificação de conduta condigna para o exercício da profissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2014.%20A%20delega%C3%A7%C3%A3o%20para%20o%20exerc%C3%ADcio%20da%20atividade%20notarial%20e%20de%20registro%20depende%20dos%20seguintes%20requisitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Ingresso na Atividade Notarial e de Registro",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os concursos serão realizados pelo Poder Judiciário, com a participação, em todas as suas fases, da Ordem dos Advogados do Brasil, do Ministério Público, de um notário e de um registrador.\n\n§ 1º O concurso será aberto com a publicação de edital, dele constando os critérios de desempate.\n\n§ 2º Ao concurso público poderão concorrer candidatos não bacharéis em direito que tenham completado, até a data da primeira publicação do edital do concurso de provas e títulos, dez anos de exercício em serviço notarial ou de registro.\n\n§ 3º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2015.%20Os%20concursos%20ser%C3%A3o%20realizados%20pelo%20Poder%20Judici%C3%A1rio%2C%20com%20a%20participa%C3%A7%C3%A3o%2C%20em%20todas%20as%20suas%20fases%2C%20da%20Ordem%20dos%20Advogados%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Ingresso na Atividade Notarial e de Registro",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As vagas serão preenchidas alternadamente, duas terças partes por concurso público de provas e títulos e uma terça parte por concurso de remoção, de provas e títulos, não se permitindo que qualquer serventia notarial ou de registro fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2016.%20As%20vagas%20ser%C3%A3o%20preenchidas%20alternadamente%2C%20duas%20ter%C3%A7as%20partes%20por%20concurso%20p%C3%BAblico%20de%20provas%20e%20t%C3%ADtulos%20e%20uma%20ter%C3%A7a%20parte%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Ingresso na Atividade Notarial e de Registro",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Ao concurso de remoção somente serão admitidos titulares que exerçam a atividade por mais de dois anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2017.%20Ao%20concurso%20de%20remo%C3%A7%C3%A3o%20somente%20ser%C3%A3o%20admitidos%20titulares%20que%20exer%C3%A7am%20a%20atividade%20por%20mais%20de%20dois%20anos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Ingresso na Atividade Notarial e de Registro",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A legislação estadual disporá sobre as normas e os critérios para o concurso de remoção.\n\nParágrafo único. Aos que ingressaram por concurso, nos termos do art. 236 da Constituição Federal, ficam preservadas todas as remoções reguladas por lei estadual ou do Distrito Federal, homologadas pelo respectivo Tribunal de Justiça, que ocorreram no período anterior à publicação desta Lei. (Incluído pela Lei nº 13.489, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2018.%20A%20legisla%C3%A7%C3%A3o%20estadual%20dispor%C3%A1%20sobre%20as%20normas%20e%20os%20crit%C3%A9rios%20para%20o%20concurso%20de%20remo%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Ingresso na Atividade Notarial e de Registro",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Os candidatos serão declarados habilitados na rigorosa ordem de classificação no concurso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2019.%20Os%20candidatos%20ser%C3%A3o%20declarados%20habilitados%20na%20rigorosa%20ordem%20de%20classifica%C3%A7%C3%A3o%20no%20concurso.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Ingresso na Atividade Notarial e de Registro",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os notários e os oficiais de registro poderão, para o desempenho de suas funções, contratar escreventes, dentre eles escolhendo os substitutos, e auxiliares como empregados, com remuneração livremente ajustada e sob o regime da legislação do trabalho. (Vide ADIN 1183)\n\n§ 1º Em cada serviço notarial ou de registro haverá tantos substitutos, escreventes e auxiliares quantos forem necessários, a critério de cada notário ou oficial de registro. (Vide ADIN 1183)\n\n§ 2º Os notários e os oficiais de registro encaminharão ao juízo competente os nomes dos substitutos. (Vide ADIN 1183)\n\n§ 3º Os escreventes poderão praticar somente os atos que o notário ou o oficial de registro autorizar. (Vide ADIN 1183)\n\n§ 4º Os substitutos poderão, simultaneamente com o notário ou o oficial de registro, praticar todos os atos que lhe sejam próprios exceto, nos tabelionatos de notas, lavrar testamentos. (Vide ADIN 1183)\n\n§ 5º Dentre os substitutos, um deles será designado pelo notário ou oficial de registro para responder pelo respectivo serviço nas ausências e nos impedimentos do titular. (Vide ADIN 1183)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2020.%20Os%20not%C3%A1rios%20e%20os%20oficiais%20de%20registro%20poder%C3%A3o%2C%20para%20o%20desempenho%20de%20suas%20fun%C3%A7%C3%B5es%2C%20contratar%20escreventes%2C%20dentre%20eles%20escolhendo%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Prepostos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O gerenciamento administrativo e financeiro dos serviços notariais e de registro é da responsabilidade exclusiva do respectivo titular, inclusive no que diz respeito às despesas de custeio, investimento e pessoal, cabendo-lhe estabelecer normas, condições e obrigações relativas à atribuição de funções e de remuneração de seus prepostos de modo a obter a melhor qualidade na prestação dos serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2021.%20O%20gerenciamento%20administrativo%20e%20financeiro%20dos%20servi%C3%A7os%20notariais%20e%20de%20registro%20%C3%A9%20da%20responsabilidade%20exclusiva%20do%20respectivo%20titular%2C%20inclusive%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Prepostos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os notários e oficiais de registro responderão pelos danos que eles e seus prepostos causem a terceiros, na prática de atos próprios da serventia, assegurado aos primeiros direito de regresso no caso de dolo ou culpa dos prepostos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2022.%20Os%20not%C3%A1rios%20e%20oficiais%20de%20registro%20responder%C3%A3o%20pelos%20danos%20que%20eles%20e%20seus%20prepostos%20causem%20a%20terceiros%2C%20na%20pr%C3%A1tica%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Responsabilidade Civil e Criminal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A responsabilidade civil independe da criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2023.%20A%20responsabilidade%20civil%20independe%20da%20criminal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Responsabilidade Civil e Criminal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A responsabilidade criminal será individualizada, aplicando-se, no que couber, a legislação relativa aos crimes contra a administração pública.\n\nParágrafo único. A individualização prevista no caput não exime os notários e os oficiais de registro de sua responsabilidade civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2024.%20A%20responsabilidade%20criminal%20ser%C3%A1%20individualizada%2C%20aplicando-se%2C%20no%20que%20couber%2C%20a%20legisla%C3%A7%C3%A3o%20relativa%20aos%20crimes%20contra%20a%20administra%C3%A7%C3%A3o%20p%C3%BAblica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Responsabilidade Civil e Criminal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O exercício da atividade notarial e de registro é incompatível com o da advocacia, o da intermediação de seus serviços ou o de qualquer cargo, emprego ou função públicos, ainda que em comissão.\n\n§ 1º (Vetado).\n\n§ 2º A diplomação, na hipótese de mandato eletivo, e a posse, nos demais casos, implicará no afastamento da atividade. (Vide ADIN 1531)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2025.%20O%20exerc%C3%ADcio%20da%20atividade%20notarial%20e%20de%20registro%20%C3%A9%20incompat%C3%ADvel%20com%20o%20da%20advocacia%2C%20o%20da%20intermedia%C3%A7%C3%A3o%20de%20seus%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Incompatibilidades e dos Impedimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Não são acumuláveis os serviços enumerados no art. 5º.\n\nParágrafo único. Poderão, contudo, ser acumulados nos Municípios que não comportarem, em razão do volume dos serviços ou da receita, a instalação de mais de um dos serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2026.%20N%C3%A3o%20s%C3%A3o%20acumul%C3%A1veis%20os%20servi%C3%A7os%20enumerados%20no%20art.%205%C2%BA.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Incompatibilidades e dos Impedimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. No serviço de que é titular, o notário e o registrador não poderão praticar, pessoalmente, qualquer ato de seu interesse, ou de interesse de seu cônjuge ou de parentes, na linha reta, ou na colateral, consangüíneos ou afins, até o terceiro grau.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2027.%20No%20servi%C3%A7o%20de%20que%20%C3%A9%20titular%2C%20o%20not%C3%A1rio%20e%20o%20registrador%20n%C3%A3o%20poder%C3%A3o%20praticar%2C%20pessoalmente%2C%20qualquer%20ato%20de%20seu%20interesse%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Incompatibilidades e dos Impedimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Os notários e oficiais de registro gozam de independência no exercício de suas atribuições, têm direito à percepção dos emolumentos integrais pelos atos praticados na serventia e só perderão a delegação nas hipóteses previstas em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2028.%20Os%20not%C3%A1rios%20e%20oficiais%20de%20registro%20gozam%20de%20independ%C3%AAncia%20no%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20t%C3%AAm%20direito%20%C3%A0%20percep%C3%A7%C3%A3o%20dos%20emolumentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Dos Direitos e Deveres",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. São direitos do notário e do registrador:\n\nI - exercer opção, nos casos de desmembramento ou desdobramento de sua serventia;\n\nII - organizar associações ou sindicatos de classe e deles participar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2029.%20S%C3%A3o%20direitos%20do%20not%C3%A1rio%20e%20do%20registrador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Dos Direitos e Deveres",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. São deveres dos notários e dos oficiais de registro:\n\nI - manter em ordem os livros, papéis e documentos de sua serventia, guardando-os em locais seguros;\n\nII - atender as partes com eficiência, urbanidade e presteza;\n\nIII - atender prioritariamente as requisições de papéis, documentos, informações ou providências que lhes forem solicitadas pelas autoridades judiciárias ou administrativas para a defesa das pessoas jurídicas de direito público em juízo;\n\nIV - manter em arquivo as leis, regulamentos, resoluções, provimentos, regimentos, ordens de serviço e quaisquer outros atos que digam respeito à sua atividade;\n\nV - proceder de forma a dignificar a função exercida, tanto nas atividades profissionais como na vida privada;\n\nVI - guardar sigilo sobre a documentação e os assuntos de natureza reservada de que tenham conhecimento em razão do exercício de sua profissão;\n\nVII - afixar em local visível, de fácil leitura e acesso ao público, as tabelas de emolumentos em vigor;\n\nVIII - observar os emolumentos fixados para a prática dos atos do seu ofício;\n\nIX - dar recibo dos emolumentos percebidos;\n\nX - observar os prazos legais fixados para a prática dos atos do seu ofício;\n\nXI - fiscalizar o recolhimento dos impostos incidentes sobre os atos que devem praticar;\n\nXII - facilitar, por todos os meios, o acesso à documentação existente às pessoas legalmente habilitadas;\n\nXIII - encaminhar ao juízo competente as dúvidas levantadas pelos interessados, obedecida a sistemática processual fixada pela legislação respectiva;\n\nXIV - observar as normas técnicas estabelecidas pelo juízo competente.\n\nXIV - observar as normas técnicas estabelecidas pelo juízo competente; e (Redação dada pela Medida Provisória nº 1.085, de 2021)\n\nXV - admitir pagamento dos emolumentos, das custas e das despesas por meios eletrônicos, a critério do usuário, inclusive mediante parcelamento. (Incluído pela Medida Provisória nº 1.085, de 2021)\n\nXIV - observar as normas técnicas estabelecidas pelo juízo competente; e (Redação dada pela Lei nº 14.382, de 2022)\n\nXV - admitir pagamento dos emolumentos, das custas e das despesas por meio eletrônico, a critério do usuário, inclusive mediante parcelamento. (Incluído pela Lei nº 14.382, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2030.%20S%C3%A3o%20deveres%20dos%20not%C3%A1rios%20e%20dos%20oficiais%20de%20registro%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Dos Direitos e Deveres",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. São infrações disciplinares que sujeitam os notários e os oficiais de registro às penalidades previstas nesta lei:\n\nI - a inobservância das prescrições legais ou normativas;\n\nII - a conduta atentatória às instituições notariais e de registro;\n\nIII - a cobrança indevida ou excessiva de emolumentos, ainda que sob a alegação de urgência;\n\nIV - a violação do sigilo profissional;\n\nV - o descumprimento de quaisquer dos deveres descritos no art. 30.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2031.%20S%C3%A3o%20infra%C3%A7%C3%B5es%20disciplinares%20que%20sujeitam%20os%20not%C3%A1rios%20e%20os%20oficiais%20de%20registro%20%C3%A0s%20penalidades%20previstas%20nesta%20lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Infrações Disciplinares e das Penalidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Os notários e os oficiais de registro estão sujeitos, pelas infrações que praticarem, assegurado amplo direito de defesa, às seguintes penas:\n\nI - repreensão;\n\nII - multa;\n\nIII - suspensão por noventa dias, prorrogável por mais trinta;\n\nIV - perda da delegação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2032.%20Os%20not%C3%A1rios%20e%20os%20oficiais%20de%20registro%20est%C3%A3o%20sujeitos%2C%20pelas%20infra%C3%A7%C3%B5es%20que%20praticarem%2C%20assegurado%20amplo%20direito%20de%20defesa%2C%20%C3%A0s%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Infrações Disciplinares e das Penalidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. As penas serão aplicadas:\n\nI - a de repreensão, no caso de falta leve;\n\nII - a de multa, em caso de reincidência ou de infração que não configure falta mais grave;\n\nIII - a de suspensão, em caso de reiterado descumprimento dos deveres ou de falta grave.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2033.%20As%20penas%20ser%C3%A3o%20aplicadas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Infrações Disciplinares e das Penalidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As penas serão impostas pelo juízo competente, independentemente da ordem de gradação, conforme a gravidade do fato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2034.%20As%20penas%20ser%C3%A3o%20impostas%20pelo%20ju%C3%ADzo%20competente%2C%20independentemente%20da%20ordem%20de%20grada%C3%A7%C3%A3o%2C%20conforme%20a%20gravidade%20do%20fato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Infrações Disciplinares e das Penalidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. A perda da delegação dependerá:\n\nI - de sentença judicial transitada em julgado; ou\n\nII - de decisão decorrente de processo administrativo instaurado pelo juízo competente, assegurado amplo direito de defesa.\n\n§ 1º Quando o caso configurar a perda da delegação, o juízo competente suspenderá o notário ou oficial de registro, até a decisão final, e designará interventor, observando-se o disposto no art. 36.\n\n§ 2º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2035.%20A%20perda%20da%20delega%C3%A7%C3%A3o%20depender%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Infrações Disciplinares e das Penalidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Quando, para a apuração de faltas imputadas a notários ou a oficiais de registro, for necessário o afastamento do titular do serviço, poderá ele ser suspenso, preventivamente, pelo prazo de noventa dias, prorrogável por mais trinta.\n\n§ 1º Na hipótese do caput, o juízo competente designará interventor para responder pela serventia, quando o substituto também for acusado das faltas ou quando a medida se revelar conveniente para os serviços.\n\n§ 2º Durante o período de afastamento, o titular perceberá metade da renda líquida da serventia; outra metade será depositada em conta bancária especial, com correção monetária.\n\n§ 3º Absolvido o titular, receberá ele o montante dessa conta; condenado, caberá esse montante ao interventor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2036.%20Quando%2C%20para%20a%20apura%C3%A7%C3%A3o%20de%20faltas%20imputadas%20a%20not%C3%A1rios%20ou%20a%20oficiais%20de%20registro%2C%20for%20necess%C3%A1rio%20o%20afastamento%20do%20titular",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Infrações Disciplinares e das Penalidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A fiscalização judiciária dos atos notariais e de registro, mencionados nos artes. 6º a 13, será exercida pelo juízo competente, assim definido na órbita estadual e do Distrito Federal, sempre que necessário, ou mediante representação de qualquer interessado, quando da inobservância de obrigação legal por parte de notário ou de oficial de registro, ou de seus prepostos.\n\nParágrafo único. Quando, em autos ou papéis de que conhecer, o Juiz verificar a existência de crime de ação pública, remeterá ao Ministério Público as cópias e os documentos necessários ao oferecimento da denúncia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2037.%20A%20fiscaliza%C3%A7%C3%A3o%20judici%C3%A1ria%20dos%20atos%20notariais%20e%20de%20registro%2C%20mencionados%20nos%20artes.%206%C2%BA%20a%2013%2C%20ser%C3%A1%20exercida%20pelo%20ju%C3%ADzo%20competente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Fiscalização pelo Poder Judiciário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O juízo competente zelará para que os serviços notariais e de registro sejam prestados com rapidez, qualidade satisfatória e de modo eficiente, podendo sugerir à autoridade competente a elaboração de planos de adequada e melhor prestação desses serviços, observados, também, critérios populacionais e sócio-econômicos, publicados regularmente pela Fundação Instituto Brasileiro de Geografia e Estatística.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2038.%20O%20ju%C3%ADzo%20competente%20zelar%C3%A1%20para%20que%20os%20servi%C3%A7os%20notariais%20e%20de%20registro%20sejam%20prestados%20com%20rapidez%2C%20qualidade%20satisfat%C3%B3ria%20e%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Fiscalização pelo Poder Judiciário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Extinguir-se-á a delegação a notário ou a oficial de registro por:\n\nI - morte;\n\nII - aposentadoria facultativa; (Vide ADIN 1183)\n\nIII - invalidez;\n\nIV - renúncia;\n\nV - perda, nos termos do art. 35.\n\nVI - descumprimento, comprovado, da gratuidade estabelecida na Lei no 9.534, de 10 de dezembro de 1997. (Incluído pela Lei nº 9.812, de 1999)\n\n§ 1º Dar-se-á aposentadoria facultativa ou por invalidez nos termos da legislação previdenciária federal.\n\n§ 2º Extinta a delegação a notário ou a oficial de registro, a autoridade competente declarará vago o respectivo serviço, designará o substituto mais antigo para responder pelo expediente e abrirá concurso.\n\n§ 3º (VETADO). (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º (VETADO). (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2039.%20Extinguir-se-%C3%A1%20a%20delega%C3%A7%C3%A3o%20a%20not%C3%A1rio%20ou%20a%20oficial%20de%20registro%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Extinção da Delegação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os notários, oficiais de registro, escreventes e auxiliares são vinculados à previdência social, de âmbito federal, e têm assegurada a contagem recíproca de tempo de serviço em sistemas diversos.\n\nParágrafo único. Ficam assegurados, aos notários, oficiais de registro, escreventes e auxiliares os direitos e vantagens previdenciários adquiridos até a data da publicação desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2040.%20Os%20not%C3%A1rios%2C%20oficiais%20de%20registro%2C%20escreventes%20e%20auxiliares%20s%C3%A3o%20vinculados%20%C3%A0%20previd%C3%AAncia%20social%2C%20de%20%C3%A2mbito%20federal%2C%20e%20t%C3%AAm%20assegurada%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Das Normas Comuns",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX Da Seguridade Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Incumbe aos notários e aos oficiais de registro praticar, independentemente de autorização, todos os atos previstos em lei necessários à organização e execução dos serviços, podendo, ainda, adotar sistemas de computação, microfilmagem, disco ótico e outros meios de reprodução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2041.%20Incumbe%20aos%20not%C3%A1rios%20e%20aos%20oficiais%20de%20registro%20praticar%2C%20independentemente%20de%20autoriza%C3%A7%C3%A3o%2C%20todos%20os%20atos%20previstos%20em%20lei%20necess%C3%A1rios%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os papéis referentes aos serviços dos notários e dos oficiais de registro serão arquivados mediante utilização de processos que facilitem as buscas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2042.%20Os%20pap%C3%A9is%20referentes%20aos%20servi%C3%A7os%20dos%20not%C3%A1rios%20e%20dos%20oficiais%20de%20registro%20ser%C3%A3o%20arquivados%20mediante%20utiliza%C3%A7%C3%A3o%20de%20processos%20que%20facilitem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "42-A"
+    },
+    "42-A": {
+      "numero": "42-A",
+      "texto": "Art. 42-A. As centrais de serviços eletrônicos, geridas por entidade representativa da atividade notarial e de registro para acessibilidade digital a serviços e maior publicidade, sistematização e tratamento digital de dados e informações inerentes às atribuições delegadas, poderão fixar preços e gratuidades pelos serviços de natureza complementar que prestam e disponibilizam aos seus usuários de forma facultativa. (Incluído pela Lei nº 14.206, de 2021) (Revogado Pela Medida Provisória nº 1.085, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2042-A.%20As%20centrais%20de%20servi%C3%A7os%20eletr%C3%B4nicos%2C%20geridas%20por%20entidade%20representativa%20da%20atividade%20notarial%20e%20de%20registro%20para%20acessibilidade%20digital%20a%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Cada serviço notarial ou de registro funcionará em um só local, vedada a instalação de sucursal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2043.%20Cada%20servi%C3%A7o%20notarial%20ou%20de%20registro%20funcionar%C3%A1%20em%20um%20s%C3%B3%20local%2C%20vedada%20a%20instala%C3%A7%C3%A3o%20de%20sucursal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42-A",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Verificada a absoluta impossibilidade de se prover, através de concurso público, a titularidade de serviço notarial ou de registro, por desinteresse ou inexistência de candidatos, o juízo competente proporá à autoridade competente a extinção do serviço e a anexação de suas atribuições ao serviço da mesma natureza mais próximo ou àquele localizado na sede do respectivo Município ou de Município contíguo.\n\n§ 1º (Vetado).\n\n§ 2º Em cada sede municipal haverá no mínimo um registrador civil das pessoas naturais.\n\n§ 3º Nos municípios de significativa extensão territorial, a juízo do respectivo Estado, cada sede distrital disporá no mínimo de um registrador civil das pessoas naturais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2044.%20Verificada%20a%20absoluta%20impossibilidade%20de%20se%20prover%2C%20atrav%C3%A9s%20de%20concurso%20p%C3%BAblico%2C%20a%20titularidade%20de%20servi%C3%A7o%20notarial%20ou%20de%20registro%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. São gratuitos para os reconhecidamente pobres os assentos do registro civil de nascimento e o de óbito, bem como as respectivas certidões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2045.%20S%C3%A3o%20gratuitos%20para%20os%20reconhecidamente%20pobres%20os%20assentos%20do%20registro%20civil%20de%20nascimento%20e%20o%20de%20%C3%B3bito%2C%20bem%20como%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Os livros, fichas, documentos, papéis, microfilmes e sistemas de computação deverão permanecer sempre sob a guarda e responsabilidade do titular de serviço notarial ou de registro, que zelará por sua ordem, segurança e conservação.\n\nParágrafo único. Se houver necessidade de serem periciados, o exame deverá ocorrer na própria sede do serviço, em dia e hora adrede designados, com ciência do titular e autorização do juízo competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2046.%20Os%20livros%2C%20fichas%2C%20documentos%2C%20pap%C3%A9is%2C%20microfilmes%20e%20sistemas%20de%20computa%C3%A7%C3%A3o%20dever%C3%A3o%20permanecer%20sempre%20sob%20a%20guarda%20e%20responsabilidade%20do%20titular",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O notário e o oficial de registro, legalmente nomeados até 5 de outubro de 1988, detêm a delegação constitucional de que trata o art. 2º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2047.%20O%20not%C3%A1rio%20e%20o%20oficial%20de%20registro%2C%20legalmente%20nomeados%20at%C3%A9%205%20de%20outubro%20de%201988%2C%20det%C3%AAm%20a%20delega%C3%A7%C3%A3o%20constitucional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os notários e os oficiais de registro poderão contratar, segundo a legislação trabalhista, seus atuais escreventes e auxiliares de investidura estatutária ou em regime especial desde que estes aceitem a transformação de seu regime jurídico, em opção expressa, no prazo improrrogável de trinta dias, contados da publicação desta lei. (Vide ADIN 1183)\n\n§ 1º Ocorrendo opção, o tempo de serviço prestado será integralmente considerado, para todos os efeitos de direito. (Vide ADIN 1183)\n\n§ 2º Não ocorrendo opção, os escreventes e auxiliares de investidura estatutária ou em regime especial continuarão regidos pelas normas aplicáveis aos funcionários públicos ou pelas editadas pelo Tribunal de Justiça respectivo, vedadas novas admissões por qualquer desses regimes, a partir da publicação desta lei. (Vide ADIN 1183)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2048.%20Os%20not%C3%A1rios%20e%20os%20oficiais%20de%20registro%20poder%C3%A3o%20contratar%2C%20segundo%20a%20legisla%C3%A7%C3%A3o%20trabalhista%2C%20seus%20atuais%20escreventes%20e%20auxiliares%20de%20investidura",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Quando da primeira vacância da titularidade de serviço notarial ou de registro, será procedida a desacumulação, nos termos do art. 26.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2049.%20Quando%20da%20primeira%20vac%C3%A2ncia%20da%20titularidade%20de%20servi%C3%A7o%20notarial%20ou%20de%20registro%2C%20ser%C3%A1%20procedida%20a%20desacumula%C3%A7%C3%A3o%2C%20nos%20termos%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Em caso de vacância, os serviços notariais e de registro estatizados passarão automaticamente ao regime desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2050.%20Em%20caso%20de%20vac%C3%A2ncia%2C%20os%20servi%C3%A7os%20notariais%20e%20de%20registro%20estatizados%20passar%C3%A3o%20automaticamente%20ao%20regime%20desta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Aos atuais notários e oficiais de registro, quando da aposentadoria, fica assegurado o direito de percepção de proventos de acordo com a legislação que anteriormente os regia, desde que tenham mantido as contribuições nela estipuladas até a data do deferimento do pedido ou de sua concessão.\n\n§ 1º O disposto neste artigo aplica-se aos escreventes e auxiliares de investidura estatutária ou em regime especial que vierem a ser contratados em virtude da opção de que trata o art. 48.\n\n§ 2º Os proventos de que trata este artigo serão os fixados pela legislação previdenciária aludida no caput.\n\n§ 3º O disposto neste artigo aplica-se também às pensões deixadas, por morte, pelos notários, oficiais de registro, escreventes e auxiliares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2051.%20Aos%20atuais%20not%C3%A1rios%20e%20oficiais%20de%20registro%2C%20quando%20da%20aposentadoria%2C%20fica%20assegurado%20o%20direito%20de%20percep%C3%A7%C3%A3o%20de%20proventos%20de%20acordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Nas unidades federativas onde já existia lei estadual específica, em vigor na data de publicação desta lei, são competentes para a lavratura de instrumentos traslatícios de direitos reais, procurações, reconhecimento de firmas e autenticação de cópia reprográfica os serviços de Registro Civil das Pessoas Naturais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2052.%20Nas%20unidades%20federativas%20onde%20j%C3%A1%20existia%20lei%20estadual%20espec%C3%ADfica%2C%20em%20vigor%20na%20data%20de%20publica%C3%A7%C3%A3o%20desta%20lei%2C%20s%C3%A3o%20competentes%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Nos Estados cujas organizações judiciárias, vigentes à época da publicação desta lei, assim previrem, continuam em vigor as determinações relativas à fixação da área territorial de atuação dos tabeliães de protesto de títulos, a quem os títulos serão distribuídos em obediência às respectivas zonas.\n\nParágrafo único. Quando da primeira vacância, aplicar-se-á à espécie o disposto no parágrafo único do art. 11.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2053.%20Nos%20Estados%20cujas%20organiza%C3%A7%C3%B5es%20judici%C3%A1rias%2C%20vigentes%20%C3%A0%20%C3%A9poca%20da%20publica%C3%A7%C3%A3o%20desta%20lei%2C%20assim%20previrem%2C%20continuam%20em%20vigor%20as%20determina%C3%A7%C3%B5es%20relativas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Esta Lei entra em vigor na data da sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2054.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20da%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Revogam-se as disposições em contrário.\n\nBrasília, 18 de novembro de 1994; 173º da Independência e 106º da República.\n\nITAMAR FRANCO Alexandre de Paula Dupeyrat Martins\n\nEste texto não substitui o publicado no DOU de 21.11.1994\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2055.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Das Disposições Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": null
+    }
+  }
+}

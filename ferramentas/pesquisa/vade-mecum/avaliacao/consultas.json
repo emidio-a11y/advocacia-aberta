@@ -744,13 +744,13 @@
     "CFLO:12",
     "CFLO:14",
     "CFLO:15",
-    "CFLO:1"
+    "CFLO:26"
    ],
    "obrigatorios": [
     "CFLO:3",
     "CFLO:12"
    ],
-   "justificativa": "O art. 3º define APP e Reserva Legal; o art. 12 impõe a Reserva Legal ao imóvel rural; os arts. 14 e 15 tratam da localização e do cômputo de APP no percentual; o art. 1º-A delimita o objeto da lei mencionando os dois institutos."
+   "justificativa": "O art. 3º define APP e Reserva Legal; o art. 12 impõe a Reserva Legal ao imóvel rural; os arts. 14 e 15 tratam da localização e do cômputo de APP no percentual; o art. 26 condiciona a supressão de vegetação nativa em área de Reserva Legal a autorização. Julgamento revisado após a separação do art. 1º-A (antes absorvido no art. 1º vetado)."
   },
   {
    "id": "cpm-crime-militar-tempo-paz",
@@ -813,12 +813,12 @@
     "L9613:1",
     "L9613:4",
     "L9613:7",
-    "L9613:5"
+    "L9613:4-A"
    ],
    "obrigatorios": [
     "L9613:1"
    ],
-   "justificativa": "O art. 1º é o tipo penal da lavagem (ocultar ou dissimular bens, direitos e valores provenientes de infração penal); o art. 4º trata das medidas assecuratórias sobre esses bens; o art. 7º dos efeitos da condenação (perda de bens); o art. 5º da administração dos bens constritos. O art. 2º (regras processuais), também recuperado, não foi julgado relevante para a consulta."
+   "justificativa": "O art. 1º é o tipo penal da lavagem (ocultar ou dissimular bens, direitos e valores provenientes de infração penal); o art. 4º trata das medidas assecuratórias sobre esses bens; o art. 4º-A da alienação antecipada para preservação de valor; o art. 7º dos efeitos da condenação (perda de bens). O art. 2º (regras processuais) não foi julgado relevante. Julgamento revisado após a separação do art. 4º-A, antes absorvido no art. 4º."
   },
   {
    "id": "l9296-interceptacao",
@@ -830,12 +830,12 @@
    "relevantes": [
     "L9296:2",
     "L9296:1",
-    "L9296:8"
+    "L9296:8-A"
    ],
    "obrigatorios": [
     "L9296:2"
    ],
-   "justificativa": "O art. 2º fixa os requisitos negativos da interceptação (indícios razoáveis de autoria, impossibilidade de prova por outros meios, pena de reclusão); o art. 1º exige ordem judicial para a prova em investigação; o art. 8º disciplina a documentação da interceptação em autos apartados."
+   "justificativa": "O art. 2º fixa os requisitos negativos da interceptação (indícios razoáveis de autoria, impossibilidade de prova por outros meios, pena de reclusão); o art. 1º exige ordem judicial para a prova em investigação; o art. 8º-A disciplina a captação ambiental, com exigência de elementos probatórios razoáveis de autoria. Julgamento revisado após a separação do art. 8º-A, antes absorvido no art. 8º."
   },
   {
    "id": "lef-garantia-penhora",
@@ -938,6 +938,66 @@
     "LC142:3"
    ],
    "justificativa": "O art. 3º fixa os requisitos etário e de tempo de contribuição por grau de deficiência; o art. 1º delimita o objeto; o art. 2º define pessoa com deficiência; o art. 6º trata da comprovação do tempo nessa condição; o art. 9º manda aplicar fator previdenciário e demais regras do RGPS."
+  },
+  {
+   "id": "l8009-bem-de-familia",
+   "grupo": "legislacao",
+   "consulta": "impenhorabilidade imóvel residencial entidade familiar",
+   "filtro": {
+    "codigo": "L8009"
+   },
+   "relevantes": [
+    "L8009:1",
+    "L8009:3",
+    "L8009:5",
+    "L8009:4",
+    "L8009:2"
+   ],
+   "obrigatorios": [
+    "L8009:1",
+    "L8009:3"
+   ],
+   "justificativa": "O art. 1º institui a impenhorabilidade do imóvel residencial; o art. 3º fixa sua oponibilidade e exceções; o art. 5º define residência para esse fim; o art. 4º trata da aquisição de má-fé; o art. 2º exclui bens da proteção."
+  },
+  {
+   "id": "l5478-alimentos",
+   "grupo": "legislacao",
+   "consulta": "ação de alimentos provisórios rito especial",
+   "filtro": {
+    "codigo": "L5478"
+   },
+   "relevantes": [
+    "L5478:1",
+    "L5478:4",
+    "L5478:3",
+    "L5478:13",
+    "L5478:15"
+   ],
+   "obrigatorios": [
+    "L5478:1",
+    "L5478:4"
+   ],
+   "justificativa": "O art. 1º define o rito especial da ação de alimentos; o art. 4º manda fixar alimentos provisórios desde logo; o art. 3º disciplina o pedido; o art. 13 estende o rito a outras ações; o art. 15 trata da revisibilidade da decisão."
+  },
+  {
+   "id": "l12318-alienacao-parental",
+   "grupo": "legislacao",
+   "consulta": "alienação parental atos declarada",
+   "filtro": {
+    "codigo": "L12318"
+   },
+   "relevantes": [
+    "L12318:2",
+    "L12318:5",
+    "L12318:6",
+    "L12318:1",
+    "L12318:3"
+   ],
+   "obrigatorios": [
+    "L12318:2",
+    "L12318:6"
+   ],
+   "justificativa": "O art. 2º define o ato de alienação parental e traz o rol exemplificativo; o art. 6º lista as medidas quando caracterizados os atos; o art. 5º trata da perícia; o art. 1º delimita o objeto; o art. 3º qualifica a prática como violação de direito fundamental."
   }
  ]
 }

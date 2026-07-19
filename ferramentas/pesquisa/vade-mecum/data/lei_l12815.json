@@ -4,7 +4,7 @@
     "nome": "Setor Portuário – Relações de Trabalho",
     "lei": "Lei 12.815/2013",
     "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm",
-    "total_artigos": 77,
+    "total_artigos": 81,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -89,6 +89,70 @@
         "section_name": "Seção I"
       },
       "prev": "4",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A. Os contratos celebrados entre a concessionária e terceiros, inclusive os que tenham por objeto a exploração das instalações portuárias, serão regidos pelas normas de direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros e o poder concedente, sem prejuízo das atividades regulatória e fiscalizatória da Antaq. (Incluído pela Lei nº 14.047, de 2020)\n\nSubseção II\n\nDo Arrendamento de Instalação Portuária\n\n(Incluído pela Lei nº 14.047, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm#:~:text=Art.%205%C2%BA-A.%20Os%20contratos%20celebrados%20entre%20a%20concession%C3%A1ria%20e%20terceiros%2C%20inclusive%20os%20que%20tenham%20por%20objeto%20a%20explora%C3%A7%C3%A3o%20das%20instala%C3%A7%C3%B5es%20portu%C3%A1rias%2C%20ser%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "5-B"
+    },
+    "5-B": {
+      "numero": "5-B",
+      "texto": "Art. 5º-B. O arrendamento de bem público destinado à atividade portuária será realizado mediante a celebração de contrato, precedida de licitação, em conformidade com o disposto nesta Lei e no seu regulamento. (Incluído pela Lei nº 14.047, de 2020)\n\nParágrafo único. Poderá ser dispensada a realização da licitação de área no porto organizado, nos termos do regulamento, quando for comprovada a existência de um único interessado em sua exploração e estiverem presentes os seguintes requisitos: (Incluído pela Lei nº 14.047, de 2020)\n\nI - realização de chamamento público pela autoridade portuária com vistas a identificar interessados na exploração econômica da área; e (Incluído pela Lei nº 14.047, de 2020)\n\nII - conformidade com o plano de desenvolvimento e zoneamento do porto (Incluído pela Lei nº 14.047, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm#:~:text=Art.%205%C2%BA-B.%20O%20arrendamento%20de%20bem%20p%C3%BAblico%20destinado%20%C3%A0%20atividade%20portu%C3%A1ria%20ser%C3%A1%20realizado%20mediante%20a%20celebra%C3%A7%C3%A3o%20de%20contrato%2C%20precedida%20de%20licita%C3%A7%C3%A3o%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5-A",
+      "next": "5-C"
+    },
+    "5-C": {
+      "numero": "5-C",
+      "texto": "Art. 5º-C. São essenciais aos contratos de arrendamento as cláusulas relativas: (Incluído pela Lei nº 14.047, de 2020)\n\nI - ao objeto, à área e ao prazo; (Incluído pela Lei nº 14.047, de 2020)\n\nII - ao modo, à forma e às condições da exploração da instalação portuária; (Incluído pela Lei nº 14.047, de 2020)\n\nIII - ao valor do contrato e aos critérios e procedimentos de revisão e reajuste; (Incluído pela Lei nº 14.047, de 2020)\n\nIV - aos investimentos de responsabilidade do contratado; (Incluído pela Lei nº 14.047, de 2020)\n\nV - às responsabilidades das partes; (Incluído pela Lei nº 14.047, de 2020)\n\nVI - aos direitos, às garantias e às obrigações do contratante e do contratado; (Incluído pela Lei nº 14.047, de 2020)\n\nVII - à responsabilidade do titular da instalação portuária pela inexecução ou deficiente execução das atividades; (Incluído pela Lei nº 14.047, de 2020)\n\nVIII - às hipóteses de extinção do contrato; (Incluído pela Lei nº 14.047, de 2020)\n\nIX - à obrigatoriedade da prestação de informações de interesse do poder concedente, da Antaq e das demais autoridades que atuam no setor portuário, inclusive as de interesse específico da defesa nacional, para efeitos de mobilização; (Incluído pela Lei nº 14.047, de 2020)\n\nX - ao acesso à instalação portuária pelo poder concedente, pela Antaq e pelas demais autoridades que atuam no setor portuário; (Incluído pela Lei nº 14.047, de 2020)\n\nXI - às penalidades e sua forma de aplicação; e (Incluído pela Lei nº 14.047, de 2020)\n\nXII - ao foro. (Incluído pela Lei nº 14.047, de 2020)\n\nSubseção III\n\nDo Uso Temporário e das Licitações\n\n(Incluído pela Lei nº 14.047, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm#:~:text=Art.%205%C2%BA-C.%20S%C3%A3o%20essenciais%20aos%20contratos%20de%20arrendamento%20as%20cl%C3%A1usulas%20relativas%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.047%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5-B",
+      "next": "5-D"
+    },
+    "5-D": {
+      "numero": "5-D",
+      "texto": "Art. 5º-D. A administração do porto organizado poderá pactuar com o interessado na movimentação de cargas com mercado não consolidado o uso temporário de áreas e instalações portuárias localizadas na poligonal do porto organizado, dispensada a realização de licitação. (Incluído pela Lei nº 14.047, de 2020)\n\n§ 1º O contrato de uso temporário terá o prazo improrrogável de até 48 (quarenta e oito) meses. (Incluído pela Lei nº 14.047, de 2020)\n\n§ 2º Na hipótese de haver mais de um interessado na utilização de áreas e instalações portuárias e inexistir disponibilidade física para alocar todos os interessados concomitantemente, a administração do porto organizado promoverá processo seletivo simplificado para a escolha do projeto que melhor atenda ao interesse público e do porto, assegurados os princípios da isonomia e da impessoalidade na realização do certame. (Incluído pela Lei nº 14.047, de 2020)\n\n§ 3º Os investimentos vinculados ao contrato de uso temporário ocorrerão exclusivamente a expensas do interessado, sem direito a indenização de qualquer natureza. (Incluído pela Lei nº 14.047, de 2020)\n\n§ 4º Após 24 (vinte e quatro) meses de eficácia do uso temporário da área e da instalação portuária, ou, em prazo inferior, por solicitação do contratado, e verificada a viabilidade do uso da área e da instalação, a administração do porto organizado adotará as medidas necessárias ao encaminhamento de proposta de licitação da área e das instalações existentes. (Incluído pela Lei nº 14.047, de 2020)\n\n§ 5º Decreto regulamentador disporá sobre os termos, os procedimentos e as condições para o uso temporário de áreas e instalações portuárias localizadas na poligonal do porto organizado. (Incluído pela Lei nº 14.047, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm#:~:text=Art.%205%C2%BA-D.%20A%20administra%C3%A7%C3%A3o%20do%20porto%20organizado%20poder%C3%A1%20pactuar%20com%20o%20interessado%20na%20movimenta%C3%A7%C3%A3o%20de%20cargas%20com%20mercado%20n%C3%A3o%20consolidado%20o%20uso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5-C",
       "next": "6"
     },
     "6": {
@@ -104,7 +168,7 @@
         "section": "I",
         "section_name": "Seção I"
       },
-      "prev": "5",
+      "prev": "5-D",
       "next": "7"
     },
     "7": {
