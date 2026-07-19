@@ -273,6 +273,15 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             impar.write_bytes(b"\xff\xfe" + html.encode("utf-16-le") + b" ")
             self.assertEqual(pipeline.decodificar_html(impar), html)
 
+    def test_pagina_com_milhares_de_tags_sem_fechamento_nao_estoura_recursao(self) -> None:
+        # O Decreto-Lei 1.001/1969 (CPM) tem árvore com profundidade ~1.700
+        # por tags inline nunca fechadas; o parser e os percursos precisam
+        # funcionar bem acima disso.
+        html = "<html><body>" + "<font>" * 3000 + "<p>Art. 1º Texto profundo.</p>"
+        arvore = pipeline.analisar_html(html)
+        texto = pipeline.texto_elemento(arvore)
+        self.assertIn("Art. 1º Texto profundo.", texto)
+
     def test_rotulo_de_artigo_tolera_defeitos_tipograficos_do_planalto(self) -> None:
         # "Art 4º" sem ponto ocorre na Lei 6.001; "Art . 16." com espaço antes
         # do ponto ocorre na Lei 6.880. "Artigo 1º" (texto de tratados) e

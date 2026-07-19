@@ -27,6 +27,11 @@ from typing import Any, Iterable, Iterator
 from urllib.parse import quote, urljoin, urlparse
 
 
+# Páginas antigas do Planalto acumulam milhares de tags inline sem fechamento
+# (ex.: Decreto-Lei 1.001/1969, árvore com profundidade ~1.700); os percursos
+# recursivos da árvore precisam de limite maior que o padrão do interpretador.
+sys.setrecursionlimit(50000)
+
 ROOT = Path(__file__).resolve().parents[2]
 MANIFESTO_PADRAO = ROOT / "base-juridica" / "fontes.json"
 AREA_PADRAO = ROOT / ".atualizacao-base-juridica"

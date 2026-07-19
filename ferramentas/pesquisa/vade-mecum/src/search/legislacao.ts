@@ -103,6 +103,34 @@ const REGISTRO_CODIGOS = {
     rotulo: "Lei Maria da Penha (Lei 11.340/2006)",
   },
   // [expansao:inicio] entradas geradas por gerar_expansao_legislacao.py — não edite à mão
+  CAG: {
+    arquivo: "../../data/lei_cag.json",
+    rotulo: "Código de Águas (Decreto 24.643/1934)",
+  },
+  CBA: {
+    arquivo: "../../data/lei_cba.json",
+    rotulo: "Código Brasileiro de Aeronáutica (Lei 7.565/1986)",
+  },
+  CBT: {
+    arquivo: "../../data/lei_cbt.json",
+    rotulo: "Código Brasileiro de Telecomunicações (Lei 4.117/1962)",
+  },
+  CFLO: {
+    arquivo: "../../data/lei_cflo.json",
+    rotulo: "Código Florestal (Lei 12.651/2012)",
+  },
+  CMIN: {
+    arquivo: "../../data/lei_cmin.json",
+    rotulo: "Código de Minas (Decreto-Lei 227/1967)",
+  },
+  CPM: {
+    arquivo: "../../data/lei_cpm.json",
+    rotulo: "Código Penal Militar (Decreto-Lei 1.001/1969)",
+  },
+  CPPM: {
+    arquivo: "../../data/lei_cppm.json",
+    rotulo: "Código de Processo Penal Militar (Decreto-Lei 1.002/1969)",
+  },
   ECID: {
     arquivo: "../../data/lei_ecid.json",
     rotulo: "Estatuto da Cidade (Lei 10.257/2001)",

@@ -1,0 +1,1455 @@
+{
+  "_meta": {
+    "codigo": "CFLO",
+    "nome": "Código Florestal",
+    "lei": "Lei 12.651/2012",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm",
+    "total_artigos": 90,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º (VETADO).\n\nArt. 1º-A. Esta Lei estabelece normas gerais sobre a proteção da vegetação, áreas de Preservação Permanente e as áreas de Reserva Legal; a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos florestais e o controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros para o alcance de seus objetivos. (Incluído pela Lei nº 12.727, de 2012).\n\nParágrafo único. Tendo como objetivo o desenvolvimento sustentável, esta Lei atenderá aos seguintes princípios: (Incluído pela Lei nº 12.727, de 2012).\n\nI - afirmação do compromisso soberano do Brasil com a preservação das suas florestas e demais formas de vegetação nativa, bem como da biodiversidade, do solo, dos recursos hídricos e da integridade do sistema climático, para o bem estar das gerações presentes e futuras; (Incluído pela Lei nº 12.727, de 2012).\n\nII - reafirmação da importância da função estratégica da atividade agropecuária e do papel das florestas e demais formas de vegetação nativa na sustentabilidade, no crescimento econômico, na melhoria da qualidade de vida da população brasileira e na presença do País nos mercados nacional e internacional de alimentos e bioenergia; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - ação governamental de proteção e uso sustentável de florestas, consagrando o compromisso do País com a compatibilização e harmonização entre o uso produtivo da terra e a preservação da água, do solo e da vegetação; (Incluído pela Lei nº 12.727, de 2012).\n\nIV - responsabilidade comum da União, Estados, Distrito Federal e Municípios, em colaboração com a sociedade civil, na criação de políticas para a preservação e restauração da vegetação nativa e de suas funções ecológicas e sociais nas áreas urbanas e rurais; (Incluído pela Lei nº 12.727, de 2012).\n\nV - fomento à pesquisa científica e tecnológica na busca da inovação para o uso sustentável do solo e da água, a recuperação e a preservação das florestas e demais formas de vegetação nativa; (Incluído pela Lei nº 12.727, de 2012).\n\nVI - criação e mobilização de incentivos econômicos para fomentar a preservação e a recuperação da vegetação nativa e para promover o desenvolvimento de atividades produtivas sustentáveis. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%201%C2%BA%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º As florestas existentes no território nacional e as demais formas de vegetação nativa, reconhecidas de utilidade às terras que revestem, são bens de interesse comum a todos os habitantes do País, exercendo-se os direitos de propriedade com as limitações que a legislação em geral e especialmente esta Lei estabelecem.\n\n§ 1º Na utilização e exploração da vegetação, as ações ou omissões contrárias às disposições desta Lei são consideradas uso irregular da propriedade, aplicando-se o procedimento sumário previsto no inciso II do art. 275 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, sem prejuízo da responsabilidade civil, nos termos do § 1º do art. 14 da Lei nº 6.938, de 31 de agosto de 1981, e das sanções administrativas, civis e penais.\n\n§ 2º As obrigações previstas nesta Lei têm natureza real e são transmitidas ao sucessor, de qualquer natureza, no caso de transferência de domínio ou posse do imóvel rural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%202%C2%BA%20As%20florestas%20existentes%20no%20territ%C3%B3rio%20nacional%20e%20as%20demais%20formas%20de%20vegeta%C3%A7%C3%A3o%20nativa%2C%20reconhecidas%20de%20utilidade%20%C3%A0s%20terras%20que%20revestem%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Para os efeitos desta Lei, entende-se por:\n\nI - Amazônia Legal: os Estados do Acre, Pará, Amazonas, Roraima, Rondônia, Amapá e Mato Grosso e as regiões situadas ao norte do paralelo 13º S, dos Estados de Tocantins e Goiás, e ao oeste do meridiano de 44º W, do Estado do Maranhão;\n\nII - Área de Preservação Permanente - APP: área protegida, coberta ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem-estar das populações humanas;\n\nIII - Reserva Legal: área localizada no interior de uma propriedade ou posse rural, delimitada nos termos do art. 12, com a função de assegurar o uso econômico de modo sustentável dos recursos naturais do imóvel rural, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a conservação da biodiversidade, bem como o abrigo e a proteção de fauna silvestre e da flora nativa;\n\nIV - área rural consolidada: área de imóvel rural com ocupação antrópica preexistente a 22 de julho de 2008, com edificações, benfeitorias ou atividades agrossilvipastoris, admitida, neste último caso, a adoção do regime de pousio;\n\nV - pequena propriedade ou posse rural familiar: aquela explorada mediante o trabalho pessoal do agricultor familiar e empreendedor familiar rural, incluindo os assentamentos e projetos de reforma agrária, e que atenda ao disposto no art. 3º da Lei nº 11.326, de 24 de julho de 2006;\n\nVI - uso alternativo do solo: substituição de vegetação nativa e formações sucessoras por outras coberturas do solo, como atividades agropecuárias, industriais, de geração e transmissão de energia, de mineração e de transporte, assentamentos urbanos ou outras formas de ocupação humana;\n\nVII - manejo sustentável: administração da vegetação natural para a obtenção de benefícios econômicos, sociais e ambientais, respeitando-se os mecanismos de sustentação do ecossistema objeto do manejo e considerando-se, cumulativa ou alternativamente, a utilização de múltiplas espécies madeireiras ou não, de múltiplos produtos e subprodutos da flora, bem como a utilização de outros bens e serviços;\n\nVIII - utilidade pública: (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\na) as atividades de segurança nacional e proteção sanitária;\n\nb) as obras de infraestrutura destinadas às concessões e aos serviços públicos de transporte, sistema viário, inclusive aquele necessário aos parcelamentos de solo urbano aprovados pelos Municípios, saneamento, gestão de resíduos , energia, telecomunicações, radiodifusão, instalações necessárias à realização de competições esportivas estaduais, nacionais ou internacionais, bem como mineração, exceto, neste último caso, a extração de areia, argila, saibro e cascalho; (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\nc) atividades e obras de defesa civil;\n\nd) atividades que comprovadamente proporcionem melhorias na proteção das funções ambientais referidas no inciso II deste artigo;\n\ne) outras atividades similares devidamente caracterizadas e motivadas em procedimento administrativo próprio, quando inexistir alternativa técnica e locacional ao empreendimento proposto, definidas em ato do Chefe do Poder Executivo federal;\n\nIX - interesse social: (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\na) as atividades imprescindíveis à proteção da integridade da vegetação nativa, tais como prevenção, combate e controle do fogo, controle da erosão, erradicação de invasoras e proteção de plantios com espécies nativas;\n\nb) a exploração agroflorestal sustentável praticada na pequena propriedade ou posse rural familiar ou por povos e comunidades tradicionais, desde que não descaracterize a cobertura vegetal existente e não prejudique a função ambiental da área;\n\nc) a implantação de infraestrutura pública destinada a esportes, lazer e atividades educacionais e culturais ao ar livre em áreas urbanas e rurais consolidadas, observadas as condições estabelecidas nesta Lei;\n\nd) a regularização fundiária de assentamentos humanos ocupados predominantemente por população de baixa renda em áreas urbanas consolidadas, observadas as condições estabelecidas na Lei nº 11.977, de 7 de julho de 2009;\n\ne) implantação de instalações necessárias à captação e condução de água e de efluentes tratados para projetos cujos recursos hídricos são partes integrantes e essenciais da atividade;\n\nf) as atividades de pesquisa e extração de areia, argila, saibro e cascalho, outorgadas pela autoridade competente;\n\ng) outras atividades similares devidamente caracterizadas e motivadas em procedimento administrativo próprio, quando inexistir alternativa técnica e locacional à atividade proposta, definidas em ato do Chefe do Poder Executivo federal;\n\nX - atividades eventuais ou de baixo impacto ambiental:\n\na) abertura de pequenas vias de acesso interno e suas pontes e pontilhões, quando necessárias à travessia de um curso d’água, ao acesso de pessoas e animais para a obtenção de água ou à retirada de produtos oriundos das atividades de manejo agroflorestal sustentável;\n\nb) implantação de instalações necessárias à captação e condução de água e efluentes tratados, desde que comprovada a outorga do direito de uso da água, quando couber;\n\nc) implantação de trilhas para o desenvolvimento do ecoturismo;\n\nd) construção de rampa de lançamento de barcos e pequeno ancoradouro;\n\ne) construção de moradia de agricultores familiares, remanescentes de comunidades quilombolas e outras populações extrativistas e tradicionais em áreas rurais, onde o abastecimento de água se dê pelo esforço próprio dos moradores;\n\nf) construção e manutenção de cercas na propriedade;\n\ng) pesquisa científica relativa a recursos ambientais, respeitados outros requisitos previstos na legislação aplicável;\n\nh) coleta de produtos não madeireiros para fins de subsistência e produção de mudas, como sementes, castanhas e frutos, respeitada a legislação específica de acesso a recursos genéticos;\n\ni) plantio de espécies nativas produtoras de frutos, sementes, castanhas e outros produtos vegetais, desde que não implique supressão da vegetação existente nem prejudique a função ambiental da área;\n\nj) exploração agroflorestal e manejo florestal sustentável, comunitário e familiar, incluindo a extração de produtos florestais não madeireiros, desde que não descaracterizem a cobertura vegetal nativa existente nem prejudiquem a função ambiental da área;\n\nj-A) atividades com o objetivo de recompor a vegetação nativa no entorno de nascentes ou outras áreas degradadas, conforme norma expedida pelo órgão competente do Sistema Nacional do Meio Ambiente (Sisnama); (Incluído pela Lei nº 14.653, de 2023)\n\nk) outras ações ou atividades similares, reconhecidas como eventuais e de baixo impacto ambiental em ato do Conselho Nacional do Meio Ambiente - CONAMA ou dos Conselhos Estaduais de Meio Ambiente;\n\nXI - (VETADO);\n\nXII - vereda: fitofisionomia de savana, encontrada em solos hidromórficos, usualmente com a palmeira arbórea Mauritia flexuosa - buriti emergente, sem formar dossel, em meio a agrupamentos de espécies arbustivo-herbáceas; (Redação pela Lei nº 12.727, de 2012).\n\nXIII - manguezal: ecossistema litorâneo que ocorre em terrenos baixos, sujeitos à ação das marés, formado por vasas lodosas recentes ou arenosas, às quais se associa, predominantemente, a vegetação natural conhecida como mangue, com influência fluviomarinha, típica de solos limosos de regiões estuarinas e com dispersão descontínua ao longo da costa brasileira, entre os Estados do Amapá e de Santa Catarina;\n\nXIV - salgado ou marismas tropicais hipersalinos: áreas situadas em regiões com frequências de inundações intermediárias entre marés de sizígias e de quadratura, com solos cuja salinidade varia entre 100 (cem) e 150 (cento e cinquenta) partes por 1.000 (mil), onde pode ocorrer a presença de vegetação herbácea específica;\n\nXV - apicum: áreas de solos hipersalinos situadas nas regiões entremarés superiores, inundadas apenas pelas marés de sizígias, que apresentam salinidade superior a 150 (cento e cinquenta) partes por 1.000 (mil), desprovidas de vegetação vascular;\n\nXVI - restinga: depósito arenoso paralelo à linha da costa, de forma geralmente alongada, produzido por processos de sedimentação, onde se encontram diferentes comunidades que recebem influência marinha, com cobertura vegetal em mosaico, encontrada em praias, cordões arenosos, dunas e depressões, apresentando, de acordo com o estágio sucessional, estrato herbáceo, arbustivo e arbóreo, este último mais interiorizado;\n\nXVII - nascente: afloramento natural do lençol freático que apresenta perenidade e dá início a um curso d’água; (Vide ADIN Nº 4.903)\n\nXVIII - olho d’água: afloramento natural do lençol freático, mesmo que intermitente;\n\nXIX - leito regular: a calha por onde correm regularmente as águas do curso d’água durante o ano; (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\nXX - área verde urbana: espaços, públicos ou privados, com predomínio de vegetação, preferencialmente nativa, natural ou recuperada, previstos no Plano Diretor, nas Leis de Zoneamento Urbano e Uso do Solo do Município, indisponíveis para construção de moradias, destinados aos propósitos de recreação, lazer, melhoria da qualidade ambiental urbana, proteção dos recursos hídricos, manutenção ou melhoria paisagística, proteção de bens e manifestações culturais;\n\nXXI - várzea de inundação ou planície de inundação: áreas marginais a cursos d’água sujeitas a enchentes e inundações periódicas;\n\nXXII - faixa de passagem de inundação: área de várzea ou planície de inundação adjacente a cursos d’água que permite o escoamento da enchente;\n\nXXIII - relevo ondulado: expressão geomorfológica usada para designar área caracterizada por movimentações do terreno que geram depressões, cuja intensidade permite sua classificação como relevo suave ondulado, ondulado, fortemente ondulado e montanhoso.\n\nXXIV - pousio: prática de interrupção temporária de atividades ou usos agrícolas, pecuários ou silviculturais, por no máximo 5 (cinco) anos, para possibilitar a recuperação da capacidade de uso ou da estrutura física do solo; (Incluído pela Lei nº 12.727, de 2012).\n\nXXV - áreas úmidas: pantanais e superfícies terrestres cobertas de forma periódica por águas, cobertas originalmente por florestas ou outras formas de vegetação adaptadas à inundação; (Incluído pela Lei nº 12.727, de 2012).\n\nXXVI – área urbana consolidada: aquela que atende os seguintes critérios: (Redação dada pela Lei nº 14.285, de 2021)\n\na) estar incluída no perímetro urbano ou em zona urbana pelo plano diretor ou por lei municipal específica; (Incluída pela Lei nº 14.285, de 2021)\n\nb) dispor de sistema viário implantado; (Incluída pela Lei nº 14.285, de 2021)\n\nc) estar organizada em quadras e lotes predominantemente edificados; (Incluída pela Lei nº 14.285, de 2021)\n\nd) apresentar uso predominantemente urbano, caracterizado pela existência de edificações residenciais, comerciais, industriais, institucionais, mistas ou direcionadas à prestação de serviços; (Incluída pela Lei nº 14.285, de 2021)\n\ne) dispor de, no mínimo, 2 (dois) dos seguintes equipamentos de infraestrutura urbana implantados: (Incluída pela Lei nº 14.285, de 2021)\n\n1. drenagem de águas pluviais; (Incluída pela Lei nº 14.285, de 2021)\n\n2. esgotamento sanitário; (Incluída pela Lei nº 14.285, de 2021)\n\n3. abastecimento de água potável; (Incluída pela Lei nº 14.285, de 2021)\n\n4. distribuição de energia elétrica e iluminação pública; e (Incluída pela Lei nº 14.285, de 2021)\n\n5. limpeza urbana, coleta e manejo de resíduos sólidos; (Incluída pela Lei nº 14.285, de 2021)\n\nXXVII - crédito de carbono: ativo transacionável, autônomo, com natureza jurídica de fruto civil no caso de créditos de carbono florestais de preservação ou de reflorestamento, exceto os oriundos de programas jurisdicionais, desde que respeitadas todas as limitações impostas a tais programas por esta Lei, representativo de efetiva retenção, redução de emissões ou remoção de 1 tCO2e (uma tonelada de dióxido de carbono equivalente), obtido a partir de projetos ou programas de redução ou remoção de GEE, realizados por entidade pública ou privada, submetidos a metodologias nacionais ou internacionais que adotem critérios e regras para mensuração, relato e verificação de emissões, externos ao Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE). (Redação dada pela Lei nº 15.042, de 2024)\n\nParágrafo único. Para os fins desta Lei, estende-se o tratamento dispensado aos imóveis a que se refere o inciso V deste artigo às propriedades e posses rurais com até 4 (quatro) módulos fiscais que desenvolvam atividades agrossilvipastoris, bem como às terras indígenas demarcadas e às demais áreas tituladas de povos e comunidades tradicionais que façam uso coletivo do seu território. (Vide ADC Nº 42) (Vide ADIN Nº 4.903)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%203%C2%BA%20Para%20os%20efeitos%20desta%20Lei%2C%20entende-se%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Considera-se Área de Preservação Permanente, em zonas rurais ou urbanas, para os efeitos desta Lei:\n\nI - as faixas marginais de qualquer curso d’água natural perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de: (Redação dada pela Lei nº 12.727, de 2012). (Vide ADIN Nº 4.903)\n\na) 30 (trinta) metros, para os cursos d’água de menos de 10 (dez) metros de largura;\n\nb) 50 (cinquenta) metros, para os cursos d’água que tenham de 10 (dez) a 50 (cinquenta) metros de largura;\n\nc) 100 (cem) metros, para os cursos d’água que tenham de 50 (cinquenta) a 200 (duzentos) metros de largura;\n\nd) 200 (duzentos) metros, para os cursos d’água que tenham de 200 (duzentos) a 600 (seiscentos) metros de largura;\n\ne) 500 (quinhentos) metros, para os cursos d’água que tenham largura superior a 600 (seiscentos) metros;\n\nII - as áreas no entorno dos lagos e lagoas naturais, em faixa com largura mínima de:\n\na) 100 (cem) metros, em zonas rurais, exceto para o corpo d’água com até 20 (vinte) hectares de superfície, cuja faixa marginal será de 50 (cinquenta) metros;\n\nb) 30 (trinta) metros, em zonas urbanas;\n\nIII - as áreas no entorno dos reservatórios d’água artificiais, decorrentes de barramento ou represamento de cursos d’água naturais, na faixa definida na licença ambiental do empreendimento; (Redação dada pela Lei nº 12.727, de 2012). (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\nIV - as áreas no entorno das nascentes e dos olhos d’água perenes, qualquer que seja sua situação topográfica, no raio mínimo de 50 (cinquenta) metros; (Redação dada pela Lei nº 12.727, de 2012). (Vide ADIN Nº 4.903)\n\nV - as encostas ou partes destas com declividade superior a 45º , equivalente a 100% (cem por cento) na linha de maior declive;\n\nVI - as restingas, como fixadoras de dunas ou estabilizadoras de mangues;\n\nVII - os manguezais, em toda a sua extensão;\n\nVIII - as bordas dos tabuleiros ou chapadas, até a linha de ruptura do relevo, em faixa nunca inferior a 100 (cem) metros em projeções horizontais;\n\nIX - no topo de morros, montes, montanhas e serras, com altura mínima de 100 (cem) metros e inclinação média maior que 25º , as áreas delimitadas a partir da curva de nível correspondente a 2/3 (dois terços) da altura mínima da elevação sempre em relação à base, sendo esta definida pelo plano horizontal determinado por planície ou espelho d’água adjacente ou, nos relevos ondulados, pela cota do ponto de sela mais próximo da elevação;\n\nX - as áreas em altitude superior a 1.800 (mil e oitocentos) metros, qualquer que seja a vegetação;\n\nXI - em veredas, a faixa marginal, em projeção horizontal, com largura mínima de 50 (cinquenta) metros, a partir do espaço permanentemente brejoso e encharcado. (Redação dada pela Lei nº 12.727, de 2012).\n\n§ 1º Não será exigida Área de Preservação Permanente no entorno de reservatórios artificiais de água que não decorram de barramento ou represamento de cursos d’água naturais. (Redação dada pela Lei nº 12.727, de 2012). (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\n§ 2º (Revogado). (Redação dada pela Lei nº 12.727, de 2012).\n\n§ 3º (VETADO).\n\n§ 4º Nas acumulações naturais ou artificiais de água com superfície inferior a 1 (um) hectare, fica dispensada a reserva da faixa de proteção prevista nos incisos II e III do caput , vedada nova supressão de áreas de vegetação nativa, salvo autorização do órgão ambiental competente do Sistema Nacional do Meio Ambiente - Sisnama. (Redação dada pela Lei nº 12.727, de 2012). (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\n§ 5º É admitido, para a pequena propriedade ou posse rural familiar, de que trata o inciso V do art. 3º desta Lei, o plantio de culturas temporárias e sazonais de vazante de ciclo curto na faixa de terra que fica exposta no período de vazante dos rios ou lagos, desde que não implique supressão de novas áreas de vegetação nativa, seja conservada a qualidade da água e do solo e seja protegida a fauna silvestre. (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\n§ 6º Nos imóveis rurais com até 15 (quinze) módulos fiscais, é admitida, nas áreas de que tratam os incisos I e II do caput deste artigo, a prática da aquicultura e a infraestrutura física diretamente a ela associada, desde que: (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\nI - sejam adotadas práticas sustentáveis de manejo de solo e água e de recursos hídricos, garantindo sua qualidade e quantidade, de acordo com norma dos Conselhos Estaduais de Meio Ambiente;\n\nII - esteja de acordo com os respectivos planos de bacia ou planos de gestão de recursos hídricos;\n\nIII - seja realizado o licenciamento pelo órgão ambiental competente;\n\nIV - o imóvel esteja inscrito no Cadastro Ambiental Rural - CAR.\n\nV - não implique novas supressões de vegetação nativa. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 7º (VETADO).\n\n§ 8º (VETADO).\n\n§ 9º (VETADO). (Incluído pela Lei nº 12.727, de 2012).\n\n§ 10. Em áreas urbanas consolidadas, ouvidos os conselhos estaduais, municipais ou distrital de meio ambiente, lei municipal ou distrital poderá definir faixas marginais distintas daquelas estabelecidas no inciso I do caput deste artigo, com regras que estabeleçam: (Incluído pela Lei nº 14.285, de 2021)\n\nI – a não ocupação de áreas com risco de desastres; (Incluído pela Lei nº 14.285, de 2021)\n\nII – a observância das diretrizes do plano de recursos hídricos, do plano de bacia, do plano de drenagem ou do plano de saneamento básico, se houver; e (Incluído pela Lei nº 14.285, de 2021)\n\nIII – a previsão de que as atividades ou os empreendimentos a serem instalados nas áreas de preservação permanente urbanas devem observar os casos de utilidade pública, de interesse social ou de baixo impacto ambiental fixados nesta Lei. (Incluído pela Lei nº 14.285, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%204%C2%BA%20Considera-se%20%C3%81rea%20de%20Preserva%C3%A7%C3%A3o%20Permanente%2C%20em%20zonas%20rurais%20ou%20urbanas%2C%20para%20os%20efeitos%20desta%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Na implantação de reservatório d’água artificial destinado a geração de energia ou abastecimento público, é obrigatória a aquisição, desapropriação ou instituição de servidão administrativa pelo empreendedor das Áreas de Preservação Permanente criadas em seu entorno, conforme estabelecido no licenciamento ambiental, observando-se a faixa mínima de 30 (trinta) metros e máxima de 100 (cem) metros em área rural, e a faixa mínima de 15 (quinze) metros e máxima de 30 (trinta) metros em área urbana. (Redação dada pela Lei nº 12.727, de 2012). (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\n§ 1º Na implantação de reservatórios d’água artificiais de que trata o caput , o empreendedor, no âmbito do licenciamento ambiental, elaborará Plano Ambiental de Conservação e Uso do Entorno do Reservatório, em conformidade com termo de referência expedido pelo órgão competente do Sistema Nacional do Meio Ambiente - Sisnama, não podendo o uso exceder a 10% (dez por cento) do total da Área de Preservação Permanente. (Redação dada pela Lei nº 12.727, de 2012). (Vide ADC Nº 42)\n\n§ 2º O Plano Ambiental de Conservação e Uso do Entorno de Reservatório Artificial, para os empreendimentos licitados a partir da vigência desta Lei, deverá ser apresentado ao órgão ambiental concomitantemente com o Plano Básico Ambiental e aprovado até o início da operação do empreendimento, não constituindo a sua ausência impedimento para a expedição da licença de instalação. (Vide ADC Nº 42)\n\n§ 3º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%205%C2%BA%20Na%20implanta%C3%A7%C3%A3o%20de%20reservat%C3%B3rio%20d%E2%80%99%C3%A1gua%20artificial%20destinado%20a%20gera%C3%A7%C3%A3o%20de%20energia%20ou%20abastecimento%20p%C3%BAblico%2C%20%C3%A9%20obrigat%C3%B3ria%20a%20aquisi%C3%A7%C3%A3o%2C%20desapropria%C3%A7%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Consideram-se, ainda, de preservação permanente, quando declaradas de interesse social por ato do Chefe do Poder Executivo, as áreas cobertas com florestas ou outras formas de vegetação destinadas a uma ou mais das seguintes finalidades:\n\nI - conter a erosão do solo e mitigar riscos de enchentes e deslizamentos de terra e de rocha;\n\nII - proteger as restingas ou veredas;\n\nIII - proteger várzeas;\n\nIV - abrigar exemplares da fauna ou da flora ameaçados de extinção;\n\nV - proteger sítios de excepcional beleza ou de valor científico, cultural ou histórico;\n\nVI - formar faixas de proteção ao longo de rodovias e ferrovias;\n\nVII - assegurar condições de bem-estar público;\n\nVIII - auxiliar a defesa do território nacional, a critério das autoridades militares.\n\nIX - proteger áreas úmidas, especialmente as de importância internacional. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%206%C2%BA%20Consideram-se%2C%20ainda%2C%20de%20preserva%C3%A7%C3%A3o%20permanente%2C%20quando%20declaradas%20de%20interesse%20social%20por%20ato%20do%20Chefe%20do%20Poder%20Executivo%2C%20as%20%C3%A1reas%20cobertas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A vegetação situada em Área de Preservação Permanente deverá ser mantida pelo proprietário da área, possuidor ou ocupante a qualquer título, pessoa física ou jurídica, de direito público ou privado.\n\n§ 1º Tendo ocorrido supressão de vegetação situada em Área de Preservação Permanente, o proprietário da área, possuidor ou ocupante a qualquer título é obrigado a promover a recomposição da vegetação, ressalvados os usos autorizados previstos nesta Lei.\n\n§ 2º A obrigação prevista no § 1º tem natureza real e é transmitida ao sucessor no caso de transferência de domínio ou posse do imóvel rural.\n\n§ 3º No caso de supressão não autorizada de vegetação realizada após 22 de julho de 2008 , é vedada a concessão de novas autorizações de supressão de vegetação enquanto não cumpridas as obrigações previstas no § 1º . (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%207%C2%BA%20A%20vegeta%C3%A7%C3%A3o%20situada%20em%20%C3%81rea%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20dever%C3%A1%20ser%20mantida%20pelo%20propriet%C3%A1rio%20da%20%C3%A1rea%2C%20possuidor%20ou%20ocupante%20a%20qualquer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A intervenção ou a supressão de vegetação nativa em Área de Preservação Permanente somente ocorrerá nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas nesta Lei.\n\n§ 1º A supressão de vegetação nativa protetora de nascentes, dunas e restingas somente poderá ser autorizada em caso de utilidade pública.\n\n§ 2º A intervenção ou a supressão de vegetação nativa em Área de Preservação Permanente de que tratam os incisos VI e VII do caput do art. 4º poderá ser autorizada, excepcionalmente, em locais onde a função ecológica do manguezal esteja comprometida, para execução de obras habitacionais e de urbanização, inseridas em projetos de regularização fundiária de interesse social, em áreas urbanas consolidadas ocupadas por população de baixa renda. (Vide ADC Nº 42) (Vide ADIN Nº 4.903)\n\n§ 3º É dispensada a autorização do órgão ambiental competente para a execução, em caráter de urgência, de atividades de segurança nacional e obras de interesse da defesa civil destinadas à prevenção e mitigação de acidentes em áreas urbanas.\n\n§ 4º Não haverá, em qualquer hipótese, direito à regularização de futuras intervenções ou supressões de vegetação nativa, além das previstas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%208%C2%BA%20A%20interven%C3%A7%C3%A3o%20ou%20a%20supress%C3%A3o%20de%20vegeta%C3%A7%C3%A3o%20nativa%20em%20%C3%81rea%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20somente%20ocorrer%C3%A1%20nas%20hip%C3%B3teses%20de%20utilidade%20p%C3%BAblica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º É permitido o acesso de pessoas e animais às Áreas de Preservação Permanente para obtenção de água e para realização de atividades de baixo impacto ambiental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%209%C2%BA%20%C3%89%20permitido%20o%20acesso%20de%20pessoas%20e%20animais%20%C3%A0s%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20para%20obten%C3%A7%C3%A3o%20de%20%C3%A1gua%20e%20para%20realiza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Nos pantanais e planícies pantaneiras, é permitida a exploração ecologicamente sustentável, devendo-se considerar as recomendações técnicas dos órgãos oficiais de pesquisa, ficando novas supressões de vegetação nativa para uso alternativo do solo condicionadas à autorização do órgão estadual do meio ambiente, com base nas recomendações mencionadas neste artigo. (Redação dada pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2010.%20Nos%20pantanais%20e%20plan%C3%ADcies%20pantaneiras%2C%20%C3%A9%20permitida%20a%20explora%C3%A7%C3%A3o%20ecologicamente%20sustent%C3%A1vel%2C%20devendo-se%20considerar%20as%20recomenda%C3%A7%C3%B5es%20t%C3%A9cnicas%20dos%20%C3%B3rg%C3%A3os%20oficiais%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Em áreas de inclinação entre 25º e 45º , serão permitidos o manejo florestal sustentável e o exercício de atividades agrossilvipastoris, bem como a manutenção da infraestrutura física associada ao desenvolvimento das atividades, observadas boas práticas agronômicas, sendo vedada a conversão de novas áreas, excetuadas as hipóteses de utilidade pública e interesse social. (Vide ADIN Nº 4.903)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2011.%20Em%20%C3%A1reas%20de%20inclina%C3%A7%C3%A3o%20entre%2025%C2%BA%20e%2045%C2%BA%20%2C%20ser%C3%A3o%20permitidos%20o%20manejo%20florestal%20sustent%C3%A1vel%20e%20o%20exerc%C3%ADcio%20de%20atividades",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11-A"
+    },
+    "11-A": {
+      "numero": "11-A",
+      "texto": "Art. 11-A. A Zona Costeira é patrimônio nacional, nos termos do § 4º do art. 225 da Constituição Federal, devendo sua ocupação e exploração dar-se de modo ecologicamente sustentável. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 1º Os apicuns e salgados podem ser utilizados em atividades de carcinicultura e salinas, desde que observados os seguintes requisitos: (Incluído pela Lei nº 12.727, de 2012).\n\nI - área total ocupada em cada Estado não superior a 10% (dez por cento) dessa modalidade de fitofisionomia no bioma amazônico e a 35% (trinta e cinco por cento) no restante do País, excluídas as ocupações consolidadas que atendam ao disposto no § 6º deste artigo; (Incluído pela Lei nº 12.727, de 2012).\n\nII - salvaguarda da absoluta integridade dos manguezais arbustivos e dos processos ecológicos essenciais a eles associados, bem como da sua produtividade biológica e condição de berçário de recursos pesqueiros; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - licenciamento da atividade e das instalações pelo órgão ambiental estadual, cientificado o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e, no caso de uso de terrenos de marinha ou outros bens da União, realizada regularização prévia da titulação perante a União; (Incluído pela Lei nº 12.727, de 2012).\n\nIV - recolhimento, tratamento e disposição adequados dos efluentes e resíduos; (Incluído pela Lei nº 12.727, de 2012).\n\nV - garantia da manutenção da qualidade da água e do solo, respeitadas as Áreas de Preservação Permanente; e (Incluído pela Lei nº 12.727, de 2012).\n\nVI - respeito às atividades tradicionais de sobrevivência das comunidades locais. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 2º A licença ambiental, na hipótese deste artigo, será de 5 (cinco) anos, renovável apenas se o empreendedor cumprir as exigências da legislação ambiental e do próprio licenciamento, mediante comprovação anual, inclusive por mídia fotográfica. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 3º São sujeitos à apresentação de Estudo Prévio de Impacto Ambiental - EPIA e Relatório de Impacto Ambiental - RIMA os novos empreendimentos: (Incluído pela Lei nº 12.727, de 2012).\n\nI - com área superior a 50 (cinquenta) hectares, vedada a fragmentação do projeto para ocultar ou camuflar seu porte; (Incluído pela Lei nº 12.727, de 2012).\n\nII - com área de até 50 (cinquenta) hectares, se potencialmente causadores de significativa degradação do meio ambiente; ou (Incluído pela Lei nº 12.727, de 2012).\n\nIII - localizados em região com adensamento de empreendimentos de carcinicultura ou salinas cujo impacto afete áreas comuns. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 4º O órgão licenciador competente, mediante decisão motivada, poderá, sem prejuízo das sanções administrativas, cíveis e penais cabíveis, bem como do dever de recuperar os danos ambientais causados, alterar as condicionantes e as medidas de controle e adequação, quando ocorrer: (Incluído pela Lei nº 12.727, de 2012).\n\nI - descumprimento ou cumprimento inadequado das condicionantes ou medidas de controle previstas no licenciamento, ou desobediência às normas aplicáveis; (Incluído pela Lei nº 12.727, de 2012).\n\nII - fornecimento de informação falsa, dúbia ou enganosa, inclusive por omissão, em qualquer fase do licenciamento ou período de validade da licença; ou (Incluído pela Lei nº 12.727, de 2012).\n\nIII - superveniência de informações sobre riscos ao meio ambiente ou à saúde pública. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 5º A ampliação da ocupação de apicuns e salgados respeitará o Zoneamento Ecológico-Econômico da Zona Costeira - ZEEZOC, com a individualização das áreas ainda passíveis de uso, em escala mínima de 1:10.000, que deverá ser concluído por cada Estado no prazo máximo de 1 (um) ano a partir da data da publicação desta Lei. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 6º É assegurada a regularização das atividades e empreendimentos de carcinicultura e salinas cuja ocupação e implantação tenham ocorrido antes de 22 de julho de 2008, desde que o empreendedor, pessoa física ou jurídica, comprove sua localização em apicum ou salgado e se obrigue, por termo de compromisso, a proteger a integridade dos manguezais arbustivos adjacentes. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 7º É vedada a manutenção, licenciamento ou regularização, em qualquer hipótese ou forma, de ocupação ou exploração irregular em apicum ou salgado, ressalvadas as exceções previstas neste artigo. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2011-A.%20A%20Zona%20Costeira%20%C3%A9%20patrim%C3%B4nio%20nacional%2C%20nos%20termos%20do%20%C2%A7%204%C2%BA%20do%20art.%20225%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20devendo%20sua%20ocupa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III-A (Incluído pela Lei nº 12.727, de 2012).",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Todo imóvel rural deve manter área com cobertura de vegetação nativa, a título de Reserva Legal, sem prejuízo da aplicação das normas sobre as Áreas de Preservação Permanente, observados os seguintes percentuais mínimos em relação à área do imóvel, excetuados os casos previstos no art. 68 desta Lei:(Redação dada pela Lei nº 12.727, de 2012).\n\nI - localizado na Amazônia Legal:\n\na) 80% (oitenta por cento), no imóvel situado em área de florestas;\n\nb) 35% (trinta e cinco por cento), no imóvel situado em área de cerrado;\n\nc) 20% (vinte por cento), no imóvel situado em área de campos gerais;\n\nII - localizado nas demais regiões do País: 20% (vinte por cento).\n\n§ 1º Em caso de fracionamento do imóvel rural, a qualquer título, inclusive para assentamentos pelo Programa de Reforma Agrária, será considerada, para fins do disposto do caput , a área do imóvel antes do fracionamento.\n\n§ 2º O percentual de Reserva Legal em imóvel situado em área de formações florestais, de cerrado ou de campos gerais na Amazônia Legal será definido considerando separadamente os índices contidos nas alíneas a, b e c do inciso I do caput .\n\n§ 3º Após a implantação do CAR, a supressão de novas áreas de floresta ou outras formas de vegetação nativa apenas será autorizada pelo órgão ambiental estadual integrante do Sisnama se o imóvel estiver inserido no mencionado cadastro, ressalvado o previsto no art. 30.\n\n§ 4º Nos casos da alínea a do inciso I, o poder público poderá reduzir a Reserva Legal para até 50% (cinquenta por cento), para fins de recomposição, quando o Município tiver mais de 50% (cinquenta por cento) da área ocupada por unidades de conservação da natureza de domínio público e por terras indígenas homologadas. (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 5º Nos casos da alínea a do inciso I, o poder público estadual, ouvido o Conselho Estadual de Meio Ambiente, poderá reduzir a Reserva Legal para até 50% (cinquenta por cento), quando o Estado tiver Zoneamento Ecológico-Econômico aprovado e mais de 65% (sessenta e cinco por cento) do seu território ocupado por unidades de conservação da natureza de domínio público, devidamente regularizadas, e por terras indígenas homologadas. (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 6º Os empreendimentos de abastecimento público de água e tratamento de esgoto não estão sujeitos à constituição de Reserva Legal. (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 7º Não será exigido Reserva Legal relativa às áreas adquiridas ou desapropriadas por detentor de concessão, permissão ou autorização para exploração de potencial de energia hidráulica, nas quais funcionem empreendimentos de geração de energia elétrica, subestações ou sejam instaladas linhas de transmissão e de distribuição de energia elétrica. (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 8º Não será exigido Reserva Legal relativa às áreas adquiridas ou desapropriadas com o objetivo de implantação e ampliação de capacidade de rodovias e ferrovias. (Vide ADC Nº 42) (Vide ADIN Nº 4.901)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2012.%20Todo%20im%C3%B3vel%20rural%20deve%20manter%20%C3%A1rea%20com%20cobertura%20de%20vegeta%C3%A7%C3%A3o%20nativa%2C%20a%20t%C3%ADtulo%20de%20Reserva%20Legal%2C%20sem%20preju%C3%ADzo%20da%20aplica%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "11-A",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Quando indicado pelo Zoneamento Ecológico-Econômico - ZEE estadual, realizado segundo metodologia unificada, o poder público federal poderá:\n\nI - reduzir, exclusivamente para fins de regularização, mediante recomposição, regeneração ou compensação da Reserva Legal de imóveis com área rural consolidada, situados em área de floresta localizada na Amazônia Legal, para até 50% (cinquenta por cento) da propriedade, excluídas as áreas prioritárias para conservação da biodiversidade e dos recursos hídricos e os corredores ecológicos;\n\nII - ampliar as áreas de Reserva Legal em até 50% (cinquenta por cento) dos percentuais previstos nesta Lei, para cumprimento de metas nacionais de proteção à biodiversidade ou de redução de emissão de gases de efeito estufa.\n\n§ 1º No caso previsto no inciso I do caput , o proprietário ou possuidor de imóvel rural que mantiver Reserva Legal conservada e averbada em área superior aos percentuais exigidos no referido inciso poderá instituir servidão ambiental sobre a área excedente, nos termos da Lei nº 6.938, de 31 de agosto de 1981, e Cota de Reserva Ambiental. (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 2º Os Estados que não possuem seus Zoneamentos Ecológico-Econômicos - ZEEs segundo a metodologia unificada, estabelecida em norma federal, terão o prazo de 5 (cinco) anos, a partir da data da publicação desta Lei, para a sua elaboração e aprovação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2013.%20Quando%20indicado%20pelo%20Zoneamento%20Ecol%C3%B3gico-Econ%C3%B4mico%20-%20ZEE%20estadual%2C%20realizado%20segundo%20metodologia%20unificada%2C%20o%20poder%20p%C3%BAblico%20federal%20poder%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A localização da área de Reserva Legal no imóvel rural deverá levar em consideração os seguintes estudos e critérios:\n\nI - o plano de bacia hidrográfica;\n\nII - o Zoneamento Ecológico-Econômico\n\nIII - a formação de corredores ecológicos com outra Reserva Legal, com Área de Preservação Permanente, com Unidade de Conservação ou com outra área legalmente protegida;\n\nIV - as áreas de maior importância para a conservação da biodiversidade; e\n\nV - as áreas de maior fragilidade ambiental.\n\n§ 1º O órgão estadual integrante do Sisnama ou instituição por ele habilitada deverá aprovar a localização da Reserva Legal após a inclusão do imóvel no CAR, conforme o art. 29 desta Lei.\n\n§ 2º Protocolada a documentação exigida para a análise da localização da área de Reserva Legal, ao proprietário ou possuidor rural não poderá ser imputada sanção administrativa, inclusive restrição a direitos, por qualquer órgão ambiental competente integrante do Sisnama, em razão da não formalização da área de Reserva Legal. (Redação dada pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2014.%20A%20localiza%C3%A7%C3%A3o%20da%20%C3%A1rea%20de%20Reserva%20Legal%20no%20im%C3%B3vel%20rural%20dever%C3%A1%20levar%20em%20considera%C3%A7%C3%A3o%20os%20seguintes%20estudos%20e%20crit%C3%A9rios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Será admitido o cômputo das Áreas de Preservação Permanente no cálculo do percentual da Reserva Legal do imóvel, desde que: (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\nI - o benefício previsto neste artigo não implique a conversão de novas áreas para o uso alternativo do solo;\n\nII - a área a ser computada esteja conservada ou em processo de recuperação, conforme comprovação do proprietário ao órgão estadual integrante do Sisnama; e\n\nIII - o proprietário ou possuidor tenha requerido inclusão do imóvel no Cadastro Ambiental Rural - CAR, nos termos desta Lei.\n\n§ 1º O regime de proteção da Área de Preservação Permanente não se altera na hipótese prevista neste artigo.\n\n§ 2º O proprietário ou possuidor de imóvel com Reserva Legal conservada e inscrita no Cadastro Ambiental Rural - CAR de que trata o art. 29, cuja área ultrapasse o mínimo exigido por esta Lei, poderá utilizar a área excedente para fins de constituição de servidão ambiental, Cota de Reserva Ambiental e outros instrumentos congêneres previstos nesta Lei.\n\n§ 3º O cômputo de que trata o caput aplica-se a todas as modalidades de cumprimento da Reserva Legal, abrangendo a regeneração, a recomposição e a compensação. (Redação dada pela Lei nº 12.727, de 2012).\n\n§ 4º É dispensada a aplicação do inciso I do caput deste artigo, quando as Áreas de Preservação Permanente conservadas ou em processo de recuperação, somadas às demais florestas e outras formas de vegetação nativa existentes em imóvel, ultrapassarem: (Incluído pela Lei nº 12.727, de 2012).\n\nI - 80% (oitenta por cento) do imóvel rural localizado em áreas de floresta na Amazônia Legal; e (Incluído pela Lei nº 12.727, de 2012).\n\nII - (VETADO). (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2015.%20Ser%C3%A1%20admitido%20o%20c%C3%B4mputo%20das%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20no%20c%C3%A1lculo%20do%20percentual%20da%20Reserva%20Legal%20do%20im%C3%B3vel%2C%20desde%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Poderá ser instituído Reserva Legal em regime de condomínio ou coletiva entre propriedades rurais, respeitado o percentual previsto no art. 12 em relação a cada imóvel. (Incluído pela Lei nº 12.727, de 2012).\n\nParágrafo único. No parcelamento de imóveis rurais, a área de Reserva Legal poderá ser agrupada em regime de condomínio entre os adquirentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2016.%20Poder%C3%A1%20ser%20institu%C3%ADdo%20Reserva%20Legal%20em%20regime%20de%20condom%C3%ADnio%20ou%20coletiva%20entre%20propriedades%20rurais%2C%20respeitado%20o%20percentual%20previsto%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A Reserva Legal deve ser conservada com cobertura de vegetação nativa pelo proprietário do imóvel rural, possuidor ou ocupante a qualquer título, pessoa física ou jurídica, de direito público ou privado.\n\n§ 1º Admite-se a exploração econômica da Reserva Legal mediante manejo sustentável, previamente aprovado pelo órgão competente do Sisnama, de acordo com as modalidades previstas no art. 20.\n\n§ 2º Para fins de manejo de Reserva Legal na pequena propriedade ou posse rural familiar, os órgãos integrantes do Sisnama deverão estabelecer procedimentos simplificados de elaboração, análise e aprovação de tais planos de manejo.\n\n§ 3º É obrigatória a suspensão imediata das atividades em área de Reserva Legal desmatada irregularmente após 22 de julho de 2008. (Redação dada pela Lei nº 12.727, de 2012). (Vide ADC Nº 42) (Vide ADIN Nº 4.902) (Vide ADIN Nº 4.903)\n\n§ 4º Sem prejuízo das sanções administrativas, cíveis e penais cabíveis, deverá ser iniciado, nas áreas de que trata o § 3º deste artigo, o processo de recomposição da Reserva Legal em até 2 (dois) anos contados a partir da data da publicação desta Lei, devendo tal processo ser concluído nos prazos estabelecidos pelo Programa de Regularização Ambiental - PRA, de que trata o art. 59. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2017.%20A%20Reserva%20Legal%20deve%20ser%20conservada%20com%20cobertura%20de%20vegeta%C3%A7%C3%A3o%20nativa%20pelo%20propriet%C3%A1rio%20do%20im%C3%B3vel%20rural%2C%20possuidor%20ou%20ocupante%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A área de Reserva Legal deverá ser registrada no órgão ambiental competente por meio de inscrição no CAR de que trata o art. 29, sendo vedada a alteração de sua destinação, nos casos de transmissão, a qualquer título, ou de desmembramento, com as exceções previstas nesta Lei.\n\n§ 1º A inscrição da Reserva Legal no CAR será feita mediante a apresentação de planta e memorial descritivo, contendo a indicação das coordenadas geográficas com pelo menos um ponto de amarração, conforme ato do Chefe do Poder Executivo.\n\n§ 2º Na posse, a área de Reserva Legal é assegurada por termo de compromisso firmado pelo possuidor com o órgão competente do Sisnama, com força de título executivo extrajudicial, que explicite, no mínimo, a localização da área de Reserva Legal e as obrigações assumidas pelo possuidor por força do previsto nesta Lei.\n\n§ 3º A transferência da posse implica a sub-rogação das obrigações assumidas no termo de compromisso de que trata o § 2º .\n\n§ 4º O registro da Reserva Legal no CAR desobriga a averbação no Cartório de Registro de Imóveis, sendo que, no período entre a data da publicação desta Lei e o registro no CAR, o proprietário ou possuidor rural que desejar fazer a averbação terá direito à gratuidade deste ato. (Redação dada pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2018.%20A%20%C3%A1rea%20de%20Reserva%20Legal%20dever%C3%A1%20ser%20registrada%20no%20%C3%B3rg%C3%A3o%20ambiental%20competente%20por%20meio%20de%20inscri%C3%A7%C3%A3o%20no%20CAR%20de%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A inserção do imóvel rural em perímetro urbano definido mediante lei municipal não desobriga o proprietário ou posseiro da manutenção da área de Reserva Legal, que só será extinta concomitantemente ao registro do parcelamento do solo para fins urbanos aprovado segundo a legislação específica e consoante as diretrizes do plano diretor de que trata o § 1º do art. 182 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2019.%20A%20inser%C3%A7%C3%A3o%20do%20im%C3%B3vel%20rural%20em%20per%C3%ADmetro%20urbano%20definido%20mediante%20lei%20municipal%20n%C3%A3o%20desobriga%20o%20propriet%C3%A1rio%20ou%20posseiro%20da%20manuten%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. No manejo sustentável da vegetação florestal da Reserva Legal, serão adotadas práticas de exploração seletiva nas modalidades de manejo sustentável sem propósito comercial para consumo na propriedade e manejo sustentável para exploração florestal com propósito comercial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2020.%20No%20manejo%20sustent%C3%A1vel%20da%20vegeta%C3%A7%C3%A3o%20florestal%20da%20Reserva%20Legal%2C%20ser%C3%A3o%20adotadas%20pr%C3%A1ticas%20de%20explora%C3%A7%C3%A3o%20seletiva%20nas%20modalidades%20de%20manejo%20sustent%C3%A1vel",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. É livre a coleta de produtos florestais não madeireiros, tais como frutos, cipós, folhas e sementes, devendo-se observar:\n\nI - os períodos de coleta e volumes fixados em regulamentos específicos, quando houver;\n\nII - a época de maturação dos frutos e sementes;\n\nIII - técnicas que não coloquem em risco a sobrevivência de indivíduos e da espécie coletada no caso de coleta de flores, folhas, cascas, óleos, resinas, cipós, bulbos, bambus e raízes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2021.%20%C3%89%20livre%20a%20coleta%20de%20produtos%20florestais%20n%C3%A3o%20madeireiros%2C%20tais%20como%20frutos%2C%20cip%C3%B3s%2C%20folhas%20e%20sementes%2C%20devendo-se%20observar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O manejo florestal sustentável da vegetação da Reserva Legal com propósito comercial depende de autorização do órgão competente e deverá atender as seguintes diretrizes e orientações:\n\nI - não descaracterizar a cobertura vegetal e não prejudicar a conservação da vegetação nativa da área;\n\nII - assegurar a manutenção da diversidade das espécies;\n\nIII - conduzir o manejo de espécies exóticas com a adoção de medidas que favoreçam a regeneração de espécies nativas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2022.%20O%20manejo%20florestal%20sustent%C3%A1vel%20da%20vegeta%C3%A7%C3%A3o%20da%20Reserva%20Legal%20com%20prop%C3%B3sito%20comercial%20depende%20de%20autoriza%C3%A7%C3%A3o%20do%20%C3%B3rg%C3%A3o%20competente%20e%20dever%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O manejo sustentável para exploração florestal eventual sem propósito comercial, para consumo no próprio imóvel, independe de autorização dos órgãos competentes, devendo apenas ser declarados previamente ao órgão ambiental a motivação da exploração e o volume explorado, limitada a exploração anual a 20 (vinte) metros cúbicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2023.%20O%20manejo%20sustent%C3%A1vel%20para%20explora%C3%A7%C3%A3o%20florestal%20eventual%20sem%20prop%C3%B3sito%20comercial%2C%20para%20consumo%20no%20pr%C3%B3prio%20im%C3%B3vel%2C%20independe%20de%20autoriza%C3%A7%C3%A3o%20dos%20%C3%B3rg%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. No manejo florestal nas áreas fora de Reserva Legal, aplica-se igualmente o disposto nos arts. 21, 22 e 23.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2024.%20No%20manejo%20florestal%20nas%20%C3%A1reas%20fora%20de%20Reserva%20Legal%2C%20aplica-se%20igualmente%20o%20disposto%20nos%20arts.%2021%2C%2022%20e%2023.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O poder público municipal contará, para o estabelecimento de áreas verdes urbanas, com os seguintes instrumentos:\n\nI - o exercício do direito de preempção para aquisição de remanescentes florestais relevantes, conforme dispõe a Lei nº 10.257, de 10 de julho de 2001;\n\nII - a transformação das Reservas Legais em áreas verdes nas expansões urbanas\n\nIII - o estabelecimento de exigência de áreas verdes nos loteamentos, empreendimentos comerciais e na implantação de infraestrutura; e\n\nIV - aplicação em áreas verdes de recursos oriundos da compensação ambiental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2025.%20O%20poder%20p%C3%BAblico%20municipal%20contar%C3%A1%2C%20para%20o%20estabelecimento%20de%20%C3%A1reas%20verdes%20urbanas%2C%20com%20os%20seguintes%20instrumentos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A supressão de vegetação nativa para uso alternativo do solo, tanto de domínio público como de domínio privado, dependerá do cadastramento do imóvel no CAR, de que trata o art. 29, e de prévia autorização do órgão estadual competente do Sisnama.\n\n§ 1º (VETADO).\n\n§ 2º (VETADO).\n\n§ 3º No caso de reposição florestal, deverão ser priorizados projetos que contemplem a utilização de espécies nativas do mesmo bioma onde ocorreu a supressão.\n\n§ 4º O requerimento de autorização de supressão de que trata o caput conterá, no mínimo, as seguintes informações:\n\nI - a localização do imóvel, das Áreas de Preservação Permanente, da Reserva Legal e das áreas de uso restrito, por coordenada geográfica, com pelo menos um ponto de amarração do perímetro do imóvel;\n\nII - a reposição ou compensação florestal, nos termos do § 4º do art. 33;\n\nIII - a utilização efetiva e sustentável das áreas já convertidas;\n\nIV - o uso alternativo da área a ser desmatada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2026.%20A%20supress%C3%A3o%20de%20vegeta%C3%A7%C3%A3o%20nativa%20para%20uso%20alternativo%20do%20solo%2C%20tanto%20de%20dom%C3%ADnio%20p%C3%BAblico%20como%20de%20dom%C3%ADnio%20privado%2C%20depender%C3%A1%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Nas áreas passíveis de uso alternativo do solo, a supressão de vegetação que abrigue espécie da flora ou da fauna ameaçada de extinção, segundo lista oficial publicada pelos órgãos federal ou estadual ou municipal do Sisnama, ou espécies migratórias, dependerá da adoção de medidas compensatórias e mitigadoras que assegurem a conservação da espécie.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2027.%20Nas%20%C3%A1reas%20pass%C3%ADveis%20de%20uso%20alternativo%20do%20solo%2C%20a%20supress%C3%A3o%20de%20vegeta%C3%A7%C3%A3o%20que%20abrigue%20esp%C3%A9cie%20da%20flora%20ou%20da%20fauna",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Não é permitida a conversão de vegetação nativa para uso alternativo do solo no imóvel rural que possuir área abandonada. (Vide ADIN Nº 4.901)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2028.%20N%C3%A3o%20%C3%A9%20permitida%20a%20convers%C3%A3o%20de%20vegeta%C3%A7%C3%A3o%20nativa%20para%20uso%20alternativo%20do%20solo%20no%20im%C3%B3vel%20rural%20que%20possuir%20%C3%A1rea%20abandonada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. É criado o Cadastro Ambiental Rural - CAR, no âmbito do Sistema Nacional de Informação sobre Meio Ambiente - SINIMA, registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais, compondo base de dados para controle, monitoramento, planejamento ambiental e econômico e combate ao desmatamento.\n\n§ 1º A inscrição do imóvel rural no CAR deverá ser feita, preferencialmente, no órgão ambiental municipal ou estadual, que, nos termos do regulamento, exigirá do proprietário ou possuidor rural: (Redação dada pela Lei nº 12.727, de 2012).\n\nI - identificação do proprietário ou possuidor rural;\n\nII - comprovação da propriedade ou posse;\n\nIII - identificação do imóvel por meio de planta e memorial descritivo, contendo a indicação das coordenadas geográficas com pelo menos um ponto de amarração do perímetro do imóvel, informando a localização dos remanescentes de vegetação nativa, das Áreas de Preservação Permanente, das Áreas de Uso Restrito, das áreas consolidadas e, caso existente, também da localização da Reserva Legal.\n\n§ 2º O cadastramento não será considerado título para fins de reconhecimento do direito de propriedade ou posse, tampouco elimina a necessidade de cumprimento do disposto no art. 2º da Lei nº 10.267, de 28 de agosto de 2001.\n\n§ 3º A inscrição no CAR é obrigatória e por prazo indeterminado para todas as propriedades e posses rurais. (Redação dada pela Lei nº 13.887,de 2019)\n\n§ 4º Terão direito à adesão ao PRA, de que trata o art. 59 desta Lei, os proprietários e possuidores dos imóveis rurais com área acima de 4 (quatro) módulos fiscais que os inscreverem no CAR até o dia 31 de dezembro de 2023, bem como os proprietários e possuidores dos imóveis rurais com área de até 4 (quatro) módulos fiscais ou que atendam ao disposto no art. 3º da Lei nº 11.326, de 24 de julho de 2006, que os inscreverem no CAR até o dia 31 de dezembro de 2025. (Redação dada pela Lei nº 14.595, de 2023)\n\n§ 5º É o produtor rural autorizado a apresentar o CAR de que trata o caput deste artigo, para fins de apuração da área tributável prevista no inciso II do § 1º do art. 10 da Lei nº 9.393, de 19 de dezembro de 1996, que dispõe sobre o Imposto sobre a Propriedade Territorial Rural (ITR). (Incluído pela Lei nº 14.932, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2029.%20%C3%89%20criado%20o%20Cadastro%20Ambiental%20Rural%20-%20CAR%2C%20no%20%C3%A2mbito%20do%20Sistema%20Nacional%20de%20Informa%C3%A7%C3%A3o%20sobre%20Meio%20Ambiente%20-%20SINIMA%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Nos casos em que a Reserva Legal já tenha sido averbada na matrícula do imóvel e em que essa averbação identifique o perímetro e a localização da reserva, o proprietário não será obrigado a fornecer ao órgão ambiental as informações relativas à Reserva Legal previstas no inciso III do § 1º do art. 29.\n\nParágrafo único. Para que o proprietário se desobrigue nos termos do caput , deverá apresentar ao órgão ambiental competente a certidão de registro de imóveis onde conste a averbação da Reserva Legal ou termo de compromisso já firmado nos casos de posse.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2030.%20Nos%20casos%20em%20que%20a%20Reserva%20Legal%20j%C3%A1%20tenha%20sido%20averbada%20na%20matr%C3%ADcula%20do%20im%C3%B3vel%20e%20em%20que%20essa%20averba%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A exploração de florestas nativas e formações sucessoras, de domínio público ou privado, ressalvados os casos previstos nos arts. 21, 23 e 24, dependerá de licenciamento pelo órgão competente do Sisnama, mediante aprovação prévia de Plano de Manejo Florestal Sustentável - PMFS que contemple técnicas de condução, exploração, reposição florestal e manejo compatíveis com os variados ecossistemas que a cobertura arbórea forme.\n\n§ 1º O PMFS atenderá os seguintes fundamentos técnicos e científicos:\n\nI - caracterização dos meios físico e biológico;\n\nII - determinação do estoque existente;\n\nIII - intensidade de exploração compatível com a capacidade de suporte ambiental da floresta;\n\nIV - ciclo de corte compatível com o tempo de restabelecimento do volume de produto extraído da floresta;\n\nV - promoção da regeneração natural da floresta;\n\nVI - adoção de sistema silvicultural adequado;\n\nVII - adoção de sistema de exploração adequado;\n\nVIII - monitoramento do desenvolvimento da floresta remanescente;\n\nIX - adoção de medidas mitigadoras dos impactos ambientais e sociais.\n\n§ 2º A aprovação do PMFS pelo órgão competente do Sisnama confere ao seu detentor a licença ambiental para a prática do manejo florestal sustentável, não se aplicando outras etapas de licenciamento ambiental.\n\n§ 3º O detentor do PMFS encaminhará relatório anual ao órgão ambiental competente com as informações sobre toda a área de manejo florestal sustentável e a descrição das atividades realizadas.\n\n§ 4º O PMFS será submetido a vistorias técnicas para fiscalizar as operações e atividades desenvolvidas na área de manejo.\n\n§ 5º Respeitado o disposto neste artigo, serão estabelecidas em ato do Chefe do Poder Executivo disposições diferenciadas sobre os PMFS em escala empresarial, de pequena escala e comunitário.\n\n§ 6º Para fins de manejo florestal na pequena propriedade ou posse rural familiar, os órgãos do Sisnama deverão estabelecer procedimentos simplificados de elaboração, análise e aprovação dos referidos PMFS.\n\n§ 7º Compete ao órgão federal de meio ambiente a aprovação de PMFS incidentes em florestas públicas de domínio da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2031.%20A%20explora%C3%A7%C3%A3o%20de%20florestas%20nativas%20e%20forma%C3%A7%C3%B5es%20sucessoras%2C%20de%20dom%C3%ADnio%20p%C3%BAblico%20ou%20privado%2C%20ressalvados%20os%20casos%20previstos%20nos%20arts.%2021%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. São isentos de PMFS:\n\nI - a supressão de florestas e formações sucessoras para uso alternativo do solo;\n\nII - o manejo e a exploração de florestas plantadas localizadas fora das Áreas de Preservação Permanente e de Reserva Legal;\n\nIII - a exploração florestal não comercial realizada nas propriedades rurais a que se refere o inciso V do art. 3º ou por populações tradicionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2032.%20S%C3%A3o%20isentos%20de%20PMFS%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. As pessoas físicas ou jurídicas que utilizam matéria-prima florestal em suas atividades devem suprir-se de recursos oriundos de:\n\nI - florestas plantadas;\n\nII - PMFS de floresta nativa aprovado pelo órgão competente do Sisnama;\n\nIII - supressão de vegetação nativa autorizada pelo órgão competente do Sisnama;\n\nIV - outras formas de biomassa florestal definidas pelo órgão competente do Sisnama.\n\n§ 1º São obrigadas à reposição florestal as pessoas físicas ou jurídicas que utilizam matéria-prima florestal oriunda de supressão de vegetação nativa ou que detenham autorização para supressão de vegetação nativa.\n\n§ 2º É isento da obrigatoriedade da reposição florestal aquele que utilize:\n\nI - costaneiras, aparas, cavacos ou outros resíduos provenientes da atividade industrial\n\nII - matéria-prima florestal:\n\na) oriunda de PMFS;\n\nb) oriunda de floresta plantada;\n\nc) não madeireira.\n\n§ 3º A isenção da obrigatoriedade da reposição florestal não desobriga o interessado da comprovação perante a autoridade competente da origem do recurso florestal utilizado.\n\n§ 4º A reposição florestal será efetivada no Estado de origem da matéria-prima utilizada, mediante o plantio de espécies preferencialmente nativas, conforme determinações do órgão competente do Sisnama.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2033.%20As%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%20que%20utilizam%20mat%C3%A9ria-prima%20florestal%20em%20suas%20atividades%20devem%20suprir-se%20de%20recursos%20oriundos%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As empresas industriais que utilizam grande quantidade de matéria-prima florestal são obrigadas a elaborar e implementar Plano de Suprimento Sustentável - PSS, a ser submetido à aprovação do órgão competente do Sisnama.\n\n§ 1º O PSS assegurará produção equivalente ao consumo de matéria-prima florestal pela atividade industrial.\n\n§ 2º O PSS incluirá, no mínimo:\n\nI - programação de suprimento de matéria-prima florestal\n\nII - indicação das áreas de origem da matéria-prima florestal georreferenciadas;\n\nIII - cópia do contrato entre os particulares envolvidos, quando o PSS incluir suprimento de matéria-prima florestal oriunda de terras pertencentes a terceiros.\n\n§ 3º Admite-se o suprimento mediante matéria-prima em oferta no mercado:\n\nI - na fase inicial de instalação da atividade industrial, nas condições e durante o período, não superior a 10 (dez) anos, previstos no PSS, ressalvados os contratos de suprimento mencionados no inciso III do § 2º ;\n\nII - no caso de aquisição de produtos provenientes do plantio de florestas exóticas, licenciadas por órgão competente do Sisnama, o suprimento será comprovado posteriormente mediante relatório anual em que conste a localização da floresta e as quantidades produzidas.\n\n§ 4º O PSS de empresas siderúrgicas, metalúrgicas ou outras que consumam grandes quantidades de carvão vegetal ou lenha estabelecerá a utilização exclusiva de matéria-prima oriunda de florestas plantadas ou de PMFS e será parte integrante do processo de licenciamento ambiental do empreendimento.\n\n§ 5º Serão estabelecidos, em ato do Chefe do Poder Executivo, os parâmetros de utilização de matéria-prima florestal para fins de enquadramento das empresas industriais no disposto no caput .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2034.%20As%20empresas%20industriais%20que%20utilizam%20grande%20quantidade%20de%20mat%C3%A9ria-prima%20florestal%20s%C3%A3o%20obrigadas%20a%20elaborar%20e%20implementar%20Plano%20de%20Suprimento%20Sustent%C3%A1vel",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O controle da origem da madeira, do carvão e de outros produtos ou subprodutos florestais incluirá sistema nacional que integre os dados dos diferentes entes federativos, coordenado, fiscalizado e regulamentado pelo órgão federal competente do Sisnama. (Redação dada pela Lei nº 12.727, de 2012).\n\n§ 1º O plantio ou reflorestamento com espécies florestais nativas ou exóticas independem de autorização prévia, desde que observadas as limitações e condições previstas nesta Lei, devendo ser informados ao órgão competente, no prazo de até 1 (um) ano, para fins de controle de origem.\n\n§ 2º É livre a extração de lenha e demais produtos de florestas plantadas nas áreas não consideradas Áreas de Preservação Permanente e Reserva Legal.\n\n§ 3º O corte ou a exploração de espécies nativas plantadas em área de uso alternativo do solo serão permitidos independentemente de autorização prévia, devendo o plantio ou reflorestamento estar previamente cadastrado no órgão ambiental competente e a exploração ser previamente declarada nele para fins de controle de origem.\n\n§ 4º Os dados do sistema referido no caput serão disponibilizados para acesso público por meio da rede mundial de computadores, cabendo ao órgão federal coordenador do sistema fornecer os programas de informática a serem utilizados e definir o prazo para integração dos dados e as informações que deverão ser aportadas ao sistema nacional.\n\n§ 5º O órgão federal coordenador do sistema nacional poderá bloquear a emissão de Documento de Origem Florestal - DOF dos entes federativos não integrados ao sistema e fiscalizar os dados e relatórios respectivos. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2035.%20O%20controle%20da%20origem%20da%20madeira%2C%20do%20carv%C3%A3o%20e%20de%20outros%20produtos%20ou%20subprodutos%20florestais%20incluir%C3%A1%20sistema%20nacional%20que%20integre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O transporte, por qualquer meio, e o armazenamento de madeira, lenha, carvão e outros produtos ou subprodutos florestais oriundos de florestas de espécies nativas, para fins comerciais ou industriais, requerem licença do órgão competente do Sisnama, observado o disposto no art. 35.\n\n§ 1º A licença prevista no caput será formalizada por meio da emissão do DOF, que deverá acompanhar o material até o beneficiamento final.\n\n§ 2º Para a emissão do DOF, a pessoa física ou jurídica responsável deverá estar registrada no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, previsto no art. 17 da Lei nº 6.938, de 31 de agosto de 1981.\n\n§ 3º Todo aquele que recebe ou adquire, para fins comerciais ou industriais, madeira, lenha, carvão e outros produtos ou subprodutos de florestas de espécies nativas é obrigado a exigir a apresentação do DOF e munir-se da via que deverá acompanhar o material até o beneficiamento final.\n\n§ 4º No DOF deverão constar a especificação do material, sua volumetria e dados sobre sua origem e destino.\n\n§ 5º O órgão ambiental federal do Sisnama regulamentará os casos de dispensa da licença prevista no caput . (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2036.%20O%20transporte%2C%20por%20qualquer%20meio%2C%20e%20o%20armazenamento%20de%20madeira%2C%20lenha%2C%20carv%C3%A3o%20e%20outros%20produtos%20ou%20subprodutos%20florestais%20oriundos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O comércio de plantas vivas e outros produtos oriundos da flora nativa dependerá de licença do órgão estadual competente do Sisnama e de registro no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, previsto no art. 17 da Lei nº 6.938, de 31 de agosto de 1981, sem prejuízo de outras exigências cabíveis.\n\nParágrafo único. A exportação de plantas vivas e outros produtos da flora dependerá de licença do órgão federal competente do Sisnama, observadas as condições estabelecidas no caput .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2037.%20O%20com%C3%A9rcio%20de%20plantas%20vivas%20e%20outros%20produtos%20oriundos%20da%20flora%20nativa%20depender%C3%A1%20de%20licen%C3%A7a%20do%20%C3%B3rg%C3%A3o%20estadual%20competente%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. É proibido o uso de fogo na vegetação, exceto nas seguintes situações:\n\nI - em locais ou regiões cujas peculiaridades justifiquem o emprego do fogo em práticas agropastoris ou florestais, mediante prévia aprovação do órgão estadual ambiental competente do Sisnama, para cada imóvel rural ou de forma regionalizada, que estabelecerá os critérios de monitoramento e controle;\n\nII - emprego da queima controlada em Unidades de Conservação, em conformidade com o respectivo plano de manejo e mediante prévia aprovação do órgão gestor da Unidade de Conservação, visando ao manejo conservacionista da vegetação nativa, cujas características ecológicas estejam associadas evolutivamente à ocorrência do fogo;\n\nIII - atividades de pesquisa científica vinculada a projeto de pesquisa devidamente aprovado pelos órgãos competentes e realizada por instituição de pesquisa reconhecida, mediante prévia aprovação do órgão ambiental competente do Sisnama.\n\n§ 1º Na situação prevista no inciso I, o órgão estadual ambiental competente do Sisnama exigirá que os estudos demandados para o licenciamento da atividade rural contenham planejamento específico sobre o emprego do fogo e o controle dos incêndios.\n\n§ 2º Excetuam-se da proibição constante no caput as práticas de prevenção e combate aos incêndios e as de agricultura de subsistência exercidas pelas populações tradicionais e indígenas.\n\n§ 3º Na apuração da responsabilidade pelo uso irregular do fogo em terras públicas ou particulares, a autoridade competente para fiscalização e autuação deverá comprovar o nexo de causalidade entre a ação do proprietário ou qualquer preposto e o dano efetivamente causado.\n\n§ 4º É necessário o estabelecimento de nexo causal na verificação das responsabilidades por infração pelo uso irregular do fogo em terras públicas ou particulares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2038.%20%C3%89%20proibido%20o%20uso%20de%20fogo%20na%20vegeta%C3%A7%C3%A3o%2C%20exceto%20nas%20seguintes%20situa%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Os órgãos ambientais do Sisnama, bem como todo e qualquer órgão público ou privado responsável pela gestão de áreas com vegetação nativa ou plantios florestais, deverão elaborar, atualizar e implementar planos de manejo integrado do fogo. (Redação dada pela Lei nº 14.944, de 2024)\n\n§ 1º Os planos de contingência para o combate aos incêndios florestais dos órgãos do Sisnama conterão diretrizes para o uso da aviação agrícola no combate a incêndios em todos os tipos de vegetação. (Incluído pela Lei nº 14.406, de 2022)\n\n§ 2º As aeronaves utilizadas para combate a incêndios deverão atender às normas técnicas definidas pelas autoridades competentes do poder público e ser pilotadas por profissionais devidamente qualificados para o desempenho dessa atividade, na forma do regulamento. (Incluído pela Lei nº 14.406, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2039.%20Os%20%C3%B3rg%C3%A3os%20ambientais%20do%20Sisnama%2C%20bem%20como%20todo%20e%20qualquer%20%C3%B3rg%C3%A3o%20p%C3%BAblico%20ou%20privado%20respons%C3%A1vel%20pela%20gest%C3%A3o%20de%20%C3%A1reas%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O Governo Federal deverá estabelecer uma Política Nacional de Manejo e Controle de Queimadas, Prevenção e Combate aos Incêndios Florestais, que promova a articulação institucional com vistas na substituição do uso do fogo no meio rural, no controle de queimadas, na prevenção e no combate aos incêndios florestais e no manejo do fogo em áreas naturais protegidas.\n\n§ 1º A Política mencionada neste artigo deverá prever instrumentos para a análise dos impactos das queimadas sobre mudanças climáticas e mudanças no uso da terra, conservação dos ecossistemas, saúde pública e fauna, para subsidiar planos estratégicos de prevenção de incêndios florestais.\n\n§ 2º A Política mencionada neste artigo deverá observar cenários de mudanças climáticas e potenciais aumentos de risco de ocorrência de incêndios florestais.\n\n§ 3º A Política de que trata o caput deste artigo contemplará programa de uso da aviação agrícola no combate a incêndios em todos os tipos de vegetação. (Incluído pela Lei nº 14.406, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2040.%20O%20Governo%20Federal%20dever%C3%A1%20estabelecer%20uma%20Pol%C3%ADtica%20Nacional%20de%20Manejo%20e%20Controle%20de%20Queimadas%2C%20Preven%C3%A7%C3%A3o%20e%20Combate%20aos%20Inc%C3%AAndios%20Florestais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. É o Poder Executivo federal autorizado a instituir, sem prejuízo do cumprimento da legislação ambiental, programa de apoio e incentivo à conservação do meio ambiente, bem como para adoção de tecnologias e boas práticas que conciliem a produtividade agropecuária e florestal, com redução dos impactos ambientais, como forma de promoção do desenvolvimento ecologicamente sustentável, observados sempre os critérios de progressividade, abrangendo as seguintes categorias e linhas de ação: (Redação dada pela Lei nº 12.727, de 2012).\n\nI - pagamento ou incentivo a serviços ambientais como retribuição, monetária ou não, às atividades de conservação e melhoria dos ecossistemas e que gerem serviços ambientais, tais como, isolada ou cumulativamente:\n\na) o sequestro, a conservação, a manutenção e o aumento do estoque e a diminuição do fluxo de carbono;\n\nb) a conservação da beleza cênica natural;\n\nc) a conservação da biodiversidade;\n\nd) a conservação das águas e dos serviços hídricos;\n\ne) a regulação do clima;\n\nf) a valorização cultural e do conhecimento tradicional ecossistêmico;\n\ng) a conservação e o melhoramento do solo;\n\nh) a manutenção de Áreas de Preservação Permanente, de Reserva Legal e de uso restrito;\n\nII - compensação pelas medidas de conservação ambiental necessárias para o cumprimento dos objetivos desta Lei, utilizando-se dos seguintes instrumentos, dentre outros:\n\na) obtenção de crédito agrícola, em todas as suas modalidades, com taxas de juros menores, bem como limites e prazos maiores que os praticados no mercado;\n\nb) contratação do seguro agrícola em condições melhores que as praticadas no mercado;\n\nc) dedução das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito da base de cálculo do Imposto sobre a Propriedade Territorial Rural - ITR, gerando créditos tributários;\n\nd) destinação de parte dos recursos arrecadados com a cobrança pelo uso da água, na forma da Lei nº 9.433, de 8 de janeiro de 1997, para a manutenção, recuperação ou recomposição das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito na bacia de geração da receita;\n\ne) linhas de financiamento para atender iniciativas de preservação voluntária de vegetação nativa, proteção de espécies da flora nativa ameaçadas de extinção, manejo florestal e agroflorestal sustentável realizados na propriedade ou posse rural, ou recuperação de áreas degradadas;\n\nf) isenção de impostos para os principais insumos e equipamentos, tais como: fios de arame, postes de madeira tratada, bombas d’água, trado de perfuração de solo, dentre outros utilizados para os processos de recuperação e manutenção das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito;\n\nIII - incentivos para comercialização, inovação e aceleração das ações de recuperação, conservação e uso sustentável das florestas e demais formas de vegetação nativa, tais como:\n\na) participação preferencial nos programas de apoio à comercialização da produção agrícola;\n\nb) destinação de recursos para a pesquisa científica e tecnológica e a extensão rural relacionadas à melhoria da qualidade ambiental.\n\n§ 1º Para financiar as atividades necessárias à regularização ambiental das propriedades rurais, o programa poderá prever:\n\nI - destinação de recursos para a pesquisa científica e tecnológica e a extensão rural relacionadas à melhoria da qualidade ambiental;\n\nII - dedução da base de cálculo do imposto de renda do proprietário ou possuidor de imóvel rural, pessoa física ou jurídica, de parte dos gastos efetuados com a recomposição das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito cujo desmatamento seja anterior a 22 de julho de 2008;\n\nIII - utilização de fundos públicos para concessão de créditos reembolsáveis e não reembolsáveis destinados à compensação, recuperação ou recomposição das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito cujo desmatamento seja anterior a 22 de julho de 2008.\n\n§ 2º O programa previsto no caput poderá, ainda, estabelecer diferenciação tributária para empresas que industrializem ou comercializem produtos originários de propriedades ou posses rurais que cumpram os padrões e limites estabelecidos nos arts. 4º , 6º , 11 e 12 desta Lei, ou que estejam em processo de cumpri-los.\n\n§ 3º Os proprietários ou possuidores de imóveis rurais inscritos no CAR, inadimplentes em relação ao cumprimento do termo de compromisso ou PRA ou que estejam sujeitos a sanções por infrações ao disposto nesta Lei, exceto aquelas suspensas em virtude do disposto no Capítulo XIII, não são elegíveis para os incentivos previstos nas alíneas a a e do inciso II do caput deste artigo até que as referidas sanções sejam extintas.\n\n§ 4º As atividades de manutenção das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito são elegíveis para quaisquer pagamentos ou incentivos por serviços ambientais, configurando adicionalidade para fins de mercados nacionais e internacionais de reduções de emissões certificadas de gases de efeito estufa.\n\n§ 5º O programa relativo a serviços ambientais previsto no inciso I do caput deste artigo deverá integrar os sistemas em âmbito nacional e estadual, objetivando a criação de um mercado de serviços ambientais.\n\n§ 6º Os proprietários localizados nas zonas de amortecimento de Unidades de Conservação de Proteção Integral são elegíveis para receber apoio técnico-financeiro da compensação prevista no art. 36 da Lei nº 9.985, de 18 de julho de 2000, com a finalidade de recuperação e manutenção de áreas prioritárias para a gestão da unidade.\n\n§ 7º O pagamento ou incentivo a serviços ambientais a que se refere o inciso I deste artigo serão prioritariamente destinados aos agricultores familiares como definidos no inciso V do art. 3º desta Lei. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2041.%20%C3%89%20o%20Poder%20Executivo%20federal%20autorizado%20a%20instituir%2C%20sem%20preju%C3%ADzo%20do%20cumprimento%20da%20legisla%C3%A7%C3%A3o%20ambiental%2C%20programa%20de%20apoio%20e%20incentivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O Governo Federal implantará programa para conversão da multa prevista no art. 50 do Decreto nº 6.514, de 22 de julho de 2008, destinado a imóveis rurais, referente a autuações vinculadas a desmatamentos em áreas onde não era vedada a supressão, que foram promovidos sem autorização ou licença, em data anterior a 22 de julho de 2008. (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2042.%20O%20Governo%20Federal%20implantar%C3%A1%20programa%20para%20convers%C3%A3o%20da%20multa%20prevista%20no%20art.%2050%20do%20Decreto%20n%C2%BA%206.514%2C%20de%2022%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2043.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. É instituída a Cota de Reserva Ambiental - CRA, título nominativo representativo de área com vegetação nativa, existente ou em processo de recuperação: (Vide ADIN Nº 4.937) (Vide ADC Nº 42)\n\nI - sob regime de servidão ambiental, instituída na forma do art. 9º-A da Lei nº 6.938, de 31 de agosto de 1981;\n\nII - correspondente à área de Reserva Legal instituída voluntariamente sobre a vegetação que exceder os percentuais exigidos no art. 12 desta Lei;\n\nIII - protegida na forma de Reserva Particular do Patrimônio Natural - RPPN, nos termos do art. 21 da Lei nº 9.985, de 18 de julho de 2000;\n\nIV - existente em propriedade rural localizada no interior de Unidade de Conservação de domínio público que ainda não tenha sido desapropriada.\n\n§ 1º A emissão de CRA será feita mediante requerimento do proprietário, após inclusão do imóvel no CAR e laudo comprobatório emitido pelo próprio órgão ambiental ou por entidade credenciada, assegurado o controle do órgão federal competente do Sisnama, na forma de ato do Chefe do Poder Executivo.\n\n§ 2º A CRA não pode ser emitida com base em vegetação nativa localizada em área de RPPN instituída em sobreposição à Reserva Legal do imóvel.\n\n§ 3º A Cota de Reserva Florestal - CRF emitida nos termos do art. 44-B da Lei nº 4.771, de 15 de setembro de 1965, passa a ser considerada, pelo efeito desta Lei, como Cota de Reserva Ambiental.\n\n§ 4º Poderá ser instituída CRA da vegetação nativa que integra a Reserva Legal dos imóveis a que se refere o inciso V do art. 3º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2044.%20%C3%89%20institu%C3%ADda%20a%20Cota%20de%20Reserva%20Ambiental%20-%20CRA%2C%20t%C3%ADtulo%20nominativo%20representativo%20de%20%C3%A1rea%20com%20vegeta%C3%A7%C3%A3o%20nativa%2C%20existente%20ou%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A CRA será emitida pelo órgão competente do Sisnama em favor de proprietário de imóvel incluído no CAR que mantenha área nas condições previstas no art. 44.\n\n§ 1º O proprietário interessado na emissão da CRA deve apresentar ao órgão referido no caput proposta acompanhada de:\n\nI - certidão atualizada da matrícula do imóvel expedida pelo registro de imóveis competente;\n\nII - cédula de identidade do proprietário, quando se tratar de pessoa física;\n\nIII - ato de designação de responsável, quando se tratar de pessoa jurídica;\n\nIV - certidão negativa de débitos do Imposto sobre a Propriedade Territorial Rural - ITR;\n\nV - memorial descritivo do imóvel, com a indicação da área a ser vinculada ao título, contendo pelo menos um ponto de amarração georreferenciado relativo ao perímetro do imóvel e um ponto de amarração georreferenciado relativo à Reserva Legal.\n\n§ 2º Aprovada a proposta, o órgão referido no caput emitirá a CRA correspondente, identificando:\n\nI - o número da CRA no sistema único de controle;\n\nII - o nome do proprietário rural da área vinculada ao título;\n\nIII - a dimensão e a localização exata da área vinculada ao título, com memorial descritivo contendo pelo menos um ponto de amarração georreferenciado;\n\nIV - o bioma correspondente à área vinculada ao título;\n\nV - a classificação da área em uma das condições previstas no art. 46.\n\n§ 3º O vínculo de área à CRA será averbado na matrícula do respectivo imóvel no registro de imóveis competente.\n\n§ 4º O órgão federal referido no caput pode delegar ao órgão estadual competente atribuições para emissão, cancelamento e transferência da CRA, assegurada a implementação de sistema único de controle.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2045.%20A%20CRA%20ser%C3%A1%20emitida%20pelo%20%C3%B3rg%C3%A3o%20competente%20do%20Sisnama%20em%20favor%20de%20propriet%C3%A1rio%20de%20im%C3%B3vel%20inclu%C3%ADdo%20no%20CAR%20que%20mantenha",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Cada CRA corresponderá a 1 (um) hectare:\n\nI - de área com vegetação nativa primária ou com vegetação secundária em qualquer estágio de regeneração ou recomposição;\n\nII - de áreas de recomposição mediante reflorestamento com espécies nativas.\n\n§ 1º O estágio sucessional ou o tempo de recomposição ou regeneração da vegetação nativa será avaliado pelo órgão ambiental estadual competente com base em declaração do proprietário e vistoria de campo.\n\n§ 2º A CRA não poderá ser emitida pelo órgão ambiental competente quando a regeneração ou recomposição da área forem improváveis ou inviáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2046.%20Cada%20CRA%20corresponder%C3%A1%20a%201%20%28um%29%20hectare%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. É obrigatório o registro da CRA pelo órgão emitente, no prazo de 30 (trinta) dias, contado da data da sua emissão, em bolsas de mercadorias de âmbito nacional ou em sistemas de registro e de liquidação financeira de ativos autorizados pelo Banco Central do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2047.%20%C3%89%20obrigat%C3%B3rio%20o%20registro%20da%20CRA%20pelo%20%C3%B3rg%C3%A3o%20emitente%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C%20contado%20da%20data%20da%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A CRA pode ser transferida, onerosa ou gratuitamente, a pessoa física ou a pessoa jurídica de direito público ou privado, mediante termo assinado pelo titular da CRA e pelo adquirente.\n\n§ 1º A transferência da CRA só produz efeito uma vez registrado o termo previsto no caput no sistema único de controle.\n\n§ 2º A CRA só pode ser utilizada para compensar Reserva Legal de imóvel rural situado no mesmo bioma da área à qual o título está vinculado. (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 3º A CRA só pode ser utilizada para fins de compensação de Reserva Legal se respeitados os requisitos estabelecidos no § 6º do art. 66.\n\n§ 4º A utilização de CRA para compensação da Reserva Legal será averbada na matrícula do imóvel no qual se situa a área vinculada ao título e na do imóvel beneficiário da compensação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2048.%20A%20CRA%20pode%20ser%20transferida%2C%20onerosa%20ou%20gratuitamente%2C%20a%20pessoa%20f%C3%ADsica%20ou%20a%20pessoa%20jur%C3%ADdica%20de%20direito%20p%C3%BAblico%20ou%20privado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Cabe ao proprietário do imóvel rural em que se situa a área vinculada à CRA a responsabilidade plena pela manutenção das condições de conservação da vegetação nativa da área que deu origem ao título.\n\n§ 1º A área vinculada à emissão da CRA com base nos incisos I, II e III do art. 44 desta Lei poderá ser utilizada conforme PMFS.\n\n§ 2º A transmissão inter vivos ou causa mortis do imóvel não elimina nem altera o vínculo de área contida no imóvel à CRA.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2049.%20Cabe%20ao%20propriet%C3%A1rio%20do%20im%C3%B3vel%20rural%20em%20que%20se%20situa%20a%20%C3%A1rea%20vinculada%20%C3%A0%20CRA%20a%20responsabilidade%20plena%20pela%20manuten%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A CRA somente poderá ser cancelada nos seguintes casos:\n\nI - por solicitação do proprietário rural, em caso de desistência de manter áreas nas condições previstas nos incisos I e II do art. 44;\n\nII - automaticamente, em razão de término do prazo da servidão ambiental;\n\nIII - por decisão do órgão competente do Sisnama, no caso de degradação da vegetação nativa da área vinculada à CRA cujos custos e prazo de recuperação ambiental inviabilizem a continuidade do vínculo entre a área e o título.\n\n§ 1º O cancelamento da CRA utilizada para fins de compensação de Reserva Legal só pode ser efetivado se assegurada Reserva Legal para o imóvel no qual a compensação foi aplicada.\n\n§ 2º O cancelamento da CRA nos termos do inciso III do caput independe da aplicação das devidas sanções administrativas e penais decorrentes de infração à legislação ambiental, nos termos da Lei nº 9.605, de 12 de fevereiro de 1998.\n\n§ 3º O cancelamento da CRA deve ser averbado na matrícula do imóvel no qual se situa a área vinculada ao título e do imóvel no qual a compensação foi aplicada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2050.%20A%20CRA%20somente%20poder%C3%A1%20ser%20cancelada%20nos%20seguintes%20casos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O órgão ambiental competente, ao tomar conhecimento do desmatamento em desacordo com o disposto nesta Lei, deverá embargar a obra ou atividade que deu causa ao uso alternativo do solo, como medida administrativa voltada a impedir a continuidade do dano ambiental, propiciar a regeneração do meio ambiente e dar viabilidade à recuperação da área degradada.\n\n§ 1º O embargo restringe-se aos locais onde efetivamente ocorreu o desmatamento ilegal, não alcançando as atividades de subsistência ou as demais atividades realizadas no imóvel não relacionadas com a infração.\n\n§ 2º O órgão ambiental responsável deverá disponibilizar publicamente as informações sobre o imóvel embargado, inclusive por meio da rede mundial de computadores, resguardados os dados protegidos por legislação específica, caracterizando o exato local da área embargada e informando em que estágio se encontra o respectivo procedimento administrativo.\n\n§ 3º A pedido do interessado, o órgão ambiental responsável emitirá certidão em que conste a atividade, a obra e a parte da área do imóvel que são objetos do embargo, conforme o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2051.%20O%20%C3%B3rg%C3%A3o%20ambiental%20competente%2C%20ao%20tomar%20conhecimento%20do%20desmatamento%20em%20desacordo%20com%20o%20disposto%20nesta%20Lei%2C%20dever%C3%A1%20embargar%20a%20obra",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A intervenção e a supressão de vegetação em Áreas de Preservação Permanente e de Reserva Legal para as atividades eventuais ou de baixo impacto ambiental, previstas no inciso X do art. 3º , excetuadas as alíneas b e g, quando desenvolvidas nos imóveis a que se refere o inciso V do art. 3º , dependerão de simples declaração ao órgão ambiental competente, desde que esteja o imóvel devidamente inscrito no CAR.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2052.%20A%20interven%C3%A7%C3%A3o%20e%20a%20supress%C3%A3o%20de%20vegeta%C3%A7%C3%A3o%20em%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20e%20de%20Reserva%20Legal%20para%20as%20atividades%20eventuais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Para o registro no CAR da Reserva Legal, nos imóveis a que se refere o inciso V do art. 3º , o proprietário ou possuidor apresentará os dados identificando a área proposta de Reserva Legal, cabendo aos órgãos competentes integrantes do Sisnama, ou instituição por ele habilitada, realizar a captação das respectivas coordenadas geográficas.\n\nParágrafo único. O registro da Reserva Legal nos imóveis a que se refere o inciso V do art. 3º é gratuito, devendo o poder público prestar apoio técnico e jurídico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2053.%20Para%20o%20registro%20no%20CAR%20da%20Reserva%20Legal%2C%20nos%20im%C3%B3veis%20a%20que%20se%20refere%20o%20inciso%20V%20do%20art.%203%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Para cumprimento da manutenção da área de reserva legal nos imóveis a que se refere o inciso V do art. 3º , poderão ser computados os plantios de árvores frutíferas, ornamentais ou industriais, compostos por espécies exóticas, cultivadas em sistema intercalar ou em consórcio com espécies nativas da região em sistemas agroflorestais.\n\nParágrafo único. O poder público estadual deverá prestar apoio técnico para a recomposição da vegetação da Reserva Legal nos imóveis a que se refere o inciso V do art. 3º .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2054.%20Para%20cumprimento%20da%20manuten%C3%A7%C3%A3o%20da%20%C3%A1rea%20de%20reserva%20legal%20nos%20im%C3%B3veis%20a%20que%20se%20refere%20o%20inciso%20V%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A inscrição no CAR dos imóveis a que se refere o inciso V do art. 3º observará procedimento simplificado no qual será obrigatória apenas a apresentação dos documentos mencionados nos incisos I e II do § 1º do art. 29 e de croqui indicando o perímetro do imóvel, as Áreas de Preservação Permanente e os remanescentes que formam a Reserva Legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2055.%20A%20inscri%C3%A7%C3%A3o%20no%20CAR%20dos%20im%C3%B3veis%20a%20que%20se%20refere%20o%20inciso%20V%20do%20art.%203%C2%BA%20observar%C3%A1%20procedimento%20simplificado%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. O licenciamento ambiental de PMFS comercial nos imóveis a que se refere o inciso V do art. 3º se beneficiará de procedimento simplificado de licenciamento ambiental.\n\n§ 1º O manejo sustentável da Reserva Legal para exploração florestal eventual, sem propósito comercial direto ou indireto, para consumo no próprio imóvel a que se refere o inciso V do art. 3º , independe de autorização dos órgãos ambientais competentes, limitada a retirada anual de material lenhoso a 2 (dois) metros cúbicos por hectare.\n\n§ 2º O manejo previsto no § 1º não poderá comprometer mais de 15% (quinze por cento) da biomassa da Reserva Legal nem ser superior a 15 (quinze) metros cúbicos de lenha para uso doméstico e uso energético, por propriedade ou posse rural, por ano.\n\n§ 3º Para os fins desta Lei, entende-se por manejo eventual, sem propósito comercial, o suprimento, para uso no próprio imóvel, de lenha ou madeira serrada destinada a benfeitorias e uso energético nas propriedades e posses rurais, em quantidade não superior ao estipulado no § 1º deste artigo.\n\n§ 4º Os limites para utilização previstos no § 1º deste artigo no caso de posse coletiva de populações tradicionais ou de agricultura familiar serão adotados por unidade familiar.\n\n§ 5º As propriedades a que se refere o inciso V do art. 3º são desobrigadas da reposição florestal se a matéria-prima florestal for utilizada para consumo próprio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2056.%20O%20licenciamento%20ambiental%20de%20PMFS%20comercial%20nos%20im%C3%B3veis%20a%20que%20se%20refere%20o%20inciso%20V%20do%20art.%203%C2%BA%20se%20beneficiar%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Nos imóveis a que se refere o inciso V do art. 3º , o manejo florestal madeireiro sustentável da Reserva Legal com propósito comercial direto ou indireto depende de autorização simplificada do órgão ambiental competente, devendo o interessado apresentar, no mínimo, as seguintes informações:\n\nI - dados do proprietário ou possuidor rural;\n\nII - dados da propriedade ou posse rural, incluindo cópia da matrícula do imóvel no Registro Geral do Cartório de Registro de Imóveis ou comprovante de posse;\n\nIII - croqui da área do imóvel com indicação da área a ser objeto do manejo seletivo, estimativa do volume de produtos e subprodutos florestais a serem obtidos com o manejo seletivo, indicação da sua destinação e cronograma de execução previsto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2057.%20Nos%20im%C3%B3veis%20a%20que%20se%20refere%20o%20inciso%20V%20do%20art.%203%C2%BA%20%2C%20o%20manejo%20florestal%20madeireiro%20sustent%C3%A1vel%20da%20Reserva",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Assegurado o controle e a fiscalização dos órgãos ambientais competentes dos respectivos planos ou projetos, assim como as obrigações do detentor do imóvel, o poder público poderá instituir programa de apoio técnico e incentivos financeiros, podendo incluir medidas indutoras e linhas de financiamento para atender, prioritariamente, os imóveis a que se refere o inciso V do caput do art. 3º , nas iniciativas de: (Redação dada pela Lei nº 12.727, de 2012).\n\nI - preservação voluntária de vegetação nativa acima dos limites estabelecidos no art. 12;\n\nII - proteção de espécies da flora nativa ameaçadas de extinção;\n\nIII - implantação de sistemas agroflorestal e agrossilvipastoril;\n\nIV - recuperação ambiental de Áreas de Preservação Permanente e de Reserva Legal;\n\nV - recuperação de áreas degradadas;\n\nVI - promoção de assistência técnica para regularização ambiental e recuperação de áreas degradadas;\n\nVII - produção de mudas e sementes;\n\nVIII - pagamento por serviços ambientais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2058.%20Assegurado%20o%20controle%20e%20a%20fiscaliza%C3%A7%C3%A3o%20dos%20%C3%B3rg%C3%A3os%20ambientais%20competentes%20dos%20respectivos%20planos%20ou%20projetos%2C%20assim%20como%20as%20obriga%C3%A7%C3%B5es%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. A União, os Estados e o Distrito Federal deverão implantar Programas de Regularização Ambiental (PRAs) de posses e propriedades rurais, com o objetivo de adequá-las aos termos deste Capítulo. (Redação dada pela Lei 13.887, de 2019) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)\n\n§ 1º Na regulamentação dos PRAs, a União estabelecerá normas de caráter geral, e os Estados e o Distrito Federal ficarão incumbidos do seu detalhamento por meio da edição de normas de caráter específico, em razão de suas peculiaridades territoriais, climáticas, históricas, culturais, econômicas e sociais, conforme preceitua o art. 24 da Constituição Federal.. (Redação dada pela Lei 13.887, de 2019)\n\n§ 2º A inscrição do imóvel rural no CAR é condição obrigatória para a adesão ao PRA, que será requerida pelo proprietário ou possuidor do imóvel rural no prazo de 1 (um) ano, contado da notificação pelo órgão competente, que realizará previamente a validação do cadastro e a identificação de passivos ambientais, observado o disposto no § 4º do art. 29 desta Lei. (Redação dada pela Lei nº 14.595, de 2023)\n\n§ 3º Com base no requerimento de adesão ao PRA, o órgão competente integrante do Sisnama convocará o proprietário ou possuidor para assinar o termo de compromisso, que constituirá título executivo extrajudicial.\n\n§ 4º No período entre a publicação desta Lei e o vencimento do prazo de adesão do interessado ao PRA, e enquanto estiver sendo cumprido o termo de compromisso, o proprietário ou possuidor não poderá ser autuado por infrações cometidas antes de 22 de julho de 2008, relativas à supressão irregular de vegetação em Áreas de Preservação Permanente, de Reserva Legal e de uso restrito. (Redação dada pela Lei nº 14.595, de 2023)\n\n§ 5º A partir da assinatura do termo de compromisso, serão suspensas as sanções decorrentes das infrações mencionadas no § 4º deste artigo e, cumpridas as obrigações estabelecidas no PRA ou no termo de compromisso para a regularização ambiental das exigências desta Lei, nos prazos e condições neles estabelecidos, as multas referidas neste artigo serão consideradas como convertidas em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente, regularizando o uso de áreas rurais consolidadas conforme definido no PRA. (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)\n\n§ 6º (VETADO) (Incluído pela Lei nº 12.727, de 2012).\n\n§ 7º Caso os Estados e o Distrito Federal não implantem o PRA até 31 de dezembro de 2020, o proprietário ou possuidor de imóvel rural poderá aderir ao PRA implantado pela União, observado o disposto no § 2º deste artigo. (Incluído pela Lei 13.887, de 2019)\n\n§ 8º A partir da assinatura do termo de compromisso e durante o seu cumprimento na vigência do PRA, o proprietário ou possuidor de imóvel rural estará em processo de regularização ambiental e não poderá ter o financiamento de sua atividade negado em face do descumprimento desta Lei ou dos arts. 38, 39 e 48 da Lei nº 9.605, de 12 de fevereiro de 1998, devendo as instituições financeiras embasar suas decisões em informações de órgãos oficiais. (Incluído pela Lei nº 14.595, de 2023)\n\n§ 9º Os órgãos ambientais competentes devem garantir o acesso de instituições financeiras a dados do CAR e do PRA que permitam verificar a regularidade ambiental do proprietário ou possuidor de imóvel rural. (Incluído pela Lei nº 14.595, de 2023)\n\n§ 10. Os órgãos ambientais competentes manterão atualizado e disponível em sítio eletrônico demonstrativo sobre a situação da regularização ambiental dos imóveis rurais, indicando, no mínimo, a quantidade de imóveis inscritos no CAR, os cadastros em processo de validação, os requerimentos de adesão ao PRA recebidos e os termos de compromisso assinados. (Incluído pela Lei nº 14.595, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2059.%20A%20Uni%C3%A3o%2C%20os%20Estados%20e%20o%20Distrito%20Federal%20dever%C3%A3o%20implantar%20Programas%20de%20Regulariza%C3%A7%C3%A3o%20Ambiental%20%28PRAs%29%20de%20posses%20e%20propriedades%20rurais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. A assinatura de termo de compromisso para regularização de imóvel ou posse rural perante o órgão ambiental competente, mencionado no art. 59, suspenderá a punibilidade dos crimes previstos nos arts. 38, 39 e 48 da Lei nº 9.605, de 12 de fevereiro de 1998, enquanto o termo estiver sendo cumprido. (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)\n\n§ 1º A prescrição ficará interrompida durante o período de suspensão da pretensão punitiva. (Vide ADIN Nº 4.937) (Vide ADIN Nº 4.902)\n\n§ 2º Extingue-se a punibilidade com a efetiva regularização prevista nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2060.%20A%20assinatura%20de%20termo%20de%20compromisso%20para%20regulariza%C3%A7%C3%A3o%20de%20im%C3%B3vel%20ou%20posse%20rural%20perante%20o%20%C3%B3rg%C3%A3o%20ambiental%20competente%2C%20mencionado%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2061.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "60",
+      "next": "61-A"
+    },
+    "61-A": {
+      "numero": "61-A",
+      "texto": "Art. 61-A. Nas Áreas de Preservação Permanente, é autorizada, exclusivamente, a continuidade das atividades agrossilvipastoris, de ecoturismo e de turismo rural em áreas rurais consolidadas até 22 de julho de 2008. (Incluído pela Lei nº 12.727, de 2012). (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)\n\n§ 1º Para os imóveis rurais com área de até 1 (um) módulo fiscal que possuam áreas consolidadas em Áreas de Preservação Permanente ao longo de cursos d’água naturais, será obrigatória a recomposição das respectivas faixas marginais em 5 (cinco) metros, contados da borda da calha do leito regular, independentemente da largura do curso d´água. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 2º Para os imóveis rurais com área superior a 1 (um) módulo fiscal e de até 2 (dois) módulos fiscais que possuam áreas consolidadas em Áreas de Preservação Permanente ao longo de cursos d’água naturais, será obrigatória a recomposição das respectivas faixas marginais em 8 (oito) metros, contados da borda da calha do leito regular, independentemente da largura do curso d´água. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 3º Para os imóveis rurais com área superior a 2 (dois) módulos fiscais e de até 4 (quatro) módulos fiscais que possuam áreas consolidadas em Áreas de Preservação Permanente ao longo de cursos d’água naturais, será obrigatória a recomposição das respectivas faixas marginais em 15 (quinze) metros, contados da borda da calha do leito regular, independentemente da largura do curso d’água. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 4º Para os imóveis rurais com área superior a 4 (quatro) módulos fiscais que possuam áreas consolidadas em Áreas de Preservação Permanente ao longo de cursos d’água naturais, será obrigatória a recomposição das respectivas faixas marginais: (Incluído pela Lei nº 12.727, de 2012).\n\nI - (VETADO); e (Incluído pela Lei nº 12.727, de 2012).\n\nII - nos demais casos, conforme determinação do PRA, observado o mínimo de 20 (vinte) e o máximo de 100 (cem) metros, contados da borda da calha do leito regular. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 5º Nos casos de áreas rurais consolidadas em Áreas de Preservação Permanente no entorno de nascentes e olhos d’água perenes, será admitida a manutenção de atividades agrossilvipastoris, de ecoturismo ou de turismo rural, sendo obrigatória a recomposição do raio mínimo de 15 (quinze) metros. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 6º Para os imóveis rurais que possuam áreas consolidadas em Áreas de Preservação Permanente no entorno de lagos e lagoas naturais, será admitida a manutenção de atividades agrossilvipastoris, de ecoturismo ou de turismo rural, sendo obrigatória a recomposição de faixa marginal com largura mínima de: (Incluído pela Lei nº 12.727, de 2012).\n\nI - 5 (cinco) metros, para imóveis rurais com área de até 1 (um) módulo fiscal; (Incluído pela Lei nº 12.727, de 2012).\n\nII - 8 (oito) metros, para imóveis rurais com área superior a 1 (um) módulo fiscal e de até 2 (dois) módulos fiscais; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - 15 (quinze) metros, para imóveis rurais com área superior a 2 (dois) módulos fiscais e de até 4 (quatro) módulos fiscais; e (Incluído pela Lei nº 12.727, de 2012).\n\nIV - 30 (trinta) metros, para imóveis rurais com área superior a 4 (quatro) módulos fiscais. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 7º Nos casos de áreas rurais consolidadas em veredas, será obrigatória a recomposição das faixas marginais, em projeção horizontal, delimitadas a partir do espaço brejoso e encharcado, de largura mínima de: (Incluído pela Lei nº 12.727, de 2012).\n\nI - 30 (trinta) metros, para imóveis rurais com área de até 4 (quatro) módulos fiscais; e (Incluído pela Lei nº 12.727, de 2012).\n\nII - 50 (cinquenta) metros, para imóveis rurais com área superior a 4 (quatro) módulos fiscais. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 8º Será considerada, para os fins do disposto no caput e nos §§ 1º a 7º , a área detida pelo imóvel rural em 22 de julho de 2008. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 9º A existência das situações previstas no caput deverá ser informada no CAR para fins de monitoramento, sendo exigida, nesses casos, a adoção de técnicas de conservação do solo e da água que visem à mitigação dos eventuais impactos. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 10. Antes mesmo da disponibilização do CAR, no caso das intervenções já existentes, é o proprietário ou possuidor rural responsável pela conservação do solo e da água, por meio de adoção de boas práticas agronômicas. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 11. A realização das atividades previstas no caput observará critérios técnicos de conservação do solo e da água indicados no PRA previsto nesta Lei, sendo vedada a conversão de novas áreas para uso alternativo do solo nesses locais. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 12. Será admitida a manutenção de residências e da infraestrutura associada às atividades agrossilvipastoris, de ecoturismo e de turismo rural, inclusive o acesso a essas atividades, independentemente das determinações contidas no caput e nos §§ 1º a 7º , desde que não estejam em área que ofereça risco à vida ou à integridade física das pessoas. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 13. A recomposição de que trata este artigo poderá ser feita, isolada ou conjuntamente, pelos seguintes métodos: (Incluído pela Lei nº 12.727, de 2012).\n\nI - condução de regeneração natural de espécies nativas; (Incluído pela Lei nº 12.727, de 2012).\n\nII - plantio de espécies nativas; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - plantio de espécies nativas conjugado com a condução da regeneração natural de espécies nativas; (Incluído pela Lei nº 12.727, de 2012).\n\nIV - plantio intercalado de espécies lenhosas, perenes ou de ciclo longo, exóticas com nativas de ocorrência regional, em até 50% (cinquenta por cento) da área total a ser recomposta, no caso dos imóveis a que se refere o inciso V do caput do art. 3º ; (Incluído pela Lei nº 12.727, de 2012).\n\nV - (VETADO). (Incluído pela Lei nº 12.727, de 2012).\n\n§ 14. Em todos os casos previstos neste artigo, o poder público, verificada a existência de risco de agravamento de processos erosivos ou de inundações, determinará a adoção de medidas mitigadoras que garantam a estabilidade das margens e a qualidade da água, após deliberação do Conselho Estadual de Meio Ambiente ou de órgão colegiado estadual equivalente. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 15. A partir da data da publicação desta Lei e até o término do prazo de adesão ao PRA de que trata o § 2º do art. 59, é autorizada a continuidade das atividades desenvolvidas nas áreas de que trata o caput , as quais deverão ser informadas no CAR para fins de monitoramento, sendo exigida a adoção de medidas de conservação do solo e da água. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 16. As Áreas de Preservação Permanente localizadas em imóveis inseridos nos limites de Unidades de Conservação de Proteção Integral criadas por ato do poder público até a data de publicação desta Lei não são passíveis de ter quaisquer atividades consideradas como consolidadas nos termos do caput e dos §§ 1º a 15, ressalvado o que dispuser o Plano de Manejo elaborado e aprovado de acordo com as orientações emitidas pelo órgão competente do Sisnama, nos termos do que dispuser regulamento do Chefe do Poder Executivo, devendo o proprietário, possuidor rural ou ocupante a qualquer título adotar todas as medidas indicadas. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 17. Em bacias hidrográficas consideradas críticas, conforme previsto em legislação específica, o Chefe do Poder Executivo poderá, em ato próprio, estabelecer metas e diretrizes de recuperação ou conservação da vegetação nativa superiores às definidas no caput e nos §§ 1º a 7º , como projeto prioritário, ouvidos o Comitê de Bacia Hidrográfica e o Conselho Estadual de Meio Ambiente. (Incluído pela Lei nº 12.727, de 2012).\n\n§ 18. (VETADO). (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2061-A.%20Nas%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%2C%20%C3%A9%20autorizada%2C%20exclusivamente%2C%20a%20continuidade%20das%20atividades%20agrossilvipastoris%2C%20de%20ecoturismo%20e%20de%20turismo%20rural%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "61",
+      "next": "61-B"
+    },
+    "61-B": {
+      "numero": "61-B",
+      "texto": "Art. 61-B. Aos proprietários e possuidores dos imóveis rurais que, em 22 de julho de 2008, detinham até 10 (dez) módulos fiscais e desenvolviam atividades agrossilvipastoris nas áreas consolidadas em Áreas de Preservação Permanente é garantido que a exigência de recomposição, nos termos desta Lei, somadas todas as Áreas de Preservação Permanente do imóvel, não ultrapassará: (Incluído pela Lei nº 12.727, de 2012). (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)\n\nI - 10% (dez por cento) da área total do imóvel, para imóveis rurais com área de até 2 (dois) módulos fiscais; (Incluído pela Lei nº 12.727, de 2012).\n\nII - 20% (vinte por cento) da área total do imóvel, para imóveis rurais com área superior a 2 (dois) e de até 4 (quatro) módulos fiscais; (Incluído pela Lei nº 12.727, de 2012).\n\nIII - (VETADO). (Incluído pela Lei nº 12.727, de 2012).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2061-B.%20Aos%20propriet%C3%A1rios%20e%20possuidores%20dos%20im%C3%B3veis%20rurais%20que%2C%20em%2022%20de%20julho%20de%202008%2C%20detinham%20at%C3%A9%2010%20%28dez%29%20m%C3%B3dulos%20fiscais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "61-A",
+      "next": "61-C"
+    },
+    "61-C": {
+      "numero": "61-C",
+      "texto": "Art. 61-C. Para os assentamentos do Programa de Reforma Agrária, a recomposição de áreas consolidadas em Áreas de Preservação Permanente ao longo ou no entorno de cursos d'água, lagos e lagoas naturais observará as exigências estabelecidas no art. 61-A, observados os limites de cada área demarcada individualmente, objeto de contrato de concessão de uso, até a titulação por parte do Instituto Nacional de Colonização e Reforma Agrária - Incra. (Incluído pela Lei nº 12.727, de 2012). (Vide ADIN Nº 4.937) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2061-C.%20Para%20os%20assentamentos%20do%20Programa%20de%20Reforma%20Agr%C3%A1ria%2C%20a%20recomposi%C3%A7%C3%A3o%20de%20%C3%A1reas%20consolidadas%20em%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20ao%20longo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "61-B",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Para os reservatórios artificiais de água destinados a geração de energia ou abastecimento público que foram registrados ou tiveram seus contratos de concessão ou autorização assinados anteriormente à Medida Provisória nº 2.166-67, de 24 de agosto de 2001, a faixa da Área de Preservação Permanente será a distância entre o nível máximo operativo normal e a cota máxima maximorum . (Vide ADIN Nº 4.903)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2062.%20Para%20os%20reservat%C3%B3rios%20artificiais%20de%20%C3%A1gua%20destinados%20a%20gera%C3%A7%C3%A3o%20de%20energia%20ou%20abastecimento%20p%C3%BAblico%20que%20foram%20registrados%20ou%20tiveram%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "61-C",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Nas áreas rurais consolidadas nos locais de que tratam os incisos V, VIII, IX e X do art. 4º , será admitida a manutenção de atividades florestais, culturas de espécies lenhosas, perenes ou de ciclo longo, bem como da infraestrutura física associada ao desenvolvimento de atividades agrossilvipastoris, vedada a conversão de novas áreas para uso alternativo do solo. (Vide ADC Nº 42) (Vide ADIN Nº 4.937) (Vide ADIN Nº 4.902)\n\n§ 1º O pastoreio extensivo nos locais referidos no caput deverá ficar restrito às áreas de vegetação campestre natural ou já convertidas para vegetação campestre, admitindo-se o consórcio com vegetação lenhosa perene ou de ciclo longo.\n\n§ 2º A manutenção das culturas e da infraestrutura de que trata o caput é condicionada à adoção de práticas conservacionistas do solo e da água indicadas pelos órgãos de assistência técnica rural.\n\n§ 3º Admite-se, nas Áreas de Preservação Permanente, previstas no inciso VIII do art. 4º , dos imóveis rurais de até 4 (quatro) módulos fiscais, no âmbito do PRA, a partir de boas práticas agronômicas e de conservação do solo e da água, mediante deliberação dos Conselhos Estaduais de Meio Ambiente ou órgãos colegiados estaduais equivalentes, a consolidação de outras atividades agrossilvipastoris, ressalvadas as situações de risco de vida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2063.%20Nas%20%C3%A1reas%20rurais%20consolidadas%20nos%20locais%20de%20que%20tratam%20os%20incisos%20V%2C%20VIII%2C%20IX%20e%20X%20do%20art.%204%C2%BA%20%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Na Reurb-S dos núcleos urbanos informais que ocupam Áreas de Preservação Permanente, a regularização fundiária será admitida por meio da aprovação do projeto de regularização fundiária, na forma da lei específica de regularização fundiária urbana. (Redação dada pela Lei nº 13.465, de 2017)\n\n§ 1º O projeto de regularização fundiária de interesse social deverá incluir estudo técnico que demonstre a melhoria das condições ambientais em relação à situação anterior com a adoção das medidas nele preconizadas.\n\n§ 2º O estudo técnico mencionado no § 1º deverá conter, no mínimo, os seguintes elementos:\n\nI - caracterização da situação ambiental da área a ser regularizada;\n\nII - especificação dos sistemas de saneamento básico;\n\nIII - proposição de intervenções para a prevenção e o controle de riscos geotécnicos e de inundações;\n\nIV - recuperação de áreas degradadas e daquelas não passíveis de regularização;\n\nV - comprovação da melhoria das condições de sustentabilidade urbano-ambiental, considerados o uso adequado dos recursos hídricos, a não ocupação das áreas de risco e a proteção das unidades de conservação, quando for o caso;\n\nVI - comprovação da melhoria da habitabilidade dos moradores propiciada pela regularização proposta; e\n\nVII - garantia de acesso público às praias e aos corpos d'água.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2064.%20Na%20Reurb-S%20dos%20n%C3%BAcleos%20urbanos%20informais%20que%20ocupam%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%2C%20a%20regulariza%C3%A7%C3%A3o%20fundi%C3%A1ria%20ser%C3%A1%20admitida%20por%20meio%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Na Reurb-E dos núcleos urbanos informais que ocupam Áreas de Preservação Permanente não identificadas como áreas de risco, a regularização fundiária será admitida por meio da aprovação do projeto de regularização fundiária, na forma da lei específica de regularização fundiária urbana. (Redação dada pela Lei nº 13.465, de 2017)\n\n§ 1º O processo de regularização fundiária de interesse específico deverá incluir estudo técnico que demonstre a melhoria das condições ambientais em relação à situação anterior e ser instruído com os seguintes elementos: (Redação dada pela Lei nº 13.465, de 2017)\n\nI - a caracterização físico-ambiental, social, cultural e econômica da área;\n\nII - a identificação dos recursos ambientais, dos passivos e fragilidades ambientais e das restrições e potencialidades da área;\n\nIII - a especificação e a avaliação dos sistemas de infraestrutura urbana e de saneamento básico implantados, outros serviços e equipamentos públicos;\n\nIV - a identificação das unidades de conservação e das áreas de proteção de mananciais na área de influência direta da ocupação, sejam elas águas superficiais ou subterrâneas;\n\nV - a especificação da ocupação consolidada existente na área;\n\nVI - a identificação das áreas consideradas de risco de inundações e de movimentos de massa rochosa, tais como deslizamento, queda e rolamento de blocos, corrida de lama e outras definidas como de risco geotécnico;\n\nVII - a indicação das faixas ou áreas em que devem ser resguardadas as características típicas da Área de Preservação Permanente com a devida proposta de recuperação de áreas degradadas e daquelas não passíveis de regularização;\n\nVIII - a avaliação dos riscos ambientais;\n\nIX - a comprovação da melhoria das condições de sustentabilidade urbano-ambiental e de habitabilidade dos moradores a partir da regularização; e\n\nX - a demonstração de garantia de acesso livre e gratuito pela população às praias e aos corpos d’água, quando couber.\n\n§ 2º Para fins da regularização ambiental prevista no caput , ao longo dos rios ou de qualquer curso d’água, será mantida faixa não edificável com largura mínima de 15 (quinze) metros de cada lado.\n\n§ 3º Em áreas urbanas tombadas como patrimônio histórico e cultural, a faixa não edificável de que trata o § 2º poderá ser redefinida de maneira a atender aos parâmetros do ato do tombamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2065.%20Na%20Reurb-E%20dos%20n%C3%BAcleos%20urbanos%20informais%20que%20ocupam%20%C3%81reas%20de%20Preserva%C3%A7%C3%A3o%20Permanente%20n%C3%A3o%20identificadas%20como%20%C3%A1reas%20de%20risco%2C%20a%20regulariza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. O proprietário ou possuidor de imóvel rural que detinha, em 22 de julho de 2008, área de Reserva Legal em extensão inferior ao estabelecido no art. 12, poderá regularizar sua situação, independentemente da adesão ao PRA, adotando as seguintes alternativas, isolada ou conjuntamente:\n\nI - recompor a Reserva Legal;\n\nII - permitir a regeneração natural da vegetação na área de Reserva Legal;\n\nIII - compensar a Reserva Legal.\n\n§ 1º A obrigação prevista no caput tem natureza real e é transmitida ao sucessor no caso de transferência de domínio ou posse do imóvel rural.\n\n§ 2º A recomposição de que trata o inciso I do caput deverá atender os critérios estipulados pelo órgão competente do Sisnama e ser concluída em até 20 (vinte) anos, abrangendo, a cada 2 (dois) anos, no mínimo 1/10 (um décimo) da área total necessária à sua complementação.\n\n§ 3º A recomposição de que trata o inciso I do caput poderá ser realizada mediante o plantio intercalado de espécies nativas com exóticas ou frutíferas, em sistema agroflorestal, observados os seguintes parâmetros:(Incluído pela Lei nº 12.727, de 2012). (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\nI - o plantio de espécies exóticas deverá ser combinado com as espécies nativas de ocorrência regional;\n\nII - a área recomposta com espécies exóticas não poderá exceder a 50% (cinquenta por cento) da área total a ser recuperada.\n\n§ 4º Os proprietários ou possuidores do imóvel que optarem por recompor a Reserva Legal na forma dos §§ 2º e 3º terão direito à sua exploração econômica, nos termos desta Lei.\n\n§ 5º A compensação de que trata o inciso III do caput deverá ser precedida pela inscrição da propriedade no CAR e poderá ser feita mediante: (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\nI - aquisição de Cota de Reserva Ambiental - CRA;\n\nII - arrendamento de área sob regime de servidão ambiental ou Reserva Legal;\n\nIII - doação ao poder público de área localizada no interior de Unidade de Conservação de domínio público pendente de regularização fundiária;\n\nIV - cadastramento de outra área equivalente e excedente à Reserva Legal, em imóvel de mesma titularidade ou adquirida em imóvel de terceiro, com vegetação nativa estabelecida, em regeneração ou recomposição, desde que localizada no mesmo bioma.\n\n§ 6º As áreas a serem utilizadas para compensação na forma do § 5º deverão: (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\nI - ser equivalentes em extensão à área da Reserva Legal a ser compensada;\n\nII - estar localizadas no mesmo bioma da área de Reserva Legal a ser compensada;\n\nIII - se fora do Estado, estar localizadas em áreas identificadas como prioritárias pela União ou pelos Estados.\n\n§ 7º A definição de áreas prioritárias de que trata o § 6º buscará favorecer, entre outros, a recuperação de bacias hidrográficas excessivamente desmatadas, a criação de corredores ecológicos, a conservação de grandes áreas protegidas e a conservação ou recuperação de ecossistemas ou espécies ameaçados.\n\n§ 8º Quando se tratar de imóveis públicos, a compensação de que trata o inciso III do caput poderá ser feita mediante concessão de direito real de uso ou doação, por parte da pessoa jurídica de direito público proprietária de imóvel rural que não detém Reserva Legal em extensão suficiente, ao órgão público responsável pela Unidade de Conservação de área localizada no interior de Unidade de Conservação de domínio público, a ser criada ou pendente de regularização fundiária.\n\n§ 9º As medidas de compensação previstas neste artigo não poderão ser utilizadas como forma de viabilizar a conversão de novas áreas para uso alternativo do solo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2066.%20O%20propriet%C3%A1rio%20ou%20possuidor%20de%20im%C3%B3vel%20rural%20que%20detinha%2C%20em%2022%20de%20julho%20de%202008%2C%20%C3%A1rea%20de%20Reserva%20Legal%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Nos imóveis rurais que detinham, em 22 de julho de 2008, área de até 4 (quatro) módulos fiscais e que possuam remanescente de vegetação nativa em percentuais inferiores ao previsto no art. 12, a Reserva Legal será constituída com a área ocupada com a vegetação nativa existente em 22 de julho de 2008, vedadas novas conversões para uso alternativo do solo. (Vide ADC Nº 42) (Vide ADIN Nº 4.901) (Vide ADIN Nº 4.902)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2067.%20Nos%20im%C3%B3veis%20rurais%20que%20detinham%2C%20em%2022%20de%20julho%20de%202008%2C%20%C3%A1rea%20de%20at%C3%A9%204%20%28quatro%29%20m%C3%B3dulos%20fiscais%20e%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Os proprietários ou possuidores de imóveis rurais que realizaram supressão de vegetação nativa respeitando os percentuais de Reserva Legal previstos pela legislação em vigor à época em que ocorreu a supressão são dispensados de promover a recomposição, compensação ou regeneração para os percentuais exigidos nesta Lei. (Vide ADC Nº 42) (Vide ADIN Nº 4.901)\n\n§ 1º Os proprietários ou possuidores de imóveis rurais poderão provar essas situações consolidadas por documentos tais como a descrição de fatos históricos de ocupação da região, registros de comercialização, dados agropecuários da atividade, contratos e documentos bancários relativos à produção, e por todos os outros meios de prova em direito admitidos.\n\n§ 2º Os proprietários ou possuidores de imóveis rurais, na Amazônia Legal, e seus herdeiros necessários que possuam índice de Reserva Legal maior que 50% (cinquenta por cento) de cobertura florestal e não realizaram a supressão da vegetação nos percentuais previstos pela legislação em vigor à época poderão utilizar a área excedente de Reserva Legal também para fins de constituição de servidão ambiental, Cota de Reserva Ambiental - CRA e outros instrumentos congêneres previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2068.%20Os%20propriet%C3%A1rios%20ou%20possuidores%20de%20im%C3%B3veis%20rurais%20que%20realizaram%20supress%C3%A3o%20de%20vegeta%C3%A7%C3%A3o%20nativa%20respeitando%20os%20percentuais%20de%20Reserva%20Legal%20previstos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. São obrigados a registro no órgão federal competente do Sisnama os estabelecimentos comerciais responsáveis pela comercialização de motosserras, bem como aqueles que as adquirirem.\n\n§ 1º A licença para o porte e uso de motosserras será renovada a cada 2 (dois) anos.\n\n§ 2º Os fabricantes de motosserras são obrigados a imprimir, em local visível do equipamento, numeração cuja sequência será encaminhada ao órgão federal competente do Sisnama e constará nas correspondentes notas fiscais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2069.%20S%C3%A3o%20obrigados%20a%20registro%20no%20%C3%B3rg%C3%A3o%20federal%20competente%20do%20Sisnama%20os%20estabelecimentos%20comerciais%20respons%C3%A1veis%20pela%20comercializa%C3%A7%C3%A3o%20de%20motosserras%2C%20bem%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Além do disposto nesta Lei e sem prejuízo da criação de unidades de conservação da natureza, na forma da Lei nº 9.985, de 18 de julho de 2000, e de outras ações cabíveis voltadas à proteção das florestas e outras formas de vegetação, o poder público federal, estadual ou municipal poderá:\n\nI - proibir ou limitar o corte das espécies da flora raras, endêmicas, em perigo ou ameaçadas de extinção, bem como das espécies necessárias à subsistência das populações tradicionais, delimitando as áreas compreendidas no ato, fazendo depender de autorização prévia, nessas áreas, o corte de outras espécies;\n\nII - declarar qualquer árvore imune de corte, por motivo de sua localização, raridade, beleza ou condição de porta-sementes;\n\nIII - estabelecer exigências administrativas sobre o registro e outras formas de controle de pessoas físicas ou jurídicas que se dedicam à extração, indústria ou comércio de produtos ou subprodutos florestais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2070.%20Al%C3%A9m%20do%20disposto%20nesta%20Lei%20e%20sem%20preju%C3%ADzo%20da%20cria%C3%A7%C3%A3o%20de%20unidades%20de%20conserva%C3%A7%C3%A3o%20da%20natureza%2C%20na%20forma%20da%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. A União, em conjunto com os Estados, o Distrito Federal e os Municípios, realizará o Inventário Florestal Nacional, para subsidiar a análise da existência e qualidade das florestas do País, em imóveis privados e terras públicas.\n\nParágrafo único. A União estabelecerá critérios e mecanismos para uniformizar a coleta, a manutenção e a atualização das informações do Inventário Florestal Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2071.%20A%20Uni%C3%A3o%2C%20em%20conjunto%20com%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20realizar%C3%A1%20o%20Invent%C3%A1rio%20Florestal%20Nacional%2C%20para%20subsidiar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Para efeitos desta Lei, a atividade de silvicultura, quando realizada em área apta ao uso alternativo do solo, é equiparada à atividade agrícola, nos termos da Lei nº 8.171, de 17 de janeiro de 1991, que “dispõe sobre a política agrícola”.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2072.%20Para%20efeitos%20desta%20Lei%2C%20a%20atividade%20de%20silvicultura%2C%20quando%20realizada%20em%20%C3%A1rea%20apta%20ao%20uso%20alternativo%20do%20solo%2C%20%C3%A9%20equiparada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Os órgãos centrais e executores do Sisnama criarão e implementarão, com a participação dos órgãos estaduais, indicadores de sustentabilidade, a serem publicados semestralmente, com vistas em aferir a evolução dos componentes do sistema abrangidos por disposições desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2073.%20Os%20%C3%B3rg%C3%A3os%20centrais%20e%20executores%20do%20Sisnama%20criar%C3%A3o%20e%20implementar%C3%A3o%2C%20com%20a%20participa%C3%A7%C3%A3o%20dos%20%C3%B3rg%C3%A3os%20estaduais%2C%20indicadores%20de%20sustentabilidade%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. A Câmara de Comércio Exterior - CAMEX, de que trata o art. 20-B da Lei nº 9.649, de 27 de maio de 1998, com a redação dada pela Medida Provisória nº 2.216-37, de 31 de agosto de 2001, é autorizada a adotar medidas de restrição às importações de bens de origem agropecuária ou florestal produzidos em países que não observem normas e padrões de proteção do meio ambiente compatíveis com as estabelecidas pela legislação brasileira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2074.%20A%20C%C3%A2mara%20de%20Com%C3%A9rcio%20Exterior%20-%20CAMEX%2C%20de%20que%20trata%20o%20art.%2020-B%20da%20Lei%20n%C2%BA%209.649%2C%20de%2027%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Os PRAs instituídos pela União, Estados e Distrito Federal deverão incluir mecanismo que permita o acompanhamento de sua implementação, considerando os objetivos e metas nacionais para florestas, especialmente a implementação dos instrumentos previstos nesta Lei, a adesão cadastral dos proprietários e possuidores de imóvel rural, a evolução da regularização das propriedades e posses rurais, o grau de regularidade do uso de matéria-prima florestal e o controle e prevenção de incêndios florestais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2075.%20Os%20PRAs%20institu%C3%ADdos%20pela%20Uni%C3%A3o%2C%20Estados%20e%20Distrito%20Federal%20dever%C3%A3o%20incluir%20mecanismo%20que%20permita%20o%20acompanhamento%20de%20sua%20implementa%C3%A7%C3%A3o%2C%20considerando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2076.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2077.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. O art. 9º-A da Lei nº 6.938, de 31 de agosto de 1981, passa a vigorar com a seguinte redação:\n\n“Art. 9º-A. O proprietário ou possuidor de imóvel, pessoa natural ou jurídica, pode, por instrumento público ou particular ou por termo administrativo firmado perante órgão integrante do Sisnama, limitar o uso de toda a sua propriedade ou de parte dela para preservar, conservar ou recuperar os recursos ambientais existentes, instituindo servidão ambiental.\n\n§ 1º O instrumento ou termo de instituição da servidão ambiental deve incluir, no mínimo, os seguintes itens:\n\nI - memorial descritivo da área da servidão ambiental, contendo pelo menos um ponto de amarração georreferenciado;\n\nII - objeto da servidão ambiental;\n\nIII - direitos e deveres do proprietário ou possuidor instituidor;\n\nIV - prazo durante o qual a área permanecerá como servidão ambiental.\n\n§ 2º A servidão ambiental não se aplica às Áreas de Preservação Permanente e à Reserva Legal mínima exigida.\n\n§ 3º A restrição ao uso ou à exploração da vegetação da área sob servidão ambiental deve ser, no mínimo, a mesma estabelecida para a Reserva Legal.\n\n§ 4º Devem ser objeto de averbação na matrícula do imóvel no registro de imóveis competente:\n\nI - o instrumento ou termo de instituição da servidão ambiental;\n\nII - o contrato de alienação, cessão ou transferência da servidão ambiental.\n\n§ 5º Na hipótese de compensação de Reserva Legal, a servidão ambiental deve ser averbada na matrícula de todos os imóveis envolvidos.\n\n§ 6º É vedada, durante o prazo de vigência da servidão ambiental, a alteração da destinação da área, nos casos de transmissão do imóvel a qualquer título, de desmembramento ou de retificação dos limites do imóvel.\n\n§ 7º As áreas que tenham sido instituídas na forma de servidão florestal, nos termos do art. 44-A da Lei nº 4.771, de 15 de setembro de 1965, passam a ser consideradas, pelo efeito desta Lei, como de servidão ambiental.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2078.%20O%20art.%209%C2%BA-A%20da%20Lei%20n%C2%BA%206.938%2C%20de%2031%20de%20agosto%20de%201981%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "78-A"
+    },
+    "78-A": {
+      "numero": "78-A",
+      "texto": "Art. 78-A. Após 31 de dezembro de 2017, as instituições financeiras só concederão crédito agrícola, em qualquer de suas modalidades, para proprietários de imóveis rurais que estejam inscritos no CAR. (Redação dada pela Lei nº 13.295, de 2016) (Vide ADC Nº 42) (Vide ADIN Nº 4.902)\n\nParágrafo único. O prazo de que trata este artigo será prorrogado em observância aos novos prazos de que trata o § 3º do art. 29. (Incluído pela Lei nº 13.295, de 2016)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2078-A.%20Ap%C3%B3s%2031%20de%20dezembro%20de%202017%2C%20as%20institui%C3%A7%C3%B5es%20financeiras%20s%C3%B3%20conceder%C3%A3o%20cr%C3%A9dito%20agr%C3%ADcola%2C%20em%20qualquer%20de%20suas%20modalidades%2C%20para%20propriet%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "78-B"
+    },
+    "78-B": {
+      "numero": "78-B",
+      "texto": "Art. 78-B. (VETADO). (Incluído pela Lei nº 14.595, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2078-B.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.595%2C%20de%202023%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78-A",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. A Lei nº 6.938, de 31 de agosto de 1981, passa a vigorar acrescida dos seguintes arts. 9º-B e 9º-C:\n\n“Art. 9º-B. A servidão ambiental poderá ser onerosa ou gratuita, temporária ou perpétua.\n\n§ 1º O prazo mínimo da servidão ambiental temporária é de 15 (quinze) anos.\n\n§ 2º A servidão ambiental perpétua equivale, para fins creditícios, tributários e de acesso aos recursos de fundos públicos, à Reserva Particular do Patrimônio Natural - RPPN, definida no art. 21 da Lei nº 9.985, de 18 de julho de 2000.\n\n§ 3º O detentor da servidão ambiental poderá aliená-la, cedê-la ou transferi-la, total ou parcialmente, por prazo determinado ou em caráter definitivo, em favor de outro proprietário ou de entidade pública ou privada que tenha a conservação ambiental como fim social.”\n\n“Art. 9º-C. O contrato de alienação, cessão ou transferência da servidão ambiental deve ser averbado na matrícula do imóvel.\n\n§ 1º O contrato referido no caput deve conter, no mínimo, os seguintes itens:\n\nI - a delimitação da área submetida a preservação, conservação ou recuperação ambiental;\n\nII - o objeto da servidão ambiental;\n\nIII - os direitos e deveres do proprietário instituidor e dos futuros adquirentes ou sucessores;\n\nIV - os direitos e deveres do detentor da servidão ambiental;\n\nV - os benefícios de ordem econômica do instituidor e do detentor da servidão ambiental;\n\nVI - a previsão legal para garantir o seu cumprimento, inclusive medidas judiciais necessárias, em caso de ser descumprido.\n\n§ 2º São deveres do proprietário do imóvel serviente, entre outras obrigações estipuladas no contrato:\n\nI - manter a área sob servidão ambiental;\n\nII - prestar contas ao detentor da servidão ambiental sobre as condições dos recursos naturais ou artificiais;\n\nIII - permitir a inspeção e a fiscalização da área pelo detentor da servidão ambiental;\n\nIV - defender a posse da área serviente, por todos os meios em direito admitidos.\n\n§ 3º São deveres do detentor da servidão ambiental, entre outras obrigações estipuladas no contrato:\n\nI - documentar as características ambientais da propriedade;\n\nII - monitorar periodicamente a propriedade para verificar se a servidão ambiental está sendo mantida;\n\nIII - prestar informações necessárias a quaisquer interessados na aquisição ou aos sucessores da propriedade;\n\nIV - manter relatórios e arquivos atualizados com as atividades da área objeto da servidão;\n\nV - defender judicialmente a servidão ambiental.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2079.%20A%20Lei%20n%C2%BA%206.938%2C%20de%2031%20de%20agosto%20de%201981%2C%20passa%20a%20vigorar%20acrescida%20dos%20seguintes%20arts.%209%C2%BA-B%20e%209%C2%BA-C%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78-B",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. A alínea d do inciso II do § 1º do art. 10 da Lei nº 9.393, de 19 de dezembro de 1996, passa a vigorar com a seguinte redação:\n\n“Art. 10. .....................................................................\n\n§ 1º ...................................... .............\n\n.............................................................................................\n\nII - ................................................... ................\n\n.............................................................................................\n\nd) sob regime de servidão ambiental;\n\n...................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2080.%20A%20al%C3%ADnea%20d%20do%20inciso%20II%20do%20%C2%A7%201%C2%BA%20do%20art.%2010%20da%20Lei%20n%C2%BA%209.393%2C%20de%2019%20de%20dezembro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. O caput do art. 35 da Lei nº 11.428, de 22 de dezembro de 2006, passa a vigorar com a seguinte redação:\n\n“Art. 35. A conservação, em imóvel rural ou urbano, da vegetação primária ou da vegetação secundária em qualquer estágio de regeneração do Bioma Mata Atlântica cumpre função social e é de interesse público, podendo, a critério do proprietário, as áreas sujeitas à restrição de que trata esta Lei ser computadas para efeito da Reserva Legal e seu excedente utilizado para fins de compensação ambiental ou instituição de Cota de Reserva Ambiental - CRA.\n\n...................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2081.%20O%20caput%20do%20art.%2035%20da%20Lei%20n%C2%BA%2011.428%2C%20de%2022%20de%20dezembro%20de%202006%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. São a União, os Estados, o Distrito Federal e os Municípios autorizados a instituir, adaptar ou reformular, no prazo de 6 (seis) meses, no âmbito do Sisnama, instituições florestais ou afins, devidamente aparelhadas para assegurar a plena consecução desta Lei.\n\nParágrafo único. As instituições referidas no caput poderão credenciar, mediante edital de seleção pública, profissionais devidamente habilitados para apoiar a regularização ambiental das propriedades previstas no inciso V do art. 3º , nos termos de regulamento baixado por ato do Chefe do Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2082.%20S%C3%A3o%20a%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20autorizados%20a%20instituir%2C%20adaptar%20ou%20reformular%2C%20no%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Revogam-se as Leis nºs 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e suas alterações posteriores, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2083.%20Revogam-se%20as%20Leis%20n%C2%BAs%204.771%2C%20de%2015%20de%20setembro%20de%201965%2C%20e%207.754%2C%20de%2014%20de%20abril%20de%201989%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 25 de maio de 2012; 191º da Independência e 124º da República.\n\nDILMA ROUSSEFF Mendes Ribeiro Filho Márcio Pereira Zimmermann Miriam Belchior Marco Antonio Raupp Izabella Mônica Vieira Teixeira Gilberto José Spier Vargas Aguinaldo Ribeiro Luís Inácio Lucena Adams\n\nEste texto não substitui o publicado no DOU de 28.5.2012\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm#:~:text=Art.%2084.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": null
+    }
+  }
+}

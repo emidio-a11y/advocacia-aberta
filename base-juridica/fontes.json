@@ -246,6 +246,62 @@
       ],
       "observacao": "Não é fonte jurídica. Os tokens são derivados local e deterministicamente dos enunciados publicados."
     },
+    "legislacao_codificadas": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "cag",
+          "codigo": "CAG",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm",
+          "arquivo_bruto": "cag.html",
+          "destino": "lei_cag.json"
+        },
+        {
+          "id": "cba",
+          "codigo": "CBA",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7565compilado.htm",
+          "arquivo_bruto": "cba.html",
+          "destino": "lei_cba.json"
+        },
+        {
+          "id": "cbt",
+          "codigo": "CBT",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm",
+          "arquivo_bruto": "cbt.html",
+          "destino": "lei_cbt.json"
+        },
+        {
+          "id": "cflo",
+          "codigo": "CFLO",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm",
+          "arquivo_bruto": "cflo.html",
+          "destino": "lei_cflo.json"
+        },
+        {
+          "id": "cmin",
+          "codigo": "CMIN",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm",
+          "arquivo_bruto": "cmin.html",
+          "destino": "lei_cmin.json"
+        },
+        {
+          "id": "cpm",
+          "codigo": "CPM",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001compilado.htm",
+          "arquivo_bruto": "cpm.html",
+          "destino": "lei_cpm.json"
+        },
+        {
+          "id": "cppm",
+          "codigo": "CPPM",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002compilado.htm",
+          "arquivo_bruto": "cppm.html",
+          "destino": "lei_cppm.json"
+        }
+      ]
+    },
     "legislacao_esparsas_trabalhista": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

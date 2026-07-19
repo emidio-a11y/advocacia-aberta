@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 63 | 10.104 registros | 63 diplomas |
+| Legislação | 70 | 12.057 registros | 70 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 70 | — | 24.186.032 bytes, cerca de 24 MB |
+| Total em JSON | 77 | — | 26.418.458 bytes, cerca de 26 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 10.104 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 12.057 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -63,7 +63,9 @@ para páginas compiladas do Planalto.
 | `LLC` | Lei de Licitações e Contratos Administrativos — Lei 14.133/2021 | 2026-07-19 | 196 | sem índice curado; busca em texto integral | coerente |
 | `LMP` | Lei Maria da Penha — Lei 11.340/2006 | 2026-07-19 | 57 | sem índice curado; busca em texto integral | coerente |
 
-A soma dos metadados e a contagem real são 8.172. O snapshot de 2026-07-19 foi o
+A tabela acima cobre o núcleo e o piloto (19 diplomas, 8.173 registros); os
+demais diplomas da expansão estão resumidos por grupo mais abaixo, e o
+inventário completo sai do auditor. O snapshot de 2026-07-19 foi o
 primeiro produzido integralmente pelo pipeline reproduzível: o ganho de 196
 registros nos 11 diplomas originais vem principalmente de artigos revogados
 retidos que o processo legado omitia, além de dispositivos novos como o art.
@@ -108,25 +110,33 @@ protocolo comum. O inventário por diploma sai de
 |---|---:|---:|---|
 | `estatutos` | 17 | 1.391 | 2026-07-19 |
 | `esparsas_trabalhista` | 27 | 540 | 2026-07-19 |
+| `codificadas` | 7 | 1.953 | 2026-07-19 |
 
-Grupos pendentes de materialização: codificadas (8), decretos (1) e as onze
-fatias de esparsas por macro-área restantes (184 normas). Observações das
+Grupos pendentes de materialização: decretos (1) e as onze fatias de esparsas
+por macro-área restantes (184 normas). O Código Comercial de 1850 foi movido
+para o grupo `pendentes_especiais` sem materialização: a página compilada
+mistura duas numerações (o corpo do Código, arts. 1 a 913, e o Título Único da
+administração da justiça comercial, com arts. 1 a 30 próprios), e a captura por
+número único produziria registros ambíguos. Observações das
 fatias promovidas: a página oficial confirma o nome atual "Estatuto da Pessoa
 Idosa" (Lei 14.423/2022), mantida a sigla `EI`; a linha da planilha rotulada
 "Estatuto do Estrangeiro" corresponde à Lei de Migração (`LMIG`); os arts. 4º
 e 39 da Lei 6.001, sete artigos da Lei 6.880 e os rótulos de abertura de seis
 leis trabalhistas (3.207, 4.950-A, 5.584, 6.321, 6.533 e 6.615) só existem na
 fonte com rótulo tipográfico defeituoso ("Art 1º"/"Art . 1º") e passaram a ser
-capturados.
+capturados. Nas codificadas, o CBA, o CBT e o CPPM apresentam revogações em
+faixa numa linha única da página oficial (ex.: "Art. 77 a 85. Revogado"),
+registradas no primeiro número da faixa, e a página do CPM tem árvore HTML com
+profundidade ~1.700 por tags nunca fechadas, tolerada pelo parser.
 
 ### Cobertura real do motor legislativo
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 63 diplomas: núcleo (11), piloto (8), estatutos (17) e trabalhista (27); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 63 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 63 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 63 códigos do registro central |
+| Arquivos disponíveis | 70 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27) e codificadas (7); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 70 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 70 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 70 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -276,7 +286,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 40 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 43 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

@@ -97,12 +97,13 @@
    "nome": "Código Comercial",
    "lei": "Lei 556/1850",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim556compilado.htm",
-   "grupo": "codificadas",
+   "grupo": "pendentes_especiais",
    "origens": [
     "Codificadas/: Código Comercial"
    ],
    "notas": [
-    "parcialmente revogado: subsiste essencialmente a Segunda Parte (comércio marítimo); conferir vigência por dispositivo"
+    "parcialmente revogado: subsiste essencialmente a Segunda Parte (comércio marítimo); conferir vigência por dispositivo",
+    "pendente de tratamento específico: a página compilada mistura duas numerações (corpo do Código, arts. 1 a 913, e o Título Único da administração da justiça comercial, com arts. 1 a 30 próprios); a captura por número único produziria registros ambíguos"
    ]
   },
   {

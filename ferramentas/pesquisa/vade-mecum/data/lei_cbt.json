@@ -1,0 +1,1679 @@
+{
+  "_meta": {
+    "codigo": "CBT",
+    "nome": "Código Brasileiro de Telecomunicações",
+    "lei": "Lei 4.117/1962",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm",
+    "total_artigos": 104,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Os serviços de telecomunicações em todo o território do País, inclusive águas territoriais e espaço aéreo, assim como nos lugares em que princípios e convenções internacionais lhes reconheçam extraterritorialidade obedecerão aos preceitos da presente lei e aos regulamentos baixados para a sua execução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%201%C2%BA%20Os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20em%20todo%20o%20territ%C3%B3rio%20do%20Pa%C3%ADs%2C%20inclusive%20%C3%A1guas%20territoriais%20e%20espa%C3%A7o%20a%C3%A9reo%2C%20assim%20como%20nos%20lugares",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os atos internacionais de natureza normativa, qualquer que seja a denominação adotada, serão considerados tratados ou convenções e só entrarão em vigor a partir de sua aprovação pelo Congresso Nacional.\n\nParágrafo único. O Poder Executivo enviará ao Congresso Nacional no prazo de 180 (cento e oitenta) dias, a contar da data da assinatura, os atos normativos sôbre telecomunicações, anexando-lhes os respectivos regulamentos, devidamente traduzidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%202%C2%BA%20Os%20atos%20internacionais%20de%20natureza%20normativa%2C%20qualquer%20que%20seja%20a%20denomina%C3%A7%C3%A3o%20adotada%2C%20ser%C3%A3o%20considerados%20tratados%20ou%20conven%C3%A7%C3%B5es%20e%20s%C3%B3%20entrar%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Os atos internacionais de natureza administrativa entrarão em vigor na data estabelecida em sua publicação depois de aprovados pelo Presidente da República (art. 29, al) (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%203%C2%BA%20Os%20atos%20internacionais%20de%20natureza%20administrativa%20entrar%C3%A3o%20em%20vigor%20na%20data%20estabelecida%20em%20sua%20publica%C3%A7%C3%A3o%20depois%20de%20aprovados%20pelo%20Presidente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Para os efeitos desta lei, constituem serviços de telecomunicações a transmissão, emissão ou recepção de símbolos, caracteres, sinais, escritos, imagens, sons ou informações de qualquer natureza, por fio, rádio, eletricidade, meios óticos ou qualquer outro processo eletromagnético.\n\nTelegrafia é o processo de telecomunicação destinado à transmissão de escritos, pelo uso de um código de sinais.\n\nTelefonia é o processo de telecomunicação destinado à transmissão da palavra falada ou de sons.\n\n§ 1º Os têrmos não definidos nesta lei têm o significado estabelecido nos atos internacionais aprovados pelo Congresso Nacional.\n\n§ 2º Os contratos de concessão, as autorizações e permissões serão interpretados e executados de acordo com as definições vigentes na época em que os mesmos tenham sido celebrados ou expedidos. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%204%C2%BA%20Para%20os%20efeitos%20desta%20lei%2C%20constituem%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20a%20transmiss%C3%A3o%2C%20emiss%C3%A3o%20ou%20recep%C3%A7%C3%A3o%20de%20s%C3%ADmbolos%2C%20caracteres%2C%20sinais%2C%20escritos%2C%20imagens%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Quanto ao seu âmbito, os serviços de telecomunicações se classificam em:\n\na) serviço interior, estabelecido entre estações brasileiras, fixas ou móveis, dentro dos limites da jurisdição territorial da União;\n\nb) serviço internacional, estabelecido entre estações brasileiras, fixas ou móveis, e estações estrangeiras, ou estações brasileiras móveis, que se achem fora dos limites da jurisdição territorial da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%205%C2%BA%20Quanto%20ao%20seu%20%C3%A2mbito%2C%20os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20se%20classificam%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Quanto aos fins a que se destinam, as telecomunicações assim se classificam:\n\na) serviço público, destinado ao uso do público em geral;\n\nb) serviço público restrito, facultado ao uso dos passageiros dos navios, aeronaves, veículos em movimento ou ao uso do público em localidades ainda não atendidas por serviço público de telecomunicação; (Vide Decreto nº 96.618, de 1988)\n\nc) serviço limitado, executado por estações não abertas à correspondência pública e destinado ao uso de pessoas físicas ou jurídicas nacionais. Constituem serviço limitado entre outros:\n\n1) o de segurança, regularidade, orientação e administração dos transportes em geral;\n\n2) o de múltiplos destinos;\n\n3) o serviço rural;\n\n4) o serviço privado;\n\nd) serviço de radiodifusão, destinado a ser recebido direta e livremente pelo público em geral, compreendendo radiodifusão sonora e televisão;\n\ne) serviço de rádio-amador, destinado a treinamento próprio, intercomunicação e investigações técnicas, levadas a efeito por amadores, devidamente autorizados, interessados na radiotécnica ùnicamente a título pessoal e que não visem a qualquer objetivo pecuniário ou comercial;\n\nf) serviço especial, relativo a determinados serviços de interêsse geral, não abertos à correspondência pública e não incluídos nas definições das alíneas anteriores, entre os quais:\n\n1) o de sinais horários;\n\n2) o de freqüência padrão;\n\n3) o de boletins meteorológicos;\n\n4) o que se destine a fins científicos ou experimentais;\n\n5) o de música funcional;\n\n6) o de Radiodeterminação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%206%C2%BA%20Quanto%20aos%20fins%20a%20que%20se%20destinam%2C%20as%20telecomunica%C3%A7%C3%B5es%20assim%20se%20classificam%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os meios, através dos quais se executam os serviços de telecomunicações, constituirão troncos e rêdes contínuos, que formarão o Sistema Nacional de Telecomunicações.\n\n§ 1º O Sistema Nacional de Telecomunicações será integrado por troncos e rêdes a êles ligados.\n\n§ 2º Objetivando a estruturação e o emprêgo do Sistema Nacional de Telecomunicações, o Govêrno estabelecerá as normas técnicas e as condições de tráfego mútuo a serem compulsòriamente observadas pelos executores dos serviços, segundo o que fôr especificado nos Regulamentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%207%C2%BA%20Os%20meios%2C%20atrav%C3%A9s%20dos%20quais%20se%20executam%20os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%2C%20constituir%C3%A3o%20troncos%20e%20r%C3%AAdes%20cont%C3%ADnuos%2C%20que%20formar%C3%A3o%20o%20Sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Constituem troncos do Sistema Nacional de Telecomunicações os circuitos portadores comuns, que ínterligam os centros principais de telecomunicações.\n\n§ 1º Circuitos portadores comuns são aquêles que realizam o transporte integrado de diversas modalidades de telecomunicações.\n\n§ 2º Centros principais de telecomunicações são aquêles nos quais se realiza a concentração e distribuição das diversas modalidades de telecomunicações, destinadas ao transporte integrado.\n\n§ 3º Entendem-se por urbanas as rêdes telefônicas situadas dentro dos limites de um município ou do Distrito Federal, e por interurbanas as intermunicipais dentro dos limites de um Estado ou Território.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%208%C2%BA%20Constituem%20troncos%20do%20Sistema%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20os%20circuitos%20portadores%20comuns%2C%20que%20%C3%ADnterligam%20os%20centros%20principais%20de%20telecomunica%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O Conselho Nacional de Telecomunicações ao planejar o Sistema Nacional de Telecomunicações, discriminará os troncos e os centros principais de telecomunicações. (Partes mantidas pelo Congresso Nacional)\n\n§ 1º Na discriminação a que se refere este artigo serão incluídas, na medida das possibilidades e conveniências entre os centros principais de telecomunicação, a Capital da República e as Capitais de todos os Estados e Territórios. (Partes mantidas pelo Congresso Nacional)\n\n§ 2º O Conselho Nacional de Telecomunicações estabelecerá as prioridades, segundo as quais se procederá à instalação dos troncos e redes do Sistema Nacional de Telecomunicações. (Partes mantidas pelo Congresso Nacional)\n\nArt. 9º-A. (VETADO). (Incluído pela Lei nº 15.182, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%209%C2%BA%20O%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20ao%20planejar%20o%20Sistema%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%2C%20discriminar%C3%A1%20os%20troncos%20e%20os%20centros%20principais%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Compete privativamente à União:\n\nI - manter e explorar diretamente:\n\na) os serviços dos troncos que integram o Sistema Nacional de Telecomunicações, inclusive suas conexões internacionais; (Partes mantidas pelo Congresso Nacional)\n\nb) os serviços públicos de telégrafos, de telefones interestaduais e de radiocomunicações, ressalvadas as exceções constantes desta lei, inclusive quanto aos de radiodifusão e ao serviço internacional;\n\nII - fiscalizar os Serviços de telecomunicações por ela concedidos, autorizados ou permitidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2010.%20Compete%20privativamente%20%C3%A0%20Uni%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Compete, também, à União: fiscalizar os serviços de telecomunicações concedidos, permitidos ou autorizados pelos Estados ou Municípios, em tudo que disser respeito a observância das normas gerais estabelecidas nesta lei e a integração dêsses serviços no Sistema Nacional de Telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2011.%20Compete%2C%20tamb%C3%A9m%2C%20%C3%A0%20Uni%C3%A3o%3A%20fiscalizar%20os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20concedidos%2C%20permitidos%20ou%20autorizados%20pelos%20Estados%20ou%20Munic%C3%ADpios%2C%20em%20tudo%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. As concessões feitas na faixa de 150 (cento e cinqüenta) quilômetros estabelecida na Lei n. 2.597, de 12 de setembro de 1955 obedecerão às normas fixadas na referida lei, observando-se iguais restrições relativamente aos serviços explorados pela União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2012.%20As%20concess%C3%B5es%20feitas%20na%20faixa%20de%20150%20%28cento%20e%20cinq%C3%BCenta%29%20quil%C3%B4metros%20estabelecida%20na%20Lei%20n.%202.597%2C%20de%2012%20de%20setembro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Dentro dos seus limites respectivos, os Estados e Municípios poderão organizar, regular e executar serviços de telefones, diretamente ou mediante concessão, obedecidas as normas gerais fixadas pelo Conselho Nacional de Telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2013.%20Dentro%20dos%20seus%20limites%20respectivos%2C%20os%20Estados%20e%20Munic%C3%ADpios%20poder%C3%A3o%20organizar%2C%20regular%20e%20executar%20servi%C3%A7os%20de%20telefones%2C%20diretamente%20ou%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. É criado o Conselho Nacional de Telecomunicações (C.O.N.T.E.L.), com a organização e competência definidas nesta lei, diretamente subordinado ao Presidente da República. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2014.%20%C3%89%20criado%20o%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20%28C.O.N.T.E.L.%29%2C%20com%20a%20organiza%C3%A7%C3%A3o%20e%20compet%C3%AAncia%20definidas%20nesta%20lei%2C%20diretamente%20subordinado%20ao%20Presidente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O Conselho Nacional de Telecomunicações terá um Presidente de livre nomeação do Presidente da República e será constituído:\n\na) do Diretor do Departamento dos Correios e Telégrafos, em exercício no referido cargo, o qual pode ser representado por pessoa escolhida entre os membros de seu Gabinete ou Diretores de sua repartição; (Partes mantidas pelo Congresso Nacional)\n\nb) de 3 (três) membros indicados, respectivamente, pelos Ministros da Guerra, Marinha e Aeronáutica;\n\nc) de 1 (um) membro indicado pelo Chefe do Estado Maior das Forças Armadas;\n\nd) de 4 (quatro) membros indicados, respectivamente, pelos Ministros da Justiça e Negócios Interiores, da Educação e Cultura, das Relações Exteriores e da Indústria e Comércio;\n\ne) de 3 (três) representantes dos 3 (três) maiores partidos políticos, segundo a respectiva representação na Câmara dos Deputados no início da legislatura, indicados pela direção nacional de cada agremiação. (Partes mantidas pelo Congresso Nacional)\n\nf) do diretor da emprêsa pública que terá a seu cargo a exploração dos troncos do Sistema Nacional de Telecomunicações e serviços correlatos, o qual pode ser representado por pessoa escolhida entre os membros de seu Gabinete ou Diretores da emprêsa; (Partes mantidas pelo Congresso Nacional)\n\ng) do Diretor Geral do Departamento Nacional de Telecomunicações, sem direito a voto. (Partes mantidas pelo Congresso Nacional)\n\n§ 1º Se os três partidos a que se refere a alínea \"e\" estiveram todos apoiando o Govêrno, o partido de menor representação será substituído pelo maior partido de oposição, com representação na Câmara dos Deputados. (Partes mantidas pelo Congresso Nacional)\n\n§ 2º Os representantes dos partidos políticos de que trata este artigo serão indicados até 30 (trinta) dias após o início de cada legislatura. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2015.%20O%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20ter%C3%A1%20um%20Presidente%20de%20livre%20nomea%C3%A7%C3%A3o%20do%20Presidente%20da%20Rep%C3%BAblica%20e%20ser%C3%A1%20constitu%C3%ADdo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O mandato dos membros do Conselho mencionado nas alíneas b, c, d, e e terá a duração de 4 (quatro) anos. (Partes mantidas pelo Congresso Nacional)\n\nParágrafo único. Será de dois anos apenas o primeiro mandato dos membros indicados nas alíneas b e ... observado o disposto no § 2º do artigo anterior. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2016.%20O%20mandato%20dos%20membros%20do%20Conselho%20mencionado%20nas%20al%C3%ADneas%20b%2C%20c%2C%20d%2C%20e%20e%20ter%C3%A1%20a%20dura%C3%A7%C3%A3o%20de%204%20%28quatro%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Em caso de vaga, o membro que fôr nomeado em substituição, exercerá o mandato até o fim do período que caberia ao substituído.\n\nParágrafo único. É vedada a substituição dos membros do Conselho no decurso do mandato, salvo por justa causa verificada mediante inquérito administrativo, sob pena de nulidade das decisões tomadas com o voto do substituto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2017.%20Em%20caso%20de%20vaga%2C%20o%20membro%20que%20f%C3%B4r%20nomeado%20em%20substitui%C3%A7%C3%A3o%2C%20exercer%C3%A1%20o%20mandato%20at%C3%A9%20o%20fim%20do%20per%C3%ADodo%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O membro do Conselho que faltar, sem motivo justo, a 3 (três) reuniões consecutivas, perderá automàticamente o cargo.\n\n§ 1º O Regimento Interno do Conselho disporá sôbre a justificação das faltas.\n\n§ 2º Serão nulas as deliberações de que participar, com voto decisivo, membro que tenha incorrido nas sanções dêste artigo, incidindo o presidente, que houver admitido êsse voto, em perda imediata de seu cargo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2018.%20O%20membro%20do%20Conselho%20que%20faltar%2C%20sem%20motivo%20justo%2C%20a%203%20%28tr%C3%AAs%29%20reuni%C3%B5es%20consecutivas%2C%20perder%C3%A1%20autom%C3%A0ticamente%20o%20cargo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O presidente será substituído, em seus impedimentos, pelo vice-presidente eleito pelo Conselho dentre seus membros.\n\nParágrafo único. O presidente tem voto de qualidade nas deliberações do Conselho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2019.%20O%20presidente%20ser%C3%A1%20substitu%C3%ADdo%2C%20em%20seus%20impedimentos%2C%20pelo%20vice-presidente%20eleito%20pelo%20Conselho%20dentre%20seus%20membros.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os membros do Conselho, ao se empossarem, devem fazer prova de quitação do impôsto sôbre a renda, declaração de bens e rendas próprias, de suas espôsas e dependentes, renovando-as em 30 de julho de cada ano.\n\n§ 1º Os documentos constantes dessas declarações serão lacrados e arquivados.\n\n§ 2º O exame dêsses documentos só será admitido por determinação do Presidente da República ou do Poder Judiciário.\n\nArts. 21 e 22 (Revogados pela Lei nº 5.535, de 20.11.1968)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2020.%20Os%20membros%20do%20Conselho%2C%20ao%20se%20empossarem%2C%20devem%20fazer%20prova%20de%20quita%C3%A7%C3%A3o%20do%20imp%C3%B4sto%20s%C3%B4bre%20a%20renda%2C%20declara%C3%A7%C3%A3o%20de%20bens",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Nenhum membro do Conselho ou servidor, que, no mesmo tenha exercício, poderá fazer parte de qualquer emprêsa, companhia, sociedade ou firma, que tenha por objetivo comercial a telecomunicação como diretor, técnico, consultor, advogado, perito, acionista, cotista, debenturista, sócio ou assalariado, nem tão pouco ter qualquer interêsse direto ou indireto na manufatura ou venda de matéria aplicável a telecomunicação. (Partes mantidas pelo Congresso Nacional)\n\n§ 1º A infração deste artigo - devidamente comprovada, acarretará a perda imediata do mandato no Conselho.\n\n§ 2º Caberá ao Conselho tomar conhecimento das denúncias feitas nesse sentido e, quando por dois têrços de seus votos, entender comprovadas as acusações, encaminhar ao Presidente da República o pedido de nomeação do substitutivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2023.%20Nenhum%20membro%20do%20Conselho%20ou%20servidor%2C%20que%2C%20no%20mesmo%20tenha%20exerc%C3%ADcio%2C%20poder%C3%A1%20fazer%20parte%20de%20qualquer%20empr%C3%AAsa%2C%20companhia%2C%20sociedade%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Das deliberações do Conselho caberá pedido de reconsideração para o mesmo e, em instância superior, recurso para o Ministro das Comunicações, salvo das deliberações tomadas sob a sua presidência, quando será dirigido diretamente ao Presidente da República. (Redação dada pela Lei nº 5.535, de 20.11.1968)\n\n§ 1º As decisões serão tomadas por maioria absoluta de votos dos representantes que compõem o Conselho, considerando-se unânimes tão somente as que contarem com a totalidade destes. (Redação dada pela Lei nº 5.535, de 20.11.1968)\n\n§ 2º O pedido de reconsideração ou o recurso de que trata este artigo deve ser apresentado no prazo de trinta (30) dias contados da notificação feita ao interessado, por telegrama ou carta registrada um e outro com aviso de recebimento, ou da publicação dessa notificação feita no Diário Oficial da União. (Redação dada pela Lei nº 5.535, de 20.11.1968)\n\n§ 3º O recurso terá efeito suspensivo. (Redação dada pela Lei nº 5.535, de 20.11.1968)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2024.%20Das%20delibera%C3%A7%C3%B5es%20do%20Conselho%20caber%C3%A1%20pedido%20de%20reconsidera%C3%A7%C3%A3o%20para%20o%20mesmo%20e%2C%20em%20inst%C3%A2ncia%20superior%2C%20recurso%20para%20o%20Ministro%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O Departamento Nacional de Telecomunicações é a secretaria executiva do Conselho e terá a seguinte organização administrativa: (Partes mantidas pelo Congresso Nacional)\n\nI - Divisão de Engenharia (Partes mantidas pelo Congresso Nacional)\n\nII - Divisão Jurídica (Partes mantidas pelo Congresso Nacional)\n\nIII - Divisão Administrativa (Partes mantidas pelo Congresso Nacional)\n\nIV - Divisão de Estatística (Partes mantidas pelo Congresso Nacional)\n\nV - Divisão de Fiscalização (Partes mantidas pelo Congresso Nacional)\n\nVI - Delegacias Regionais. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2025.%20O%20Departamento%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20%C3%A9%20a%20secretaria%20executiva%20do%20Conselho%20e%20ter%C3%A1%20a%20seguinte%20organiza%C3%A7%C3%A3o%20administrativa%3A%20%28Partes%20mantidas%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O território nacional fica dividido em oito Distritos, a cada um dos quais corresponderá uma Delegacia Regional, com sede, respectivamente em (Partes mantidas pelo Congresso Nacional)\n\nBrasília (DF) (Partes mantidas pelo Congresso Nacional)\n\nBelém (PA) (Partes mantidas pelo Congresso Nacional)\n\nRecife (PE) (Partes mantidas pelo Congresso Nacional)\n\nSalvador (BA) (Partes mantidas pelo Congresso Nacional)\n\nRio de Janeiro (GB) (Partes mantidas pelo Congresso Nacional)\n\nSão Paulo (SP) (Partes mantidas pelo Congresso Nacional)\n\nPôrto Alegre (RS) (Partes mantidas pelo Congresso Nacional)\n\nCampo Grande (MT) (Partes mantidas pelo Congresso Nacional)\n\nParágrafo único. Cada Distrito terá a jurisdição delimitada pelo Conselho. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2026.%20O%20territ%C3%B3rio%20nacional%20fica%20dividido%20em%20oito%20Distritos%2C%20a%20cada%20um%20dos%20quais%20corresponder%C3%A1%20uma%20Delegacia%20Regional%2C%20com%20sede%2C%20respectivamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. São criados, no Conselho, os cargos de provimento em comissão constantes da tabela anexa. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2027.%20S%C3%A3o%20criados%2C%20no%20Conselho%2C%20os%20cargos%20de%20provimento%20em%20comiss%C3%A3o%20constantes%20da%20tabela%20anexa.%20%28Partes%20mantidas%20pelo%20Congresso%20Nacional%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Os membros do Conselho, o seu presidente, o diretor geral os diretores de divisão e os delegados regionais serão cidadãos brasileiros de reputação ilibada e notórios conhecimentos de assuntos ligados aos diversos ramos das telecomunicações. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2028.%20Os%20membros%20do%20Conselho%2C%20o%20seu%20presidente%2C%20o%20diretor%20geral%20os%20diretores%20de%20divis%C3%A3o%20e%20os%20delegados%20regionais%20ser%C3%A3o%20cidad%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Compete ao Conselho Nacional de Telecomunicações:\n\na) elaborar o seu Regimento Interno;\n\nb) organizar, na forma da lei os serviços de sua administração;\n\nc) elaborar o plano nacional de telecomunicações e proceder à sua revisão, pelo menos, de cinco em cinco anos, para a devida aprovação pelo Congresso Nacional; (Partes mantidas pelo Congresso Nacional)\n\nd) adotar medidas que assegurem a continuidade dos serviços de telecomunicações, quando as concessões, autorizações ou permissões não forem renovadas ou tenham sido cassadas, e houver interêsse público na continuação dêsses serviços;\n\ne) promover, orientar e coordenar o desenvolvimento das telecomunicações, bem como a constituição, organização, articulação e expansão dos serviços públicos de telecomunicações; (Partes mantidas pelo Congresso Nacional)\n\nf) estabelecer as prioridades previstas no art. 9º, § 2º, desta lei. (Partes mantidas pelo Congresso Nacional)\n\ng) propor ou promover as medidas adequadas à execução da presente lei;\n\nh) fiscalizar o cumprimento das obrigações decorrentes das concessões, autorizações e permissões de serviços de telecomunicações e aplicar as sanções que estiverem na sua alçada;\n\ni) rever os contratos de concessão ou atos de autorização ou permissão, por efeito da aprovação, pelo Congresso, de atos internacionais;\n\nj) fiscalizar as concessões, autorizações e permissões em vigor; opinar sôbre a respectiva renovação e propor a declaração de caducidade e perempção;\n\nl) estudar os temas a serem debatidos pelas delegações brasileiras, nas conferências e reuniões internacionais de telecomunicações, sugerindo e propondo diretrizes;\n\nm) estabelecer normas para a padronização da escrita e contabilidade das emprêsas que explorem serviços de telecomunicação;\n\nn) promover e superintender o tombamento dos bens e a perícia contábil das emprêsas concessionárias ou permissionárias de serviços de telecomunicação, e das emprêsas subsidiárias, associadas ou dependentes delas, ou a elas vinculadas, inclusive das que sejam controladas por acionistas estrangeiros ou tenham como acionistas pessoas jurídicas com sede no estrangeiro, com o objetivo de determinação do investimento efetivamente realizado e do conhecimento de todos os elementos, que concorram para a emposição do custo do serviço, requisitando para êsse fim os funcionários federais que possam contribuir para a apuração dêsses dados;\n\no) estabelecer normas técnicas dentro das leis e regulamentos em vigor, visando à eficiência e integração dos serviços no sistema nacional de telecomunicações;\n\np) propor ao Presidente da República o valor das taxas a serem pagas pela execução dos serviços concedidos, autorizados ou permitidos, e destinadas ao custeio do serviço de fiscalização;\n\nq) cooperar para o desenvolvimento do ensino técnico profissional dos ramos pertinentes à telecomunicação;\n\nr) promover e estimular o desenvolvimento da indústria de equipamentos de telecomunicações, dando preferência àqueles cujo capital na sua maioria, pertençam a acionistas brasileiros;\n\ns) estabelecer ou aprovar normas técnicas e especificações a serem observadas na planificação da produção industrial e na fabricação de peças, aparelhos e equipamentos utilizados nos serviços de telecomunicações;\n\nt) sugerir normas para censura nos serviços de telecomunicações, em caso de declaração de estado de sítio;\n\nu) fiscalizar a execução dos convênios firmados pelo Govêrno brasileiro com outros países;\n\nv) encaminhar à autoridade superior os recursos regularmente interpostos de seus atos, decisões ou resoluções;\n\nx) outorgar ou renovar quaisquer permissões e autorizações de serviço de radiodifusão de caráter local (art. 33, § 5º) e opinar sobre a outorga ou renovação de concessões e autorizações (art. 34, §§ 1º e 3º);\n\nz) estabelecer normas, fixar critérios e taxas para redistribuição de tarifa nos casos de tráfego mútuo entre as emprêsas de telecomunicações de todo o País;\n\naa) expedir certificados de licença para o funcionamento das estações de radiocomunicação e radiodifusão uma vez verificado, em vistoria, o atendimento às condições técnicas exigidas;\n\nab) estabelecer as qualificações necessárias ao desempenho de funções técnicas e operacionais pertinentes às telecomunicações, expedindo os certificados correspondentes;\n\nac) solicitar a prestação de serviços de quaisquer repartições ou autarquias federais;\n\nad) aplicar as penas de multa e suspensão à estação de radiodifusão que transmitir ou utilizar, total ou parcialmente, as emissões de estações congêneres sem prévia autorização;\n\nae) fiscalizar, durante as retransmissões de radiodifusão, a declaração do prefixo ou indicativo e a localização da estação emissôra e da estação de origem;\n\naf) fiscalizar o cumprimento, por parte das emissôras de radiodifusão, das finalidades e obrigações de programação, definidas no art. 38;\n\nag) estabelecer ou aprovar normas técnicas e especificações para a fabricação e uso de quaisquer instalações ou equipamentos elétricos que possam vir a causar interferências prejudiciais aos serviços de telecomunicações, incluindo-se nessa disposição as linhas de transmissão de energia e as estações e subestações transformadoras;\n\nah) propor ao Presidente do Conselho a imposição das penas da competência do Conselho;\n\nai) opinar sôbre a aplicação da pena de cassação ou de suspensão, quando fundada em motivos de ordem técnica;\n\naj) propor, em parecer fundamentado, a declaração da caducidade ou perempção, da concessão, autorização ou permissão;\n\nal) opinar sôbre os atos internacionais de natureza administrativa, antes de sua aprovação pelo Presidente da República (artigo 3º); (Partes mantidas pelo Congresso Nacional)\n\nam) aprovar as especificações das rêdes telefônicas de exploração ou concessão estadual ou municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2029.%20Compete%20ao%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Os serviços de telégrafos, radiocomunicações e telefones interestaduais estão sob a jurisdição da União, que explorará diretamente os troncos integrantes do Sistema Nacional de Telecomunicações, e poderá explorar diretamente ou através de concessão, autorização ou permissão, as linhas e canais subsidiários.\n\n§ 1º Os troncos que constituem o Sistema Nacional de Telecomunicações serão explorados pela União através de emprêsa pública, com os direitos, privilégios e prerrogativas do Departamento dos Correios e Telégrafos, a qual avocará todos os serviços processados pelos referidos troncos, à medida que expirarem as concessões ou autorizações vigentes ou que se tornar conveniente a revogação das autorizações sem prazo determinado.\n\n§ 2º Os serviços telefônicos explorados pelo Estado ou Município, diretamente ou através de concessão ou autorização, a partir do momento em que se ligarem direta ou indiretamente a serviços congêneres existentes em outra unidade federativa, ficarão sob fiscalização do Conselho Nacional de Telecomunicações, que terá poderes para determinar as condições de tráfego mútuo, a redistribuição das taxas daí resultante, e as normas e especificações a serem obedecidas na operação e instalação dêsses serviços, inclusive para fixação das tarifas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2030.%20Os%20servi%C3%A7os%20de%20tel%C3%A9grafos%2C%20radiocomunica%C3%A7%C3%B5es%20e%20telefones%20interestaduais%20est%C3%A3o%20sob%20a%20jurisdi%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20que%20explorar%C3%A1%20diretamente%20os%20troncos%20integrantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os serviços internacionais de telecomunicações serão explorados pela União diretamente ou através de concessão outorgada, sem caráter exclusivo para instalação e operação de estações em pontos determinados do território nacional, com o fim único de estabelecer serviço público internacional.\n\nParágrafo único. As estações dos concessionários serão ligadas ao Serviço Nacional de Telecomunicações, através do qual será encaminhado e recebido o tráfego telegráfico e telefônico para os locais não compreendidos na concessão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2031.%20Os%20servi%C3%A7os%20internacionais%20de%20telecomunica%C3%A7%C3%B5es%20ser%C3%A3o%20explorados%20pela%20Uni%C3%A3o%20diretamente%20ou%20atrav%C3%A9s%20de%20concess%C3%A3o%20outorgada%2C%20sem%20car%C3%A1ter%20exclusivo%20para%20instala%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Os serviços de radiodifusão, nos quais se compreendem os de televisão, serão executados diretamente pela União ou através de concessão, autorização ou permissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2032.%20Os%20servi%C3%A7os%20de%20radiodifus%C3%A3o%2C%20nos%20quais%20se%20compreendem%20os%20de%20televis%C3%A3o%2C%20ser%C3%A3o%20executados%20diretamente%20pela%20Uni%C3%A3o%20ou%20atrav%C3%A9s%20de%20concess%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os serviços de telecomunicações, não executados diretamente pela União, poderão ser explorados por concessão, autorização ou permissão, observadas as disposições desta Lei. (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 1º Na atribuição de freqüência para a execução dos serviços de telecomunicações serão levadas em consideração:\n\na) o emprêgo ordenado e econômico do spectrum eletro magnético;\n\nb) as consignações de freqüências anteriormente feitas, objetivando evitar interferência prejudicial.\n\n§ 2º Considera-se interferência qualquer emissão, irradiação ou indução que obstrua, total ou parcialmente, ou interrompa repetidamente serviços radioelétricos.\n\n§ 3o Os prazos de concessão, permissão e autorização serão de dez anos para o serviço de radiodifusão sonora e de quinze anos para o de televisão, podendo ser renovados por períodos sucessivos e iguais. (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 4º (Revogado). (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 5º (Revogado). (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 6º (Revogado). (Redação dada pela Lei nº 13.424, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2033.%20Os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%2C%20n%C3%A3o%20executados%20diretamente%20pela%20Uni%C3%A3o%2C%20poder%C3%A3o%20ser%20explorados%20por%20concess%C3%A3o%2C%20autoriza%C3%A7%C3%A3o%20ou%20permiss%C3%A3o%2C%20observadas%20as%20disposi%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As novas concessões ou permissões para o serviço de radiodifusão serão precedidas de edital, publicado com sessenta dias de antecedência pelo órgão competente do Poder Executivo, convidando as entidades interessadas a apresentar suas propostas em prazo determinado. (Redação dada pela Lei nº 13.424, de 2017)\n\na) (revogada); (Redação dada pela Lei nº 13.424, de 2017)\n\nb) (revogada); (Redação dada pela Lei nº 13.424, de 2017)\n\nc) (revogada). (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 1o A outorga da concessão ou permissão é prerrogativa do Presidente da República, depois de ouvido o órgão competente do Poder Executivo sobre as propostas e requisitos exigidos pelo edital e de publicado o respectivo parecer. (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 2º Terão preferência para a concessão as pessoas jurídicas de direito público interno, inclusive universidades.\n\n§ 3º As disposições do presente artigo regulam as novas autorizações de serviços de caráter local no que lhes forem aplicáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2034.%20As%20novas%20concess%C3%B5es%20ou%20permiss%C3%B5es%20para%20o%20servi%C3%A7o%20de%20radiodifus%C3%A3o%20ser%C3%A3o%20precedidas%20de%20edital%2C%20publicado%20com%20sessenta%20dias%20de%20anteced%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As concessões e autorizações não têm caráter de exclusividade, e se restringem, quando envolvem a utilização de radiofreqüência, ao respectivo uso sem limitação do direito, que assiste à União, de executar, diretamente, serviço idêntico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2035.%20As%20concess%C3%B5es%20e%20autoriza%C3%A7%C3%B5es%20n%C3%A3o%20t%C3%AAm%20car%C3%A1ter%20de%20exclusividade%2C%20e%20se%20restringem%2C%20quando%20envolvem%20a%20utiliza%C3%A7%C3%A3o%20de%20radiofreq%C3%BC%C3%AAncia%2C%20ao%20respectivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O funcionamento das estações de telecomunicações fica subordinado a prévia licença, de que constarão as respectivas características, e que só será expedida depois de verificada a observância de tôdas as exigências legais.\n\n§ 1º A vistoria, para as estações de radiodifusão, após o atendimento das condições legais a que se refere êste artigo e do registro do contrato de concessão pelo Tribunal de Contas, deverá ser procedida dentro de 30 (trinta) dias após a data da entrada do pedido de vistoria, e, aprovada esta, o fornecimento da licença para funcionamento não poderá ser retardado por mais de 30 (trinta) dias.\n\n§ 2º O disposto neste artigo não se aplica às rêdes por fio do Departamento dos Correios e Telégrafos e das estradas de ferro, cumprindo-lhes, todavia, comunicar ao Conselho Nacional de Telecomunicações a data da inauguração e as características da estação, para inscrição no cadastro e ulterior verificação.\n\n§ 3º As licenças para o funcionamento da estação serão emitidas por prazo indeterminado e perderão sua validade no caso de extinção de todas as outorgas vinculadas à estação. (Redação dada pela Lei nº 15.182, de 2025)\n\n§ 4º A estação transmissora de emissora de radiodifusão deve ser instalada em local que assegure o atendimento aos requisitos mínimos de cobertura do Município objeto da outorga, conforme critérios estabelecidos nas normas técnicas dos serviços correspondentes, permitida a instalação em outro Município, mediante avaliação de estudo que indique a necessidade técnica ou econômica da instalação no local proposto e o atendimento dos critérios de cobertura do Município objeto da outorga, na forma da regulamentação. (Incluído pela Lei nº 14.173, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2036.%20O%20funcionamento%20das%20esta%C3%A7%C3%B5es%20de%20telecomunica%C3%A7%C3%B5es%20fica%20subordinado%20a%20pr%C3%A9via%20licen%C3%A7a%2C%20de%20que%20constar%C3%A3o%20as%20respectivas%20caracter%C3%ADsticas%2C%20e%20que%20s%C3%B3",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os serviços de telecomunicações podem ser desapropriados, ou requisitados nos termos do artigo 141 § 16 da Constituição, e das leis vigentes. (Partes mantidas pelo Congresso Nacional)\n\nParágrafo único. No cálculo da indenização serão deduzidos os favores cambiais e fiscais concedidos pela União e pelos Estados. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2037.%20Os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20podem%20ser%20desapropriados%2C%20ou%20requisitados%20nos%20termos%20do%20artigo%20141%20%C2%A7%2016%20da%20Constitui%C3%A7%C3%A3o%2C%20e%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Nas concessões, permissões ou autorizações para explorar serviços de radiodifusão, serão observados, além de outros requisitos, os seguintes preceitos e cláusulas: (Redação dada pela Lei nº 10.610, de 20.12.2002)\n\na) pelo menos 70% (setenta por cento) do capital total e do capital votante deverá pertencer, direta ou indiretamente, a brasileiros natos ou naturalizados há mais de dez anos, que exercerão obrigatoriamente a gestão das atividades e estabelecerão o conteúdo da programação; (Redação dada pela Lei nº 13.424, de 2017)\n\nb) ao órgão competente do Poder Executivo incumbe divulgar ativamente, de forma atualizada, as informações relativas à composição societária e receber, quando solicitado, nos termos regulamentares, as alterações contratuais ou estatutárias acompanhadas dos documentos que comprovem atendimento à legislação em vigor; (Redação dada pela Lei nº 15.182, de 2025)\n\nc) a transferência da concessão ou permissão de uma pessoa jurídica para outra depende, para sua validade, de prévia anuência do órgão competente do Poder Executivo; (Redação dada pela Lei nº 13.424, de 2017)\n\nd) os serviços de informação, divertimento, propaganda e publicidade das emprêsas de radiodifusão estão subordinadas às finalidades educativas e culturais inerentes à radiodifusão, visando aos superiores interesses do País;\n\ne) as emissoras de radiodifusão sonora são obrigadas a retransmitir, diariamente, no horário compreendido entre as dezenove horas e as vinte e duas horas, exceto aos sábados, domingos e feriados, o programa oficial de informações dos Poderes da República, reservados sessenta minutos ininterruptos, dos quais vinte e cinco minutos serão destinados ao Poder Executivo, cinco minutos ao Poder Judiciário, dez minutos ao Senado Federal e vinte minutos à Câmara dos Deputados, reservando-se, no tempo destinado à Câmara dos Deputados, um minuto para divulgação de informações sobre os serviços das redes de enfrentamento e prevenção à violência contra as mulheres; (Redação dada pela Lei nº 15.423, de 2026)\n\nf) as emprêsas, não só através da seleção de seu pessoal, mas também das normas de trabalho observadas nas estações emissôras devem criar as condições mais eficazes para que se evite a prática de qualquer das infrações previstas na presente lei;\n\ng) a mesma pessoa não poderá participar da administração ou da gerência de mais de uma concessionária, permissionária ou autorizada do mesmo tipo de serviço de radiodifusão, na mesma localidade (Redação dada pela Lei nº 10.610, de 20.12.2002)\n\nh) as emissôras de radiodifusão, inclusive televisão, deverão cumprir sua finalidade informativa, destinando um mínimo de 5% (cinco por cento) de seu tempo para transmissão de serviço noticioso.\n\ni) as concessionárias e permissionárias de serviços de radiodifusão deverão apresentar ao órgão do Poder Executivo expressamente definido pelo Presidente da República, quando solicitado, e aos órgãos de registro comercial ou de registro civil de pessoas jurídicas declaração com a composição de seu capital social, incluindo a nomeação dos brasileiros natos ou naturalizados há mais de 10 (dez) anos titulares, direta ou indiretamente, de pelo menos 70% (setenta por cento) do capital total e do capital votante; (Redação dada pela Lei nº 15.182, de 2025)\n\nj) declaração de que nenhum dos dirigentes e sócios da entidade se encontra condenado em decisão transitada em julgado ou proferida por órgão judicial colegiado nos ilícitos previstos nas alíneas b, c, d, e, f, g, h, i, j, k, l, m, n, o, p e q do inciso I do art. 1o da Lei Complementar no 64, de 18 de maio de 1990. (Incluída pela Lei nº 13.424, de 2017)\n\nk) as concessionárias e permissionárias poderão transferir, comercializar ou ceder o tempo total de programação para a veiculação de produção independente, desde que mantenham sob seu controle a regra legal de limitação de publicidade comercial e a qualidade do conteúdo da programação produzido por terceiro para que atenda ao disposto na alínea “d” deste caput, além de responsabilizarem-se perante o poder concedente por eventuais irregularidades que este vier a constatar na execução da programação; (Incluída pela Lei nº 14.408, de 2022)\n\nl) as concessionárias e permissionárias não poderão transferir, comercializar ou ceder a gestão total ou parcial da execução do serviço de radiodifusão sonora e de sons e imagens. (Incluída pela Lei nº 14.408, de 2022)\n\nm) as concessionárias do serviço de radiodifusão de sons e imagens e seus ancilares deverão inserir em suas programações os recursos de acessibilidade para pessoas com deficiência, conforme regulamentação do Poder Executivo. (Incluída pela Lei nº 15.182, de 2025)\n\nParágrafo único. Não poderá exercer a função de diretor ou gerente de concessionária, permissionária ou autorizada de serviço de radiodifusão quem esteja no gozo de imunidade parlamentar ou de foro especial. (Redação dada pela Lei nº 10.610, de 20.12.2002)\n\n§ 2o (Revogado). (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 3o A falsidade das informações prestadas nos termos da alínea j deste artigo sujeitará os responsáveis às sanções penais, civis e administrativas cabíveis. (Redação dada pela Lei nº 13.424, de 2017)\n\n§ 4º O programa de que trata a alínea e do caput deste artigo deverá ser retransmitido sem cortes, com início: (Incluído pela Lei nº 13.644, de 2018)\n\nI - às dezenove horas, horário oficial de Brasília, pelas emissoras educativas; (Incluído pela Lei nº 13.644, de 2018)\n\nII - entre as dezenove horas e as vinte e duas horas, horário oficial de Brasília, pelas emissoras educativas vinculadas aos Poderes Legislativos federal, estadual ou municipal, nos dias em que houver sessão deliberativa no plenário da respectiva Casa Legislativa. (Incluído pela Lei nº 13.644, de 2018)\n\n§ 5º Os casos excepcionais de flexibilização ou dispensa de retransmissão do programa serão regulamentados pelo Poder Executivo. (Incluído pela Lei nº 13.644, de 2018)\n\n§ 6º As emissoras de radiodifusão sonora são obrigadas a veicular, diariamente, às dezenove horas, exceto aos sábados, domingos e feriados, inserção informativa sobre horário de retransmissão do programa de que trata a alínea e do caput deste artigo. (Incluído pela Lei nº 13.644, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2038.%20Nas%20concess%C3%B5es%2C%20permiss%C3%B5es%20ou%20autoriza%C3%A7%C3%B5es%20para%20explorar%20servi%C3%A7os%20de%20radiodifus%C3%A3o%2C%20ser%C3%A3o%20observados%2C%20al%C3%A9m%20de%20outros%20requisitos%2C%20os%20seguintes%20preceitos%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. As estações de radiodifusão, nos 90 (noventa) dias anteriores às eleições gerais do País ou da circunscrição eleitoral, onde tiverem sede, reservarão diàriamente 2 (duas) horas à propaganda partidária gratuita, sendo uma delas durante o dia e outra entre 20 (vinte) e 23 (vinte e três) horas e destinadas, sob critério de rigorosa rotatividade, aos diferentes partidos e com proporcionalidade no tempo de acôrdo com as respectivas legendas no Congresso Nacional e Assembléias Legislativas.\n\n§ 1º Para efeito dêste artigo a distribuição dos horários a serem utilizados pelos diversos partidos será fixada pela Justiça Eleitoral, ouvidos os representantes das direções partidárias.\n\n§ 2º Requerida aliança de partidos, a rotatividade prevista no parágrafo anterior será alternada entre os partidos requerentes de alianças diversas.\n\n§ 3º O horário não utilizado por qualquer partido será redistribuído pelos demais, não sendo permitida cessão ou transferência.\n\n§ 4º Caberá à Justiça Eleitoral disciplinar as divergências oriundas da aplicação dêste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2039.%20As%20esta%C3%A7%C3%B5es%20de%20radiodifus%C3%A3o%2C%20nos%2090%20%28noventa%29%20dias%20anteriores%20%C3%A0s%20elei%C3%A7%C3%B5es%20gerais%20do%20Pa%C3%ADs%20ou%20da%20circunscri%C3%A7%C3%A3o%20eleitoral%2C%20onde%20tiverem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. As estações de rádio ficam obrigadas, a divulgar, 60 (sessenta) dias antes das eleições mencionadas no artigo anterior, os comunicados da Justiça Eleitoral até o máximo de tempo de 30 (trinta) minutos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2040.%20As%20esta%C3%A7%C3%B5es%20de%20r%C3%A1dio%20ficam%20obrigadas%2C%20a%20divulgar%2C%2060%20%28sessenta%29%20dias%20antes%20das%20elei%C3%A7%C3%B5es%20mencionadas%20no%20artigo%20anterior%2C%20os%20comunicados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. As estações de rádio e de televisão não poderão cobrar, na publicidade política, preços superiores aos em vigor, nos 6 (seis) meses anteriores, para a publicidade comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2041.%20As%20esta%C3%A7%C3%B5es%20de%20r%C3%A1dio%20e%20de%20televis%C3%A3o%20n%C3%A3o%20poder%C3%A3o%20cobrar%2C%20na%20publicidade%20pol%C3%ADtica%2C%20pre%C3%A7os%20superiores%20aos%20em%20vigor%2C%20nos%206",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. É o Poder Executivo autorizado a constituir uma entidade autônoma, sob a forma de emprêsa pública, de cujo capital participem exclusivamente pessoas jurídicas de direito público interno, bancos e emprêsas governamentais, com o fim de explorar industrialmente serviços de telecomunicações postos, nos têrmos da presente lei, sob o regime de exploração direta da União.\n\n§ 1º A entidade a que se refere êste artigo ampliará progressivamente seus encargos, de acôrdo com as diretrizes elaboradas pelo Conselho Nacional de Telecomunicações, mediante:\n\na) transferência, por decreto do Poder Executivo, de serviços hoje executados pelo Departamento dos Correios e Telégrafos;\n\nb) incorporação de serviços hoje explorados mediante concessão ou autorização, à medida que estas sejam extintas;\n\nc) desapropriação de serviços existentes, na forma da legislação vigente. (Partes mantidas pelo Congresso Nacional)\n\n§ 2º O Presidente da República nomeará uma comissão para organizar a nova entidade e a ela incorporar os bens móveis e imóveis pertencentes à União, atualmente sob a administração do Departamento dos Correios e Telégrafos aplicados nos serviços transferidos.\n\n§ 3º A entidade poderá contratar pessoal de acôrdo com a legislação trabalhista, recrutado dentro ou fora do país, para exercer as funções de natureza técnico-especializada, relativas às instalação e uso de equipamentos especiais.\n\n§ 4º A entidade poderá requisitar do Departamento dos Correios e Telégrafos o pessoal de que necessite para o seu funcionamento, correndo o pagamento respectivo à conta de seus recursos próprios. (Partes mantidas pelo Congresso Nacional)\n\n§ 5º Os recursos da nova entidade serão constituídos:\n\na) das tarifas cobradas pela prestação de seus serviços;\n\nb) dos recursos do Fundo Nacional de Telecomunicações criado no art. 51 desta lei, cuja aplicação obedecerá ao Plano Nacional de Telecomunicações elaborado pelo Conselho Nacional de Telecomunicações e aprovado por decreto do Presidente da República;\n\nc) das dotações consignadas no Orçamento Geral da União;\n\nd) do produto de operações de crédito, juros de depósitos bancários, rendas de bens patrimoniais, venda de materiais inservíveis ou de bens patrimoniais.\n\n§ 6º A arrecadação das taxas de outras fontes de receita será efetuada diretamente pela entidade ou mediante convênios e acôrdos com órgãos do Poder Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2042.%20%C3%89%20o%20Poder%20Executivo%20autorizado%20a%20constituir%20uma%20entidade%20aut%C3%B4noma%2C%20sob%20a%20forma%20de%20empr%C3%AAsa%20p%C3%BAblica%2C%20de%20cujo%20capital%20participem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. As tarifas devidas pela utilização dos serviços de telecomunicações prestados pela entidade serão fixadas pelo Conselho Nacional de Telecomunicações de forma a remunerar sempre os custos totais dos serviços, as amortizações do capital investido e a formação dos fundos necessários à conservação, reposição, modernização dos equipamentos e ampliações dos serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2043.%20As%20tarifas%20devidas%20pela%20utiliza%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20prestados%20pela%20entidade%20ser%C3%A3o%20fixadas%20pelo%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. É vedada a concessão ou autorização do serviço de radiodifusão a sociedades por ações ao portador, ou a emprêsas que não sejam constituídas exclusivamente dos brasileiros a que se referem as alíneas I e II do art. 129 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2044.%20%C3%89%20vedada%20a%20concess%C3%A3o%20ou%20autoriza%C3%A7%C3%A3o%20do%20servi%C3%A7o%20de%20radiodifus%C3%A3o%20a%20sociedades%20por%20a%C3%A7%C3%B5es%20ao%20portador%2C%20ou%20a%20empr%C3%AAsas%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A cada modalidade de telecomunicação corresponderá uma concessão, autorização ou permissão distinta que será considerada isoladamente para efeito da fiscalização e das contribuições previstas nesta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2045.%20A%20cada%20modalidade%20de%20telecomunica%C3%A7%C3%A3o%20corresponder%C3%A1%20uma%20concess%C3%A3o%2C%20autoriza%C3%A7%C3%A3o%20ou%20permiss%C3%A3o%20distinta%20que%20ser%C3%A1%20considerada%20isoladamente%20para%20efeito%20da%20fiscaliza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Os Estados e Territórios Federais poderão obter permissão para o serviço telegráfico interior limitado, sob sua direta administração e responsabilidade, dentro dos respectivos limites e destinado exclusivamente a comunicações oficiais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2046.%20Os%20Estados%20e%20Territ%C3%B3rios%20Federais%20poder%C3%A3o%20obter%20permiss%C3%A3o%20para%20o%20servi%C3%A7o%20telegr%C3%A1fico%20interior%20limitado%2C%20sob%20sua%20direta%20administra%C3%A7%C3%A3o%20e%20responsabilidade%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Nenhuma estação de radiodifusão, de propriedade da União, dos Estados, Territórios ou Municípios ou nas quais possuam essas pessoas de direito público maioria de cotas ou ações, poderá ser utilizada para fazer propaganda política ou difundir opiniões favoráveis ou contrárias a qualquer partido político, seus órgãos, representantes ou candidatos, ressalvado o disposto na legislação eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2047.%20Nenhuma%20esta%C3%A7%C3%A3o%20de%20radiodifus%C3%A3o%2C%20de%20propriedade%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20Territ%C3%B3rios%20ou%20Munic%C3%ADpios%20ou%20nas%20quais%20possuam%20essas%20pessoas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Nenhuma estação de radiodifusão poderá transmitir ou utilizar, total ou parcialmente, as emissões de estações congêneres, nacionais ou estrangeiras, sem estar por estas prèviamente autorizada. Durante a irradiação, a estação dará a conhecer que se trata de retransmissão ou aproveitamento de transmissão alheia, declarando, além do próprio indicativo e localização, os da estação de origem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2048.%20Nenhuma%20esta%C3%A7%C3%A3o%20de%20radiodifus%C3%A3o%20poder%C3%A1%20transmitir%20ou%20utilizar%2C%20total%20ou%20parcialmente%2C%20as%20emiss%C3%B5es%20de%20esta%C3%A7%C3%B5es%20cong%C3%AAneres%2C%20nacionais%20ou%20estrangeiras%2C%20sem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A qualquer particular pode ser dada, pelo Conselho Nacional de Telecomunicações permissão para executar serviço limitado, para uso privado, entre duas localidades ou em uma mesma cidade, de telex, fac-simile ou processo semelhante. (Partes mantidas pelo Congresso Nacional)\n\nParágrafo único. Só será permitido o telex internacional desde que os serviços para o Brasil sejam executados através da Rêde Nacional de Telecomunicações e assegurado o recolhimento, pelo permissionário, das taxas terminais brasileiras e das de execução do trabalho pela União. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2049.%20A%20qualquer%20particular%20pode%20ser%20dada%2C%20pelo%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20permiss%C3%A3o%20para%20executar%20servi%C3%A7o%20limitado%2C%20para%20uso%20privado%2C%20entre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. As concessões e autorizações para a execução de serviços de telecomunicações poderão ser revistas sempre que se fizer necessária a sua adaptação a cláusula de atos internacionais aprovados pelo Congresso Nacional ou a leis supervenientes de atos, observado o disposto no art. 141, § 3º da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2050.%20As%20concess%C3%B5es%20e%20autoriza%C3%A7%C3%B5es%20para%20a%20execu%C3%A7%C3%A3o%20de%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20poder%C3%A3o%20ser%20revistas%20sempre%20que%20se%20fizer%20necess%C3%A1ria%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "50-A"
+    },
+    "50-A": {
+      "numero": "50-A",
+      "texto": "Art. 50-A. (VETADO). (Incluído pela Lei nº 15.182, de 2025)\n\n§ 1º Poderá ser autorizada a promoção de classe para as emissoras do serviço de radiodifusão, a qualquer tempo, mediante pagamento de valor adicional, na forma de regulamento, observada a diferença de preços mínimos para cada grupo de enquadramento. (Incluído pela Lei nº 15.182, de 2025)\n\n§ 2º As emissoras que, pela legislação em vigor, possuam outorgas de caráter não oneroso estarão desobrigadas do pagamento previsto no § 1º deste artigo, sem prejuízo das demais formalidades necessárias à aprovação do pedido. (Incluído pela Lei nº 15.182, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2050-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2015.182%2C%20de%202025%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art 51 (Revogado pelo Decreto-lei nº 2.186, de 20.12.1984)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art%2051%20%28Revogado%20pelo%20Decreto-lei%20n%C2%BA%202.186%2C%20de%2020.12.1984%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50-A",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A liberdade de radiodifusão não exclui a punição dos que praticarem abusos no seu exercício.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2052.%20A%20liberdade%20de%20radiodifus%C3%A3o%20n%C3%A3o%20exclui%20a%20puni%C3%A7%C3%A3o%20dos%20que%20praticarem%20abusos%20no%20seu%20exerc%C3%ADcio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Constitui abuso, no exercício de liberdade da radiodifusão, o emprêgo dêsse meio de comunicação para a prática de crime ou contravenção previstos na legislação em vigor no País, inclusive: (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\na) incitar a desobediência às leis ou decisões judiciárias; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nb) divulgar segredos de Estado ou assuntos que prejudiquem a defesa nacional; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nc) ultrajar a honra nacional; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nd) fazer propaganda de guerra ou de processos de subversão da ordem política e social; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\ne) promover campanha discriminatória de classe, côr, raça ou religião; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nf) insuflar a rebeldia ou a indisciplina nas fôrças armadas ou nas organizações de segurança pública; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\ng) comprometer as relações internacionais do País; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nh) ofender a moral familiar, pública, ou os bons costumes; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\ni) caluniar, injuriar ou difamar os Poderes Legislativos, Executivo ou Judiciário ou os respectivos membros; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nj) veicular notícias falsas, com perigo para a ordem pública, econômica e social; (Redação dada pelo Decreto-Lei nº 236, de 1967)\n\nl) colaborar na prática de rebeldia desordens ou manifestações proibidas. (Incluído pelo Decreto-Lei nº 236, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2053.%20Constitui%20abuso%2C%20no%20exerc%C3%ADcio%20de%20liberdade%20da%20radiodifus%C3%A3o%2C%20o%20empr%C3%AAgo%20d%C3%AAsse%20meio%20de%20comunica%C3%A7%C3%A3o%20para%20a%20pr%C3%A1tica%20de%20crime%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. São livres as críticas e os conceitos desfavoráreis, ainda que veementes, bem como a narrativa de fatos verdadeiros, guardadas as restrições estabelecidas em lei, inclusive de atos de qualquer dos podêres do Estado. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2054.%20S%C3%A3o%20livres%20as%20cr%C3%ADticas%20e%20os%20conceitos%20desfavor%C3%A1reis%2C%20ainda%20que%20veementes%2C%20bem%20como%20a%20narrativa%20de%20fatos%20verdadeiros%2C%20guardadas%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. É inviolável a telecomunicação nos têrmos desta lei. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2055.%20%C3%89%20inviol%C3%A1vel%20a%20telecomunica%C3%A7%C3%A3o%20nos%20t%C3%AArmos%20desta%20lei.%20%28Partes%20mantidas%20pelo%20Congresso%20Nacional%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Pratica crime de violação de telecomunicação quem, transgredindo lei ou regulamento, exiba autógrafo ou qualquer documento do arquivo, divulgue ou comunique, informe ou capte, transmita a outrem ou utilize o conteúdo, resumo, significado, interpretação, indicação ou efeito de qualquer comunicação dirigida a terceiro.\n\n§ 1º Pratica, também, crime de violação de telecomunicações quem ilegalmente receber, divulgar ou utilizar, telecomunicação interceptada.\n\n§ 2º Sòmente os serviços fiscais das estações e postos oficiais poderão interceptar telecomunicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2056.%20Pratica%20crime%20de%20viola%C3%A7%C3%A3o%20de%20telecomunica%C3%A7%C3%A3o%20quem%2C%20transgredindo%20lei%20ou%20regulamento%2C%20exiba%20aut%C3%B3grafo%20ou%20qualquer%20documento%20do%20arquivo%2C%20divulgue%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art 57. Não constitui violação de telecomunicação:\n\nI - A recepção de telecomunicação dirigida por quem diretamente ou como cooperação esteja legalmente autorizado;\n\nII - O conhecimento dado:\n\na) ao destinatário da telecomunicação ou a seu representante legal;\n\nb) aos intervenientes necessários ao curso da telecomunicação;\n\nc) ao comandante ou chefe, sob cujas ordens imediatas estiver servindo;\n\nd) aos fiscais do Govêrno junto aos concessionários ou permissionários;\n\ne) ao juiz competente, mediante requisição ou intimação dêste.\n\nParágrafo único. Não estão compreendidas nas proibições contidas nesta lei as radiocomunicações destinadas a ser livremente recebidas, as de amadores, as relativas a navios e aeronaves em perigo, ou as transmitidas nos casos de calamidade pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art%2057.%20N%C3%A3o%20constitui%20viola%C3%A7%C3%A3o%20de%20telecomunica%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Nos crimes de violação da telecomunicação, a que se referem esta Lei e o artigo 151 do Código Penal, caberão, ainda as seguintes penas: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\nI - Para as concessionárias ou permissionárias as previstas no artigos 62 e 63, se culpados por ação ou omissão e independentemente da ação criminal. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\nII - Para as pessoas físicas: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) 1 (um) a 2 (dois) anos de detenção ou perda de cargo ou emprego, apurada a responsabilidade em processo regular, iniciado com o afastamento imediato do acusado até decisão final; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) para autoridade responsável por violação da telecomunicação, as penas previstas na legislação em vigor serão aplicadas em dobro; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) serão suspensos ou cassados, na proporção da gravidade da infração, os certificados dos operadores profissionais e dos amadores responsáveis pelo crime de violação da telecomunicação. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2058.%20Nos%20crimes%20de%20viola%C3%A7%C3%A3o%20da%20telecomunica%C3%A7%C3%A3o%2C%20a%20que%20se%20referem%20esta%20Lei%20e%20o%20artigo%20151%20do%20C%C3%B3digo%20Penal%2C%20caber%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. As penas por infração desta lei são: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) multa, até o valor .......NCR$ 10.000,00; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) suspensão, até trinta (30) dias; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) cassação; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nd) detenção; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 1º Nas infrações em que, o juízo do CONTEL, não se justificar a aplicação de pena, o infrator será advertido, considerando-se a advertência como agravante na aplicação de penas por inobservância do mesmo ou de outro preceito desta Lei. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 2º A pena de multa poderá ser aplicada isolada ou conjuntamente, com outras sanções especiais estatuídas nesta Lei. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 3º O valor das multas será atualizado de 3 em 3 anos, de acordo com os níveis de correção monetária. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2059.%20As%20penas%20por%20infra%C3%A7%C3%A3o%20desta%20lei%20s%C3%A3o%3A%20%28Substitu%C3%ADdo%20pelo%20Decreto-lei%20n%C2%BA%20236%2C%20de%2028.2.1967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. A aplicação das penas desta Lei compete: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) ao CONTEL: multa e suspensão, em qualquer caso; cassação, quando se tratar de permissão; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) ao Presidente da República: cassação, mediante representação do CONTEL em parecer fundamentado. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2060.%20A%20aplica%C3%A7%C3%A3o%20das%20penas%20desta%20Lei%20compete%3A%20%28Substitu%C3%ADdo%20pelo%20Decreto-lei%20n%C2%BA%20236%2C%20de%2028.2.1967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. A pena será imposta de acordo com a infração cometida, considerados os seguintes fatores: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) gravidade da falta; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) antecedentes da entidade faltosa; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) reincidência específica. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2061.%20A%20pena%20ser%C3%A1%20imposta%20de%20acordo%20com%20a%20infra%C3%A7%C3%A3o%20cometida%2C%20considerados%20os%20seguintes%20fatores%3A%20%28Substitu%C3%ADdo%20pelo%20Decreto-lei%20n%C2%BA%20236%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. A pena de multa poderá ser aplicada por infração de qualquer dispositivo legal ou quando a concessionária ou permissionária não houver cumprido, dentro do prazo estipulado, exigência que tenha sido feita pelo CONTEL. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2062.%20A%20pena%20de%20multa%20poder%C3%A1%20ser%20aplicada%20por%20infra%C3%A7%C3%A3o%20de%20qualquer%20dispositivo%20legal%20ou%20quando%20a%20concession%C3%A1ria%20ou%20permission%C3%A1ria%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. A pena de suspensão poderá ser aplicada nos seguintes casos: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) infração dos artigos 38, alíneas a, b, c, e, g e h; 53, 57, 71 e seus parágrafos; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) infração à liberdade de manifestação do pensamento e de informação (Lei nº 5.250 de 9 de fevereiro de 1967); (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) quando a concessionária ou permissionária não houver cumprido, dentro do prazo estipulaçao, exigência que lhe tenha sido feita pelo CONTEL; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nd) quando seja criada situação de perigo de vida; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\ne) utilização de equipamentos diversos dos aprovados ou instalações fora das especificações técnicas constantes da portaria que as tenha aprovado; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nf) execução de serviço para o qual não está autorizado. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nParágrafo único. No caso das letras d, e e f deste artigo poderá ser determinada a interrupção do serviço pelo agente fiscalizador, \"ad-referedum\" do CONTEL. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2063.%20A%20pena%20de%20suspens%C3%A3o%20poder%C3%A1%20ser%20aplicada%20nos%20seguintes%20casos%3A%20%28Substitu%C3%ADdo%20pelo%20Decreto-lei%20n%C2%BA%20236%2C%20de%2028.2.1967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A pena de cassação poderá ser imposta nos seguintes casos: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) infringência do artigo 53; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) reincidência em infração anteriormente punida com suspensão; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) interrupção do funcionamento por mais de trinta (30) dias consecutivos, exceto quando tenha, para isso, obtido autorização prévia do CONTEL; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nd) superveniência da incapacidade legal, técnica, financeira ou econômica para execução dos serviços da concessão ou permissão; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\ne) não haver a concessionária ou permissionária, no prazo estipulado, corrigido as irregularidades motivadoras da suspensão anteriormente importa; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nf) não haver a concessionária ou permissionária cumprido as exigências e prazos estipulados, até o licenciamento definitivo de sua estação. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\ng) não-observância, pela concessionária ou permissionária, das disposições contidas no art. 222, caput e seus §§ 1o e 2o, da Constituição. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2064.%20A%20pena%20de%20cassa%C3%A7%C3%A3o%20poder%C3%A1%20ser%20imposta%20nos%20seguintes%20casos%3A%20%28Substitu%C3%ADdo%20pelo%20Decreto-lei%20n%C2%BA%20236%2C%20de%2028.2.1967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. O CONTEL promoverá as medidas cabíveis, punindo ou propondo a punição, por iniciativa própria ou sempre que receber representação de qualquer autoridade. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2065.%20O%20CONTEL%20promover%C3%A1%20as%20medidas%20cab%C3%ADveis%2C%20punindo%20ou%20propondo%20a%20puni%C3%A7%C3%A3o%2C%20por%20iniciativa%20pr%C3%B3pria%20ou%20sempre%20que%20receber%20representa%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "65-A"
+    },
+    "65-A": {
+      "numero": "65-A",
+      "texto": "Art. 65-A. A edição de nova norma com impacto em infrações ou penalizações de serviços de radiodifusão, seus ancilares e auxiliares apenas se aplica aos processos pendentes de julgamento definitivo quando: (Incluído pela Lei nº 14.351, de 2022)\n\nI - a infração deixar de existir; (Incluído pela Lei nº 14.351, de 2022)\n\nII - a nova penalidade for menos severa do que a prevista na norma vigente ao tempo da sua prática; ou (Incluído pela Lei nº 14.351, de 2022)\n\nIII - a pessoa jurídica outorgada for, por qualquer forma, beneficiada. (Incluído pela Lei nº 14.351, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2065-A.%20A%20edi%C3%A7%C3%A3o%20de%20nova%20norma%20com%20impacto%20em%20infra%C3%A7%C3%B5es%20ou%20penaliza%C3%A7%C3%B5es%20de%20servi%C3%A7os%20de%20radiodifus%C3%A3o%2C%20seus%20ancilares%20e%20auxiliares%20apenas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Antes de decidir da aplicação de qualquer das penalidades previstas, o CONTEL notificará a interessada para exercer o direito de defesa, dentro do prazo de 5 (cinco) dias, contados do recebimento da notificação. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 1º A repetição da falta no período decorrido entre o recebimento da notificação e a tomada de decisão, será considerada como reincidência e, no caso das transgressões citadas no artigo 53, o Presidente do CONTEL suspenderá a emissora provisóriamente. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 2º Quando a representação for feita por uma das autoridades a seguir relacionadas, o Presidente do CONTEL verificará \"in limine\" sua procedência, podendo deixar de ser feita a notificação a que se refere este artigo: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\nI - Em todo o Território nacional: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) Mesa da Câmara dos Deputados ou do Senado Federal; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) Presidente do Supremo Tribunal Federal; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) Ministros de Estado; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nd) Secretário Geral do Conselho de Segurança Nacional; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\ne) Procurador Geral da República; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nf) Chefe do Estado Maior das Forças Armadas. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nII - Nos Estados: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) Mesa da Assembléia Legislativa; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) Presidente do Tribunal de Justiça; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nc) Secretário de Assuntos Relativos à Justiça; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nd) Chefe do Ministério Público Estadual. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nIII - Nos Municípios: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) Mesa da Câmara Municipal; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) Prefeito Municipal. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2066.%20Antes%20de%20decidir%20da%20aplica%C3%A7%C3%A3o%20de%20qualquer%20das%20penalidades%20previstas%2C%20o%20CONTEL%20notificar%C3%A1%20a%20interessada%20para%20exercer%20o%20direito%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65-A",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. A perempção da concessão ou autorização será declarada pelo Presidente da República, precedendo parecer do Conselho Nacional de Telecomunicações, se a concessionária ou permissionária decair do direito à renovação (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\nParágrafo único. O direito a renovação decorre do cumprimento pela empresa, de seu contrato de concessão ou permissão, das exigências legais e regulamentares, bem como das finalidades educacionais, culturais e morais a que se obrigou, e de persistirem a possibilidade técnica e o interesse público em sua existência. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2067.%20A%20peremp%C3%A7%C3%A3o%20da%20concess%C3%A3o%20ou%20autoriza%C3%A7%C3%A3o%20ser%C3%A1%20declarada%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20precedendo%20parecer%20do%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%2C%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. A caducidade de concessão ou da autorização será declarada pelo Presidente da República, precedendo parecer do Conselho Nacional de Telecomunicações, nos seguintes casos: (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\na) quando a concessão ou a autorização decorra de convênio com outro país, cuja denúncia a torne inexeqüível; (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nb) quando expirarem os prazos de concessão ou autorização decorrente de convênio com outro país, sendo inviável a prorrogação. (Substituída pelo Decreto-lei nº 236, de 28.2.1967)\n\nParágrafo único. A declaração de caducidade só se dará se for impossível evitá-la por convênio com qualquer país ou por inexistência comprovada de frequência no Brasil que possa ser atribuída à concessionária ou permissionária, a fim de que não cesse seu funcionamento. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2068.%20A%20caducidade%20de%20concess%C3%A3o%20ou%20da%20autoriza%C3%A7%C3%A3o%20ser%C3%A1%20declarada%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20precedendo%20parecer%20do%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. A declaração da perempção ou da caducidade, quando viciada por ilegalidade, abuso do poder ou pela desconformidade com os ou motivos alegados, titulará o prejudicado a postular reparação do seu direito perante o Judiciário. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2069.%20A%20declara%C3%A7%C3%A3o%20da%20peremp%C3%A7%C3%A3o%20ou%20da%20caducidade%2C%20quando%20viciada%20por%20ilegalidade%2C%20abuso%20do%20poder%20ou%20pela%20desconformidade%20com%20os%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Constitui crime punível com a pena de detenção de 1 (um) a 2 (dois) anos, aumentada da metade se houver dano a terceiro, a instalação ou utilização de telecomunicações, sem observância do disposto nesta Lei e nos regulamentos. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\nParágrafo único. Precedendo ao processo penal, para os efeitos referidos neste artigo, será liminarmente procedida a busca e apreensão da estação ou aparelho ilegal. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2070.%20Constitui%20crime%20pun%C3%ADvel%20com%20a%20pena%20de%20deten%C3%A7%C3%A3o%20de%201%20%28um%29%20a%202%20%28dois%29%20anos%2C%20aumentada%20da%20metade%20se%20houver",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Toda irradiação será gravada e mantida em arquivo durante as 24 horas subsequentes ao encerramento dos trabalhos diários de emissora. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 1º As Emissoras de televisão poderão gravar apenas o som dos programas transmitidos. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 2º As emissoras deverão conservar em seus arquivos os textos dos programas, inclusive noticiosos devidamente autenticados pelos responsáveis, durante 60 (sessenta) dias. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 3º As gravações dos programas políticos, de debates, entrevistas pronunciamentos da mesma natureza e qualquer irradiação não registrada em texto, deverão ser conservadas em arquivo pelo prazo de 20 (vinte) dias depois de transmitidas, para as concessionárias ou permissionárias até 1 kw e 30 (trinta) dias para as demais. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)\n\n§ 4º As transmissões compulsoriamente estatuídas por lei serão gravadas em material fornecido pelos interessados. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2071.%20Toda%20irradia%C3%A7%C3%A3o%20ser%C3%A1%20gravada%20e%20mantida%20em%20arquivo%20durante%20as%2024%20horas%20subsequentes%20ao%20encerramento%20dos%20trabalhos%20di%C3%A1rios%20de%20emissora.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. A autoridade que impedir ou embaraçar a liberdade da radiodifusão ou da televisão fora dos casos autorizados em lei, incidirá no que couber, na sanção do artigo 322 do Código Penal. (Substituído pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2072.%20A%20autoridade%20que%20impedir%20ou%20embara%C3%A7ar%20a%20liberdade%20da%20radiodifus%C3%A3o%20ou%20da%20televis%C3%A3o%20fora%20dos%20casos%20autorizados%20em%20lei%2C%20incidir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73 a 99 (Revogados pelo Decreto-lei nº 236, de 28.2.1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%2073%20a%2099%20%28Revogados%20pelo%20Decreto-lei%20n%C2%BA%20236%2C%20de%2028.2.1967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art 83. A crítica e o conceito desfavorável, ainda que veementes, ou a narrativa de fatos verdadeiros, não darão motivo a qualquer reparação\".\n\n................................................................................ ..............................................................\n\n\"Art. 98. A autoridade que impedir ou embaraçar a liberdade da radiodifusão ou da televisão, fora dos casos autorizados em lei, incidirá, no que couber, na sanção do artigo 322 do Código Penal\".\n\n................................................................................ ..............................................................\n\n\"Art. 99. A concessionária ou permissionária, ofendida em qualquer direito, poderá pleitear junto ao Judiciário sua reparação, inclusive para salvaguardar a viabilidade econômica do empreendimento, afetada por exigências administrativas que a comprometam, desde que não decorrentes de lei ou regulamento\".\n\n................................................................................ ..............................................................\n\n\"Art. 100 ................................................................................ .......................................\n\n................................................................ cujo valor será fixado em lei\".\n\n................................................................................ ..............................................................\n\n\"Art. 105 ................................................................................ .......................................\n\n................................... e tarifas ................................................................................ ..........\".\n\n................................................................................ ..............................................................\n\n\"Art. 106. A tarifa do serviço telegráfico público interior será constituída de uma taxa fixa por grupo de palavras ou fração, e de taxa de percurso por palavra. A tarifa dos serviços telefônicos, de foto-telegramas, de telex e outros congêneres, terá por base a ocupação do circuito e a distância entre as estações\".\n\n................................................................................ ..............................................................\n\n\"Art. 113 ................................................................................ .......................................\n\n................................... nas estações do Departamento de Correios e Telégrafos\".\n\n................................................................................ ..............................................................\n\n\"Art. 117. As concessões e autorizações para os serviços de radiodifusão em funcionamento ficam automaticamente mantidas pelos prazos fixados no art. 33, § 3º, desta lei\".\n\n................................................................................ ..............................................................\n\n\"Art. 125. O Departamento dos Correios e Telégrafos continuará a exercer as atribuições de fiscalização e a efetuar a arrecadação das atuais taxas, prêmios e contribuições, até que o Conselho Nacional de Telecomunicações esteja devidamente aparelhado para o exercício destas atribuições\".\n\n................................................................................ ..............................................................\n\n\"Art. 126. Enquanto não houver serviços telefônicos entre Brasília e as demais regiões do país, em condições de atender aos membros do Congresso Nacional em assuntos relacionados com o exercício de seus mandatos, o Conselho Nacional de Telecomunicações deverá reservar freqüências para serem utilizadas por estações transmissoras e receptoras particulares, com aquêle objetivo, observados os preceitos legais e regulamentares que disciplinam a matéria\".\n\nBrasília, em 14 de dezembro de 1962; 141º da Independência e 74º da República.\n\nJOÃO GOULART\n\nEste texto não substitui o publicado no DOU de 17.12.1962\n\nCONSELHO NACIONAL DE TELECOMUNICAÇõES TABELA I Cargos de Provimento em Comissão\n\nNúmero de Cargos\n\nDENOMINAÇÃO\n\nSímbolo\n\nQualificação\n\n1\n\nPresidente do Conselho Nacional de Telecomunicações\n\n1-c\n\n*\n\n13\n\nMembros do Conselho Nacional de Telecomunicações\n\n1-c\n\n1\n\nDiretor-Geral do Departamento Nacional de Telecomunicações\n\n1-c\n\n*\n\n1\n\nDiretor da Divisão de Engenharia do Departamento Nacional de Telecomunicações\n\n3-c\n\nEngenheiro\n\n1\n\nDiretor da Divisão Jurídica do Departamento Nacional de Telecomunicações\n\n3-c\n\nBacharel\n\n1\n\nDiretor da Divisão de Administração do Departamento Nacional de Telecomunicações\n\n3-c\n\n**\n\n1\n\nDiretor da Divisão de Estatística do Departamento Nacional de Telecomunicações\n\n3-c\n\nEstatístico\n\n1\n\nDiretor da Divisão de Fiscalização do Departamento Nacional de Telecomunicações\n\n3-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Belém, o Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Recife, Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Brasília, do Departamento Nacional de Telecomunicações.\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Salvador, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, na Guanabara, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em São Paulo, do Departamento Nacional de Telecomunicaçõe\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Pôrto Alegre, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Campo Grande, MT, do Departamento Nacional de Telecomunicações\n\nEngenheiro\n\n* - Curso superior, experiência e tirocínio em administração pública.\n\n** - Experiência e tirocínio em administração pública.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art%2083.%20A%20cr%C3%ADtica%20e%20o%20conceito%20desfavor%C3%A1vel%2C%20ainda%20que%20veementes%2C%20ou%20a%20narrativa%20de%20fatos%20verdadeiros%2C%20n%C3%A3o%20dar%C3%A3o%20motivo%20a%20qualquer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "100"
+    },
+    "100": {
+      "numero": "100",
+      "texto": "Art. 100. A execução de qualquer serviço de telecomunicações, por meio de concessão, autorização ou permissão, está sujeita ao pagamento de taxas cujo valor será fixado em lei. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20100.%20A%20execu%C3%A7%C3%A3o%20de%20qualquer%20servi%C3%A7o%20de%20telecomunica%C3%A7%C3%B5es%2C%20por%20meio%20de%20concess%C3%A3o%2C%20autoriza%C3%A7%C3%A3o%20ou%20permiss%C3%A3o%2C%20est%C3%A1%20sujeita%20ao%20pagamento%20de%20taxas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "101"
+    },
+    "101": {
+      "numero": "101",
+      "texto": "Art. 101. Os critérios para determinação da tarifa dos serviços de telecomunicações, excluídas as referentes à Radiodifusão, serão fixados pelo Conselho Nacional de Telecomunicações de modo a permitirem:\n\na) cobertura das despesas de custeio;\n\nb) justa remuneração do capital;\n\nc) melhoramentos e expansão dos serviços (Constituição, art. 151, parágrafo único).\n\n§ 1º As tarifas dos serviços internacionais obedecerão aos mesmos princípios dêste artigo, observando-se o que estiver ou vier a ser estabelecido em acordos e convenções a que o Brasil esteja obrigado.\n\n§ 2º Nenhuma tarifa entrará em vigor sem prévia aprovação pelo Conselho Nacional de Telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20101.%20Os%20crit%C3%A9rios%20para%20determina%C3%A7%C3%A3o%20da%20tarifa%20dos%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%2C%20exclu%C3%ADdas%20as%20referentes%20%C3%A0%20Radiodifus%C3%A3o%2C%20ser%C3%A3o%20fixados%20pelo%20Conselho%20Nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "100",
+      "next": "102"
+    },
+    "102": {
+      "numero": "102",
+      "texto": "Art. 102. A parte da tarifa que se destinar a melhoramentos e expansão dos serviços de telecomunicações, de que trata o art. 101, letra c, será escriturada em rubrica especial na contabilidade da emprêsa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20102.%20A%20parte%20da%20tarifa%20que%20se%20destinar%20a%20melhoramentos%20e%20expans%C3%A3o%20dos%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%2C%20de%20que%20trata%20o%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "101",
+      "next": "103"
+    },
+    "103": {
+      "numero": "103",
+      "texto": "Art. 103. Não poderão ser incluídos na composição do custo do serviço, para efeito da revisão ou fixação tarifária:\n\na) despesas de publicidade das concessionárias e permissionárias;\n\nb) assistência técnica devida a emprêsas que pertençam a holding, de que faça parte também a concessionária ou permissionária;\n\nc) honorários advocatícios, ou despesas com pareceres, quando a emprêsa possua órgãos técnicos permanentes para o serviço forense;\n\nd) despesa com peritos da parte, sempre que no quadro da emprêsa figurem pessoas habilitadas para a perícia em questão;\n\ne) vencimentos de diretores ou chefes de serviços, no que vierem a exceder a remuneração atribuída, no serviço federal, ao Ministro de Estado;\n\nf) despesas não cobradas com serviços de qualquer natureza que a lei não haja tornado gratuitos, ou que não tenham sido dispensados de pagamento em resolução do Conselho Nacional de Telecomunicações, publicada no Diário Oficial.\n\nParágrafo único. A publicação de editais ou de notícias de evidente interêsse público, não se incluirá na redação da letra a desde que prèviamente autorizada pelo Conselho Nacional de Telecomunicações e distribuída uniformemente por todos os jornais diários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20103.%20N%C3%A3o%20poder%C3%A3o%20ser%20inclu%C3%ADdos%20na%20composi%C3%A7%C3%A3o%20do%20custo%20do%20servi%C3%A7o%2C%20para%20efeito%20da%20revis%C3%A3o%20ou%20fixa%C3%A7%C3%A3o%20tarif%C3%A1ria%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "102",
+      "next": "104"
+    },
+    "104": {
+      "numero": "104",
+      "texto": "Art. 104. Será adotada tarifa especial para os programas educativos dos Estados, Municípios e Distrito Federal, assim como para as instituições privadas de ensino e de cultura. (Vide Decreto nº 1.005, de 1993) (Vide Decreto nº 1.352, de 1994) (Vide Decreto nº 1.589, de 1995)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20104.%20Ser%C3%A1%20adotada%20tarifa%20especial%20para%20os%20programas%20educativos%20dos%20Estados%2C%20Munic%C3%ADpios%20e%20Distrito%20Federal%2C%20assim%20como%20para%20as%20institui%C3%A7%C3%B5es%20privadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "103",
+      "next": "105"
+    },
+    "105": {
+      "numero": "105",
+      "texto": "Art. 105. Na ocorrência de novas modalidades do serviço, poderá o Govêrno até que a lei disponha a respeito, adotar taxas e tarifas provisórias, calculadas na base das que são cobradas em serviço análogo ou fixadas para a espécie em regulamento internacional. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20105.%20Na%20ocorr%C3%AAncia%20de%20novas%20modalidades%20do%20servi%C3%A7o%2C%20poder%C3%A1%20o%20Gov%C3%AArno%20at%C3%A9%20que%20a%20lei%20disponha%20a%20respeito%2C%20adotar%20taxas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "104",
+      "next": "106"
+    },
+    "106": {
+      "numero": "106",
+      "texto": "Art. 106. A tarifa do serviço telegráfico público interior será constituída de uma taxa fixa por grupo de palavras ou fração, e de taxa de percurso por palavra. A tarifa dos serviços telefônicos, de foto-telegramas, de telex e outros congêneres, terá por base a ocupação do circuito e a distância entre as estações. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20106.%20A%20tarifa%20do%20servi%C3%A7o%20telegr%C3%A1fico%20p%C3%BAblico%20interior%20ser%C3%A1%20constitu%C3%ADda%20de%20uma%20taxa%20fixa%20por%20grupo%20de%20palavras%20ou%20fra%C3%A7%C3%A3o%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "105",
+      "next": "107"
+    },
+    "107": {
+      "numero": "107",
+      "texto": "Art. 107. No serviço telegráfico público internacional a União terá direito às taxas de terminal e de trânsito brasileiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20107.%20No%20servi%C3%A7o%20telegr%C3%A1fico%20p%C3%BAblico%20internacional%20a%20Uni%C3%A3o%20ter%C3%A1%20direito%20%C3%A0s%20taxas%20de%20terminal%20e%20de%20tr%C3%A2nsito%20brasileiras.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "106",
+      "next": "108"
+    },
+    "108": {
+      "numero": "108",
+      "texto": "Art. 108. Em relação à que for cobrada pela União em serviço interior idêntico, a tarifa dos concessionários e permissionários, deverá ser:\n\na) igual, no serviço telegráfico das estradas de ferro;\n\nb) nunca inferior nos casos de serviço público restrito interior;\n\nc) sempre mais elevada, nos demais casos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20108.%20Em%20rela%C3%A7%C3%A3o%20%C3%A0%20que%20for%20cobrada%20pela%20Uni%C3%A3o%20em%20servi%C3%A7o%20interior%20id%C3%AAntico%2C%20a%20tarifa%20dos%20concession%C3%A1rios%20e%20permission%C3%A1rios%2C%20dever%C3%A1%20ser%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "107",
+      "next": "109"
+    },
+    "109": {
+      "numero": "109",
+      "texto": "Art. 109. No serviço público telegráfico interior em tráfego mútuo entre rêdes da União e de estradas de ferro, a prórateação das taxas obedecerá ao que fôr estipulado pelo Conselho Nacional de Telecomunicações.\n\nParágrafo único. Os convênios serão aprovados pelo Conselho Nacional de Telecomunicações e o rateio das taxas obedecerá às normas por êle estabelecidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20109.%20No%20servi%C3%A7o%20p%C3%BAblico%20telegr%C3%A1fico%20interior%20em%20tr%C3%A1fego%20m%C3%BAtuo%20entre%20r%C3%AAdes%20da%20Uni%C3%A3o%20e%20de%20estradas%20de%20ferro%2C%20a%20pr%C3%B3ratea%C3%A7%C3%A3o%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "108",
+      "next": "110"
+    },
+    "110": {
+      "numero": "110",
+      "texto": "Art. 110. Nos serviços de telegramas e radiocomunicações de múltiplos destinos será cobrada a tarifa que vigorar para a imprensa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20110.%20Nos%20servi%C3%A7os%20de%20telegramas%20e%20radiocomunica%C3%A7%C3%B5es%20de%20m%C3%BAltiplos%20destinos%20ser%C3%A1%20cobrada%20a%20tarifa%20que%20vigorar%20para%20a%20imprensa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "109",
+      "next": "111"
+    },
+    "111": {
+      "numero": "111",
+      "texto": "Art. 111. A tarifa dos radiotelegramas internacionais será estabelecida segundo os respectivos regulamentos, considerando-se, porém, serviço público interior para êsse efeito os radiotelegramas diretamente permutados entre as estações brasileiras fixas ou móveis e as estações brasileiras móveis que se acharem fora da jurisdição territorial do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20111.%20A%20tarifa%20dos%20radiotelegramas%20internacionais%20ser%C3%A1%20estabelecida%20segundo%20os%20respectivos%20regulamentos%2C%20considerando-se%2C%20por%C3%A9m%2C%20servi%C3%A7o%20p%C3%BAblico%20interior%20para%20%C3%AAsse%20efeito%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "110",
+      "next": "112"
+    },
+    "112": {
+      "numero": "112",
+      "texto": "Art. 112. As disposições sôbre tarifas sòmente têm aplicação nos casos de serviços remunerados.\n\nParágrafo único. O orçamento consignará anualmente dotação suficiente para cobertura das despesas correspondentes às taxas postais-telegráficas resultantes dos serviços dos órgãos dos Poderes Executivo, Legislativo e Judiciário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20112.%20As%20disposi%C3%A7%C3%B5es%20s%C3%B4bre%20tarifas%20s%C3%B2mente%20t%C3%AAm%20aplica%C3%A7%C3%A3o%20nos%20casos%20de%20servi%C3%A7os%20remunerados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "111",
+      "next": "113"
+    },
+    "113": {
+      "numero": "113",
+      "texto": "Art. 113. Os concessionários e permissionários não poderão cobrar tarifas diferentes das que para os mesmos destinos no exterior e pela mesma via, estejam em vigor nas estações do Departamento de Correios e Telégrafos. (Partes mantidas pelo Congresso Nacional)\n\nDISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20113.%20Os%20concession%C3%A1rios%20e%20permission%C3%A1rios%20n%C3%A3o%20poder%C3%A3o%20cobrar%20tarifas%20diferentes%20das%20que%20para%20os%20mesmos%20destinos%20no%20exterior%20e%20pela%20mesma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "112",
+      "next": "114"
+    },
+    "114": {
+      "numero": "114",
+      "texto": "Art. 114. Ficam revogados os dispositivos em vigor referentes ao registro de aparelhos receptores de radiodifusão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20114.%20Ficam%20revogados%20os%20dispositivos%20em%20vigor%20referentes%20ao%20registro%20de%20aparelhos%20receptores%20de%20radiodifus%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "113",
+      "next": "115"
+    },
+    "115": {
+      "numero": "115",
+      "texto": "Art. 115. São anistiadas as dívidas pelo não pagamento de taxa de registro de aparelhos receptores de radiodifusão, devendo o Poder Executivo providenciar o imediato cancelamento dessas dívidas, inclusive as já inscritas e ajuizadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20115.%20S%C3%A3o%20anistiadas%20as%20d%C3%ADvidas%20pelo%20n%C3%A3o%20pagamento%20de%20taxa%20de%20registro%20de%20aparelhos%20receptores%20de%20radiodifus%C3%A3o%2C%20devendo%20o%20Poder%20Executivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "114",
+      "next": "116"
+    },
+    "116": {
+      "numero": "116",
+      "texto": "Art. 116. Regulamentada esta lei, constituído e instalado o Conselho Nacional de Telecomunicações, ficará extinta a Comissão Técnica de Rádio, transferindo-se o seu pessoal, arquivo, expediente e instalações para o Conselho Nacional de Telecomunicações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20116.%20Regulamentada%20esta%20lei%2C%20constitu%C3%ADdo%20e%20instalado%20o%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%2C%20ficar%C3%A1%20extinta%20a%20Comiss%C3%A3o%20T%C3%A9cnica%20de%20R%C3%A1dio%2C%20transferindo-se%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "115",
+      "next": "117"
+    },
+    "117": {
+      "numero": "117",
+      "texto": "Art. 117. As concessões e autorizações para os serviços de radiodifusão em funcionamento ficam automaticamente mantidas pelos prazos fixados no art. 33, § 3º, desta lei. (Partes mantidas pelo Congresso Nacional) (Vide Lei nº 5.785, de 1972)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20117.%20As%20concess%C3%B5es%20e%20autoriza%C3%A7%C3%B5es%20para%20os%20servi%C3%A7os%20de%20radiodifus%C3%A3o%20em%20funcionamento%20ficam%20automaticamente%20mantidas%20pelos%20prazos%20fixados%20no%20art.%2033%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "116",
+      "next": "118"
+    },
+    "118": {
+      "numero": "118",
+      "texto": "Art. 118. O Conselho Nacional de Telecomunicações procederá, imediatamente, ao levantamento das concessões, autorizações e permissões, propondo ao Presidente da República a extinção daquelas cujos serviços não estiverem funcionando por culpa dos concessionários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20118.%20O%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20proceder%C3%A1%2C%20imediatamente%2C%20ao%20levantamento%20das%20concess%C3%B5es%2C%20autoriza%C3%A7%C3%B5es%20e%20permiss%C3%B5es%2C%20propondo%20ao%20Presidente%20da%20Rep%C3%BAblica%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "117",
+      "next": "119"
+    },
+    "119": {
+      "numero": "119",
+      "texto": "Art. 119. Até que seja aprovado o seu Quadro de Pessoal os serviços a cargo do Conselho Nacional de Telecomunicações serão executados por servidores públicos civis e militares, requisitados na forma da legislação em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20119.%20At%C3%A9%20que%20seja%20aprovado%20o%20seu%20Quadro%20de%20Pessoal%20os%20servi%C3%A7os%20a%20cargo%20do%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20ser%C3%A3o%20executados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "118",
+      "next": "120"
+    },
+    "120": {
+      "numero": "120",
+      "texto": "Art. 120. Após a sua instalação, o Conselho Nacional de Telecomunicações proporá, dentro de 90 (noventa) dias, a organização dos quadros de seus serviços e órgãos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20120.%20Ap%C3%B3s%20a%20sua%20instala%C3%A7%C3%A3o%2C%20o%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20propor%C3%A1%2C%20dentro%20de%2090%20%28noventa%29%20dias%2C%20a%20organiza%C3%A7%C3%A3o%20dos%20quadros%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "119",
+      "next": "121"
+    },
+    "121": {
+      "numero": "121",
+      "texto": "Art. 121. O Conselho Nacional de Telecomunicações procederá à revisão dos contratos das emprêsas de telecomunicações que funcionam no país, observando:\n\na) a padronização de todos os contratos, observadas as circunstâncias peculiares a cada tipo de serviço;\n\nb) a fixação de prazo para as concessionárias autorizadas a funcionar no país se adaptarem aos preceitos da presente lei e às disposições do seu respectivo regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20121.%20O%20Conselho%20Nacional%20de%20Telecomunica%C3%A7%C3%B5es%20proceder%C3%A1%20%C3%A0%20revis%C3%A3o%20dos%20contratos%20das%20empr%C3%AAsas%20de%20telecomunica%C3%A7%C3%B5es%20que%20funcionam%20no%20pa%C3%ADs%2C%20observando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "120",
+      "next": "122"
+    },
+    "122": {
+      "numero": "122",
+      "texto": "Art. 122. É o Departamento dos Correios e Telégrafos dispensado de no último dia do ano, recolher a conta de \"restos a pagar\", as importâncias empenhadas na aquisição de material ou na contratação ou ajuste de serviços de terceiros, não entregues ou não concluídos antes daquela data.\n\n§ 1º As importâncias serão depositadas no Banco do Brasil, em conta vinculada com o fornecedor, só podendo ser liberadas quando certificado o recebimento.\n\n§ 2º A conta vinculada mencionará específicamente a data limite de entrega ou de conclusão dos serviços.\n\n§ 3º 30 (trinta) dias após a data limite e não tendo o Departamento dos Correios e Telégrafos liberado a conta, o Banco do Brasil recolherá o depósito à conta de \"restos a pagar\" da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20122.%20%C3%89%20o%20Departamento%20dos%20Correios%20e%20Tel%C3%A9grafos%20dispensado%20de%20no%20%C3%BAltimo%20dia%20do%20ano%2C%20recolher%20a%20conta%20de%20%22restos%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "121",
+      "next": "123"
+    },
+    "123": {
+      "numero": "123",
+      "texto": "Art. 123. As disposições legais e regulamentares que disciplinam os serviços de telecomunicações não colidentes com esta lei e não revogadas ou derrogadas, explícita ou implícitamente, pela mesma, deverão ser consolidadas pelo Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20123.%20As%20disposi%C3%A7%C3%B5es%20legais%20e%20regulamentares%20que%20disciplinam%20os%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20n%C3%A3o%20colidentes%20com%20esta%20lei%20e%20n%C3%A3o%20revogadas%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "122",
+      "next": "124"
+    },
+    "124": {
+      "numero": "124",
+      "texto": "Art. 124. O tempo destinado na programação das estações de radiodifusão, à publicidade comercial, não poderá exceder de 25% (vinte e cinco por cento) do total.\n\n§ 1º Para os fins desta Lei, considera-se publicidade comercial o espaço da programação para a difusão de mensagens e informações com conteúdo próprio de publicidade de produtos e serviços para os consumidores e/ou de promoção de imagem e marca de empresas. (Incluído pela Lei nº 14.408, de 2022)\n\n§ 2º As emissoras que, pela legislação em vigor, possuam outorgas de caráter não oneroso estarão desobrigadas do pagamento previsto no § 1º deste artigo, sem prejuízo das demais formalidades necessárias à aprovação do pedido. (Incluído pela Lei nº 15.182, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20124.%20O%20tempo%20destinado%20na%20programa%C3%A7%C3%A3o%20das%20esta%C3%A7%C3%B5es%20de%20radiodifus%C3%A3o%2C%20%C3%A0%20publicidade%20comercial%2C%20n%C3%A3o%20poder%C3%A1%20exceder%20de%2025%25%20%28vinte%20e%20cinco",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "123",
+      "next": "125"
+    },
+    "125": {
+      "numero": "125",
+      "texto": "Art. 125. O Departamento dos Correios e Telégrafos continuará a exercer as atribuições de fiscalização e a efetuar a arrecadação das atuais taxas, prêmios e contribuições, até que o Conselho Nacional de Telecomunicações esteja devidamente aparelhado para o exercício destas atribuições. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20125.%20O%20Departamento%20dos%20Correios%20e%20Tel%C3%A9grafos%20continuar%C3%A1%20a%20exercer%20as%20atribui%C3%A7%C3%B5es%20de%20fiscaliza%C3%A7%C3%A3o%20e%20a%20efetuar%20a%20arrecada%C3%A7%C3%A3o%20das%20atuais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "124",
+      "next": "126"
+    },
+    "126": {
+      "numero": "126",
+      "texto": "Art. 126. Enquanto não houver serviços telefônicos entre Brasília e as demais regiões do país, em condições de atender aos membros do Congresso Nacional em assuntos relacionados com o exercício de seus mandatos, o Conselho Nacional de Telecomunicações deverá reservar freqüências para serem utilizadas por estações transmissoras e receptoras particulares, com aquêle objetivo, observados os preceitos legais e regulamentares que disciplinam a matéria. (Partes mantidas pelo Congresso Nacional)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20126.%20Enquanto%20n%C3%A3o%20houver%20servi%C3%A7os%20telef%C3%B4nicos%20entre%20Bras%C3%ADlia%20e%20as%20demais%20regi%C3%B5es%20do%20pa%C3%ADs%2C%20em%20condi%C3%A7%C3%B5es%20de%20atender%20aos%20membros%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "125",
+      "next": "127"
+    },
+    "127": {
+      "numero": "127",
+      "texto": "Art. 127. É o Poder Executivo autorizado a abrir, no Ministério da Fazenda, o crédito especial de Cr$30.000.000,00 (trinta milhões de cruzeiros) destinado a atender, no corrente exercício, às despesas de qualquer natureza com a instalação e funcionamento do Conselho Nacional de Telecomunicações.\n\nDISPOSIÇÕES FINAIS",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20127.%20%C3%89%20o%20Poder%20Executivo%20autorizado%20a%20abrir%2C%20no%20Minist%C3%A9rio%20da%20Fazenda%2C%20o%20cr%C3%A9dito%20especial%20de%20Cr%2430.000.000%2C00%20%28trinta%20milh%C3%B5es%20de%20cruzeiros%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "126",
+      "next": "128"
+    },
+    "128": {
+      "numero": "128",
+      "texto": "Art. 128. Esta lei entrará em vigor na data de sua publicação e deverá ser regulamentada, por ato do Poder Executivo, dentro de 90 (noventa) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20128.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%20e%20dever%C3%A1%20ser%20regulamentada%2C%20por%20ato%20do%20Poder%20Executivo%2C%20dentro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "127",
+      "next": "129"
+    },
+    "129": {
+      "numero": "129",
+      "texto": "Art. 129. Revogam-se as disposições em contrário.\n\nBrasília, 27 de agôsto de 1962; 141º da Independência e 74º da República.\n\nJOÃO GOULART Francisco Brochado da Rocha Candido de Oliveira Neto Pedro Paulo de Araújo Suzano Miguel Calmon Hélio de Almeida Reynaldo de Carvalho Filho Carlos Siqueira Castro\n\nEste texto não substitui o publicado no DOU de 5.10.1962 e retificado em 31.12.1962\n\nCONSELHO NACIONAL DE TELECOMUNICAÇõES TABELA I Cargos de Provimento eM Comissão (Partes mantidas pelo Congresso Nacional)\n\nNúmero de Cargos\n\nDENOMINAÇÃO\n\nSímbolo\n\nQualificação\n\n1\n\nPresidente do Conselho Nacional de Telecomunicações\n\n1-c\n\n*\n\n13\n\nMembros do Conselho Nacional de Telecomunicações\n\n1-c\n\n1\n\nDiretor-Geral do Departamento Nacional de Telecomunicações\n\n1-c\n\n*\n\n1\n\nDiretor da Divisão de Engenharia do Departamento Nacional de Telecomunicações\n\n3-c\n\nEngenheiro\n\n1\n\nDiretor da Divisão Jurídica do Departamento Nacional de Telecomunicações\n\n3-c\n\nBacharel\n\n1\n\nDiretor da Divisão de Administração do Departamento Nacional de Telecomunicações\n\n3-c\n\n**\n\n1\n\nDiretor da Divisão de Estatística do Departamento Nacional de Telecomunicações\n\n3-c\n\nEstatístico\n\n1\n\nDiretor da Divisão de Fiscalização do Departamento Nacional de Telecomunicações\n\n3-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Belém, o Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Recife, Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Brasília, do Departamento Nacional de Telecomunicações.\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Salvador, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, na Guanabara, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em São Paulo, do Departamento Nacional de Telecomunicaçõe\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Pôrto Alegre, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n1\n\nDelegado Regional, em Campo Grande, MT, do Departamento Nacional de Telecomunicações\n\n5-c\n\nEngenheiro\n\n* - Curso superior, experiência e tirocínio em administração pública.\n\n** - Experiência e tirocínio em administração pública.\n\nLEI Nº 4.117, DE 27 DE AGOSTO DE 1962.\n\nPartes vetadas pelo Presidente da República e mantidas pelo CONGRESSO NACIONAL, do Projeto que se transformou na Lei nº 4.117, de 27 de agôsto de 1962 (que institui o Código Brasileiro de Telecomunicações).\n\nFaço saber que o CONGRESSO NACIONAL manteve e eu promulgo, nos têrmos do art. 70, § 3º, da Constituição Federal e do art. 3º, item III, da Ato Adicional, os seguintes dispositivos da Lei nº 4.117, de 27 de agôsto de 1962:\n\n\" Art 3º Os atos Internacionais de natureza administrativa entrarão em vigor na data estabelecida em sua publicação depois de aprovados pelo Presidente da República (art. 29, aI)\"\n\n................................................................................ ......................................................\n\n\" Art 4º............................................................................... ............................................\n\n................................................................................ ..............................................................\n\n§ 2º Os contratos de concessão, as autorizações e permissões serão interpretados e executados de acôrdo com as definições vigentes na época em que os mesmos tenham sido celebrados ou expedidos\".\n\n................................................................................ ..............................................................\n\n\"Art. 9º O Conselho Nacional de Telecomunicações ao planejar o Sistema Nacional de Telecomunicações, discriminará os troncos e os centro principais de telecomunicações.\n\n§ 1º Na discriminação a que se refere, êste artigo serão incluídas, na medida das possibilidades e conveniências entre os centros principais de telecomunicação, a Capital da República e as capitais de todos os Estados e Territórios.\n\n§ 2º O Conselho Nacional de Telecomunicações estabelecerá as prioridades, segundo as quais se procederá à instalação dos troncos e rêdes do Sistema Nacional de Telecomunicações\".\n\n................................................................................ ..............................................................\n\n\"Art. 10 ................................................................................ .........................................\n\nI - ................................................................................ ................................................\n\na) ......................... dos troncos ................................................................................ ...\"\n\n................................................................................ ..............................................................\n\n\"Art. 14 ................................................................................ .........................................\n\n..........................................e competência diretamente subordinado ao Presidente da República\".\n\n................................................................................ ..............................................................\n\n\"Art. 15 ................................................................................ .........................................\n\na) ................................................................................ .................................................\n\n............................................................pessoa escolhida entre os membros de seu Gabinete ou\n\n................................................................................ ..............................................................\n\ne) e de 3 (três) representantes dos 3 (três) maiores partidos políticos, segundo a respectiva representação na Câmara dos Deputados no início da legislatura, indicados pela direção nacional de cada agremiação.\n\nf) ............................ ..........dos troncos.............................................. ............................................................ pessoa escolhida entre os membros de seu Gabinete ou...........................................................\n\ng) do Diretor Geral do Departamento Nacional de Telecomunicações, sem direito a voto.\n\n§ 1º Se os três partidos a que se refere a alínea \"e\" estiveram todos apoiando o Govêrno, o partido de menor representação será substituído pelo maior partido de oposição, com representação na Câmara dos Deputados.\n\n§ 2º Os representantes dos partidos políticos de que trata êste artigo serão indicados até 30 (trinta) dias após o início de cada legislatura\".\n\n................................................................................ ..............................................................\n\n\"Art. 16 ................................................................................ .........................................\n\n............................e e................................................................................ .............................\n\nParágrafo único. Será de dois anos apenas o primeiro mandato dos membros indicados nas alíneas \" b \" e observado o disposto no § 2º do artigo anterior\".\n\n................................................................................ ..............................................................\n\n\"Art. 23 ................................................................................ .........................................\n\n.....como diretor, técnico, consultor, advogado, perito, acionista, cotista, debenturista, sócio ou assalariado, nem tão pouco ter qualquer interêsse direito ou indireto na manufatura ou venda de matéria aplicável a telecomunicação\".\n\n................................................................................ ..............................................................\n\n\"Art. 24 .........................unânimes............................................... ...................................\n\n......................no das que não o forem, caberá ........................................................................\"\n\n................................................................................ ..............................................................\n\n\"Art. 25. O Departamento Nacional de Telecomunicações é a secretaria executiva do Conselho e terá a, seguinte organização administrativa:\n\nI - Divisão de Engenharia\n\nII - Divisão Jurídica\n\nIII - Divisão Administrativa\n\nIV - Divisão de Estatística\n\nV - Divisão de Fiscalização\n\nVI - Delegacias Regionais\".\n\n................................................................................ ..............................................................\n\n\"Art. 26. O território nacional fica dividido em oito Distritos, a cada um dos quais corresponderá uma Delegacia Regional, com sede, respectivamente em\n\nBrasília (DF)\n\nBelém (PA)\n\nRecife (PE)\n\nSalvador (BA)\n\nRio de Janeiro (GB)\n\nSão Paulo (SP)\n\nPôrto Alegre (RS)\n\nCampo Grande (MT)\n\nParágrafo único. Cada Distrito terá a jurisdição delimitada pelo Conselho\".\n\n................................................................................ ..............................................................\n\n\"Art. 27. São criados, no Conselho, os cargos de provimento em comissão constantes da tabela anexa\".\n\n................................................................................ ..............................................................\n\n\"Art. 28 ................................................................................ .................... o diretor geral\n\nos diretores de divisão e os delegados regionais........................................................................ ..\n\n................................................................................ ..............................................................\n\n\"Art. 29 ................................................................................ .........................................\n\n................................................................................ ..............................................................\n\nc) ................................................................................ ................................................\n\n................................................................... para a devida apropriação pelo Congresso Nacional:\n\n................................................................................ ..............................................................\n\ne) promover ................................................................................ ..................................\n\n..................... bem como a constituição, organização, articulação e expansão dos serviços públicos de telecomunicações;\n\n................................................................................ ..............................................................\n\nf) estabelecer as prioridades previstas no art. 9º, § 2º, desta lei.\n\n................................................................................ ..............................................................\n\nal) ...................... de natureza administrativa, antes de sua aprovação pelo Presidente da República (artigo 3º) \"\n\n................................................................................ ..............................................................\n\n\"Art. 33 ................................................................................ .........................................\n\n................................................................................ ..............................................................\n\n3º Os prazos de concessão e autorização serão de 10 (dez) anos para o serviço de radiodifusão sonora e de 15 (quinze) anos para o de televisão, podendo ser renovados por períodos sucessivos e iguais, se os concessionários houverem cumprido tôdas as obrigações legais e contratuais, mantido a mesma idoneidade técnica, financeira e moral, e atendido o interêsse público (art. 29 X).\n\n§ 4º Havendo a concessionária requerido, em tempo hábil, a prorrogação da respectiva concessão ter-se-á a mesma como deferida se o órgão competente não decidir dentro de 120 (cento e vinte) dias\"\n\n................................................................................ ..............................................................\n\n\"Art. 37 Os serviços de telecomunicações podem ser desapropriados, ou requisitados nos termos do artigo 141\n\n16 da Constituição, e das leis vigentes.\n\nParágrafo único. No cálculo da indenização serão deduzidos os favores cambiais e fiscais concedidos pela União e pelos Estados\".\n\n................................................................................ ..............................................................\n\n\"Art. 38 - c) ................................................................................ ...................................\n\n................................................................................ ..............................................................\n\nO silêncio do Poder concedente ao fim de 90 (noventa) dias contados da data da entrega do requerimento de transferência de ações ou cotas implicará na autorização\".\n\n................................................................................ ..............................................................\n\n\"Art. 42 ................................................................................ .........................................\n\n................................................................................ ..............................................................\n\nc) desapropriação de serviços existentes, na forma da legislação vigente.\n\n................................................................................ ..............................................................\n\n4º A entidade poderá requisitar do Departamento dos Correios e Telégrafos o pessoal de que necessite para o seu funcionamento, correndo o pagamento respectivo à conta de seus recursos próprios\".\n\n................................................................................ ..............................................................",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm#:~:text=Art.%20129.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "128",
+      "next": null
+    }
+  }
+}

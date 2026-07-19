@@ -731,6 +731,59 @@
     "LC150:2"
    ],
    "justificativa": "O art. 2º fixa a duração normal de 8 horas diárias e 44 semanais; o art. 1º delimita quem é empregado doméstico; o art. 3º trata do regime de tempo parcial; o art. 12 obriga o registro de horário. O art. 4º (contrato por prazo determinado), também recuperado, não versa sobre jornada."
+  },
+  {
+   "id": "cflo-app-reserva-legal",
+   "grupo": "legislacao",
+   "consulta": "área de preservação permanente reserva legal",
+   "filtro": {
+    "codigo": "CFLO"
+   },
+   "relevantes": [
+    "CFLO:3",
+    "CFLO:12",
+    "CFLO:14",
+    "CFLO:15",
+    "CFLO:1"
+   ],
+   "obrigatorios": [
+    "CFLO:3",
+    "CFLO:12"
+   ],
+   "justificativa": "O art. 3º define APP e Reserva Legal; o art. 12 impõe a Reserva Legal ao imóvel rural; os arts. 14 e 15 tratam da localização e do cômputo de APP no percentual; o art. 1º-A delimita o objeto da lei mencionando os dois institutos."
+  },
+  {
+   "id": "cpm-crime-militar-tempo-paz",
+   "grupo": "legislacao",
+   "consulta": "consideram-se crimes militares tempo de paz",
+   "filtro": {
+    "codigo": "CPM"
+   },
+   "relevantes": [
+    "CPM:9",
+    "CPM:22"
+   ],
+   "obrigatorios": [
+    "CPM:9"
+   ],
+   "justificativa": "O art. 9º é a sede da definição dos crimes militares em tempo de paz; o art. 22 define quem é militar para a aplicação do Código. Os arts. 8º, 10 e 20, também recuperados, tratam de pena cumprida no estrangeiro e do regime de tempo de guerra e não respondem à consulta."
+  },
+  {
+   "id": "cba-responsabilidade-transportador",
+   "grupo": "legislacao",
+   "consulta": "transportador responde pelo dano passageiro",
+   "filtro": {
+    "codigo": "CBA"
+   },
+   "relevantes": [
+    "CBA:256",
+    "CBA:260",
+    "CBA:267"
+   ],
+   "obrigatorios": [
+    "CBA:256"
+   ],
+   "justificativa": "O art. 256 fixa a responsabilidade do transportador por morte ou lesão de passageiro; o art. 260 a responsabilidade por bagagem; o art. 267 a responsabilidade civil sem contrato de transporte. Os arts. 234 (nota de bagagem) e 239 (responsabilidade do expedidor) não foram julgados relevantes."
   }
  ]
 }

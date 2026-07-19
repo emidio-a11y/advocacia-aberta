@@ -1,0 +1,1631 @@
+{
+  "_meta": {
+    "codigo": "CMIN",
+    "nome": "Código de Minas",
+    "lei": "Decreto-Lei 227/1967",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm",
+    "total_artigos": 101,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Compete à União administrar os recursos minerais, a indústria de produção mineral e a distribuição, o comércio e o consumo de produtos minerais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%201%C2%BA%20Compete%20%C3%A0%20Uni%C3%A3o%20administrar%20os%20recursos%20minerais%2C%20a%20ind%C3%BAstria%20de%20produ%C3%A7%C3%A3o%20mineral%20e%20a%20distribui%C3%A7%C3%A3o%2C%20o%20com%C3%A9rcio%20e%20o%20consumo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º. Os regimes de aproveitamento das substâncias minerais, para efeito deste Código, são: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - regime de concessão, quando depender de portaria de concessão do Ministro de Estado de Minas e Energia; (Redação dada pela Lei nº 9.314, de 1996)\n\nII - regime de autorização, quando depender de expedição de alvará de autorização do Diretor-Geral do Departamento Nacional de Produção Mineral - DNPM; (Redação dada pela Lei nº 9.314, de 1996)\n\nIII - regime de licenciamento, quando depender de licença expedida em obediência a regulamentos administrativos locais e de registro da licença no Departamento Nacional de Produção Mineral - DNPM; (Redação dada pela Lei nº 9.314, de 1996)\n\nIV - regime de permissão de lavra garimpeira, quando depender de portaria de permissão do Diretor-Geral do Departamento Nacional de Produção Mineral - DNPM; (Redação dada pela Lei nº 9.314, de 1996)\n\nV - regime de monopolização, quando, em virtude de lei especial, depender de execução direta ou indireta do Governo Federal. (Incluído pela Lei nº 9.314, de 1996)\n\nParágrafo único. O disposto neste artigo não se aplica aos órgãos da administração direta e autárquica da União, dos Estados, do Distrito Federal e dos Municípios, sendo-lhes permitida a extração de substâncias minerais de emprego imediato na construção civil, definidas em Portaria do Ministério de Minas e Energia, para uso exclusivo em obras públicas por eles executadas diretamente, respeitados os direitos minerários em vigor nas áreas onde devam ser executadas as obras e vedada a comercialização. (Redação dada pela Lei nº 9.827, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%202%C2%BA.%20Os%20regimes%20de%20aproveitamento%20das%20subst%C3%A2ncias%20minerais%2C%20para%20efeito%20deste%20C%C3%B3digo%2C%20s%C3%A3o%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art 3º Êste Código regula:\n\nI - os direitos sôbre as massas individualizadas de substâncias minerais ou fósseis, encontradas na superfície ou no interior da terra formando os recursos minerais do País;\n\nII - o regime de seu aproveitamento; e\n\nIII - a fiscalização pelo Govêrno Federal, da pesquisa, da lavra e de outros aspectos da indústria mineral.\n\n§ 1º. Não estão sujeitos aos preceitos deste Código os trabalhos de movimentação de terras e de desmonte de materiais in natura, que se fizerem necessários à abertura de vias de transporte, obras gerais de terraplenagem e de edificações, desde que não haja comercialização das terras e dos materiais resultantes dos referidos trabalhos e ficando o seu aproveitamento restrito à utilização na própria obra. (Incluído pela Lei nº 9.314, de 1996)\n\n§ 2º. Compete ao Departamento Nacional de Produção Mineral - DNPM a execução deste Código e dos diplomas legais complementares. (Renumerado do Parágrafo único para § 2º pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%203%C2%BA%20%C3%8Aste%20C%C3%B3digo%20regula%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Considera-se jazida toda massa individualizada de substância mineral ou fóssil, aflorando à superfície ou existente no interior da terra, e que tenha valor econômico; e mina, a jazida em lavra, ainda que suspensa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%204%C2%BA%20Considera-se%20jazida%20toda%20massa%20individualizada%20de%20subst%C3%A2ncia%20mineral%20ou%20f%C3%B3ssil%2C%20aflorando%20%C3%A0%20superf%C3%ADcie%20ou%20existente%20no%20interior%20da%20terra%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art 5º (Revogado pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%205%C2%BA%20%28Revogado%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º. Classificam-se as minas, segundo a forma representativa do direito de lavra, em duas categorias: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - mina manifestada, a em lavra, ainda que transitoriamente suspensa a 16 de julho de 1934 e que tenha sido manifestada na conformidade do art. 10 do Decreto nº 24.642, de 10 de julho de 1934, e da Lei nº 94, de 10 de dezembro de 1935; (Incluído pela Lei nº 9.314, de 1996)\n\nII - mina concedida, quando o direito de lavra é outorgado pelo Ministro de Estado de Minas e Energia. (Incluído pela Lei nº 9.314, de 1996)\n\nParágrafo único. Consideram-se partes integrantes da mina:\n\na) edifícios, construções, máquinas, aparelhos e instrumentos destinados à mineração e ao beneficiamento do produto da lavra, desde que êste seja realizado na área de concessão da mina:\n\nb) servidões indispensáveis ao exercício da lavra;\n\nc) animais e veículos empregados no serviço;\n\nd) materiais necessários aos trabalhos da lavra, quando dentro da área concedida; e,\n\ne) provisões necessárias aos trabalhos da lavra, para um período de 120 (cento e vinte) dias.\n\nArt. 6º-A. A atividade de mineração abrange a pesquisa, a lavra, o desenvolvimento da mina, o beneficiamento, o armazenamento de estéreis e rejeitos e o transporte e a comercialização dos minérios, mantida a responsabilidade do titular da concessão diante das obrigações deste Decreto-Lei até o fechamento da mina, que deverá ser obrigatoriamente convalidado pelo órgão regulador da mineração e pelo órgão ambiental licenciador. (Incluído pela Lei nº 14.066, de 2020)\n\nParágrafo único. O exercício da atividade de mineração inclui: (Incluído pela Lei nº 14.066, de 2020)\n\nI - a responsabilidade do minerador pela prevenção, mitigação e compensação dos impactos ambientais decorrentes dessa atividade, contemplando aqueles relativos ao bem-estar das comunidades envolvidas e ao desenvolvimento sustentável no entorno da mina; (Incluído pela Lei nº 14.066, de 2020)\n\nII - a preservação da saúde e da segurança dos trabalhadores; (Incluído pela Lei nº 14.066, de 2020)\n\nIII - a prevenção de desastres ambientais, incluindo a elaboração e a implantação do plano de contingência ou de documento correlato; e (Incluído pela Lei nº 14.066, de 2020)\n\nIV - a recuperação ambiental das áreas impactadas. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%206%C2%BA.%20Classificam-se%20as%20minas%2C%20segundo%20a%20forma%20representativa%20do%20direito%20de%20lavra%2C%20em%20duas%20categorias%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.314%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º. O aproveitamento das jazidas depende de alvará de autorização de pesquisa, do Diretor-Geral do DNPM, e de concessão de lavra, outorgada pelo Ministro de Estado de Minas e Energia. (Redação dada pela Lei nº 9.314, de 1996)\n\nParágrafo único. Independe de concessão do Governo Federal o aproveitamento de minas manifestadas e registradas, as quais, no entanto, são sujeitas às condições que este Código estabelece para a lavra, tributação e fiscalização das minas concedidas. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%207%C2%BA.%20O%20aproveitamento%20das%20jazidas%20depende%20de%20alvar%C3%A1%20de%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%2C%20do%20Diretor-Geral%20do%20DNPM%2C%20e%20de%20concess%C3%A3o%20de%20lavra%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art 8º (Revogado pela Lei nº 6.567, de 1978)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%208%C2%BA%20%28Revogado%20pela%20Lei%20n%C2%BA%206.567%2C%20de%201978%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Far-se-á pelo regime de Matrícula o aproveitamento definido e caracterizado como garimpagem, faiscação ou cata.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%209%C2%BA%20Far-se-%C3%A1%20pelo%20regime%20de%20Matr%C3%ADcula%20o%20aproveitamento%20definido%20e%20caracterizado%20como%20garimpagem%2C%20faisca%C3%A7%C3%A3o%20ou%20cata.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 Reger-se-ão por leis especiais:\n\nI - as jazidas de substâncias minerais que constituem monopólio estatal;\n\nII - as substâncias minerais ou fósseis de interêsse arqueológico;\n\nIII - os espécimes minerais ou fósseis, destinados a Museus, Estabelecimentos de Ensino e outros fins científicos;\n\nIV - as águas minerais em fase de lavra; e\n\nV - as jazidas de águas subterrâneas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2010%20Reger-se-%C3%A3o%20por%20leis%20especiais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Serão respeitados na aplicação dos regimes de Autorização, Licenciamento e Concessão: (Redação dada pela Lei nº 6.403, de 1976)\n\na) o direito de prioridade à obtenção da autorização de pesquisa ou de registro de licença, atribuído ao interessado cujo requerimento tenha por objeto área considerada livre, para a finalidade pretendida, à data da protocolização do pedido no Departamento Nacional da Produção Mineral (D.N.P.M), atendidos os demais requisitos cabíveis, estabelecidos neste Código; e (Redação dada pela Lei nº 6.403, de 1976)\n\nb) o direito à participação do proprietário do solo nos resultados da lavra. (Redação dada pela Lei nº 8.901, de 1994)\n\n§ 1º A participação de que trata a alínea \"b\" do caput deste artigo será de cinqüenta por cento do valor total devido aos Estados, Distrito Federal, Municípios e órgãos da administração direta da União, a título de compensação financeira pela exploração de recursos minerais, conforme previsto no caput do art. 6º da Lei nº 7.990, de 29 de dezembro de 1989 e no art. 2º da Lei nº 8.001, de 13 de março de 1990. (Incluído pela Lei nº 8.901, de 1994)\n\n§ 2º O pagamento da participação do proprietário do solo nos resultados da lavra de recursos minerais será efetuado mensalmente, até o último dia útil do mês subseqüente ao do fato gerador, devidamente corrigido pela taxa de juros de referência, ou outro parâmetro que venha a substituí-la. (Incluído pela Lei nº 8.901, de 1994)\n\n§ 3º O não cumprimento do prazo estabelecido no parágrafo anterior implicará correção do débito pela variação diária da taxa de juros de referência, ou outro parâmetro que venha a substituí-la, juros de mora de um por cento ao mês e multa de dez por cento aplicada sobre o montante apurado. (Incluído pela Lei nº 8.901, de 1994)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2011.%20Ser%C3%A3o%20respeitados%20na%20aplica%C3%A7%C3%A3o%20dos%20regimes%20de%20Autoriza%C3%A7%C3%A3o%2C%20Licenciamento%20e%20Concess%C3%A3o%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%206.403%2C%20de%201976%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O direito de participação de que trata o artigo anterior não poderá ser objeto de transferência ou caução separadamente do imóvel a que corresponder, mas o proprietário dêste poderá:\n\nI - transferir ou caucionar o direito ao recebimento de determinadas prestações futuras;\n\nII - renunciar ao direito.\n\nParágrafo único. Os atos enumerados neste artigo somente valerão contra terceiros a partir da sua inscrição no Registro de Imóveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2012.%20O%20direito%20de%20participa%C3%A7%C3%A3o%20de%20que%20trata%20o%20artigo%20anterior%20n%C3%A3o%20poder%C3%A1%20ser%20objeto%20de%20transfer%C3%AAncia%20ou%20cau%C3%A7%C3%A3o%20separadamente%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As pessoas naturais ou jurídicas que exerçam atividades de pesquisa, lavra, beneficiamento, distribuição, consumo ou industrialização de reservas minerais, são obrigadas a facilitar aos agentes do Departamento Nacional da Produção Mineral a inspeção de instalações, equipamentos e trabalhos, bem como a fornecer-lhes informações sôbre:\n\nI - volume da produção e características qualitativas dos produtos;\n\nII - condições técnicas e econômicas da execução dos serviços ou da exploração das atividades, mencionadas no \"caput\" dêste artigo;\n\nIII - mercados e preços de venda;\n\nIV - quantidade e condições técnicas e econômicas do consumo de produtos minerais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2013.%20As%20pessoas%20naturais%20ou%20jur%C3%ADdicas%20que%20exer%C3%A7am%20atividades%20de%20pesquisa%2C%20lavra%2C%20beneficiamento%2C%20distribui%C3%A7%C3%A3o%2C%20consumo%20ou%20industrializa%C3%A7%C3%A3o%20de%20reservas%20minerais%2C%20s%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Preliminares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Entende-se por pesquisa mineral a execução dos trabalhos necessários à definição da jazida, sua avaliação e a determinação da exeqüibilidade do seu aproveitamento econômico.\n\n§ 1º A pesquisa mineral compreende, entre outros, os seguintes trabalhos de campo e de laboratório: levantamentos geológicos pormenorizados da área a pesquisar, em escala conveniente, estudos dos afloramentos e suas correlações, levantamentos geofísicos e geoquímicos; aberturas de escavações visitáveis e execução de sondagens no corpo mineral; amostragens sistemáticas; análises físicas e químicas das amostras e dos testemunhos de sondagens; e ensaios de beneficiamento dos minérios ou das substâncias minerais úteis, para obtenção de concentrados de acôrdo com as especificações do mercado ou aproveitamento industrial.\n\n§ 2º A definição da jazida resultará da coordenação, correlação e interpretação dos dados colhidos nos trabalhos executados, e conduzirá a uma medida das reservas e dos teores.\n\n§ 3º A exeqüibilidade do aproveitamento econômico, resultará da análise preliminar dos custos da produção, dos fretes e do mercado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2014.%20Entende-se%20por%20pesquisa%20mineral%20a%20execu%C3%A7%C3%A3o%20dos%20trabalhos%20necess%C3%A1rios%20%C3%A0%20defini%C3%A7%C3%A3o%20da%20jazida%2C%20sua%20avalia%C3%A7%C3%A3o%20e%20a%20determina%C3%A7%C3%A3o%20da%20exeq%C3%BCibilidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A autorização de pesquisa será outorgada pelo DNPM a brasileiros, pessoa natural, firma individual ou empresas legalmente habilitadas, mediante requerimento do interessado. (Redação dada pela Lei nº 9.314, de 1996)\n\nParágrafo único. Os trabalhos necessários à pesquisa serão executados sob a responsabilidade profissional de engenheiro de minas, ou de geólogo habilitado ao exercício da profissão. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2015.%20A%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20ser%C3%A1%20outorgada%20pelo%20DNPM%20a%20brasileiros%2C%20pessoa%20natural%2C%20firma%20individual%20ou%20empresas%20legalmente%20habilitadas%2C%20mediante%20requerimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A autorização de pesquisa será pleiteada em requerimento dirigido ao Diretor-Geral do DNPM, entregue mediante recibo no protocolo do DNPM, onde será mecanicamente numerado e registrado, devendo ser apresentado em duas vias e conter os seguintes elementos de instrução: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - nome, indicação da nacionalidade, do estado civil, da profissão, do domicílio e do número de inscrição no Cadastro de Pessoas Físicas do Ministério da Fazenda, do requerente, pessoa natural. Em se tratando de pessoa jurídica, razão social, número do registro de seus atos constitutivos no Órgão de Registro de Comércio competente, endereço e número de inscrição no Cadastro Geral dos Contribuintes do Ministério da Fazenda; (Redação dada pela Lei nº 9.314, de 1996)\n\nII - prova de recolhimento dos respectivos emolumentos; (Redação dada pela Lei nº 9.314, de 1996)\n\nIII - designação das substâncias a pesquisar; (Redação dada pela Lei nº 9.314, de 1996)\n\nIV - indicação da extensão superficial da área objetivada, em hectares, e do Município e Estado em que se situa; (Redação dada pela Lei nº 9.314, de 1996)\n\nV - memorial descritivo da área pretendida, nos termos a serem definidos em portaria do Diretor-Geral do DNPM; (Incluído pela Lei nº 9.314, de 1996)\n\nVI - planta de situação, cuja configuração e elementos de informação serão estabelecidos em portaria do Diretor-Geral do DNPM; (Incluído pela Lei nº 9.314, de 1996)\n\nVII - plano dos trabalhos de pesquisa, acompanhado do orçamento e cronograma previstos para sua execução. (Incluído pela Lei nº 9.314, de 1996)\n\n§ 1º. O requerente e o profissional responsável poderão ser interpelados pelo DNPM para justificarem o plano de pesquisa e o orçamento correspondente referidos no inciso VII deste artigo, bem como a disponibilidade de recursos. (Incluído pela Lei nº 9.314, de 1996)\n\n§ 2º. Os trabalhos descritos no plano de pesquisa servirão de base para a avaliação judicial da renda pela ocupação do solo e da indenização devida ao proprietário ou posseiro do solo, não guardando nenhuma relação com o valor do orçamento apresentado pelo interessado no referido plano de pesquisa. (Incluído pela Lei nº 9.314, de 1996)\n\n§ 3º. Os documentos a que se referem os incisos V, VI e VII deste artigo deverão ser elaborados sob a responsabilidade técnica de profissional legalmente habilitado. (Incluído pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2016.%20A%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20ser%C3%A1%20pleiteada%20em%20requerimento%20dirigido%20ao%20Diretor-Geral%20do%20DNPM%2C%20entregue%20mediante%20recibo%20no%20protocolo%20do%20DNPM%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Será indeferido de plano pelo Diretor-Geral do DNPM o requerimento desacompanhado de qualquer dos elementos de instrução referidos nos incisos I a VII do artigo anterior. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 1º. Será de sessenta dias, a contar da data da publicação da respectiva intimação no Diário Oficial da União, o prazo para cumprimento de exigências formuladas pelo DNPM sobre dados complementares ou elementos necessários à melhor instrução do processo. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 2º. Esgotado o prazo de que trata o parágrafo anterior, sem que haja o requerente cumprido a exigência, o requerimento será indeferido pelo Diretor-Geral do DNPM. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2017.%20Ser%C3%A1%20indeferido%20de%20plano%20pelo%20Diretor-Geral%20do%20DNPM%20o%20requerimento%20desacompanhado%20de%20qualquer%20dos%20elementos%20de%20instru%C3%A7%C3%A3o%20referidos%20nos%20incisos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A área objetivada em requerimento de autorização e pesquisa ou de registro de licença será considerada livre, desde que não se enquadre em quaisquer das seguintes hipóteses: (Redação dada pela Lei nº 6.403, de 1976)\n\nI - se a área estiver vinculada a autorização de pesquisa, registro de licença, concessão da lavra, manifesto de mina ou permissão de reconhecimento geológico; (Redação dada pela Lei nº 6.403, de 1976)\n\nII - se a área for objeto de pedido anterior de autorização de pesquisa, salvo se este estiver sujeito a indeferimento, aos seguintes casos: (Redação dada pela Lei nº 6.403, de 1976)\n\na) por enquadramento na situação prevista no caput do artigo anterior, e no § 1º deste artigo; e (Incluído pela Lei nº 6.403, de 1976)\n\nb) por ocorrência, na data da protocolização do pedido, de impedimento à obtenção do título pleiteado, decorrente das restrições impostas no parágrafo único do Art. 23 e no Art. 26 deste Código; (Incluído pela Lei nº 6.403, de 1976)\n\nIII - se a área for objeto de requerimento anterior de registro de licença, ou estiver vinculada a licença, cujo registro venha a ser requerido dentro do prazo de 30 (trinta) dias de sua expedição; (Incluído pela Lei nº 6.403, de 1976)\n\nIV - se a área estiver vinculada a requerimento de renovação de autorização de pesquisa, tempestivamente apresentado, e pendente de decisão; (Incluído pela Lei nº 6.403, de 1976)\n\nV - se a área estiver vinculada a autorização de pesquisa, com relatório dos respectivos trabalhos tempestivamente apresentado, e pendente de decisão; (Incluído pela Lei nº 6.403, de 1976)\n\nVI - se a área estiver vinculada a autorização de pesquisa, com relatório dos respectivos trabalhos aprovado, e na vigência do direito de requerer a concessão da lavra, atribuído nos termos do Art. 31 deste Código. (Incluído pela Lei nº 6.403, de 1976)\n\n§ 1º Não estando livre a área pretendida, o requerimento será indeferido por despacho do Diretor-Geral do Departamento Nacional da Produção Mineral (D.N.P.M.), assegurada ao interessado a restituição de uma das vias das peças apresentadas em duplicata, bem como dos documentos públicos, integrantes da respectiva instrução. (Redação dada pela Lei nº 6.403, de 1976)\n\n§ 2º Ocorrendo interferência parcial da área objetivada no requerimento, como área onerada nas circunstâncias referidas nos itens I a VI deste artigo, e desde que a realização da pesquisa, ou a execução do aproveitamento mineral por licenciamento, na parte remanescente, seja considerada técnica e economicamente viável, a juízo do Departamento Nacional da Produção Mineral - D.N.P.M. - será facultada ao requerente a modificação do pedido para retificação da área originalmente definida, procedendo-se, neste caso, de conformidade com o disposto nos §§ 1º e 2º do artigo anterior. (Incluído pela Lei nº 6.403, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2018.%20A%20%C3%A1rea%20objetivada%20em%20requerimento%20de%20autoriza%C3%A7%C3%A3o%20e%20pesquisa%20ou%20de%20registro%20de%20licen%C3%A7a%20ser%C3%A1%20considerada%20livre%2C%20desde%20que%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Do despacho que indeferir o pedido de autorização de pesquisa ou de sua renovação, caberá pedido de reconsideração, no prazo de 60 (sessenta) dias, contados da publicação do despacho no Diário Oficial da União. (Redação dada pela Lei nº 6.403, de 1976)\n\n§ 1º Do despacho que indeferir o pedido de reconsideração, caberá recurso ao Ministério das Minas e Energia, no prazo de 30 (trinta) dias, contados da publicação do despacho no Diário Oficial da União. (Incluído pela Lei nº 6.403, de 1976)\n\n§ 2º A interposição do pedido de reconsideração sustará a tramitação de requerimento de autorização de pesquisa que, objetivando área abrangida pelo requerimento concernente ao despacho recorrido, haja sido protocolizado após o indeferimento em causa, até que seja decidido o pedido de reconsideração ou o eventual recurso. (Incluído pela Lei nº 6.403, de 1976)\n\n§ 3º Provido o pedido de reconsideração ou o recurso, caberá o indeferimento do requerimento de autorização de pesquisa superveniente, de que trata o parágrafo anterior. (Incluído pela Lei nº 6.403, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2019.%20Do%20despacho%20que%20indeferir%20o%20pedido%20de%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20ou%20de%20sua%20renova%C3%A7%C3%A3o%2C%20caber%C3%A1%20pedido%20de%20reconsidera%C3%A7%C3%A3o%2C%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A autorização de pesquisa importa nos seguintes pagamentos: (Redação dada pela Lei nº 9.314, de 1996) (Vide Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nI - pelo interessado, quando do requerimento de autorização de pesquisa, de emolumentos em quantia equivalente a duzentas e setenta vezes a expressão monetária UFIR, instituída pelo art. 1º da Lei nº 8.383, de 30 de dezembro de 1991; (Redação dada pela Lei nº 9.314, de 1996)\n\nII - pelo titular de autorização de pesquisa, até a entrega do relatório final dos trabalhos ao DNPM, de taxa anual, por hectare, admitida a fixação em valores progressivos em função da substância mineral objetivada, extensão e localização da área e de outras condições, respeitado o valor máximo de duas vezes a expressão monetária UFIR, instituída pelo art. 1º da Lei nº 8.383, de 30 de dezembro de 1991. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 1º. O Ministro de Estado de Minas e Energia, relativamente à taxa de que trata o inciso II do caput deste artigo, estabelecerá, mediante portaria, os valores, os prazos de recolhimento e demais critérios e condições de pagamento. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 2º. Os emolumentos e a taxa referidos, respectivamente, nos incisos I e II do caput deste artigo, serão recolhidos ao Banco do Brasil S.A. e destinados ao DNPM, nos termos do inciso III do caput do art. 5º da Lei nº 8.876, de 2 de maio de 1994. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 3º. O não pagamento dos emolumentos e da taxa de que tratam, respectivamente, os incisos I e II do caput deste artigo, ensejará, nas condições que vierem a ser estabelecidas em portaria do Ministro de Estado de Minas e Energia, a aplicação das seguintes sanções: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - tratando-se de emolumentos, indeferimento de plano e conseqüente arquivamento do requerimento de autorização de pesquisa; (Incluído pela Lei nº 9.314, de 1996)\n\nII - tratando-se de taxa: (Incluído pela Lei nº 9.314, de 1996)\n\na) multa, no valor máximo previsto no art. 64; (Incluído pela Lei nº 9.314, de 1996)\n\nb) nulidade ex officio do alvará de autorização de pesquisa, após imposição de multa.(Incluído pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2020.%20A%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20importa%20nos%20seguintes%20pagamentos%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29%20%28Vide%20Medida%20provis%C3%B3ria%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art 21. (Revogado pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2021.%20%28Revogado%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A autorização de pesquisa será conferida nas seguintes condições, além das demais constantes deste Código: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - o título poderá ser objeto de cessão ou transferência, desde que o cessionário satisfaça os requisitos legais exigidos; (Redação dada pela Lei nº 14.514, de 2022)\n\nI-A - os atos de cessão e transferência somente terão validade depois de devidamente averbados na Agência Nacional de Mineração (ANM); (Incluído pela Lei nº 14.514, de 2022)\n\nII - a renúncia total ou parcial à autorização é admitida, sem prejuízo do cumprimento, pelo titular, das obrigações decorrentes deste Código, observado o disposto na parte final do inciso V deste caput, tornando-se operante o efeito da extinção do título autorizativo na data da protocolização do instrumento de renúncia, com a desoneração da área, na forma do art. 26 deste Código; (Redação dada pela Lei nº 14.514, de 2022)\n\nIII - o prazo de validade da autorização será de até 4 (quatro) anos, conforme solicitação do interessado, consideradas as características especiais da situação da área e da pesquisa mineral objetivada, conforme estabelecido em resolução pela ANM, observado que: (Redação dada pela Lei nº 14.514, de 2022)\n\na) o prazo de validade da autorização será prorrogável, por igual período, admitida mais de uma prorrogação exclusivamente nas hipóteses previstas em regulamento; (Redação dada pela Lei nº 14.514, de 2022)\n\nb) a prorrogação deverá ser requerida até sessenta dias antes de expirar-se o prazo da autorização vigente, devendo o competente requerimento ser instruído com um relatório dos trabalhos efetuados e justificativa do prosseguimento da pesquisa; (Incluído pela Lei nº 9.314, de 1996)\n\nc) a prorrogação independe da expedição de novo alvará, contando-se o respectivo prazo a partir da data da publicação, no Diário Oficial da União, do despacho que a deferir; (Incluído pela Lei nº 9.314, de 1996)\n\nIV - o titular da autorização responde, com exclusividade, pelos danos causados a terceiros, direta ou indiretamente decorrentes dos trabalhos de pesquisa; (Redação dada pela Lei nº 9.314, de 1996)\n\nV - o titular da autorização fica obrigado a realizar os respectivos trabalhos de pesquisa e deverá submeter à ANM, dentro do prazo de vigência do alvará ou de sua renovação, relatório circunstanciado dos trabalhos que contenha os estudos geológicos e tecnológicos quantificativos da jazida e demonstrativos da exequibilidade técnico-econômica da lavra, elaborado sob a responsabilidade técnica de profissional legalmente habilitado. (Redação dada pela Lei nº 14.514, de 2022)\n\n§ 1º. A não apresentação do relatório referido no inciso V deste artigo sujeita o titular à sanção de multa, calculada à razão de uma UFIR por hectare da área outorgada para pesquisa. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 2º É admitida, em caráter excepcional, a extração de substâncias minerais em área titulada, antes da outorga da concessão de lavra, mediante prévia autorização da ANM, observada a legislação ambiental pertinente. (Redação dada pela Lei nº 14.514, de 2022)\n\n§ 3º Na hipótese de renúncia à autorização de que trata o inciso II do caput deste artigo, excepcionalmente poderá ser dispensada a apresentação do relatório de que trata o inciso V do caput deste artigo, conforme critérios fixados pela ANM. (Incluído pela Lei nº 14.514, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2022.%20A%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20ser%C3%A1%20conferida%20nas%20seguintes%20condi%C3%A7%C3%B5es%2C%20al%C3%A9m%20das%20demais%20constantes%20deste%20C%C3%B3digo%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os estudos referidos no inciso V do art. 22 concluirão pela: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - exeqüibilidade técnico-econômica da lavra; (Incluído pela Lei nº 9.314, de 1996)\n\nII - inexistência de jazida; (Incluído pela Lei nº 9.314, de 1996)\n\nIII - inexeqüibilidade técnico-econômica da lavra em face da presença de fatores conjunturais adversos, tais como: (Incluído pela Lei nº 9.314, de 1996)\n\na) inexistência de tecnologia adequada ao aproveitamento econômico da substância mineral; (Incluído pela Lei nº 9.314, de 1996)\n\nb) inexistência de mercado interno ou externo para a substância mineral. (Incluído pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2023.%20Os%20estudos%20referidos%20no%20inciso%20V%20do%20art.%2022%20concluir%C3%A3o%20pela%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A retificação de alvará de pesquisa, a ser efetivada mediante despacho publicado no Diário Oficial da União, não acarreta modificação no prazo original, salvo se, a juízo do DNPM, houver alteração significativa no polígono delimitador da área. (Redação dada pela Lei nº 9.314, de 1996)\n\nParágrafo único. Na hipótese de que trata a parte final do caput deste artigo, será expedido alvará retificador, contando-se o prazo de validade da autorização a partir da data da publicação, no Diário Oficial da União, do novo título.(Incluído pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2024.%20A%20retifica%C3%A7%C3%A3o%20de%20alvar%C3%A1%20de%20pesquisa%2C%20a%20ser%20efetivada%20mediante%20despacho%20publicado%20no%20Di%C3%A1rio%20Oficial%20da%20Uni%C3%A3o%2C%20n%C3%A3o%20acarreta%20modifica%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As autorizações de pesquisa ficam adstritas às áreas máximas que forem fixadas em portaria do Diretor-Geral do DNPM. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2025.%20As%20autoriza%C3%A7%C3%B5es%20de%20pesquisa%20ficam%20adstritas%20%C3%A0s%20%C3%A1reas%20m%C3%A1ximas%20que%20forem%20fixadas%20em%20portaria%20do%20Diretor-Geral%20do%20DNPM.%20%28Reda%C3%A7%C3%A3o%20dada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A área desonerada por publicação de despacho no Diário Oficial da União ficará disponível pelo prazo de sessenta dias, para fins de pesquisa ou lavra, conforme dispuser portaria do Ministro de Estado de Minas e Energia. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 1º. Salvo quando dispuser diversamente o despacho respectivo, a área desonerada na forma deste artigo ficará disponível para pesquisa. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 2º. O Diretor-Geral do DNPM poderá estabelecer critérios e condições específicos a serem atendidos pelos interessados no processo de habilitação às áreas disponíveis nos termos deste artigo. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 3º. Decorrido o prazo fixado neste artigo, sem que tenha havido pretendentes, a área estará livre para fins de aplicação do direito de prioridade de que trata a alínea a do art. 11. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 4º. As vistorias realizadas pelo DNPM, no exercício da fiscalização dos trabalhos de pesquisa e lavra de que trata este Código, serão custeadas pelos respectivos interessados, na forma do que dispuser portaria do Diretor-Geral da referida autarquia. (Redação dada pela Lei nº 9.314, de 1996) (Vide Medida Provisória nº 791, de 2017 Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2026.%20A%20%C3%A1rea%20desonerada%20por%20publica%C3%A7%C3%A3o%20de%20despacho%20no%20Di%C3%A1rio%20Oficial%20da%20Uni%C3%A3o%20ficar%C3%A1%20dispon%C3%ADvel%20pelo%20prazo%20de%20sessenta%20dias%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O titular de autorização de pesquisa poderá realizar os trabalhos respectivos, e também as obras e serviços auxiliares necessários, em terrenos de domínio público ou particular, abrangidos pelas áreas a pesquisar, desde que pague aos respectivos proprietários ou posseiros uma renda pela ocupação dos terrenos e uma indenização pelos danos e prejuízos que possam ser causados pelos trabalhos de pesquisa, observadas as seguintes regras:\n\nI - A renda não poderá exceder ao montante do rendimento líquido máximo da propriedade, referido à extensão da área a ser realmente ocupada;\n\nII - A indenização por danos causados não poderá exceder o valor venal da propriedade na extensão da área efetivamente ocupada pelos trabalhos de pesquisa, salvo no caso previsto no inciso seguinte;\n\nIII - Quando os danos forem de molde a inutilizar para fins agrícolas e pastoris tôda a propriedade em que estiver encravada a área necessária aos trabalhos de pesquisa, a indenização correspondente a tais danos poderá atingir o valor venal máximo de tôda a propriedade;\n\nIV - Os valores venais a que se referem os incisos II e III serão obtidos por comparação com valores venais de propriedade da mesma espécie, na mesma região;\n\nV - No caso de terrenos públicos, é dispensado o pagamento da renda, ficando o titular da pesquisa sujeito apenas ao pagamento relativo a danos e prejuízos;\n\nVI - Se o titular do Alvará de Pesquisa, até a data da transcrição do título de autorização, não juntar ao respectivo processo prova de acordo com os proprietários ou posseiros do solo acêrca da renda e indenização de que trata êste artigo, o Diretor-Geral do D.N.P.M., dentro de 3 (três) dias dessa data, enviará ao Juiz de Direito da Comarca onde estiver situada a jazida, cópia do referido título;\n\nVII - Dentro de 15 (quinze) dias, a partir da data do recebimento dessa comunicação, o Juiz mandará proceder à avaliação da renda e dos danos e prejuízos a que se refere êste artigo, na forma prescrita no Código de Processo Civil;\n\nVIII - O Promotor de Justiça da Comarca será citado para os termos da ação, como representante da União;\n\nIX - A avaliação será julgada pelo Juiz no prazo máximo de 30 (trinta) dias, contados da data do despacho a que se refere o inciso VII, não tendo efeito suspensivo os recursos que forem apresentados;\n\nX - As despesas judiciais com o processo de avaliação serão pagas pelo titular da autorização de pesquisa;\n\nXI - Julgada a avaliação, o Juiz, dentro de 8 (oito) dias, intimará o titular a depositar quantia correspondente ao valor da renda de 2 (dois) anos e a caução para pagamento da indenização;\n\nXII - Feitos êsses depósitos, o Juiz, dentro de 8 (oito) dias, intimará os proprietários ou posseiros do solo a permitirem os trabalhos de pesquisa, e comunicará seu despacho ao Diretor-Geral do D.N.P.M. e, mediante requerimento do titular da Pesquisa, às autoridades policiais locais, para garantirem a execução dos trabalhos;\n\nXIII - Se o prazo da pesquisa for prorrogado, o Diretor-Geral do DNPM o comunicará ao Juiz, no prazo e condições indicadas no inciso VI deste artigo;\n\nXIV - Dentro de 8 (oito) dias do recebimento da comunicação a que se refere o inciso anterior, o Juiz intimará o titular da pesquisa a depositar nova quantia correspondente ao valor da renda relativa ao prazo de prorrogação\n\nXV - Feito êsse depósito, o Juiz intimará os proprietários ou posseiros do solo, dentro de 8 (oito) dias, a permitirem a continuação dos trabalhos de pesquisa no prazo da prorrogação, e comunicará seu despacho ao Diretor-Geral do D.N.P.M. e às autoridades locais;\n\nXVI - Concluídos os trabalhos de pesquisa, o titular da respectiva autorização e o Diretor-Geral do DNPM comunicarão o fato ao Juiz, a fim de ser encerrada a ação judicial referente ao pagamento das indenizações e da renda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2027.%20O%20titular%20de%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20poder%C3%A1%20realizar%20os%20trabalhos%20respectivos%2C%20e%20tamb%C3%A9m%20as%20obras%20e%20servi%C3%A7os%20auxiliares%20necess%C3%A1rios%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Antes de encerrada a ação prevista no artigo anterior, as partes que se julgarem lesadas poderão requerer ao Juiz que se lhes faça justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2028.%20Antes%20de%20encerrada%20a%20a%C3%A7%C3%A3o%20prevista%20no%20artigo%20anterior%2C%20as%20partes%20que%20se%20julgarem%20lesadas%20poder%C3%A3o%20requerer%20ao%20Juiz%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29 O titular da autorização de pesquisa é obrigado, sob pena de sanções:\n\nI - A iniciar os trabalhos de pesquisa:\n\na) dentro de 60 (sessenta) dias da publicação do Alvará de Pesquisa no Diário Oficial da União, se o titular fôr o proprietário do solo, ou tiver ajustado com este o valor e a forma de pagamento das indenizações a que se refere o Art. 27 dêste Código; ou,\n\nb) dentro de 60 (sessenta) dias do ingresso judicial na área de pesquisa, quando a avaliação da indenização pela ocupação e danos causados processar-se em juízo.\n\nII - A não interromper os trabalhos, sem justificativa, depois de iniciados, por mais de 3 (três) meses consecutivos, ou por 120 dias acumulados e não consecutivos. (Redação dada pelo Decreto-lei nº 318, de 1967)\n\nParágrafo único. O início ou reinício, bem como as interrupções de trabalho, deverão ser prontamente comunicados ao D.N.P.M., bem como a ocorrência de outra substância mineral útil, não constante do alvará de autorização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2029%20O%20titular%20da%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20%C3%A9%20obrigado%2C%20sob%20pena%20de%20san%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Realizada a pesquisa e apresentado o relatório exigido nos termos do inciso V do art. 22, o DNPM verificará sua exatidão e, à vista de parecer conclusivo, proferirá despacho de: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - aprovação do relatório, quando ficar demonstrada a existência de jazida; (Redação dada pela Lei nº 9.314, de 1996)\n\nII - não aprovação do relatório, quando ficar constatada insuficiência dos trabalhos de pesquisa ou deficiência técnica na sua elaboração; (Redação dada pela Lei nº 9.314, de 1996)\n\nIII - arquivamento do relatório, quando ficar demonstrada a inexistência de jazida, passando a área a ser livre para futuro requerimento, inclusive com acesso do interessado ao relatório que concluiu pela referida inexistência de jazida; (Redação dada pela Lei nº 9.314, de 1996)\n\nIV - sobrestamento da decisão sobre o relatório, quando ficar caracterizada a impossibilidade temporária da exeqüibilidade técnico-econômica da lavra, conforme previsto no inciso III do art. 23. (Incluído dada pela Lei nº 9.314, de 1996)\n\n§ 1° Na hipótese prevista no inciso IV deste artigo, o DNPM fixará prazo para o interessado apresentar novo estudo da exeqüibilidade técnico-econômica da lavra, sob pena de arquivamento do relatório. (Incluído dada pela Lei nº 9.314, de 1996)\n\n§ 2° Se, no novo estudo apresentado, não ficar demonstrada a exeqüibilidade técnico-econômica da lavra, o DNPM poderá conceder ao interessado, sucessivamente, novos prazos, ou colocar a área em disponibilidade, na forma do art. 32, se entender que terceiro poderá viabilizar a eventual lavra. (Incluído dada pela Lei nº 9.314, de 1996)\n\n§ 3° Comprovada a exeqüibilidade técnico-econômica da lavra, o DNPM proferirá, ex officio ou mediante provocação do interessado, despacho de aprovação do relatório. (Incluído dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2030.%20Realizada%20a%20pesquisa%20e%20apresentado%20o%20relat%C3%B3rio%20exigido%20nos%20termos%20do%20inciso%20V%20do%20art.%2022%2C%20o%20DNPM%20verificar%C3%A1%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O titular, uma vez aprovado o Relatório, terá 1 (hum) ano para requerer a concessão de lavra, e, dentro dêste prazo, poderá negociar seu direito a essa concessão, na forma dêste Código.\n\nParágrafo único. O DNPM poderá prorrogar o prazo referido no caput, por igual período, mediante solicitação justificada do titular, manifestada antes de findar-se o prazo inicial ou a prorrogação em curso. (Incluído dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2031.%20O%20titular%2C%20uma%20vez%20aprovado%20o%20Relat%C3%B3rio%2C%20ter%C3%A1%201%20%28hum%29%20ano%20para%20requerer%20a%20concess%C3%A3o%20de%20lavra%2C%20e%2C%20dentro%20d%C3%AAste",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Findo o prazo do artigo anterior, sem que o titular, ou seu sucessor, haja requerido concessão de lavra, caducará seu direito, caendo ao Diretor-Geral do Departamento Nacional da Produção Mineral - D. N. P. M. - mediante Edital publicado no Diário Oficial da União, declarar a disponibilidade da jazida pesquisada, para fins de requerimento da concessão de lavra. (Redação dada pela Lei nº 6.403, de 1976)\n\n§ 1º O Edital estabelecerá os requisitos especiais a serem atendidos pelos requerentes da concessão de lavra, consoante as peculiaridades de cada caso. (Incluído pela Lei nº 6.403, de 1976)\n\n§ 2º Para determinação da prioridade à outorga da concessão de lavra, serão, conjuntamente, apreciados os requerimentos protocolizados dentro do prazo que for convenientemente fixado no Edital, definindo-se, dentre estes, como prioritário, o pretendente que a juízo do Departamento Nacional da Produção Mineral - D. N. P. M. - melhor atender aos interesses específicos do setor minerário. (Incluído pela Lei nº 6.403, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2032.%20Findo%20o%20prazo%20do%20artigo%20anterior%2C%20sem%20que%20o%20titular%2C%20ou%20seu%20sucessor%2C%20haja%20requerido%20concess%C3%A3o%20de%20lavra%2C%20caducar%C3%A1%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33 Para um conjunto de autorizações de pesquisa da mesma substância mineral em áreas contíguas, ou próximas, o titular ou titulares das autorizações, poderão, a critério do D.N.P.M., apresentar um plano único de pesquisa e também um só Relatório dos trabalhos executados, abrangendo todo o conjunto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2033%20Para%20um%20conjunto%20de%20autoriza%C3%A7%C3%B5es%20de%20pesquisa%20da%20mesma%20subst%C3%A2ncia%20mineral%20em%20%C3%A1reas%20cont%C3%ADguas%2C%20ou%20pr%C3%B3ximas%2C%20o%20titular%20ou%20titulares",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34 Sempre que o Govêrno cooperar com o titular da autorização nos trabalhos de pesquisa, será reembolsado das despesas, de acordo com as condições estipuladas no ajuste de cooperação técnica celebrado entre o D.N.P.M. e o titular.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2034%20Sempre%20que%20o%20Gov%C3%AArno%20cooperar%20com%20o%20titular%20da%20autoriza%C3%A7%C3%A3o%20nos%20trabalhos%20de%20pesquisa%2C%20ser%C3%A1%20reembolsado%20das%20despesas%2C%20de%20acordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. A importância correspondente às despesas reembolsadas a que se refere o artigo anterior, será recolhida ao Banco do Brasil S.A., pelo titular, à conta do \"Fundo Nacional de Mineração - Parte Disponível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2035.%20A%20import%C3%A2ncia%20correspondente%20%C3%A0s%20despesas%20reembolsadas%20a%20que%20se%20refere%20o%20artigo%20anterior%2C%20ser%C3%A1%20recolhida%20ao%20Banco%20do%20Brasil%20S.A.%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Da Pesquisa Mineral",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Entende-se por lavra o conjunto de operações coordenadas objetivando o aproveitamento industrial da jazida, desde a extração das substâncias minerais úteis que contiver, até o beneficiamento das mesmas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2036.%20Entende-se%20por%20lavra%20o%20conjunto%20de%20opera%C3%A7%C3%B5es%20coordenadas%20objetivando%20o%20aproveitamento%20industrial%20da%20jazida%2C%20desde%20a%20extra%C3%A7%C3%A3o%20das%20subst%C3%A2ncias%20minerais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Na outorga da lavra, serão observadas as seguintes condições:\n\nI - a jazida deverá estar pesquisada, com o Relatório aprovado pelo D.N.P.M.;\n\nII - a área de lavra será a adequada à condução técnico-econômica dos trabalhos de extração e beneficiamento, respeitados os limites da área de pesquisa.\n\nParágrafo único. Não haverá restrições quanto ao número de concessões outorgadas a uma mesma empresa. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2037.%20Na%20outorga%20da%20lavra%2C%20ser%C3%A3o%20observadas%20as%20seguintes%20condi%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O requerimento de autorização de lavra será dirigido ao Ministro das Minas e Energia, pelo titular da autorização de pesquisa, ou seu sucessor, e deverá ser instruído com os seguintes elementos de informação e prova:\n\nI - certidão de registro, no Departamento Nacional de Registro do Comércio, da entidade constituída; (Redação dada pela Lei nº 9.314, de 1996)\n\nII - designação das substâncias minerais a lavrar, com indicação do Alvará de Pesquisa outorgado, e de aprovação do respectivo Relatório;\n\nIII - denominação e descrição da localização do campo pretendido para a lavra, relacionando-o, com precisão e clareza, aos vales dos rios ou córregos, constantes de mapas ou plantas de notória autenticidade e precisão, e estradas de ferro e rodovias, ou , ainda, a marcos naturais ou acidentes topográficos de inconfundível determinação; suas confrontações com autorização de pesquisa e concessões de lavra vizinhas, se as houver, e indicação do Distrito, Município, Comarca e Estado, e, ainda, nome e residência dos proprietários do solo ou posseiros;\n\nIV - definição gráfica da área pretendida, delimitada por figura geométrica formada, obrigatòriamente, por segmentos de retas com orientação Norte-Sul e Leste-Oeste verdadeiros, com 2 (dois) de seus vértices, ou excepcionalmente (um), amarrado a ponto fixo e inconfundível do terreno, sendo os vetores de amarração definidos por seus comprimentos e rumos verdadeiros, e configuradas, ainda, as propriedades territoriais por ela interessadas, com os nomes dos respectivos superficiários, além de planta de situação;\n\nV - servidões de que deverá gozar a mina;\n\nVI - plano de aproveitamento econômico da jazida, com descrição das instalações de beneficiamento;\n\nVII - declaração de disponibilidade de recursos ou compromisso de buscar os financiamentos necessários para execução do plano de aproveitamento econômico e operação da mina, conforme dispuser resolução da ANM. (Redação dada pela Lei nº 14.514, de 2022)\n\nParágrafo único. Quando tiver por objeto área situada na faixa de fronteira, a concessão de lavra fica ainda sujeita aos critérios e condições estabelecidas em lei. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2038.%20O%20requerimento%20de%20autoriza%C3%A7%C3%A3o%20de%20lavra%20ser%C3%A1%20dirigido%20ao%20Ministro%20das%20Minas%20e%20Energia%2C%20pelo%20titular%20da%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O plano de aproveitamento econômico da jazida será apresentado em duas vias e constará de:\n\nI - Memorial explicativo;\n\nII - Projetos ou anteprojetos referentes;\n\na) ao método de mineração a ser adotado, fazendo referência à escala de produção prevista inicialmente e à sua projeção;\n\nb) à iluminação, ventilação, transporte, sinalização e segurança do trabalho, quando se tratar de lavra subterrânea;\n\nc) ao transporte na superfície e ao beneficiamento e aglomeração do minério;\n\nd) às instalações de energia, de abastecimento de água e condicionamento de ar;\n\ne) à higiene da mina e dos respectivos trabalhos;\n\nf) às moradias e suas condições de habitabilidade para todos os que residem no local da mineração;\n\ng) às instalações de captação e proteção das fontes, adução, distribuição e utilização da água, para as jazidas da Classe VIII.\n\nh) à construção de barragem de rejeitos, quando houver, ou de aumento na sua altura, vedada a utilização da técnica de alteamento a montante. (Incluído pela Lei nº 14.066, de 2020)\n\nParágrafo único. Caso previstas a construção e a operação de barragens de rejeitos, o plano de aproveitamento econômico deverá incluir o Plano de Ação de Emergência, em caráter conceitual, elaborado pelo empreendedor. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2039.%20O%20plano%20de%20aproveitamento%20econ%C3%B4mico%20da%20jazida%20ser%C3%A1%20apresentado%20em%20duas%20vias%20e%20constar%C3%A1%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O dimensionamento das instalações e equipamentos previstos no plano de aproveitamento econômico da jazida, deverá ser condizente com a produção justificada no Memorial Explicativo, e apresentar previsão das ampliações futuras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2040.%20O%20dimensionamento%20das%20instala%C3%A7%C3%B5es%20e%20equipamentos%20previstos%20no%20plano%20de%20aproveitamento%20econ%C3%B4mico%20da%20jazida%2C%20dever%C3%A1%20ser%20condizente%20com%20a%20produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O requerimento será numerado e registrado, cronològicamente, no D.N.P.M., por processo mecânico, sendo juntado ao processo que autorizou a respectiva pesquisa.\n\n§ 1º Ao interessado será fornecido recibo com as indicações do protocolo e menção dos documentos apresentados.\n\n§ 2º Quando necessário cumprimento de exigências para melhor instrução do processo, terá o requerente o prazo de 60 (sessenta) dias para satisfazê-las.\n\n§ 3° Poderá esse prazo ser prorrogado, até igual período, a juízo do Diretor-Geral do D.N.P.M., desde que requerido dentro do prazo concedido para cumprimento das exigências. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 4° Se o requerente deixar de atender, no prazo próprio, as exigências formuladas para melhor instrução do processo, o pedido será indeferido, devendo o DNPM declarar a disponibilidade da área, para fins de requerimento de concessão de lavra, na forma do art. 32. (Incluído dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2041.%20O%20requerimento%20ser%C3%A1%20numerado%20e%20registrado%2C%20cronol%C3%B2gicamente%2C%20no%20D.N.P.M.%2C%20por%20processo%20mec%C3%A2nico%2C%20sendo%20juntado%20ao%20processo%20que%20autorizou%20a%20respectiva",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. A autorização será recusada, se a lavra fôr considerada prejudicial ao bem público ou comprometer interêsses que superem a utilidade da exploração industrial, a juízo do Govêrno. Neste último caso, o pesquisador terá direito de receber do Govêrno a indenização das despesas feitas com os trabalhos de pesquisa, uma vez que haja sido aprovado o relatório.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2042.%20A%20autoriza%C3%A7%C3%A3o%20ser%C3%A1%20recusada%2C%20se%20a%20lavra%20f%C3%B4r%20considerada%20prejudicial%20ao%20bem%20p%C3%BAblico%20ou%20comprometer%20inter%C3%AAsses%20que%20superem%20a%20utilidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. (Revogado pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2043.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.066%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "43-A"
+    },
+    "43-A": {
+      "numero": "43-A",
+      "texto": "Art. 43-A. O titular de concessão de lavra deverá cumprir as obrigações previstas neste Decreto-Lei e na legislação ambiental pertinente, incluídas a recuperação do ambiente degradado e a responsabilização civil, no caso de danos a terceiros decorrentes das atividades de mineração, sem prejuízo das sanções administrativas e penais. (Incluído pela Lei nº 14.066, de 2020)\n\nParágrafo único. A recuperação do ambiente degradado prevista no caput deste artigo deverá abarcar, entre outros, o fechamento da mina e o descomissionamento de todas as instalações, incluídas barragens de rejeitos, de acordo com a legislação vigente. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2043-A.%20O%20titular%20de%20concess%C3%A3o%20de%20lavra%20dever%C3%A1%20cumprir%20as%20obriga%C3%A7%C3%B5es%20previstas%20neste%20Decreto-Lei%20e%20na%20legisla%C3%A7%C3%A3o%20ambiental%20pertinente%2C%20inclu%C3%ADdas%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O titular da concessão de lavra requererá ao DNPM a Posse da Jazida, dentro de noventa dias a contar da data da publicação da respectiva portaria no Diário Oficial da União. (Redação dada pela Lei nº 9.314, de 1996) (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nParágrafo único. O titular pagará uma taxa de emolumentos correspondente a quinhentas UFIR. (Incluído pela Lei nº 9.314, de 1996) (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2044.%20O%20titular%20da%20concess%C3%A3o%20de%20lavra%20requerer%C3%A1%20ao%20DNPM%20a%20Posse%20da%20Jazida%2C%20dentro%20de%20noventa%20dias%20a%20contar%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43-A",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A imissão de Posse processar-se-á de modo sequinte: (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nI - serão intimados, por meio de ofício ou telegrama, os concessionários das minas limítrofes se as houver, com 8 (oito) dias de antecedência, para que por si ou seus representantes possam presenciar o ato, e, em especial, assistir à demarcação; e, (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nII - no dia e hora determinados, serão fixados, definitivamente, os marcos dos limites da jazida que o concessionário terá para êsse fim preparado, colocados precisamente nos pontos indicados no Decreto de Concessão, dando-se, em seguida, ao concessionário, a Posse da jazida. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\n§ 1º - Do que ocorrer, o representante do D.N.P.M lavrará têrmo, que assinará com o titular da lavra, testemunhas e concessionários das minas limítrofes, presentes ao ato; (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\n§ 2º - Os marcos deverão ser conservados bem visíveis e só poderão ser mudados com autorização expressa do D.N.P.M. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2045.%20A%20imiss%C3%A3o%20de%20Posse%20processar-se-%C3%A1%20de%20modo%20sequinte%3A%20%28Revogado%20pela%20Medida%20provis%C3%B3ria%20n%C2%BA%20790%2C%20de%202017%29%20%28Vig%C3%AAncia%20encerrada%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Caberá recurso ao Ministro das Minas e Energia contra a Imissão de Posse, dentro de 15 (quinze) dias, contados da data do ato de imissão. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nParágrafo único. O recurso, se provido, anulará a Imissão de Posse. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2046.%20Caber%C3%A1%20recurso%20ao%20Ministro%20das%20Minas%20e%20Energia%20contra%20a%20Imiss%C3%A3o%20de%20Posse%2C%20dentro%20de%2015%20%28quinze%29%20dias%2C%20contados%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Ficará obrigado o titular da concessão, além das condições gerais que constam dêste Código, ainda, às seguintes, sob pena de sanções previstas no Capítulo V:\n\nI - Iniciar os trabalhos previstos no plano de lavra, dentro do prazo de 6 (seis) meses, contados da data da publicação do Decreto de Concessão no Diário Oficial da União, salvo motivo de fôrça maior, a juízo do D.N.P.M.;\n\nII - Lavrar a jazida de acôrdo com o plano de lavra aprovado pelo D.N.P.M., e cuja segunda via, devidamente autenticada, deverá ser mantida no local da mina;\n\nIII - Extrair sòmente as substâncias minerais indicadas no Decreto de Concessão;\n\nIV - Comunicar imediatamente ao D.N.P.M. o descobrimento de qualquer outra substância mineral não incluída no Decreto de Concessão;\n\nV - Executar os trabalhos de mineração com observância das normas regulamentares;\n\nVI - Confiar, obrigatòriamente, a direção dos trabalhos de lavra a técnico legalmente habilitado ao exercício da profissão;\n\nVII - Não dificultar ou impossibilitar, por lavra ambiciosa, o aproveitamento ulterior da jazida;\n\nVIII - Responder pelos danos e prejuízos a terceiros, que resultarem, direta ou indiretamente, da lavra;\n\nIX - Promover a segurança e a salubridade das habitações existentes no local;\n\nX - Evitar o extravio das águas e drenar as que possam ocasionar danos e prejuízos aos vizinhos;\n\nXI - Evitar poluição do ar, ou da água, que possa resultar dos trabalhos de mineração;\n\nXII - Proteger e conservar as Fontes, bem como utilizar as águas segundo os preceitos técnicos, quando se tratar de lavra de jazida da Classe VIII;\n\nXIII - Tomar as providências indicadas pela fiscalização dos órgãos federais;\n\nXIV - Não suspender os trabalhos de lavra, sem prévia comunicação ao D.N.P.M.;\n\nXV - Manter a mina em bom estado, no caso de suspensão temporária dos trabalhos de lavra, de modo a permitir a retomada das operações;\n\nXVI - Apresentar ao Departamento Nacional da Produçào Mineral - D.N.P.M. - até o dia 15 (quinze) de março de cada ano, relatório das atividades realizadas no ano anterior. (Redação dada pela Lei nº 6.403, de 1976)\n\nParágrafo único. Para o aproveitamento, pelo concessionário de lavra, de substâncias referidas no item IV, dêste artigo, será necessário aditamento ao seu título de lavra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2047.%20Ficar%C3%A1%20obrigado%20o%20titular%20da%20concess%C3%A3o%2C%20al%C3%A9m%20das%20condi%C3%A7%C3%B5es%20gerais%20que%20constam%20d%C3%AAste%20C%C3%B3digo%2C%20ainda%2C%20%C3%A0s%20seguintes%2C%20sob%20pena%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "47-A"
+    },
+    "47-A": {
+      "numero": "47-A",
+      "texto": "Art. 47-A. Em qualquer hipótese de extinção ou caducidade da concessão minerária, o concessionário fica obrigado a: (Incluído pela Lei nº 14.066, de 2020)\n\nI - remover equipamentos e bens e arcar integralmente com os custos decorrentes dessa remoção; (Incluído pela Lei nº 14.066, de 2020)\n\nII - reparar ou indenizar os danos decorrentes de suas atividades; e (Incluído pela Lei nº 14.066, de 2020)\n\nIII - praticar os atos de recuperação ambiental determinados pelos órgãos e entidades competentes. (Incluído pela Lei nº 14.066, de 2020)\n\nParágrafo único. Para fins do efetivo cumprimento deste artigo, o concessionário deverá apresentar à entidade outorgante de direitos minerários o Plano de Fechamento de Mina e à autoridade licenciadora o Plano de Recuperação de Áreas Degradadas. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2047-A.%20Em%20qualquer%20hip%C3%B3tese%20de%20extin%C3%A7%C3%A3o%20ou%20caducidade%20da%20concess%C3%A3o%20miner%C3%A1ria%2C%20o%20concession%C3%A1rio%20fica%20obrigado%20a%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.066%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48 - Considera-se ambiciosa, a lavra conduzida sem observância do plano pré-estabelecido, ou efetuada de modo a impossibilitar o ulterior aproveitameto econômico da jazida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2048%20-%20Considera-se%20ambiciosa%2C%20a%20lavra%20conduzida%20sem%20observ%C3%A2ncia%20do%20plano%20pr%C3%A9-estabelecido%2C%20ou%20efetuada%20de%20modo%20a%20impossibilitar%20o%20ulterior%20aproveitameto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47-A",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os trabalhos de lavra, uma vez iniciados, não poderão ser interrompidos por mais de 6 (seis) meses consecutivos, salvo motivo comprovado de fôrça maior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2049.%20Os%20trabalhos%20de%20lavra%2C%20uma%20vez%20iniciados%2C%20n%C3%A3o%20poder%C3%A3o%20ser%20interrompidos%20por%20mais%20de%206%20%28seis%29%20meses%20consecutivos%2C%20salvo%20motivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50 O Relatório Anual das atividades realizadas no ano anterior deverá conter, entre outros, dados sôbre os seguintes tópicos:\n\nI - Método de lavra, transporte e distribuição no mercado consumidor, das substâncias minerais extraídas;\n\nII - Modificações verificadas nas reservas, características das substâncias minerais produzidas, inclusive o teor mínimo economicamente compensador e a relação observada entre a substância útil e o estéril;\n\nIII - Quadro mensal, em que figurem, pelo menos, os elementos de: produção, estoque, preço médio de venda, destino do produto bruto e do beneficiado, recolhimento do Impôsto Único e o pagamento do Dízimo do proprietário;\n\nIV - Número de trabalhadores da mina e do beneficiamento;\n\nV - Investimentos feitos na mina e nos trabalhos de pesquisa;\n\nVI - Balanço anual da Emprêsa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2050%20O%20Relat%C3%B3rio%20Anual%20das%20atividades%20realizadas%20no%20ano%20anterior%20dever%C3%A1%20conter%2C%20entre%20outros%2C%20dados%20s%C3%B4bre%20os%20seguintes%20t%C3%B3picos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Quando o melhor conhecimento da jazida obtido durante os trabalhos de lavra, justificar mudanças no plano de aproveitamento econômico, ou as condições do mercado exigirem modificações na escala de produção, deverá o concessionário propôr as necessárias alterações ao D.N.P.M., para exame e eventual aprovação do nôvo plano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2051.%20Quando%20o%20melhor%20conhecimento%20da%20jazida%20obtido%20durante%20os%20trabalhos%20de%20lavra%2C%20justificar%20mudan%C3%A7as%20no%20plano%20de%20aproveitamento%20econ%C3%B4mico%2C%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A lavra, praticada em desacôrdo com o plano aprovado pelo D.N.P.M., sujeita o concessionário a sanções que podem ir gradativamente da advertência à caducidade.\n\nParágrafo único. Na hipótese de o concessionário praticar atividades de lavra, de beneficiamento ou de armazenamento de minérios, ou de disposição de estéreis ou de rejeitos em condições que resultem em graves danos à população ou ao meio ambiente, será instaurado processo administrativo de caducidade do título minerário, sem prejuízo do disposto no art. 65 e das demais sanções previstas neste Decreto-Lei. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2052.%20A%20lavra%2C%20praticada%20em%20desac%C3%B4rdo%20com%20o%20plano%20aprovado%20pelo%20D.N.P.M.%2C%20sujeita%20o%20concession%C3%A1rio%20a%20san%C3%A7%C3%B5es%20que%20podem%20ir%20gradativamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A critério do D.N.P.M., várias concessões de lavra de um mesmo titular e da mesma substância mineral, em área de um mesmo jazimento ou zona mineralizada, poderão ser reunidas em uma só unidade de mineração, sob a denominação de Grupamento Mineiro.\n\nParágrafo único. O concessionário de um Grupamento Mineiro, a juízo do D.N.P.M., poderá concentrar as atividades da lavra em uma ou algumas das concessões agrupadas, contando que a intensidade da lavra seja compatível com a importância da reserva total das jazidas agrupadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2053.%20A%20crit%C3%A9rio%20do%20D.N.P.M.%2C%20v%C3%A1rias%20concess%C3%B5es%20de%20lavra%20de%20um%20mesmo%20titular%20e%20da%20mesma%20subst%C3%A2ncia%20mineral%2C%20em%20%C3%A1rea%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Em zona que tenha sido declarada Reserva Nacional de determinada substância mineral, o Govêrno poderá autorizar a pesquisa ou lavra de outra substância mineral, sempre que os trabalhos relativos à autorização solicitada forem compatíveis e independentes dos referentes à substância da Reserva e mediante condições especiais, de conformidade com os interêsses da União e da economia nacional.\n\nParágrafo único. As disposições dêste artigo aplicam-se também a áreas específicas que estiverem sendo objeto de pesquisa ou de lavra sob regime de monopólio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2054.%20Em%20zona%20que%20tenha%20sido%20declarada%20Reserva%20Nacional%20de%20determinada%20subst%C3%A2ncia%20mineral%2C%20o%20Gov%C3%AArno%20poder%C3%A1%20autorizar%20a%20pesquisa%20ou%20lavra",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Subsistirá a Concessão, quanto aos direitos, obrigações, limitações e efeitos dela decorrentes, quando o concessionário a alienar ou gravar, na forma da lei.\n\n§ 1º. Os atos de alienação ou oneração só terão validade depois de averbados no DNPM. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 2º - A concessão de lavra somente é transmissível a quem for capaz de exercê-la de acordo com as disposições deste Código. (Redação dada pela Lei nº 7.085, de 1982)\n\n§ 3º - As dívidas e gravames constituídos sobre a concessão resolvem-se com extinção desta, ressalvada a ação pessoal contra o devedor. (Incluído pela Lei nº 7.085, de 1982)\n\n§ 4º - Os credores não têm ação alguma contra o novo titular da concessão extinta, salvo se esta, por qualquer motivo, voltar ao domínio do primitivo concessionário devedor. (Incluído pela Lei nº 7.085, de 1982)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2055.%20Subsistir%C3%A1%20a%20Concess%C3%A3o%2C%20quanto%20aos%20direitos%2C%20obriga%C3%A7%C3%B5es%2C%20limita%C3%A7%C3%B5es%20e%20efeitos%20dela%20decorrentes%2C%20quando%20o%20concession%C3%A1rio%20a%20alienar%20ou%20gravar%2C%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. A concessão de lavra poderá ser desmembrada em duas ou mais concessões distintas, a juízo do Departamento Nacional da Produção Mineral - D.N.P.M., se o fracionamento não comprometer o racional aproveitamento da jazida e desde que evidenciadas a viabilidade técnica, a economicidade do aproveitamento autônomo das unidades mineiras resultantes e o incremento da produção da jazida. (Redação dada pela Lei nº 7.085, de 1982)\n\nParágrafo único - O desmembramento será pleiteado pelo concessionário, conjuntamente com os pretendentes às novas concessões, se for o caso, em requerimento dirigido ao Ministro das Minas e Energia, entregue mediante recibo no Protocolo do D.N.P.M., onde será mecanicamente numerado e registrado, devendo conter, além de memorial justificativo, os elementos de instrução referidos no art. 38 deste Código, relativamente a cada uma das concessões propostas. (Redação dada pela Lei nº 7.085, de 1982)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2056.%20A%20concess%C3%A3o%20de%20lavra%20poder%C3%A1%20ser%20desmembrada%20em%20duas%20ou%20mais%20concess%C3%B5es%20distintas%2C%20a%20ju%C3%ADzo%20do%20Departamento%20Nacional%20da%20Produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. (Revogado pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2057.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.066%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Poderá o titular da portaria de concessão de lavra, mediante requerimento justificado ao Ministro de Estado de Minas e Energia, obter a suspensão temporária da lavra, ou comunicar a renúncia ao seu título. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 1º. Em ambos os casos, o requerimento será acompanhado de um relatório dos trabalhos efetuados e do estado da mina, e suas possibilidades futuras.\n\n§ 2º. Sómente após verificação \"in loco\" por um de seus técnicos, emitirá o D.N.P.M. Parecer conclusivo para decisão do Ministro das Minas e Energia.\n\n§ 3º. Não aceitas as razões da suspensão dos trabalhos, ou efetivada a renúncia, caberá ao D.N.P.M. sugerir ao Ministro das Minas e Energia medidas que se fizerem necessárias à continuação dos trabalhos e a aplicação de sanções, se fôr o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2058.%20Poder%C3%A1%20o%20titular%20da%20portaria%20de%20concess%C3%A3o%20de%20lavra%2C%20mediante%20requerimento%20justificado%20ao%20Ministro%20de%20Estado%20de%20Minas%20e%20Energia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Lavra",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Ficam sujeitas a servidões de solo e subsolo, para os fins de pesquisa ou lavra, não só a propriedade onde se localiza a jazida, como as limítrofes. (Renumerado do Art. 60 para Art. 59 pelo Decreto-lei nº 318, de 1967)\n\nParágrafo único. Instituem-se Servidões para:\n\na) construção de oficinas, instalações, obras acessórias e moradias;\n\nb) abertura de vias de transporte e linhas de comunicações;\n\nc) captação e adução de água necessária aos serviços de mineração e ao pessoal;\n\nd) transmissão de energia elétrica;\n\ne) escoamento das águas da mina e do engenho de beneficiamento;\n\nf) abertura de passagem de pessoal e material, de conduto de ventilação e de energia elétrica;\n\ng) utilização das aguadas sem prejuízo das atividades pré-existentes; e\n\nh) bota-fora do material desmontado e dos refugos do engenho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2059.%20Ficam%20sujeitas%20a%20servid%C3%B5es%20de%20solo%20e%20subsolo%2C%20para%20os%20fins%20de%20pesquisa%20ou%20lavra%2C%20n%C3%A3o%20s%C3%B3%20a%20propriedade%20onde",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Servidões",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60 Instituem-se as Servidões mediante indenização previa do valor do terreno ocupado e dos prejuízos resultantes dessa ocupação. (Renumerado do Art. 61 para Art. 60 pelo Decreto-lei nº 318, de 1967)\n\n§ 1º. Não havendo acôrdo entre as partes, o pagamento será feito mediante depósito judicial da importância fixada para indenização, através de vistoria ou perícia com arbitramento, inclusive da renda pela ocupação, seguindo-se o competente mandado de imissão de posse na área, se necessário.\n\n§ 2º. O cálculo da indenização e dos danos a serem pagos pelo titular da autorização de pesquisa ou concessão de lavra, ao proprietário do solo ou ao dono das benfeitorias, obedecerá às prescrições contidas no Art. 27 dêste Código, e seguirá o rito estabelecido em Decreto do Govêrno Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2060%20Instituem-se%20as%20Servid%C3%B5es%20mediante%20indeniza%C3%A7%C3%A3o%20previa%20do%20valor%20do%20terreno%20ocupado%20e%20dos%20preju%C3%ADzos%20resultantes%20dessa%20ocupa%C3%A7%C3%A3o.%20%28Renumerado%20do%20Art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Servidões",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Se, por qualquer motivo independente da vontade do indenizado, a indenização tardar em lhe ser entregue, sofrerá, a mesma, a necessária correção monetária, cabendo ao titular da autorização de pesquisa ou concessão de lavra, a obrigação de completar a quantia arbitrada. (Renumerado do Art. 62 para Art. 61 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2061.%20Se%2C%20por%20qualquer%20motivo%20independente%20da%20vontade%20do%20indenizado%2C%20a%20indeniza%C3%A7%C3%A3o%20tardar%20em%20lhe%20ser%20entregue%2C%20sofrer%C3%A1%2C%20a%20mesma%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Servidões",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Não poderão ser iniciados os trabalhos de pesquisa ou lavra, antes de paga a importância a indenização e de fixada a renda pela ocupação do terreno. (Renumerado do Art. 63 para Art. 62 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2062.%20N%C3%A3o%20poder%C3%A3o%20ser%20iniciados%20os%20trabalhos%20de%20pesquisa%20ou%20lavra%2C%20antes%20de%20paga%20a%20import%C3%A2ncia%20a%20indeniza%C3%A7%C3%A3o%20e%20de%20fixada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Servidões",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Sem prejuízo do disposto na Lei nº 9.605, de 12 de fevereiro de 1998, e na Lei nº 12.334, de 20 de setembro de 2010, o descumprimento das obrigações decorrentes das autorizações de pesquisa, das permissões de lavra garimpeira, das concessões de lavra e do licenciamento previsto nesta Lei implica, dependendo da infração: (Redação dada pela Lei nº 14.066, de 2020)\n\nI - advertência; (Redação dada pela Lei nº 9.314, de 1996)\n\nII - multa; e (Redação dada pela Lei nº 9.314, de 1996)\n\nIII - caducidade do título. (Redação dada pela Lei nº 9.314, de 1996)\n\nIV - multa diária; (Incluído pela Lei nº 14.066, de 2020)\n\nV - apreensão de minérios, bens e equipamentos; ou (Incluído pela Lei nº 14.066, de 2020)\n\nVI - suspensão temporária, total ou parcial, das atividades de mineração. (Incluído pela Lei nº 14.066, de 2020)\n\n§ 1º A aplicação das penalidades de advertência, multa, multa diária, apreensão de minérios, bens e equipamentos e suspensão temporária das atividades de mineração compete à Agência Nacional de Mineração (ANM), e a aplicação de caducidade do título, ao Ministro de Estado de Minas e Energia. (Redação dada pela Lei nº 14.066, de 2020)\n\n§ 2º (Revogado). (Redação dada pela Lei nº 14.066, de 2020)\n\n§ 3º (Revogado). (Redação dada pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2063.%20Sem%20preju%C3%ADzo%20do%20disposto%20na%20Lei%20n%C2%BA%209.605%2C%20de%2012%20de%20fevereiro%20de%201998%2C%20e%20na%20Lei%20n%C2%BA%2012.334%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A multa variará de R$ 2.000,00 (dois mil reais) a R$ 1.000.000.000,00 (um bilhão de reais), segundo a gravidade da infração. (Redação dada pela Lei nº 14.066, de 2020)\n\n§ 1º Em caso de reincidência, a multa será cobrada em dôbro;\n\n§ 2º O regulamento dêste Código definirá o critério de imposição de multas, segundo a gravidade das infrações.\n\n§ 3º O valor das multas será recolhido ao Banco do Brasil S. A., em guia própria, à conta do \"Fundo Nacional de Mineração - Parte Disponível.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2064.%20A%20multa%20variar%C3%A1%20de%20R%24%202.000%2C00%20%28dois%20mil%20reais%29%20a%20R%24%201.000.000.000%2C00%20%28um%20bilh%C3%A3o%20de%20reais%29%2C%20segundo%20a%20gravidade%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art 65. Será declarada a caducidade da autorização de pesquisa, ou da concessão de lavra, desde que verificada quaisquer das seguintes infrações: (Renumerado do Art. 66 para Art. 65 pelo Decreto-lei nº 318, de 1967)\n\na) caracterização formal do abandono da jazida ou mina; (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nb) não cumprimento dos prazos de início ou reinício dos trabalhos de pesquisa ou lavra, apesar de advertência e multa; (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nc) prática deliberada dos trabalhos de pesquisa em desacôrdo com as condições constantes do título de autorização, apesar de advertência ou multa; (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\nd) prosseguimento de lavra ambiciosa ou de extração de substância não compreendida no Decreto de Lavra, apesar de advertência e multa; e, (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\ne) não atendimento de repetidas observações da fiscalização, caracterizado pela terceira reincidência, no intervalo de 1 (hum) ano, de infrações com multas. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\n§ 1º Extinta a concessão de lavra, caberá ao Diretor-Geral do Departamento Nacional da Produção Mineral - D.N.P.M. - mediante Edital publicado no Diário Oficial da União, declarar a disponibilidade da respectiva área, para fins de requerimento de autorização de pesquisa ou de concessão de lavra. (Incluído pela Lei nº 6.403, de 1976)\n\n§ 2º O Edital estabelecerá os requisitos especiais a serem atendidos pelo requerente, consoante as peculariedades de cada caso. (Incluído pela Lei nº 6.403, de 1976)\n\n§ 3º Para determinação da prioridade à outorga da autorização de pesquisa, ou da concessão de lavra, conforme o caso, serão, conjuntamente, apreciados os requerimentos protocolizados, dentro do prazo que for conveniente fixado no Edital, definindo-se, dentre estes, como prioritário, o pretendente que, a juízo do Departamento Nacional da Produção Mineral - D.N.P.M. - melhor atender aos interesses específicos do setor minerário.(Incluído pela Lei nº 6.403, de 1976)\n\n§ 4º Aplica-se a penalidade de caducidade da concessão quando ocorrer significativa degradação do meio ambiente ou dos recursos hídricos, bem como danos ao patrimônio de pessoas ou comunidades, em razão do vazamento ou rompimento de barragem de mineração, por culpa ou dolo do empreendedor, sem prejuízo à imposição de multas e à responsabilização civil e penal do concessionário. (Incluído pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2065.%20Ser%C3%A1%20declarada%20a%20caducidade%20da%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%2C%20ou%20da%20concess%C3%A3o%20de%20lavra%2C%20desde%20que%20verificada%20quaisquer%20das%20seguintes%20infra%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. São anuláveis os Alvarás de Pesquisa ou Decretos de Lavra quando outorgados com infringência de dispositivos dêste Código. (Renumerado do Art. 67 para Art. 66 pelo Decreto-lei nº 318, de 1967)\n\n§ 1º. A anulação será promovida \"ex-officio\" nos casos de:\n\na) imprecisão intencional da definição das áreas de pesquisa ou lavra; e,\n\nb) inobservância do disposto no item I do Art. 22.\n\n§ 2º. Nos demais casos, e sempre que possível, o D.N.P.M. procurará sanar a deficiência por via de atos de retificação.\n\n§ 3º. A nulidade poderá ser pleiteada judicialmente em ação proposta por qualquer interessado, no prazo de 1 (hum) ano, a contar da publicação do Decreto de Lavra no Diário Oficial da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2066.%20S%C3%A3o%20anul%C3%A1veis%20os%20Alvar%C3%A1s%20de%20Pesquisa%20ou%20Decretos%20de%20Lavra%20quando%20outorgados%20com%20infring%C3%AAncia%20de%20dispositivos%20d%C3%AAste%20C%C3%B3digo.%20%28Renumerado%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Verificada a causa de nulidade ou caducidade da autorização ou da concessão, salvo os casos de abandono, o titular não perde a propriedade dos bens que possam ser retirados sem prejudicar o conjunto da mina. (Renumerado do Art. 68 para Art. 67 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2067.%20Verificada%20a%20causa%20de%20nulidade%20ou%20caducidade%20da%20autoriza%C3%A7%C3%A3o%20ou%20da%20concess%C3%A3o%2C%20salvo%20os%20casos%20de%20abandono%2C%20o%20titular%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. O Processo Administrativo para declaração de nulidade ou de caducidade, será instaurado \"ex-officio\" ou mediante denúncia comprovada. (Renumerado do Art. 69 para Art. 68 pelo Decreto-lei nº 318, de 1967)\n\n§ 1º. O Diretor-Geral do D.N.P.M. promoverá a intimação do titular, mediante ofício e por edital, quando se encontrar em lugar incerto e ignorado, para apresentação de defesa, dentro de 60 (sessenta) dias, contra os motivos arguidos na denuncia ou que deram margem à instauração do processo administrativo.\n\n§ 2º. Findo o prazo, com a juntada da defesa ou informação sôbre a sua não apresentação pelo notificado, o processo será submetido à decisão do Ministro das Minas e Energia.\n\n§ 3º. Do despacho ministerial declaratório de nulidade ou caducidade da autorização de pesquisa, caberá:\n\na) pedido de reconsideração, no prazo de 15 (quinze) dias; ou\n\nb) recurso voluntário ao Presidente da República, no prazo de 30 (trinta) dias, desde que o titular da autorização não tenha solicitado reconsideração do despacho, no prazo previsto na alínea anterior.\n\n§ 4º. O pedido de reconsideração não atendido, será encaminhado em gráu de recurso, \"ex-officio\", ao Presidente da República, no prazo de 30 (trinta) dias, a contar de seu recebimento, dando-se ciência antecipada ao interessado, que poderá aduzir novos elementos de defesa, inclusive prova documental, as quais, se apresentadas no prazo legal, serão recebidas em caráter de recurso.\n\n§ 5º. O titular de autorização declarada Nula ou Caduca, que se valer da faculdade conferida pela alínea a do § 3º, dêste artigo, não poderá interpor recurso ao Presidente da República enquanto aguarda solução Ministerial para o seu pedido de reconsideração.\n\n§ 6º. Sómente será admitido 1 (hum) pedido de reconsideração e 1 (hum) recurso.\n\n§ 7º. Esgotada a instância administrativa, a execução das medidas determinadas em decisões superiores não será prejudicada por recursos extemporâneos, pedidos de revisão e outros expedientes protelatórios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2068.%20O%20Processo%20Administrativo%20para%20declara%C3%A7%C3%A3o%20de%20nulidade%20ou%20de%20caducidade%2C%20ser%C3%A1%20instaurado%20%22ex-officio%22%20ou%20mediante%20den%C3%BAncia%20comprovada.%20%28Renumerado%20do%20Art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. O processo administrativo para aplicação das sanções de anulação ou caducidade da concessão de lavra, obedecerá ao disposto no § 1º do artigo anterior. (Renumerado do Art. 70 para Art. 69 pelo Decreto-lei nº 318, de 1967) (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\n§ 1º. Concluídas tôdas as diligências necessárias à regular instrução do processo, inclusive juntada de defesa ou informação de não haver a mesma sido apresentada, cópia do expediente de notificação e prova da sua entrega à parte interessada, o Diretor-Geral do D.N.P.M. encaminhará os autos ao Ministro das Minas e Energia. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\n§ 2º. Examinadas as peças dos autos, especialmente as razões de defesa oferecidas pela Emprêsa, o Ministro encaminhará o processo, com relatório e parecer conclusivo, ao Presidente da República. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)\n\n§ 3º. Da decisão da autoridade superior, poderá a interessada solicitar reconsideração, no prazo improrrogável de 10 (dez) dias, a contar da sua publicação no Diário Oficial da União, desde que seja instruído com elementos novos que justifiquem reexame da matéria. (Revogado pela Medida provisória nº 790, de 2017) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2069.%20O%20processo%20administrativo%20para%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20de%20anula%C3%A7%C3%A3o%20ou%20caducidade%20da%20concess%C3%A3o%20de%20lavra%2C%20obedecer%C3%A1%20ao%20disposto%20no%20%C2%A7",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Das Sanções e das Nulidades",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70 Considera-se: (Renumerado do Art. 71 para Art. 70 pelo Decreto-lei nº 318, de 1967)\n\nI - garimpagem, o trabalho individual de quem utiliza instrumentos rudimentares, aparelhos manuais ou máquinas simples e portáveis, na extração de pedras preciosas, semi-preciosas e minerais metálicos ou não metálicos, valiosos, em depósitos de eluvião ou aluvião, nos álveos de cursos d’água ou nas margens reservadas, bem como nos depósitos secundários ou chapadas (grupiaras), vertentes e altos de morros; depósitos êsses genèricamente denominados garimpos.\n\nII - faiscação, o trabalho individual de quem utiliza instrumentos rudimentares, aparelhos manuais ou máquinas simples e portáteis, na extração de metais nobres nativos em depósitos de eluvião ou aluvião, fluviais ou marinhos, depósitos êsses genèricamente denominados faisqueiras; e,\n\nIII - cata, o trabalho individual de quem faça, por processos equiparáveis aos de garimpagem e faiscação, na parte decomposta dos afloramentos dos filões e veeiros, a extração de substâncias minerais úteis, sem o emprêgo de explosivos, e as apure por processos rudimentares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2070%20Considera-se%3A%20%28Renumerado%20do%20Art.%2071%20para%20Art.%2070%20pelo%20Decreto-lei%20n%C2%BA%20318%2C%20de%201967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Ao trabalhador que extrai substâncias minerais úteis, por processo rudimentar e individual de mineração, garimpagem, faiscação ou cata, denomina-se genèricamente, garimpeiro. (Renumerado do Art. 72 para Art. 71 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2071.%20Ao%20trabalhador%20que%20extrai%20subst%C3%A2ncias%20minerais%20%C3%BAteis%2C%20por%20processo%20rudimentar%20e%20individual%20de%20minera%C3%A7%C3%A3o%2C%20garimpagem%2C%20faisca%C3%A7%C3%A3o%20ou%20cata%2C%20denomina-se%20gen%C3%A8ricamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Caracterizam-se a garimpagem, a faiscação e a cata: (Renumerado do Art. 73 para Art. 72 pelo Decreto-lei nº 318, de 1967)\n\nI - pela forma rudimentar de mineração;\n\nII - pela natureza dos depósitos trabalhados; e,\n\nIII - pelo caráter individual do trabalho, sempre por conta própria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2072.%20Caracterizam-se%20a%20garimpagem%2C%20a%20faisca%C3%A7%C3%A3o%20e%20a%20cata%3A%20%28Renumerado%20do%20Art.%2073%20para%20Art.%2072%20pelo%20Decreto-lei%20n%C2%BA%20318%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Dependem de permissão do Govêrno Federal, a garimpagem, a faiscação ou a cata, não cabendo outro ônus ao garimpeiro, senão o pagamento da menor taxa remuneratória cobrada pelas Coletorias Federais a todo aquêle que pretender executar êsses trabalhos. (Renumerado do Art. 74 para Art. 73 pelo Decreto-lei nº 318, de 1967) (Vide Decreto-lei nº 1.370, de 1974) (Vide Lei nº 7.805, de 1989)\n\n§ 1º Essa permissão constará de matrícula do garimpeiro, renovada anualmente nas Coletorias Federais dos Municípios onde forem realizados êsses trabalhos, e será válida sòmente para a região jurisdicionada pela respectiva exatoria que a concedeu.\n\n§ 2º. A matrícula, que é pessoal, será feita a requerimento verbal do interessado e registrada em livro próprio da Coletoria Federal, mediante a apresentação do comprovante de quitação do impôsto sindical e o pagamento da mesma taxa remuneratória cobrada pela Coletoria. (Redação dada pelo Decreto-lei nº 318, de 1967)\n\n§ 3º Ao garimpeiro matriculado será fornecido um Certificado de Matrícula, do qual constará seu retrato, nome, nacionalidade, enderêço, e será o documento oficial para o exercício da atividade dentro da zona nêle especificada.\n\n§ 4º Será apreendido o material de garimpagem, faiscação ou cata, quando o garimpeiro não possuir o necessário Certificado de Matrícula, sendo o produto vendido em hasta pública e recolhido ao Banco do Brasil S.A., à conta do \"Fundo Nacional de Mineração - Parte Disponível\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2073.%20Dependem%20de%20permiss%C3%A3o%20do%20Gov%C3%AArno%20Federal%2C%20a%20garimpagem%2C%20a%20faisca%C3%A7%C3%A3o%20ou%20a%20cata%2C%20n%C3%A3o%20cabendo%20outro%20%C3%B4nus%20ao%20garimpeiro%2C%20sen%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Dependem de consentimento prévio do proprietário do solo, as permissões para garimpagem, faiscação ou cata, em terras ou águas de domínio privado. (Renumerado do Art. 75 para Art. 74 pelo Decreto-lei nº 318, de 1967) (Vide Decreto-lei nº 1.370, de 1974)\n\nParágrafo único. A contribuição do garimpeiro ajustada com o proprietário do solo para fazer garimpagem, faiscação, ou cata, não poderá exceder o dízimo do valor do impôsto único que fôr arrecadado pela Coletoria Federal da jurisdição local, referente à substância encontrada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2074.%20Dependem%20de%20consentimento%20pr%C3%A9vio%20do%20propriet%C3%A1rio%20do%20solo%2C%20as%20permiss%C3%B5es%20para%20garimpagem%2C%20faisca%C3%A7%C3%A3o%20ou%20cata%2C%20em%20terras%20ou%20%C3%A1guas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. É vedada a realização de trabalhos de garimpagem, faiscação ou cata, em área objeto de autorização de pesquisa ou concessão de lavra. (Redação dada pela Lei nº 6.403, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2075.%20%C3%89%20vedada%20a%20realiza%C3%A7%C3%A3o%20de%20trabalhos%20de%20garimpagem%2C%20faisca%C3%A7%C3%A3o%20ou%20cata%2C%20em%20%C3%A1rea%20objeto%20de%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%20ou%20concess%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. Atendendo aos interesses do setor minerário, poderão, a qualquer tempo, ser delimitadas determinadas áreas nas quais o aproveitamento de substâncias minerais farse-á exclusivamente por trabalhos de garimpagem, faiscação ou cata, consoante for estabelecido em Portaria do Ministro das Minas e Energia, mediante proposta do Diretor-Geral do Departamento Nacional da Produçào Mineral. (Redação dada pela Lei nº 6.403, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2076.%20Atendendo%20aos%20interesses%20do%20setor%20miner%C3%A1rio%2C%20poder%C3%A3o%2C%20a%20qualquer%20tempo%2C%20ser%20delimitadas%20determinadas%20%C3%A1reas%20nas%20quais%20o%20aproveitamento%20de%20subst%C3%A2ncias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. O impôsto único referente às substâncias minerais oriundas de atividades de garimpagem, faiscação ou cata, será pago pelos compradores ou beneficiadores autorizados por Decreto do Govêrno Federal, de acôrdo com os dispositivos da lei específica. (Renumerado do Art. 78 para Art. 77 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2077.%20O%20imp%C3%B4sto%20%C3%BAnico%20referente%20%C3%A0s%20subst%C3%A2ncias%20minerais%20oriundas%20de%20atividades%20de%20garimpagem%2C%20faisca%C3%A7%C3%A3o%20ou%20cata%2C%20ser%C3%A1%20pago%20pelos%20compradores%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Por motivo de ordem pública, ou em se verificando malbaratamento de determinada riqueza mineral, poderá o Ministro das Minas e Energia, por proposta do Diretor-Geral do D.N.P.M., determinar o fechamento de certas áreas às atividades de garimpagem, faiscação ou cata, ou excluir destas a extração de determinados minerais. (Renumerado do Art. 79 para Art. 78 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2078.%20Por%20motivo%20de%20ordem%20p%C3%BAblica%2C%20ou%20em%20se%20verificando%20malbaratamento%20de%20determinada%20riqueza%20mineral%2C%20poder%C3%A1%20o%20Ministro%20das%20Minas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Garimpagem, Faiscação e Cata",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. (Revogado pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2079.%20%28Revogado%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Emprêsa de Mineração (Suprimido pela Lei nº 9.314, de 14.11.1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80 (Revogado pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2080%20%28Revogado%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Emprêsa de Mineração (Suprimido pela Lei nº 9.314, de 14.11.1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. As empresas que pleitearem autorização para pesquisa ou lavra, ou que forem titulares de direitos minerários de pesquisa ou lavra, ficam obrigadas a arquivar no DNPM, mediante protocolo, os estatutos ou contratos sociais e acordos de acionistas em vigor, bem como as futuras alterações contratuais ou estatutárias, dispondo neste caso do prazo máximo de trinta dias após registro no Departamento Nacional de Registro de Comércio. (Redação dada pela Lei nº 9.314, de 1996)\n\nParágrafo único. O não cumprimento do prazo estabelecido neste artigo ensejará as seguintes sanções: (Redação dada pela Lei nº 9.314, de 1996)\n\nI - advertência; (Incluído pela Lei nº 9.314, de 1996)\n\nII - multa, a qual será aplicada em dobro no caso de não atendimento das exigências objeto deste artigo, no prazo de trinta dias da imposição da multa inicial, e assim sucessivamente, a cada trinta dias subseqüentes. (Incluído pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2081.%20As%20empresas%20que%20pleitearem%20autoriza%C3%A7%C3%A3o%20para%20pesquisa%20ou%20lavra%2C%20ou%20que%20forem%20titulares%20de%20direitos%20miner%C3%A1rios%20de%20pesquisa%20ou%20lavra%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Das disposições Finais (Renumerado do Capítulo VIII para Capítulo VII, com nova redação pela Lei nº 9.314, de 14.11.1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art 82. (Revogado pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2082.%20%28Revogado%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Das disposições Finais (Renumerado do Capítulo VIII para Capítulo VII, com nova redação pela Lei nº 9.314, de 14.11.1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Aplica-se à propriedade mineral o direito comum, salvo as restrições impostas neste Código. (Renumerado do Art. 84 para Art. 83 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2083.%20Aplica-se%20%C3%A0%20propriedade%20mineral%20o%20direito%20comum%2C%20salvo%20as%20restri%C3%A7%C3%B5es%20impostas%20neste%20C%C3%B3digo.%20%28Renumerado%20do%20Art.%2084%20para%20Art.%2083",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. A Jazida é bem imóvel, distinto do solo onde se encontra, não abrangendo a propriedade dêste o minério ou a substância mineral útil que a constitui. (Renumerado do Art. 85 para Art. 84 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2084.%20A%20Jazida%20%C3%A9%20bem%20im%C3%B3vel%2C%20distinto%20do%20solo%20onde%20se%20encontra%2C%20n%C3%A3o%20abrangendo%20a%20propriedade%20d%C3%AAste%20o%20min%C3%A9rio%20ou%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. O limite subterrâneo da jazida ou mina é o plano vertical coincidente com o perímetro definidor da área titulada, admitida, em caráter excepcional, a fixação de limites em profundidade por superfície horizontal. (Redação dada pela Lei nº 9.314, de 1996)\n\n§ 1º. A iniciativa de propor a fixação de limites no plano horizontal da concessão poderá ser do titular dos direitos minerários preexistentes ou do DNPM, ex officio, cabendo sempre ao titular a apresentação do plano dos trabalhos de pesquisa, no prazo de noventa dias, contado da data de publicação da intimação no Diário Oficial da União, para fins de prioridade na obtenção do novo título. (Incluído pela Lei nº 9.314, de 1996)\n\n§ 2º. Em caso de inobservância pelo titular de direitos minerários preexistentes no prazo a que se refere o parágrafo anterior, o DNPM poderá colocar em disponibilidade o título representativo do direito minerário decorrente do desmembramento. (Incluído pela Lei nº 9.314, de 1996)\n\n§ 3º. Em caráter excepcional, ex officio ou por requerimento de parte interessada, poderá o DNPM, no interesse do setor mineral, efetuar a limitação de jazida por superfície horizontal, inclusive em áreas já tituladas.(Incluído pela Lei nº 9.314, de 1996)\n\n§ 4º. O DNPM estabelecerá, em portaria, as condições mediante as quais os depósitos especificados no caput poderão ser aproveitados, bem como os procedimentos inerentes à outorga da respectiva titulação, respeitados os direitos preexistentes e as demais condições estabelecidas neste artigo. (Incluído pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2085.%20O%20limite%20subterr%C3%A2neo%20da%20jazida%20ou%20mina%20%C3%A9%20o%20plano%20vertical%20coincidente%20com%20o%20per%C3%ADmetro%20definidor%20da%20%C3%A1rea%20titulada%2C%20admitida%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art 86. Os titulares de concessões e minas próximas ou vizinhas, abertas situadas sôbre o mesmo jazimento ou zona mineralizada, poderão obter permissão para a formação de um Consórcio de Mineração, mediante Decreto do Govêrno Federal, objetivando incrementar a produtividade da extração ou a sua capacidade. (Renumerado do Art. 87 para Art. 86 pelo Decreto-lei nº 318, de 1967)\n\n§ 1º Do requerimento pedindo a constituição do Consórcio de Mineração, deverá constar:\n\nI - Memorial justificativo dos benefícios resultantes da formação do Consórcio, com indicação dos recursos econômicos e financeiros de que disporá a nova entidade;\n\nII - Minuta dos Estatutos do Consórcio, plano de trabalhos a realizar, e enumeração das providências e favôres que esperam merecer do Poder Público.\n\n§ 2º A nova entidade, Consórcio de Mineração, ficará sujeita a condições fixadas em Caderno de Encargos, anexado ao ato institutivo da concessão e que será elaborado por Comissão específicamente nomeada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2086.%20Os%20titulares%20de%20concess%C3%B5es%20e%20minas%20pr%C3%B3ximas%20ou%20vizinhas%2C%20abertas%20situadas%20s%C3%B4bre%20o%20mesmo%20jazimento%20ou%20zona%20mineralizada%2C%20poder%C3%A3o%20obter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art 87. (Revogado pela Lei nº 14.066, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2087.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.066%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Ficam sujeitas à fiscalização direta do D.N.P.M., tôdas as atividades concernentes à mineração, ao comércio e à industrialização de matérias-primas minerais, nos limites estabelecidos em Lei. (Renumerado do Art. 89 para Art. 88 pelo Decreto-lei nº 318, de 1967)\n\nParágrafo único. Exercer-se-á fiscalização para o cumprimento integral das disposições legais, regulamentares ou contratuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2088.%20Ficam%20sujeitas%20%C3%A0%20fiscaliza%C3%A7%C3%A3o%20direta%20do%20D.N.P.M.%2C%20t%C3%B4das%20as%20atividades%20concernentes%20%C3%A0%20minera%C3%A7%C3%A3o%2C%20ao%20com%C3%A9rcio%20e%20%C3%A0%20industrializa%C3%A7%C3%A3o%20de%20mat%C3%A9rias-primas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art 89. (Revogado pelo Decreto-lei nº 1.038, de 1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2089.%20%28Revogado%20pelo%20Decreto-lei%20n%C2%BA%201.038%2C%20de%201969%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. Quando se verificar em jazida em lavra a concorrência de minerais radioativos ou apropriados ao aproveitamento dos misteres da produção de energia nuclear, a concessão só será mantida caso o valor econômico da substância mineral, objeto do decreto de lavra, seja superior ao dos minerais nucleares que contiver. (Renumerado do Art. 91 para Art. 90 pelo Decreto-lei nº 318, de 1967)\n\n§ 1º (Revogado pelo Decreto-lei nº 330, de 1967)\n\n§ 2º Quando a inesperada ocorrência de minerais radioativos e nucleares associados suscetíveis de aproveitamento econômico predominar sôbre a substância mineral constante do título de lavra, a mina poderá ser desapropriada.\n\n§ 3º Os titulares de autorizações de pesquisa, ou de concessões de lavra, são obrigados a comunicar, ao Ministério das Minas e Energia, qualquer descoberta que tenham feito de minerais radioativos ou nucleares associados à substância mineral mencionada respectivo título, sob pena de sanções.\n\n§§ 4º e 5º (Revogados pelo Decreto-lei nº 330, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2090.%20Quando%20se%20verificar%20em%20jazida%20em%20lavra%20a%20concorr%C3%AAncia%20de%20minerais%20radioativos%20ou%20apropriados%20ao%20aproveitamento%20dos%20misteres%20da%20produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. A Emprêsa de Mineração que, comprovadamente, dispuzer do recurso dos métodos de prospecção aérea, poderá pleitear permissão para realizar Reconhecimento Geológico por êstes métodos, visando obter informações preliminares regionais necessárias à formulação de requerimento de autorização de pesquisa, na forma do que dispuzer o Regulamento dêste Código. (Renumerado do Art. 92 para Art. 91 pelo Decreto-lei nº 318, de 1967)\n\n§ 1º As regiões assim permissionadas não se subordinam aos limites previstos no Art. 25 dêste Código.\n\n§ 2º A permissão será dada por autorização expressa do Diretor-Geral do D.N.P.M., com prévio assentimento do Conselho de Segurança Nacional.\n\n§ 3º A permissão do Reconhecimento Geológico será outorga pelo prazo máximo e improrrogável de 90 (noventa) dias, a contar da data da publicação no Diário Oficial .\n\n§ 4º A permissão do Reconhecimento Geológico terá caráter precário, e atribui à Emprêsa tão sòmente o direito de prioridade para obter a autorização de pesquisa dentro da região permissionada, desde que requerida no prazo estipulado no parágrafo anterior, obedecidos os limites de áreas previstas no Art. 25.\n\n§ 5º A Emprêsa de Mineração fica obrigada a apresentar ao D.N.P.M. os resultados do Reconhecimento procedido, sob pena de sanções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2091.%20A%20Empr%C3%AAsa%20de%20Minera%C3%A7%C3%A3o%20que%2C%20comprovadamente%2C%20dispuzer%20do%20recurso%20dos%20m%C3%A9todos%20de%20prospec%C3%A7%C3%A3o%20a%C3%A9rea%2C%20poder%C3%A1%20pleitear%20permiss%C3%A3o%20para%20realizar%20Reconhecimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. O DNPM manterá registros próprios dos títulos minerários. (Redação dada pela Lei nº 9.314, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2092.%20O%20DNPM%20manter%C3%A1%20registros%20pr%C3%B3prios%20dos%20t%C3%ADtulos%20miner%C3%A1rios.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.314%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "91",
+      "next": "92-A"
+    },
+    "92-A": {
+      "numero": "92-A",
+      "texto": "Art. 92-A. Os títulos e direitos minerários, inclusive o alvará de autorização de pesquisa, a concessão de lavra, o licenciamento, a permissão de lavra garimpeira, bem como o direito persistente após a vigência da autorização de pesquisa e antes da outorga da concessão de lavra, reconhecido com base neste Código, podem ser onerados e oferecidos em garantia. (Incluído pela Lei nº 14.514, de 2022)\n\nParágrafo único. O órgão regulador da atividade minerária, em consonância com o disposto no inciso XXXI do caput do art. 2º da Lei nº 13.575, de 26 de dezembro de 2017, efetuará as averbações decorrentes do uso previsto no caput deste artigo. (Incluído pela Lei nº 14.514, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2092-A.%20Os%20t%C3%ADtulos%20e%20direitos%20miner%C3%A1rios%2C%20inclusive%20o%20alvar%C3%A1%20de%20autoriza%C3%A7%C3%A3o%20de%20pesquisa%2C%20a%20concess%C3%A3o%20de%20lavra%2C%20o%20licenciamento%2C%20a%20permiss%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. Serão publicados no Diário Oficial da União os alvarás de pesquisa, as portarias de lavra e os demais atos administrativos deles decorrentes. (Redação dada pela Lei nº 9.314, de 1996)\n\nParágrafo Único - A publicação de editais em jornais particulares, é também feita à custa dos requerentes e por êles próprios promovidos, devendo ser enviado prontamente um exemplar ao D.N.P.M. para anexação ao respectivo processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2093.%20Ser%C3%A3o%20publicados%20no%20Di%C3%A1rio%20Oficial%20da%20Uni%C3%A3o%20os%20alvar%C3%A1s%20de%20pesquisa%2C%20as%20portarias%20de%20lavra%20e%20os%20demais%20atos%20administrativos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92-A",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art 94. Será sempre ouvido o D.N.P.M. quando o Govêrno Federal tratar de qualquer assunto referente à matéria-prima mineral ou ao seu produto. (Renumerado do Art. 95 para Art. 94 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2094.%20Ser%C3%A1%20sempre%20ouvido%20o%20D.N.P.M.%20quando%20o%20Gov%C3%AArno%20Federal%20tratar%20de%20qualquer%20assunto%20referente%20%C3%A0%20mat%C3%A9ria-prima%20mineral%20ou%20ao%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art 95. Continuam em vigor as autorizações de pesquisa e concessões de lavra outorgadas na vigência da legislação anterior, ficando, no entanto, sua execução sujeita a observância dêste Código. (Renumerado do Art. 96 para Art. 95 pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art%2095.%20Continuam%20em%20vigor%20as%20autoriza%C3%A7%C3%B5es%20de%20pesquisa%20e%20concess%C3%B5es%20de%20lavra%20outorgadas%20na%20vig%C3%AAncia%20da%20legisla%C3%A7%C3%A3o%20anterior%2C%20ficando%2C%20no%20entanto%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. A lavra de jazida será organizada e conduzida na forma da Constituição. (Incluído pelo Decreto-lei nº 318, de 1967)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2096.%20A%20lavra%20de%20jazida%20ser%C3%A1%20organizada%20e%20conduzida%20na%20forma%20da%20Constitui%C3%A7%C3%A3o.%20%28Inclu%C3%ADdo%20pelo%20Decreto-lei%20n%C2%BA%20318%2C%20de%201967%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. O Govêrno Federal expedirá os Regulamentos necessários à execução dêste Código, inclusive fixando os prazos de tramitação dos processos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2097.%20O%20Gov%C3%AArno%20Federal%20expedir%C3%A1%20os%20Regulamentos%20necess%C3%A1rios%20%C3%A0%20execu%C3%A7%C3%A3o%20d%C3%AAste%20C%C3%B3digo%2C%20inclusive%20fixando%20os%20prazos%20de%20tramita%C3%A7%C3%A3o%20dos%20processos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "96",
+      "next": "98"
+    },
+    "98": {
+      "numero": "98",
+      "texto": "Art. 98. Esta Lei entrará em vigor no dia 15 de março de 1967, revogadas as disposições em contrário.\n\nBrasília, 28 de fevereiro de 1967; 146º da Independência e 79º da República.\n\nH. CASTELLO BRANCO Octavio Bulhões Mauro Thibau Edmar de Souza\n\nEste texto não substitui o publicado no DOU de 28.2.1967.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm#:~:text=Art.%2098.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20no%20dia%2015%20de%20mar%C3%A7o%20de%201967%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das disposições finais (Renumerado para Capítulo VII pela Lei nº 9.314, de 1996)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "97",
+      "next": null
+    }
+  }
+}

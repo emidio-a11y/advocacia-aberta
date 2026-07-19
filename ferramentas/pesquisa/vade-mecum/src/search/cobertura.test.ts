@@ -13,14 +13,21 @@ import { TOTAL_TEMAS_STJ } from "./temas.js";
 
 const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "ADCT",
+  "CAG",
+  "CBA",
+  "CBT",
   "CC",
   "CDC",
   "CE",
   "CF",
+  "CFLO",
   "CLT",
+  "CMIN",
   "CP",
   "CPC",
+  "CPM",
   "CPP",
+  "CPPM",
   "CTB",
   "CTN",
   "ECA",
@@ -78,7 +85,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 63 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 70 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -97,9 +104,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(63);
+    expect(legislacoes).toHaveLength(70);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      10104,
+      12057,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);
