@@ -20,6 +20,11 @@ import {
   TOTAL_TEMAS_STJ,
 } from "./search/temas.js";
 import {
+  buscarTemasRG,
+  formatTemaRG,
+  TOTAL_TEMAS_RG_STF,
+} from "./search/temas_rg_stf.js";
+import {
   buscarLegislacao,
   CODIGOS_DISPONIVEIS,
   formatArtigo,
@@ -134,6 +139,32 @@ Use quando a questão puder ser objeto de recurso repetitivo, para verificar se 
       },
     },
     {
+      name: "buscar_tema_rg",
+      description: `Busca temas de repercussão geral do STF (${formatarNumero(TOTAL_TEMAS_RG_STF)} temas).
+
+O registro informa a situação de temas submetidos ao regime da repercussão geral do STF (o par vinculante dos temas repetitivos do STJ).
+Quando o mérito foi julgado e há tese firmada vigente e aplicável, sua observância é obrigatória nos termos do art. 927, III, do CPC; temas apenas com repercussão geral reconhecida, cancelados ou em julgamento exigem tratamento distinto.
+
+Aceita busca por número ("tema 69", "RG 69", "repercussão geral 660") ou palavras-chave.
+
+Use quando a questão constitucional puder ser objeto de repercussão geral, para verificar se o STF já firmou tese.`,
+      inputSchema: {
+        type: "object",
+        properties: {
+          query: {
+            type: "string",
+            description: "Número do tema (ex: 'tema 69') ou palavras-chave (ex: 'ICMS base de cálculo PIS COFINS').",
+          },
+          limit: {
+            type: "number",
+            description: "Máximo de resultados. Default: 5.",
+            default: 5,
+          },
+        },
+        required: ["query"],
+      },
+    },
+    {
       name: "buscar_legislacao",
       description: `Busca artigos em ${legislacoes.length} diplomas da legislação brasileira.
 
@@ -209,6 +240,18 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       return { content: [{ type: "text", text: `Nenhum tema encontrado para: "${query}"` }] };
     }
     const text = results.map(formatTema).join("\n---\n\n");
+    return { content: [{ type: "text", text }] };
+  }
+
+  if (name === "buscar_tema_rg") {
+    const query = String(args?.query ?? "");
+    const limit = Number(args?.limit ?? 5);
+
+    const results = buscarTemasRG(query, limit);
+    if (results.length === 0) {
+      return { content: [{ type: "text", text: `Nenhum tema de repercussão geral encontrado para: "${query}"` }] };
+    }
+    const text = results.map(formatTemaRG).join("\n---\n\n");
     return { content: [{ type: "text", text }] };
   }
 

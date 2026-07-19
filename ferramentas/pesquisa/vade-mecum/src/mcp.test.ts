@@ -83,6 +83,10 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
   const temas = tools!.find((tool) => tool.name === "buscar_tema");
   expect(temas?.description).toContain("art. 927, III, do CPC");
 
+  const temasRG = tools!.find((tool) => tool.name === "buscar_tema_rg");
+  expect(temasRG?.description).toContain("repercussão geral do STF");
+  expect(temasRG?.description).toContain("art. 927, III, do CPC");
+
   const descricoes = tools!.map((tool) => tool.description).join("\n");
   expect(descricoes).not.toContain("fontes primárias");
   expect(descricoes).not.toContain("Força: ORIENTATIVA");

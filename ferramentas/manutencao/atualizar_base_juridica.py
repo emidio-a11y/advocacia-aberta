@@ -1233,12 +1233,170 @@ def transformar_temas(
     return [saida]
 
 
+COLUNAS_TEMAS_RG = (
+    "Tema",
+    "Leading Case",
+    "Relator",
+    "Título",
+    "Descrição",
+    "Assuntos",
+    "Manifestação",
+    "Acórdão",
+    "Plenário Virtual",
+    "Há Repercussão",
+    "Data do Julgamento",
+    "Situação do Tema",
+    "Tese",
+    "Data da Tese",
+    "Observação",
+)
+
+
+def celula_texto_rg(no: Elemento) -> str:
+    return corrigir_mojibake(texto_elemento(no))
+
+
+def celula_link_rg(no: Elemento) -> str:
+    ancora = primeiro(no, tag="a")
+    if ancora is None:
+        return ""
+    href = unescape(ancora.atributos.get("href", "")).strip().replace(" ", "%20")
+    host = (urlparse(href).hostname or "").lower()
+    return href if host in HOSTS_OFICIAIS else ""
+
+
+def linhas_tabela_rg(arvore: Elemento) -> list[list[Elemento]]:
+    """Devolve as linhas de dados (uma lista de células ``<td>`` por linha).
+
+    O cabeçalho usa ``<th>`` e não gera célula ``<td>``, então é descartado
+    naturalmente; a ordem das colunas é conferida contra ``COLUNAS_TEMAS_RG``.
+    """
+    cabecalhos = [
+        texto_elemento(th)
+        for tr in buscar(arvore, tag="tr")
+        for th in buscar(tr, tag="th")
+    ]
+    if cabecalhos and cabecalhos[: len(COLUNAS_TEMAS_RG)] != list(COLUNAS_TEMAS_RG):
+        raise ValueError(
+            "cabeçalho da tabela de repercussão geral divergente do esperado: "
+            f"{cabecalhos}"
+        )
+    linhas: list[list[Elemento]] = []
+    for tr in buscar(arvore, tag="tr"):
+        celulas = list(buscar(tr, tag="td"))
+        if celulas:
+            linhas.append(celulas)
+    return linhas
+
+
+def transformar_temas_rg(
+    config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
+) -> list[Path]:
+    fonte = config["fontes"][0]
+    arvore = analisar_html(decodificar_html(bruto / fonte["arquivo_bruto"]))
+    linhas = linhas_tabela_rg(arvore)
+    if not linhas:
+        raise ValueError("nenhum tema reconhecido na exportação de repercussão geral")
+    temas: dict[str, Any] = {}
+    for celulas in linhas:
+        if len(celulas) != len(COLUNAS_TEMAS_RG):
+            raise ValueError(
+                f"linha com {len(celulas)} colunas; esperado {len(COLUNAS_TEMAS_RG)}"
+            )
+        numero_texto = celula_texto_rg(celulas[0]).strip()
+        if not numero_texto.isdigit():
+            continue
+        numero = int(numero_texto)
+        chave = str(numero)
+        links: dict[str, str] = {
+            "paginaTema": (
+                "https://portal.stf.jus.br/jurisprudenciaRepercussao/"
+                f"verTeseTema.asp?numTema={numero}"
+            )
+        }
+        # As colunas Manifestação (6), Acórdão (7) e Plenário Virtual (8) são
+        # células-link cujo texto visível é só um rótulo ("Manifestação",
+        # "Acórdão"); o valor útil é o href.
+        manifestacao = celula_link_rg(celulas[6])
+        if manifestacao:
+            links["manifestacao"] = manifestacao
+        acordao = celula_link_rg(celulas[7])
+        if acordao:
+            links["acordao"] = acordao
+        detalhamento = celula_link_rg(celulas[8])
+        if detalhamento:
+            links["detalhamento"] = detalhamento
+        temas[chave] = {
+            "numero": numero,
+            "leadingCase": celula_texto_rg(celulas[1]),
+            "relator": celula_texto_rg(celulas[2]),
+            "titulo": celula_texto_rg(celulas[3]),
+            "descricao": celula_texto_rg(celulas[4]),
+            "repercussao": celula_texto_rg(celulas[9]),
+            "situacao": celula_texto_rg(celulas[11]),
+            "dataJulgamento": celula_texto_rg(celulas[10]),
+            "tese": celula_texto_rg(celulas[12]),
+            "dataTese": celula_texto_rg(celulas[13]),
+            "observacao": celula_texto_rg(celulas[14]).strip(),
+            "links": links,
+        }
+    if not temas:
+        raise ValueError("nenhum tema reconhecido na exportação de repercussão geral")
+    temas = {
+        chave: temas[chave]
+        for chave in sorted(temas, key=lambda valor: int(valor))
+    }
+    situacoes = Counter(item["situacao"] for item in temas.values())
+    com_tese = sum(1 for item in temas.values() if item["tese"].strip())
+    objeto = {
+        "_meta": {
+            "version": "1.0",
+            "tipo": "temas_repercussao_geral",
+            "tribunal": "STF",
+            "totalTemas": len(temas),
+            "temasComTese": com_tese,
+            "generatedAt": agora_utc(),
+            "situacoes": dict(sorted(situacoes.items())),
+            "descricao": "Temas de Repercussão Geral do STF extraídos da exportação oficial",
+            "source": {
+                "provenanceStatus": "reproducible_pipeline",
+                "dataset": "Temas de Repercussão Geral — Portal do STF",
+                "officialPublicReference": {
+                    "export": fonte["url"],
+                    "temaUrlTemplate": (
+                        "https://portal.stf.jus.br/jurisprudenciaRepercussao/"
+                        "verTeseTema.asp?numTema={numero}"
+                    ),
+                },
+                "method": (
+                    "Tabela HTML (application/vnd.ms-excel) do exportarDados.asp "
+                    "parseada com a biblioteca padrão; mojibake corrigido por "
+                    "célula (cp1252→utf-8)."
+                ),
+                "collectedAt": agora_utc(),
+                "limitacoes": (
+                    "A coluna 'Assuntos' do export duplica 'Descrição', então a "
+                    "taxonomia de assuntos não é fornecida por esta rota. O flag "
+                    "de suspensão nacional (art. 1.035, §5º, CPC) não existe nas "
+                    "rotas estáticas — só na base Qlik do STF."
+                ),
+            },
+            "transformacao": "temas_rg_stf_html_v1",
+        },
+        "temas": temas,
+    }
+    saida = candidatos / config["destino"]
+    salvar_json(saida, objeto)
+    return [saida]
+
+
 TRANSFORMADORES = {
     "planalto_html_v1": transformar_legislacao,
     "sumulas_stj_html_v1": transformar_sumulas_stj,
     "sumulas_stf_html_v1": transformar_sumulas_stf,
     "jt_stj_html_v1": transformar_jt,
     "temas_stj_csv_v1": transformar_temas,
+    "temas_rg_stf_html_v1": transformar_temas_rg,
 }
 
 
@@ -1303,6 +1461,7 @@ def validar_objeto(config: dict[str, Any], objeto: dict[str, Any], nome: str) ->
         "sumulas": ("numero", "enunciado", "status", "url"),
         "jurisprudencia_em_teses": ("id", "edicao", "enunciado", "url"),
         "precedentes_qualificados": ("numero", "questao", "links"),
+        "precedentes_rg_stf": ("numero", "titulo", "situacao", "links"),
     }[familia]
     for identificador, registro in registros.items():
         if not isinstance(registro, dict):
@@ -1337,6 +1496,8 @@ def validar_objeto(config: dict[str, Any], objeto: dict[str, Any], nome: str) ->
                 f"{nome}: total_edicoes={meta.get('total_edicoes')} mas há {edicoes}"
             )
     elif familia == "precedentes_qualificados":
+        esperado = meta.get("totalTemas")
+    elif familia == "precedentes_rg_stf":
         esperado = meta.get("totalTemas")
     if esperado != quantidade:
         erros.append(f"{nome}: metadado informa {esperado}, coleção contém {quantidade}")
@@ -1816,11 +1977,57 @@ def monitorar_temas(
     return [{"alvo": "ckan", "situacao": situacao, "detalhe": detalhe}]
 
 
+def monitorar_temas_rg(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    fonte = config["fontes"][0]
+    export = temp / "repercussao_geral.xls"
+    baixar(fonte["url"], export)
+    arvore = analisar_html(decodificar_html(export))
+    situacoes_fonte: Counter[str] = Counter()
+    total_fonte = 0
+    for celulas in linhas_tabela_rg(arvore):
+        if len(celulas) != len(COLUNAS_TEMAS_RG):
+            continue
+        if not celula_texto_rg(celulas[0]).strip().isdigit():
+            continue
+        total_fonte += 1
+        situacoes_fonte[celula_texto_rg(celulas[11])] += 1
+    if not total_fonte:
+        raise RuntimeError("exportação de repercussão geral sem temas reconhecíveis")
+    registros = carregar_json(publicados / config["destino"]).get(
+        config.get("chave_colecao", "temas"), {}
+    )
+    situacoes_pub = Counter(str(item.get("situacao", "")) for item in registros.values())
+    diferencas: list[str] = []
+    if total_fonte != len(registros):
+        diferencas.append(
+            f"total {total_fonte} na fonte vs {len(registros)} no snapshot"
+        )
+    for situacao in sorted(set(situacoes_fonte) | set(situacoes_pub)):
+        if situacoes_fonte[situacao] != situacoes_pub[situacao]:
+            diferencas.append(
+                f"{situacao}: {situacoes_fonte[situacao]} na fonte vs "
+                f"{situacoes_pub[situacao]} no snapshot"
+            )
+    if diferencas:
+        situacao = "mudou"
+        detalhe = "; ".join(diferencas)
+    else:
+        situacao = "sem_mudanca"
+        detalhe = (
+            f"total e situações iguais ({total_fonte} temas); alterações de tese "
+            "sem mudança de situação não são detectadas por este sinal"
+        )
+    return [{"alvo": "exportacao", "situacao": situacao, "detalhe": detalhe}]
+
+
 MONITORES_POR_ADAPTADOR = {
     "sumulas_stj_html_v1": monitorar_sumulas_stj,
     "sumulas_stf_html_v1": monitorar_sumulas_stf,
     "jt_stj_html_v1": monitorar_jt,
     "temas_stj_csv_v1": monitorar_temas,
+    "temas_rg_stf_html_v1": monitorar_temas_rg,
 }
 
 

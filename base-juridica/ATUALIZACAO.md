@@ -47,6 +47,7 @@ O manifesto versionado está em [fontes.json](fontes.json), validado pelo contra
 | Súmulas vinculantes | aplicação das Súmulas Vinculantes no STF | catálogo e uma página de detalhe por verbete | mesma transformação do STF, com metadados de vinculância separados |
 | Jurisprudência em Teses | páginas de cada edição no STJ | índice e edições de `1` até a mais recente observada | extrai edição, título, data, enunciados, julgados e links para o PDF oficial |
 | Temas repetitivos | Portal de Dados Abertos do STJ | metadados CKAN, `Temas.csv` e `Processos.csv` | relaciona os CSVs por `sequencialPrecedente` e produz questões, teses, processo representativo e links |
+| Temas de repercussão geral | exportação do Portal da Repercussão Geral do STF | uma tabela HTML única (rótulo `application/vnd.ms-excel`) | corrige mojibake por célula, extrai os 15 campos, monta a página oficial por tema e os links de detalhamento, manifestação e acórdão |
 
 Os índices `sumulas_keywords.json` e `sumulas_stf_keywords.json` (súmulas,
 `BASE-010`) e os 270 arquivos `indices/lei_*_keywords.json` (legislação,
@@ -127,6 +128,7 @@ Sinal utilizado por família:
 | Súmulas STF e vinculantes | contagem por estado (ativas, canceladas etc.) no catálogo vs snapshot | download de 1 página |
 | Jurisprudência em Teses | edição mais recente do índice vs snapshot | download de 1 página |
 | Temas repetitivos | `last_modified` dos recursos na API CKAN do STJ vs `generatedAt` do snapshot | 1 JSON pequeno |
+| Temas de repercussão geral | contagem total e por situação na exportação oficial do STF vs snapshot | download de 1 arquivo |
 
 Limitações declaradas do sinal:
 
@@ -139,6 +141,8 @@ Limitações declaradas do sinal:
   não são captadas pelos sinais baratos;
 - reenvio de conteúdo idêntico no CKAN do STJ conta como mudança (os hashes dos
   recursos não são publicados pelo portal);
+- alteração de tese de tema de repercussão geral sem mudança de contagem ou de
+  situação não é captada pelo sinal do STF;
 - falha de uma fonte não interrompe o monitor: aparece como `erro` no relatório.
 
 O GitHub Actions `monitorar-base.yml` executa o monitor semanalmente e abre ou

@@ -505,5 +505,66 @@ class InstanteUtcTest(unittest.TestCase):
         self.assertIsNone(pipeline.instante_utc("não é data"))
 
 
+class MonitorarTemasRGTest(unittest.TestCase):
+    URL = "https://portal.stf.jus.br/jurisprudenciaRepercussao/exportarDados.asp"
+
+    def tabela(self, situacoes: dict[int, str]) -> str:
+        ths = "".join(f"<th>{c}</th>" for c in pipeline.COLUNAS_TEMAS_RG)
+        linhas = ""
+        for numero, situacao in situacoes.items():
+            tds = [""] * len(pipeline.COLUNAS_TEMAS_RG)
+            tds[0] = str(numero)
+            tds[11] = situacao
+            linhas += "<tr>" + "".join(f"<td>{v}</td>" for v in tds) + "</tr>"
+        return (
+            f"<html><body><table><thead><tr>{ths}</tr></thead>"
+            f"<tbody>{linhas}</tbody></table></body></html>"
+        )
+
+    def monitorar(self, fonte: dict[int, str], snapshot: dict[str, str]):
+        config = {
+            "adaptador": "temas_rg_stf_html_v1",
+            "chave_colecao": "temas",
+            "destino": "temas_rg_stf.json",
+            "fontes": [{"id": "exportar", "url": self.URL, "arquivo_bruto": "x.xls"}],
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            publicados = raiz / "publicados"
+            publicados.mkdir()
+            (publicados / "temas_rg_stf.json").write_text(
+                json.dumps(
+                    {
+                        "temas": {
+                            chave: {"situacao": situacao}
+                            for chave, situacao in snapshot.items()
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+            with patch.object(
+                pipeline,
+                "baixar",
+                side_effect=fabricar_baixar({self.URL: self.tabela(fonte)}),
+            ):
+                return pipeline.monitorar_temas_rg(config, publicados, raiz / "temp")
+
+    def test_situacao_divergente_indica_mudanca(self) -> None:
+        itens = self.monitorar(
+            {1: "Trânsito em Julgado", 2: "Cancelado"},
+            {"1": "Trânsito em Julgado", "2": "Trânsito em Julgado"},
+        )
+        self.assertEqual(itens[0]["situacao"], "mudou")
+        self.assertIn("Cancelado", itens[0]["detalhe"])
+
+    def test_contagem_e_situacoes_iguais_sem_mudanca(self) -> None:
+        itens = self.monitorar(
+            {1: "Trânsito em Julgado", 2: "Trânsito em Julgado"},
+            {"1": "Trânsito em Julgado", "2": "Trânsito em Julgado"},
+        )
+        self.assertEqual(itens[0]["situacao"], "sem_mudanca")
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -45,8 +45,41 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-018` | O adaptador de legislação captura `title_name` genérico ("TÍTULO I") onde o snapshot legado tinha o nome real ("DOS PRINCÍPIOS FUNDAMENTAIS") | O adaptador extrai os nomes reais de títulos e capítulos das páginas do Planalto, com teste; o motor não consome o campo hoje, então o item é de qualidade do dado | **concluído em 2026-07-19** |
 | `BASE-019` | O índice invertido de legislação (`indexes.keywords`) e os `keywords` por artigo são enriquecimentos legados sem processo reproduzível; a transformação os preserva do arquivo publicado, e artigos novos ficam fora do índice (invisíveis à busca textual quando o índice existe). Os diplomas incorporados pela expansão de julho de 2026 (piloto de 8 leis e fatias do manifesto `expansao/normas.json`) não têm índice curado e usam a busca em texto integral | Gerador determinístico versionado cobre todos os artigos publicados, como o `BASE-010` fez para súmulas; teste garante cobertura 1:1 | **concluído em 2026-07-19** |
 | `BASE-020` | A busca de temas repetitivos usa somente os índices legados `keywords` e `terms`, sem fallback textual: os 57 temas 1406 a 1462, incorporados pela atualização de 2026-07-19, só são encontrados pela busca por número | Gerador determinístico cobre todos os temas publicados (como o `BASE-019` fez para a legislação) ou a busca ganha fallback textual; teste garante que nenhum tema publicado fica invisível | aberto |
+| `BASE-021` | Falta o par vinculante do STF dos temas repetitivos do STJ — os temas de repercussão geral | Nova família reproduzível (adaptador, monitor, testes) integrada ao motor; busca cobre todos os temas por índice textual em memória, sem a lacuna do `BASE-020` | **concluído em 2026-07-19** |
+| `BASE-022` | O flag de suspensão nacional dos temas de repercussão geral (art. 1.035, §5º, do CPC) não existe nas rotas estáticas do STF, só na base Qlik | Capturar quando houver rota estática estável; até lá, registrado como limitação declarada na família de RG | aberto |
+| `BASE-023` | Decisões de controle concentrado do STF (ADI/ADC/ADO/ADPF) são Qlik-locked por desenho (Resolução STF 774/2022, export "sempre que possível"); a rota estática só cobre petições iniciais | Reavaliar em ~6 meses se surgir export estático confiável | aberto |
+| `BASE-024` | Produtos curados do STJ ainda fora da base — Informativo de Jurisprudência, Pesquisa Pronta e Legislação Aplicada (SCON): as rotas óbvias devolvem 403/shell | Rodada dedicada para achar a rota estável de cada produto | aberto |
+
+## Não capturar (decisão de escopo)
+
+Sondados e deliberadamente fora da base por serem volume bruto sem curadoria ou
+dados não jurídicos, não por dificuldade técnica:
+
+- íntegras de decisões do DJ do STJ (CC-BY, mas ~1.200 docs/dia sem ementa/tese —
+  caberia num produto de busca dedicado, não no Vade Mecum local);
+- pautas futuras de julgamento do STJ (agenda operacional, não acervo);
+- bases estatísticas do STF (Acervo, Partes, Recebidos, Baixados).
 
 ## Itens concluídos
+
+### `BASE-021` — temas de repercussão geral do STF
+
+- nova família `temas_rg_stf` no pipeline: adaptador `temas_rg_stf_html_v1` lê a
+  exportação oficial única (`portal.stf.jus.br/jurisprudenciaRepercussao/exportarDados.asp`,
+  tabela HTML com rótulo `application/vnd.ms-excel`), corrige o mojibake UTF-8 por
+  célula sem tocar no texto já correto e extrai os 15 campos, com página oficial
+  por tema (`verTeseTema.asp?numTema=N`) e os links de detalhamento, manifestação
+  e acórdão quando a fonte oferece;
+- 1.470 temas, 1.300 com tese firmada; validação, monitor por contagem+situação e
+  testes de pipeline (mojibake, transformação, cabeçalho, monitor);
+- integração no motor: módulo `temas_rg_stf.ts` com busca por número e por
+  palavra-chave sobre índice textual em memória que cobre todos os 1.470 temas —
+  evita por desenho a lacuna do `BASE-020`; efeito jurídico `descreverEfeitoTemaRG`
+  (observância obrigatória sob art. 927, III, do CPC só com mérito julgado);
+  ferramenta MCP `buscar_tema_rg`, CLI `tema-rg`, grupo de avaliação com três
+  consultas julgadas e auditoria estrutural da família;
+- a verificação completa está em
+  [`verificacoes/BASE-021.md`](verificacoes/BASE-021.md).
 
 ### `BASE-018` — nomes reais das divisões no adaptador de legislação
 

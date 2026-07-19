@@ -5,6 +5,7 @@ import {
 } from "./legislacao.js";
 import { buscarSumulas, type Tribunal } from "./sumulas.js";
 import { buscarTemas } from "./temas.js";
+import { buscarTemasRG } from "./temas_rg_stf.js";
 
 export const GRUPOS_AVALIACAO = [
   "sumulas_stj",
@@ -12,6 +13,7 @@ export const GRUPOS_AVALIACAO = [
   "sumulas_vinculantes",
   "jurisprudencia_teses",
   "temas_repetitivos",
+  "temas_rg_stf",
   "legislacao",
 ] as const;
 
@@ -162,6 +164,10 @@ export function executarConsulta(caso: CasoAvaliacao, limite: number): string[] 
     case "temas_repetitivos":
       return buscarTemas(caso.consulta, limite).map(
         (tema) => `TEMA:${tema.numero}`,
+      );
+    case "temas_rg_stf":
+      return buscarTemasRG(caso.consulta, limite).map(
+        (tema) => `RG:${tema.numero}`,
       );
     case "legislacao":
       return buscarLegislacao(

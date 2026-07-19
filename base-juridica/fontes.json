@@ -232,6 +232,19 @@
         }
       ]
     },
+    "temas_rg_stf": {
+      "familia": "precedentes_rg_stf",
+      "adaptador": "temas_rg_stf_html_v1",
+      "chave_colecao": "temas",
+      "destino": "temas_rg_stf.json",
+      "fontes": [
+        {
+          "id": "exportar",
+          "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/exportarDados.asp",
+          "arquivo_bruto": "repercussao_geral.xls"
+        }
+      ]
+    },
     "indices_auxiliares": {
       "familia": "indice_derivado",
       "adaptador": null,

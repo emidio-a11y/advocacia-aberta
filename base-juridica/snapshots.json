@@ -2226,6 +2226,14 @@
       "registros": 63,
       "colecao": "sumulas",
       "mudancas": null
+    },
+    "temas_rg_stf.json": {
+      "versao": 1,
+      "sha256": "ccf86542fb421d62726a698cc4127b96afe67200dff5a036e579cd11451d6018",
+      "gerado_em": "2026-07-19T03:24:33+00:00",
+      "registros": 1470,
+      "colecao": "temas",
+      "mudancas": null
     }
   }
 }

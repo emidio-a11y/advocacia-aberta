@@ -231,6 +231,34 @@ def auditar() -> dict[str, Any]:
             "Metadados de temas contêm caminhos absolutos do computador de origem.",
         )
 
+    temas_rg_raw = carregar(DATA / "temas_rg_stf.json")
+    temas_rg = temas_rg_raw.get("temas", {})
+    temas_rg_sem_pagina = [
+        chave
+        for chave, item in temas_rg.items()
+        if not item.get("links", {}).get("paginaTema")
+    ]
+    if len(temas_rg) != temas_rg_raw.get("_meta", {}).get("totalTemas"):
+        registrar(
+            "P1",
+            "CONTAGEM_TEMAS_RG",
+            "A quantidade de temas de repercussão geral diverge do metadado.",
+        )
+    if temas_rg_sem_pagina:
+        registrar(
+            "P0",
+            "URL_TEMAS_RG",
+            f"{len(temas_rg_sem_pagina)} temas de repercussão geral não têm página oficial.",
+        )
+    absolutos_rg = caminhos_absolutos(temas_rg_raw.get("_meta", {}))
+    if absolutos_rg:
+        registrar(
+            "P1",
+            "CAMINHO_LOCAL",
+            "Metadados de temas de repercussão geral contêm caminhos absolutos "
+            "do computador de origem.",
+        )
+
     legislacao_ts = (MOTOR / "src" / "search" / "legislacao.ts").read_text(
         encoding="utf-8"
     )
@@ -323,6 +351,12 @@ def auditar() -> dict[str, Any]:
             "export function formatTema",
             ("tema.links",),
         ),
+        (
+            "TEMAS DE REPERCUSSÃO GERAL",
+            MOTOR / "src" / "search" / "temas_rg_stf.ts",
+            "export function formatTemaRG",
+            ("tema.links",),
+        ),
     )
     for conjunto, path, marcador, referencias in formatadores:
         fonte = path.read_text(encoding="utf-8")
@@ -344,6 +378,7 @@ def auditar() -> dict[str, Any]:
             "src/search/sumulas.ts",
             "src/search/jt.ts",
             "src/search/temas.ts",
+            "src/search/temas_rg_stf.ts",
         )
     )
     rotulos_ambiguos = (
@@ -403,6 +438,21 @@ def auditar() -> dict[str, Any]:
                     )
                 ),
                 "caminhos_absolutos_no_meta": absolutos,
+            },
+            "temas_repercussao_geral": {
+                "arquivo": "temas_rg_stf.json",
+                "gerado_em": temas_rg_raw.get("_meta", {}).get("generatedAt"),
+                "temas": len(temas_rg),
+                "temas_com_pagina_oficial": len(temas_rg) - len(temas_rg_sem_pagina),
+                "situacoes": dict(
+                    sorted(
+                        Counter(
+                            item.get("situacao", "sem_status")
+                            for item in temas_rg.values()
+                        ).items()
+                    )
+                ),
+                "caminhos_absolutos_no_meta": absolutos_rg,
             },
             "motor_legislacao": {
                 "codigos_declarados": sorted(declarados),

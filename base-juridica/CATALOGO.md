@@ -30,8 +30,9 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
+| Temas de repercussão geral | 1 | 1.470 temas | STF |
 | Índices auxiliares | 275 exclusivos (2 de súmulas, 273 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 553 | — | 49.018.599 bytes, cerca de 49 MB |
+| Total em JSON | 554 | — | 51.497.340 bytes, cerca de 51 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
@@ -281,6 +282,33 @@ na transformação, e a busca de temas não tem fallback textual: os 57 temas 14
 número. O `BASE-020` rastreia a correção, no padrão que o `BASE-019` estabeleceu
 para a legislação.
 
+## Temas de repercussão geral do STF
+
+| Campo | Valor observado |
+|---|---:|
+| Arquivo | `temas_rg_stf.json` |
+| Gerado em | 2026-07-19 |
+| Temas | 1.470 |
+| Temas com tese firmada | 1.300 |
+
+O `BASE-021` incorporou os temas de repercussão geral do STF — o par vinculante
+dos temas repetitivos do STJ que a base já tinha. O snapshot vem do pipeline
+reproduzível a partir da exportação oficial única
+(`portal.stf.jus.br/jurisprudenciaRepercussao/exportarDados.asp`), servida como
+tabela HTML com o rótulo `application/vnd.ms-excel`; o adaptador corrige, por
+célula, o mojibake UTF-8 da fonte ("NÃ£o hÃ¡" → "Não há") sem tocar no texto já
+correto. Cada tema guarda a página oficial (`verTeseTema.asp?numTema=N`) e, quando
+a fonte oferece, os links de detalhamento do processo, manifestação e acórdão. As
+situações observadas foram: Trânsito em Julgado (1.263), Acórdão de Repercussão
+Geral publicado (136), Acórdão de mérito publicado (36), Cancelado (21), Mérito
+julgado (7), Analisada Preliminar de Repercussão Geral (4) e Em julgamento (3). Ao
+contrário da busca de temas do STJ (lacuna `BASE-020`), a busca de RG usa um índice
+textual construído em memória a partir do texto publicado, cobrindo todos os 1.470
+temas — nenhum tema fica invisível à busca por palavra-chave. A coluna "Assuntos"
+da exportação duplica "Descrição" e não traz taxonomia de assuntos; o flag de
+suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas do STF, só
+na base Qlik, e está registrado como limitação no [BACKLOG.md](BACKLOG.md).
+
 ## Rastreabilidade entregue pelo motor
 
 Os dados guardam links oficiais e, desde a conclusão do `BASE-001`, o motor os
@@ -292,10 +320,11 @@ preserva na saída formatada:
 | Súmula STJ/STF/vinculante | sim | sim |
 | Jurisprudência em Teses | sim | sim |
 | Tema repetitivo | sim | sim; inclui todos os links disponíveis no registro |
+| Tema de repercussão geral | sim | sim; inclui todos os links disponíveis no registro |
 
-Cinco testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses e
-temas repetitivos. O auditor também verifica estaticamente que os formatadores
-continuam usando os campos de URL.
+Seis testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses,
+temas repetitivos e temas de repercussão geral. O auditor também verifica
+estaticamente que os formatadores continuam usando os campos de URL.
 
 ## Atualização e reprodutibilidade
 
@@ -329,8 +358,8 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
 - súmulas são enunciados sumulares, com efeito vinculante reservado às vinculantes
   aprovadas e vigentes;
 - Jurisprudência em Teses é compilação institucional sem vinculação por si só;
-- temas são registros de precedentes qualificados, e o efeito varia conforme situação
-  e presença de tese;
+- temas repetitivos do STJ e temas de repercussão geral do STF são registros de
+  precedentes qualificados, e o efeito varia conforme situação e presença de tese;
 - palavras-chave e termos são índices derivados, sem força jurídica.
 
 ## Resultado da auditoria

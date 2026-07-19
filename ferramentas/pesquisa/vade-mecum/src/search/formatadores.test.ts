@@ -6,10 +6,12 @@ import { buscarSumulas, formatSumula, type Tribunal } from "./sumulas.js";
 import {
   descreverEfeitoSumula,
   descreverEfeitoTema,
+  descreverEfeitoTemaRG,
   FONTE_OFICIAL,
   NATUREZAS_DOCUMENTAIS,
 } from "./taxonomia.js";
 import { buscarTemas, formatTema } from "./temas.js";
+import { buscarTemasRG, formatTemaRG } from "./temas_rg_stf.js";
 
 describe("rastreabilidade dos formatadores", () => {
   test("inclui a fonte oficial da legislação", () => {
@@ -48,6 +50,23 @@ describe("rastreabilidade dos formatadores", () => {
 
     const formatado = formatTema(tema);
     for (const url of links) expect(formatado).toContain(url);
+  });
+
+  test("inclui todos os links oficiais disponíveis do tema de repercussão geral", () => {
+    const tema = buscarTemasRG("tema 69", 1)[0];
+    expect(tema).toBeDefined();
+
+    const links = Object.values(tema.links).filter(
+      (url): url is string => Boolean(url),
+    );
+    expect(links.length).toBeGreaterThan(0);
+
+    const formatado = formatTemaRG(tema);
+    for (const url of links) expect(formatado).toContain(url);
+    expect(formatado).toContain(FONTE_OFICIAL);
+    expect(formatado).toContain(
+      NATUREZAS_DOCUMENTAIS.registroPrecedenteQualificado,
+    );
   });
 });
 
@@ -97,6 +116,27 @@ describe("taxonomia documental e de efeito jurídico", () => {
       "OBSERVÂNCIA OBRIGATÓRIA QUANDO APLICÁVEL",
     );
     expect(descreverEfeitoTema("Sobrestado", "tese anterior")).toStartWith(
+      "SITUAÇÃO EXIGE CONFERÊNCIA",
+    );
+  });
+
+  test("classifica o efeito do tema de repercussão geral conforme estado e tese", () => {
+    expect(descreverEfeitoTemaRG("Cancelado", "tese anterior")).toStartWith(
+      "TEMA CANCELADO",
+    );
+    expect(descreverEfeitoTemaRG("Trânsito em Julgado")).toStartWith(
+      "SEM TESE FIRMADA NESTE SNAPSHOT",
+    );
+    expect(
+      descreverEfeitoTemaRG("Trânsito em Julgado", "tese firmada"),
+    ).toStartWith("OBSERVÂNCIA OBRIGATÓRIA QUANDO APLICÁVEL");
+    expect(
+      descreverEfeitoTemaRG("Acórdão de mérito publicado", "tese firmada"),
+    ).toStartWith("OBSERVÂNCIA OBRIGATÓRIA QUANDO APLICÁVEL");
+    expect(
+      descreverEfeitoTemaRG("Acórdão de Repercussão Geral publicado", "tese firmada"),
+    ).toStartWith("SITUAÇÃO EXIGE CONFERÊNCIA");
+    expect(descreverEfeitoTemaRG("Em julgamento", "tese firmada")).toStartWith(
       "SITUAÇÃO EXIGE CONFERÊNCIA",
     );
   });

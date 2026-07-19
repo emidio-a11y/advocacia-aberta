@@ -38,6 +38,7 @@ FAMILIAS_FIXAS = {
     "sumulas_vinculantes.json": ("sumulas", "gerado_em"),
     "jt_stj.json": ("teses", "gerado_em"),
     "flash_temas_stj.json": ("temas", "generatedAt"),
+    "temas_rg_stf.json": ("temas", "generatedAt"),
 }
 
 

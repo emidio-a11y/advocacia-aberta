@@ -72,6 +72,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             "sumulas_vinculantes",
             "jurisprudencia_teses_stj",
             "temas_repetitivos_stj",
+            "temas_rg_stf",
         }
         self.assertLessEqual(nucleo, set(ativos))
         extras = set(ativos) - nucleo
@@ -848,6 +849,117 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             )
             promovido = json.loads((publicados / "lei_teste.json").read_text())
             self.assertEqual(promovido["artigos"]["1"]["texto"], "Texto novo 1.")
+
+
+def _tabela_rg(linhas: str, cabecalho: list[str] | None = None) -> str:
+    colunas = cabecalho or list(pipeline.COLUNAS_TEMAS_RG)
+    ths = "".join(f"<th>{c}</th>" for c in colunas)
+    return (
+        "<html><head><title>Título</title></head><body>"
+        f"<table><thead><tr>{ths}</tr></thead><tbody>{linhas}</tbody></table>"
+        "</body></html>"
+    )
+
+
+# Fixture com duas linhas: o tema 1 tem mojibake em "Há Repercussão" ("HÃ¡"),
+# links em Manifestação/Acórdão/Plenário Virtual e um espaço não encodado na
+# URL do acórdão; o tema 2 é cancelado, sem tese e com células-link "-".
+_LINHAS_RG = (
+    "<tr>"
+    "<td>0001</td><td>RE 559937</td><td>MIN. ELLEN GRACIE</td>"
+    "<td>Base do PIS e da COFINS</td><td>Descrição um.</td><td>Descrição um.</td>"
+    '<td><a href="https://portal.stf.jus.br/x/verPronunciamento.asp?pronunciamento=1">'
+    "<div>Manifestação</div></a></td>"
+    '<td><a href="https://jurisprudencia.stf.jus.br/pages/search?classeNumeroIncidente=RE 559937">'
+    "<div>Acórdão</div></a></td>"
+    '<td><a href="https://portal.stf.jus.br/x/detalharProcesso.asp?numeroTema=1">'
+    "<div>Acórdão</div></a></td>"
+    "<td>HÃ¡</td><td>21/03/2013</td><td>Trânsito em Julgado</td>"
+    "<td>Tese do tema um.</td><td>21/03/2013</td><td></td>"
+    "</tr>"
+    "<tr>"
+    "<td>0002</td><td>RE 000002</td><td>MIN. FULANO</td>"
+    "<td>Tema dois</td><td>Descrição dois.</td><td>Descrição dois.</td>"
+    "<td>-</td><td>-</td><td>-</td>"
+    "<td>NÃ£o hÃ¡</td><td></td><td>Cancelado</td>"
+    "<td></td><td></td><td>Obs dois.</td>"
+    "</tr>"
+)
+
+
+class CorrigirMojibakeTest(unittest.TestCase):
+    def test_recupera_mojibake_e_preserva_utf8_correto(self) -> None:
+        self.assertEqual(pipeline.corrigir_mojibake("HÃ¡"), "Há")
+        self.assertEqual(pipeline.corrigir_mojibake("NÃ£o hÃ¡"), "Não há")
+        # UTF-8 genuíno (acento isolado) e ASCII passam intactos.
+        self.assertEqual(
+            pipeline.corrigir_mojibake("Trânsito em Julgado"), "Trânsito em Julgado"
+        )
+        self.assertEqual(
+            pipeline.corrigir_mojibake("Âmbito de incidência"),
+            "Âmbito de incidência",
+        )
+        self.assertEqual(pipeline.corrigir_mojibake("Data da Tese"), "Data da Tese")
+
+
+class TransformarTemasRGTest(unittest.TestCase):
+    def transformar(self, html: str) -> dict[str, object]:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto" / "temas_rg_stf"
+            bruto.mkdir(parents=True)
+            (bruto / "repercussao_geral.xls").write_text(html, encoding="utf-8")
+            candidatos = raiz / "candidatos"
+            config = {
+                "destino": "temas_rg_stf.json",
+                "fontes": [
+                    {
+                        "id": "exportar",
+                        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/exportarDados.asp",
+                        "arquivo_bruto": "repercussao_geral.xls",
+                    }
+                ],
+            }
+            pipeline.transformar_temas_rg(config, bruto, raiz / "pub", candidatos)
+            return json.loads(
+                (candidatos / "temas_rg_stf.json").read_text(encoding="utf-8")
+            )
+
+    def test_extrai_campos_corrige_mojibake_e_links(self) -> None:
+        objeto = self.transformar(_tabela_rg(_LINHAS_RG))
+        temas = objeto["temas"]
+        self.assertEqual(objeto["_meta"]["totalTemas"], 2)
+        self.assertEqual(objeto["_meta"]["temasComTese"], 1)
+        self.assertEqual(objeto["_meta"]["situacoes"]["Cancelado"], 1)
+
+        um = temas["1"]
+        self.assertEqual(um["numero"], 1)
+        self.assertEqual(um["repercussao"], "Há")  # mojibake corrigido
+        self.assertEqual(um["situacao"], "Trânsito em Julgado")
+        self.assertEqual(um["tese"], "Tese do tema um.")
+        self.assertEqual(
+            um["links"]["paginaTema"],
+            "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1",
+        )
+        self.assertIn("verPronunciamento.asp", um["links"]["manifestacao"])
+        self.assertIn("detalharProcesso.asp?numeroTema=1", um["links"]["detalhamento"])
+        # Espaço da URL do acórdão foi encodado.
+        self.assertIn("classeNumeroIncidente=RE%20559937", um["links"]["acordao"])
+        self.assertNotIn("plenarioVirtual", um)
+
+        dois = temas["2"]
+        self.assertEqual(dois["repercussao"], "Não há")  # mojibake corrigido
+        self.assertEqual(dois["situacao"], "Cancelado")
+        self.assertEqual(dois["tese"], "")
+        self.assertEqual(dois["observacao"], "Obs dois.")
+        # Células "-" não geram links; sobra só a página do tema.
+        self.assertEqual(list(dois["links"]), ["paginaTema"])
+
+    def test_cabecalho_divergente_falha(self) -> None:
+        cabecalho = list(pipeline.COLUNAS_TEMAS_RG)
+        cabecalho[3] = "Coluna Trocada"
+        with self.assertRaisesRegex(ValueError, "cabeçalho"):
+            self.transformar(_tabela_rg(_LINHAS_RG, cabecalho))
 
 
 if __name__ == "__main__":

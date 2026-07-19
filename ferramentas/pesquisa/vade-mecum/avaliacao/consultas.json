@@ -16,6 +16,7 @@
     "sumulas_vinculantes": 0.55,
     "jurisprudencia_teses": 0.9,
     "temas_repetitivos": 0.8,
+    "temas_rg_stf": 0.7,
     "legislacao": 0.8
   },
   "casos": [
@@ -1445,6 +1446,53 @@
         "L15040:127"
       ],
       "justificativa": "O art. 126 fixa os prazos de prescrição das pretensões securitárias (um e três anos, conforme o caso); o art. 127 disciplina a suspensão única da prescrição pelo pedido de reconsideração à seguradora. Julgado sobre o texto do snapshot; são os dois únicos dispositivos da lei dedicados ao tema (o art. 115 apenas menciona reserva matemática)."
+    },
+    {
+      "id": "rg-icms-base-pis-cofins",
+      "grupo": "temas_rg_stf",
+      "consulta": "ICMS na base de cálculo do PIS e da COFINS",
+      "filtro": {},
+      "relevantes": [
+        "RG:69",
+        "RG:1",
+        "RG:1098",
+        "RG:1446"
+      ],
+      "obrigatorios": [
+        "RG:69"
+      ],
+      "justificativa": "Temas de repercussão geral sobre a inclusão ou exclusão do ICMS na base do PIS/COFINS (Tema 69, a 'tese do século') ou do PIS/COFINS na base do ICMS; o Tema 1433, sobre legitimidade do consumidor, foi excluído por não tratar da base de cálculo."
+    },
+    {
+      "id": "rg-icms-demanda-energia",
+      "grupo": "temas_rg_stf",
+      "consulta": "ICMS sobre demanda contratada de energia elétrica",
+      "filtro": {},
+      "relevantes": [
+        "RG:176",
+        "RG:752",
+        "RG:1288"
+      ],
+      "obrigatorios": [
+        "RG:176"
+      ],
+      "justificativa": "Temas de repercussão geral sobre a incidência do ICMS na energia elétrica: demanda contratada (Tema 176), repetição de indébito pelo consumidor final e TUSD; ANEEL e crédito de supermercado, alheios à demanda contratada, foram excluídos."
+    },
+    {
+      "id": "rg-aposentadoria-especial-agentes-nocivos",
+      "grupo": "temas_rg_stf",
+      "consulta": "aposentadoria especial exposição a agentes nocivos",
+      "filtro": {},
+      "relevantes": [
+        "RG:555",
+        "RG:709",
+        "RG:852",
+        "RG:943"
+      ],
+      "obrigatorios": [
+        "RG:555"
+      ],
+      "justificativa": "Temas de repercussão geral sobre aposentadoria especial e caracterização de tempo especial por exposição a agentes nocivos (EPI, permanência na atividade, critérios de caracterização e conversão de tempo); o piso dos agentes comunitários de saúde foi excluído."
     }
   ]
 }
