@@ -1,7 +1,7 @@
 {
   "name": "vade-mecum",
   "version": "1.0.0",
-  "license": "0BSD",
+  "license": "MIT",
   "description": "Vade Mecum — pesquisa jurídica local em legislação, súmulas, compilações e precedentes qualificados",
   "type": "module",
   "scripts": {
