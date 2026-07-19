@@ -5,9 +5,10 @@ trabalho jurídico.
 
 ## Advocacia Aberta
 
-É a proposta de tornar método, ferramentas e conhecimento jurídico público
-estruturado legíveis, verificáveis e aperfeiçoáveis, sem expor casos ou dados de
-clientes.
+É a infraestrutura que torna o trabalho jurídico com IA **eficaz e confiável** pela via
+dos dados e do método — não do discurso. Reúne protocolos explícitos, base jurídica
+organizada por taxonomia e gerenciamento de contexto, para que a IA execute e o
+profissional compreenda, sem expor casos ou dados de clientes. Ver o [Manifesto](MANIFESTO.md).
 
 **Em uma frase:** método aberto, fontes verificáveis, dados protegidos.
 
@@ -61,20 +62,35 @@ adequada e preservar sínteses rastreáveis entre etapas. Veja
 estrutura preservada, origem identificada e recorte compatível com a tarefa. Nome de
 arquivo, imagem sem OCR ou áudio sem transcrição não equivalem a conteúdo lido.
 
+## Taxonomia jurídica
+
+É o sistema que classifica cada norma ou julgado por **natureza, proveniência e efeito** —
+o que separa "dado" de "dado legível por uma IA". Sem taxonomia, a base é um monte de
+texto; com ela, o agente sabe o que é vinculante, o que é histórico, o que confirma uma
+tese e o que apenas a indica. Ver [base-juridica/TAXONOMIA.md](base-juridica/TAXONOMIA.md).
+
 ## Alucinação
 
 É uma resposta que apresenta como verdadeiro algo não sustentado pelos dados ou pelas
 fontes. Pode assumir a forma de fato, citação, artigo, precedente, data ou número
 inventado.
 
-Bom contexto e verificação reduzem o risco, mas não o eliminam. Por isso o projeto
-exige rastreabilidade, declaração de incerteza e revisão profissional.
+Na leitura do projeto, a alucinação **não é a doença — é o sintoma; a doença é o dado
+ilegível**: quando a fonte não chega organizada ao modelo, ele completa a lacuna com o
+provável. Bom contexto e verificação reduzem o risco, mas não o eliminam. Por isso o
+projeto exige rastreabilidade, declaração de incerteza e revisão profissional.
 
 ## Base jurídica curada
 
 É um conjunto estruturado de fontes jurídicas públicas preparado para pesquisa. Sua
 confiabilidade depende de cobertura, proveniência, data de referência, transformação
 documentada e confirmação na fonte oficial correspondente.
+
+## Dado público
+
+É a informação jurídica de fonte oficial e acesso livre — legislação, súmulas,
+jurisprudência. A Advocacia Aberta organiza esse dado público para que uma IA o leia e o
+mantém aberto: acesso a um bem comum não deveria virar barreira paga.
 
 ## Proveniência
 

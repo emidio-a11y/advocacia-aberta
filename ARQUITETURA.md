@@ -7,7 +7,9 @@ pastas e da atualização das bases.
 
 ## A unidade do projeto
 
-A Advocacia Aberta combina três ativos principais:
+A Advocacia Aberta existe para que o trabalho jurídico com IA seja **eficaz e confiável** —
+e sustenta que isso se resolve nos dados e no método, não no discurso (ver o
+[Manifesto](MANIFESTO.md)). Para entregar isso, combina três ativos principais:
 
 1. **conhecimento jurídico estruturado** — legislação, súmulas, temas e teses;
 2. **método jurídico explícito** — protocolos de contexto e de execução do trabalho;
@@ -89,12 +91,15 @@ Exemplos atuais:
 
 Traduzem os protocolos para as superfícies de execução. Hoje o projeto mantém:
 
-- `.agents/skills/` para o padrão Agent Skills e Codex;
-- `.claude/skills/` para Claude Code;
+- `.agents/skills/` para o padrão Agent Skills e Codex (fonte canônica);
+- `.claude/skills/` para Claude Code, nível projeto (espelho gerado);
+- `.claude-plugin/` mais `skills/` para distribuição e instalação como plugin do Claude
+  Code (espelho gerado a partir da mesma fonte);
 - `AGENTS.md` e `CLAUDE.md` para instruções persistentes.
 
 Adaptadores não devem conter conhecimento jurídico exclusivo. Se uma regra existe
-somente em um adaptador, ela corre o risco de desaparecer ao trocar de plataforma.
+somente em um adaptador, ela corre o risco de desaparecer ao trocar de plataforma. Por
+isso todos os espelhos de skills são gerados de `.agents/skills/`, nunca editados à mão.
 
 ### 6. Espaço privado de casos
 
@@ -210,7 +215,7 @@ qualidade continuam no backlog da base.
 Definir contribuição, revisão, estados de maturidade, casos sintéticos e formas de
 instalação.
 
-**Estado:** licença de distribuição definida como Zero-Clause BSD (`0BSD`); os demais
+**Estado:** licença de distribuição definida como `MIT`; os demais
 itens de governança e distribuição permanecem em construção.
 
 ## Critério de sucesso

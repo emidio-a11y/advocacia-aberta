@@ -1,90 +1,80 @@
 # Manifesto da Advocacia Aberta
 
-A prática jurídica é feita de conhecimento, julgamento e método. Grande parte desse
-método, porém, permanece escondida em hábitos individuais, modelos fechados e
-plataformas proprietárias.
+A inteligência artificial chegou ao Direito antes de o Direito estar pronto para ela. O resultado
+apareceu rápido: peças com jurisprudência que nunca existiu, citações fabricadas com aparência de
+verdade, e tribunais que já aplicam sanções por isso. Diante disso, o mercado passou a vender mais
+ferramentas e o meio jurídico passou a debater efeitos e regulação. Nenhuma das duas reações tocou a
+causa.
 
-A **Advocacia Aberta** existe para tornar o trabalho jurídico explícito, verificável,
-reutilizável e aperfeiçoável. Ela reúne protocolos de trabalho, fontes jurídicas
-curadas e ferramentas que podem ser compreendidas por pessoas e executadas com ou sem
-o auxílio de agentes de inteligência artificial.
+**A alucinação não é a doença — é o sintoma. A doença é o dado ilegível.** Quando a fonte não chega
+organizada ao modelo, ele completa a lacuna com o provável. O problema nunca foi *qual* IA usar; foi
+a ausência de um método explícito e de um dado que a máquina — e a pessoa — consigam ler.
 
-Não abrimos processos, estratégias ou dados de clientes. **Abrimos o método.**
+A **Advocacia Aberta** responde a isso construindo o que falta, em vez de apenas debatê-lo. Não
+abrimos processos, estratégias ou dados de clientes. **Abrimos o método.**
 
-## 1. O método deve ser legível
+## Para que serve
 
-Um procedimento jurídico não deve funcionar como uma caixa-preta. Suas entradas,
-etapas, critérios, saídas e limitações precisam estar escritos de forma que um
-profissional consiga compreender, criticar e adaptar.
+A Advocacia Aberta existe para que o trabalho jurídico com IA seja ao mesmo tempo **eficaz e
+confiável** — e sustenta que isso não se decide no discurso, mas nos **dados** e no **método**.
 
-## 2. A fonte vem antes da afirmação
+Tornar o procedimento **explícito** e o dado **legível**, para a pessoa e para a máquina, é o que o
+projeto entrega:
 
-Fatos dependem dos documentos do caso. Leis, súmulas e precedentes dependem de fontes
-identificáveis. Quando a fonte não está disponível ou não pôde ser confirmada, o
-resultado deve declarar a incerteza — nunca completar a lacuna com o provável.
+- **Protocolos** transformam operações jurídicas em procedimentos-padrão, com as melhores práticas
+  escritas de modo que a IA execute e o profissional compreenda a ordem do que se faz.
+- **Bases** não são só dados: são dados organizados por uma **taxonomia jurídica** — natureza,
+  proveniência e efeito — que os torna legíveis por agentes de IA.
+- **Gerenciamento de contexto** mantém o trabalho vivo entre etapas: o que foi lido, decidido e
+  produzido chega à etapa seguinte, em vez de morrer numa janela de conversa.
 
-## 3. Contexto é infraestrutura
+É a virada que o projeto propõe: sair do **fenômeno jurídico tratado como teoria** e ancorar o
+trabalho em **dados**. O mesmo material que ensina a IA a trabalhar mostra ao desenvolvedor como se
+organiza o conhecimento jurídico — e mostra ao advogado o que, de fato, é trabalhar com IA.
 
-Um resultado confiável depende de dados legíveis, organizados e apresentados na medida
-certa. Gerenciar contexto não é um truque de prompt: é parte do método de trabalho
-jurídico assistido por tecnologia.
+## Por que aberta
 
-## 4. O conhecimento deve ser rastreável
+Porque conhecimento jurídico é bem público, e método não precisa ser propriedade de ninguém.
 
-Uma base jurídica deve declarar sua origem, cobertura, data de coleta, transformação
-realizada e limitações conhecidas. Um dado sem proveniência pode ajudar a localizar a
-fonte, mas não deve ser tratado como confirmação silenciosa de vigência ou exatidão.
+- **Sem aprisionamento — nem a fornecedor, nem a modelo.** A pergunta que domina o meio — "qual é a
+  ferramenta de IA?" — mira no que passa. A ferramenta é efêmera, e o próprio modelo de IA também:
+  numa corrida em que "a IA do momento" se troca em meses, apostar no modelo é apostar no
+  transitório. O que permanece é o **dado e o método** — que se acumulam, se somam e se transformam,
+  mas não se descartam a cada nova geração de tecnologia. Por isso o método é legível e executável
+  por qualquer agente: trocar a ferramenta não apaga o que foi construído.
+- **Dado público sem pedágio.** Legislação, súmulas e jurisprudência são públicas. Organizá-las para
+  que uma IA as leia é trabalho — mas transformar esse acesso em barreira paga é cercar um bem comum.
+  A Advocacia Aberta pega o dado público, organiza para ser lido por agentes e **não cobra por isso**.
+- **Contra o debate que não entrega.** As questões sobre os efeitos jurídicos da IA —
+  responsabilidade, ética, regulação — são pertinentes e precisam ser enfrentadas. Mas debatê-las não
+  basta: os dilemas que travam a prática só se resolvem quando alguém constrói, **de forma aberta**, o
+  dado legível e o método explícito. Este projeto não substitui esse debate — entrega a
+  infraestrutura que faltava a ele.
 
-## 5. O procedimento deve ser auditável
+## O que defendemos
 
-O profissional precisa saber quais documentos foram lidos, quais fontes foram usadas,
-quais etapas foram executadas e onde permaneceram dúvidas. O erro deve ser visível e
-localizável.
+Um trabalho jurídico assistido por IA em que o **método seja legível**, a **fonte venha antes da
+afirmação**, a **incerteza seja declarada**, a **tecnologia seja substituível** e os **dados do
+cliente permaneçam protegidos** — com o profissional sempre responsável pelo que assina. Esses
+compromissos, em detalhe, estão em [PRINCIPIOS.md](PRINCIPIOS.md).
 
-## 6. Abrimos o método, não os dados
-
-Protocolos, ferramentas e critérios de qualidade podem ser compartilhados. Autos,
-áudios, dados pessoais, credenciais, estratégias e comunicações de clientes permanecem
-na esfera privada e sob controle do responsável pelo caso.
-
-## 7. A tecnologia deve ser substituível
-
-Protocolos jurídicos não pertencem a Claude, GPT ou qualquer plataforma. Agentes são
-executores intercambiáveis de métodos que continuam legíveis por pessoas. A evolução
-da ferramenta não deve apagar nem aprisionar o conhecimento jurídico acumulado.
-
-## 8. A execução local é preferível
-
-Sempre que for razoável, dados sensíveis e ferramentas de processamento devem
-permanecer no ambiente controlado pelo profissional. O envio de material a serviços
-externos exige decisão consciente sobre necessidade, autorização, sigilo e risco.
-
-## 9. A responsabilidade continua humana
-
-A Advocacia Aberta auxilia organização, pesquisa, análise, redação e revisão. Ela não
-substitui julgamento profissional, validação da fonte, responsabilidade ética nem a
-decisão de quem assina e utiliza o trabalho.
-
-## 10. O conhecimento melhora pela revisão
-
-Protocolos, ferramentas e bases devem poder ser criticados, testados, corrigidos e
-aperfeiçoados. A abertura só produz confiança quando vem acompanhada de curadoria,
-histórico de mudanças e critérios públicos de qualidade.
-
-## Nosso compromisso
-
-Construir uma infraestrutura em que:
-
-- o método seja aberto;
-- a fonte seja verificável;
-- a incerteza seja declarada;
-- a tecnologia seja substituível;
-- os dados do cliente sejam protegidos;
-- e o profissional permaneça responsável.
+Método aberto se constrói junto. Quem se reconhece nisto pode adotar, criticar, melhorar — e assinar.
 
 > **Método aberto. Fontes verificáveis. Dados protegidos.**
 
-Este manifesto define a direção do projeto. O conteúdo autoral da Advocacia Aberta é
-distribuído sob a licença [Zero-Clause BSD (0BSD)](LICENSE), que permite uso, cópia,
-modificação e redistribuição para qualquer finalidade, sem exigir atribuição. Materiais
-de terceiros preservam sua situação jurídica e sua proveniência.
+Este manifesto define a direção do projeto. O conteúdo autoral da Advocacia Aberta é distribuído sob
+a licença [MIT](LICENSE), que permite uso, cópia, modificação e redistribuição para qualquer
+finalidade, inclusive comercial, desde que se mantenha o aviso de copyright e a permissão. Materiais
+de terceiros preservam sua situação jurídica e sua proveniência (ver [CREDITOS.md](CREDITOS.md)).
+
+## Quem assina
+
+Este manifesto é um compromisso público, não um contrato. Quem se reconhece nestes princípios
+pode assiná-lo. A adesão é livre e não cria vínculo, obrigação ou representação entre os
+signatários.
+
+- **Emidio Trancoso** — Maringá/PR · autor do projeto
+
+> **Quer assinar?** Abra um *pull request* acrescentando seu nome a esta lista, no formato
+> `Nome — Cidade/UF · uma linha opcional`. Assinar significa concordar com os princípios acima —
+> não é oferta de serviço, publicidade nem captação de clientela.

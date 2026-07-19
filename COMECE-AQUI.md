@@ -1,7 +1,8 @@
 # Comece aqui 👋
 
-Bem-vindo(a) à **Advocacia Aberta**: métodos jurídicos legíveis, fontes pesquisáveis e
-ferramentas executáveis com auxílio de agentes de IA.
+Bem-vindo(a) à **Advocacia Aberta**: método jurídico aberto para que o trabalho com IA
+seja eficaz e confiável — pela via dos dados e do método, não do discurso. Aqui o método é
+legível, as fontes são pesquisáveis e as ferramentas são executáveis por agentes de IA.
 
 Você não precisa programar. Os protocolos são escritos em português e podem ser
 lidos, criticados e adaptados. As *skills* são a forma atual de fazer Claude Code e

@@ -10,6 +10,10 @@ Esta taxonomia separa três perguntas que não devem ser respondidas pelo mesmo 
 texto normativo, precedente ou vinculante. Da mesma forma, um índice criado para busca
 não se torna fonte jurídica porque aponta para documentos oficiais.
 
+Esta taxonomia é o que separa *dado* de *dado legível por uma IA*: é o mecanismo, citado no
+[Manifesto](../MANIFESTO.md), que permite ao agente saber o que é vinculante, o que é
+histórico, o que confirma uma tese e o que apenas a indica.
+
 ## Natureza documental
 
 | Rótulo | Uso no repositório | O que não significa |

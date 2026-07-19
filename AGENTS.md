@@ -5,9 +5,10 @@ escritos em português, base jurídica estruturada, motores locais e uma conven�
 organizar casos. O público é advogado, não programador: use linguagem direta e
 mantenha o foco no trabalho jurídico.
 
-O projeto segue o [Manifesto da Advocacia Aberta](MANIFESTO.md): o método pode ser
-compartilhado, mas dados de clientes permanecem privados. Antes de trabalhar com
-material real, observe [SIGILO-E-DADOS.md](SIGILO-E-DADOS.md).
+O projeto segue o [Manifesto da Advocacia Aberta](MANIFESTO.md): a alucinação não é a
+doença — a doença é o dado ilegível; por isso o método é explícito e a fonte vem antes da
+afirmação. O método pode ser compartilhado, mas dados de clientes permanecem privados.
+Antes de trabalhar com material real, observe [SIGILO-E-DADOS.md](SIGILO-E-DADOS.md).
 
 ## Como o agente deve se comportar aqui
 
