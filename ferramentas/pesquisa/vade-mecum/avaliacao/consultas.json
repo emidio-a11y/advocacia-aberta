@@ -17,6 +17,7 @@
     "jurisprudencia_teses": 0.9,
     "temas_repetitivos": 0.8,
     "temas_rg_stf": 0.7,
+    "informativo_stf": 0.7,
     "legislacao": 0.8
   },
   "casos": [
@@ -1493,6 +1494,54 @@
         "RG:555"
       ],
       "justificativa": "Temas de repercussão geral sobre aposentadoria especial e caracterização de tempo especial por exposição a agentes nocivos (EPI, permanência na atividade, critérios de caracterização e conversão de tempo); o piso dos agentes comunitários de saúde foi excluído."
+    },
+    {
+      "id": "inf-pis-cofins-base-calculo",
+      "grupo": "informativo_stf",
+      "consulta": "base de cálculo do PIS e da COFINS",
+      "filtro": {},
+      "relevantes": [
+        "INF_0857_009",
+        "INF_1121_009",
+        "INF_1037_012",
+        "INF_1047_007"
+      ],
+      "obrigatorios": [
+        "INF_0857_009"
+      ],
+      "justificativa": "Julgados do Informativo sobre a composição da base de cálculo do PIS/COFINS (ICMS, IPI, crédito de IPI e parcela não dedutível); a CPRB (contribuição sobre receita bruta, base distinta) foi excluída."
+    },
+    {
+      "id": "inf-execucao-provisoria-pena",
+      "grupo": "informativo_stf",
+      "consulta": "execução provisória da pena segunda instância",
+      "filtro": {},
+      "relevantes": [
+        "INF_0842_001",
+        "INF_0842_002",
+        "INF_0865_005",
+        "INF_1150_004"
+      ],
+      "obrigatorios": [
+        "INF_0842_001"
+      ],
+      "justificativa": "Julgados do Informativo sobre execução da pena antes do trânsito em julgado (execução provisória, preso advogado, execução imediata após o júri); a execução da pena de multa, tema diverso, foi excluída."
+    },
+    {
+      "id": "inf-insignificancia-bagatela",
+      "grupo": "informativo_stf",
+      "consulta": "princípio da insignificância crime bagatela",
+      "filtro": {},
+      "relevantes": [
+        "INF_0845_005",
+        "INF_0793_006",
+        "INF_0793_007",
+        "INF_0793_008"
+      ],
+      "obrigatorios": [
+        "INF_0845_005"
+      ],
+      "justificativa": "Julgados do Informativo sobre o princípio da insignificância no direito penal (pesca ilegal, reincidência e crime qualificado); um julgado previdenciário que casou apenas por 'princípio' foi excluído."
     }
   ]
 }

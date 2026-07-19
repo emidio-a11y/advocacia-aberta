@@ -7,6 +7,7 @@
  *   bun run src/cli.ts tese "plano de saude cobertura" 5
  *   bun run src/cli.ts tema "honorarios fazenda publica" 5
  *   bun run src/cli.ts tema-rg "ICMS base calculo PIS COFINS" 5
+ *   bun run src/cli.ts informativo "principio da insignificancia" 5
  *   bun run src/cli.ts legislacao "186" CC 5
  *   bun run src/cli.ts buscar "responsabilidade civil dano" 5
  */
@@ -15,6 +16,7 @@ import { buscarSumulas, formatSumula, type Tribunal } from "./search/sumulas.js"
 import { buscarTeses, formatTese } from "./search/jt.js";
 import { buscarTemas, formatTema } from "./search/temas.js";
 import { buscarTemasRG, formatTemaRG } from "./search/temas_rg_stf.js";
+import { buscarInformativos, formatInformativo } from "./search/informativo_stf.js";
 import {
   buscarLegislacao,
   CODIGOS_DISPONIVEIS,
@@ -27,7 +29,7 @@ const [, , tool, query, arg3, arg4] = process.argv;
 function printSep() { console.log("\n" + "─".repeat(60) + "\n"); }
 
 if (!tool || !query) {
-  console.error("Uso: bun run src/cli.ts <sumula|tese|tema|tema-rg|legislacao|buscar> <query> [args]");
+  console.error("Uso: bun run src/cli.ts <sumula|tese|tema|tema-rg|informativo|legislacao|buscar> <query> [args]");
   process.exit(1);
 }
 
@@ -69,6 +71,15 @@ switch (tool) {
     break;
   }
 
+  case "informativo": {
+    const limit = parseInt(arg3 ?? "5", 10);
+    const results = buscarInformativos(query, limit);
+    if (results.length === 0) { console.log(`Nenhum julgado do Informativo encontrado para: "${query}"`); break; }
+    console.log(`${results.length} julgado(s) do Informativo encontrado(s)\n`);
+    results.forEach((r, i) => { if (i > 0) printSep(); process.stdout.write(formatInformativo(r)); });
+    break;
+  }
+
   case "legislacao": {
     const codigoInformado = arg3 ?? "todos";
     const codigo = normalizarCodigo(codigoInformado);
@@ -87,15 +98,16 @@ switch (tool) {
   }
 
   case "buscar": {
-    // Busca ampla: súmulas + teses + temas repetitivos + temas de RG do STF
+    // Busca ampla: súmulas + teses + temas repetitivos + temas de RG + Informativo STF
     const limit = parseInt(arg3 ?? "3", 10);
 
     const sumulas = buscarSumulas(query, "todos", limit);
     const teses = buscarTeses(query, limit);
     const temas = buscarTemas(query, limit);
     const temasRG = buscarTemasRG(query, limit);
+    const informativos = buscarInformativos(query, limit);
 
-    const total = sumulas.length + teses.length + temas.length + temasRG.length;
+    const total = sumulas.length + teses.length + temas.length + temasRG.length + informativos.length;
     if (total === 0) { console.log(`Nenhum resultado encontrado para: "${query}"`); break; }
 
     console.log(`=== BASE JURÍDICA LOCAL — "${query}" ===\n`);
@@ -119,10 +131,15 @@ switch (tool) {
       console.log(`## TEMAS DE REPERCUSSÃO GERAL STF (${temasRG.length})\n`);
       temasRG.forEach((r, i) => { if (i > 0) printSep(); process.stdout.write(formatTemaRG(r)); });
     }
+    if (informativos.length > 0) {
+      printSep();
+      console.log(`## INFORMATIVO STF (${informativos.length})\n`);
+      informativos.forEach((r, i) => { if (i > 0) printSep(); process.stdout.write(formatInformativo(r)); });
+    }
     break;
   }
 
   default:
-    console.error(`Tool desconhecida: ${tool}. Use: sumula | tese | tema | tema-rg | legislacao | buscar`);
+    console.error(`Tool desconhecida: ${tool}. Use: sumula | tese | tema | tema-rg | informativo | legislacao | buscar`);
     process.exit(1);
 }

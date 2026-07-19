@@ -12,7 +12,7 @@ import argparse
 from collections import Counter, defaultdict
 import csv
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 import hashlib
 from html import unescape
 from html.parser import HTMLParser
@@ -25,6 +25,8 @@ import sys
 import tempfile
 from typing import Any, Iterable, Iterator
 from urllib.parse import quote, urljoin, urlparse
+import zipfile
+from xml.etree.ElementTree import iterparse
 
 
 # Páginas antigas do Planalto acumulam milhares de tags inline sem fechamento
@@ -46,6 +48,7 @@ ADAPTADORES = {
     "jt_stj_html_v1",
     "temas_stj_csv_v1",
     "temas_rg_stf_html_v1",
+    "informativo_stf_xlsx_v1",
 }
 HOSTS_OFICIAIS = {
     "www.planalto.gov.br",
@@ -57,6 +60,7 @@ HOSTS_OFICIAIS = {
     "dadosabertos.web.stj.jus.br",
     "portal.stf.jus.br",
     "jurisprudencia.stf.jus.br",
+    "www.stf.jus.br",
 }
 LIMITE_MUDANCA_PERCENTUAL_PADRAO = 25
 LIMITE_MUDANCA_MINIMO_PADRAO = 20
@@ -589,7 +593,11 @@ def nome_da_divisao(rotulo: str, paragrafos: list[Elemento], indice: int) -> str
         count=1,
         flags=re.I,
     ).strip()
-    if resto:
+    # "SEÇÃO II-A"/"CAPÍTULO VI-A": o traço do sufixo é consumido pelo rótulo e
+    # sobra uma letra isolada ("A"), que não é nome. Nesses casos o Planalto
+    # escreve o nome real no parágrafo seguinte ("DA INSOLVÊNCIA TRANSNACIONAL"),
+    # como no caso sem nome na mesma linha — então segue para a busca adiante.
+    if resto and len(resto) > 1:
         return resto
     for seguinte in paragrafos[indice + 1 : indice + 4]:
         texto = texto_normalizado(texto_elemento(seguinte))
@@ -1110,6 +1118,58 @@ def ler_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(arquivo))
 
 
+NS_XLSX = "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}"
+
+
+def coluna_para_indice(referencia: str) -> int:
+    """Converte a parte de coluna de uma referência A1 ('C', 'AA') em índice 0-based."""
+    letras = re.match(r"[A-Z]+", referencia.upper())
+    indice = 0
+    for letra in (letras.group(0) if letras else "A"):
+        indice = indice * 26 + (ord(letra) - 64)
+    return indice - 1
+
+
+def serial_excel_para_data(valor: str) -> str:
+    """Converte o serial de data do Excel (sistema 1900) em DD/MM/AAAA.
+
+    O epoch efetivo é 1899-12-30 por causa do bug do ano bissexto de 1900 no
+    Excel; datas do Informativo (todas posteriores a 1995) não são afetadas
+    pelo intervalo defeituoso. Texto não numérico é devolvido normalizado.
+    """
+    try:
+        numero = float(valor)
+    except (TypeError, ValueError):
+        return texto_normalizado(valor)
+    data = datetime(1899, 12, 30) + timedelta(days=int(numero))
+    return data.strftime("%d/%m/%Y")
+
+
+def ler_xlsx(path: Path, planilha: str = "xl/worksheets/sheet1.xml") -> Iterator[dict[int, str]]:
+    """Percorre as linhas da planilha por streaming, sem dependências externas.
+
+    XLSX é um zip de XML. A planilha do Informativo STF não usa a tabela de
+    strings compartilhadas: as células de texto trazem ``inlineStr`` e as
+    numéricas trazem ``<v>``. Cada linha vira ``{índice de coluna: texto}``.
+    """
+    with zipfile.ZipFile(path) as arquivo_zip, arquivo_zip.open(planilha) as fluxo:
+        linha: dict[int, str] = {}
+        for _evento, elemento in iterparse(fluxo, events=("end",)):
+            if elemento.tag == NS_XLSX + "row":
+                yield linha
+                linha = {}
+                elemento.clear()
+            elif elemento.tag == NS_XLSX + "c":
+                indice = coluna_para_indice(elemento.get("r", "A1"))
+                if elemento.get("t") == "inlineStr":
+                    linha[indice] = "".join(
+                        no.text or "" for no in elemento.iter(NS_XLSX + "t")
+                    )
+                else:
+                    no = elemento.find(NS_XLSX + "v")
+                    linha[indice] = (no.text or "") if no is not None else ""
+
+
 def transformar_temas(
     config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
 ) -> list[Path]:
@@ -1390,6 +1450,150 @@ def transformar_temas_rg(
     return [saida]
 
 
+COLUNAS_INFORMATIVO = (
+    "Informativo",
+    "Classe Processo",
+    "Número Processo",
+    "Incidente Julgamento",
+    "UF",
+    "Observação",
+    "Data Julgamento",
+    "Relator",
+    "Redator Acórdão",
+    "Órgão Julgador",
+    "Tipo Julgamento",
+    "Situação Julgamento",
+    "Título",
+    "Tese Julgado",
+    "Resumo",
+    "Notícia",
+    "Ramo Direito",
+    "Matéria",
+    "Repercussão Geral",
+    "Tema RG",
+    "Legislação",
+    "ODS ONU 2030",
+    "Covid-19",
+    "Notícia completa",
+)
+
+
+def transformar_informativo(
+    config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
+) -> list[Path]:
+    fonte = config["fontes"][0]
+    caminho = bruto / fonte["arquivo_bruto"]
+    linhas = ler_xlsx(caminho)
+    cabecalho = next(linhas, {})
+    nomes = [
+        texto_normalizado(cabecalho.get(indice, ""))
+        for indice in range(len(COLUNAS_INFORMATIVO))
+    ]
+    if nomes != list(COLUNAS_INFORMATIVO):
+        raise ValueError(
+            f"cabeçalho da planilha do Informativo divergente do esperado: {nomes}"
+        )
+
+    registros: dict[str, Any] = {}
+    sequencial_por_edicao: dict[int, int] = defaultdict(int)
+    for linha in linhas:
+        def campo(indice: int) -> str:
+            return texto_normalizado(linha.get(indice, ""))
+
+        edicao_bruta = campo(0)
+        if not edicao_bruta:
+            continue
+        try:
+            edicao = int(float(edicao_bruta))
+        except ValueError:
+            continue
+        sequencial_por_edicao[edicao] += 1
+        sequencial = sequencial_por_edicao[edicao]
+        identificador = f"INF_{edicao:04d}_{sequencial:03d}"
+        data_bruta = linha.get(6, "")
+        registros[identificador] = {
+            "id": identificador,
+            "edicao": edicao,
+            "sequencial": sequencial,
+            "classeProcesso": campo(1),
+            "numeroProcesso": campo(2),
+            "dataJulgamento": serial_excel_para_data(data_bruta) if data_bruta else "",
+            "relator": campo(7),
+            "orgaoJulgador": campo(9),
+            "situacao": campo(11),
+            "titulo": campo(12),
+            "teseJulgado": campo(13),
+            "resumo": campo(14),
+            "ramoDireito": campo(16),
+            "materia": campo(17),
+            "repercussaoGeral": campo(18),
+            "temaRG": campo(19),
+            "legislacao": campo(20),
+            "links": {
+                "edicao": (
+                    "https://www.stf.jus.br/arquivo/informativo/documento/"
+                    f"informativo{edicao}.htm"
+                )
+            },
+        }
+    if not registros:
+        raise ValueError("nenhum julgado reconhecido na planilha do Informativo STF")
+
+    headers_path = caminho.with_suffix(caminho.suffix + ".headers")
+    cabecalhos = ler_cabecalhos(headers_path) if headers_path.exists() else {}
+    ramos = Counter(
+        item["ramoDireito"] for item in registros.values() if item["ramoDireito"]
+    )
+    edicoes = {item["edicao"] for item in registros.values()}
+    com_tese = sum(1 for item in registros.values() if item["teseJulgado"])
+    objeto = {
+        "_meta": {
+            "version": "1.0",
+            "tipo": "informativo",
+            "tribunal": "STF",
+            "totalRegistros": len(registros),
+            "totalEdicoes": len(edicoes),
+            "julgadosComTese": com_tese,
+            "generatedAt": agora_utc(),
+            "ramosDireito": dict(sorted(ramos.items())),
+            "descricao": "Informativo STF — julgados resumidos, extraídos da planilha oficial",
+            "source": {
+                "provenanceStatus": "reproducible_pipeline",
+                "dataset": "Informativo STF — planilha Dados_InformativosSTF.xlsx",
+                "officialPublicReference": {
+                    "planilha": fonte["url"],
+                    "edicaoUrlTemplate": (
+                        "https://www.stf.jus.br/arquivo/informativo/documento/"
+                        "informativo{numero}.htm"
+                    ),
+                },
+                "license": (
+                    "Permite-se a reprodução desta publicação, no todo ou em "
+                    "parte, sem alteração do conteúdo, desde que citada a fonte."
+                ),
+                "lastModified": cabecalhos.get("last-modified"),
+                "method": (
+                    "Planilha XLSX (zip+XML, inline strings) lida por streaming "
+                    "com a biblioteca padrão; datas convertidas do serial do "
+                    "Excel."
+                ),
+                "collectedAt": agora_utc(),
+                "escopo": (
+                    "Campos curados por julgado (título, tese, resumo, matéria, "
+                    "ramo, legislação e rastreabilidade). As colunas de notícia "
+                    "integral foram omitidas para manter a base local enxuta; o "
+                    "texto completo fica no link oficial da edição."
+                ),
+            },
+            "transformacao": "informativo_stf_xlsx_v1",
+        },
+        "informativos": registros,
+    }
+    saida = candidatos / config["destino"]
+    salvar_json(saida, objeto)
+    return [saida]
+
+
 TRANSFORMADORES = {
     "planalto_html_v1": transformar_legislacao,
     "sumulas_stj_html_v1": transformar_sumulas_stj,
@@ -1397,6 +1601,7 @@ TRANSFORMADORES = {
     "jt_stj_html_v1": transformar_jt,
     "temas_stj_csv_v1": transformar_temas,
     "temas_rg_stf_html_v1": transformar_temas_rg,
+    "informativo_stf_xlsx_v1": transformar_informativo,
 }
 
 
@@ -1462,6 +1667,7 @@ def validar_objeto(config: dict[str, Any], objeto: dict[str, Any], nome: str) ->
         "jurisprudencia_em_teses": ("id", "edicao", "enunciado", "url"),
         "precedentes_qualificados": ("numero", "questao", "links"),
         "precedentes_rg_stf": ("numero", "titulo", "situacao", "links"),
+        "informativo": ("id", "edicao", "materia", "links"),
     }[familia]
     for identificador, registro in registros.items():
         if not isinstance(registro, dict):
@@ -1499,6 +1705,8 @@ def validar_objeto(config: dict[str, Any], objeto: dict[str, Any], nome: str) ->
         esperado = meta.get("totalTemas")
     elif familia == "precedentes_rg_stf":
         esperado = meta.get("totalTemas")
+    elif familia == "informativo":
+        esperado = meta.get("totalRegistros")
     if esperado != quantidade:
         erros.append(f"{nome}: metadado informa {esperado}, coleção contém {quantidade}")
     return erros
@@ -2022,12 +2230,42 @@ def monitorar_temas_rg(
     return [{"alvo": "exportacao", "situacao": situacao, "detalhe": detalhe}]
 
 
+def monitorar_informativo(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    fonte = config["fontes"][0]
+    meta = carregar_json(publicados / config["destino"]).get("_meta") or {}
+    desde = str((meta.get("source") or {}).get("lastModified") or "")
+    try:
+        sonda = sondar_url(fonte["url"], desde=desde or None)
+    except (RuntimeError, ValueError, subprocess.CalledProcessError) as erro:
+        return [{"alvo": "planilha", "situacao": "erro", "detalhe": str(erro)}]
+    if sonda["http"] == 304:
+        situacao = "sem_mudanca"
+        detalhe = (
+            f"planilha não modificada desde {desde or 'data desconhecida'}; "
+            "o Informativo pausa no recesso (jan/jul) e semana vazia não é erro"
+        )
+    elif sonda["http"] == 200:
+        situacao = "mudou" if desde else "indeterminado"
+        detalhe = (
+            "planilha modificada em "
+            f"{sonda.get('last_modified') or 'data não informada'}; "
+            f"snapshot local de {desde or 'data desconhecida'}"
+        )
+    else:
+        situacao = "indeterminado"
+        detalhe = f"resposta HTTP {sonda['http']}"
+    return [{"alvo": "planilha", "situacao": situacao, "detalhe": detalhe}]
+
+
 MONITORES_POR_ADAPTADOR = {
     "sumulas_stj_html_v1": monitorar_sumulas_stj,
     "sumulas_stf_html_v1": monitorar_sumulas_stf,
     "jt_stj_html_v1": monitorar_jt,
     "temas_stj_csv_v1": monitorar_temas,
     "temas_rg_stf_html_v1": monitorar_temas_rg,
+    "informativo_stf_xlsx_v1": monitorar_informativo,
 }
 
 

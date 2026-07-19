@@ -566,5 +566,45 @@ class MonitorarTemasRGTest(unittest.TestCase):
         self.assertEqual(itens[0]["situacao"], "sem_mudanca")
 
 
+class MonitorarInformativoTest(unittest.TestCase):
+    URL = "https://www.stf.jus.br/arquivo/cms/informativoSTF/anexo/Informativo_Dados/Dados_InformativosSTF.xlsx"
+
+    def monitorar(self, resposta: dict[str, object]):
+        config = {
+            "adaptador": "informativo_stf_xlsx_v1",
+            "chave_colecao": "informativos",
+            "destino": "informativo_stf.json",
+            "fontes": [{"id": "planilha", "url": self.URL, "arquivo_bruto": "x.xlsx"}],
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            publicados = raiz / "publicados"
+            publicados.mkdir()
+            (publicados / "informativo_stf.json").write_text(
+                json.dumps(
+                    {
+                        "_meta": {
+                            "source": {"lastModified": "Wed, 08 Jul 2026 02:05:19 GMT"}
+                        },
+                        "informativos": {},
+                    }
+                ),
+                encoding="utf-8",
+            )
+            with patch.object(pipeline, "sondar_url", return_value=resposta):
+                return pipeline.monitorar_informativo(config, publicados, raiz / "t")
+
+    def test_304_sem_mudanca(self) -> None:
+        itens = self.monitorar({"http": 304, "last_modified": None})
+        self.assertEqual(itens[0]["situacao"], "sem_mudanca")
+
+    def test_200_indica_mudanca(self) -> None:
+        itens = self.monitorar(
+            {"http": 200, "last_modified": "Fri, 18 Jul 2026 00:00:00 GMT"}
+        )
+        self.assertEqual(itens[0]["situacao"], "mudou")
+        self.assertIn("18 Jul 2026", itens[0]["detalhe"])
+
+
 if __name__ == "__main__":
     unittest.main()

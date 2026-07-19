@@ -25,6 +25,12 @@ import {
   TOTAL_TEMAS_RG_STF,
 } from "./search/temas_rg_stf.js";
 import {
+  buscarInformativos,
+  formatInformativo,
+  TOTAL_EDICOES_INFORMATIVO,
+  TOTAL_INFORMATIVOS_STF,
+} from "./search/informativo_stf.js";
+import {
   buscarLegislacao,
   CODIGOS_DISPONIVEIS,
   formatArtigo,
@@ -165,6 +171,32 @@ Use quando a questão constitucional puder ser objeto de repercussão geral, par
       },
     },
     {
+      name: "buscar_informativo",
+      description: `Busca julgados resumidos no Informativo STF (${formatarNumero(TOTAL_INFORMATIVOS_STF)} julgados de ${formatarNumero(TOTAL_EDICOES_INFORMATIVO)} edições).
+
+O Informativo STF é uma compilação institucional que resume julgados relevantes do Tribunal.
+O resumo não é vinculante por si só; examine o inteiro teor e a situação atual no link oficial da edição antes de aplicar.
+
+Aceita busca por palavras-chave ("insignificância tráfico", "ICMS energia") ou por número de edição ("informativo 1222", "inf 1000").
+
+Use para localizar um julgado do STF por tema e chegar ao texto oficial da edição.`,
+      inputSchema: {
+        type: "object",
+        properties: {
+          query: {
+            type: "string",
+            description: "Palavras-chave (ex: 'princípio da insignificância') ou número de edição (ex: 'informativo 1222').",
+          },
+          limit: {
+            type: "number",
+            description: "Máximo de resultados. Default: 5.",
+            default: 5,
+          },
+        },
+        required: ["query"],
+      },
+    },
+    {
       name: "buscar_legislacao",
       description: `Busca artigos em ${legislacoes.length} diplomas da legislação brasileira.
 
@@ -252,6 +284,18 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       return { content: [{ type: "text", text: `Nenhum tema de repercussão geral encontrado para: "${query}"` }] };
     }
     const text = results.map(formatTemaRG).join("\n---\n\n");
+    return { content: [{ type: "text", text }] };
+  }
+
+  if (name === "buscar_informativo") {
+    const query = String(args?.query ?? "");
+    const limit = Number(args?.limit ?? 5);
+
+    const results = buscarInformativos(query, limit);
+    if (results.length === 0) {
+      return { content: [{ type: "text", text: `Nenhum julgado do Informativo encontrado para: "${query}"` }] };
+    }
+    const text = results.map(formatInformativo).join("\n---\n\n");
     return { content: [{ type: "text", text }] };
   }
 

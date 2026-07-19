@@ -39,6 +39,7 @@ FAMILIAS_FIXAS = {
     "jt_stj.json": ("teses", "gerado_em"),
     "flash_temas_stj.json": ("temas", "generatedAt"),
     "temas_rg_stf.json": ("temas", "generatedAt"),
+    "informativo_stf.json": ("informativos", "generatedAt"),
 }
 
 

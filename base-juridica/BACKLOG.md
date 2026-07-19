@@ -49,6 +49,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-022` | O flag de suspensão nacional dos temas de repercussão geral (art. 1.035, §5º, do CPC) não existe nas rotas estáticas do STF, só na base Qlik | Capturar quando houver rota estática estável; até lá, registrado como limitação declarada na família de RG | aberto |
 | `BASE-023` | Decisões de controle concentrado do STF (ADI/ADC/ADO/ADPF) são Qlik-locked por desenho (Resolução STF 774/2022, export "sempre que possível"); a rota estática só cobre petições iniciais | Reavaliar em ~6 meses se surgir export estático confiável | aberto |
 | `BASE-024` | Produtos curados do STJ ainda fora da base — Informativo de Jurisprudência, Pesquisa Pronta e Legislação Aplicada (SCON): as rotas óbvias devolvem 403/shell | Rodada dedicada para achar a rota estável de cada produto | aberto |
+| `BASE-025` | Falta o Informativo STF — compilação institucional de julgados resumidos do STF | Nova família reproduzível (adaptador XLSX, monitor, testes) integrada ao motor; busca cobre todos os julgados; licença de reprodução registrada | **concluído em 2026-07-19** |
 
 ## Não capturar (decisão de escopo)
 
@@ -61,6 +62,29 @@ dados não jurídicos, não por dificuldade técnica:
 - bases estatísticas do STF (Acervo, Partes, Recebidos, Baixados).
 
 ## Itens concluídos
+
+### `BASE-025` — Informativo STF
+
+- nova família `informativo_stf`: adaptador `informativo_stf_xlsx_v1` lê a planilha
+  oficial `Dados_InformativosSTF.xlsx` (9,3 MB) por streaming com a biblioteca
+  padrão (XLSX é zip+XML; a planilha usa strings inline e colunas numéricas), com
+  conversão das datas de julgamento do serial do Excel;
+- 11.567 julgados de 1.211 edições (numeradas de 1 a 1.222), 850 com tese
+  registrada; escopo curado por julgado (processo, data, relator, órgão, situação,
+  título, tese, resumo, matéria, ramo, repercussão geral, Tema RG e legislação),
+  com o link oficial da edição e a licença de reprodução do STF registrada na
+  proveniência; as colunas de notícia integral foram omitidas para manter a base
+  local enxuta;
+- integração no motor: módulo `informativo_stf.ts` (natureza compilação
+  institucional, efeito não vinculante por si só), busca por edição e por
+  palavra-chave sobre índice textual em memória que cobre os 11.567 julgados,
+  ferramenta MCP `buscar_informativo`, CLI `informativo`, grupo de avaliação com
+  três consultas julgadas e auditoria da família (contagem, link e licença);
+- monitor barato por `If-Modified-Since` (o STF responde 304 quando a planilha não
+  muda), ciente da pausa no recesso; validação, testes de pipeline (leitura de
+  XLSX, conversão de data, transformação, cabeçalho e monitor);
+- a verificação completa está em
+  [`verificacoes/BASE-025.md`](verificacoes/BASE-025.md).
 
 ### `BASE-021` — temas de repercussão geral do STF
 

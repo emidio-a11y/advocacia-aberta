@@ -8,6 +8,7 @@ import sys
 import tempfile
 import unittest
 from unittest.mock import patch
+import zipfile
 
 
 ROOT = Path(__file__).resolve().parents[3]
@@ -73,6 +74,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             "jurisprudencia_teses_stj",
             "temas_repetitivos_stj",
             "temas_rg_stf",
+            "informativo_stf",
         }
         self.assertLessEqual(nucleo, set(ativos))
         extras = set(ativos) - nucleo
@@ -390,6 +392,52 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(hierarquia["chapter_name"], "DA COBRANÇA")
         self.assertEqual(hierarquia["section_name"], "Das Disposições Gerais")
         self.assertEqual(objeto["artigos"]["2"]["hierarchy"]["title_name"], "TÍTULO II")
+
+    def test_nome_de_divisao_com_sufixo_de_letra_usa_paragrafo_seguinte(self) -> None:
+        # "CAPÍTULO VI-A"/"SEÇÃO II-A" (dispositivos incluídos por lei posterior):
+        # o traço do sufixo é consumido pelo rótulo e sobra uma letra isolada
+        # ("A"), que não é nome. O nome real fica no parágrafo seguinte, após a
+        # remissão "(Incluído ...)", como no caso sem nome na mesma linha.
+        html = """
+        <html><body>
+        <p>CAPÍTULO VI-A</p>
+        <p>(Incluído pela Lei nº 14.112, de 2020)</p>
+        <p>DA INSOLVÊNCIA TRANSNACIONAL</p>
+        <p>SEÇÃO II-A</p>
+        <p>(Incluído pela Lei nº 14.112, de 2020)</p>
+        <p>Das Conciliações e das Mediações</p>
+        <p>Art. 1º Primeiro artigo.</p>
+        </body></html>
+        """
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        hierarquia = objeto["artigos"]["1"]["hierarchy"]
+        self.assertEqual(hierarquia["chapter"], "VI")
+        self.assertEqual(hierarquia["chapter_name"], "DA INSOLVÊNCIA TRANSNACIONAL")
+        self.assertEqual(hierarquia["section"], "II")
+        self.assertEqual(hierarquia["section_name"], "Das Conciliações e das Mediações")
 
     def test_hierarquia_tolera_ortografia_antiga_sem_acento(self) -> None:
         # Padrão do Decreto 2.044/1908: a página usa "TITULO I", "CAPITULO
@@ -960,6 +1008,110 @@ class TransformarTemasRGTest(unittest.TestCase):
         cabecalho[3] = "Coluna Trocada"
         with self.assertRaisesRegex(ValueError, "cabeçalho"):
             self.transformar(_tabela_rg(_LINHAS_RG, cabecalho))
+
+
+def _xlsx_bytes(cabecalho: list[str], linhas: list[dict[int, str]]) -> bytes:
+    """Monta um XLSX mínimo (zip+XML) com strings inline e células numéricas."""
+    import io
+
+    def coluna(indice: int) -> str:
+        return chr(ord("A") + indice)
+
+    def celula(indice: int, linha_num: int, valor: str) -> str:
+        ref = f"{coluna(indice)}{linha_num}"
+        # Colunas Informativo (0) e Data Julgamento (6) são numéricas na fonte.
+        if indice in (0, 6):
+            return f'<c r="{ref}" t="n"><v>{valor}</v></c>'
+        seguro = valor.replace("&", "&amp;").replace("<", "&lt;")
+        return f'<c r="{ref}" t="inlineStr"><is><t>{seguro}</t></is></c>'
+
+    partes = ['<row r="1">']
+    partes += [celula(i, 1, nome) for i, nome in enumerate(cabecalho)]
+    partes.append("</row>")
+    for numero, linha in enumerate(linhas, start=2):
+        partes.append(f'<row r="{numero}">')
+        partes += [
+            celula(indice, numero, valor)
+            for indice, valor in sorted(linha.items())
+            if valor != ""
+        ]
+        partes.append("</row>")
+    sheet = (
+        '<?xml version="1.0" encoding="UTF-8"?>'
+        '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">'
+        "<sheetData>" + "".join(partes) + "</sheetData></worksheet>"
+    )
+    buffer = io.BytesIO()
+    with zipfile.ZipFile(buffer, "w") as zip_arquivo:
+        zip_arquivo.writestr("xl/worksheets/sheet1.xml", sheet.encode("utf-8"))
+    return buffer.getvalue()
+
+
+class InformativoXlsxTest(unittest.TestCase):
+    def test_serial_excel_para_data(self) -> None:
+        # Valor real do snapshot (INF_1222_001, edição 1222).
+        self.assertEqual(pipeline.serial_excel_para_data("46190.125"), "17/06/2026")
+        self.assertEqual(pipeline.serial_excel_para_data("texto"), "texto")
+
+    def transformar(self, cabecalho: list[str], linhas: list[dict[int, str]]) -> dict:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto" / "informativo_stf"
+            bruto.mkdir(parents=True)
+            (bruto / "Dados_InformativosSTF.xlsx").write_bytes(
+                _xlsx_bytes(cabecalho, linhas)
+            )
+            candidatos = raiz / "candidatos"
+            config = {
+                "destino": "informativo_stf.json",
+                "fontes": [
+                    {
+                        "id": "planilha",
+                        "url": "https://www.stf.jus.br/arquivo/cms/informativoSTF/anexo/Informativo_Dados/Dados_InformativosSTF.xlsx",
+                        "arquivo_bruto": "Dados_InformativosSTF.xlsx",
+                    }
+                ],
+            }
+            pipeline.transformar_informativo(config, bruto, raiz / "pub", candidatos)
+            return json.loads(
+                (candidatos / "informativo_stf.json").read_text(encoding="utf-8")
+            )
+
+    def test_extrai_julgados_datas_e_links(self) -> None:
+        linhas = [
+            {0: "1222", 1: "ADI", 2: "5069", 6: "46190", 7: "MIN. FULANO",
+             9: "Plenário", 11: "Concluído", 12: "Título um", 14: "Resumo um",
+             16: "Direito Constitucional", 17: "Federalismo", 18: "Não", 20: "CF/1988"},
+            {0: "1222", 1: "RE", 2: "999", 6: "46188", 12: "Título dois",
+             13: "Tese dois", 16: "Direito Penal", 17: "Insignificância",
+             18: "Sim", 19: "1234"},
+        ]
+        objeto = self.transformar(list(pipeline.COLUNAS_INFORMATIVO), linhas)
+        registros = objeto["informativos"]
+        self.assertEqual(objeto["_meta"]["totalRegistros"], 2)
+        self.assertEqual(objeto["_meta"]["totalEdicoes"], 1)
+        self.assertEqual(objeto["_meta"]["julgadosComTese"], 1)
+        self.assertIn("license", objeto["_meta"]["source"])
+
+        um = registros["INF_1222_001"]
+        self.assertEqual(um["edicao"], 1222)
+        self.assertEqual(um["sequencial"], 1)
+        self.assertEqual(um["dataJulgamento"], "17/06/2026")  # serial convertido
+        self.assertEqual(um["materia"], "Federalismo")
+        self.assertEqual(
+            um["links"]["edicao"],
+            "https://www.stf.jus.br/arquivo/informativo/documento/informativo1222.htm",
+        )
+        dois = registros["INF_1222_002"]
+        self.assertEqual(dois["sequencial"], 2)
+        self.assertEqual(dois["teseJulgado"], "Tese dois")
+        self.assertEqual(dois["temaRG"], "1234")
+
+    def test_cabecalho_divergente_falha(self) -> None:
+        cabecalho = list(pipeline.COLUNAS_INFORMATIVO)
+        cabecalho[13] = "Coluna Trocada"
+        with self.assertRaisesRegex(ValueError, "cabeçalho"):
+            self.transformar(cabecalho, [{0: "1", 17: "x"}])
 
 
 if __name__ == "__main__":

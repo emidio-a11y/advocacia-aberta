@@ -11,6 +11,10 @@ import {
 import { TOTAIS_SUMULAS } from "./sumulas.js";
 import { TOTAL_TEMAS_STJ } from "./temas.js";
 import { TOTAL_TEMAS_RG_STF } from "./temas_rg_stf.js";
+import {
+  TOTAL_EDICOES_INFORMATIVO,
+  TOTAL_INFORMATIVOS_STF,
+} from "./informativo_stf.js";
 
 const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "ADCT",
@@ -328,5 +332,7 @@ describe("cobertura declarada pelo motor", () => {
     expect(TOTAL_EDICOES_JT).toBe(283);
     expect(TOTAL_TEMAS_STJ).toBe(1462);
     expect(TOTAL_TEMAS_RG_STF).toBe(1470);
+    expect(TOTAL_INFORMATIVOS_STF).toBe(11567);
+    expect(TOTAL_EDICOES_INFORMATIVO).toBe(1211);
   });
 });

@@ -48,6 +48,7 @@ O manifesto versionado está em [fontes.json](fontes.json), validado pelo contra
 | Jurisprudência em Teses | páginas de cada edição no STJ | índice e edições de `1` até a mais recente observada | extrai edição, título, data, enunciados, julgados e links para o PDF oficial |
 | Temas repetitivos | Portal de Dados Abertos do STJ | metadados CKAN, `Temas.csv` e `Processos.csv` | relaciona os CSVs por `sequencialPrecedente` e produz questões, teses, processo representativo e links |
 | Temas de repercussão geral | exportação do Portal da Repercussão Geral do STF | uma tabela HTML única (rótulo `application/vnd.ms-excel`) | corrige mojibake por célula, extrai os 15 campos, monta a página oficial por tema e os links de detalhamento, manifestação e acórdão |
+| Informativo STF | planilha estruturada `Dados_InformativosSTF.xlsx` | um XLSX único (zip+XML, strings inline) lido por streaming | converte datas do serial do Excel, extrai os campos curados por julgado e monta o link oficial da edição; omite as colunas de notícia integral |
 
 Os índices `sumulas_keywords.json` e `sumulas_stf_keywords.json` (súmulas,
 `BASE-010`) e os 270 arquivos `indices/lei_*_keywords.json` (legislação,
@@ -129,6 +130,7 @@ Sinal utilizado por família:
 | Jurisprudência em Teses | edição mais recente do índice vs snapshot | download de 1 página |
 | Temas repetitivos | `last_modified` dos recursos na API CKAN do STJ vs `generatedAt` do snapshot | 1 JSON pequeno |
 | Temas de repercussão geral | contagem total e por situação na exportação oficial do STF vs snapshot | download de 1 arquivo |
+| Informativo STF | GET condicional (`If-Modified-Since` com o `Last-Modified` do snapshot); o STF responde 304 quando a planilha não mudou | ~zero quando não há mudança |
 
 Limitações declaradas do sinal:
 
@@ -142,7 +144,8 @@ Limitações declaradas do sinal:
 - reenvio de conteúdo idêntico no CKAN do STJ conta como mudança (os hashes dos
   recursos não são publicados pelo portal);
 - alteração de tese de tema de repercussão geral sem mudança de contagem ou de
-  situação não é captada pelo sinal do STF;
+  situação não é captada pelo sinal do STF; o Informativo STF pausa no recesso
+  (jan/jul), então uma semana sem nova edição não é erro do monitor;
 - falha de uma fonte não interrompe o monitor: aparece como `erro` no relatório.
 
 O GitHub Actions `monitorar-base.yml` executa o monitor semanalmente e abre ou

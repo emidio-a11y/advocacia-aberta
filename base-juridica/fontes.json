@@ -245,6 +245,19 @@
         }
       ]
     },
+    "informativo_stf": {
+      "familia": "informativo",
+      "adaptador": "informativo_stf_xlsx_v1",
+      "chave_colecao": "informativos",
+      "destino": "informativo_stf.json",
+      "fontes": [
+        {
+          "id": "planilha",
+          "url": "https://www.stf.jus.br/arquivo/cms/informativoSTF/anexo/Informativo_Dados/Dados_InformativosSTF.xlsx",
+          "arquivo_bruto": "Dados_InformativosSTF.xlsx"
+        }
+      ]
+    },
     "indices_auxiliares": {
       "familia": "indice_derivado",
       "adaptador": null,

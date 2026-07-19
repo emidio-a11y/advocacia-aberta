@@ -259,6 +259,34 @@ def auditar() -> dict[str, Any]:
             "do computador de origem.",
         )
 
+    informativo_raw = carregar(DATA / "informativo_stf.json")
+    informativos = informativo_raw.get("informativos", {})
+    informativos_sem_edicao = [
+        chave
+        for chave, item in informativos.items()
+        if not item.get("links", {}).get("edicao")
+    ]
+    edicoes_informativo = {item.get("edicao") for item in informativos.values()}
+    meta_informativo = informativo_raw.get("_meta", {})
+    if len(informativos) != meta_informativo.get("totalRegistros"):
+        registrar(
+            "P1",
+            "CONTAGEM_INFORMATIVO",
+            "A quantidade de julgados do Informativo diverge do metadado.",
+        )
+    if informativos_sem_edicao:
+        registrar(
+            "P0",
+            "URL_INFORMATIVO",
+            f"{len(informativos_sem_edicao)} julgados do Informativo não têm link da edição.",
+        )
+    if not (meta_informativo.get("source") or {}).get("license"):
+        registrar(
+            "P1",
+            "LICENCA_INFORMATIVO",
+            "A licença de reprodução do Informativo não está registrada na proveniência.",
+        )
+
     legislacao_ts = (MOTOR / "src" / "search" / "legislacao.ts").read_text(
         encoding="utf-8"
     )
@@ -357,6 +385,12 @@ def auditar() -> dict[str, Any]:
             "export function formatTemaRG",
             ("tema.links",),
         ),
+        (
+            "INFORMATIVO",
+            MOTOR / "src" / "search" / "informativo_stf.ts",
+            "export function formatInformativo",
+            ("item.links",),
+        ),
     )
     for conjunto, path, marcador, referencias in formatadores:
         fonte = path.read_text(encoding="utf-8")
@@ -379,6 +413,7 @@ def auditar() -> dict[str, Any]:
             "src/search/jt.ts",
             "src/search/temas.ts",
             "src/search/temas_rg_stf.ts",
+            "src/search/informativo_stf.ts",
         )
     )
     rotulos_ambiguos = (
@@ -453,6 +488,16 @@ def auditar() -> dict[str, Any]:
                     )
                 ),
                 "caminhos_absolutos_no_meta": absolutos_rg,
+            },
+            "informativo": {
+                "arquivo": "informativo_stf.json",
+                "gerado_em": meta_informativo.get("generatedAt"),
+                "julgados": len(informativos),
+                "edicoes": len(edicoes_informativo),
+                "julgados_com_link": len(informativos) - len(informativos_sem_edicao),
+                "licenca_registrada": bool(
+                    (meta_informativo.get("source") or {}).get("license")
+                ),
             },
             "motor_legislacao": {
                 "codigos_declarados": sorted(declarados),

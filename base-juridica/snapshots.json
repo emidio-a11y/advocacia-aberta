@@ -11,6 +11,14 @@
       "colecao": "temas",
       "mudancas": null
     },
+    "informativo_stf.json": {
+      "versao": 1,
+      "sha256": "6bd79a305c1e743cb1f56089a1d27005aeba383bc7b08b35a35a5159887b7852",
+      "gerado_em": "2026-07-19T04:03:12+00:00",
+      "registros": 11567,
+      "colecao": "informativos",
+      "mudancas": null
+    },
     "jt_stj.json": {
       "versao": 1,
       "sha256": "c34935f5b3fd9412151db0cf9acc09e4685ef489322adebaa6b31e22fb479dd5",

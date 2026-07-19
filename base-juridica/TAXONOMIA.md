@@ -60,6 +60,7 @@ aplicabilidade no link oficial.
 | Súmula vinculante aprovada e vigente | `ENUNCIADO SUMULAR` | `FONTE OFICIAL` — STF | `VINCULANTE` |
 | Súmula comum STF/STJ | `ENUNCIADO SUMULAR` | `FONTE OFICIAL` — tribunal | `NÃO VINCULANTE POR SI SÓ` |
 | Jurisprudência em Teses | `COMPILAÇÃO INSTITUCIONAL` | `FONTE OFICIAL` — STJ | `NÃO VINCULANTE POR SI SÓ` |
+| Informativo STF | `COMPILAÇÃO INSTITUCIONAL` | `FONTE OFICIAL` — STF | `NÃO VINCULANTE POR SI SÓ` |
 | Tema repetitivo | `REGISTRO DE PRECEDENTE QUALIFICADO` | `FONTE OFICIAL` — STJ | derivado da situação e da presença de tese |
 | Tema de repercussão geral (STF) | `REGISTRO DE PRECEDENTE QUALIFICADO` | `FONTE OFICIAL` — STF | derivado da situação e da presença de tese; observância obrigatória (art. 927, III, do CPC) quando o mérito foi julgado |
 | Keywords e termos | `ÍNDICE DERIVADO` | processo registrado no manifesto | nenhum |

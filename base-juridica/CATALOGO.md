@@ -31,8 +31,9 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Temas de repercussão geral | 1 | 1.470 temas | STF |
+| Informativo STF | 1 | 11.567 julgados | 1.211 edições do STF |
 | Índices auxiliares | 275 exclusivos (2 de súmulas, 273 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 554 | — | 51.497.340 bytes, cerca de 51 MB |
+| Total em JSON | 555 | — | 62.111.660 bytes, cerca de 62 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
@@ -309,6 +310,35 @@ da exportação duplica "Descrição" e não traz taxonomia de assuntos; o flag 
 suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas do STF, só
 na base Qlik, e está registrado como limitação no [BACKLOG.md](BACKLOG.md).
 
+## Informativo STF
+
+| Campo | Valor observado |
+|---|---:|
+| Arquivo | `informativo_stf.json` |
+| Gerado em | 2026-07-19 |
+| Julgados | 11.567 |
+| Edições distintas | 1.211 (numeradas de 1 a 1.222) |
+| Julgados com tese registrada | 850 |
+
+O `BASE-025` incorporou o Informativo STF — uma **compilação institucional**, como a
+Jurisprudência em Teses, sem vinculação própria. O snapshot vem do pipeline
+reproduzível a partir da planilha estruturada oficial (`Dados_InformativosSTF.xlsx`,
+9,3 MB), lida por streaming com a biblioteca padrão (XLSX é zip+XML; a planilha usa
+strings inline, sem tabela de strings compartilhadas); as datas de julgamento são
+convertidas do serial do Excel. Cada julgado guarda o link oficial da edição
+(`informativo{N}.htm`, verificado para edições antigas e recentes). A busca usa um
+índice textual em memória sobre título, tese, resumo, matéria, ramo e legislação,
+cobrindo os 11.567 julgados; a coluna "Matéria" (100% preenchida) sustenta a
+recuperação mesmo nos julgados sem resumo ou tese.
+
+**Escopo curado:** foram mantidos os campos curados por julgado (processo, data,
+relator, órgão, situação, título, tese, resumo, matéria, ramo, repercussão geral,
+Tema RG e legislação). As duas colunas de notícia integral foram omitidas para manter
+a base local enxuta — o texto completo de cada julgado fica a um clique no link
+oficial da edição. A licença de reprodução declarada pelo STF ("Permite-se a
+reprodução desta publicação, no todo ou em parte, sem alteração do conteúdo, desde
+que citada a fonte.") está registrada na proveniência do snapshot.
+
 ## Rastreabilidade entregue pelo motor
 
 Os dados guardam links oficiais e, desde a conclusão do `BASE-001`, o motor os
@@ -321,10 +351,11 @@ preserva na saída formatada:
 | Jurisprudência em Teses | sim | sim |
 | Tema repetitivo | sim | sim; inclui todos os links disponíveis no registro |
 | Tema de repercussão geral | sim | sim; inclui todos os links disponíveis no registro |
+| Informativo STF | sim | sim; inclui o link oficial da edição |
 
-Seis testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses,
-temas repetitivos e temas de repercussão geral. O auditor também verifica
-estaticamente que os formatadores continuam usando os campos de URL.
+Sete testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses,
+temas repetitivos, temas de repercussão geral e o Informativo STF. O auditor também
+verifica estaticamente que os formatadores continuam usando os campos de URL.
 
 ## Atualização e reprodutibilidade
 
@@ -357,7 +388,8 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
 - legislação é apresentada como texto normativo oriundo de compilação oficial;
 - súmulas são enunciados sumulares, com efeito vinculante reservado às vinculantes
   aprovadas e vigentes;
-- Jurisprudência em Teses é compilação institucional sem vinculação por si só;
+- Jurisprudência em Teses e o Informativo STF são compilações institucionais sem
+  vinculação por si só;
 - temas repetitivos do STJ e temas de repercussão geral do STF são registros de
   precedentes qualificados, e o efeito varia conforme situação e presença de tese;
 - palavras-chave e termos são índices derivados, sem força jurídica.

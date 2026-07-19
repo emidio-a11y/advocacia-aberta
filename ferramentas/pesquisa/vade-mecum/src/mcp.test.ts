@@ -87,6 +87,11 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
   expect(temasRG?.description).toContain("repercussão geral do STF");
   expect(temasRG?.description).toContain("art. 927, III, do CPC");
 
+  const informativo = tools!.find((tool) => tool.name === "buscar_informativo");
+  expect(informativo?.description).toContain("11.567 julgados");
+  expect(informativo?.description).toContain("compilação institucional");
+  expect(informativo?.description).toContain("não é vinculante por si só");
+
   const descricoes = tools!.map((tool) => tool.description).join("\n");
   expect(descricoes).not.toContain("fontes primárias");
   expect(descricoes).not.toContain("Força: ORIENTATIVA");

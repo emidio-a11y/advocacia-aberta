@@ -12,6 +12,7 @@ import {
 } from "./taxonomia.js";
 import { buscarTemas, formatTema } from "./temas.js";
 import { buscarTemasRG, formatTemaRG } from "./temas_rg_stf.js";
+import { buscarInformativos, formatInformativo } from "./informativo_stf.js";
 
 describe("rastreabilidade dos formatadores", () => {
   test("inclui a fonte oficial da legislação", () => {
@@ -67,6 +68,18 @@ describe("rastreabilidade dos formatadores", () => {
     expect(formatado).toContain(
       NATUREZAS_DOCUMENTAIS.registroPrecedenteQualificado,
     );
+  });
+
+  test("inclui o link oficial da edição do Informativo STF", () => {
+    const item = buscarInformativos("informativo 1222", 1)[0];
+    expect(item).toBeDefined();
+    expect(item.links.edicao).toBeTruthy();
+
+    const formatado = formatInformativo(item);
+    expect(formatado).toContain(item.links.edicao!);
+    expect(formatado).toContain(FONTE_OFICIAL);
+    expect(formatado).toContain(NATUREZAS_DOCUMENTAIS.compilacaoInstitucional);
+    expect(formatado).toContain("NÃO VINCULANTE POR SI SÓ");
   });
 });
 
