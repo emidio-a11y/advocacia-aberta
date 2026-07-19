@@ -25,6 +25,9 @@ jobs:
       - name: Validar esquemas, campos obrigatórios e referências cruzadas
         run: python3 ferramentas/manutencao/validar_integridade.py
 
+      - name: Verificar o manifesto de versões dos snapshots
+        run: python3 ferramentas/manutencao/gerar_snapshots.py --verificar
+
       - name: Testar pipeline de atualização da base jurídica
         run: python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
 

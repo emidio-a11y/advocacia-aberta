@@ -222,18 +222,28 @@ Se o gate volumétrico for acionado, examine os IDs alterados e acrescente
 `--aceitar-mudanca-volumosa` somente depois de confirmar que a mudança em massa é
 intencional.
 
-Depois da promoção, regenere os índices derivados (obrigatório para súmulas e
-legislação; a auditoria acusa índice dessincronizado) e execute a auditoria e
-os testes do motor:
+Depois da promoção — e **antes do commit correspondente** — regenere os
+índices derivados (obrigatório para súmulas e legislação; a auditoria acusa
+índice dessincronizado), atualize o manifesto de versões dos snapshots (o
+resumo das mudanças é computado contra o estado ainda versionado no Git) e
+execute a auditoria e os testes do motor:
 
 ```bash
 python3 ferramentas/manutencao/gerar_indices_derivados.py --escrever
+python3 ferramentas/manutencao/gerar_snapshots.py --escrever
 python3 ferramentas/manutencao/auditar_base_juridica.py --strict
 python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
 cd ferramentas/pesquisa/vade-mecum
 bun run typecheck
 bun test
 ```
+
+O manifesto [`snapshots.json`](snapshots.json) (contrato em
+[`snapshots.schema.json`](snapshots.schema.json)) registra, por arquivo
+publicado, a versão, o SHA-256, a data de geração, a contagem de registros e o
+resumo das mudanças promovidas (quantos IDs foram adicionados, removidos e
+alterados, com amostra). `gerar_snapshots.py --verificar` roda no CI e acusa
+promoção sem o manifesto atualizado.
 
 ## Política de falha
 

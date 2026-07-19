@@ -37,7 +37,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 |---|---|---|---|
 | `BASE-011` | Criar testes de esquema e integridade | CI valida JSON, campos obrigatórios, contagens, URLs, códigos e referências cruzadas | **concluído em 2026-07-19** |
 | `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | **concluído em 2026-07-17** |
-| `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
+| `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | **concluído em 2026-07-19** |
 | `BASE-014` | Retirar o identificador legado do motor | Adotar `Vade Mecum`/`vade-mecum` em caminhos, pacote, MCP, setup, skills, CI e documentação, sem alias com o nome anterior | **concluído em 2026-07-17** |
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
@@ -47,6 +47,28 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-020` | A busca de temas repetitivos usa somente os índices legados `keywords` e `terms`, sem fallback textual: os 57 temas 1406 a 1462, incorporados pela atualização de 2026-07-19, só são encontrados pela busca por número | Gerador determinístico cobre todos os temas publicados (como o `BASE-019` fez para a legislação) ou a busca ganha fallback textual; teste garante que nenhum tema publicado fica invisível | aberto |
 
 ## Itens concluídos
+
+### `BASE-013` — snapshots e diferenças versionados
+
+- o manifesto [`snapshots.json`](snapshots.json) (contrato em
+  [`snapshots.schema.json`](snapshots.schema.json)) registra, por arquivo
+  publicado das famílias rastreadas (273 diplomas de legislação, três conjuntos
+  de súmulas, Jurisprudência em Teses e temas repetitivos), a versão, o
+  SHA-256, a data de geração declarada, a contagem de registros e o resumo das
+  mudanças promovidas (IDs adicionados, removidos e alterados, com amostra de
+  até dez);
+- o resumo é computado por `gerar_snapshots.py --escrever` contra o estado
+  ainda versionado no Git — por isso o passo entra depois da promoção e antes
+  do commit, e a primeira versão de cada arquivo é a linha de base (resumo
+  nulo);
+- `--verificar` confere SHA-256, contagens e cobertura sem rede, roda no CI em
+  passo próprio e acusa promoção que esqueceu o manifesto;
+- os índices derivados ficam de fora por já terem manifesto e verificação
+  próprios (`BASE-010`/`BASE-019`);
+- cinco testes cobrem coerência do manifesto publicado, cobertura, o resumo de
+  mudanças, a linha de base e a detecção de SHA divergente;
+- a verificação completa está em
+  [`verificacoes/BASE-013.md`](verificacoes/BASE-013.md).
 
 ### `BASE-011` — testes de esquema e integridade
 

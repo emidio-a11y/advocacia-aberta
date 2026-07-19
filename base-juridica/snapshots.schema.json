@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/emidio-a11y/advocacia-aberta/blob/main/base-juridica/snapshots.schema.json",
+  "title": "Manifesto de versões dos snapshots publicados",
+  "type": "object",
+  "required": ["schema_version", "descricao", "arquivos"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "descricao": { "type": "string" },
+    "arquivos": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["versao", "sha256", "gerado_em", "registros", "colecao", "mudancas"],
+        "properties": {
+          "versao": { "type": "integer", "minimum": 1 },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "gerado_em": { "type": ["string", "null"] },
+          "registros": { "type": "integer", "minimum": 0 },
+          "colecao": { "type": "string" },
+          "mudancas": {
+            "type": ["object", "null"],
+            "description": "Nula na primeira versão (linha de base); nas seguintes, resumo do diff contra o estado versionado no Git antes da promoção.",
+            "required": ["adicionados", "removidos", "alterados"],
+            "properties": {
+              "adicionados": { "type": "integer", "minimum": 0 },
+              "removidos": { "type": "integer", "minimum": 0 },
+              "alterados": { "type": "integer", "minimum": 0 },
+              "amostra_adicionados": { "type": "array", "items": { "type": "string" } },
+              "amostra_removidos": { "type": "array", "items": { "type": "string" } },
+              "amostra_alterados": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    }
+  }
+}

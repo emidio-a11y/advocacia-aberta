@@ -1,0 +1,2231 @@
+{
+  "$schema": "./snapshots.schema.json",
+  "schema_version": 1,
+  "descricao": "Manifesto de versões dos snapshots publicados: versão, SHA-256, data de geração, contagem e resumo das mudanças promovidas (BASE-013).",
+  "arquivos": {
+    "flash_temas_stj.json": {
+      "versao": 1,
+      "sha256": "5e996897f2d600974827c8e26915fbcd4f0a17ef14f380e3f77241c1a2b3ccdb",
+      "gerado_em": "2026-07-19T00:29:27+00:00",
+      "registros": 1462,
+      "colecao": "temas",
+      "mudancas": null
+    },
+    "jt_stj.json": {
+      "versao": 1,
+      "sha256": "c34935f5b3fd9412151db0cf9acc09e4685ef489322adebaa6b31e22fb479dd5",
+      "gerado_em": "2026-07-19",
+      "registros": 3508,
+      "colecao": "teses",
+      "mudancas": null
+    },
+    "lei_adct.json": {
+      "versao": 1,
+      "sha256": "2347ee771150cd91e067c5de471c63f1e8f8d7be400636b723d288b413042e75",
+      "gerado_em": "2026-07-19",
+      "registros": 148,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cag.json": {
+      "versao": 1,
+      "sha256": "1814b4c702377dc5c8bbe391a77d86f22c89c0068b858857890055f9ab734c63",
+      "gerado_em": "2026-07-19",
+      "registros": 205,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cba.json": {
+      "versao": 1,
+      "sha256": "cfe8ffa28cff92503f0def66e931398d2f42acf5c691129d3cb0236e48564456",
+      "gerado_em": "2026-07-19",
+      "registros": 326,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cbt.json": {
+      "versao": 1,
+      "sha256": "7952bf4b61128a4724e2a483ce6322c6cfb0973464d5586b4bc8391fc78c89a9",
+      "gerado_em": "2026-07-19",
+      "registros": 105,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cc.json": {
+      "versao": 1,
+      "sha256": "c7ed02fcddd7dca8dc6f3ce28cda66f568740661d27500f5e218cb56271eab30",
+      "gerado_em": "2026-07-19",
+      "registros": 2084,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ccom.json": {
+      "versao": 1,
+      "sha256": "874fbe036313cb3d68aa7a0d560b4e60d40ca98baf46ccd9697651424c0c6de7",
+      "gerado_em": "2026-07-19",
+      "registros": 448,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cdc.json": {
+      "versao": 1,
+      "sha256": "00ccc705172fdbefeccbade67d7dcc4a11f488697f915744d54b5b98452485bf",
+      "gerado_em": "2026-07-19",
+      "registros": 131,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ce.json": {
+      "versao": 1,
+      "sha256": "fd46d054bea0e3880ec30cf3001415d0a4e870d98474e18ad1bff75924aced2f",
+      "gerado_em": "2026-07-19",
+      "registros": 387,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cf.json": {
+      "versao": 1,
+      "sha256": "9a733315f741862e2458ae7a6d671e5cdb0861dfdb0c55c83644aa9df588fabb",
+      "gerado_em": "2026-07-19",
+      "registros": 276,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cflo.json": {
+      "versao": 1,
+      "sha256": "93886ee6e1891e9dee60278b51f2249161daa811da92e30736b12f30074fd6c5",
+      "gerado_em": "2026-07-19",
+      "registros": 91,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_clt.json": {
+      "versao": 1,
+      "sha256": "359086ca513bd868abaef5b014ac8aba2f3d70727db257ffc946d01f77f3df00",
+      "gerado_em": "2026-07-19",
+      "registros": 1027,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cmin.json": {
+      "versao": 1,
+      "sha256": "71f2c93c611b4dd30c1581bcc9c5cb264b18f396355357bd9e5dc3fe7dff1d01",
+      "gerado_em": "2026-07-19",
+      "registros": 102,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cp.json": {
+      "versao": 1,
+      "sha256": "f3c1c416c58c190a536fdfbf17fa677fe4c7813eb3e98e88b4fd2808a2b713eb",
+      "gerado_em": "2026-07-19",
+      "registros": 432,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cpc.json": {
+      "versao": 1,
+      "sha256": "31c6e3dc57c02275995f6ab6c7679e6c4c10f4501c35aac033ae914c5e496da7",
+      "gerado_em": "2026-07-19",
+      "registros": 1073,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cpm.json": {
+      "versao": 1,
+      "sha256": "78b50b41c864345498f8ff7ea900c615296304163a33a7fd570914cb419a148c",
+      "gerado_em": "2026-07-19",
+      "registros": 411,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cpp.json": {
+      "versao": 1,
+      "sha256": "da12b61edd3513c2b243fedc3348fdf419ad62655d597fe40220332e5611b69f",
+      "gerado_em": "2026-07-19",
+      "registros": 849,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_cppm.json": {
+      "versao": 1,
+      "sha256": "463661775e5c6bd98c4e27d0c7cd4457c66c370cd761b239caf54d826cdb68c4",
+      "gerado_em": "2026-07-19",
+      "registros": 716,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ctb.json": {
+      "versao": 1,
+      "sha256": "7e537461f5b0bf510167d80bea18439ec222f8b012825ed0eaf7b33f05cf80b7",
+      "gerado_em": "2026-07-19",
+      "registros": 391,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ctn.json": {
+      "versao": 1,
+      "sha256": "bfcf75d051d6159e780206a6bed1b1c54a45ebc87f56921e34d021bd03e95959",
+      "gerado_em": "2026-07-19",
+      "registros": 209,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d10278.json": {
+      "versao": 1,
+      "sha256": "14f169ef7c7924f3ff229c568a6428359793a22627b6cac0d1fe5130f09a98e7",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d11034.json": {
+      "versao": 1,
+      "sha256": "ae423afaf862dee38a1ad26bad1d926bede5c92ff7a8cea75395734d7fcdc81b",
+      "gerado_em": "2026-07-19",
+      "registros": 18,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d2044.json": {
+      "versao": 1,
+      "sha256": "4a93c56b282efecaf992623f6a05e1a412c3c0bcf7f87d9fb5e17ba648acae5e",
+      "gerado_em": "2026-07-19",
+      "registros": 57,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d2181.json": {
+      "versao": 1,
+      "sha256": "60065b6ab6c22a445d47b0e65fd3e04b60706855614d3a3d9c15a3a7bd818a0e",
+      "gerado_em": "2026-07-19",
+      "registros": 80,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d3413.json": {
+      "versao": 1,
+      "sha256": "0c33365461d47d4f4213971516b820fa43474a003b811254b5430985dda42d25",
+      "gerado_em": "2026-07-19",
+      "registros": 2,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d4311.json": {
+      "versao": 1,
+      "sha256": "53d4859589a65f9e2e36c836b80ef99e9de8613a85dd7cf79328ef0a7103f45c",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d70235.json": {
+      "versao": 1,
+      "sha256": "b5fb6ccd1144d8f61c2c3bc74aeea727e10b5ce862d8b7cafe6819127d9fb6dc",
+      "gerado_em": "2026-07-19",
+      "registros": 75,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d7962.json": {
+      "versao": 1,
+      "sha256": "4606446fabb2cd659aab169af7aa782d25ecc333d536c5f1f3b74c824787d032",
+      "gerado_em": "2026-07-19",
+      "registros": 9,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d8660.json": {
+      "versao": 1,
+      "sha256": "807875a595b67bad7f7c224477ddb3a2f0f791561f9cf4b86cbad27a0320aee0",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d9039.json": {
+      "versao": 1,
+      "sha256": "80f8cfdeb03e9f975d7ddd1cb7ff38be5e749a86b2994f6063eebac9bc2c144e",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d9734.json": {
+      "versao": 1,
+      "sha256": "3e854bebd1e6f1e2cf9ae5e77789a1494e04c65267b632aa8c18a3d2a6cb5ed7",
+      "gerado_em": "2026-07-19",
+      "registros": 4,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_d9936.json": {
+      "versao": 1,
+      "sha256": "05ae42cc75517d1696edf2c9551a1d0912777c1ddbbf4aca164dbbb8f31bcda3",
+      "gerado_em": "2026-07-19",
+      "registros": 23,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_dl1598.json": {
+      "versao": 1,
+      "sha256": "7109776c0087b5c0ddcf402e7f9dd60551c5ea036ee5680f80a2df8786f26834",
+      "gerado_em": "2026-07-19",
+      "registros": 71,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_dl167.json": {
+      "versao": 1,
+      "sha256": "3b4d4ce8fd48af238b366a3540b65a969ea4692bdef6dbb811fc1c6a82c9032f",
+      "gerado_em": "2026-07-19",
+      "registros": 84,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_dl3365.json": {
+      "versao": 1,
+      "sha256": "8099a326106ebfc7418e3dcae2cc109b45a1ccb99a43a34a926fc62b212418c8",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_dl73.json": {
+      "versao": 1,
+      "sha256": "4984d35bf2850d7c32f1ecb0054c883b3f92947af2cce9ca7cad9ed3b7a7c024",
+      "gerado_em": "2026-07-19",
+      "registros": 159,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_dl911.json": {
+      "versao": 1,
+      "sha256": "fc0e30c1b1707940ea3ea7d560a0bf5baf0a64ff2b8fa89ec34f5367c9daa638",
+      "gerado_em": "2026-07-19",
+      "registros": 16,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_eca.json": {
+      "versao": 1,
+      "sha256": "987488c42a4829805ae61f2a26f5bd6fc5806167d926d83199fab26582f3a80e",
+      "gerado_em": "2026-07-19",
+      "registros": 325,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ecid.json": {
+      "versao": 1,
+      "sha256": "dd8d76151974588e2adeb2edf8192dd310675664f0e9e6c690821cf7f292516a",
+      "gerado_em": "2026-07-19",
+      "registros": 62,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ed.json": {
+      "versao": 1,
+      "sha256": "7f0f35067e6b2f7162666789d5cb6cf008fc361ecdee85ec4a485e1458844d9e",
+      "gerado_em": "2026-07-19",
+      "registros": 41,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_edt.json": {
+      "versao": 1,
+      "sha256": "7bcc4401309ab569acf53541a78454df4a27372b0f633dcaa344f117d69c13f3",
+      "gerado_em": "2026-07-19",
+      "registros": 59,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ei.json": {
+      "versao": 1,
+      "sha256": "93dad5556fe1d479149905794bd436d6926785aedc7e5be2b8a681f1f0d8f477",
+      "gerado_em": "2026-07-19",
+      "registros": 118,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_eind.json": {
+      "versao": 1,
+      "sha256": "941a7131bb3d6f6e5b877efd5d2c58d31f25b8e422d1eeceb56f915105cf7af8",
+      "gerado_em": "2026-07-19",
+      "registros": 68,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_eir.json": {
+      "versao": 1,
+      "sha256": "4f888bd4599572b1d8c62f2b55996d17e834349b1ee4a8b7f1700e025e728989",
+      "gerado_em": "2026-07-19",
+      "registros": 65,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ejuv.json": {
+      "versao": 1,
+      "sha256": "91ded4a0e337f46f109fceef7a34d793d621faf7a87fb8258423975eb5d7f7c8",
+      "gerado_em": "2026-07-19",
+      "registros": 48,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_emet.json": {
+      "versao": 1,
+      "sha256": "aca4fa455e9e2d8fe1bd39c742c6d836ea61e92a32c8c51da4e33a383a7687ff",
+      "gerado_em": "2026-07-19",
+      "registros": 27,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_emil.json": {
+      "versao": 1,
+      "sha256": "cbaff73048db731c74d090601c49a8d30f58408c3d1f860da24b83bf6538c7ee",
+      "gerado_em": "2026-07-19",
+      "registros": 166,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_emus.json": {
+      "versao": 1,
+      "sha256": "59805e3775292b9529c462413955433b79d159f53a033d415916167757221564",
+      "gerado_em": "2026-07-19",
+      "registros": 70,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_eoab.json": {
+      "versao": 1,
+      "sha256": "b372a5a74ce5d3d234338c6f3dac53be55f4ec54b1ad30c16c7e291e3e90cf7c",
+      "gerado_em": "2026-07-19",
+      "registros": 96,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_epc.json": {
+      "versao": 1,
+      "sha256": "7b891b529692222bd41d31f706614555efd37ccfc6d9164d16f4e948ed85536a",
+      "gerado_em": "2026-07-19",
+      "registros": 15,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_epd.json": {
+      "versao": 1,
+      "sha256": "40b40d8566777c158673a77000ea3570e857096539150548d14a9f76c8f69e07",
+      "gerado_em": "2026-07-19",
+      "registros": 130,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_eref.json": {
+      "versao": 1,
+      "sha256": "7b37b20aa78e1f056d92802a48c5f70a381b840ed2ba80df6e2c06f203ffb04e",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_et.json": {
+      "versao": 1,
+      "sha256": "57e866c5d128db6fa2003f3b083f4ec0eb7d1b39a138eca1590b244ee6787dbc",
+      "gerado_em": "2026-07-19",
+      "registros": 129,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_fgts.json": {
+      "versao": 1,
+      "sha256": "b922a6184864d4706c988fba589633f00127d6be9ba263d3d893b7cf8d635836",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10101.json": {
+      "versao": 1,
+      "sha256": "19788ca6d6a1ec409ae688cb212348c1cc10aeec885c2f39582181e75fa4c93e",
+      "gerado_em": "2026-07-19",
+      "registros": 10,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10185.json": {
+      "versao": 1,
+      "sha256": "232d416048b124fe752f65dff591948b7a3984c64c8aa7b9aac1a2c9020cbb9c",
+      "gerado_em": "2026-07-19",
+      "registros": 5,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10233.json": {
+      "versao": 1,
+      "sha256": "1da78a322daf8b450f33f13af6e2501e1ac1cdf14ac8261fdda2b67671164281",
+      "gerado_em": "2026-07-19",
+      "registros": 154,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10259.json": {
+      "versao": 1,
+      "sha256": "c66312377d4147babb8068aeacc81a3801384a8d61a19c87da70441090424198",
+      "gerado_em": "2026-07-19",
+      "registros": 27,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10522.json": {
+      "versao": 1,
+      "sha256": "635eadeff450fc09fa2c233389d649ec38506d2aaad087a691526d2e3e8d1397",
+      "gerado_em": "2026-07-19",
+      "registros": 68,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10637.json": {
+      "versao": 1,
+      "sha256": "754886c47805b22611f468fe70fbf29f8f065c464ecefea69658f50ca97802fd",
+      "gerado_em": "2026-07-19",
+      "registros": 65,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10666.json": {
+      "versao": 1,
+      "sha256": "eeff6e77adbe70b3c0f5882decdc6afccc32c3a3fbe443173b31726042e24b2d",
+      "gerado_em": "2026-07-19",
+      "registros": 15,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10684.json": {
+      "versao": 1,
+      "sha256": "a8094c1ed968fda14f054a6213459c4555573b44eb6edd0ebb1cc996279f6fc1",
+      "gerado_em": "2026-07-19",
+      "registros": 29,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10779.json": {
+      "versao": 1,
+      "sha256": "ebba534de9abd07d6f2e6001fdcc78387c98d6212e372832a2bcd12e3e19c15a",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10820.json": {
+      "versao": 1,
+      "sha256": "a9586fbbcc224569df00b11b1ef988a3bbef5e8311cae5b992f2fdff7edc743f",
+      "gerado_em": "2026-07-19",
+      "registros": 23,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10833.json": {
+      "versao": 1,
+      "sha256": "bcc5821ec5b34e0a8eaf0b78699e61f9fff1b4600ea1fec3ba549ae1e741ff09",
+      "gerado_em": "2026-07-19",
+      "registros": 95,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10865.json": {
+      "versao": 1,
+      "sha256": "453f00031a9cb2f5c6f271ff16d82e257aef3103ba0e5d823c91bfc9fb75ffb8",
+      "gerado_em": "2026-07-19",
+      "registros": 55,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10887.json": {
+      "versao": 1,
+      "sha256": "1e359276d3dab17d7d231d86cb0aab36622cd1d4dbbe22e5587a023f28766cf3",
+      "gerado_em": "2026-07-19",
+      "registros": 20,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10931.json": {
+      "versao": 1,
+      "sha256": "ebf90c8031cb7f92685ff09697d8143b4b7b569c13896bfd8a83f7b14ccdb6f7",
+      "gerado_em": "2026-07-19",
+      "registros": 77,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l10962.json": {
+      "versao": 1,
+      "sha256": "b9d7d7ecb42617a7e7479a53e32aeaa89b5eb8b2e8bc911ea6eef8048ecd9722",
+      "gerado_em": "2026-07-19",
+      "registros": 9,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11076.json": {
+      "versao": 1,
+      "sha256": "4a44551904cd8364e25c2cf749edd13752ac70aa5f647632b94ec84d8f5b6a33",
+      "gerado_em": "2026-07-19",
+      "registros": 63,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11079.json": {
+      "versao": 1,
+      "sha256": "8fb0eaec869baf70d3d1afb756585bae7ee9691c7430adc569a24065191f3175",
+      "gerado_em": "2026-07-19",
+      "registros": 32,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11107.json": {
+      "versao": 1,
+      "sha256": "e544901669ba6413fcd9008795613f720188d63294f54a2cf753a2f0d62a786a",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11417.json": {
+      "versao": 1,
+      "sha256": "10bdc629d97847c7519a127e2c3d7090fc64d0f1bb11b1b06fc16eee7886b612",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11419.json": {
+      "versao": 1,
+      "sha256": "9fa2d13173f6dd68649afcc421bef37a378e76072eb3f991b8467f33ae6dc421",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11441.json": {
+      "versao": 1,
+      "sha256": "bd1c9d1598b217e7ca0a169463438dbb5765edeab7674c9e62a60d13b31532e9",
+      "gerado_em": "2026-07-19",
+      "registros": 5,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11445.json": {
+      "versao": 1,
+      "sha256": "060772155738a52f5a1ee29484046ce8635585cf744ca2820bb85c24a7617aa2",
+      "gerado_em": "2026-07-19",
+      "registros": 91,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11598.json": {
+      "versao": 1,
+      "sha256": "97548ea722a19c11328cf96a81c54d2412bbb5e3da2a61464f8c31ea68c0f910",
+      "gerado_em": "2026-07-19",
+      "registros": 24,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11638.json": {
+      "versao": 1,
+      "sha256": "86616cb7f0c8e89599905c6085d42f1817bf6aa68ec1ad67cd19cf883ac1104a",
+      "gerado_em": "2026-07-19",
+      "registros": 10,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11770.json": {
+      "versao": 1,
+      "sha256": "2eb633ddf41b9234fe8093106897645cde5bdb4e22021761ad5b262243affb57",
+      "gerado_em": "2026-07-19",
+      "registros": 9,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11788.json": {
+      "versao": 1,
+      "sha256": "6d116add7bcbae46033fa8efd60dba97733b35946d7b4ae10de851d520c38c76",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11795.json": {
+      "versao": 1,
+      "sha256": "014e9d82d996846119fefbafb10389b3850f475c60189cc0e12ebb51257a09fc",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11804.json": {
+      "versao": 1,
+      "sha256": "563ed9669ee2a67c851c9e5a512ede239d713bb78334a0a9952764e175500769",
+      "gerado_em": "2026-07-19",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l11977.json": {
+      "versao": 1,
+      "sha256": "fc89990b2e7a5472b5f4cdda308f9f01a1aa1800b0fda8f11a66a17221959ad9",
+      "gerado_em": "2026-07-19",
+      "registros": 80,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12010.json": {
+      "versao": 1,
+      "sha256": "fe1df877b841d0c9d7e0c907275e34cfc4716f10da9d2a73bce8ee40a7444227",
+      "gerado_em": "2026-07-19",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12030.json": {
+      "versao": 1,
+      "sha256": "3224d7f992ef71088d8387ef2a3268743b96aef7d816f27294c1dd729b3cb0e1",
+      "gerado_em": "2026-07-19",
+      "registros": 6,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12037.json": {
+      "versao": 1,
+      "sha256": "2120ece939cfe65bfa89bab189fc0e6b3e66971c182b0af999a63fb870955a18",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12153.json": {
+      "versao": 1,
+      "sha256": "15b6e3c4b2043fefa8d3302b96517da0fefa53a3038168a36faccd3d051ad4ec",
+      "gerado_em": "2026-07-19",
+      "registros": 28,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12305.json": {
+      "versao": 1,
+      "sha256": "81ad3f887f464fccd82127d9a407a2b33c9dc22829d8e09ff67855bf2c6d8c2a",
+      "gerado_em": "2026-07-19",
+      "registros": 57,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12318.json": {
+      "versao": 1,
+      "sha256": "78161cdb69bb42ebd84908d8717c5b8e01f8ce9d87bc02e5083d9750f24510f1",
+      "gerado_em": "2026-07-19",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12414.json": {
+      "versao": 1,
+      "sha256": "8aa94deb752eb7d46ea6685c6f4d7f9f38ef1c3a40c9726eec8904da54077607",
+      "gerado_em": "2026-07-19",
+      "registros": 20,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12506.json": {
+      "versao": 1,
+      "sha256": "3aaf56cb60561763ffa1147f8c6ce972fcb3d9d051b82f0b0236edfcf751ab16",
+      "gerado_em": "2026-07-19",
+      "registros": 2,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12529.json": {
+      "versao": 1,
+      "sha256": "6700e52acb3c0c019da552c0953a1ecbdf84f058b5e92eda8094bf59e9dc5505",
+      "gerado_em": "2026-07-19",
+      "registros": 130,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12618.json": {
+      "versao": 1,
+      "sha256": "8a951ef42416891c3741365651af6aba2cc0773054164bfe694cf19a3d6fb09d",
+      "gerado_em": "2026-07-19",
+      "registros": 33,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12741.json": {
+      "versao": 1,
+      "sha256": "a4bce6adb1ee1cc92e1f8b8a2ffc01f7d8ebac2455cf8a0cbe4d52b3ef2921da",
+      "gerado_em": "2026-07-19",
+      "registros": 6,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12815.json": {
+      "versao": 1,
+      "sha256": "7d0c2ae57c7018376babb65db352c0b484beb003633c75a0fbc5f303be4ca4ae",
+      "gerado_em": "2026-07-19",
+      "registros": 81,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12846.json": {
+      "versao": 1,
+      "sha256": "e16b87e5d7bd8595feffe6e0dbb79fb6ee6672100eb774eb71402f0069d6adc8",
+      "gerado_em": "2026-07-19",
+      "registros": 33,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12850.json": {
+      "versao": 1,
+      "sha256": "bd30b8dcc03c4a9c08be7a29ae71edf02dfe2e719c5f301465b02a9993e40761",
+      "gerado_em": "2026-07-19",
+      "registros": 36,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l12865.json": {
+      "versao": 1,
+      "sha256": "9d6b87c3408cd9e58f7741f01e21ffbc6ed31c41f0aca8e0ec367b318e3092fd",
+      "gerado_em": "2026-07-19",
+      "registros": 46,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13019.json": {
+      "versao": 1,
+      "sha256": "4aa82704997634cbcd72cae6912b85106b83e1ab5969c7252316a4cca118f76f",
+      "gerado_em": "2026-07-19",
+      "registros": 100,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13058.json": {
+      "versao": 1,
+      "sha256": "4ed915d607e0e8b85a45f45a031f8c4c6208d15f4d1afc0045f41fe852953a05",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13103.json": {
+      "versao": 1,
+      "sha256": "7b36ca17284958fb69c63d0d0a6005591ed565698f49cbfdfe38d6944b38d7f3",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13116.json": {
+      "versao": 1,
+      "sha256": "7f9e3118410076d4f66107cdbf584d4c7dfcdb8946bfedebfc4a231df1628206",
+      "gerado_em": "2026-07-19",
+      "registros": 31,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13140.json": {
+      "versao": 1,
+      "sha256": "3e48b0c52874bec1c96028a66a659c706b55162e561214a064fcf0e42d5d32b3",
+      "gerado_em": "2026-07-19",
+      "registros": 48,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13165.json": {
+      "versao": 1,
+      "sha256": "7e55980defe7a3345f91a962a961ffe9f325086fb1b81f7d133865c43614e362",
+      "gerado_em": "2026-07-19",
+      "registros": 15,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13257.json": {
+      "versao": 1,
+      "sha256": "7d5c4e7a21af81e9dbc33b2902b849e2d6d5dccd04111ac54977d7952311491a",
+      "gerado_em": "2026-07-19",
+      "registros": 43,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13260.json": {
+      "versao": 1,
+      "sha256": "031fe3ae73f21b0dbcd521c58c6293be1c60b8743e936bc6ce9ce5b8ccea50c4",
+      "gerado_em": "2026-07-19",
+      "registros": 20,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13300.json": {
+      "versao": 1,
+      "sha256": "9308554da31de240fca5c1345e7fdf07f2c05ed2576e032e10e6a6b823bd116d",
+      "gerado_em": "2026-07-19",
+      "registros": 15,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13303.json": {
+      "versao": 1,
+      "sha256": "9329e777f6b315718f43a7edd3e83026ee44816ce93565820608fa85e04a8d97",
+      "gerado_em": "2026-07-19",
+      "registros": 98,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13431.json": {
+      "versao": 1,
+      "sha256": "2f8cd260c1529023b5c888f44a184e3c4e4acf7026e803a0e6ec4e0b24dc3175",
+      "gerado_em": "2026-07-19",
+      "registros": 29,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13455.json": {
+      "versao": 1,
+      "sha256": "4dd838c631bedc5c71bf7f09de1535402478fef4dddd28f51246908b47a09e35",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13460.json": {
+      "versao": 1,
+      "sha256": "97db2d1a55010f2af781a140c8f62e1e9f9a4db8b6a2ec9adc19a47322ec5b8d",
+      "gerado_em": "2026-07-19",
+      "registros": 26,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13465.json": {
+      "versao": 1,
+      "sha256": "b63b73b67297bd42495147e03e25a68ce289df0f549d02085aea96c009e16a9a",
+      "gerado_em": "2026-07-19",
+      "registros": 111,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13487.json": {
+      "versao": 1,
+      "sha256": "951668f8de1dd89d0d8d4bca89881a5b594731c1a6da2f3d3172e931582f33be",
+      "gerado_em": "2026-07-19",
+      "registros": 5,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13488.json": {
+      "versao": 1,
+      "sha256": "e0dd9dc46dcb2de960d3d8b970067d14f704160b9d1672c0e9d11d2da9db3d80",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13726.json": {
+      "versao": 1,
+      "sha256": "456103ff019b41252ba7e63649cda17a9035370db540c210793d035f1d1fcdbd",
+      "gerado_em": "2026-07-19",
+      "registros": 10,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13775.json": {
+      "versao": 1,
+      "sha256": "c6c58d7ab6716633a5fc6faf896905359e93a5c61926a6a9a940cc4f40b7bb43",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13777.json": {
+      "versao": 1,
+      "sha256": "2b016e94ccde2fe7484edc66eb0bb89fd1be25f28e708969f4dbc646dac75590",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13786.json": {
+      "versao": 1,
+      "sha256": "c37722678c6bcebd7b1cbc8961130ebbba18f13a8eab8cc62635f6f95a11dbb7",
+      "gerado_em": "2026-07-19",
+      "registros": 4,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13848.json": {
+      "versao": 1,
+      "sha256": "6a6e6207260be3eb2a889e1327dd0269a68507b8b0365fe7253c5b5b4fcf6b37",
+      "gerado_em": "2026-07-19",
+      "registros": 53,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13869.json": {
+      "versao": 1,
+      "sha256": "aeee5b3e171ab3eeb7f97009de4a1d44f948b4218bf7a78adde23b59fd18cb45",
+      "gerado_em": "2026-07-19",
+      "registros": 46,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13874.json": {
+      "versao": 1,
+      "sha256": "22ed6f9a8fa9007f2fb1eb625992f82856f358d3abd6d73d3505a62849e012a5",
+      "gerado_em": "2026-07-19",
+      "registros": 21,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13966.json": {
+      "versao": 1,
+      "sha256": "d79f967ff3f0c65940a6d1ccfe0b7913cf3067065171d887501f739c5fa9a954",
+      "gerado_em": "2026-07-19",
+      "registros": 10,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l13988.json": {
+      "versao": 1,
+      "sha256": "10f96b72164c7cd1d0ea2bdffb5e62eb7f821fdc039f1b08886213be9d5bd965",
+      "gerado_em": "2026-07-19",
+      "registros": 39,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14026.json": {
+      "versao": 1,
+      "sha256": "b249a1c7a7d8e7e704ecf00bbbfd194cbc60ad7b0327855ad6ed29128cd3dfae",
+      "gerado_em": "2026-07-19",
+      "registros": 24,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14063.json": {
+      "versao": 1,
+      "sha256": "4c89cc1f0b0390b437a838c194df9542b3311c9b237b68a6e8eef251f91731f2",
+      "gerado_em": "2026-07-19",
+      "registros": 21,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14113.json": {
+      "versao": 1,
+      "sha256": "35592e2e5b9a0ce88c8a8fef8e0eec9b83b9953c242a9051663e6a723189406b",
+      "gerado_em": "2026-07-19",
+      "registros": 58,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14129.json": {
+      "versao": 1,
+      "sha256": "dfed65d441395c88c850644488042940540fb8146a5c7ca60e8b2085d4a8c775",
+      "gerado_em": "2026-07-19",
+      "registros": 55,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14181.json": {
+      "versao": 1,
+      "sha256": "57a037404536caff69fa990cff3586b4e61327850f772047463094298c90cc7f",
+      "gerado_em": "2026-07-19",
+      "registros": 5,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14192.json": {
+      "versao": 1,
+      "sha256": "c3a64023985e088a371e4cdf46e46910fc9c2b6a7b636106bf58d2f246d0efdb",
+      "gerado_em": "2026-07-19",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14195.json": {
+      "versao": 1,
+      "sha256": "7c7323bc7e83512f140eb5c0a4ea4fbe57851567530b860bab01279301e9b666",
+      "gerado_em": "2026-07-19",
+      "registros": 58,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14208.json": {
+      "versao": 1,
+      "sha256": "95a97b0b76b48d99a90c0f167ca47e2257f19d7476c8c265d34c0c1985147458",
+      "gerado_em": "2026-07-19",
+      "registros": 3,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14211.json": {
+      "versao": 1,
+      "sha256": "a7995e71f75aab3b2da9786e27e8f98e3e1777a67d8b6d58d0d44c1f888a6e6d",
+      "gerado_em": "2026-07-19",
+      "registros": 4,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14286.json": {
+      "versao": 1,
+      "sha256": "67a1ce9e596461464a3224bc75c734806d399041c7ed80c7d8e30106ebac6389",
+      "gerado_em": "2026-07-19",
+      "registros": 29,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14344.json": {
+      "versao": 1,
+      "sha256": "a7c7adad97c085504199ee27deb235e8e7a97aee461f4246294a596d62b74387",
+      "gerado_em": "2026-07-19",
+      "registros": 34,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14382.json": {
+      "versao": 1,
+      "sha256": "5e568612805ee6d4fdc5b81e0862dde87ed26e0421996c57f92208286b9bca51",
+      "gerado_em": "2026-07-19",
+      "registros": 21,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14430.json": {
+      "versao": 1,
+      "sha256": "98c8dc141d884a8ecf9ffddfd7fcadcec4a42875bd8e6e2ebb3689e6124f1e68",
+      "gerado_em": "2026-07-19",
+      "registros": 39,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14442.json": {
+      "versao": 1,
+      "sha256": "f0893f7b96cbf0145da758a71c48ade2511c9854547c8f36025d2dd6f87a5008",
+      "gerado_em": "2026-07-19",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14478.json": {
+      "versao": 1,
+      "sha256": "ee3f4f39fadd70ffe04973792e6882d7cf50d669fffaecdb28daf6faa8dce34e",
+      "gerado_em": "2026-07-19",
+      "registros": 14,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14611.json": {
+      "versao": 1,
+      "sha256": "4e65ee43d3d5b8fd7b1f4b8ca6bbdbda681df6924eddd32585dfb172a6b82ec0",
+      "gerado_em": "2026-07-19",
+      "registros": 7,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l14711.json": {
+      "versao": 1,
+      "sha256": "37880119bb91578e97eb064aaff196ecc669476a12330a74699e07c16e398925",
+      "gerado_em": "2026-07-19",
+      "registros": 19,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l15040.json": {
+      "versao": 1,
+      "sha256": "325c58cf03fb757113c61e6ab69ee1900ef364ce0077c362c705b3f53d213a41",
+      "gerado_em": "2026-07-19",
+      "registros": 134,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l1521.json": {
+      "versao": 1,
+      "sha256": "18a9b8a34c4f8f40dbf1b6610dd2311f90c0bc975ff28de14a0cfd4070220b7c",
+      "gerado_em": "2026-07-19",
+      "registros": 34,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l3207.json": {
+      "versao": 1,
+      "sha256": "f2adbf55b446592209661b8c3f3f78605cedaf29955b0fb2f5a705f6f8128691",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4090.json": {
+      "versao": 1,
+      "sha256": "182d0aea98b86796374b9955d3d48202e268a5ba9dad9f550040d4d78a13641b",
+      "gerado_em": "2026-07-19",
+      "registros": 4,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4320.json": {
+      "versao": 1,
+      "sha256": "2d3e1d5494704c5b0cfbc82f27e48cf9a8972d968f1f207017aad9dfc2bedfa5",
+      "gerado_em": "2026-07-19",
+      "registros": 92,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4591.json": {
+      "versao": 1,
+      "sha256": "64011c8293275cb7b647963c0e1c19e115d8c0aa3ef9c74f49abac240dc31c1f",
+      "gerado_em": "2026-07-19",
+      "registros": 86,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4595.json": {
+      "versao": 1,
+      "sha256": "6b9f3d612d693beb230e74f2c94628d81f2d48c7d354220cf4f29fae6c4b45b4",
+      "gerado_em": "2026-07-19",
+      "registros": 65,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4717.json": {
+      "versao": 1,
+      "sha256": "9b33e94edae418ef390ef759cc979b39d9230a769603228a6ba9f0551a6f1c8a",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4728.json": {
+      "versao": 1,
+      "sha256": "377e44fca7570fc8c3c356e2915ef92574aa16db433541fe50f49b9aeb9e74a5",
+      "gerado_em": "2026-07-19",
+      "registros": 87,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4749.json": {
+      "versao": 1,
+      "sha256": "8bd8768d730f6da00ebc3d9b1ec099a9904420b8548422a266ff5c64c50fe192",
+      "gerado_em": "2026-07-19",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4886.json": {
+      "versao": 1,
+      "sha256": "e529f705d20311e8525d3494c13ef561b7a88ee8d2d8a300b96306fe4448cbfb",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l4950a.json": {
+      "versao": 1,
+      "sha256": "6e267acf3de9eef7d0fe5765b5fd4e08e8b241201c47d699f85a9bc398d1998d",
+      "gerado_em": "2026-07-19",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l5474.json": {
+      "versao": 1,
+      "sha256": "b62373ccc8724520e0b6ebce086cbb46f27417a8c1477e61ff54df74292c7bb6",
+      "gerado_em": "2026-07-19",
+      "registros": 28,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l5478.json": {
+      "versao": 1,
+      "sha256": "95696aada5b961657c17bc9e55230ecedcc1722de15f42445a93f2378b7864e0",
+      "gerado_em": "2026-07-19",
+      "registros": 29,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l5584.json": {
+      "versao": 1,
+      "sha256": "9b0f6f18acaef7f1057e81b8511cc63d66ddea487a07edcd13ef92e08218769f",
+      "gerado_em": "2026-07-19",
+      "registros": 20,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l5764.json": {
+      "versao": 1,
+      "sha256": "261ac17075b1e4a0b0789eef4b7b2b9810c9085363274dd89e876d2f98f1d534",
+      "gerado_em": "2026-07-19",
+      "registros": 119,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l5889.json": {
+      "versao": 1,
+      "sha256": "7b719633f66578685d89a62b37914bddb0089b5a51af23028e4d5986021f5b9b",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6019.json": {
+      "versao": 1,
+      "sha256": "4276b9068c7f1fbd8cb725818b559b425780772689920533f8c20f3a6c0b9875",
+      "gerado_em": "2026-07-19",
+      "registros": 30,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l605.json": {
+      "versao": 1,
+      "sha256": "e59d90199c6d6f9666f669d1ec08cd9d7ead9ef070a9b983b7d14d9da54c9049",
+      "gerado_em": "2026-07-19",
+      "registros": 16,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6091.json": {
+      "versao": 1,
+      "sha256": "ceb43ea3954f2e8e42c131dc71154f5dc247787c55596687bcf6195eca6c4ce7",
+      "gerado_em": "2026-07-19",
+      "registros": 28,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6099.json": {
+      "versao": 1,
+      "sha256": "780f5e01e7d7687350f766e0a3dcdb9c997b6231e8a840fddfb2a1e1eedcf9ca",
+      "gerado_em": "2026-07-19",
+      "registros": 26,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6321.json": {
+      "versao": 1,
+      "sha256": "52469597e5b8a2bab27b443acc9b844ddc47305834f7d4f9b264404d94a54e91",
+      "gerado_em": "2026-07-19",
+      "registros": 7,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6360.json": {
+      "versao": 1,
+      "sha256": "f4b839add993b6410d7c99c962841cb229997f507876ee09531f6f7de286b248",
+      "gerado_em": "2026-07-19",
+      "registros": 92,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6385.json": {
+      "versao": 1,
+      "sha256": "c328edf6c561ec4b99562cdfdb006587b73ba791f80205d0cc72aaa51da504f2",
+      "gerado_em": "2026-07-19",
+      "registros": 44,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6515.json": {
+      "versao": 1,
+      "sha256": "2930e1850cb0bfcab8321bef246a4d6fd153b3aeeb76c7f78dbef1d252d38925",
+      "gerado_em": "2026-07-19",
+      "registros": 54,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6533.json": {
+      "versao": 1,
+      "sha256": "2b3787bc83c09fdc57ecf5ba8e8c8f39ccbe1a2e3112aa8721c9488dbbeaf1f0",
+      "gerado_em": "2026-07-19",
+      "registros": 37,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6615.json": {
+      "versao": 1,
+      "sha256": "6842cd14c0f6c9e1403c19b3187f13465fa581da398057c5c4cea668f145bd57",
+      "gerado_em": "2026-07-19",
+      "registros": 37,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6729.json": {
+      "versao": 1,
+      "sha256": "693f6a56a7a16ee211a5d35d6ea2dd7187d30641dff73611778c7854579c69d1",
+      "gerado_em": "2026-07-19",
+      "registros": 33,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6766.json": {
+      "versao": 1,
+      "sha256": "61b129d68ba97b45798be06201532418403202197490fff6bd52255342c6e07f",
+      "gerado_em": "2026-07-19",
+      "registros": 66,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6858.json": {
+      "versao": 1,
+      "sha256": "41701f169397f172f61b28c77c92d1e1c13346475a1d2b81a0de55555ca14109",
+      "gerado_em": "2026-07-19",
+      "registros": 4,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6938.json": {
+      "versao": 1,
+      "sha256": "caaf34be16000fce7a62eee0b59940a087251bb06194c99521c7c0924e1dc877",
+      "gerado_em": "2026-07-19",
+      "registros": 40,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l6996.json": {
+      "versao": 1,
+      "sha256": "d042a010ba503033253a3ba91cff1b9aef1380259aa551c24dadf4c66aba644c",
+      "gerado_em": "2026-07-19",
+      "registros": 20,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7064.json": {
+      "versao": 1,
+      "sha256": "ed9ca5a98095e63d689937580c0d1f13d33984e68faaa4e3e7c4d56c785ee038",
+      "gerado_em": "2026-07-19",
+      "registros": 24,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7357.json": {
+      "versao": 1,
+      "sha256": "384a1aa86a36ad89aabc218eee6a160c31ec66fe49fd921eb604ac1a198ae4a5",
+      "gerado_em": "2026-07-19",
+      "registros": 71,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7418.json": {
+      "versao": 1,
+      "sha256": "9a5cb2a40537b3aa05f60fadae0236973a96121c8f4145179baa7de54dda3b94",
+      "gerado_em": "2026-07-19",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7444.json": {
+      "versao": 1,
+      "sha256": "5e7aaf42e17288e4700eb981a866d02df9086be4e6ecc56a4abb358fffc39ede",
+      "gerado_em": "2026-07-19",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7492.json": {
+      "versao": 1,
+      "sha256": "4e13955ee3b529941ac59c761e0cc6b7a73321aa52fb683a88fac5e007238f0c",
+      "gerado_em": "2026-07-19",
+      "registros": 35,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7689.json": {
+      "versao": 1,
+      "sha256": "dd65f20bd7c5424f378d4a6364d61c1707516ad854e6a4485f68f54709578148",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7713.json": {
+      "versao": 1,
+      "sha256": "6dd8798a6089347504e9fc6b275a427e315b2dd60665f0da437026b3399b267b",
+      "gerado_em": "2026-07-19",
+      "registros": 58,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7716.json": {
+      "versao": 1,
+      "sha256": "c6ad11eeb66c4b4eba1993ba59b5d483e3d9ec671084915fbc8f8e97c640c117",
+      "gerado_em": "2026-07-19",
+      "registros": 27,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7783.json": {
+      "versao": 1,
+      "sha256": "c83aaf6c6279fc11057b8b21473e62d77c38e004e7bede546e585dbc019dab40",
+      "gerado_em": "2026-07-19",
+      "registros": 19,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7960.json": {
+      "versao": 1,
+      "sha256": "9ef0ff2e27a33cdd497869c444fdcd39b145d63ad57dbe13ca080dcd05db18dc",
+      "gerado_em": "2026-07-19",
+      "registros": 7,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l7998.json": {
+      "versao": 1,
+      "sha256": "d5487c8bd85ba771ebe16b36fe00cd865401d5cae1aad0f3419a1b4418568b67",
+      "gerado_em": "2026-07-19",
+      "registros": 45,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8009.json": {
+      "versao": 1,
+      "sha256": "e9b4eb9b3069e47e7863b8ebff1a639ae806d096dc7904bf74b1f8876f5e3fea",
+      "gerado_em": "2026-07-19",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8038.json": {
+      "versao": 1,
+      "sha256": "4792f4d7af0ca6834d95a0a90e2536307e358898bf95bef5e94dc47d07c58bf9",
+      "gerado_em": "2026-07-19",
+      "registros": 45,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8072.json": {
+      "versao": 1,
+      "sha256": "3245ad706d052a2c11c908d2bb80772abaeee5d113fbc8128da8490c77a96300",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8080.json": {
+      "versao": 1,
+      "sha256": "9c61b21f1f9e5babe779d4eef4204ed432786de9e0eecccaa60c017a42c189ab",
+      "gerado_em": "2026-07-19",
+      "registros": 89,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8112.json": {
+      "versao": 1,
+      "sha256": "1bce919a5b109dd2538de8fdca7a20c1bd36e77ce4ce4d59f1f4e229d76f27d8",
+      "gerado_em": "2026-07-19",
+      "registros": 259,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8137.json": {
+      "versao": 1,
+      "sha256": "ead536a365e87f119f64bf2dc0c448cf90f45403328029ddb8bcd00d5d18faec",
+      "gerado_em": "2026-07-19",
+      "registros": 23,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8142.json": {
+      "versao": 1,
+      "sha256": "6a840220e553b471f338d8805ae289f5765cf869c14b02217a4e32ef2cb7f64b",
+      "gerado_em": "2026-07-19",
+      "registros": 7,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8212.json": {
+      "versao": 1,
+      "sha256": "89ddba0bfec7a992fb2764f18f69d3fb47a8ebbde52ca9cfab7bd9d13b849920",
+      "gerado_em": "2026-07-19",
+      "registros": 112,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8245.json": {
+      "versao": 1,
+      "sha256": "3cc7b4d76d1296122fa9578f600eaaf6e73a99c11b2e326c975931d09f90a55f",
+      "gerado_em": "2026-07-19",
+      "registros": 91,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8437.json": {
+      "versao": 1,
+      "sha256": "1561621a9a7b84c11a15943294bc08d8c1dbee0e872bd21cf018c0aebba938ca",
+      "gerado_em": "2026-07-19",
+      "registros": 6,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8560.json": {
+      "versao": 1,
+      "sha256": "5484099e6528531957b29359da9b1bf8241e74cc2381819a699ddfd39cfd463f",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8629.json": {
+      "versao": 1,
+      "sha256": "6dade37e3edcfc00f952795bfea4f7dd0b12d5cc329f7b151dd02db1836b176c",
+      "gerado_em": "2026-07-19",
+      "registros": 36,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8929.json": {
+      "versao": 1,
+      "sha256": "d5b1e1ce1e8c164118e40dfa0ed3642e3946c5d31aa6cf1f6054f9e1c417673e",
+      "gerado_em": "2026-07-19",
+      "registros": 28,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8934.json": {
+      "versao": 1,
+      "sha256": "f3e3a66c6acd743f3c4d2a0656de915f34308b4b931f781fb27584ba7dc47a2d",
+      "gerado_em": "2026-07-19",
+      "registros": 71,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8935.json": {
+      "versao": 1,
+      "sha256": "d633888c8e37aee6fe6bbc4a3b7bc66650445079e8c756a09c2352cb0a5aadf0",
+      "gerado_em": "2026-07-19",
+      "registros": 58,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8971.json": {
+      "versao": 1,
+      "sha256": "25c31d4a80996f8cf52798a9fa156a52cb314b6fa4cb41848ee240c4e0278c3a",
+      "gerado_em": "2026-07-19",
+      "registros": 5,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8987.json": {
+      "versao": 1,
+      "sha256": "a49f7c0f2ad1b8b95f8b45ebd9c9c78db899d9d82330cbc062b922a3b6d686f3",
+      "gerado_em": "2026-07-19",
+      "registros": 52,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l8989.json": {
+      "versao": 1,
+      "sha256": "d4b210b9413d9421bd9c7b5b3ba4d55fefdc73d3bf4a01c61876adae3edbd3e4",
+      "gerado_em": "2026-07-19",
+      "registros": 10,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9029.json": {
+      "versao": 1,
+      "sha256": "05ab788bff5c403afa45d17a3c396f374107b5e9d70d25ea5a29fe994f993792",
+      "gerado_em": "2026-07-19",
+      "registros": 6,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9096.json": {
+      "versao": 1,
+      "sha256": "64c38c655ff07e0b9bc2d7d1cb13e5f66580ae8e7d70ecce1d0addd929ade508",
+      "gerado_em": "2026-07-19",
+      "registros": 84,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9249.json": {
+      "versao": 1,
+      "sha256": "2a03d667e8512f3014afcae8beeabc5485147e72bd400dfb545e1d23e1f07066",
+      "gerado_em": "2026-07-19",
+      "registros": 37,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9278.json": {
+      "versao": 1,
+      "sha256": "e458f45c0969ad84ccb724e0f55d2b4aadc0983a9c40b624625a9211c5cf4662",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9279.json": {
+      "versao": 1,
+      "sha256": "85d7c5d99ff72fa03a16cc16221e1e5a60ea0d1ec2706081b401dccef14cdc46",
+      "gerado_em": "2026-07-19",
+      "registros": 248,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9289.json": {
+      "versao": 1,
+      "sha256": "4d804b19aee19ebd0823fc9b8a1231a11e5ca7a445898f1a6e1371f137054726",
+      "gerado_em": "2026-07-19",
+      "registros": 18,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9296.json": {
+      "versao": 1,
+      "sha256": "cf5925ff3b5fa0947d64b9813c60aa679541e1bb6501a1893daae28a6b3ef9f9",
+      "gerado_em": "2026-07-19",
+      "registros": 14,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9307.json": {
+      "versao": 1,
+      "sha256": "0375321f03e159f2ad42f82fa16cdea0ce407e3d483efbdf01fda0167e484dc7",
+      "gerado_em": "2026-07-19",
+      "registros": 47,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9427.json": {
+      "versao": 1,
+      "sha256": "d51a59fa124c5d3c08e99580a25953ca232fcaba9acfbbc886acff1aba306067",
+      "gerado_em": "2026-07-19",
+      "registros": 38,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9430.json": {
+      "versao": 1,
+      "sha256": "76627985983b6b4bcb4209fd27ba2b7af9c46b76e07054be7380b4e3a7aa0cd6",
+      "gerado_em": "2026-07-19",
+      "registros": 103,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9434.json": {
+      "versao": 1,
+      "sha256": "564346dde09bde1f3d16a97a7f4015bd56d211392784f4ff93b6794712c03db9",
+      "gerado_em": "2026-07-19",
+      "registros": 29,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9455.json": {
+      "versao": 1,
+      "sha256": "b11cab10533b20e634747061b3cff7b80f42b1c52b3df088c534c2c3f758f595",
+      "gerado_em": "2026-07-19",
+      "registros": 4,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9478.json": {
+      "versao": 1,
+      "sha256": "5923f3b14ecffef3312420ea8810a25b3fd8e08d4578fcd01c4ae26630eb9323",
+      "gerado_em": "2026-07-19",
+      "registros": 110,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9492.json": {
+      "versao": 1,
+      "sha256": "42fbc4396f3ec2ae83d66052d886dd3bdf42415d56dc79519826bb31323420dc",
+      "gerado_em": "2026-07-19",
+      "registros": 46,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9494.json": {
+      "versao": 1,
+      "sha256": "2fe41c69acad14e56f61e113c1abeecc85f1c93bf5b9ec05d6c056d1160f731f",
+      "gerado_em": "2026-07-19",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9504.json": {
+      "versao": 1,
+      "sha256": "4be405b7b6395a3fdcf583af66428cfedaaba4fcf50e47856ef30c1e9bfbf84a",
+      "gerado_em": "2026-07-19",
+      "registros": 151,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9507.json": {
+      "versao": 1,
+      "sha256": "ca5f54df345adb968607c1d4fc21b8ed4214f5fa6ae802db18ed64ade74124ae",
+      "gerado_em": "2026-07-19",
+      "registros": 23,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9514.json": {
+      "versao": 1,
+      "sha256": "cafd6588463c8ae87ab27f642a05b8d694eaab5c6413c1b8f8da09f16c251bf7",
+      "gerado_em": "2026-07-19",
+      "registros": 53,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9537.json": {
+      "versao": 1,
+      "sha256": "982e64409ab45d9be231196523ae1783aee2ac5fba848a5e47457c0ac9fc7c4d",
+      "gerado_em": "2026-07-19",
+      "registros": 47,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9601.json": {
+      "versao": 1,
+      "sha256": "631b51679c4c1caebc1fad5a8d2d5dbc67f09b2194b6e85b8fc27880f3f02203",
+      "gerado_em": "2026-07-19",
+      "registros": 10,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9605.json": {
+      "versao": 1,
+      "sha256": "ebe05e6f2f37e89ad524e124bc864322ecd17b6cdbf93f4bd2e311ea9a5019f7",
+      "gerado_em": "2026-07-19",
+      "registros": 87,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9609.json": {
+      "versao": 1,
+      "sha256": "3e836b8f4821ad918aecd46e238908909a4a667732de814261e2d3ceade008d8",
+      "gerado_em": "2026-07-19",
+      "registros": 16,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9610.json": {
+      "versao": 1,
+      "sha256": "e6cdae2fe2f5339e5618103c7626761216e7ed0b4e1534f440236bc10432cecf",
+      "gerado_em": "2026-07-19",
+      "registros": 124,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9613.json": {
+      "versao": 1,
+      "sha256": "28962e276b4f4fd390e192902369d395c0dfa45e7d621571dd4c86d72026f720",
+      "gerado_em": "2026-07-19",
+      "registros": 28,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9656.json": {
+      "versao": 1,
+      "sha256": "bd74aba7b1cb1dba6bea414768ed8924a08a5854e331bd586d9f8f20598e0154",
+      "gerado_em": "2026-07-19",
+      "registros": 58,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9709.json": {
+      "versao": 1,
+      "sha256": "4a773263ec57c898f16bde2a16bde9eed1e21b13021d63675fa2c38e3fc83329",
+      "gerado_em": "2026-07-19",
+      "registros": 15,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9717.json": {
+      "versao": 1,
+      "sha256": "d18081120b595d451eb1c986bdbb253aacc583243d09dc098cf018dbcb244edf",
+      "gerado_em": "2026-07-19",
+      "registros": 15,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9782.json": {
+      "versao": 1,
+      "sha256": "e538a8db48ca58de44b2078b938e66cfe58d2ab531bc872e1ba32e2df9160a06",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9784.json": {
+      "versao": 1,
+      "sha256": "f2d9b7b7480582f7f0857a15416ff54796524c279cbdd7055c8071d481c58032",
+      "gerado_em": "2026-07-19",
+      "registros": 80,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9787.json": {
+      "versao": 1,
+      "sha256": "c113bba1a7eca47e672b73ddbceb138d93b7c156bf36f5cb614474cf41c63f52",
+      "gerado_em": "2026-07-19",
+      "registros": 7,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9790.json": {
+      "versao": 1,
+      "sha256": "dd22f80c420be4c0137694b81d527f71c437a0f0f4ec39ab5766661549b5901f",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9796.json": {
+      "versao": 1,
+      "sha256": "a5f5cf43e49ab6e8be94fdf5db2153693159e899e40bea06e745379819a176c0",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9807.json": {
+      "versao": 1,
+      "sha256": "dd6c4eb88adf3e46236c9788c1816bf8e64cf639ce4a636ae799dc1a4cd1cf9c",
+      "gerado_em": "2026-07-19",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9868.json": {
+      "versao": 1,
+      "sha256": "564ae8302b5417f6c957f893ac838c9d1634340dcf4461d8a146918aa8ebe083",
+      "gerado_em": "2026-07-19",
+      "registros": 39,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9882.json": {
+      "versao": 1,
+      "sha256": "e42f14da1b146f3ab1543298da35dc5409e1240a8ed8e384d9446b1399378b8b",
+      "gerado_em": "2026-07-19",
+      "registros": 14,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9961.json": {
+      "versao": 1,
+      "sha256": "76fe70d34339b08d9f5f8cb14f45badd67aa857d08ec911e9000f2b9996ae26f",
+      "gerado_em": "2026-07-19",
+      "registros": 41,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9985.json": {
+      "versao": 1,
+      "sha256": "c8144cc3c6dfd6c7faf2ee758e485840419920b6c1880a0f5e11389a2918b58c",
+      "gerado_em": "2026-07-19",
+      "registros": 62,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_l9986.json": {
+      "versao": 1,
+      "sha256": "3059b723574c270e7e32c268f8507a8356a8b4f0e7433c904aa02a9c69abe261",
+      "gerado_em": "2026-07-19",
+      "registros": 41,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lacp.json": {
+      "versao": 1,
+      "sha256": "52d08e61cafdb8bc84215ed1d05b7d90869c192974f876faa8e686930b02dbfe",
+      "gerado_em": "2026-07-19",
+      "registros": 23,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lai.json": {
+      "versao": 1,
+      "sha256": "9b6ee268cdf85a284292affe8eb3387108de4434ec446ec459370715ff16aee1",
+      "gerado_em": "2026-07-19",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lbps.json": {
+      "versao": 1,
+      "sha256": "a69920c9797f8903ba1b42bfff2f313cb8c86f637494d1a336d27da9338d1498",
+      "gerado_em": "2026-07-19",
+      "registros": 177,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc105.json": {
+      "versao": 1,
+      "sha256": "e5a8b0b51252a1fee0802ceede075f2fd80283cadca51d87acd6cc0548c8698f",
+      "gerado_em": "2026-07-19",
+      "registros": 13,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc108.json": {
+      "versao": 1,
+      "sha256": "1348369fed358b9c3a5fbce8904f541776d1097379b783b92cd3b5c5d32d3140",
+      "gerado_em": "2026-07-19",
+      "registros": 32,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc109.json": {
+      "versao": 1,
+      "sha256": "dc5071023f237b61d9815162a9080472e3f679f8190841382b1d5d087180da2c",
+      "gerado_em": "2026-07-19",
+      "registros": 79,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc116.json": {
+      "versao": 1,
+      "sha256": "57b76c6e41f5f8132eafbc09235a54c3c6e803c014d043c7047ac7ba506314fe",
+      "gerado_em": "2026-07-19",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc123.json": {
+      "versao": 1,
+      "sha256": "fbdd46dab86696f36ea00ee9a52456942a1fc9ba40334e44b6814856d6d7ac5c",
+      "gerado_em": "2026-07-19",
+      "registros": 134,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc135.json": {
+      "versao": 1,
+      "sha256": "d432db2c8f65fb9f12d7c2bc9672be0651ad6d7c2fdf0574f18ce303d357e3d3",
+      "gerado_em": "2026-07-19",
+      "registros": 5,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc142.json": {
+      "versao": 1,
+      "sha256": "09aadce6202cb482d33840738391aa1e4993e1b300f63625ebda8e56d4a29951",
+      "gerado_em": "2026-07-19",
+      "registros": 11,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc150.json": {
+      "versao": 1,
+      "sha256": "a8e589d97a4cc656fbb24e1956567fd97682492f4af02abccea4bdea5aa15c60",
+      "gerado_em": "2026-07-19",
+      "registros": 48,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc182.json": {
+      "versao": 1,
+      "sha256": "b2ade9ce3b157c54f40fa11461b012f1968e6a2b271c6325c6b0779190697618",
+      "gerado_em": "2026-07-19",
+      "registros": 19,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc64.json": {
+      "versao": 1,
+      "sha256": "471aafe4d2886c264e17f5c3b56e9e7f248e1273779abd515d2ba373a6392708",
+      "gerado_em": "2026-07-19",
+      "registros": 33,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc80.json": {
+      "versao": 1,
+      "sha256": "93c8ca7862fc1ef899a4b75b822db89973cfd5197337352568435308642e0214",
+      "gerado_em": "2026-07-19",
+      "registros": 163,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc87.json": {
+      "versao": 1,
+      "sha256": "1d0cfd685513f667880aee995a290f65b5a6af2d7493ea59a90b1a46ed6a6282",
+      "gerado_em": "2026-07-19",
+      "registros": 40,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lcp.json": {
+      "versao": 1,
+      "sha256": "759a7d9711f52f8aadd4aef74884d1577333774d94a44a4d98a54f4d2611ce40",
+      "gerado_em": "2026-07-19",
+      "registros": 72,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ld.json": {
+      "versao": 1,
+      "sha256": "325cf555f8f983e2475a30042e30e60253650be82869bc49129e67f278ca7907",
+      "gerado_em": "2026-07-19",
+      "registros": 99,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_ldb.json": {
+      "versao": 1,
+      "sha256": "ab045c78e359696d868786b14b95116ab9d09365a66fb07c1fa3b8bd7ee28114",
+      "gerado_em": "2026-07-19",
+      "registros": 121,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lef.json": {
+      "versao": 1,
+      "sha256": "9a76e48fd656def0e800925f1cbf9f8d0f0b8568660c5efeea690fe70c3ec656",
+      "gerado_em": "2026-07-19",
+      "registros": 42,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lep.json": {
+      "versao": 1,
+      "sha256": "78c393450c209bae1e2a3809c73e55f3550de6ccc91ff0d54c64954054141104",
+      "gerado_em": "2026-07-19",
+      "registros": 219,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lgpd.json": {
+      "versao": 1,
+      "sha256": "e270a90c6dc11bb5dbe8b5a721d6136bcfedd0fd9aadc4f596c4a8faf06e5ab7",
+      "gerado_em": "2026-07-19",
+      "registros": 79,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lgt.json": {
+      "versao": 1,
+      "sha256": "05a2d482b234b68858b30ec91f8a46b20351d980e8bfdbda8d912067c926db36",
+      "gerado_em": "2026-07-19",
+      "registros": 221,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lia.json": {
+      "versao": 1,
+      "sha256": "3ab9072013c76341db864d902dee0d0f129f036f58620fb62e2ef0ac55e01837",
+      "gerado_em": "2026-07-19",
+      "registros": 35,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lindb.json": {
+      "versao": 1,
+      "sha256": "b1ca29cb83fbbc599beb2796e466a430403d4c14f329a98b1f36d06f855faa9d",
+      "gerado_em": "2026-07-19",
+      "registros": 30,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lje.json": {
+      "versao": 1,
+      "sha256": "bd79a4a073edc66f40d49bd93934f1a3eb3a352cdce4a1c1e71d6c41ede1f6f4",
+      "gerado_em": "2026-07-19",
+      "registros": 99,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_llc.json": {
+      "versao": 1,
+      "sha256": "ef8c38a51b2fa7f480d2107b8f1ca0f166ee08bb954ac04b04f8a9b728a424fc",
+      "gerado_em": "2026-07-19",
+      "registros": 196,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lmig.json": {
+      "versao": 1,
+      "sha256": "f800e5ca89972a9f41e233e3de2127b0beed937e4bd45b52a11d772e0d84c1d8",
+      "gerado_em": "2026-07-19",
+      "registros": 125,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lmp.json": {
+      "versao": 1,
+      "sha256": "108c7fa2760042f126a190367352f256ccdea9f2ee93417d12a302477d3a41d5",
+      "gerado_em": "2026-07-19",
+      "registros": 57,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lms.json": {
+      "versao": 1,
+      "sha256": "5b2289f663a30f2ee2465717a440a5ce597ad5187cdd8eb99f416534f8312040",
+      "gerado_em": "2026-07-19",
+      "registros": 29,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_loas.json": {
+      "versao": 1,
+      "sha256": "36047841d1db3ac6004f7cd729db4b8ec6a237f83310ef38ed909bcf97e1f1e3",
+      "gerado_em": "2026-07-19",
+      "registros": 71,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lref.json": {
+      "versao": 1,
+      "sha256": "566d490c7619af0987ed9d9b4b2f1af2f603dee0962d28f8d20714896fdda751",
+      "gerado_em": "2026-07-19",
+      "registros": 261,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lrf.json": {
+      "versao": 1,
+      "sha256": "a706eecd9b9642a52613c98a6323a0d8965340b8845b8ee5d3040a55d1024d3a",
+      "gerado_em": "2026-07-19",
+      "registros": 83,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lrp.json": {
+      "versao": 1,
+      "sha256": "bcb887b9366a3fd29ae7542da594ffbe88b12074a18c0911a04b943cfbc6e885",
+      "gerado_em": "2026-07-19",
+      "registros": 321,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lsa.json": {
+      "versao": 1,
+      "sha256": "2bccd46b6ab5cbdfaa98111e03bcb8c774bab6cb9474bc223d347911484fa251",
+      "gerado_em": "2026-07-19",
+      "registros": 313,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_mci.json": {
+      "versao": 1,
+      "sha256": "9f6db18e6b98b930a65b74f90ed89c4604656de90fbed81c0df58e311f8e04d9",
+      "gerado_em": "2026-07-19",
+      "registros": 37,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "sumulas_stf.json": {
+      "versao": 1,
+      "sha256": "e9e84c1296a46929fe2f2eaf4924f79a272ff7c5ab7fc667e297f9b253f5f324",
+      "gerado_em": "2026-07-19",
+      "registros": 736,
+      "colecao": "sumulas",
+      "mudancas": null
+    },
+    "sumulas_stj.json": {
+      "versao": 1,
+      "sha256": "3f362f99a4ca51b2c59f2c8cf067396268c20a9aba145597d06d1a36226cb50e",
+      "gerado_em": "2026-07-19",
+      "registros": 676,
+      "colecao": "sumulas",
+      "mudancas": null
+    },
+    "sumulas_vinculantes.json": {
+      "versao": 1,
+      "sha256": "58d94217442f1c886e6b3d40350130d9921d0b2ba1a217ada06efefc2bbb5145",
+      "gerado_em": "2026-07-19",
+      "registros": 63,
+      "colecao": "sumulas",
+      "mudancas": null
+    }
+  }
+}
