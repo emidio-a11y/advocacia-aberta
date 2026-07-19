@@ -1,0 +1,27 @@
+{
+  "name": "advocacia-aberta",
+  "version": "0.1.0",
+  "description": "Método jurídico aberto e executável por agentes de IA: base curada de STF/STJ, legislação, súmulas, temas e teses; 10 protocolos (organizar caso, buscar fontes, redigir e revisar peça, transcrever, diagnosticar, diagramar) e motores locais. Fontes verificáveis, casos privados. Direito brasileiro, PT-BR.",
+  "author": {
+    "name": "Emidio Trancoso",
+    "url": "https://github.com/emidio-trancoso"
+  },
+  "homepage": "https://github.com/emidio-trancoso/advocacia-aberta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emidio-trancoso/advocacia-aberta"
+  },
+  "license": "MIT",
+  "keywords": [
+    "legal-tech",
+    "legal-ai",
+    "direito",
+    "juridico",
+    "jurisprudencia",
+    "legislacao",
+    "claude-code",
+    "agent-skills",
+    "brazilian-law",
+    "open-source"
+  ]
+}

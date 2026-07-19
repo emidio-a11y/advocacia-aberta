@@ -10,7 +10,11 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[2]
 FONTE = RAIZ / ".agents" / "skills"
-ESPELHO = RAIZ / ".claude" / "skills"
+# Espelhos gerados a partir da fonte canônica (ver sincronizar-skills.sh).
+ESPELHOS = {
+    ".claude/skills": RAIZ / ".claude" / "skills",  # adaptador Claude Code
+    "skills": RAIZ / "skills",                        # adaptador de plugin
+}
 
 MARCADORES_INCOMPATIVEIS = {
     "$ARGUMENTS": "substituição específica de uma interface",
@@ -78,7 +82,6 @@ def validar() -> list[str]:
         erros.append("CLAUDE.md não importa AGENTS.md.")
 
     fonte = arquivos_da_arvore(FONTE)
-    espelho = arquivos_da_arvore(ESPELHO)
     skills = sorted(FONTE.glob("*/SKILL.md")) if FONTE.is_dir() else []
 
     if not skills:
@@ -108,20 +111,22 @@ def validar() -> list[str]:
         relativo = arquivo.relative_to(RAIZ)
         erros.extend(validar_texto_portavel(relativo, texto))
 
-    faltando = sorted(set(fonte) - set(espelho))
-    sobrando = sorted(set(espelho) - set(fonte))
-    divergentes = sorted(
-        relativo
-        for relativo in set(fonte) & set(espelho)
-        if fonte[relativo].read_bytes() != espelho[relativo].read_bytes()
-    )
+    for rotulo, base in ESPELHOS.items():
+        espelho = arquivos_da_arvore(base)
+        faltando = sorted(set(fonte) - set(espelho))
+        sobrando = sorted(set(espelho) - set(fonte))
+        divergentes = sorted(
+            relativo
+            for relativo in set(fonte) & set(espelho)
+            if fonte[relativo].read_bytes() != espelho[relativo].read_bytes()
+        )
 
-    for relativo in faltando:
-        erros.append(f"Ausente no espelho .claude/skills/: {relativo}")
-    for relativo in sobrando:
-        erros.append(f"Arquivo sem fonte canônica no espelho: {relativo}")
-    for relativo in divergentes:
-        erros.append(f"Espelho divergente da fonte canônica: {relativo}")
+        for relativo in faltando:
+            erros.append(f"Ausente no espelho {rotulo}/: {relativo}")
+        for relativo in sobrando:
+            erros.append(f"Arquivo sem fonte canônica no espelho {rotulo}/: {relativo}")
+        for relativo in divergentes:
+            erros.append(f"Espelho {rotulo}/ divergente da fonte canônica: {relativo}")
 
     return erros
 
