@@ -10,8 +10,9 @@
 //      apague os demais. Não há nenhuma conclusão jurídica pré-escrita:
 //      relatório, análise e parecer final são placeholders.
 //
-// Paleta e componentes inlinados do design system "template-af.typ"
-// (Souza Neto Advocacia) — sem dependência de import externo.
+// Paleta e componentes de Legal Design inlinados (sem dependência de import
+// externo), derivados de um template ("template-af.typ") empregado antes em
+// trabalho para Souza Neto Advocacia. Proveniência e créditos: ver CREDITOS.md.
 // ════════════════════════════════════════════════════════════════════
 
 // ─── PALETA — MÍNIMA ──────────────────────────────────────────

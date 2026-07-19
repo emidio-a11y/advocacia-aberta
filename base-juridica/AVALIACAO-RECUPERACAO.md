@@ -8,13 +8,16 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 80 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
-acrescentadas em 19 de julho de 2026 pela expansão da legislação — dez casos do
+contém 89 consultas: as 24 avaliadas em 17 de julho de 2026; as acrescentadas em
+19 de julho de 2026 pela expansão da legislação — dez casos do
 piloto, dois a três casos julgados por fatia promovida (estatutos,
 trabalhista, codificadas, penal, tributária, previdenciária, cível/família, eleitoral, imobiliário/agrário, administrativa, processual/constitucional, consumidor/bancária, empresarial e regulatória), dois casos do Código
 Comercial de 1850 (`CCOM`), dois do Decreto 2.044/1908 (`D2044`) e dois do
-Marco Legal dos Contratos de Seguro (`L15040`), julgados nas promoções
-respectivas:
+Marco Legal dos Contratos de Seguro (`L15040`); e nove casos das famílias de
+jurisprudência de alto volume incorporadas na mesma data — três para os temas de
+repercussão geral do STF (`temas_rg_stf`), três para o Informativo STF
+(`informativo_stf`) e três para os espelhos de acórdãos do STJ (`espelhos_stj`),
+julgados nas promoções respectivas:
 
 | Família | Consultas |
 |---|---:|
@@ -23,6 +26,9 @@ respectivas:
 | Súmulas vinculantes | 3 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
+| Temas de repercussão geral STF | 3 |
+| Informativo STF | 3 |
+| Espelhos de acórdãos STJ | 3 |
 | Legislação | 63 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
@@ -53,12 +59,15 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8000 | 0,9895 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,8025 | 0,9907 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Temas de repercussão geral STF | 0,7333 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Informativo STF | 0,8000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Espelhos de acórdãos STJ | 0,9333 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Legislação | 0,8127 | 0,9957 | 1,0000 | 1,0000 | 1,0000 |
 
 Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
@@ -91,11 +100,21 @@ Decreto 2.044/1908 (`D2044`, 57 dispositivos da página oficial localizada em
 dispositivos — sede atual do contrato de seguro após revogar os arts. 757 a
 802 do CC) acrescentaram seis casos julgados sobre o texto dos snapshots
 (avaria grossa, carta-partida de fretamento, aval, nota promissória, contrato
-de seguro e prescrição securitária), levando o corpus a 80 consultas. A tabela acima é a linha de base
-medida após essas incorporações; a variação em relação à rodada anterior
-(global 0,8121 → 0,8000; legislação 0,8295 → 0,8127) decorre exclusivamente dos
+de seguro e prescrição securitária), levando o corpus a 80 consultas naquele
+passo; a variação em relação à rodada anterior
+(global 0,8121 → 0,8000; legislação 0,8295 → 0,8127) decorreu exclusivamente dos
 casos novos, cujos conjuntos julgados incluem dispositivos além do top-5
 retornado — nenhum resultado dos 74 casos anteriores mudou.
+
+Ainda em 19 de julho de 2026, as três famílias de jurisprudência de alto volume
+promovidas nos `BASE-021` (temas de repercussão geral do STF), `BASE-025`
+(Informativo STF) e `BASE-026` (espelhos de acórdãos do STJ) receberam três casos
+julgados cada, sobre o conteúdo dos snapshots, levando o corpus a **89 consultas**.
+A tabela de linha de base acima é a medida após essa incorporação: o global passou
+de 0,8000 para 0,8025; as três novas famílias preservam recall julgado@5, cobertura
+e todos os obrigatórios (precisão@5 de 0,7333 nos temas de repercussão geral, 0,8000
+no Informativo STF e 0,9333 nos espelhos de acórdãos), e nenhum resultado dos casos
+anteriores mudou.
 
 Os valores são uma linha de base operacional, não uma alegação de precisão geral para
 qualquer consulta jurídica.
