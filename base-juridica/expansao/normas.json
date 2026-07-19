@@ -2870,6 +2870,20 @@
         "Decretos/: Decreto 9.936/2019 - Regulamenta Base de Dados para Score de Crédito"
       ],
       "notas": []
+    },
+    {
+      "sigla": "L15040",
+      "nome": "Marco Legal dos Contratos de Seguro",
+      "lei": "Lei 15.040/2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15040.htm",
+      "grupo": "consumidor_bancario_l15040",
+      "origens": [
+        "Incorporação pós-expansão (2026-07-19), a pedido do usuário"
+      ],
+      "notas": [
+        "revogou os arts. 757 a 802 do Código Civil (capítulo de seguro), que no snapshot do CC são stubs de revogação; esta lei é a sede atual da matéria",
+        "grupo próprio para capturar isoladamente sem recoletar a fatia consumidor/bancária já promovida"
+      ]
     }
   ]
 }

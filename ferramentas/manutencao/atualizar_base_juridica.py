@@ -45,6 +45,7 @@ ADAPTADORES = {
     "sumulas_stf_html_v1",
     "jt_stj_html_v1",
     "temas_stj_csv_v1",
+    "temas_rg_stf_html_v1",
 }
 HOSTS_OFICIAIS = {
     "www.planalto.gov.br",
@@ -101,6 +102,22 @@ def salvar_json(path: Path, valor: Any) -> None:
 
 def texto_normalizado(valor: str) -> str:
     return re.sub(r"\s+", " ", unescape(valor).replace("\u200b", "")).strip()
+
+
+def corrigir_mojibake(valor: str) -> str:
+    """Recupera texto UTF-8 que foi reinterpretado como cp1252 e reencodado.
+
+    A exporta\u00e7\u00e3o de temas de repercuss\u00e3o geral do STF entrega c\u00e9lulas com
+    mojibake ("N\u00c3\u00a3o h\u00c3\u00a1" no lugar de "N\u00e3o h\u00e1") ao lado de c\u00e9lulas j\u00e1 corretas
+    ("Tr\u00e2nsito em Julgado"), \u00e0s vezes na mesma linha. A volta cp1252\u2192utf-8 \u00e9
+    autovalidante: s\u00f3 altera a string quando os bytes cp1252 formam UTF-8
+    v\u00e1lido \u2014 condi\u00e7\u00e3o que o mojibake satisfaz e que uma letra acentuada isolada
+    (UTF-8 genu\u00edno) n\u00e3o satisfaz \u2014, ent\u00e3o o texto correto passa intacto.
+    """
+    try:
+        return valor.encode("cp1252").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return valor
 
 
 def decodificar_html(path: Path) -> str:

@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 272 | 22.046 registros | 272 diplomas |
+| Legislação | 273 | 22.180 registros | 273 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
-| Índices auxiliares | 274 exclusivos (2 de súmulas, 272 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 551 | — | 48.830.717 bytes, cerca de 49 MB |
+| Índices auxiliares | 275 exclusivos (2 de súmulas, 273 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
+| Total em JSON | 553 | — | 49.018.599 bytes, cerca de 49 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 22.046 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 22.180 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -137,8 +137,9 @@ protocolo comum. O inventário por diploma sai de
 | `decretos` | 1 | 23 | 2026-07-19 |
 | `codificadas_ccom` | 1 | 448 | 2026-07-19 |
 | `empresarial_d2044` | 1 | 57 | 2026-07-19 |
+| `consumidor_bancario_l15040` | 1 | 134 | 2026-07-19 |
 
-Todas as 253 normas do manifesto estão materializadas e promovidas; o grupo
+Todas as 254 normas do manifesto estão materializadas e promovidas; o grupo
 `pendentes_especiais` foi esvaziado em 2026-07-19. O Código Comercial de 1850
 (`CCOM`), antes retido
 porque a página compilada mistura duas numerações (o corpo do Código, arts. 1º
@@ -195,10 +196,10 @@ texto integral.
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 272 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), codificadas_ccom (1), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), empresarial (28), empresarial_d2044 (1), regulatório/outros (19) e decretos (1); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 272 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 272 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 272 códigos do registro central |
+| Arquivos disponíveis | 273 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), codificadas_ccom (1), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), consumidor_bancario_l15040 (1), empresarial (28), empresarial_d2044 (1), regulatório/outros (19) e decretos (1); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 273 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 273 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 273 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -225,7 +226,7 @@ tribunais.
 |---|---:|---:|---|
 | `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
-| `indices/lei_*_keywords.json` (272 arquivos) | 16.262 dispositivos fora dos índices curados; a união cobre os 22.046 em relação 1:1 | 2026-07-19 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
+| `indices/lei_*_keywords.json` (273 arquivos) | 16.396 dispositivos fora dos índices curados; a união cobre os 22.180 em relação 1:1 | 2026-07-19 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
 
 São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`
 (súmulas) e o `BASE-019` (legislação), o repositório contém gerador, manifesto,

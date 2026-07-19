@@ -1411,6 +1411,40 @@
         "D2044:54"
       ],
       "justificativa": "O art. 54 enumera os requisitos essenciais da nota promissória; o art. 55 fixa as formas de vencimento admitidas; o art. 56 manda aplicar subsidiariamente o regime da letra de câmbio. Julgado sobre o texto do snapshot. O art. 1º (requisitos da letra de câmbio) é o dispositivo paralelo de outro título e não trata da nota promissória; o art. 57 é cláusula revogatória."
+    },
+    {
+      "id": "l15040-contrato-seguro",
+      "grupo": "legislacao",
+      "consulta": "definição do contrato de seguro interesse legítimo contra riscos predeterminados",
+      "filtro": {
+        "codigo": "L15040"
+      },
+      "relevantes": [
+        "L15040:1",
+        "L15040:5",
+        "L15040:9"
+      ],
+      "obrigatorios": [
+        "L15040:1"
+      ],
+      "justificativa": "O art. 1º da Lei 15.040/2024 define o contrato de seguro (garantia de interesse legítimo contra riscos predeterminados, mediante prêmio) — é a sede atual da matéria após a revogação dos arts. 757 a 802 do CC (art. 133 desta lei). O art. 5º condiciona a eficácia à existência de interesse legítimo; o art. 9º delimita os riscos cobertos pela espécie contratada. Julgado sobre o texto do snapshot. Os arts. 48 e 55 tratam da formalização e do documento probatório, não da definição."
+    },
+    {
+      "id": "l15040-prescricao",
+      "grupo": "legislacao",
+      "consulta": "prescrição e suspensão da pretensão de indenização securitária",
+      "filtro": {
+        "codigo": "L15040"
+      },
+      "relevantes": [
+        "L15040:126",
+        "L15040:127"
+      ],
+      "obrigatorios": [
+        "L15040:126",
+        "L15040:127"
+      ],
+      "justificativa": "O art. 126 fixa os prazos de prescrição das pretensões securitárias (um e três anos, conforme o caso); o art. 127 disciplina a suspensão única da prescrição pelo pedido de reconsideração à seguradora. Julgado sobre o texto do snapshot; são os dois únicos dispositivos da lei dedicados ao tema (o art. 115 apenas menciona reserva matemática)."
     }
   ]
 }

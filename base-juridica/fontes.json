@@ -317,6 +317,20 @@
         }
       ]
     },
+    "legislacao_consumidor_bancario_l15040": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "l15040",
+          "codigo": "L15040",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15040.htm",
+          "arquivo_bruto": "l15040.html",
+          "destino": "lei_l15040.json"
+        }
+      ]
+    },
     "legislacao_decretos": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

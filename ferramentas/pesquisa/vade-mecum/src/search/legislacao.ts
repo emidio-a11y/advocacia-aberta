@@ -625,6 +625,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l14711.json",
     rotulo: "Marco Legal das Garantias (Lei 14.711/2023)",
   },
+  L15040: {
+    arquivo: "../../data/lei_l15040.json",
+    rotulo: "Marco Legal dos Contratos de Seguro (Lei 15.040/2024)",
+  },
   L1521: {
     arquivo: "../../data/lei_l1521.json",
     rotulo: "Crimes contra Economia Popular (Lei 1.521/1951)",

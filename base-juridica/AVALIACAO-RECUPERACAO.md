@@ -8,12 +8,13 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 78 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
+contém 80 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
 acrescentadas em 19 de julho de 2026 pela expansão da legislação — dez casos do
 piloto, dois a três casos julgados por fatia promovida (estatutos,
 trabalhista, codificadas, penal, tributária, previdenciária, cível/família, eleitoral, imobiliário/agrário, administrativa, processual/constitucional, consumidor/bancária, empresarial e regulatória), dois casos do Código
-Comercial de 1850 (`CCOM`) e dois do Decreto 2.044/1908 (`D2044`), julgados
-nas promoções respectivas:
+Comercial de 1850 (`CCOM`), dois do Decreto 2.044/1908 (`D2044`) e dois do
+Marco Legal dos Contratos de Seguro (`L15040`), julgados nas promoções
+respectivas:
 
 | Família | Consultas |
 |---|---:|
@@ -22,7 +23,7 @@ nas promoções respectivas:
 | Súmulas vinculantes | 3 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
-| Legislação | 61 |
+| Legislação | 63 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
 e resultados canônicos obrigatórios. Os julgamentos foram feitos sobre o conteúdo do
@@ -52,13 +53,13 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8017 | 0,9894 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,8000 | 0,9895 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Legislação | 0,8152 | 0,9956 | 1,0000 | 1,0000 | 1,0000 |
+| Legislação | 0,8127 | 0,9957 | 1,0000 | 1,0000 | 1,0000 |
 
 Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
 snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatias já
@@ -86,11 +87,13 @@ corpus.
 Na mesma data, as promoções do Código Comercial de 1850 (`CCOM`, 448
 dispositivos do corpo do Código capturados com o marcador `fim_antes`) e do
 Decreto 2.044/1908 (`D2044`, 57 dispositivos da página oficial localizada em
-`historicos/dpl/dpl2044-1908.htm`) acrescentaram quatro casos julgados sobre o
-texto dos snapshots (avaria grossa, carta-partida de fretamento, aval e nota
-promissória), levando o corpus a 78 consultas. A tabela acima é a linha de base
+`historicos/dpl/dpl2044-1908.htm`) e da Lei 15.040/2024 (`L15040`, 134
+dispositivos — sede atual do contrato de seguro após revogar os arts. 757 a
+802 do CC) acrescentaram seis casos julgados sobre o texto dos snapshots
+(avaria grossa, carta-partida de fretamento, aval, nota promissória, contrato
+de seguro e prescrição securitária), levando o corpus a 80 consultas. A tabela acima é a linha de base
 medida após essas incorporações; a variação em relação à rodada anterior
-(global 0,8121 → 0,8017; legislação 0,8295 → 0,8152) decorre exclusivamente dos
+(global 0,8121 → 0,8000; legislação 0,8295 → 0,8127) decorre exclusivamente dos
 casos novos, cujos conjuntos julgados incluem dispositivos além do top-5
 retornado — nenhum resultado dos 74 casos anteriores mudou.
 
