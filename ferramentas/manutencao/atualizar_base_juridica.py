@@ -597,6 +597,25 @@ def transformar_legislacao(
                     f"{codigo}: marcador de início não encontrado: {inicio_apos}"
                 )
             paragrafos = paragrafos[posicoes[-1] + 1 :]
+        # Espelho do inicio_apos: encerra a extração antes da primeira
+        # ocorrência exata do parágrafo-marcador. Usado quando a página anexa,
+        # depois do corpo da norma, um trecho com numeração própria de artigos
+        # (ex.: o Título Único da administração da justiça comercial na página
+        # do Código Comercial de 1850, com arts. 1º a 30 que colidem com o
+        # corpo do Código).
+        fim_antes = fonte.get("fim_antes")
+        if fim_antes:
+            alvo = texto_normalizado(fim_antes).upper()
+            posicoes = [
+                indice
+                for indice, no in enumerate(paragrafos)
+                if texto_normalizado(texto_elemento(no)).upper() == alvo
+            ]
+            if not posicoes:
+                raise ValueError(
+                    f"{codigo}: marcador de fim não encontrado: {fim_antes}"
+                )
+            paragrafos = paragrafos[: posicoes[0]]
         titulo = capitulo = secao = None
         titulo_nome = capitulo_nome = secao_nome = None
         ocorrencias: dict[str, tuple[bool, dict[str, Any]]] = {}

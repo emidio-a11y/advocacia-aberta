@@ -116,6 +116,9 @@ def conjunto_esperado(normas_grupo: list[dict[str, Any]]) -> dict[str, Any]:
         }
         if norma.get("descartar_artigos"):
             fonte["descartar_artigos"] = list(norma["descartar_artigos"])
+        for marcador in ("inicio_apos", "fim_antes"):
+            if norma.get(marcador):
+                fonte[marcador] = norma[marcador]
         fontes.append(fonte)
     return {
         "familia": "legislacao",

@@ -341,6 +341,77 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(set(objeto["artigos"]), {"1", "2", "2-A", "3"})
         self.assertIn("VETADO", objeto["artigos"]["2-A"]["texto"])
 
+    def test_fim_antes_encerra_extracao_antes_do_marcador(self) -> None:
+        # Padrão do Código Comercial de 1850: depois do art. 913 do corpo, a
+        # página traz o "TÍTULO ÚNICO" da administração da justiça comercial
+        # com arts. 1º a 30 PRÓPRIOS — capturá-los colidiria com a numeração
+        # do corpo. O fim_antes corta a página antes do marcador.
+        html = """
+        <html><body>
+        <p>Art. 912 - Penúltimo artigo do corpo.</p>
+        <p>Art. 913 - Último artigo do corpo.</p>
+        <p>TÍTULO ÚNICO</p>
+        <p>DA ADMINISTRAÇÃO DA JUSTIÇA NOS NEGÓCIOS E CAUSAS COMERCIAIS</p>
+        <p>Art. 1º - Haverá Tribunais do Comércio na Capital do Império.</p>
+        <p>Art. 2º - Composição do Tribunal.</p>
+        </body></html>
+        """
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                    "fim_antes": "TÍTULO ÚNICO",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        self.assertEqual(set(objeto["artigos"]), {"912", "913"})
+        self.assertNotIn("Tribunais do Comércio", objeto["artigos"]["913"]["texto"])
+
+    def test_fim_antes_ausente_na_pagina_interrompe_a_transformacao(self) -> None:
+        html = "<html><body><p>Art. 1º Texto.</p></body></html>"
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                    "fim_antes": "TÍTULO ÚNICO",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            with self.assertRaises(ValueError):
+                pipeline.transformar_legislacao(
+                    config, bruto, publicados, raiz / "candidatos"
+                )
+
     def test_transforma_legislacao_sem_remover_registro_nao_reencontrado(self) -> None:
         html = """
         <html><body><p>TÍTULO I</p><p>Art. 1º Texto atualizado.</p>

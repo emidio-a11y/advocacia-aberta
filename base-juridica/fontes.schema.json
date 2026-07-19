@@ -52,6 +52,10 @@
                 "inicio_apos": {
                   "type": "string",
                   "description": "Parágrafo-marcador: a extração de artigos começa após a última ocorrência exata deste texto (ex.: corpo anexado a um decreto de promulgação)."
+                },
+                "fim_antes": {
+                  "type": "string",
+                  "description": "Parágrafo-marcador espelho do inicio_apos: a extração de artigos termina antes da primeira ocorrência exata deste texto (ex.: o Título Único com numeração própria na página do Código Comercial de 1850)."
                 }
               }
             }

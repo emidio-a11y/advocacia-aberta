@@ -17,6 +17,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "CBA",
   "CBT",
   "CC",
+  "CCOM",
   "CDC",
   "CE",
   "CF",
@@ -285,7 +286,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 270 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 271 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -304,9 +305,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(270);
+    expect(legislacoes).toHaveLength(271);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      21541,
+      21989,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

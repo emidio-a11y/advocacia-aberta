@@ -129,6 +129,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_cbt.json",
     rotulo: "Código Brasileiro de Telecomunicações (Lei 4.117/1962)",
   },
+  CCOM: {
+    arquivo: "../../data/lei_ccom.json",
+    rotulo: "Código Comercial (Lei 556/1850)",
+  },
   CFLO: {
     arquivo: "../../data/lei_cflo.json",
     rotulo: "Código Florestal (Lei 12.651/2012)",

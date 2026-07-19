@@ -302,6 +302,21 @@
         }
       ]
     },
+    "legislacao_codificadas_ccom": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "ccom",
+          "codigo": "CCOM",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim556compilado.htm",
+          "arquivo_bruto": "ccom.html",
+          "destino": "lei_ccom.json",
+          "fim_antes": "TÍTULO ÚNICO"
+        }
+      ]
+    },
     "legislacao_decretos": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",
