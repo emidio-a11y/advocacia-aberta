@@ -1,0 +1,40 @@
+name: Validação do projeto
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.0
+
+      - name: Validar Agent Skills e espelho do Claude Code
+        run: python3 ferramentas/manutencao/verificar_compatibilidade.py
+
+      - name: Auditar estrutura da base jurídica
+        run: python3 ferramentas/manutencao/auditar_base_juridica.py --strict
+
+      - name: Validar esquemas, campos obrigatórios e referências cruzadas
+        run: python3 ferramentas/manutencao/validar_integridade.py
+
+      - name: Verificar o manifesto de versões dos snapshots
+        run: python3 ferramentas/manutencao/gerar_snapshots.py --verificar
+
+      - name: Testar pipeline de atualização da base jurídica
+        run: python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
+
+      - name: Testar motor de pesquisa jurídica
+        working-directory: ferramentas/pesquisa/vade-mecum
+        run: |
+          bun install --frozen-lockfile
+          bun run typecheck
+          bun test
+          bun run avaliar

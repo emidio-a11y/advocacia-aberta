@@ -1,0 +1,55 @@
+name: Monitorar fontes da base jurídica
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  monitorar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Verificar sinais de mudança nas fontes oficiais
+        run: |
+          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
+            > monitoramento.txt
+          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar --json \
+            > monitoramento.json
+          cat monitoramento.txt
+
+      - name: Abrir ou atualizar a issue de monitoramento
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mudancas=$(python3 -c "import json; print(json.load(open('monitoramento.json'))['mudancas'])")
+          erros=$(python3 -c "import json; print(json.load(open('monitoramento.json'))['erros'])")
+          if [ "$mudancas" = "0" ] && [ "$erros" = "0" ]; then
+            echo "Nenhum sinal de mudança; nenhuma issue necessária."
+            exit 0
+          fi
+          titulo="Monitoramento da base jurídica: sinais de mudança nas fontes"
+          corpo_arquivo=corpo-issue.md
+          {
+            echo "O monitoramento agendado encontrou **${mudancas} sinal(is) de mudança** e ${erros} erro(s)."
+            echo
+            echo '```'
+            cat monitoramento.txt
+            echo '```'
+            echo
+            echo "O sinal indica que vale preparar um candidato; a decisão de promover continua humana."
+            echo "Procedimento completo em \`base-juridica/ATUALIZACAO.md\`."
+          } > "$corpo_arquivo"
+          numero=$(gh issue list --state open --search "\"$titulo\" in:title" \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$numero" ]; then
+            gh issue comment "$numero" --body-file "$corpo_arquivo"
+          else
+            gh issue create --title "$titulo" --body-file "$corpo_arquivo"
+          fi
