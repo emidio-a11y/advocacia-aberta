@@ -1,0 +1,1279 @@
+{
+  "_meta": {
+    "codigo": "LC109",
+    "nome": "Previdência Complementar (regras gerais)",
+    "lei": "Lei Complementar 109/2001",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm",
+    "total_artigos": 79,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, é facultativo, baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal, observado o disposto nesta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%201o%20O%20regime%20de%20previd%C3%AAncia%20privada%2C%20de%20car%C3%A1ter%20complementar%20e%20organizado%20de%20forma%20aut%C3%B4noma%20em%20rela%C3%A7%C3%A3o%20ao%20regime%20geral%20de%20previd%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o O regime de previdência complementar é operado por entidades de previdência complementar que têm por objetivo principal instituir e executar planos de benefícios de caráter previdenciário, na forma desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%202o%20O%20regime%20de%20previd%C3%AAncia%20complementar%20%C3%A9%20operado%20por%20entidades%20de%20previd%C3%AAncia%20complementar%20que%20t%C3%AAm%20por%20objetivo%20principal%20instituir%20e%20executar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o A ação do Estado será exercida com o objetivo de:\n\nI - formular a política de previdência complementar;\n\nII - disciplinar, coordenar e supervisionar as atividades reguladas por esta Lei Complementar, compatibilizando-as com as políticas previdenciária e de desenvolvimento social e econômico-financeiro;\n\nIII - determinar padrões mínimos de segurança econômico-financeira e atuarial, com fins específicos de preservar a liquidez, a solvência e o equilíbrio dos planos de benefícios, isoladamente, e de cada entidade de previdência complementar, no conjunto de suas atividades;\n\nIV - assegurar aos participantes e assistidos o pleno acesso às informações relativas à gestão de seus respectivos planos de benefícios;\n\nV - fiscalizar as entidades de previdência complementar, suas operações e aplicar penalidades; e\n\nVI - proteger os interesses dos participantes e assistidos dos planos de benefícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%203o%20A%20a%C3%A7%C3%A3o%20do%20Estado%20ser%C3%A1%20exercida%20com%20o%20objetivo%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o As entidades de previdência complementar são classificadas em fechadas e abertas, conforme definido nesta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%204o%20As%20entidades%20de%20previd%C3%AAncia%20complementar%20s%C3%A3o%20classificadas%20em%20fechadas%20e%20abertas%2C%20conforme%20definido%20nesta%20Lei%20Complementar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o A normatização, coordenação, supervisão, fiscalização e controle das atividades das entidades de previdência complementar serão realizados por órgão ou órgãos regulador e fiscalizador, conforme disposto em lei, observado o disposto no inciso VI do art. 84 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%205o%20A%20normatiza%C3%A7%C3%A3o%2C%20coordena%C3%A7%C3%A3o%2C%20supervis%C3%A3o%2C%20fiscaliza%C3%A7%C3%A3o%20e%20controle%20das%20atividades%20das%20entidades%20de%20previd%C3%AAncia%20complementar%20ser%C3%A3o%20realizados%20por%20%C3%B3rg%C3%A3o%20ou%20%C3%B3rg%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o As entidades de previdência complementar somente poderão instituir e operar planos de benefícios para os quais tenham autorização específica, segundo as normas aprovadas pelo órgão regulador e fiscalizador, conforme disposto nesta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%206o%20As%20entidades%20de%20previd%C3%AAncia%20complementar%20somente%20poder%C3%A3o%20instituir%20e%20operar%20planos%20de%20benef%C3%ADcios%20para%20os%20quais%20tenham%20autoriza%C3%A7%C3%A3o%20espec%C3%ADfica%2C%20segundo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Os planos de benefícios atenderão a padrões mínimos fixados pelo órgão regulador e fiscalizador, com o objetivo de assegurar transparência, solvência, liquidez e equilíbrio econômico-financeiro e atuarial.\n\nParágrafo único. O órgão regulador e fiscalizador normatizará planos de benefícios nas modalidades de benefício definido, contribuição definida e contribuição variável, bem como outras formas de planos de benefícios que reflitam a evolução técnica e possibilitem flexibilidade ao regime de previdência complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%207o%20Os%20planos%20de%20benef%C3%ADcios%20atender%C3%A3o%20a%20padr%C3%B5es%20m%C3%ADnimos%20fixados%20pelo%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%2C%20com%20o%20objetivo%20de%20assegurar%20transpar%C3%AAncia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Para efeito desta Lei Complementar, considera-se:\n\nI - participante, a pessoa física que aderir aos planos de benefícios; e\n\nII - assistido, o participante ou seu beneficiário em gozo de benefício de prestação continuada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%208o%20Para%20efeito%20desta%20Lei%20Complementar%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o As entidades de previdência complementar constituirão reservas técnicas, provisões e fundos, de conformidade com os critérios e normas fixados pelo órgão regulador e fiscalizador.\n\n§ 1o A aplicação dos recursos correspondentes às reservas, às provisões e aos fundos de que trata o caput será feita conforme diretrizes estabelecidas pelo Conselho Monetário Nacional.\n\n§ 2o É vedado o estabelecimento de aplicações compulsórias ou limites mínimos de aplicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%209o%20As%20entidades%20de%20previd%C3%AAncia%20complementar%20constituir%C3%A3o%20reservas%20t%C3%A9cnicas%2C%20provis%C3%B5es%20e%20fundos%2C%20de%20conformidade%20com%20os%20crit%C3%A9rios%20e%20normas%20fixados%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Deverão constar dos regulamentos dos planos de benefícios, das propostas de inscrição e dos certificados de participantes condições mínimas a serem fixadas pelo órgão regulador e fiscalizador.\n\n§ 1o A todo pretendente será disponibilizado e a todo participante entregue, quando de sua inscrição no plano de benefícios:\n\nI - certificado onde estarão indicados os requisitos que regulam a admissão e a manutenção da qualidade de participante, bem como os requisitos de elegibilidade e forma de cálculo dos benefícios;\n\nII - cópia do regulamento atualizado do plano de benefícios e material explicativo que descreva, em linguagem simples e precisa, as características do plano;\n\nIII - cópia do contrato, no caso de plano coletivo de que trata o inciso II do art. 26 desta Lei Complementar; e\n\nIV - outros documentos que vierem a ser especificados pelo órgão regulador e fiscalizador.\n\n§ 2o Na divulgação dos planos de benefícios, não poderão ser incluídas informações diferentes das que figurem nos documentos referidos neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2010.%20Dever%C3%A3o%20constar%20dos%20regulamentos%20dos%20planos%20de%20benef%C3%ADcios%2C%20das%20propostas%20de%20inscri%C3%A7%C3%A3o%20e%20dos%20certificados%20de%20participantes%20condi%C3%A7%C3%B5es%20m%C3%ADnimas%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Para assegurar compromissos assumidos junto aos participantes e assistidos de planos de benefícios, as entidades de previdência complementar poderão contratar operações de resseguro, por iniciativa própria ou por determinação do órgão regulador e fiscalizador, observados o regulamento do respectivo plano e demais disposições legais e regulamentares.\n\nParágrafo único. Fica facultada às entidades fechadas a garantia referida no caput por meio de fundo de solvência, a ser instituído na forma da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2011.%20Para%20assegurar%20compromissos%20assumidos%20junto%20aos%20participantes%20e%20assistidos%20de%20planos%20de%20benef%C3%ADcios%2C%20as%20entidades%20de%20previd%C3%AAncia%20complementar%20poder%C3%A3o%20contratar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os planos de benefícios de entidades fechadas poderão ser instituídos por patrocinadores e instituidores, observado o disposto no art. 31 desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2012.%20Os%20planos%20de%20benef%C3%ADcios%20de%20entidades%20fechadas%20poder%C3%A3o%20ser%20institu%C3%ADdos%20por%20patrocinadores%20e%20instituidores%2C%20observado%20o%20disposto%20no%20art.%2031",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A formalização da condição de patrocinador ou instituidor de um plano de benefício dar-se-á mediante convênio de adesão a ser celebrado entre o patrocinador ou instituidor e a entidade fechada, em relação a cada plano de benefícios por esta administrado e executado, mediante prévia autorização do órgão regulador e fiscalizador, conforme regulamentação do Poder Executivo.\n\n§ 1o Admitir-se-á solidariedade entre patrocinadores ou entre instituidores, com relação aos respectivos planos, desde que expressamente prevista no convênio de adesão.\n\n§ 2o O órgão regulador e fiscalizador, dentre outros requisitos, estabelecerá o número mínimo de participantes admitido para cada modalidade de plano de benefício.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2013.%20A%20formaliza%C3%A7%C3%A3o%20da%20condi%C3%A7%C3%A3o%20de%20patrocinador%20ou%20instituidor%20de%20um%20plano%20de%20benef%C3%ADcio%20dar-se-%C3%A1%20mediante%20conv%C3%AAnio%20de%20ades%C3%A3o%20a%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Os planos de benefícios deverão prever os seguintes institutos, observadas as normas estabelecidas pelo órgão regulador e fiscalizador:\n\nI - benefício proporcional diferido, em razão da cessação do vínculo empregatício com o patrocinador ou associativo com o instituidor antes da aquisição do direito ao benefício pleno, a ser concedido quando cumpridos os requisitos de elegibilidade;\n\nII - portabilidade do direito acumulado pelo participante para outro plano;\n\nIII - resgate da totalidade das contribuições vertidas ao plano pelo participante, descontadas as parcelas do custeio administrativo, na forma regulamentada; e\n\nIV - faculdade de o participante manter o valor de sua contribuição e a do patrocinador, no caso de perda parcial ou total da remuneração recebida, para assegurar a percepção dos benefícios nos níveis correspondentes àquela remuneração ou em outros definidos em normas regulamentares.\n\n§ 1o Não será admitida a portabilidade na inexistência de cessação do vínculo empregatício do participante com o patrocinador.\n\n§ 2o O órgão regulador e fiscalizador estabelecerá período de carência para o instituto de que trata o inciso II deste artigo.\n\n§ 3o Na regulamentação do instituto previsto no inciso II do caput deste artigo, o órgão regulador e fiscalizador observará, entre outros requisitos específicos, os seguintes:\n\nI - se o plano de benefícios foi instituído antes ou depois da publicação desta Lei Complementar;\n\nII - a modalidade do plano de benefícios.\n\n§ 4o O instituto de que trata o inciso II deste artigo, quando efetuado para entidade aberta, somente será admitido quando a integralidade dos recursos financeiros correspondentes ao direito acumulado do participante for utilizada para a contratação de renda mensal vitalícia ou por prazo determinado, cujo prazo mínimo não poderá ser inferior ao período em que a respectiva reserva foi constituída, limitado ao mínimo de quinze anos, observadas as normas estabelecidas pelo órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2014.%20Os%20planos%20de%20benef%C3%ADcios%20dever%C3%A3o%20prever%20os%20seguintes%20institutos%2C%20observadas%20as%20normas%20estabelecidas%20pelo%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Para efeito do disposto no inciso II do caput do artigo anterior, fica estabelecido que:\n\nI - a portabilidade não caracteriza resgate; e\n\nII - é vedado que os recursos financeiros correspondentes transitem pelos participantes dos planos de benefícios, sob qualquer forma.\n\nParágrafo único. O direito acumulado corresponde às reservas constituídas pelo participante ou à reserva matemática, o que lhe for mais favorável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2015.%20Para%20efeito%20do%20disposto%20no%20inciso%20II%20do%20caput%20do%20artigo%20anterior%2C%20fica%20estabelecido%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os planos de benefícios devem ser, obrigatoriamente, oferecidos a todos os empregados dos patrocinadores ou associados dos instituidores.\n\n§ 1o Para os efeitos desta Lei Complementar, são equiparáveis aos empregados e associados a que se refere o caput os gerentes, diretores, conselheiros ocupantes de cargo eletivo e outros dirigentes de patrocinadores e instituidores.\n\n§ 2o É facultativa a adesão aos planos a que se refere o caput deste artigo.\n\n§ 3o O disposto no caput deste artigo não se aplica aos planos em extinção, assim considerados aqueles aos quais o acesso de novos participantes esteja vedado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2016.%20Os%20planos%20de%20benef%C3%ADcios%20devem%20ser%2C%20obrigatoriamente%2C%20oferecidos%20a%20todos%20os%20empregados%20dos%20patrocinadores%20ou%20associados%20dos%20instituidores.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As alterações processadas nos regulamentos dos planos aplicam-se a todos os participantes das entidades fechadas, a partir de sua aprovação pelo órgão regulador e fiscalizador, observado o direito acumulado de cada participante.\n\nParágrafo único. Ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano é assegurada a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2017.%20As%20altera%C3%A7%C3%B5es%20processadas%20nos%20regulamentos%20dos%20planos%20aplicam-se%20a%20todos%20os%20participantes%20das%20entidades%20fechadas%2C%20a%20partir%20de%20sua%20aprova%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O plano de custeio, com periodicidade mínima anual, estabelecerá o nível de contribuição necessário à constituição das reservas garantidoras de benefícios, fundos, provisões e à cobertura das demais despesas, em conformidade com os critérios fixados pelo órgão regulador e fiscalizador.\n\n§ 1o O regime financeiro de capitalização é obrigatório para os benefícios de pagamento em prestações que sejam programadas e continuadas.\n\n§ 2o Observados critérios que preservem o equilíbrio financeiro e atuarial, o cálculo das reservas técnicas atenderá às peculiaridades de cada plano de benefícios e deverá estar expresso em nota técnica atuarial, de apresentação obrigatória, incluindo as hipóteses utilizadas, que deverão guardar relação com as características da massa e da atividade desenvolvida pelo patrocinador ou instituidor.\n\n§ 3o As reservas técnicas, provisões e fundos de cada plano de benefícios e os exigíveis a qualquer título deverão atender permanentemente à cobertura integral dos compromissos assumidos pelo plano de benefícios, ressalvadas excepcionalidades definidas pelo órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2018.%20O%20plano%20de%20custeio%2C%20com%20periodicidade%20m%C3%ADnima%20anual%2C%20estabelecer%C3%A1%20o%20n%C3%ADvel%20de%20contribui%C3%A7%C3%A3o%20necess%C3%A1rio%20%C3%A0%20constitui%C3%A7%C3%A3o%20das%20reservas%20garantidoras%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As contribuições destinadas à constituição de reservas terão como finalidade prover o pagamento de benefícios de caráter previdenciário, observadas as especificidades previstas nesta Lei Complementar.\n\nParágrafo único. As contribuições referidas no caput classificam-se em:\n\nI - normais, aquelas destinadas ao custeio dos benefícios previstos no respectivo plano; e\n\nII - extraordinárias, aquelas destinadas ao custeio de déficits, serviço passado e outras finalidades não incluídas na contribuição normal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2019.%20As%20contribui%C3%A7%C3%B5es%20destinadas%20%C3%A0%20constitui%C3%A7%C3%A3o%20de%20reservas%20ter%C3%A3o%20como%20finalidade%20prover%20o%20pagamento%20de%20benef%C3%ADcios%20de%20car%C3%A1ter%20previdenci%C3%A1rio%2C%20observadas%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O resultado superavitário dos planos de benefícios das entidades fechadas, ao final do exercício, satisfeitas as exigências regulamentares relativas aos mencionados planos, será destinado à constituição de reserva de contingência, para garantia de benefícios, até o limite de vinte e cinco por cento do valor das reservas matemáticas.\n\n§ 1o Constituída a reserva de contingência, com os valores excedentes será constituída reserva especial para revisão do plano de benefícios.\n\n§ 2o A não utilização da reserva especial por três exercícios consecutivos determinará a revisão obrigatória do plano de benefícios da entidade.\n\n§ 3o Se a revisão do plano de benefícios implicar redução de contribuições, deverá ser levada em consideração a proporção existente entre as contribuições dos patrocinadores e dos participantes, inclusive dos assistidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2020.%20O%20resultado%20superavit%C3%A1rio%20dos%20planos%20de%20benef%C3%ADcios%20das%20entidades%20fechadas%2C%20ao%20final%20do%20exerc%C3%ADcio%2C%20satisfeitas%20as%20exig%C3%AAncias%20regulamentares%20relativas%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O resultado deficitário nos planos ou nas entidades fechadas será equacionado por patrocinadores, participantes e assistidos, na proporção existente entre as suas contribuições, sem prejuízo de ação regressiva contra dirigentes ou terceiros que deram causa a dano ou prejuízo à entidade de previdência complementar.\n\n§ 1o O equacionamento referido no caput poderá ser feito, dentre outras formas, por meio do aumento do valor das contribuições, instituição de contribuição adicional ou redução do valor dos benefícios a conceder, observadas as normas estabelecidas pelo órgão regulador e fiscalizador.\n\n§ 2o A redução dos valores dos benefícios não se aplica aos assistidos, sendo cabível, nesse caso, a instituição de contribuição adicional para cobertura do acréscimo ocorrido em razão da revisão do plano.\n\n§ 3o Na hipótese de retorno à entidade dos recursos equivalentes ao déficit previsto no caput deste artigo, em conseqüência de apuração de responsabilidade mediante ação judicial ou administrativa, os respectivos valores deverão ser aplicados necessariamente na redução proporcional das contribuições devidas ao plano ou em melhoria dos benefícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2021.%20O%20resultado%20deficit%C3%A1rio%20nos%20planos%20ou%20nas%20entidades%20fechadas%20ser%C3%A1%20equacionado%20por%20patrocinadores%2C%20participantes%20e%20assistidos%2C%20na%20propor%C3%A7%C3%A3o%20existente%20entre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Ao final de cada exercício, coincidente com o ano civil, as entidades fechadas deverão levantar as demonstrações contábeis e as avaliações atuariais de cada plano de benefícios, por pessoa jurídica ou profissional legalmente habilitado, devendo os resultados ser encaminhados ao órgão regulador e fiscalizador e divulgados aos participantes e aos assistidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2022.%20Ao%20final%20de%20cada%20exerc%C3%ADcio%2C%20coincidente%20com%20o%20ano%20civil%2C%20as%20entidades%20fechadas%20dever%C3%A3o%20levantar%20as%20demonstra%C3%A7%C3%B5es%20cont%C3%A1beis%20e%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As entidades fechadas deverão manter atualizada sua contabilidade, de acordo com as instruções do órgão regulador e fiscalizador, consolidando a posição dos planos de benefícios que administram e executam, bem como submetendo suas contas a auditores independentes.\n\nParágrafo único. Ao final de cada exercício serão elaboradas as demonstrações contábeis e atuariais consolidadas, sem prejuízo dos controles por plano de benefícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2023.%20As%20entidades%20fechadas%20dever%C3%A3o%20manter%20atualizada%20sua%20contabilidade%2C%20de%20acordo%20com%20as%20instru%C3%A7%C3%B5es%20do%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%2C%20consolidando%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A divulgação aos participantes, inclusive aos assistidos, das informações pertinentes aos planos de benefícios dar-se-á ao menos uma vez ao ano, na forma, nos prazos e pelos meios estabelecidos pelo órgão regulador e fiscalizador.\n\nParágrafo único. As informações requeridas formalmente pelo participante ou assistido, para defesa de direitos e esclarecimento de situações de interesse pessoal específico deverão ser atendidas pela entidade no prazo estabelecido pelo órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2024.%20A%20divulga%C3%A7%C3%A3o%20aos%20participantes%2C%20inclusive%20aos%20assistidos%2C%20das%20informa%C3%A7%C3%B5es%20pertinentes%20aos%20planos%20de%20benef%C3%ADcios%20dar-se-%C3%A1%20ao%20menos%20uma%20vez%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O órgão regulador e fiscalizador poderá autorizar a extinção de plano de benefícios ou a retirada de patrocínio, ficando os patrocinadores e instituidores obrigados ao cumprimento da totalidade dos compromissos assumidos com a entidade relativamente aos direitos dos participantes, assistidos e obrigações legais, até a data da retirada ou extinção do plano.\n\nParágrafo único. Para atendimento do disposto no caput deste artigo, a situação de solvência econômico-financeira e atuarial da entidade deverá ser atestada por profissional devidamente habilitado, cujos relatórios serão encaminhados ao órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2025.%20O%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%20poder%C3%A1%20autorizar%20a%20extin%C3%A7%C3%A3o%20de%20plano%20de%20benef%C3%ADcios%20ou%20a%20retirada%20de%20patroc%C3%ADnio%2C%20ficando%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Os planos de benefícios instituídos por entidades abertas poderão ser:\n\nI - individuais, quando acessíveis a quaisquer pessoas físicas; ou\n\nII - coletivos, quando tenham por objetivo garantir benefícios previdenciários a pessoas físicas vinculadas, direta ou indiretamente, a uma pessoa jurídica contratante.\n\n§ 1o O plano coletivo poderá ser contratado por uma ou várias pessoas jurídicas.\n\n§ 2o O vínculo indireto de que trata o inciso II deste artigo refere-se aos casos em que uma entidade representativa de pessoas jurídicas contrate plano previdenciário coletivo para grupos de pessoas físicas vinculadas a suas filiadas.\n\n§ 3o Os grupos de pessoas de que trata o parágrafo anterior poderão ser constituídos por uma ou mais categorias específicas de empregados de um mesmo empregador, podendo abranger empresas coligadas, controladas ou subsidiárias, e por membros de associações legalmente constituídas, de caráter profissional ou classista, e seus cônjuges ou companheiros e dependentes econômicos.\n\n§ 4o Para efeito do disposto no parágrafo anterior, são equiparáveis aos empregados e associados os diretores, conselheiros ocupantes de cargos eletivos e outros dirigentes ou gerentes da pessoa jurídica contratante.\n\n§ 5o A implantação de um plano coletivo será celebrada mediante contrato, na forma, nos critérios, nas condições e nos requisitos mínimos a serem estabelecidos pelo órgão regulador.\n\n§ 6o É vedada à entidade aberta a contratação de plano coletivo com pessoa jurídica cujo objetivo principal seja estipular, em nome de terceiros, planos de benefícios coletivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2026.%20Os%20planos%20de%20benef%C3%ADcios%20institu%C3%ADdos%20por%20entidades%20abertas%20poder%C3%A3o%20ser%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Observados os conceitos, a forma, as condições e os critérios fixados pelo órgão regulador, é assegurado aos participantes o direito à portabilidade, inclusive para plano de benefício de entidade fechada, e ao resgate de recursos das reservas técnicas, provisões e fundos, total ou parcialmente.\n\n§ 1o A portabilidade não caracteriza resgate.\n\n§ 2o É vedado, no caso de portabilidade:\n\nI - que os recursos financeiros transitem pelos participantes, sob qualquer forma; e\n\nII - a transferência de recursos entre participantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2027.%20Observados%20os%20conceitos%2C%20a%20forma%2C%20as%20condi%C3%A7%C3%B5es%20e%20os%20crit%C3%A9rios%20fixados%20pelo%20%C3%B3rg%C3%A3o%20regulador%2C%20%C3%A9%20assegurado%20aos%20participantes%20o%20direito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Os ativos garantidores das reservas técnicas, das provisões e dos fundos serão vinculados à ordem do órgão fiscalizador, na forma a ser regulamentada, e poderão ter sua livre movimentação suspensa pelo referido órgão, a partir da qual não poderão ser alienados ou prometidos alienar sem sua prévia e expressa autorização, sendo nulas, de pleno direito, quaisquer operações realizadas com violação daquela suspensão.\n\n§ 1o Sendo imóvel, o vínculo será averbado à margem do respectivo registro no Cartório de Registro Geral de Imóveis competente, mediante comunicação do órgão fiscalizador.\n\n§ 2o Os ativos garantidores a que se refere o caput, bem como os direitos deles decorrentes, não poderão ser gravados, sob qualquer forma, sem prévia e expressa autorização do órgão fiscalizador, sendo nulos os gravames constituídos com infringência do disposto neste parágrafo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2028.%20Os%20ativos%20garantidores%20das%20reservas%20t%C3%A9cnicas%2C%20das%20provis%C3%B5es%20e%20dos%20fundos%20ser%C3%A3o%20vinculados%20%C3%A0%20ordem%20do%20%C3%B3rg%C3%A3o%20fiscalizador%2C%20na%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Compete ao órgão regulador, entre outras atribuições que lhe forem conferidas por lei:\n\nI - fixar padrões adequados de segurança atuarial e econômico-financeira, para preservação da liquidez e solvência dos planos de benefícios, isoladamente, e de cada entidade aberta, no conjunto de suas atividades;\n\nII - estabelecer as condições em que o órgão fiscalizador pode determinar a suspensão da comercialização ou a transferência, entre entidades abertas, de planos de benefícios; e\n\nIII - fixar condições que assegurem transparência, acesso a informações e fornecimento de dados relativos aos planos de benefícios, inclusive quanto à gestão dos respectivos recursos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2029.%20Compete%20ao%20%C3%B3rg%C3%A3o%20regulador%2C%20entre%20outras%20atribui%C3%A7%C3%B5es%20que%20lhe%20forem%20conferidas%20por%20lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. É facultativa a utilização de corretores na venda dos planos de benefícios das entidades abertas.\n\nParágrafo único. Aos corretores de planos de benefícios aplicam-se a legislação e a regulamentação da profissão de corretor de seguros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2030.%20%C3%89%20facultativa%20a%20utiliza%C3%A7%C3%A3o%20de%20corretores%20na%20venda%20dos%20planos%20de%20benef%C3%ADcios%20das%20entidades%20abertas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. As entidades fechadas são aquelas acessíveis, na forma regulamentada pelo órgão regulador e fiscalizador, exclusivamente:\n\nI - aos empregados de uma empresa ou grupo de empresas e aos servidores da União, dos Estados, do Distrito Federal e dos Municípios, entes denominados patrocinadores; e\n\nII - aos associados ou membros de pessoas jurídicas de caráter profissional, classista ou setorial, denominadas instituidores.\n\n§ 1o As entidades fechadas organizar-se-ão sob a forma de fundação ou sociedade civil, sem fins lucrativos.\n\n§ 2o As entidades fechadas constituídas por instituidores referidos no inciso II do caput deste artigo deverão, cumulativamente:\n\nI - terceirizar a gestão dos recursos garantidores das reservas técnicas e provisões mediante a contratação de instituição especializada autorizada a funcionar pelo Banco Central do Brasil ou outro órgão competente;\n\nII - ofertar exclusivamente planos de benefícios na modalidade contribuição definida, na forma do parágrafo único do art. 7o desta Lei Complementar.\n\n§ 3o Os responsáveis pela gestão dos recursos de que trata o inciso I do parágrafo anterior deverão manter segregados e totalmente isolados o seu patrimônio dos patrimônios do instituidor e da entidade fechada.\n\n§ 4o Na regulamentação de que trata o caput, o órgão regulador e fiscalizador estabelecerá o tempo mínimo de existência do instituidor e o seu número mínimo de associados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2031.%20As%20entidades%20fechadas%20s%C3%A3o%20aquelas%20acess%C3%ADveis%2C%20na%20forma%20regulamentada%20pelo%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%2C%20exclusivamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. As entidades fechadas têm como objeto a administração e execução de planos de benefícios de natureza previdenciária.\n\nParágrafo único. É vedada às entidades fechadas a prestação de quaisquer serviços que não estejam no âmbito de seu objeto, observado o disposto no art. 76.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2032.%20As%20entidades%20fechadas%20t%C3%AAm%20como%20objeto%20a%20administra%C3%A7%C3%A3o%20e%20execu%C3%A7%C3%A3o%20de%20planos%20de%20benef%C3%ADcios%20de%20natureza%20previdenci%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Dependerão de prévia e expressa autorização do órgão regulador e fiscalizador:\n\nI - a constituição e o funcionamento da entidade fechada, bem como a aplicação dos respectivos estatutos, dos regulamentos dos planos de benefícios e suas alterações;\n\nII - as operações de fusão, cisão, incorporação ou qualquer outra forma de reorganização societária, relativas às entidades fechadas;\n\nIII - as retiradas de patrocinadores; e\n\nIV - as transferências de patrocínio, de grupo de participantes, de planos e de reservas entre entidades fechadas.\n\n§ 1o Excetuado o disposto no inciso III deste artigo, é vedada a transferência para terceiros de participantes, de assistidos e de reservas constituídas para garantia de benefícios de risco atuarial programado, de acordo com normas estabelecidas pelo órgão regulador e fiscalizador.\n\n§ 2o Para os assistidos de planos de benefícios na modalidade contribuição definida que mantiveram esta característica durante a fase de percepção de renda programada, o órgão regulador e fiscalizador poderá, em caráter excepcional, autorizar a transferência dos recursos garantidores dos benefícios para entidade de previdência complementar ou companhia seguradora autorizada a operar planos de previdência complementar, com o objetivo específico de contratar plano de renda vitalícia, observadas as normas aplicáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2033.%20Depender%C3%A3o%20de%20pr%C3%A9via%20e%20expressa%20autoriza%C3%A7%C3%A3o%20do%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As entidades fechadas podem ser qualificadas da seguinte forma, além de outras que possam ser definidas pelo órgão regulador e fiscalizador:\n\nI - de acordo com os planos que administram:\n\na) de plano comum, quando administram plano ou conjunto de planos acessíveis ao universo de participantes; e\n\nb) com multiplano, quando administram plano ou conjunto de planos de benefícios para diversos grupos de participantes, com independência patrimonial;\n\nII - de acordo com seus patrocinadores ou instituidores:\n\na) singulares, quando estiverem vinculadas a apenas um patrocinador ou instituidor; e\n\nb) multipatrocinadas, quando congregarem mais de um patrocinador ou instituidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2034.%20As%20entidades%20fechadas%20podem%20ser%20qualificadas%20da%20seguinte%20forma%2C%20al%C3%A9m%20de%20outras%20que%20possam%20ser%20definidas%20pelo%20%C3%B3rg%C3%A3o%20regulador%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As entidades fechadas deverão manter estrutura mínima composta por conselho deliberativo, conselho fiscal e diretoria-executiva. (Regulamento)\n\n§ 1o O estatuto deverá prever representação dos participantes e assistidos nos conselhos deliberativo e fiscal, assegurado a eles no mínimo um terço das vagas.\n\n§ 2o Na composição dos conselhos deliberativo e fiscal das entidades qualificadas como multipatrocinadas, deverá ser considerado o número de participantes vinculados a cada patrocinador ou instituidor, bem como o montante dos respectivos patrimônios.\n\n§ 3o Os membros do conselho deliberativo ou do conselho fiscal deverão atender aos seguintes requisitos mínimos:\n\nI - comprovada experiência no exercício de atividades nas áreas financeira, administrativa, contábil, jurídica, de fiscalização ou de auditoria;\n\nII - não ter sofrido condenação criminal transitada em julgado; e\n\nIII - não ter sofrido penalidade administrativa por infração da legislação da seguridade social ou como servidor público.\n\n§ 4o Os membros da diretoria-executiva deverão ter formação de nível superior e atender aos requisitos do parágrafo anterior.\n\n§ 5o Será informado ao órgão regulador e fiscalizador o responsável pelas aplicações dos recursos da entidade, escolhido entre os membros da diretoria-executiva.\n\n§ 6o Os demais membros da diretoria-executiva responderão solidariamente com o dirigente indicado na forma do parágrafo anterior pelos danos e prejuízos causados à entidade para os quais tenham concorrido.\n\n§ 7o Sem prejuízo do disposto no § 1o do art. 31 desta Lei Complementar, os membros da diretoria-executiva e dos conselhos deliberativo e fiscal poderão ser remunerados pelas entidades fechadas, de acordo com a legislação aplicável.\n\n§ 8o Em caráter excepcional, poderão ser ocupados até trinta por cento dos cargos da diretoria-executiva por membros sem formação de nível superior, sendo assegurada a possibilidade de participação neste órgão de pelo menos um membro, quando da aplicação do referido percentual resultar número inferior à unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2035.%20As%20entidades%20fechadas%20dever%C3%A3o%20manter%20estrutura%20m%C3%ADnima%20composta%20por%20conselho%20deliberativo%2C%20conselho%20fiscal%20e%20diretoria-executiva.%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. As entidades abertas são constituídas unicamente sob a forma de sociedades anônimas e têm por objetivo instituir e operar planos de benefícios de caráter previdenciário concedidos em forma de renda continuada ou pagamento único, acessíveis a quaisquer pessoas físicas.\n\nParágrafo único. As sociedades seguradoras autorizadas a operar exclusivamente no ramo vida poderão ser autorizadas a operar os planos de benefícios a que se refere o caput, a elas se aplicando as disposições desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2036.%20As%20entidades%20abertas%20s%C3%A3o%20constitu%C3%ADdas%20unicamente%20sob%20a%20forma%20de%20sociedades%20an%C3%B4nimas%20e%20t%C3%AAm%20por%20objetivo%20instituir%20e%20operar%20planos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Compete ao órgão regulador, entre outras atribuições que lhe forem conferidas por lei, estabelecer:\n\nI - os critérios para a investidura e posse em cargos e funções de órgãos estatutários de entidades abertas, observado que o pretendente não poderá ter sofrido condenação criminal transitada em julgado, penalidade administrativa por infração da legislação da seguridade social ou como servidor público;\n\nII - as normas gerais de contabilidade, auditoria, atuária e estatística a serem observadas pelas entidades abertas, inclusive quanto à padronização dos planos de contas, balanços gerais, balancetes e outras demonstrações financeiras, critérios sobre sua periodicidade, sobre a publicação desses documentos e sua remessa ao órgão fiscalizador;\n\nIII - os índices de solvência e liquidez, bem como as relações patrimoniais a serem atendidas pelas entidades abertas, observado que seu patrimônio líquido não poderá ser inferior ao respectivo passivo não operacional; e\n\nIV - as condições que assegurem acesso a informações e fornecimento de dados relativos a quaisquer aspectos das atividades das entidades abertas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2037.%20Compete%20ao%20%C3%B3rg%C3%A3o%20regulador%2C%20entre%20outras%20atribui%C3%A7%C3%B5es%20que%20lhe%20forem%20conferidas%20por%20lei%2C%20estabelecer%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Dependerão de prévia e expressa aprovação do órgão fiscalizador:\n\nI - a constituição e o funcionamento das entidades abertas, bem como as disposições de seus estatutos e as respectivas alterações;\n\nII - a comercialização dos planos de benefícios;\n\nIII - os atos relativos à eleição e conseqüente posse de administradores e membros de conselhos estatutários; e\n\nIII – os atos relativos à eleição e posse de administradores e membros de conselhos estatutários, podendo o Conselho Nacional de Seguros Privados (CNSP) dispor sobre hipóteses em que essa aprovação será dispensável; (Redação dada pela Lei Complementar nº 213, de 2025)\n\nIV - as operações relativas à transferência do controle acionário, fusão, cisão, incorporação ou qualquer outra forma de reorganização societária.\n\nParágrafo único. O órgão regulador disciplinará o tratamento administrativo a ser emprestado ao exame dos assuntos constantes deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2038.%20Depender%C3%A3o%20de%20pr%C3%A9via%20e%20expressa%20aprova%C3%A7%C3%A3o%20do%20%C3%B3rg%C3%A3o%20fiscalizador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. As entidades abertas deverão comunicar ao órgão fiscalizador, no prazo e na forma estabelecidos:\n\nI - os atos relativos às alterações estatutárias e à eleição de administradores e membros de conselhos estatutários; e\n\nII - o responsável pela aplicação dos recursos das reservas técnicas, provisões e fundos, escolhido dentre os membros da diretoria-executiva.\n\nParágrafo único. Os demais membros da diretoria-executiva responderão solidariamente com o dirigente indicado na forma do inciso II deste artigo pelos danos e prejuízos causados à entidade para os quais tenham concorrido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2039.%20As%20entidades%20abertas%20dever%C3%A3o%20comunicar%20ao%20%C3%B3rg%C3%A3o%20fiscalizador%2C%20no%20prazo%20e%20na%20forma%20estabelecidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. As entidades abertas deverão levantar no último dia útil de cada mês e semestre, respectivamente, balancetes mensais e balanços gerais, com observância das regras e dos critérios estabelecidos pelo órgão regulador.\n\nParágrafo único. As sociedades seguradoras autorizadas a operar planos de benefícios deverão apresentar nas demonstrações financeiras, de forma discriminada, as atividades previdenciárias e as de seguros, de acordo com critérios fixados pelo órgão regulador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2040.%20As%20entidades%20abertas%20dever%C3%A3o%20levantar%20no%20%C3%BAltimo%20dia%20%C3%BAtil%20de%20cada%20m%C3%AAs%20e%20semestre%2C%20respectivamente%2C%20balancetes%20mensais%20e%20balan%C3%A7os%20gerais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. No desempenho das atividades de fiscalização das entidades de previdência complementar, os servidores do órgão regulador e fiscalizador terão livre acesso às respectivas entidades, delas podendo requisitar e apreender livros, notas técnicas e quaisquer documentos, caracterizando-se embaraço à fiscalização, sujeito às penalidades previstas em lei, qualquer dificuldade oposta à consecução desse objetivo.\n\n§ 1o O órgão regulador e fiscalizador das entidades fechadas poderá solicitar dos patrocinadores e instituidores informações relativas aos aspectos específicos que digam respeito aos compromissos assumidos frente aos respectivos planos de benefícios.\n\n§ 2o A fiscalização a cargo do Estado não exime os patrocinadores e os instituidores da responsabilidade pela supervisão sistemática das atividades das suas respectivas entidades fechadas.\n\n§ 3o As pessoas físicas ou jurídicas submetidas ao regime desta Lei Complementar ficam obrigadas a prestar quaisquer informações ou esclarecimentos solicitados pelo órgão regulador e fiscalizador.\n\n§ 4o O disposto neste artigo aplica-se, sem prejuízo da competência das autoridades fiscais, relativamente ao pleno exercício das atividades de fiscalização tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2041.%20No%20desempenho%20das%20atividades%20de%20fiscaliza%C3%A7%C3%A3o%20das%20entidades%20de%20previd%C3%AAncia%20complementar%2C%20os%20servidores%20do%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%20ter%C3%A3o%20livre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O órgão regulador e fiscalizador poderá, em relação às entidades fechadas, nomear administrador especial, a expensas da entidade, com poderes próprios de intervenção e de liquidação extrajudicial, com o objetivo de sanear plano de benefícios específico, caso seja constatada na sua administração e execução alguma das hipóteses previstas nos arts. 44 e 48 desta Lei Complementar.\n\nParágrafo único. O ato de nomeação de que trata o caput estabelecerá as condições, os limites e as atribuições do administrador especial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2042.%20O%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%20poder%C3%A1%2C%20em%20rela%C3%A7%C3%A3o%20%C3%A0s%20entidades%20fechadas%2C%20nomear%20administrador%20especial%2C%20a%20expensas%20da%20entidade%2C%20com%20poderes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O órgão fiscalizador poderá, em relação às entidades abertas, desde que se verifique uma das condições previstas no art. 44 desta Lei Complementar, nomear, por prazo determinado, prorrogável a seu critério, e a expensas da respectiva entidade, um diretor-fiscal.\n\n§ 1o O diretor-fiscal, sem poderes de gestão, terá suas atribuições estabelecidas pelo órgão regulador, cabendo ao órgão fiscalizador fixar sua remuneração.\n\n§ 2o Se reconhecer a inviabilidade de recuperação da entidade aberta ou a ausência de qualquer condição para o seu funcionamento, o diretor-fiscal proporá ao órgão fiscalizador a decretação da intervenção ou da liquidação extrajudicial.\n\n§ 3o O diretor-fiscal não está sujeito à indisponibilidade de bens, nem aos demais efeitos decorrentes da decretação da intervenção ou da liquidação extrajudicial da entidade aberta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2043.%20O%20%C3%B3rg%C3%A3o%20fiscalizador%20poder%C3%A1%2C%20em%20rela%C3%A7%C3%A3o%20%C3%A0s%20entidades%20abertas%2C%20desde%20que%20se%20verifique%20uma%20das%20condi%C3%A7%C3%B5es%20previstas%20no%20art.%2044",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Para resguardar os direitos dos participantes e assistidos poderá ser decretada a intervenção na entidade de previdência complementar, desde que se verifique, isolada ou cumulativamente:\n\nI - irregularidade ou insuficiência na constituição das reservas técnicas, provisões e fundos, ou na sua cobertura por ativos garantidores;\n\nII - aplicação dos recursos das reservas técnicas, provisões e fundos de forma inadequada ou em desacordo com as normas expedidas pelos órgãos competentes;\n\nIII - descumprimento de disposições estatutárias ou de obrigações previstas nos regulamentos dos planos de benefícios, convênios de adesão ou contratos dos planos coletivos de que trata o inciso II do art. 26 desta Lei Complementar;\n\nIV - situação econômico-financeira insuficiente à preservação da liquidez e solvência de cada um dos planos de benefícios e da entidade no conjunto de suas atividades;\n\nV - situação atuarial desequilibrada;\n\nVI - outras anormalidades definidas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2044.%20Para%20resguardar%20os%20direitos%20dos%20participantes%20e%20assistidos%20poder%C3%A1%20ser%20decretada%20a%20interven%C3%A7%C3%A3o%20na%20entidade%20de%20previd%C3%AAncia%20complementar%2C%20desde%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A intervenção será decretada pelo prazo necessário ao exame da situação da entidade e encaminhamento de plano destinado à sua recuperação.\n\nParágrafo único. Dependerão de prévia e expressa autorização do órgão competente os atos do interventor que impliquem oneração ou disposição do patrimônio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2045.%20A%20interven%C3%A7%C3%A3o%20ser%C3%A1%20decretada%20pelo%20prazo%20necess%C3%A1rio%20ao%20exame%20da%20situa%C3%A7%C3%A3o%20da%20entidade%20e%20encaminhamento%20de%20plano%20destinado%20%C3%A0%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A intervenção cessará quando aprovado o plano de recuperação da entidade pelo órgão competente ou se decretada a sua liquidação extrajudicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2046.%20A%20interven%C3%A7%C3%A3o%20cessar%C3%A1%20quando%20aprovado%20o%20plano%20de%20recupera%C3%A7%C3%A3o%20da%20entidade%20pelo%20%C3%B3rg%C3%A3o%20competente%20ou%20se%20decretada%20a%20sua%20liquida%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. As entidades fechadas não poderão solicitar concordata e não estão sujeitas a falência, mas somente a liquidação extrajudicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2047.%20As%20entidades%20fechadas%20n%C3%A3o%20poder%C3%A3o%20solicitar%20concordata%20e%20n%C3%A3o%20est%C3%A3o%20sujeitas%20a%20fal%C3%AAncia%2C%20mas%20somente%20a%20liquida%C3%A7%C3%A3o%20extrajudicial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A liquidação extrajudicial será decretada quando reconhecida a inviabilidade de recuperação da entidade de previdência complementar ou pela ausência de condição para seu funcionamento.\n\nParágrafo único. Para os efeitos desta Lei Complementar, entende-se por ausência de condição para funcionamento de entidade de previdência complementar:\n\nI - (VETADO)\n\nII - (VETADO)\n\nIII - o não atendimento às condições mínimas estabelecidas pelo órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2048.%20A%20liquida%C3%A7%C3%A3o%20extrajudicial%20ser%C3%A1%20decretada%20quando%20reconhecida%20a%20inviabilidade%20de%20recupera%C3%A7%C3%A3o%20da%20entidade%20de%20previd%C3%AAncia%20complementar%20ou%20pela%20aus%C3%AAncia%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A decretação da liquidação extrajudicial produzirá, de imediato, os seguintes efeitos:\n\nI - suspensão das ações e execuções iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda;\n\nII - vencimento antecipado das obrigações da liquidanda;\n\nIII - não incidência de penalidades contratuais contra a entidade por obrigações vencidas em decorrência da decretação da liquidação extrajudicial;\n\nIV - não fluência de juros contra a liquidanda enquanto não integralmente pago o passivo;\n\nV - interrupção da prescrição em relação às obrigações da entidade em liquidação;\n\nVI - suspensão de multa e juros em relação às dívidas da entidade;\n\nVII - inexigibilidade de penas pecuniárias por infrações de natureza administrativa;\n\nVIII - interrupção do pagamento à liquidanda das contribuições dos participantes e dos patrocinadores, relativas aos planos de benefícios.\n\n§ 1o As faculdades previstas nos incisos deste artigo aplicam-se, no caso das entidades abertas de previdência complementar, exclusivamente, em relação às suas atividades de natureza previdenciária.\n\n§ 2o O disposto neste artigo não se aplica às ações e aos débitos de natureza tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2049.%20A%20decreta%C3%A7%C3%A3o%20da%20liquida%C3%A7%C3%A3o%20extrajudicial%20produzir%C3%A1%2C%20de%20imediato%2C%20os%20seguintes%20efeitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. O liquidante organizará o quadro geral de credores, realizará o ativo e liquidará o passivo.\n\n§ 1o Os participantes, inclusive os assistidos, dos planos de benefícios ficam dispensados de se habilitarem a seus respectivos créditos, estejam estes sendo recebidos ou não.\n\n§ 2o Os participantes, inclusive os assistidos, dos planos de benefícios terão privilégio especial sobre os ativos garantidores das reservas técnicas e, caso estes não sejam suficientes para a cobertura dos direitos respectivos, privilégio geral sobre as demais partes não vinculadas ao ativo.\n\n§ 3o Os participantes que já estiverem recebendo benefícios, ou que já tiverem adquirido este direito antes de decretada a liquidação extrajudicial, terão preferência sobre os demais participantes.\n\n§ 4o Os créditos referidos nos parágrafos anteriores deste artigo não têm preferência sobre os créditos de natureza trabalhista ou tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2050.%20O%20liquidante%20organizar%C3%A1%20o%20quadro%20geral%20de%20credores%2C%20realizar%C3%A1%20o%20ativo%20e%20liquidar%C3%A1%20o%20passivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Serão obrigatoriamente levantados, na data da decretação da liquidação extrajudicial de entidade de previdência complementar, o balanço geral de liquidação e as demonstrações contábeis e atuariais necessárias à determinação do valor das reservas individuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2051.%20Ser%C3%A3o%20obrigatoriamente%20levantados%2C%20na%20data%20da%20decreta%C3%A7%C3%A3o%20da%20liquida%C3%A7%C3%A3o%20extrajudicial%20de%20entidade%20de%20previd%C3%AAncia%20complementar%2C%20o%20balan%C3%A7o%20geral%20de%20liquida%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A liquidação extrajudicial poderá, a qualquer tempo, ser levantada, desde que constatados fatos supervenientes que viabilizem a recuperação da entidade de previdência complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2052.%20A%20liquida%C3%A7%C3%A3o%20extrajudicial%20poder%C3%A1%2C%20a%20qualquer%20tempo%2C%20ser%20levantada%2C%20desde%20que%20constatados%20fatos%20supervenientes%20que%20viabilizem%20a%20recupera%C3%A7%C3%A3o%20da%20entidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A liquidação extrajudicial das entidades fechadas encerrar-se-á com a aprovação, pelo órgão regulador e fiscalizador, das contas finais do liquidante e com a baixa nos devidos registros.\n\nParágrafo único. Comprovada pelo liquidante a inexistência de ativos para satisfazer a possíveis créditos reclamados contra a entidade, deverá tal situação ser comunicada ao juízo competente e efetivados os devidos registros, para o encerramento do processo de liquidação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2053.%20A%20liquida%C3%A7%C3%A3o%20extrajudicial%20das%20entidades%20fechadas%20encerrar-se-%C3%A1%20com%20a%20aprova%C3%A7%C3%A3o%2C%20pelo%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%2C%20das%20contas%20finais%20do%20liquidante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. O interventor terá amplos poderes de administração e representação e o liquidante plenos poderes de administração, representação e liquidação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2054.%20O%20interventor%20ter%C3%A1%20amplos%20poderes%20de%20administra%C3%A7%C3%A3o%20e%20representa%C3%A7%C3%A3o%20e%20o%20liquidante%20plenos%20poderes%20de%20administra%C3%A7%C3%A3o%2C%20representa%C3%A7%C3%A3o%20e%20liquida%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Compete ao órgão fiscalizador decretar, aprovar e rever os atos de que tratam os arts. 45, 46 e 48 desta Lei Complementar, bem como nomear, por intermédio do seu dirigente máximo, o interventor ou o liquidante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2055.%20Compete%20ao%20%C3%B3rg%C3%A3o%20fiscalizador%20decretar%2C%20aprovar%20e%20rever%20os%20atos%20de%20que%20tratam%20os%20arts.%2045%2C%2046%20e%2048%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. A intervenção e a liquidação extrajudicial determinam a perda do mandato dos administradores e membros dos conselhos estatutários das entidades, sejam titulares ou suplentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2056.%20A%20interven%C3%A7%C3%A3o%20e%20a%20liquida%C3%A7%C3%A3o%20extrajudicial%20determinam%20a%20perda%20do%20mandato%20dos%20administradores%20e%20membros%20dos%20conselhos%20estatut%C3%A1rios%20das%20entidades%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Os créditos das entidades de previdência complementar, em caso de liquidação ou falência de patrocinadores, terão privilégio especial sobre a massa, respeitado o privilégio dos créditos trabalhistas e tributários.\n\nParágrafo único. Os administradores dos respectivos patrocinadores serão responsabilizados pelos danos ou prejuízos causados às entidades de previdência complementar, especialmente pela falta de aporte das contribuições a que estavam obrigados, observado o disposto no parágrafo único do art. 63 desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2057.%20Os%20cr%C3%A9ditos%20das%20entidades%20de%20previd%C3%AAncia%20complementar%2C%20em%20caso%20de%20liquida%C3%A7%C3%A3o%20ou%20fal%C3%AAncia%20de%20patrocinadores%2C%20ter%C3%A3o%20privil%C3%A9gio%20especial%20sobre%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. No caso de liquidação extrajudicial de entidade fechada motivada pela falta de aporte de contribuições de patrocinadores ou pelo não recolhimento de contribuições de participantes, os administradores daqueles também serão responsabilizados pelos danos ou prejuízos causados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2058.%20No%20caso%20de%20liquida%C3%A7%C3%A3o%20extrajudicial%20de%20entidade%20fechada%20motivada%20pela%20falta%20de%20aporte%20de%20contribui%C3%A7%C3%B5es%20de%20patrocinadores%20ou%20pelo%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Os administradores, controladores e membros de conselhos estatutários das entidades de previdência complementar sob intervenção ou em liquidação extrajudicial ficarão com todos os seus bens indisponíveis, não podendo, por qualquer forma, direta ou indireta, aliená-los ou onerá-los, até a apuração e liquidação final de suas responsabilidades.\n\n§ 1o A indisponibilidade prevista neste artigo decorre do ato que decretar a intervenção ou liquidação extrajudicial e atinge todos aqueles que tenham estado no exercício das funções nos doze meses anteriores.\n\n§ 2o A indisponibilidade poderá ser estendida aos bens de pessoas que, nos últimos doze meses, os tenham adquirido, a qualquer título, das pessoas referidas no caput e no parágrafo anterior, desde que haja seguros elementos de convicção de que se trata de simulada transferência com o fim de evitar os efeitos desta Lei Complementar.\n\n§ 3o Não se incluem nas disposições deste artigo os bens considerados inalienáveis ou impenhoráveis pela legislação em vigor.\n\n§ 4o Não são também atingidos pela indisponibilidade os bens objeto de contrato de alienação, de promessas de compra e venda e de cessão de direitos, desde que os respectivos instrumentos tenham sido levados ao competente registro público até doze meses antes da data de decretação da intervenção ou liquidação extrajudicial.\n\n§ 5o Não se aplica a indisponibilidade de bens das pessoas referidas no caput deste artigo no caso de liquidação extrajudicial de entidades fechadas que deixarem de ter condições para funcionar por motivos totalmente desvinculados do exercício das suas atribuições, situação esta que poderá ser revista a qualquer momento, pelo órgão regulador e fiscalizador, desde que constatada a existência de irregularidades ou indícios de crimes por elas praticados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2059.%20Os%20administradores%2C%20controladores%20e%20membros%20de%20conselhos%20estatut%C3%A1rios%20das%20entidades%20de%20previd%C3%AAncia%20complementar%20sob%20interven%C3%A7%C3%A3o%20ou%20em%20liquida%C3%A7%C3%A3o%20extrajudicial%20ficar%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O interventor ou o liquidante comunicará a indisponibilidade de bens aos órgãos competentes para os devidos registros e publicará edital para conhecimento de terceiros.\n\nParágrafo único. A autoridade que receber a comunicação ficará, relativamente a esses bens, impedida de:\n\nI - fazer transcrições, inscrições ou averbações de documentos públicos ou particulares;\n\nII - arquivar atos ou contratos que importem em transferência de cotas sociais, ações ou partes beneficiárias;\n\nIII - realizar ou registrar operações e títulos de qualquer natureza; e\n\nIV - processar a transferência de propriedade de veículos automotores, aeronaves e embarcações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2060.%20O%20interventor%20ou%20o%20liquidante%20comunicar%C3%A1%20a%20indisponibilidade%20de%20bens%20aos%20%C3%B3rg%C3%A3os%20competentes%20para%20os%20devidos%20registros%20e%20publicar%C3%A1%20edital",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. A apuração de responsabilidades específicas referida no caput do art. 59 desta Lei Complementar será feita mediante inquérito a ser instaurado pelo órgão regulador e fiscalizador, sem prejuízo do disposto nos arts. 63 a 65 desta Lei Complementar.\n\n§ 1o Se o inquérito concluir pela inexistência de prejuízo, será arquivado no órgão fiscalizador.\n\n§ 2o Concluindo o inquérito pela existência de prejuízo, será ele, com o respectivo relatório, remetido pelo órgão regulador e fiscalizador ao Ministério Público, observados os seguintes procedimentos:\n\nI - o interventor ou o liquidante, de ofício ou a requerimento de qualquer interessado que não tenha sido indiciado no inquérito, após aprovação do respectivo relatório pelo órgão fiscalizador, determinará o levantamento da indisponibilidade de que trata o art. 59 desta Lei Complementar;\n\nII - será mantida a indisponibilidade com relação às pessoas indiciadas no inquérito, após aprovação do respectivo relatório pelo órgão fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2061.%20A%20apura%C3%A7%C3%A3o%20de%20responsabilidades%20espec%C3%ADficas%20referida%20no%20caput%20do%20art.%2059%20desta%20Lei%20Complementar%20ser%C3%A1%20feita%20mediante%20inqu%C3%A9rito%20a%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Aplicam-se à intervenção e à liquidação das entidades de previdência complementar, no que couber, os dispositivos da legislação sobre a intervenção e liquidação extrajudicial das instituições financeiras, cabendo ao órgão regulador e fiscalizador as funções atribuídas ao Banco Central do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2062.%20Aplicam-se%20%C3%A0%20interven%C3%A7%C3%A3o%20e%20%C3%A0%20liquida%C3%A7%C3%A3o%20das%20entidades%20de%20previd%C3%AAncia%20complementar%2C%20no%20que%20couber%2C%20os%20dispositivos%20da%20legisla%C3%A7%C3%A3o%20sobre%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Os administradores de entidade, os procuradores com poderes de gestão, os membros de conselhos estatutários, o interventor e o liquidante responderão civilmente pelos danos ou prejuízos que causarem, por ação ou omissão, às entidades de previdência complementar.\n\nParágrafo único. São também responsáveis, na forma do caput, os administradores dos patrocinadores ou instituidores, os atuários, os auditores independentes, os avaliadores de gestão e outros profissionais que prestem serviços técnicos à entidade, diretamente ou por intermédio de pessoa jurídica contratada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2063.%20Os%20administradores%20de%20entidade%2C%20os%20procuradores%20com%20poderes%20de%20gest%C3%A3o%2C%20os%20membros%20de%20conselhos%20estatut%C3%A1rios%2C%20o%20interventor%20e%20o%20liquidante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. O órgão fiscalizador competente, o Banco Central do Brasil, a Comissão de Valores Mobiliários ou a Secretaria da Receita Federal, constatando a existência de práticas irregulares ou indícios de crimes em entidades de previdência complementar, noticiará ao Ministério Público, enviando-lhe os documentos comprobatórios.\n\nParágrafo único. O sigilo de operações não poderá ser invocado como óbice à troca de informações entre os órgãos mencionados no caput, nem ao fornecimento de informações requisitadas pelo Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2064.%20O%20%C3%B3rg%C3%A3o%20fiscalizador%20competente%2C%20o%20Banco%20Central%20do%20Brasil%2C%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20ou%20a%20Secretaria%20da%20Receita%20Federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. A infração de qualquer disposição desta Lei Complementar ou de seu regulamento, para a qual não haja penalidade expressamente cominada, sujeita a pessoa física ou jurídica responsável, conforme o caso e a gravidade da infração, às seguintes penalidades administrativas, observado o disposto em regulamento:\n\nI - advertência;\n\nII - suspensão do exercício de atividades em entidades de previdência complementar pelo prazo de até cento e oitenta dias;\n\nIII - inabilitação, pelo prazo de dois a dez anos, para o exercício de cargo ou função em entidades de previdência complementar, sociedades seguradoras, instituições financeiras e no serviço público; e\n\nIV - multa de dois mil reais a um milhão de reais, devendo esses valores, a partir da publicação desta Lei Complementar, ser reajustados de forma a preservar, em caráter permanente, seus valores reais.\n\n§ 1o A penalidade prevista no inciso IV será imputada ao agente responsável, respondendo solidariamente a entidade de previdência complementar, assegurado o direito de regresso, e poderá ser aplicada cumulativamente com as constantes dos incisos I, II ou III deste artigo.\n\n§ 2o Das decisões do órgão fiscalizador caberá recurso, no prazo de quinze dias, com efeito suspensivo, ao órgão competente.\n\n§ 3o O recurso a que se refere o parágrafo anterior, na hipótese do inciso IV deste artigo, somente será conhecido se for comprovado pelo requerente o pagamento antecipado, em favor do órgão fiscalizador, de trinta por cento do valor da multa aplicada. (Vide Súmula Vinculante nº 21)\n\n§ 4o Em caso de reincidência, a multa será aplicada em dobro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2065.%20A%20infra%C3%A7%C3%A3o%20de%20qualquer%20disposi%C3%A7%C3%A3o%20desta%20Lei%20Complementar%20ou%20de%20seu%20regulamento%2C%20para%20a%20qual%20n%C3%A3o%20haja%20penalidade%20expressamente%20cominada%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. As infrações serão apuradas mediante processo administrativo, na forma do regulamento, aplicando-se, no que couber, o disposto na Lei no 9.784, de 29 de janeiro de 1999. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2066.%20As%20infra%C3%A7%C3%B5es%20ser%C3%A3o%20apuradas%20mediante%20processo%20administrativo%2C%20na%20forma%20do%20regulamento%2C%20aplicando-se%2C%20no%20que%20couber%2C%20o%20disposto%20na%20Lei%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. O exercício de atividade de previdência complementar por qualquer pessoa, física ou jurídica, sem a autorização devida do órgão competente, inclusive a comercialização de planos de benefícios, bem como a captação ou a administração de recursos de terceiros com o objetivo de, direta ou indiretamente, adquirir ou conceder benefícios previdenciários sob qualquer forma, submete o responsável à penalidade de inabilitação pelo prazo de dois a dez anos para o exercício de cargo ou função em entidade de previdência complementar, sociedades seguradoras, instituições financeiras e no serviço público, além de multa aplicável de acordo com o disposto no inciso IV do art. 65 desta Lei Complementar, bem como noticiar ao Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2067.%20O%20exerc%C3%ADcio%20de%20atividade%20de%20previd%C3%AAncia%20complementar%20por%20qualquer%20pessoa%2C%20f%C3%ADsica%20ou%20jur%C3%ADdica%2C%20sem%20a%20autoriza%C3%A7%C3%A3o%20devida%20do%20%C3%B3rg%C3%A3o%20competente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. As contribuições do empregador, os benefícios e as condições contratuais previstos nos estatutos, regulamentos e planos de benefícios das entidades de previdência complementar não integram o contrato de trabalho dos participantes, assim como, à exceção dos benefícios concedidos, não integram a remuneração dos participantes.\n\n§ 1o Os benefícios serão considerados direito adquirido do participante quando implementadas todas as condições estabelecidas para elegibilidade consignadas no regulamento do respectivo plano.\n\n§ 2o A concessão de benefício pela previdência complementar não depende da concessão de benefício pelo regime geral de previdência social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2068.%20As%20contribui%C3%A7%C3%B5es%20do%20empregador%2C%20os%20benef%C3%ADcios%20e%20as%20condi%C3%A7%C3%B5es%20contratuais%20previstos%20nos%20estatutos%2C%20regulamentos%20e%20planos%20de%20benef%C3%ADcios%20das%20entidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. As contribuições vertidas para as entidades de previdência complementar, destinadas ao custeio dos planos de benefícios de natureza previdenciária, são dedutíveis para fins de incidência de imposto sobre a renda, nos limites e nas condições fixadas em lei.\n\n§ 1o Sobre as contribuições de que trata o caput não incidem tributação e contribuições de qualquer natureza.\n\n§ 2o Sobre a portabilidade de recursos de reservas técnicas, fundos e provisões entre planos de benefícios de entidades de previdência complementar, titulados pelo mesmo participante, não incidem tributação e contribuições de qualquer natureza.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2069.%20As%20contribui%C3%A7%C3%B5es%20vertidas%20para%20as%20entidades%20de%20previd%C3%AAncia%20complementar%2C%20destinadas%20ao%20custeio%20dos%20planos%20de%20benef%C3%ADcios%20de%20natureza%20previdenci%C3%A1ria%2C%20s%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2070.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. É vedado às entidades de previdência complementar realizar quaisquer operações comerciais e financeiras:\n\nI - com seus administradores, membros dos conselhos estatutários e respectivos cônjuges ou companheiros, e com seus parentes até o segundo grau;\n\nII - com empresa de que participem as pessoas a que se refere o inciso anterior, exceto no caso de participação de até cinco por cento como acionista de empresa de capital aberto; e\n\nIII - tendo como contraparte, mesmo que indiretamente, pessoas físicas e jurídicas a elas ligadas, na forma definida pelo órgão regulador.\n\nParágrafo único. A vedação deste artigo não se aplica ao patrocinador, aos participantes e aos assistidos, que, nessa condição, realizarem operações com a entidade de previdência complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2071.%20%C3%89%20vedado%20%C3%A0s%20entidades%20de%20previd%C3%AAncia%20complementar%20realizar%20quaisquer%20opera%C3%A7%C3%B5es%20comerciais%20e%20financeiras%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Compete privativamente ao órgão regulador e fiscalizador das entidades fechadas zelar pelas sociedades civis e fundações, como definido no art. 31 desta Lei Complementar, não se aplicando a estas o disposto nos arts. 26 e 30 do Código Civil e 1.200 a 1.204 do Código de Processo Civil e demais disposições em contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2072.%20Compete%20privativamente%20ao%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%20das%20entidades%20fechadas%20zelar%20pelas%20sociedades%20civis%20e%20funda%C3%A7%C3%B5es%2C%20como%20definido%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. As entidades abertas serão reguladas também, no que couber, pela legislação aplicável às sociedades seguradoras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2073.%20As%20entidades%20abertas%20ser%C3%A3o%20reguladas%20tamb%C3%A9m%2C%20no%20que%20couber%2C%20pela%20legisla%C3%A7%C3%A3o%20aplic%C3%A1vel%20%C3%A0s%20sociedades%20seguradoras.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Até que seja publicada a lei de que trata o art. 5o desta Lei Complementar, as funções do órgão regulador e do órgão fiscalizador serão exercidas pelo Ministério da Previdência e Assistência Social, por intermédio, respectivamente, do Conselho de Gestão da Previdência Complementar (CGPC) e da Secretaria de Previdência Complementar (SPC), relativamente às entidades fechadas, e pelo Ministério da Fazenda, por intermédio do Conselho Nacional de Seguros Privados (CNSP) e da Superintendência de Seguros Privados (SUSEP), em relação, respectivamente, à regulação e fiscalização das entidades abertas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2074.%20At%C3%A9%20que%20seja%20publicada%20a%20lei%20de%20que%20trata%20o%20art.%205o%20desta%20Lei%20Complementar%2C%20as%20fun%C3%A7%C3%B5es%20do%20%C3%B3rg%C3%A3o%20regulador",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Sem prejuízo do benefício, prescreve em cinco anos o direito às prestações não pagas nem reclamadas na época própria, resguardados os direitos dos menores dependentes, dos incapazes ou dos ausentes, na forma do Código Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2075.%20Sem%20preju%C3%ADzo%20do%20benef%C3%ADcio%2C%20prescreve%20em%20cinco%20anos%20o%20direito%20%C3%A0s%20presta%C3%A7%C3%B5es%20n%C3%A3o%20pagas%20nem%20reclamadas%20na%20%C3%A9poca%20pr%C3%B3pria%2C%20resguardados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. As entidades fechadas que, na data da publicação desta Lei Complementar, prestarem a seus participantes e assistidos serviços assistenciais à saúde poderão continuar a fazê-lo, desde que seja estabelecido um custeio específico para os planos assistenciais e que a sua contabilização e o seu patrimônio sejam mantidos em separado em relação ao plano previdenciário.\n\n§ 1o Os programas assistenciais de natureza financeira deverão ser extintos a partir da data de publicação desta Lei Complementar, permanecendo em vigência, até o seu termo, apenas os compromissos já firmados.\n\n§ 2o Consideram-se programas assistenciais de natureza financeira, para os efeitos desta Lei Complementar, aqueles em que o rendimento situa-se abaixo da taxa mínima atuarial do respectivo plano de benefícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2076.%20As%20entidades%20fechadas%20que%2C%20na%20data%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%20Complementar%2C%20prestarem%20a%20seus%20participantes%20e%20assistidos%20servi%C3%A7os%20assistenciais%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. As entidades abertas sem fins lucrativos e as sociedades seguradoras autorizadas a funcionar em conformidade com a Lei no 6.435, de 15 de julho de 1977, terão o prazo de dois anos para se adaptar ao disposto nesta Lei Complementar.\n\n§ 1o No caso das entidades abertas sem fins lucrativos já autorizadas a funcionar, é permitida a manutenção de sua organização jurídica como sociedade civil, sendo-lhes vedado participar, direta ou indiretamente, de pessoas jurídicas, exceto quando tiverem participação acionária:\n\nI - minoritária, em sociedades anônimas de capital aberto, na forma regulamentada pelo Conselho Monetário Nacional, para aplicação de recursos de reservas técnicas, fundos e provisões;\n\nII - em sociedade seguradora e/ou de capitalização.\n\n§ 2o É vedado à sociedade seguradora e/ou de capitalização referida no inciso II do parágrafo anterior participar majoritariamente de pessoas jurídicas, ressalvadas as empresas de suporte ao seu funcionamento e as sociedades anônimas de capital aberto, nas condições previstas no inciso I do parágrafo anterior.\n\n§ 3o A entidade aberta sem fins lucrativos e a sociedade seguradora e/ou de capitalização por ela controlada devem adaptar-se às condições estabelecidas nos §§ 1o e 2o, no mesmo prazo previsto no caput deste artigo.\n\n§ 4o As reservas técnicas de planos já operados por entidades abertas de previdência privada sem fins lucrativos, anteriormente à data de publicação da Lei no 6.435, de 15 de julho de 1977, poderão permanecer garantidas por ativos de propriedade da entidade, existentes à época, dentro de programa gradual de ajuste às normas estabelecidas pelo órgão regulador sobre a matéria, a ser submetido pela entidade ao órgão fiscalizador no prazo máximo de doze meses a contar da data de publicação desta Lei Complementar.\n\n§ 5o O prazo máximo para o término para o programa gradual de ajuste a que se refere o parágrafo anterior não poderá superar cento e vinte meses, contados da data de aprovação do respectivo programa pelo órgão fiscalizador.\n\n§ 6o As entidades abertas sem fins lucrativos que, na data de publicação desta Lei Complementar, já vinham mantendo programas de assistência filantrópica, prévia e expressamente autorizados, poderão, para efeito de cobrança, adicionar às contribuições de seus planos de benefícios valor destinado àqueles programas, observadas as normas estabelecidas pelo órgão regulador.\n\n§ 7o A aplicabilidade do disposto no parágrafo anterior fica sujeita, sob pena de cancelamento da autorização previamente concedida, à prestação anual de contas dos programas filantrópicos e à aprovação pelo órgão competente.\n\n§ 8o O descumprimento de qualquer das obrigações contidas neste artigo sujeita os administradores das entidades abertas sem fins lucrativos e das sociedades seguradora e/ou de capitalização por elas controladas ao Regime Disciplinar previsto nesta Lei Complementar, sem prejuízo da responsabilidade civil por danos ou prejuízos causados, por ação ou omissão, à entidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2077.%20As%20entidades%20abertas%20sem%20fins%20lucrativos%20e%20as%20sociedades%20seguradoras%20autorizadas%20a%20funcionar%20em%20conformidade%20com%20a%20Lei%20no%206.435%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Esta Lei Complementar entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2078.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. Revogam-se as Leis no 6.435, de 15 de julho de 1977, e no 6.462, de 9 de novembro de 1977.\n\nBrasília, 29 de maio de 2001; 180o da Independência e 113o da República.\n\nFERNANDO HENRIQUE CARDOSO José Gregori Pedro Malan Roberto Brant\n\nEste texto não substitui o publicado no DOU de 30.5.2001\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm#:~:text=Art.%2079.%20Revogam-se%20as%20Leis%20no%206.435%2C%20de%2015%20de%20julho%20de%201977%2C%20e%20no%206.462%2C%20de%209%20de%20novembro%20de%201977.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": null
+    }
+  }
+}

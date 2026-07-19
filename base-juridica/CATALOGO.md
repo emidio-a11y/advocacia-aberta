@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 103 | 13.368 registros | 103 diplomas |
+| Legislação | 115 | 13.789 registros | 115 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 110 | — | 28.540.853 bytes, cerca de 29 MB |
+| Total em JSON | 122 | — | 29.221.314 bytes, cerca de 29 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 13.368 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 13.789 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -113,9 +113,10 @@ protocolo comum. O inventário por diploma sai de
 | `codificadas` | 7 | 1.953 | 2026-07-19 |
 | `esparsas_penal` | 17 | 508 | 2026-07-19 |
 | `esparsas_tributario` | 16 | 803 | 2026-07-19 |
+| `esparsas_previdenciario` | 12 | 421 | 2026-07-19 |
 
-Grupos pendentes de materialização: decretos (1) e as nove fatias de esparsas
-por macro-área restantes (151 normas). O Código Comercial de 1850 foi movido
+Grupos pendentes de materialização: decretos (1) e as oito fatias de esparsas
+por macro-área restantes (139 normas). O Código Comercial de 1850 foi movido
 para o grupo `pendentes_especiais` sem materialização: a página compilada
 mistura duas numerações (o corpo do Código, arts. 1 a 913, e o Título Único da
 administração da justiça comercial, com arts. 1 a 30 próprios), e a captura por
@@ -139,10 +140,10 @@ oficial.
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 103 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17) e tributário (16); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 103 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 103 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 103 códigos do registro central |
+| Arquivos disponíveis | 115 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16) e previdenciário (12); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 115 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 115 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 115 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -292,7 +293,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 49 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 52 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

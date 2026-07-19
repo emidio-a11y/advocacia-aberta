@@ -428,6 +428,97 @@
         }
       ]
     },
+    "legislacao_esparsas_previdenciario": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "l10259",
+          "codigo": "L10259",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm",
+          "arquivo_bruto": "l10259.html",
+          "destino": "lei_l10259.json"
+        },
+        {
+          "id": "l10666",
+          "codigo": "L10666",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.666compilado.htm",
+          "arquivo_bruto": "l10666.html",
+          "destino": "lei_l10666.json"
+        },
+        {
+          "id": "l10779",
+          "codigo": "L10779",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.779compilado.htm",
+          "arquivo_bruto": "l10779.html",
+          "destino": "lei_l10779.json"
+        },
+        {
+          "id": "l10887",
+          "codigo": "L10887",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.887compilado.htm",
+          "arquivo_bruto": "l10887.html",
+          "destino": "lei_l10887.json"
+        },
+        {
+          "id": "l12618",
+          "codigo": "L12618",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12618.htm",
+          "arquivo_bruto": "l12618.html",
+          "destino": "lei_l12618.json"
+        },
+        {
+          "id": "l8212",
+          "codigo": "L8212",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8212compilado.htm",
+          "arquivo_bruto": "l8212.html",
+          "destino": "lei_l8212.json"
+        },
+        {
+          "id": "l9717",
+          "codigo": "L9717",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm",
+          "arquivo_bruto": "l9717.html",
+          "destino": "lei_l9717.json"
+        },
+        {
+          "id": "l9796",
+          "codigo": "L9796",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm",
+          "arquivo_bruto": "l9796.html",
+          "destino": "lei_l9796.json"
+        },
+        {
+          "id": "lc108",
+          "codigo": "LC108",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm",
+          "arquivo_bruto": "lc108.html",
+          "destino": "lei_lc108.json"
+        },
+        {
+          "id": "lc109",
+          "codigo": "LC109",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm",
+          "arquivo_bruto": "lc109.html",
+          "destino": "lei_lc109.json"
+        },
+        {
+          "id": "lc142",
+          "codigo": "LC142",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm",
+          "arquivo_bruto": "lc142.html",
+          "destino": "lei_lc142.json"
+        },
+        {
+          "id": "loas",
+          "codigo": "LOAS",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm",
+          "arquivo_bruto": "loas.html",
+          "destino": "lei_loas.json"
+        }
+      ]
+    },
     "legislacao_esparsas_trabalhista": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

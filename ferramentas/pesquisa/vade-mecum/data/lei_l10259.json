@@ -1,0 +1,447 @@
+{
+  "_meta": {
+    "codigo": "L10259",
+    "nome": "Juizados Especiais Federais (JEFs)",
+    "lei": "Lei 10.259/2001",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm",
+    "total_artigos": 27,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o São instituídos os Juizados Especiais Cíveis e Criminais da Justiça Federal, aos quais se aplica, no que não conflitar com esta Lei, o disposto na Lei no 9.099, de 26 de setembro de 1995.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%201o%20S%C3%A3o%20institu%C3%ADdos%20os%20Juizados%20Especiais%20C%C3%ADveis%20e%20Criminais%20da%20Justi%C3%A7a%20Federal%2C%20aos%20quais%20se%20aplica%2C%20no%20que%20n%C3%A3o%20conflitar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Compete ao Juizado Especial Federal Criminal processar e julgar os feitos de competência da Justiça Federal relativos às infrações de menor potencial ofensivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%202o%20Compete%20ao%20Juizado%20Especial%20Federal%20Criminal%20processar%20e%20julgar%20os%20feitos%20de%20compet%C3%AAncia%20da%20Justi%C3%A7a%20Federal%20relativos%20%C3%A0s%20infra%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Compete ao Juizado Especial Federal Cível processar, conciliar e julgar causas de competência da Justiça Federal até o valor de sessenta salários mínimos, bem como executar as suas sentenças.\n\n§ 1o Não se incluem na competência do Juizado Especial Cível as causas:\n\nI - referidas no art. 109, incisos II, III e XI, da Constituição Federal, as ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, execuções fiscais e por improbidade administrativa e as demandas sobre direitos ou interesses difusos, coletivos ou individuais homogêneos;\n\nII - sobre bens imóveis da União, autarquias e fundações públicas federais;\n\nIII - para a anulação ou cancelamento de ato administrativo federal, salvo o de natureza previdenciária e o de lançamento fiscal;\n\nIV - que tenham como objeto a impugnação da pena de demissão imposta a servidores públicos civis ou de sanções disciplinares aplicadas a militares.\n\n§ 2o Quando a pretensão versar sobre obrigações vincendas, para fins de competência do Juizado Especial, a soma de doze parcelas não poderá exceder o valor referido no art. 3o, caput.\n\n§ 3o No foro onde estiver instalada Vara do Juizado Especial, a sua competência é absoluta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%203o%20Compete%20ao%20Juizado%20Especial%20Federal%20C%C3%ADvel%20processar%2C%20conciliar%20e%20julgar%20causas%20de%20compet%C3%AAncia%20da%20Justi%C3%A7a%20Federal%20at%C3%A9%20o%20valor%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O Juiz poderá, de ofício ou a requerimento das partes, deferir medidas cautelares no curso do processo, para evitar dano de difícil reparação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%204o%20O%20Juiz%20poder%C3%A1%2C%20de%20of%C3%ADcio%20ou%20a%20requerimento%20das%20partes%2C%20deferir%20medidas%20cautelares%20no%20curso%20do%20processo%2C%20para%20evitar%20dano",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Exceto nos casos do art. 4o, somente será admitido recurso de sentença definitiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%205o%20Exceto%20nos%20casos%20do%20art.%204o%2C%20somente%20ser%C3%A1%20admitido%20recurso%20de%20senten%C3%A7a%20definitiva.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Podem ser partes no Juizado Especial Federal Cível:\n\nI – como autores, as pessoas físicas e as microempresas e empresas de pequeno porte, assim definidas na Lei no 9.317, de 5 de dezembro de 1996;\n\nII – como rés, a União, autarquias, fundações e empresas públicas federais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%206o%20Podem%20ser%20partes%20no%20Juizado%20Especial%20Federal%20C%C3%ADvel%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o As citações e intimações da União serão feitas na forma prevista nos arts. 35 a 38 da Lei Complementar no 73, de 10 de fevereiro de 1993.\n\nParágrafo único. A citação das autarquias, fundações e empresas públicas será feita na pessoa do representante máximo da entidade, no local onde proposta a causa, quando ali instalado seu escritório ou representação; se não, na sede da entidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%207o%20As%20cita%C3%A7%C3%B5es%20e%20intima%C3%A7%C3%B5es%20da%20Uni%C3%A3o%20ser%C3%A3o%20feitas%20na%20forma%20prevista%20nos%20arts.%2035%20a%2038%20da%20Lei%20Complementar%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o As partes serão intimadas da sentença, quando não proferida esta na audiência em que estiver presente seu representante, por ARMP (aviso de recebimento em mão própria).\n\n§ 1o As demais intimações das partes serão feitas na pessoa dos advogados ou dos Procuradores que oficiem nos respectivos autos, pessoalmente ou por via postal.\n\n§ 2o Os tribunais poderão organizar serviço de intimação das partes e de recepção de petições por meio eletrônico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%208o%20As%20partes%20ser%C3%A3o%20intimadas%20da%20senten%C3%A7a%2C%20quando%20n%C3%A3o%20proferida%20esta%20na%20audi%C3%AAncia%20em%20que%20estiver%20presente%20seu%20representante%2C%20por%20ARMP",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Não haverá prazo diferenciado para a prática de qualquer ato processual pelas pessoas jurídicas de direito público, inclusive a interposição de recursos, devendo a citação para audiência de conciliação ser efetuada com antecedência mínima de trinta dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%209o%20N%C3%A3o%20haver%C3%A1%20prazo%20diferenciado%20para%20a%20pr%C3%A1tica%20de%20qualquer%20ato%20processual%20pelas%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%2C%20inclusive%20a%20interposi%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. As partes poderão designar, por escrito, representantes para a causa, advogado ou não.\n\nParágrafo único. Os representantes judiciais da União, autarquias, fundações e empresas públicas federais, bem como os indicados na forma do caput, ficam autorizados a conciliar, transigir ou desistir, nos processos da competência dos Juizados Especiais Federais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2010.%20As%20partes%20poder%C3%A3o%20designar%2C%20por%20escrito%2C%20representantes%20para%20a%20causa%2C%20advogado%20ou%20n%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A entidade pública ré deverá fornecer ao Juizado a documentação de que disponha para o esclarecimento da causa, apresentando-a até a instalação da audiência de conciliação.\n\nParágrafo único. Para a audiência de composição dos danos resultantes de ilícito criminal (arts. 71, 72 e 74 da Lei no 9.099, de 26 de setembro de 1995), o representante da entidade que comparecer terá poderes para acordar, desistir ou transigir, na forma do art. 10.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2011.%20A%20entidade%20p%C3%BAblica%20r%C3%A9%20dever%C3%A1%20fornecer%20ao%20Juizado%20a%20documenta%C3%A7%C3%A3o%20de%20que%20disponha%20para%20o%20esclarecimento%20da%20causa%2C%20apresentando-a%20at%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Para efetuar o exame técnico necessário à conciliação ou ao julgamento da causa, o Juiz nomeará pessoa habilitada, que apresentará o laudo até cinco dias antes da audiência, independentemente de intimação das partes.\n\n§ 1o Os honorários do técnico serão antecipados à conta de verba orçamentária do respectivo Tribunal e, quando vencida na causa a entidade pública, seu valor será incluído na ordem de pagamento a ser feita em favor do Tribunal.\n\n§ 2o Nas ações previdenciárias e relativas à assistência social, havendo designação de exame, serão as partes intimadas para, em dez dias, apresentar quesitos e indicar assistentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2012.%20Para%20efetuar%20o%20exame%20t%C3%A9cnico%20necess%C3%A1rio%20%C3%A0%20concilia%C3%A7%C3%A3o%20ou%20ao%20julgamento%20da%20causa%2C%20o%20Juiz%20nomear%C3%A1%20pessoa%20habilitada%2C%20que%20apresentar%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Nas causas de que trata esta Lei, não haverá reexame necessário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2013.%20Nas%20causas%20de%20que%20trata%20esta%20Lei%2C%20n%C3%A3o%20haver%C3%A1%20reexame%20necess%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.\n\n§ 1o O pedido fundado em divergência entre Turmas da mesma Região será julgado em reunião conjunta das Turmas em conflito, sob a presidência do Juiz Coordenador.\n\n§ 2o O pedido fundado em divergência entre decisões de turmas de diferentes regiões ou da proferida em contrariedade a súmula ou jurisprudência dominante do STJ será julgado por Turma de Uniformização, integrada por juízes de Turmas Recursais, sob a presidência do Coordenador da Justiça Federal.\n\n§ 3o A reunião de juízes domiciliados em cidades diversas será feita pela via eletrônica.\n\n§ 4o Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.\n\n§ 5o No caso do § 4o, presente a plausibilidade do direito invocado e havendo fundado receio de dano de difícil reparação, poderá o relator conceder, de ofício ou a requerimento do interessado, medida liminar determinando a suspensão dos processos nos quais a controvérsia esteja estabelecida.\n\n§ 6o Eventuais pedidos de uniformização idênticos, recebidos subseqüentemente em quaisquer Turmas Recursais, ficarão retidos nos autos, aguardando-se pronunciamento do Superior Tribunal de Justiça.\n\n§ 7o Se necessário, o relator pedirá informações ao Presidente da Turma Recursal ou Coordenador da Turma de Uniformização e ouvirá o Ministério Público, no prazo de cinco dias. Eventuais interessados, ainda que não sejam partes no processo, poderão se manifestar, no prazo de trinta dias.\n\n§ 8o Decorridos os prazos referidos no § 7o, o relator incluirá o pedido em pauta na Seção, com preferência sobre todos os demais feitos, ressalvados os processos com réus presos, os habeas corpus e os mandados de segurança.\n\n§ 9o Publicado o acórdão respectivo, os pedidos retidos referidos no § 6o serão apreciados pelas Turmas Recursais, que poderão exercer juízo de retratação ou declará-los prejudicados, se veicularem tese não acolhida pelo Superior Tribunal de Justiça.\n\n§ 10. Os Tribunais Regionais, o Superior Tribunal de Justiça e o Supremo Tribunal Federal, no âmbito de suas competências, expedirão normas regulamentando a composição dos órgãos e os procedimentos a serem adotados para o processamento e o julgamento do pedido de uniformização e do recurso extraordinário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2014.%20Caber%C3%A1%20pedido%20de%20uniformiza%C3%A7%C3%A3o%20de%20interpreta%C3%A7%C3%A3o%20de%20lei%20federal%20quando%20houver%20diverg%C3%AAncia%20entre%20decis%C3%B5es%20sobre%20quest%C3%B5es%20de%20direito%20material%20proferidas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O recurso extraordinário, para os efeitos desta Lei, será processado e julgado segundo o estabelecido nos §§ 4o a 9o do art. 14, além da observância das normas do Regimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2015.%20O%20recurso%20extraordin%C3%A1rio%2C%20para%20os%20efeitos%20desta%20Lei%2C%20ser%C3%A1%20processado%20e%20julgado%20segundo%20o%20estabelecido%20nos%20%C2%A7%C2%A7%204o%20a%209o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O cumprimento do acordo ou da sentença, com trânsito em julgado, que imponham obrigação de fazer, não fazer ou entrega de coisa certa, será efetuado mediante ofício do Juiz à autoridade citada para a causa, com cópia da sentença ou do acordo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2016.%20O%20cumprimento%20do%20acordo%20ou%20da%20senten%C3%A7a%2C%20com%20tr%C3%A2nsito%20em%20julgado%2C%20que%20imponham%20obriga%C3%A7%C3%A3o%20de%20fazer%2C%20n%C3%A3o%20fazer%20ou%20entrega",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento será efetuado no prazo de sessenta dias, contados da entrega da requisição, por ordem do Juiz, à autoridade citada para a causa, na agência mais próxima da Caixa Econômica Federal ou do Banco do Brasil, independentemente de precatório.\n\n§ 1o Para os efeitos do § 3o do art. 100 da Constituição Federal, as obrigações ali definidas como de pequeno valor, a serem pagas independentemente de precatório, terão como limite o mesmo valor estabelecido nesta Lei para a competência do Juizado Especial Federal Cível (art. 3o, caput).\n\n§ 2o Desatendida a requisição judicial, o Juiz determinará o seqüestro do numerário suficiente ao cumprimento da decisão.\n\n§ 3o São vedados o fracionamento, repartição ou quebra do valor da execução, de modo que o pagamento se faça, em parte, na forma estabelecida no § 1o deste artigo, e, em parte, mediante expedição do precatório, e a expedição de precatório complementar ou suplementar do valor pago.\n\n§ 4o Se o valor da execução ultrapassar o estabelecido no § 1o, o pagamento far-se-á, sempre, por meio do precatório, sendo facultado à parte exeqüente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório, da forma lá prevista.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2017.%20Tratando-se%20de%20obriga%C3%A7%C3%A3o%20de%20pagar%20quantia%20certa%2C%20ap%C3%B3s%20o%20tr%C3%A2nsito%20em%20julgado%20da%20decis%C3%A3o%2C%20o%20pagamento%20ser%C3%A1%20efetuado%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Os Juizados Especiais serão instalados por decisão do Tribunal Regional Federal. O Juiz presidente do Juizado designará os conciliadores pelo período de dois anos, admitida a recondução. O exercício dessas funções será gratuito, assegurados os direitos e prerrogativas do jurado (art. 437 do Código de Processo Penal).\n\nParágrafo único. Serão instalados Juizados Especiais Adjuntos nas localidades cujo movimento forense não justifique a existência de Juizado Especial, cabendo ao Tribunal designar a Vara onde funcionará.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2018.%20Os%20Juizados%20Especiais%20ser%C3%A3o%20instalados%20por%20decis%C3%A3o%20do%20Tribunal%20Regional%20Federal.%20O%20Juiz%20presidente%20do%20Juizado%20designar%C3%A1%20os%20conciliadores%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. No prazo de seis meses, a contar da publicação desta Lei, deverão ser instalados os Juizados Especiais nas capitais dos Estados e no Distrito Federal.\n\nParágrafo único. Na capital dos Estados, no Distrito Federal e em outras cidades onde for necessário, neste último caso, por decisão do Tribunal Regional Federal, serão instalados Juizados com competência exclusiva para ações previdenciárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2019.%20No%20prazo%20de%20seis%20meses%2C%20a%20contar%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20dever%C3%A3o%20ser%20instalados%20os%20Juizados%20Especiais%20nas%20capitais%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Onde não houver Vara Federal, a causa poderá ser proposta no Juizado Especial Federal mais próximo do foro definido no art. 4o da Lei no 9.099, de 26 de setembro de 1995, vedada a aplicação desta Lei no juízo estadual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2020.%20Onde%20n%C3%A3o%20houver%20Vara%20Federal%2C%20a%20causa%20poder%C3%A1%20ser%20proposta%20no%20Juizado%20Especial%20Federal%20mais%20pr%C3%B3ximo%20do%20foro%20definido%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. As Turmas Recursais serão instituídas por decisão do Tribunal Regional Federal, que definirá sua composição e área de competência, podendo abranger mais de uma seção.\n\n§ 1o Não será permitida a recondução, salvo quando não houver outro juiz na sede da Turma Recursal ou na Região. (Revogado pela Lei nº 12.665, de 2012)\n\n§ 2o A designação dos juízes das Turmas Recursais obedecerá aos critérios de antigüidade e merecimento. (Revogado pela Lei nº 12.665, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2021.%20As%20Turmas%20Recursais%20ser%C3%A3o%20institu%C3%ADdas%20por%20decis%C3%A3o%20do%20Tribunal%20Regional%20Federal%2C%20que%20definir%C3%A1%20sua%20composi%C3%A7%C3%A3o%20e%20%C3%A1rea%20de%20compet%C3%AAncia%2C%20podendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os Juizados Especiais serão coordenados por Juiz do respectivo Tribunal Regional, escolhido por seus pares, com mandato de dois anos.\n\nParágrafo único. O Juiz Federal, quando o exigirem as circunstâncias, poderá determinar o funcionamento do Juizado Especial em caráter itinerante, mediante autorização prévia do Tribunal Regional Federal, com antecedência de dez dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2022.%20Os%20Juizados%20Especiais%20ser%C3%A3o%20coordenados%20por%20Juiz%20do%20respectivo%20Tribunal%20Regional%2C%20escolhido%20por%20seus%20pares%2C%20com%20mandato%20de%20dois%20anos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O Conselho da Justiça Federal poderá limitar, por até três anos, contados a partir da publicação desta Lei, a competência dos Juizados Especiais Cíveis, atendendo à necessidade da organização dos serviços judiciários ou administrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2023.%20O%20Conselho%20da%20Justi%C3%A7a%20Federal%20poder%C3%A1%20limitar%2C%20por%20at%C3%A9%20tr%C3%AAs%20anos%2C%20contados%20a%20partir%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20a%20compet%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O Centro de Estudos Judiciários do Conselho da Justiça Federal e as Escolas de Magistratura dos Tribunais Regionais Federais criarão programas de informática necessários para subsidiar a instrução das causas submetidas aos Juizados e promoverão cursos de aperfeiçoamento destinados aos seus magistrados e servidores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2024.%20O%20Centro%20de%20Estudos%20Judici%C3%A1rios%20do%20Conselho%20da%20Justi%C3%A7a%20Federal%20e%20as%20Escolas%20de%20Magistratura%20dos%20Tribunais%20Regionais%20Federais%20criar%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Não serão remetidas aos Juizados Especiais as demandas ajuizadas até a data de sua instalação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2025.%20N%C3%A3o%20ser%C3%A3o%20remetidas%20aos%20Juizados%20Especiais%20as%20demandas%20ajuizadas%20at%C3%A9%20a%20data%20de%20sua%20instala%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Competirá aos Tribunais Regionais Federais prestar o suporte administrativo necessário ao funcionamento dos Juizados Especiais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2026.%20Competir%C3%A1%20aos%20Tribunais%20Regionais%20Federais%20prestar%20o%20suporte%20administrativo%20necess%C3%A1rio%20ao%20funcionamento%20dos%20Juizados%20Especiais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Esta Lei entra em vigor seis meses após a data de sua publicação.\n\nBrasília, 12 de julho de 2001; 180o da Independência e 113o da República.\n\nFERNANDO HENRIQUE CARDOSO Paulo de Tarso Tamos Ribeiro Roberto Brant Gilmar Ferreira Mendes\n\nEste texto não substitui o publicado no DOU de 13.7.2001\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm#:~:text=Art.%2027.%20Esta%20Lei%20entra%20em%20vigor%20seis%20meses%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": null
+    }
+  }
+}

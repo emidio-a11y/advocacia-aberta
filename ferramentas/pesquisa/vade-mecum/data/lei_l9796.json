@@ -1,0 +1,175 @@
+{
+  "_meta": {
+    "codigo": "L9796",
+    "nome": "Compensação Financeira RGPS × RPPS (COMPREV)",
+    "lei": "Lei 9.796/1999",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm",
+    "total_artigos": 10,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o A compensação financeira entre o Regime Geral de Previdência Social e os regimes próprios de previdência social dos servidores da União, dos Estados, do Distrito Federal e dos Municípios, na hipótese de contagem recíproca de tempos de contribuição, obedecerá às disposições desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%201o%20A%20compensa%C3%A7%C3%A3o%20financeira%20entre%20o%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%20e%20os%20regimes%20pr%C3%B3prios%20de%20previd%C3%AAncia%20social%20dos%20servidores%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Para os efeitos desta Lei, considera-se:\n\nI - regime de origem: o regime previdenciário ao qual o segurado ou servidor público esteve vinculado sem que dele receba aposentadoria ou tenha gerado pensão para seus dependentes;\n\nII - regime instituidor: o regime previdenciário responsável pela concessão e pagamento de benefício de aposentadoria ou pensão dela decorrente a segurado ou servidor público ou a seus dependentes com cômputo de tempo de contribuição no âmbito do regime de origem.\n\n§ 1o Os regimes próprios de previdência de servidores da União, dos Estados, do Distrito Federal e dos Municípios só serão considerados regimes de origem quando o Regime Geral de Previdência Social for o regime instituidor.\n\n§ 2o Na hipótese de o regime próprio de previdência de servidor público não possuir personalidade jurídica própria, atribuem-se ao respectivo ente federado as obrigações e direitos previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%202o%20Para%20os%20efeitos%20desta%20Lei%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O Regime Geral de Previdência Social, como regime instituidor, tem direito de receber de cada regime de origem compensação financeira, observado o disposto neste artigo.\n\n§ 1o O Regime Geral de Previdência Social deve apresentar a cada regime de origem os seguintes dados referentes a cada benefício concedido com cômputo de tempo de contribuição no âmbito daquele regime de origem:\n\nI - identificação do segurado e, se for o caso, de seu dependente;\n\nII - a renda mensal inicial e a data de início do benefício;\n\nIII - o percentual do tempo de serviço total do segurado correspondente ao tempo de contribuição no âmbito daquele regime de origem.\n\n§ 2o Cada regime de origem deve pagar ao Regime Geral de Previdência Social, para cada mês de competência do benefício, o valor resultante da multiplicação da renda mensal do benefício pelo percentual obtido na forma do inciso III do parágrafo anterior.\n\n§ 3o A compensação financeira referente a cada benefício não poderá exceder o resultado da multiplicação do percentual obtido na forma do inciso III do § 1o deste artigo pela renda mensal do maior benefício da mesma espécie pago diretamente pelo regime de origem.\n\n§ 4o Para fins do disposto no parágrafo anterior, o regime de origem deve informar ao Regime Geral de Previdência Social, na forma do regulamento, a maior renda mensal de cada espécie de benefício por ele pago diretamente.\n\n§ 5o O valor de que trata o § 2o deste artigo será reajustado nas mesmas datas e pelos mesmos índices de reajustamento do benefício pela Previdência Social, devendo o Regime Geral de Previdência Social comunicar a cada regime de origem o total por ele devido em cada mês como compensação financeira.\n\n§ 6o Aplica-se o disposto neste artigo aos períodos de contribuição utilizados para fins de concessão de aposentadoria pelo INSS em decorrência de acordos internacionais. (Vide Medida Provisória nº 316, de 2006) (Incluído pela Lei nº 11.430, de 2006)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%203o%20O%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%2C%20como%20regime%20instituidor%2C%20tem%20direito%20de%20receber%20de%20cada%20regime%20de%20origem%20compensa%C3%A7%C3%A3o%20financeira%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Cada regime próprio de previdência de servidor público tem direito, como regime instituidor, de receber do Regime Geral de Previdência Social, enquanto regime de origem, compensação financeira, observado o disposto neste artigo.\n\n§ 1o O regime instituidor deve apresentar ao Regime Geral de Previdência Social, além das normas que o regem, os seguintes dados referentes a cada benefício concedido com cômputo de tempo de contribuição no âmbito do Regime Geral de Previdência Social:\n\nI - identificação do servidor público e, se for o caso, de seu dependente;\n\nII - o valor dos proventos da aposentadoria ou pensão dela decorrente e a data de início do benefício;\n\nIII - o tempo de serviço total do servidor e o correspondente ao tempo de contribuição ao Regime Geral de Previdência Social.\n\n§ 2o Com base nas informações referidas no parágrafo anterior, o Regime Geral de Previdência Social calculará qual seria a renda mensal inicial daquele benefício segundo as normas do Regime Geral de Previdência Social.\n\n§ 3o A compensação financeira devida pelo Regime Geral de Previdência Social, relativa ao primeiro mês de competência do benefício, será calculada com base no valor do benefício pago pelo regime instituidor ou na renda mensal do benefício calculada na forma do parágrafo anterior, o que for menor.\n\n§ 4o O valor da compensação financeira mencionada no parágrafo anterior corresponde à multiplicação do montante ali especificado pelo percentual correspondente ao tempo de contribuição ao Regime Geral de Previdência Social no tempo de serviço total do servidor público.\n\n§ 5o O valor da compensação financeira devida pelo Regime Geral de Previdência Social será reajustado nas mesmas datas e pelos mesmos índices de reajustamento dos benefícios da Previdência Social, mesmo que tenha prevalecido, no primeiro mês, o valor do benefício pago pelo regime instituidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%204o%20Cada%20regime%20pr%C3%B3prio%20de%20previd%C3%AAncia%20de%20servidor%20p%C3%BAblico%20tem%20direito%2C%20como%20regime%20instituidor%2C%20de%20receber%20do%20Regime%20Geral%20de%20Previd%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Os regimes instituidores apresentarão aos regimes de origem, no prazo máximo de dezoito meses a contar da data da entrada em vigor desta Lei, os dados relativos aos benefícios em manutenção nessa data, concedidos a partir da promulgação da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%205o%20Os%20regimes%20instituidores%20apresentar%C3%A3o%20aos%20regimes%20de%20origem%2C%20no%20prazo%20m%C3%A1ximo%20de%20dezoito%20meses%20a%20contar%20da%20data%20da%20entrada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O Instituto Nacional do Seguro Social - INSS manterá cadastro atualizado de todos os benefícios objeto de compensação financeira, totalizando o quanto deve para cada regime próprio de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios, bem como o montante devido por cada um deles para o Regime Geral de Previdência Social, como compensação financeira e pelo não recolhimento de contribuições previdenciárias no prazo legal.\n\n§ 1o Os desembolsos pelos regimes de origem só serão feitos para os regimes instituidores que se mostrem credores no cômputo da compensação financeira devida de lado a lado e dos débitos pelo não recolhimento de contribuições previdenciárias no prazo legal.\n\n§ 2o O Instituto Nacional do Seguro Social - INSS comunicará o total a ser desembolsado por cada regime de origem até o dia trinta de cada mês, devendo os desembolsos ser feitos até o quinto dia útil do mês subseqüente.\n\n§ 3o Os valores não desembolsados em virtude do disposto no § 1º deste artigo serão contabilizados como pagamentos efetivos, devendo o Instituto Nacional do Seguro Social - INSS registrar mensalmente essas operações e informar a cada regime próprio de previdência de servidor público os valores a ele referentes.\n\n§ 4o Sendo inviável financeiramente para um regime de origem desembolsar de imediato os valores relativos à compensação financeira, em função dos valores em atraso a que se refere o parágrafo único do artigo anterior, podem os regimes de origem e instituidor firmar termo de parcelamento dos desembolsos atualizando-se os valores devidos nas mesmas datas e pelos mesmos índices de reajustamento dos benefícios de prestação continuada da Previdência Social.\n\n§ 5o O pagamento para os regimes próprios de previdência social credores da compensação financeira, relativa ao período de 5 de outubro de 1988 a 5 de maio de 1999, cujos entes instituidores não sejam devedores de contribuições previdenciárias ao Regime Geral de Previdência Social (RGPS), será efetivado conforme os seguintes parâmetros: (Incluído pela Lei nº 13.485, de 2017)\n\nI - até o exercício de 2017, para os Municípios: (Incluído pela Lei nº 13.485, de 2017)\n\na) em parcela única, se o crédito não superar R$ 500.000,00 (quinhentos mil reais); (Incluído pela Lei nº 13.485, de 2017)\n\nb) em tantas parcelas mensais quantas forem necessárias até o limite de R$ 500.000,00 (quinhentos mil reais), se o crédito superar esse montante; (Incluído pela Lei nº 13.485, de 2017)\n\nII - a partir do exercício de 2018, para os Municípios, os Estados e o Distrito Federal: (Incluído pela Lei nº 13.485, de 2017)\n\na) em parcela única, se o crédito não superar R$ 1.500.000,00 (um milhão e quinhentos mil reais); (Incluído pela Lei nº 13.485, de 2017)\n\nb) em tantas parcelas mensais de até R$ 1.500.000,00 (um milhão e quinhentos mil reais), se o crédito superar esse montante, no prazo de até cento e oitenta meses, condicionada à existência de recursos financeiros para cumprimento da meta de resultado primário estabelecido na lei de diretrizes orçamentárias; c) caso o limite de cento e oitenta meses não seja suficiente para a quitação dos créditos, o valor da parcela disposto na alínea b deste inciso será ajustado de forma a garantir a quitação no prazo de cento e oitenta meses; (Incluído pela Lei nº 13.485, de 2017)\n\nIII - por meio de dação em pagamento de imóveis integrantes do Fundo do Regime Geral de Previdência Social (FRGPS). (Incluído pela Lei nº 13.485, de 2017)\n\n§ 6o O pagamento da compensação financeira do Fundo do Regime Geral de Previdência Social depende da desistência de eventuais ações judiciais que tenham por objeto a dívida compensada, e é causa da extinção dos pagamentos previstos no § 5o deste artigo a manutenção do litígio ou o ajuizamento de novas ações. (Incluído pela Lei nº 13.485, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%206o%20O%20Instituto%20Nacional%20do%20Seguro%20Social%20-%20INSS%20manter%C3%A1%20cadastro%20atualizado%20de%20todos%20os%20benef%C3%ADcios%20objeto%20de%20compensa%C3%A7%C3%A3o%20financeira%2C%20totalizando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Os regimes instituidores devem comunicar de imediato aos regimes de origem qualquer revisão no valor do benefício objeto de compensação financeira ou sua extinção total ou parcial, cabendo ao Instituto Nacional do Seguro Social - INSS registrar as alterações no cadastro a que se refere o artigo anterior.\n\nParágrafo único. Constatado o não cumprimento do disposto neste artigo, as parcelas pagas indevidamente pelo regime de origem serão registradas em dobro, no mês seguinte ao da constatação, como débito daquele regime.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%207o%20Os%20regimes%20instituidores%20devem%20comunicar%20de%20imediato%20aos%20regimes%20de%20origem%20qualquer%20revis%C3%A3o%20no%20valor%20do%20benef%C3%ADcio%20objeto%20de%20compensa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Na hipótese de descumprimento do prazo de desembolso estipulado no § 2º do art. 6º, aplicar-se-ão as mesmas normas em vigor para atualização dos valores dos recolhimentos em atraso de contribuições previdenciárias arrecadadas pelo Instituto Nacional do Seguro Social - INSS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%208o%20Na%20hip%C3%B3tese%20de%20descumprimento%20do%20prazo%20de%20desembolso%20estipulado%20no%20%C2%A7%202%C2%BA%20do%20art.%206%C2%BA%2C%20aplicar-se-%C3%A3o%20as%20mesmas%20normas%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o O Poder Executivo regulamentará esta Lei no prazo de sessenta dias contado da data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%209o%20O%20Poder%20Executivo%20regulamentar%C3%A1%20esta%20Lei%20no%20prazo%20de%20sessenta%20dias%20contado%20da%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 5 de maio de 1999; 178o da Independência e 111o da República.\n\nFERNANDO HENRIQUE CARDOSO Waldeck Ornélas\n\nEste texto não substitui o publicado no DOU de 6.5.1999\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%2010.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": null
+    }
+  }
+}

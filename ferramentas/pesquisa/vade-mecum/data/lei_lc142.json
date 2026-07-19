@@ -1,0 +1,191 @@
+{
+  "_meta": {
+    "codigo": "LC142",
+    "nome": "Aposentadoria da Pessoa com Deficiência (RGPS)",
+    "lei": "Lei Complementar 142/2013",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm",
+    "total_artigos": 11,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei Complementar regulamenta a concessão de aposentadoria da pessoa com deficiência segurada do Regime Geral de Previdência Social - RGPS de que trata o § 1o do art. 201 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%201o%20Esta%20Lei%20Complementar%20regulamenta%20a%20concess%C3%A3o%20de%20aposentadoria%20da%20pessoa%20com%20defici%C3%AAncia%20segurada%20do%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%20-",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Para o reconhecimento do direito à aposentadoria de que trata esta Lei Complementar, considera-se pessoa com deficiência aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%202o%20Para%20o%20reconhecimento%20do%20direito%20%C3%A0%20aposentadoria%20de%20que%20trata%20esta%20Lei%20Complementar%2C%20considera-se%20pessoa%20com%20defici%C3%AAncia%20aquela%20que%20tem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o É assegurada a concessão de aposentadoria pelo RGPS ao segurado com deficiência, observadas as seguintes condições:\n\nI - aos 25 (vinte e cinco) anos de tempo de contribuição, se homem, e 20 (vinte) anos, se mulher, no caso de segurado com deficiência grave;\n\nII - aos 29 (vinte e nove) anos de tempo de contribuição, se homem, e 24 (vinte e quatro) anos, se mulher, no caso de segurado com deficiência moderada;\n\nIII - aos 33 (trinta e três) anos de tempo de contribuição, se homem, e 28 (vinte e oito) anos, se mulher, no caso de segurado com deficiência leve; ou\n\nIV - aos 60 (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher, independentemente do grau de deficiência, desde que cumprido tempo mínimo de contribuição de 15 (quinze) anos e comprovada a existência de deficiência durante igual período.\n\nParágrafo único. Regulamento do Poder Executivo definirá as deficiências grave, moderada e leve para os fins desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%203o%20%C3%89%20assegurada%20a%20concess%C3%A3o%20de%20aposentadoria%20pelo%20RGPS%20ao%20segurado%20com%20defici%C3%AAncia%2C%20observadas%20as%20seguintes%20condi%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A avaliação da deficiência será médica e funcional, nos termos do Regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%204o%20A%20avalia%C3%A7%C3%A3o%20da%20defici%C3%AAncia%20ser%C3%A1%20m%C3%A9dica%20e%20funcional%2C%20nos%20termos%20do%20Regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O grau de deficiência será atestado por perícia própria do Instituto Nacional do Seguro Social - INSS, por meio de instrumentos desenvolvidos para esse fim.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%205o%20O%20grau%20de%20defici%C3%AAncia%20ser%C3%A1%20atestado%20por%20per%C3%ADcia%20pr%C3%B3pria%20do%20Instituto%20Nacional%20do%20Seguro%20Social%20-%20INSS%2C%20por%20meio%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A contagem de tempo de contribuição na condição de segurado com deficiência será objeto de comprovação, exclusivamente, na forma desta Lei Complementar.\n\n§ 1o A existência de deficiência anterior à data da vigência desta Lei Complementar deverá ser certificada, inclusive quanto ao seu grau, por ocasião da primeira avaliação, sendo obrigatória a fixação da data provável do início da deficiência.\n\n§ 2o A comprovação de tempo de contribuição na condição de segurado com deficiência em período anterior à entrada em vigor desta Lei Complementar não será admitida por meio de prova exclusivamente testemunhal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%206o%20A%20contagem%20de%20tempo%20de%20contribui%C3%A7%C3%A3o%20na%20condi%C3%A7%C3%A3o%20de%20segurado%20com%20defici%C3%AAncia%20ser%C3%A1%20objeto%20de%20comprova%C3%A7%C3%A3o%2C%20exclusivamente%2C%20na%20forma%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Se o segurado, após a filiação ao RGPS, tornar-se pessoa com deficiência, ou tiver seu grau de deficiência alterado, os parâmetros mencionados no art. 3o serão proporcionalmente ajustados, considerando-se o número de anos em que o segurado exerceu atividade laboral sem deficiência e com deficiência, observado o grau de deficiência correspondente, nos termos do regulamento a que se refere o parágrafo único do art. 3o desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%207o%20Se%20o%20segurado%2C%20ap%C3%B3s%20a%20filia%C3%A7%C3%A3o%20ao%20RGPS%2C%20tornar-se%20pessoa%20com%20defici%C3%AAncia%2C%20ou%20tiver%20seu%20grau%20de%20defici%C3%AAncia%20alterado%2C%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o A renda mensal da aposentadoria devida ao segurado com deficiência será calculada aplicando-se sobre o salário de benefício, apurado em conformidade com o disposto no art. 29 da Lei no 8.213, de 24 de julho de 1991, os seguintes percentuais:\n\nI - 100% (cem por cento), no caso da aposentadoria de que tratam os incisos I, II e III do art. 3o; ou\n\nII - 70% (setenta por cento) mais 1% (um por cento) do salário de benefício por grupo de 12 (doze) contribuições mensais até o máximo de 30% (trinta por cento), no caso de aposentadoria por idade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%208o%20A%20renda%20mensal%20da%20aposentadoria%20devida%20ao%20segurado%20com%20defici%C3%AAncia%20ser%C3%A1%20calculada%20aplicando-se%20sobre%20o%20sal%C3%A1rio%20de%20benef%C3%ADcio%2C%20apurado%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Aplicam-se à pessoa com deficiência de que trata esta Lei Complementar:\n\nI - o fator previdenciário nas aposentadorias, se resultar em renda mensal de valor mais elevado;\n\nII - a contagem recíproca do tempo de contribuição na condição de segurado com deficiência relativo à filiação ao RGPS, ao regime próprio de previdência do servidor público ou a regime de previdência militar, devendo os regimes compensar-se financeiramente;\n\nIII - as regras de pagamento e de recolhimento das contribuições previdenciárias contidas na Lei no 8.212, de 24 de julho de 1991;\n\nIV - as demais normas relativas aos benefícios do RGPS;\n\nV - a percepção de qualquer outra espécie de aposentadoria estabelecida na Lei nº 8.213, de 24 de julho de 1991, que lhe seja mais vantajosa do que as opções apresentadas nesta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%209o%20Aplicam-se%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20de%20que%20trata%20esta%20Lei%20Complementar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A redução do tempo de contribuição prevista nesta Lei Complementar não poderá ser acumulada, no tocante ao mesmo período contributivo, com a redução assegurada aos casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%2010.%20A%20redu%C3%A7%C3%A3o%20do%20tempo%20de%20contribui%C3%A7%C3%A3o%20prevista%20nesta%20Lei%20Complementar%20n%C3%A3o%20poder%C3%A1%20ser%20acumulada%2C%20no%20tocante%20ao%20mesmo%20per%C3%ADodo%20contributivo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Esta Lei Complementar entra em vigor após decorridos 6 (seis) meses de sua publicação oficial.\n\nBrasília, 8 de maio de 2013; 192o da Independência e 125o da República.\n\nDILMA ROUSSEFF Miriam Belchior Garibaldi Alves Filho Maria do Rosário Nunes\n\nEste texto não substitui o publicado no DOU de 9.5.2013\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm#:~:text=Art.%2011.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%206%20%28seis%29%20meses%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": null
+    }
+  }
+}

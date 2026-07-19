@@ -207,6 +207,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10101.json",
     rotulo: "Participação nos Lucros ou Resultados (PLR) (Lei 10.101/2000)",
   },
+  L10259: {
+    arquivo: "../../data/lei_l10259.json",
+    rotulo: "Juizados Especiais Federais (JEFs) (Lei 10.259/2001)",
+  },
   L10522: {
     arquivo: "../../data/lei_l10522.json",
     rotulo: "CADIN – Cadastro Informativo de Créditos não Quitados (Lei 10.522/2002)",
@@ -215,9 +219,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10637.json",
     rotulo: "PIS (não cumulativo) (Lei 10.637/2002)",
   },
+  L10666: {
+    arquivo: "../../data/lei_l10666.json",
+    rotulo: "Disposições Previdenciárias Diversas (inclui cooperados) (Lei 10.666/2003)",
+  },
   L10684: {
     arquivo: "../../data/lei_l10684.json",
     rotulo: "Parcelamento Especial – PAES (Lei 10.684/2003)",
+  },
+  L10779: {
+    arquivo: "../../data/lei_l10779.json",
+    rotulo: "Seguro-Defeso do Pescador Artesanal (Lei 10.779/2003)",
   },
   L10833: {
     arquivo: "../../data/lei_l10833.json",
@@ -226,6 +238,10 @@ const REGISTRO_CODIGOS = {
   L10865: {
     arquivo: "../../data/lei_l10865.json",
     rotulo: "PIS/COFINS na Importação (Lei 10.865/2004)",
+  },
+  L10887: {
+    arquivo: "../../data/lei_l10887.json",
+    rotulo: "Cálculo/Contribuição de Servidor Federal (RPPS União) (Lei 10.887/2004)",
   },
   L11770: {
     arquivo: "../../data/lei_l11770.json",
@@ -238,6 +254,10 @@ const REGISTRO_CODIGOS = {
   L12506: {
     arquivo: "../../data/lei_l12506.json",
     rotulo: "Aviso Prévio Proporcional (Lei 12.506/2011)",
+  },
+  L12618: {
+    arquivo: "../../data/lei_l12618.json",
+    rotulo: "Funpresp / Regime de Previdência Complementar do Servidor (Lei 12.618/2012)",
   },
   L12815: {
     arquivo: "../../data/lei_l12815.json",
@@ -367,6 +387,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8137.json",
     rotulo: "Crimes contra Ordem Tributária (Lei 8.137/1990)",
   },
+  L8212: {
+    arquivo: "../../data/lei_l8212.json",
+    rotulo: "Plano de Custeio da Seguridade Social (Lei 8.212/1991)",
+  },
   L8989: {
     arquivo: "../../data/lei_l8989.json",
     rotulo: "IPI – Isenção para PcD (automóveis) (Lei 8.989/1995)",
@@ -403,6 +427,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9613.json",
     rotulo: "Lavagem de Dinheiro (Lei 9.613/1998)",
   },
+  L9717: {
+    arquivo: "../../data/lei_l9717.json",
+    rotulo: "Normas Gerais dos RPPS (Lei 9.717/1998)",
+  },
+  L9796: {
+    arquivo: "../../data/lei_l9796.json",
+    rotulo: "Compensação Financeira RGPS × RPPS (COMPREV) (Lei 9.796/1999)",
+  },
   L9807: {
     arquivo: "../../data/lei_l9807.json",
     rotulo: "Proteção Testemunhas (Lei 9.807/1999)",
@@ -411,6 +443,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc105.json",
     rotulo: "Quebra Sigilo Bancário (Lei Complementar 105/2001)",
   },
+  LC108: {
+    arquivo: "../../data/lei_lc108.json",
+    rotulo: "Previdência Complementar com Patrocinador Público (Lei Complementar 108/2001)",
+  },
+  LC109: {
+    arquivo: "../../data/lei_lc109.json",
+    rotulo: "Previdência Complementar (regras gerais) (Lei Complementar 109/2001)",
+  },
   LC116: {
     arquivo: "../../data/lei_lc116.json",
     rotulo: "ISS – Normas Gerais e Lista de Serviços (Lei Complementar 116/2003)",
@@ -418,6 +458,10 @@ const REGISTRO_CODIGOS = {
   LC123: {
     arquivo: "../../data/lei_lc123.json",
     rotulo: "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar 123/2006)",
+  },
+  LC142: {
+    arquivo: "../../data/lei_lc142.json",
+    rotulo: "Aposentadoria da Pessoa com Deficiência (RGPS) (Lei Complementar 142/2013)",
   },
   LC150: {
     arquivo: "../../data/lei_lc150.json",
@@ -438,6 +482,10 @@ const REGISTRO_CODIGOS = {
   LMIG: {
     arquivo: "../../data/lei_lmig.json",
     rotulo: "Lei de Migração (Lei 13.445/2017)",
+  },
+  LOAS: {
+    arquivo: "../../data/lei_loas.json",
+    rotulo: "Lei Orgânica da Assistência Social (LOAS) (Lei 8.742/1993)",
   },
   // [expansao:fim]
 } as const;

@@ -1,0 +1,1055 @@
+{
+  "_meta": {
+    "codigo": "LOAS",
+    "nome": "Lei Orgânica da Assistência Social (LOAS)",
+    "lei": "Lei 8.742/1993",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm",
+    "total_artigos": 65,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º A assistência social, direito do cidadão e dever do Estado, é Política de Seguridade Social não contributiva, que provê os mínimos sociais, realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o atendimento às necessidades básicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%201%C2%BA%20A%20assist%C3%AAncia%20social%2C%20direito%20do%20cidad%C3%A3o%20e%20dever%20do%20Estado%2C%20%C3%A9%20Pol%C3%ADtica%20de%20Seguridade%20Social%20n%C3%A3o%20contributiva%2C%20que%20prov%C3%AA%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o A assistência social tem por objetivos: (Redação dada pela Lei nº 12.435, de 2011)\n\nI - a proteção social, que visa à garantia da vida, à redução de danos e à prevenção da incidência de riscos, especialmente: (Redação dada pela Lei nº 12.435, de 2011)\n\na) a proteção à família, à maternidade, à infância, à adolescência e à velhice; (Incluído pela Lei nº 12.435, de 2011)\n\nb) o amparo às crianças e aos adolescentes carentes; (Incluído pela Lei nº 12.435, de 2011)\n\nc) a promoção da integração ao mercado de trabalho; (Incluído pela Lei nº 12.435, de 2011)\n\nd) a habilitação e reabilitação das pessoas com deficiência e a promoção de sua integração à vida comunitária; e (Incluído pela Lei nº 12.435, de 2011)\n\ne) a garantia de 1 (um) salário-mínimo de benefício mensal à pessoa com deficiência e ao idoso que comprovem não possuir meios de prover a própria manutenção ou de tê-la provida por sua família; (Incluído pela Lei nº 12.435, de 2011)\n\nII - a vigilância socioassistencial, que visa a analisar territorialmente a capacidade protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de vitimizações e danos; (Redação dada pela Lei nº 12.435, de 2011)\n\nIII - a defesa de direitos, que visa a garantir o pleno acesso aos direitos no conjunto das provisões socioassistenciais. (Redação dada pela Lei nº 12.435, de 2011)\n\nParágrafo único. Para o enfrentamento da pobreza, a assistência social realiza-se de forma integrada às políticas setoriais, garantindo mínimos sociais e provimento de condições para atender contingências sociais e promovendo a universalização dos direitos sociais. (Redação dada pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%202o%20A%20assist%C3%AAncia%20social%20tem%20por%20objetivos%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2012.435%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Consideram-se entidades e organizações de assistência social aquelas sem fins lucrativos que, isolada ou cumulativamente, prestam atendimento e assessoramento aos beneficiários abrangidos por esta Lei, bem como as que atuam na defesa e garantia de direitos. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 1o São de atendimento aquelas entidades que, de forma continuada, permanente e planejada, prestam serviços, executam programas ou projetos e concedem benefícios de prestação social básica ou especial, dirigidos às famílias e indivíduos em situações de vulnerabilidade ou risco social e pessoal, nos termos desta Lei, e respeitadas as deliberações do Conselho Nacional de Assistência Social (CNAS), de que tratam os incisos I e II do art. 18. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o São de assessoramento aquelas que, de forma continuada, permanente e planejada, prestam serviços e executam programas ou projetos voltados prioritariamente para o fortalecimento dos movimentos sociais e das organizações de usuários, formação e capacitação de lideranças, dirigidos ao público da política de assistência social, nos termos desta Lei, e respeitadas as deliberações do CNAS, de que tratam os incisos I e II do art. 18. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 3o São de defesa e garantia de direitos aquelas que, de forma continuada, permanente e planejada, prestam serviços e executam programas e projetos voltados prioritariamente para a defesa e efetivação dos direitos socioassistenciais, construção de novos direitos, promoção da cidadania, enfrentamento das desigualdades sociais, articulação com órgãos públicos de defesa de direitos, dirigidos ao público da política de assistência social, nos termos desta Lei, e respeitadas as deliberações do CNAS, de que tratam os incisos I e II do art. 18. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%203o%20Consideram-se%20entidades%20e%20organiza%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%20aquelas%20sem%20fins%20lucrativos%20que%2C%20isolada%20ou%20cumulativamente%2C%20prestam%20atendimento%20e%20assessoramento%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A assistência social rege-se pelos seguintes princípios:\n\nI - supremacia do atendimento às necessidades sociais sobre as exigências de rentabilidade econômica;\n\nII - universalização dos direitos sociais, a fim de tornar o destinatário da ação assistencial alcançável pelas demais políticas públicas;\n\nIII - respeito à dignidade do cidadão, à sua autonomia e ao seu direito a benefícios e serviços de qualidade, bem como à convivência familiar e comunitária, vedando-se qualquer comprovação vexatória de necessidade;\n\nIV - igualdade de direitos no acesso ao atendimento, sem discriminação de qualquer natureza, garantindo-se equivalência às populações urbanas e rurais;\n\nV - divulgação ampla dos benefícios, serviços, programas e projetos assistenciais, bem como dos recursos oferecidos pelo Poder Público e dos critérios para sua concessão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%204%C2%BA%20A%20assist%C3%AAncia%20social%20rege-se%20pelos%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A organização da assistência social tem como base as seguintes diretrizes:\n\nI - descentralização político-administrativa para os Estados, o Distrito Federal e os Municípios, e comando único das ações em cada esfera de governo;\n\nII - participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis;\n\nIII - primazia da responsabilidade do Estado na condução da política de assistência social em cada esfera de governo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%205%C2%BA%20A%20organiza%C3%A7%C3%A3o%20da%20assist%C3%AAncia%20social%20tem%20como%20base%20as%20seguintes%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A gestão das ações na área de assistência social fica organizada sob a forma de sistema descentralizado e participativo, denominado Sistema Único de Assistência Social (Suas), com os seguintes objetivos: (Redação dada pela Lei nº 12.435, de 2011)\n\nI - consolidar a gestão compartilhada, o cofinanciamento e a cooperação técnica entre os entes federativos que, de modo articulado, operam a proteção social não contributiva; (Incluído pela Lei nº 12.435, de 2011)\n\nII - integrar a rede pública e privada de serviços, programas, projetos e benefícios de assistência social, na forma do art. 6o-C; (Incluído pela Lei nº 12.435, de 2011)\n\nIII - estabelecer as responsabilidades dos entes federativos na organização, regulação, manutenção e expansão das ações de assistência social;\n\nIV - definir os níveis de gestão, respeitadas as diversidades regionais e municipais; (Incluído pela Lei nº 12.435, de 2011)\n\nV - implementar a gestão do trabalho e a educação permanente na assistência social; (Incluído pela Lei nº 12.435, de 2011)\n\nVI - estabelecer a gestão integrada de serviços e benefícios; e (Incluído pela Lei nº 12.435, de 2011)\n\nVII - afiançar a vigilância socioassistencial e a garantia de direitos. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 1o As ações ofertadas no âmbito do Suas têm por objetivo a proteção à família, à maternidade, à infância, à adolescência e à velhice e, como base de organização, o território. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o O Suas é integrado pelos entes federativos, pelos respectivos conselhos de assistência social e pelas entidades e organizações de assistência social abrangidas por esta Lei. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 3o A instância coordenadora da Política Nacional de Assistência Social é o Ministério do Desenvolvimento Social e Combate à Fome. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 4º Cabe à instância coordenadora da Política Nacional de Assistência Social normatizar e padronizar o emprego e a divulgação da identidade visual do Suas. (Incluído pela Lei nº 13.714, de 2018)\n\n§ 5º A identidade visual do Suas deverá prevalecer na identificação de unidades públicas estatais, entidades e organizações de assistência social, serviços, programas, projetos e benefícios vinculados ao Suas. (Incluído pela Lei nº 13.714, de 2018)\n\nArt. 6o-A. A assistência social organiza-se pelos seguintes tipos de proteção: (Incluído pela Lei nº 12.435, de 2011)\n\nI - proteção social básica: conjunto de serviços, programas, projetos e benefícios da assistência social que visa a prevenir situações de vulnerabilidade e risco social por meio do desenvolvimento de potencialidades e aquisições e do fortalecimento de vínculos familiares e comunitários; (Incluído pela Lei nº 12.435, de 2011)\n\nII - proteção social especial: conjunto de serviços, programas e projetos que tem por objetivo contribuir para a reconstrução de vínculos familiares e comunitários, a defesa de direito, o fortalecimento das potencialidades e aquisições e a proteção de famílias e indivíduos para o enfrentamento das situações de violação de direitos. (Incluído pela Lei nº 12.435, de 2011)\n\nParágrafo único. A vigilância socioassistencial é um dos instrumentos das proteções da assistência social que identifica e previne as situações de risco e vulnerabilidade social e seus agravos no território. (Incluído pela Lei nº 12.435, de 2011)\n\nArt. 6o-B. As proteções sociais básica e especial serão ofertadas pela rede socioassistencial, de forma integrada, diretamente pelos entes públicos e/ou pelas entidades e organizações de assistência social vinculadas ao Suas, respeitadas as especificidades de cada ação. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 1o A vinculação ao Suas é o reconhecimento pelo Ministério do Desenvolvimento Social e Combate à Fome de que a entidade de assistência social integra a rede socioassistencial. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o Para o reconhecimento referido no § 1o, a entidade deverá cumprir os seguintes requisitos: (Incluído pela Lei nº 12.435, de 2011)\n\nI - constituir-se em conformidade com o disposto no art. 3o; (Incluído pela Lei nº 12.435, de 2011)\n\nII - inscrever-se em Conselho Municipal ou do Distrito Federal, na forma do art. 9o; (Incluído pela Lei nº 12.435, de 2011)\n\nIII - integrar o sistema de cadastro de entidades de que trata o inciso XI do art. 19. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 3o As entidades e organizações de assistência social vinculadas ao Suas celebrarão convênios, contratos, acordos ou ajustes com o poder público para a execução, garantido financiamento integral, pelo Estado, de serviços, programas, projetos e ações de assistência social, nos limites da capacidade instalada, aos beneficiários abrangidos por esta Lei, observando-se as disponibilidades orçamentárias. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 4o O cumprimento do disposto no § 3o será informado ao Ministério do Desenvolvimento Social e Combate à Fome pelo órgão gestor local da assistência social. (Incluído pela Lei nº 12.435, de 2011)\n\nArt. 6o-C. As proteções sociais, básica e especial, serão ofertadas precipuamente no Centro de Referência de Assistência Social (Cras) e no Centro de Referência Especializado de Assistência Social (Creas), respectivamente, e pelas entidades sem fins lucrativos de assistência social de que trata o art. 3o desta Lei. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 1o O Cras é a unidade pública municipal, de base territorial, localizada em áreas com maiores índices de vulnerabilidade e risco social, destinada à articulação dos serviços socioassistenciais no seu território de abrangência e à prestação de serviços, programas e projetos socioassistenciais de proteção social básica às famílias. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o O Creas é a unidade pública de abrangência e gestão municipal, estadual ou regional, destinada à prestação de serviços a indivíduos e famílias que se encontram em situação de risco pessoal ou social, por violação de direitos ou contingência, que demandam intervenções especializadas da proteção social especial. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 3o Os Cras e os Creas são unidades públicas estatais instituídas no âmbito do Suas, que possuem interface com as demais políticas públicas e articulam, coordenam e ofertam os serviços, programas, projetos e benefícios da assistência social. (Incluído pela Lei nº 12.435, de 2011)\n\nArt. 6o-D. As instalações dos Cras e dos Creas devem ser compatíveis com os serviços neles ofertados, com espaços para trabalhos em grupo e ambientes específicos para recepção e atendimento reservado das famílias e indivíduos, assegurada a acessibilidade às pessoas idosas e com deficiência. (Incluído pela Lei nº 12.435, de 2011)\n\nArt. 6o-E. Os recursos do cofinanciamento do Suas, destinados à execução das ações continuadas de assistência social, poderão ser aplicados no pagamento dos profissionais que integrarem as equipes de referência, responsáveis pela organização e oferta daquelas ações, conforme percentual apresentado pelo Ministério do Desenvolvimento Social e Combate à Fome e aprovado pelo CNAS. (Incluído pela Lei nº 12.435, de 2011)\n\nParágrafo único. A formação das equipes de referência deverá considerar o número de famílias e indivíduos referenciados, os tipos e modalidades de atendimento e as aquisições que devem ser garantidas aos usuários, conforme deliberações do CNAS. (Incluído pela Lei nº 12.435, de 2011)\n\nArt. 6º-F Fica instituído o Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), registro público eletrônico com a finalidade de coletar, processar, sistematizar e disseminar informações para a identificação e a caracterização socioeconômica das famílias de baixa renda, nos termos do regulamento. (Redação dada pela Lei nº 14.601, de 2023)\n\n§ 1º As famílias de baixa renda poderão inscrever-se no CadÚnico nas unidades públicas de que tratam os §§ 1º e 2º do art. 6º-C desta Lei ou, nos termos do regulamento, por meio eletrônico. (Incluído pela Lei nº 14.284, de 2021)\n\n§ 2º A inscrição no CadÚnico poderá ser obrigatória para acesso a programas sociais do governo federal, na forma estabelecida em regulamento. (Redação dada pela Lei nº 14.601, de 2023)\n\n§ 3º Para fins de cumprimento do disposto no art. 12 da Emenda Constitucional nº 103, de 12 de novembro de 2019, e de ampliação da fidedignidade das informações cadastrais, será garantida a interoperabilidade de dados do CadÚnico com os dados constantes do Cadastro Nacional de Informações Sociais (CNIS), de que trata a Lei nº 8.213, de 24 de julho de 1991. (Incluído pela Lei nº 14.601, de 2023)\n\n§ 4º Os dados do CNIS incluídos no CadÚnico poderão ser acessados pelos órgãos gestores do CadÚnico, nas 3 (três) esferas da Federação, conforme termo de adesão do ente federativo ao CadÚnico, do qual constará cláusula de compromisso com o sigilo de dados. (Incluído pela Lei nº 14.601, de 2023)\n\n§ 5º A sociedade civil poderá cooperar com a identificação de pessoas que precisem ser inscritas no CadÚnico, nos termos do regulamento. (Incluído pela Lei nº 14.601, de 2023)\n\n§ 6º O Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) coletará informações que caracterizem a condição socioeconômica e territorial das famílias, as quais serão objeto de checagem em outras bases de dados, nos termos estabelecidos em ato do Poder Executivo federal. (Redação dada pela Lei nº 15.077, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%206o%20A%20gest%C3%A3o%20das%20a%C3%A7%C3%B5es%20na%20%C3%A1rea%20de%20assist%C3%AAncia%20social%20fica%20organizada%20sob%20a%20forma%20de%20sistema%20descentralizado%20e%20participativo%2C%20denominado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As ações de assistência social, no âmbito das entidades e organizações de assistência social, observarão as normas expedidas pelo Conselho Nacional de Assistência Social (CNAS), de que trata o art. 17 desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%207%C2%BA%20As%20a%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%2C%20no%20%C3%A2mbito%20das%20entidades%20e%20organiza%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%2C%20observar%C3%A3o%20as%20normas%20expedidas%20pelo%20Conselho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A União, os Estados, o Distrito Federal e os Municípios, observados os princípios e diretrizes estabelecidos nesta lei, fixarão suas respectivas Políticas de Assistência Social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%208%C2%BA%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20observados%20os%20princ%C3%ADpios%20e%20diretrizes%20estabelecidos%20nesta%20lei%2C%20fixar%C3%A3o%20suas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O funcionamento das entidades e organizações de assistência social depende de prévia inscrição no respectivo Conselho Municipal de Assistência Social, ou no Conselho de Assistência Social do Distrito Federal, conforme o caso.\n\n§ 1º A regulamentação desta lei definirá os critérios de inscrição e funcionamento das entidades com atuação em mais de um município no mesmo Estado, ou em mais de um Estado ou Distrito Federal.\n\n§ 2º Cabe ao Conselho Municipal de Assistência Social e ao Conselho de Assistência Social do Distrito Federal a fiscalização das entidades referidas no caput na forma prevista em lei ou regulamento.\n\n§ 3º (Revogado pela Lei nº 12.101, de 2009)\n\n§ 4º As entidades e organizações de assistência social podem, para defesa de seus direitos referentes à inscrição e ao funcionamento, recorrer aos Conselhos Nacional, Estaduais, Municipais e do Distrito Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%209%C2%BA%20O%20funcionamento%20das%20entidades%20e%20organiza%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%20depende%20de%20pr%C3%A9via%20inscri%C3%A7%C3%A3o%20no%20respectivo%20Conselho%20Municipal%20de%20Assist%C3%AAncia%20Social%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A União, os Estados, os Municípios e o Distrito Federal podem celebrar convênios com entidades e organizações de assistência social, em conformidade com os Planos aprovados pelos respectivos Conselhos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2010.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20os%20Munic%C3%ADpios%20e%20o%20Distrito%20Federal%20podem%20celebrar%20conv%C3%AAnios%20com%20entidades%20e%20organiza%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. As ações das três esferas de governo na área de assistência social realizam-se de forma articulada, cabendo a coordenação e as normas gerais à esfera federal e a coordenação e execução dos programas, em suas respectivas esferas, aos Estados, ao Distrito Federal e aos Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2011.%20As%20a%C3%A7%C3%B5es%20das%20tr%C3%AAs%20esferas%20de%20governo%20na%20%C3%A1rea%20de%20assist%C3%AAncia%20social%20realizam-se%20de%20forma%20articulada%2C%20cabendo%20a%20coordena%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Compete à União:\n\nI - responder pela concessão e manutenção dos benefícios de prestação continuada definidos no art. 203 da Constituição Federal;\n\nII - cofinanciar, por meio de transferência automática, o aprimoramento da gestão, os serviços, os programas e os projetos de assistência social em âmbito nacional; (Redação dada pela Lei nº 12.435, de 2011)\n\nIII - atender, em conjunto com os Estados, o Distrito Federal e os Municípios, às ações assistenciais de caráter de emergência.\n\nIV - realizar o monitoramento e a avaliação da política de assistência social e assessorar Estados, Distrito Federal e Municípios para seu desenvolvimento. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2012.%20Compete%20%C3%A0%20Uni%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12-A"
+    },
+    "12-A": {
+      "numero": "12-A",
+      "texto": "Art. 12-A. A União apoiará financeiramente o aprimoramento à gestão descentralizada dos serviços, programas, projetos e benefícios de assistência social, por meio do Índice de Gestão Descentralizada (IGD) do Sistema Único de Assistência Social (Suas), para a utilização no âmbito dos Estados, dos Municípios e do Distrito Federal, destinado, sem prejuízo de outras ações a serem definidas em regulamento, a: (Incluído pela Lei nº 12.435, de 2011)\n\nI - medir os resultados da gestão descentralizada do Suas, com base na atuação do gestor estadual, municipal e do Distrito Federal na implementação, execução e monitoramento dos serviços, programas, projetos e benefícios de assistência social, bem como na articulação intersetorial; (Incluído pela Lei nº 12.435, de 2011)\n\nII - incentivar a obtenção de resultados qualitativos na gestão estadual, municipal e do Distrito Federal do Suas; e (Incluído pela Lei nº 12.435, de 2011)\n\nIII - calcular o montante de recursos a serem repassados aos entes federados a título de apoio financeiro à gestão do Suas. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 1o Os resultados alcançados pelo ente federado na gestão do Suas, aferidos na forma de regulamento, serão considerados como prestação de contas dos recursos a serem transferidos a título de apoio financeiro. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o As transferências para apoio à gestão descentralizada do Suas adotarão a sistemática do Índice de Gestão Descentralizada do Programa Bolsa Família, previsto no art. 8o da Lei no 10.836, de 9 de janeiro de 2004, e serão efetivadas por meio de procedimento integrado àquele índice. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 3o (VETADO). (Incluído pela Lei nº 12.435, de 2011)\n\n§ 4o Para fins de fortalecimento dos Conselhos de Assistência Social dos Estados, Municípios e Distrito Federal, percentual dos recursos transferidos deverá ser gasto com atividades de apoio técnico e operacional àqueles colegiados, na forma fixada pelo Ministério do Desenvolvimento Social e Combate à Fome, sendo vedada a utilização dos recursos para pagamento de pessoal efetivo e de gratificações de qualquer natureza a servidor público estadual, municipal ou do Distrito Federal. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2012-A.%20A%20Uni%C3%A3o%20apoiar%C3%A1%20financeiramente%20o%20aprimoramento%20%C3%A0%20gest%C3%A3o%20descentralizada%20dos%20servi%C3%A7os%2C%20programas%2C%20projetos%20e%20benef%C3%ADcios%20de%20assist%C3%AAncia%20social%2C%20por%20meio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Compete aos Estados:\n\nI - destinar recursos financeiros aos Municípios, a título de participação no custeio do pagamento dos benefícios eventuais de que trata o art. 22, mediante critérios estabelecidos pelos Conselhos Estaduais de Assistência Social; (Redação dada pela Lei nº 12.435, de 2011)\n\nII - cofinanciar, por meio de transferência automática, o aprimoramento da gestão, os serviços, os programas e os projetos de assistência social em âmbito regional ou local; (Redação dada pela Lei nº 12.435, de 2011)\n\nIII - atender, em conjunto com os Municípios, às ações assistenciais de caráter de emergência;\n\nIV - estimular e apoiar técnica e financeiramente as associações e consórcios municipais na prestação de serviços de assistência social;\n\nV - prestar os serviços assistenciais cujos custos ou ausência de demanda municipal justifiquem uma rede regional de serviços, desconcentrada, no âmbito do respectivo Estado.\n\nVI - realizar o monitoramento e a avaliação da política de assistência social e assessorar os Municípios para seu desenvolvimento. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2013.%20Compete%20aos%20Estados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-A",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Compete ao Distrito Federal:\n\nI - destinar recursos financeiros para custeio do pagamento dos benefícios eventuais de que trata o art. 22, mediante critérios estabelecidos pelos Conselhos de Assistência Social do Distrito Federal; (Redação dada pela Lei nº 12.435, de 2011)\n\nII - efetuar o pagamento dos auxílios natalidade e funeral;\n\nIII - executar os projetos de enfrentamento da pobreza, incluindo a parceria com organizações da sociedade civil;\n\nIV - atender às ações assistenciais de caráter de emergência;\n\nV - prestar os serviços assistenciais de que trata o art. 23 desta lei.\n\nVI - cofinanciar o aprimoramento da gestão, os serviços, os programas e os projetos de assistência social em âmbito local; (Incluído pela Lei nº 12.435, de 2011)\n\nVII - realizar o monitoramento e a avaliação da política de assistência social em seu âmbito. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2014.%20Compete%20ao%20Distrito%20Federal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Compete aos Municípios:\n\nI - destinar recursos financeiros para custeio do pagamento dos benefícios eventuais de que trata o art. 22, mediante critérios estabelecidos pelos Conselhos Municipais de Assistência Social; (Redação dada pela Lei nº 12.435, de 2011)\n\nII - efetuar o pagamento dos auxílios natalidade e funeral;\n\nIII - executar os projetos de enfrentamento da pobreza, incluindo a parceria com organizações da sociedade civil;\n\nIV - atender às ações assistenciais de caráter de emergência;\n\nV - prestar os serviços assistenciais de que trata o art. 23 desta lei.\n\nVI - cofinanciar o aprimoramento da gestão, os serviços, os programas e os projetos de assistência social em âmbito local; (Incluído pela Lei nº 12.435, de 2011)\n\nVII - realizar o monitoramento e a avaliação da política de assistência social em seu âmbito. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2015.%20Compete%20aos%20Munic%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As instâncias deliberativas do Suas, de caráter permanente e composição paritária entre governo e sociedade civil, são: (Redação dada pela Lei nº 12.435, de 2011)\n\nI - o Conselho Nacional de Assistência Social;\n\nII - os Conselhos Estaduais de Assistência Social;\n\nIII - o Conselho de Assistência Social do Distrito Federal;\n\nIV - os Conselhos Municipais de Assistência Social.\n\nParágrafo único. Os Conselhos de Assistência Social estão vinculados ao órgão gestor de assistência social, que deve prover a infraestrutura necessária ao seu funcionamento, garantindo recursos materiais, humanos e financeiros, inclusive com despesas referentes a passagens e diárias de conselheiros representantes do governo ou da sociedade civil, quando estiverem no exercício de suas atribuições. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2016.%20As%20inst%C3%A2ncias%20deliberativas%20do%20Suas%2C%20de%20car%C3%A1ter%20permanente%20e%20composi%C3%A7%C3%A3o%20parit%C3%A1ria%20entre%20governo%20e%20sociedade%20civil%2C%20s%C3%A3o%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Fica instituído o Conselho Nacional de Assistência Social (CNAS), órgão superior de deliberação colegiada, vinculado à estrutura do órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social, cujos membros, nomeados pelo Presidente da República, têm mandato de 2 (dois) anos, permitida uma única recondução por igual período.\n\n§ 1º O Conselho Nacional de Assistência Social (CNAS) é composto por 18 (dezoito) membros e respectivos suplentes, cujos nomes são indicados ao órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social, de acordo com os critérios seguintes:\n\nI - 9 (nove) representantes governamentais, incluindo 1 (um) representante dos Estados e 1 (um) dos Municípios;\n\nII - 9 (nove) representantes da sociedade civil, dentre representantes dos usuários ou de organizações de usuários, das entidades e organizações de assistência social e dos trabalhadores do setor, escolhidos em foro próprio sob fiscalização do Ministério Público Federal.\n\n§ 2º O Conselho Nacional de Assistência Social (CNAS) é presidido por um de seus integrantes, eleito dentre seus membros, para mandato de 1 (um) ano, permitida uma única recondução por igual período.\n\n§ 3º O Conselho Nacional de Assistência Social (CNAS) contará com uma Secretaria Executiva, a qual terá sua estrutura disciplinada em ato do Poder Executivo.\n\n§ 4o Os Conselhos de que tratam os incisos II, III e IV do art. 16, com competência para acompanhar a execução da política de assistência social, apreciar e aprovar a proposta orçamentária, em consonância com as diretrizes das conferências nacionais, estaduais, distrital e municipais, de acordo com seu âmbito de atuação, deverão ser instituídos, respectivamente, pelos Estados, pelo Distrito Federal e pelos Municípios, mediante lei específica. (Redação dada pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2017.%20Fica%20institu%C3%ADdo%20o%20Conselho%20Nacional%20de%20Assist%C3%AAncia%20Social%20%28CNAS%29%2C%20%C3%B3rg%C3%A3o%20superior%20de%20delibera%C3%A7%C3%A3o%20colegiada%2C%20vinculado%20%C3%A0%20estrutura%20do%20%C3%B3rg%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Compete ao Conselho Nacional de Assistência Social:\n\nI - aprovar a Política Nacional de Assistência Social;\n\nII - normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social;\n\nIII - acompanhar e fiscalizar o processo de certificação das entidades e organizações de assistência social no Ministério do Desenvolvimento Social e Combate à Fome; (Redação dada pela Lei nº 12.101, de 2009)\n\nIV - apreciar relatório anual que conterá a relação de entidades e organizações de assistência social certificadas como beneficentes e encaminhá-lo para conhecimento dos Conselhos de Assistência Social dos Estados, Municípios e do Distrito Federal; (Redação dada pela Lei nº 12.101, de 2009)\n\nV - zelar pela efetivação do sistema descentralizado e participativo de assistência social;\n\nVI - a partir da realização da II Conferência Nacional de Assistência Social em 1997, convocar ordinariamente a cada quatro anos a Conferência Nacional de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema; (Redação dada pela Lei nº 9.720, de 26.4.1991)\n\nVII - (Vetado.)\n\nVIII - apreciar e aprovar a proposta orçamentária da Assistência Social a ser encaminhada pelo órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social;\n\nIX - aprovar critérios de transferência de recursos para os Estados, Municípios e Distrito Federal, considerando, para tanto, indicadores que informem sua regionalização mais eqüitativa, tais como: população, renda per capita, mortalidade infantil e concentração de renda, além de disciplinar os procedimentos de repasse de recursos para as entidades e organizações de assistência social, sem prejuízo das disposições da Lei de Diretrizes Orçamentárias;\n\nX - acompanhar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados;\n\nXI - estabelecer diretrizes, apreciar e aprovar os programas anuais e plurianuais do Fundo Nacional de Assistência Social (FNAS);\n\nXII - indicar o representante do Conselho Nacional de Assistência Social (CNAS) junto ao Conselho Nacional da Seguridade Social;\n\nXIII - elaborar e aprovar seu regimento interno;\n\nXIV - divulgar, no Diário Oficial da União, todas as suas decisões, bem como as contas do Fundo Nacional de Assistência Social (FNAS) e os respectivos pareceres emitidos.\n\nParágrafo único. (Revogado pela Lei nº 12.101, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2018.%20Compete%20ao%20Conselho%20Nacional%20de%20Assist%C3%AAncia%20Social%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Compete ao órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social:\n\nI - coordenar e articular as ações no campo da assistência social;\n\nII - propor ao Conselho Nacional de Assistência Social (CNAS) a Política Nacional de Assistência Social, suas normas gerais, bem como os critérios de prioridade e de elegibilidade, além de padrões de qualidade na prestação de benefícios, serviços, programas e projetos;\n\nIII - prover recursos para o pagamento dos benefícios de prestação continuada definidos nesta lei;\n\nIV - elaborar e encaminhar a proposta orçamentária da assistência social, em conjunto com as demais da Seguridade Social;\n\nV - propor os critérios de transferência dos recursos de que trata esta lei;\n\nVI - proceder à transferência dos recursos destinados à assistência social, na forma prevista nesta lei;\n\nVII - encaminhar à apreciação do Conselho Nacional de Assistência Social (CNAS) relatórios trimestrais e anuais de atividades e de realização financeira dos recursos;\n\nVIII - prestar assessoramento técnico aos Estados, ao Distrito Federal, aos Municípios e às entidades e organizações de assistência social;\n\nIX - formular política para a qualificação sistemática e continuada de recursos humanos no campo da assistência social;\n\nX - desenvolver estudos e pesquisas para fundamentar as análises de necessidades e formulação de proposições para a área;\n\nXI - coordenar e manter atualizado o sistema de cadastro de entidades e organizações de assistência social, em articulação com os Estados, os Municípios e o Distrito Federal;\n\nXII - articular-se com os órgãos responsáveis pelas políticas de saúde e previdência social, bem como com os demais responsáveis pelas políticas sócio-econômicas setoriais, visando à elevação do patamar mínimo de atendimento às necessidades básicas;\n\nXIII - expedir os atos normativos necessários à gestão do Fundo Nacional de Assistência Social (FNAS), de acordo com as diretrizes estabelecidas pelo Conselho Nacional de Assistência Social (CNAS);\n\nXIV - elaborar e submeter ao Conselho Nacional de Assistência Social (CNAS) os programas anuais e plurianuais de aplicação dos recursos do Fundo Nacional de Assistência Social (FNAS).\n\nParágrafo único. A atenção integral à saúde, inclusive a dispensação de medicamentos e produtos de interesse para a saúde, às famílias e indivíduos em situações de vulnerabilidade ou risco social e pessoal, nos termos desta Lei, dar-se-á independentemente da apresentação de documentos que comprovem domicílio ou inscrição no cadastro no Sistema Único de Saúde (SUS), em consonância com a diretriz de articulação das ações de assistência social e de saúde a que se refere o inciso XII deste artigo. (Incluído pela Lei nº 13.714, de 2018) (Vide ADI 6085)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2019.%20Compete%20ao%20%C3%B3rg%C3%A3o%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal%20respons%C3%A1vel%20pela%20coordena%C3%A7%C3%A3o%20da%20Pol%C3%ADtica%20Nacional%20de%20Assist%C3%AAncia%20Social%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família. (Redação dada pela Lei nº 12.435, de 2011) (Vide Lei nº 13.985, de 2020)\n\n§ 1o Para os efeitos do disposto no caput, a família é composta pelo requerente, o cônjuge ou companheiro, os pais e, na ausência de um deles, a madrasta ou o padrasto, os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que vivam sob o mesmo teto. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 2o Para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)\n\n§ 2º-A. A concessão administrativa ou judicial do benefício de que trata este artigo a pessoa com deficiência fica sujeita a avaliação, nos termos de regulamento. (Incluído pela Lei nº 15.077, de 2024)\n\n§ 2º-B. (VETADO). (Incluído pela Lei nº 15.077, de 2024)\n\n§ 3º Observados os demais critérios de elegibilidade definidos nesta Lei, terão direito ao benefício financeiro de que trata o caput deste artigo a pessoa com deficiência ou a pessoa idosa com renda familiar mensal per capita igual ou inferior a 1/4 (um quarto) do salário-mínimo. (Redação dada pela Lei nº 14.176, de 2021)\n\nI – (revogado); (Redação dada pela Lei nº 14.176, de 2021)\n\nII - (VETADO). (Incluído pela Lei nº 13.982, de 2020)\n\n§ 3º-A. O cálculo da renda familiar considerará a soma dos rendimentos auferidos mensalmente pelos membros da família que vivam sob o mesmo teto, ressalvadas as hipóteses previstas no § 14 deste artigo, nos termos estabelecidos em ato do Poder Executivo federal, vedadas deduções não previstas em lei. (Incluído pela Lei nº 15.077, de 2024)\n\n§ 4º O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória, bem como as transferências de renda de que tratam o parágrafo único do art. 6º e o inciso VI do caput do art. 203 da Constituição Federal e o caput e o § 1º do art. 1º da Lei nº 10.835, de 8 de janeiro de 2004. (Redação dada pela Lei nº 14.601, de 2023)\n\n§ 5o A condição de acolhimento em instituições de longa permanência não prejudica o direito do idoso ou da pessoa com deficiência ao benefício de prestação continuada. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de impedimento de que trata o § 2o, composta por avaliação médica e avaliação social realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro Social - INSS. (Redação dada pela Lei nº 12.470, de 2011)\n\n§ 6º-A. O INSS poderá celebrar parcerias para a realização da avaliação social, sob a supervisão do serviço social da autarquia. (Incluído pela Lei nº 14.441, de 2022)\n\n§ 7o Na hipótese de não existirem serviços no município de residência do beneficiário, fica assegurado, na forma prevista em regulamento, o seu encaminhamento ao município mais próximo que contar com tal estrutura. (Incluído pela Lei nº 9.720, de 30.11.1998)\n\n§ 8o A renda familiar mensal a que se refere o § 3o deverá ser declarada pelo requerente ou seu representante legal, sujeitando-se aos demais procedimentos previstos no regulamento para o deferimento do pedido. (Incluído pela Lei nº 9.720, de 30.11.1998)\n\n§ 9º Os valores recebidos a título de auxílio financeiro temporário ou de indenização por danos sofridos em decorrência de rompimento e colapso de barragens, bem como os rendimentos decorrentes de estágio supervisionado e de aprendizagem, não serão computados para fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo. (Redação dada pela Lei nº 14.809, de 2024)\n\n§ 10. Considera-se impedimento de longo prazo, para os fins do § 2o deste artigo, aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos. (Incluído pela Lei nº 12.470, de 2011)\n\n§ 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar e da situação de vulnerabilidade, conforme regulamento. (Incluído pela Lei nº 13.146, de 2015) (Vigência)\n\n§ 11-A. O regulamento de que trata o § 11 deste artigo poderá ampliar o limite de renda mensal familiar per capita previsto no § 3º deste artigo para até 1/2 (meio) salário-mínimo, observado o disposto no art. 20-B desta Lei. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 12. São requisitos para a concessão, a manutenção e a revisão do benefício as inscrições no Cadastro de Pessoas Físicas (CPF) e no Cadastro Único para Programas Sociais do Governo Federal - Cadastro Único, conforme previsto em regulamento. (Incluído pela Lei nº 13.846, de 2019)\n\n§ 12-A. Ao requerente do benefício de prestação continuada, ou ao responsável legal, será solicitado registro biométrico nos cadastros da Carteira de Identidade Nacional (CIN), do título eleitoral ou da Carteira Nacional de Habilitação (CNH), nos termos de ato conjunto dos órgãos competentes. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 12-B. Na impossibilidade de registro biométrico do requerente, ele será obrigatório ao responsável legal. (Incluído pela Lei nº 15.077, de 2024)\n\n§ 13. (Vide medida Provisória nº 871, de 2019)\n\n§ 14. O benefício de prestação continuada ou o benefício previdenciário no valor de até 1 (um) salário-mínimo concedido a idoso acima de 65 (sessenta e cinco) anos de idade ou pessoa com deficiência não será computado, para fins de concessão do benefício de prestação continuada a outro idoso ou pessoa com deficiência da mesma família, no cálculo da renda a que se refere o § 3º deste artigo. (Incluído pela Lei nº 13.982, de 2020)\n\n§ 15. O benefício de prestação continuada será devido a mais de um membro da mesma família enquanto atendidos os requisitos exigidos nesta Lei. (Incluído pela Lei nº 13.982, de 2020)\n\n§ 16. Durante a avaliação da deficiência e do grau de impedimento de que trata o § 2º deste artigo, a perícia médica dos requerentes do benefício de prestação continuada com síndrome da imunodeficiência adquirida deverá ter a participação de pelo menos 1 (um) médico especialista em infectologia. (Incluído pela Lei nº 15.157, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2020.%20O%20benef%C3%ADcio%20de%20presta%C3%A7%C3%A3o%20continuada%20%C3%A9%20a%20garantia%20de%20um%20sal%C3%A1rio-m%C3%ADnimo%20mensal%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20e%20ao%20idoso%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "19",
+      "next": "20-A"
+    },
+    "20-A": {
+      "numero": "20-A",
+      "texto": "Art. 20-A. (Revogado pela Lei nº 14.176, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2020-A.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.176%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "20",
+      "next": "20-B"
+    },
+    "20-B": {
+      "numero": "20-B",
+      "texto": "Art. 20-B. Na avaliação de outros elementos probatórios da condição de miserabilidade e da situação de vulnerabilidade de que trata o § 11 do art. 20 desta Lei, serão considerados os seguintes aspectos para ampliação do critério de aferição da renda familiar mensal per capita de que trata o § 11-A do referido artigo:. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\nI – o grau da deficiência;. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\nII – a dependência de terceiros para o desempenho de atividades básicas da vida diária; e. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\nIII – o comprometimento do orçamento do núcleo familiar de que trata o § 3º do art. 20 desta Lei exclusivamente com gastos médicos, com tratamentos de saúde, com fraldas, com alimentos especiais e com medicamentos do idoso ou da pessoa com deficiência não disponibilizados gratuitamente pelo SUS, ou com serviços não prestados pelo Suas, desde que comprovadamente necessários à preservação da saúde e da vida. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 1º A ampliação de que trata o caput deste artigo ocorrerá na forma de escalas graduais, definidas em regulamento. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 2º Aplicam-se à pessoa com deficiência os elementos constantes dos incisos I e III do caput deste artigo, e à pessoa idosa os constantes dos incisos II e III do caput deste artigo.. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 3º O grau da deficiência de que trata o inciso I do caput deste artigo será aferido por meio de instrumento de avaliação biopsicossocial, observados os termos dos §§ 1º e 2º do art. 2º da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), e do § 6º do art. 20 e do art. 40-B desta Lei.. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 4º O valor referente ao comprometimento do orçamento do núcleo familiar com gastos de que trata o inciso III do caput deste artigo será definido em ato conjunto do Ministério da Cidadania, da Secretaria Especial de Previdência e Trabalho do Ministério da Economia e do INSS, a partir de valores médios dos gastos realizados pelas famílias exclusivamente com essas finalidades, facultada ao interessado a possibilidade de comprovação, conforme critérios definidos em regulamento, de que os gastos efetivos ultrapassam os valores médios. (Incluído pela Lei nº 14.176, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2020-B.%20Na%20avalia%C3%A7%C3%A3o%20de%20outros%20elementos%20probat%C3%B3rios%20da%20condi%C3%A7%C3%A3o%20de%20miserabilidade%20e%20da%20situa%C3%A7%C3%A3o%20de%20vulnerabilidade%20de%20que%20trata%20o%20%C2%A7",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "20-A",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O benefício de prestação continuada deve ser revisto a cada 2 (dois) anos para avaliação da continuidade das condições que lhe deram origem. (Vide Lei nº 9.720, de 30.11.1998)\n\n§ 1º O pagamento do benefício cessa no momento em que forem superadas as condições referidas no caput, ou em caso de morte do beneficiário.\n\n§ 2º O benefício será cancelado quando se constatar irregularidade na sua concessão ou utilização.\n\n§ 3o O desenvolvimento das capacidades cognitivas, motoras ou educacionais e a realização de atividades não remuneradas de habilitação e reabilitação, entre outras, não constituem motivo de suspensão ou cessação do benefício da pessoa com deficiência. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 4º A cessação do benefício de prestação continuada concedido à pessoa com deficiência não impede nova concessão do benefício, desde que atendidos os requisitos definidos em regulamento. (Redação dada pela Lei nº 12.470, de 2011)\n\n§ 5º O beneficiário do benefício de prestação continuada é dispensado de avaliação médico-pericial periódica, desde que o impedimento de que trata o § 2º do art. 20 desta Lei seja permanente, irreversível ou irrecuperável, salvo quando houver fundamentada suspeita de fraude ou erro. (Redação dada pela Lei nº 15.157, de 2025\n\n§ 6º A revisão de que trata o caput deste artigo, para efeito de constatação de permanência de deficiência, ficará dispensada no caso de benefício de prestação continuada concedido em virtude de deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, desde que o impedimento de que trata o § 2º do art. 20 desta Lei seja permanente, irreversível ou irrecuperável. (Incluído pela Lei nº 15.156, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2021.%20O%20benef%C3%ADcio%20de%20presta%C3%A7%C3%A3o%20continuada%20deve%20ser%20revisto%20a%20cada%202%20%28dois%29%20anos%20para%20avalia%C3%A7%C3%A3o%20da%20continuidade%20das%20condi%C3%A7%C3%B5es%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "20-B",
+      "next": "21-A"
+    },
+    "21-A": {
+      "numero": "21-A",
+      "texto": "Art. 21-A. O benefício de prestação continuada será suspenso pelo órgão concedente quando a pessoa com deficiência exercer atividade remunerada, inclusive na condição de microempreendedor individual. (Incluído pela Lei nº 12.470, de 2011)\n\n§ 1o Extinta a relação trabalhista ou a atividade empreendedora de que trata o caput deste artigo e, quando for o caso, encerrado o prazo de pagamento do seguro-desemprego e não tendo o beneficiário adquirido direito a qualquer benefício previdenciário, poderá ser requerida a continuidade do pagamento do benefício suspenso, sem necessidade de realização de perícia médica ou reavaliação da deficiência e do grau de incapacidade para esse fim, respeitado o período de revisão previsto no caput do art. 21. (Incluído pela Lei nº 12.470, de 2011)\n\n§ 2o A contratação de pessoa com deficiência como aprendiz não acarreta a suspensão do benefício de prestação continuada, limitado a 2 (dois) anos o recebimento concomitante da remuneração e do benefício. (Incluído pela Lei nº 12.470, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2021-A.%20O%20benef%C3%ADcio%20de%20presta%C3%A7%C3%A3o%20continuada%20ser%C3%A1%20suspenso%20pelo%20%C3%B3rg%C3%A3o%20concedente%20quando%20a%20pessoa%20com%20defici%C3%AAncia%20exercer%20atividade%20remunerada%2C%20inclusive%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "21",
+      "next": "21-B"
+    },
+    "21-B": {
+      "numero": "21-B",
+      "texto": "Art. 21-B. Os beneficiários do benefício de prestação continuada, quando não estiverem inscritos no CadÚnico ou quando estiverem com o cadastro desatualizado há mais de 24 (vinte e quatro) meses, deverão regularizar a situação nos seguintes prazos, contados a partir da efetiva notificação bancária ou por outros canais de atendimento: (Redação dada pela Lei nº 15.077, de 2024)\n\nI – 45 (quarenta e cinco) dias para Municípios de pequeno porte; (Incluído pela Lei nº 14.973, de 2024)\n\nII – 90 (noventa) dias para Municípios de médio e grande porte ou metrópole, com população acima de 50.000 (cinquenta mil) habitantes. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 1º Na falta da ciência da notificação bancária ou por outros canais de atendimento, o crédito do benefício será bloqueado em 30 (trinta) dias após o envio da notificação. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 2º O não cumprimento do disposto no caput implicará a suspensão do benefício, desde que comprovada a ciência da notificação. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 3º O beneficiário poderá realizar a inclusão ou a atualização no CadÚnico até o final do prazo de suspensão, sem que haja prejuízo no pagamento do benefício. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2021-B.%20Os%20benefici%C3%A1rios%20do%20benef%C3%ADcio%20de%20presta%C3%A7%C3%A3o%20continuada%2C%20quando%20n%C3%A3o%20estiverem%20inscritos%20no%20Cad%C3%9Anico%20ou%20quando%20estiverem%20com%20o%20cadastro%20desatualizado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "21-A",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Entendem-se por benefícios eventuais as provisões suplementares e provisórias que integram organicamente as garantias do Suas e são prestadas aos cidadãos e às famílias em virtude de nascimento, morte, situações de vulnerabilidade temporária e de calamidade pública. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 1o A concessão e o valor dos benefícios de que trata este artigo serão definidos pelos Estados, Distrito Federal e Municípios e previstos nas respectivas leis orçamentárias anuais, com base em critérios e prazos definidos pelos respectivos Conselhos de Assistência Social. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 2o O CNAS, ouvidas as respectivas representações de Estados e Municípios dele participantes, poderá propor, na medida das disponibilidades orçamentárias das 3 (três) esferas de governo, a instituição de benefícios subsidiários no valor de até 25% (vinte e cinco por cento) do salário-mínimo para cada criança de até 6 (seis) anos de idade. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 3o Os benefícios eventuais subsidiários não poderão ser cumulados com aqueles instituídos pelas Leis no 10.954, de 29 de setembro de 2004, e no 10.458, de 14 de maio de 2002. (Redação dada pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2022.%20Entendem-se%20por%20benef%C3%ADcios%20eventuais%20as%20provis%C3%B5es%20suplementares%20e%20provis%C3%B3rias%20que%20integram%20organicamente%20as%20garantias%20do%20Suas%20e%20s%C3%A3o%20prestadas%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "21-B",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Entendem-se por serviços socioassistenciais as atividades continuadas que visem à melhoria de vida da população e cujas ações, voltadas para as necessidades básicas, observem os objetivos, princípios e diretrizes estabelecidos nesta Lei. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 1o O regulamento instituirá os serviços socioassistenciais. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o Na organização dos serviços da assistência social serão criados programas de amparo, entre outros: (Incluído pela Lei nº 12.435, de 2011)\n\nI - às crianças e adolescentes em situação de risco pessoal e social, em cumprimento ao disposto no art. 227 da Constituição Federal e na Lei no 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente); (Incluído pela Lei nº 12.435, de 2011)\n\nII - às pessoas que vivem em situação de rua. (Incluído pela Lei nº 12.435, de 2011)\n\nIII - às pessoas idosas carentes residentes em instituições de longa permanência, nas quais o poder público apoiará o atendimento integral à saúde, na forma do regulamento. (Incluído pela Lei nº 14.878, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2023.%20Entendem-se%20por%20servi%C3%A7os%20socioassistenciais%20as%20atividades%20continuadas%20que%20visem%20%C3%A0%20melhoria%20de%20vida%20da%20popula%C3%A7%C3%A3o%20e%20cujas%20a%C3%A7%C3%B5es%2C%20voltadas%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os programas de assistência social compreendem ações integradas e complementares com objetivos, tempo e área de abrangência definidos para qualificar, incentivar e melhorar os benefícios e os serviços assistenciais.\n\n§ 1º Os programas de que trata este artigo serão definidos pelos respectivos Conselhos de Assistência Social, obedecidos os objetivos e princípios que regem esta lei, com prioridade para a inserção profissional e social.\n\n§ 2o Os programas voltados para o idoso e a integração da pessoa com deficiência serão devidamente articulados com o benefício de prestação continuada estabelecido no art. 20 desta Lei. (Redação dada pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2024.%20Os%20programas%20de%20assist%C3%AAncia%20social%20compreendem%20a%C3%A7%C3%B5es%20integradas%20e%20complementares%20com%20objetivos%2C%20tempo%20e%20%C3%A1rea%20de%20abrang%C3%AAncia%20definidos%20para%20qualificar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "23",
+      "next": "24-A"
+    },
+    "24-A": {
+      "numero": "24-A",
+      "texto": "Art. 24-A. Fica instituído o Serviço de Proteção e Atendimento Integral à Família (Paif), que integra a proteção social básica e consiste na oferta de ações e serviços socioassistenciais de prestação continuada, nos Cras, por meio do trabalho social com famílias em situação de vulnerabilidade social, com o objetivo de prevenir o rompimento dos vínculos familiares e a violência no âmbito de suas relações, garantindo o direito à convivência familiar e comunitária. (Incluído pela Lei nº 12.435, de 2011)\n\nParágrafo único. Regulamento definirá as diretrizes e os procedimentos do Paif. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2024-A.%20Fica%20institu%C3%ADdo%20o%20Servi%C3%A7o%20de%20Prote%C3%A7%C3%A3o%20e%20Atendimento%20Integral%20%C3%A0%20Fam%C3%ADlia%20%28Paif%29%2C%20que%20integra%20a%20prote%C3%A7%C3%A3o%20social%20b%C3%A1sica%20e%20consiste",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "24",
+      "next": "24-B"
+    },
+    "24-B": {
+      "numero": "24-B",
+      "texto": "Art. 24-B. Fica instituído o Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos (Paefi), que integra a proteção social especial e consiste no apoio, orientação e acompanhamento a famílias e indivíduos em situação de ameaça ou violação de direitos, articulando os serviços socioassistenciais com as diversas políticas públicas e com órgãos do sistema de garantia de direitos. (Incluído pela Lei nº 12.435, de 2011)\n\nParágrafo único. Regulamento definirá as diretrizes e os procedimentos do Paefi. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2024-B.%20Fica%20institu%C3%ADdo%20o%20Servi%C3%A7o%20de%20Prote%C3%A7%C3%A3o%20e%20Atendimento%20Especializado%20a%20Fam%C3%ADlias%20e%20Indiv%C3%ADduos%20%28Paefi%29%2C%20que%20integra%20a%20prote%C3%A7%C3%A3o%20social%20especial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "24-A",
+      "next": "24-C"
+    },
+    "24-C": {
+      "numero": "24-C",
+      "texto": "Art. 24-C. Fica instituído o Programa de Erradicação do Trabalho Infantil (Peti), de caráter intersetorial, integrante da Política Nacional de Assistência Social, que, no âmbito do Suas, compreende transferências de renda, trabalho social com famílias e oferta de serviços socioeducativos para crianças e adolescentes que se encontrem em situação de trabalho. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 1o O Peti tem abrangência nacional e será desenvolvido de forma articulada pelos entes federados, com a participação da sociedade civil, e tem como objetivo contribuir para a retirada de crianças e adolescentes com idade inferior a 16 (dezesseis) anos em situação de trabalho, ressalvada a condição de aprendiz, a partir de 14 (quatorze) anos. (Incluído pela Lei nº 12.435, de 2011)\n\n§ 2o As crianças e os adolescentes em situação de trabalho deverão ser identificados e ter os seus dados inseridos no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), com a devida identificação das situações de trabalho infantil. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2024-C.%20Fica%20institu%C3%ADdo%20o%20Programa%20de%20Erradica%C3%A7%C3%A3o%20do%20Trabalho%20Infantil%20%28Peti%29%2C%20de%20car%C3%A1ter%20intersetorial%2C%20integrante%20da%20Pol%C3%ADtica%20Nacional%20de%20Assist%C3%AAncia%20Social%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "24-B",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os projetos de enfrentamento da pobreza compreendem a instituição de investimento econômico-social nos grupos populares, buscando subsidiar, financeira e tecnicamente, iniciativas que lhes garantam meios, capacidade produtiva e de gestão para melhoria das condições gerais de subsistência, elevação do padrão da qualidade de vida, a preservação do meio-ambiente e sua organização social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2025.%20Os%20projetos%20de%20enfrentamento%20da%20pobreza%20compreendem%20a%20institui%C3%A7%C3%A3o%20de%20investimento%20econ%C3%B4mico-social%20nos%20grupos%20populares%2C%20buscando%20subsidiar%2C%20financeira%20e%20tecnicamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "24-C",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O incentivo a projetos de enfrentamento da pobreza assentar-se-á em mecanismos de articulação e de participação de diferentes áreas governamentais e em sistema de cooperação entre organismos governamentais, não governamentais e da sociedade civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026.%20O%20incentivo%20a%20projetos%20de%20enfrentamento%20da%20pobreza%20assentar-se-%C3%A1%20em%20mecanismos%20de%20articula%C3%A7%C3%A3o%20e%20de%20participa%C3%A7%C3%A3o%20de%20diferentes%20%C3%A1reas%20governamentais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Terá direito à concessão do auxílio-inclusão de que trata o art. 94 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), a pessoa com deficiência moderada ou grave que, cumulativamente: (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\nI – receba o benefício de prestação continuada, de que trata o art. 20 desta Lei, e passe a exercer atividade:\n\na) que tenha remuneração limitada a 2 (dois) salários-mínimos; e\n\nb) que enquadre o beneficiário como segurado obrigatório do Regime Geral de Previdência Social ou como filiado a regime próprio de previdência social da União, dos Estados, do Distrito Federal ou dos Municípios;\n\nII – tenha inscrição atualizada no CadÚnico no momento do requerimento do auxílio-inclusão;\n\nIII – tenha inscrição regular no CPF; e\n\nIV – atenda aos critérios de manutenção do benefício de prestação continuada, incluídos os critérios relativos à renda familiar mensal per capita exigida para o acesso ao benefício, observado o disposto no § 4º deste artigo.\n\n§ 1º O auxílio-inclusão poderá ainda ser concedido, nos termos do inciso I do caput deste artigo, mediante requerimento e sem retroatividade no pagamento, ao beneficiário:\n\nI – que tenha recebido o benefício de prestação continuada nos 5 (cinco) anos imediatamente anteriores ao exercício da atividade remunerada; e\n\nII – que tenha tido o benefício suspenso nos termos do art. 21-A desta Lei.\n\n§ 2º O valor do auxílio-inclusão percebido por um membro da família não será considerado no cálculo da renda familiar mensal per capita de que trata o inciso IV do caput deste artigo, para fins de concessão e de manutenção de outro auxílio-inclusão no âmbito do mesmo grupo familiar.\n\n§ 3º O valor do auxílio-inclusão e o da remuneração do beneficiário do auxílio-inclusão de que trata a alínea “a” do inciso I do caput deste artigo percebidos por um membro da família não serão considerados no cálculo da renda familiar mensal per capita de que tratam os §§ 3º e 11-A do art. 20 desta Lei para fins de manutenção de benefício de prestação continuada concedido anteriormente a outra pessoa do mesmo grupo familiar.\n\n§ 4º Para fins de cálculo da renda familiar per capita de que trata o inciso IV do caput deste artigo, serão desconsideradas:\n\nI – as remunerações obtidas pelo requerente em decorrência de exercício de atividade laboral, desde que o total recebido no mês seja igual ou inferior a 2 (dois) salários-mínimos; e\n\nII – as rendas oriundas dos rendimentos decorrentes de estágio supervisionado e de aprendizagem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-A.%20Ter%C3%A1%20direito%20%C3%A0%20concess%C3%A3o%20do%20aux%C3%ADlio-inclus%C3%A3o%20de%20que%20trata%20o%20art.%2094%20da%20Lei%20n%C2%BA%2013.146%2C%20de%206%20de%20julho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26",
+      "next": "26-B"
+    },
+    "26-B": {
+      "numero": "26-B",
+      "texto": "Art. 26-B. O auxílio-inclusão será devido a partir da data do requerimento, e o seu valor corresponderá a 50% (cinquenta por cento) do valor do benefício de prestação continuada em vigor. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 1º Ao requerer o auxílio-inclusão, o beneficiário autorizará a suspensão do benefício de prestação continuada, nos termos do art. 21-A desta Lei.\n\n§ 2º O auxílio-inclusão será concedido automaticamente pelo INSS, observado o preenchimento dos demais requisitos, mediante constatação, pela própria autarquia ou pelo Ministério da Cidadania, de acumulação do benefício de prestação continuada com o exercício de atividade remunerada. (Incluído pela Lei nº 14.441, de 2022)\n\n§ 3º Na hipótese do § 2º deste artigo, o auxílio-inclusão será devido a partir do primeiro dia da competência em que se identificou a ocorrência de acumulação do benefício de prestação continuada com o exercício de atividade remunerada, e o titular deverá ser notificado quanto à alteração do benefício e suas consequências administrativas. (Incluído pela Lei nº 14.441, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-B.%20O%20aux%C3%ADlio-inclus%C3%A3o%20ser%C3%A1%20devido%20a%20partir%20da%20data%20do%20requerimento%2C%20e%20o%20seu%20valor%20corresponder%C3%A1%20a%2050%25%20%28cinquenta%20por%20cento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-A",
+      "next": "26-C"
+    },
+    "26-C": {
+      "numero": "26-C",
+      "texto": "Art. 26-C. O pagamento do auxílio-inclusão não será acumulado com o pagamento de: (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\nI – benefício de prestação continuada de que trata o art. 20 desta Lei;\n\nII – prestações a título de aposentadoria, de pensões ou de benefícios por incapacidade pagos por qualquer regime de previdência social; ou\n\nIII – seguro-desemprego.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-C.%20O%20pagamento%20do%20aux%C3%ADlio-inclus%C3%A3o%20n%C3%A3o%20ser%C3%A1%20acumulado%20com%20o%20pagamento%20de%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.176%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-B",
+      "next": "26-D"
+    },
+    "26-D": {
+      "numero": "26-D",
+      "texto": "Art. 26-D. O pagamento do auxílio-inclusão cessará na hipótese de o beneficiário: (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\nI – deixar de atender aos critérios de manutenção do benefício de prestação continuada; ou\n\nII – deixar de atender aos critérios de concessão do auxílio-inclusão.\n\nParágrafo único. Ato do Poder Executivo federal disporá sobre o procedimento de verificação dos critérios de manutenção e de revisão do auxílio-inclusão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-D.%20O%20pagamento%20do%20aux%C3%ADlio-inclus%C3%A3o%20cessar%C3%A1%20na%20hip%C3%B3tese%20de%20o%20benefici%C3%A1rio%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.176%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-C",
+      "next": "26-E"
+    },
+    "26-E": {
+      "numero": "26-E",
+      "texto": "Art. 26-E. O auxílio-inclusão não está sujeito a desconto de qualquer contribuição e não gera direito a pagamento de abono anual. (Incluído pela Lei nº 14.176, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-E.%20O%20aux%C3%ADlio-inclus%C3%A3o%20n%C3%A3o%20est%C3%A1%20sujeito%20a%20desconto%20de%20qualquer%20contribui%C3%A7%C3%A3o%20e%20n%C3%A3o%20gera%20direito%20a%20pagamento%20de%20abono%20anual.%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-D",
+      "next": "26-F"
+    },
+    "26-F": {
+      "numero": "26-F",
+      "texto": "Art. 26-F. Compete ao Ministério da Cidadania a gestão do auxílio-inclusão, e ao INSS a sua operacionalização e pagamento. (Incluído pela Lei nº 14.176, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-F.%20Compete%20ao%20Minist%C3%A9rio%20da%20Cidadania%20a%20gest%C3%A3o%20do%20aux%C3%ADlio-inclus%C3%A3o%2C%20e%20ao%20INSS%20a%20sua%20operacionaliza%C3%A7%C3%A3o%20e%20pagamento.%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-E",
+      "next": "26-G"
+    },
+    "26-G": {
+      "numero": "26-G",
+      "texto": "Art. 26-G. As despesas decorrentes do pagamento do auxílio-inclusão correrão à conta do orçamento do Ministério da Cidadania. (Incluído pela Lei nº 14.176, de 2021) (Vigência)\n\n§ 1º O Poder Executivo federal compatibilizará o quantitativo de benefícios financeiros do auxílio-inclusão de que trata o art. 26-A desta Lei com as dotações orçamentárias existentes.\n\n§ 2º O regulamento indicará o órgão do Poder Executivo responsável por avaliar os impactos da concessão do auxílio-inclusão na participação no mercado de trabalho, na redução de desigualdades e no exercício dos direitos e liberdades fundamentais das pessoas com deficiência, nos termos do § 16 do art. 37 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-G.%20As%20despesas%20decorrentes%20do%20pagamento%20do%20aux%C3%ADlio-inclus%C3%A3o%20correr%C3%A3o%20%C3%A0%20conta%20do%20or%C3%A7amento%20do%20Minist%C3%A9rio%20da%20Cidadania.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-F",
+      "next": "26-H"
+    },
+    "26-H": {
+      "numero": "26-H",
+      "texto": "Art. 26-H. No prazo de 10 (dez) anos, contado da data de publicação desta Seção, será promovida a revisão do auxílio-inclusão, observado o disposto no § 2º do art. 26-G desta Lei, com vistas a seu aprimoramento e ampliação. (Incluído pela Lei nº 14.176, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2026-H.%20No%20prazo%20de%2010%20%28dez%29%20anos%2C%20contado%20da%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Se%C3%A7%C3%A3o%2C%20ser%C3%A1%20promovida%20a%20revis%C3%A3o%20do%20aux%C3%ADlio-inclus%C3%A3o%2C%20observado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "VI",
+        "section_name": "Seção VI (Incluído pela Lei nº 14.176, de 2021) (Vigência)"
+      },
+      "prev": "26-G",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Fica o Fundo Nacional de Ação Comunitária (Funac), instituído pelo Decreto nº 91.970, de 22 de novembro de 1985, ratificado pelo Decreto Legislativo nº 66, de 18 de dezembro de 1990, transformado no Fundo Nacional de Assistência Social (FNAS).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2027.%20Fica%20o%20Fundo%20Nacional%20de%20A%C3%A7%C3%A3o%20Comunit%C3%A1ria%20%28Funac%29%2C%20institu%C3%ADdo%20pelo%20Decreto%20n%C2%BA%2091.970%2C%20de%2022%20de%20novembro%20de%201985%2C%20ratificado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-H",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O financiamento dos benefícios, serviços, programas e projetos estabelecidos nesta lei far-se-á com os recursos da União, dos Estados, do Distrito Federal e dos Municípios, das demais contribuições sociais previstas no art. 195 da Constituição Federal, além daqueles que compõem o Fundo Nacional de Assistência Social (FNAS).\n\n§ 1o Cabe ao órgão da Administração Pública responsável pela coordenação da Política de Assistência Social nas 3 (três) esferas de governo gerir o Fundo de Assistência Social, sob orientação e controle dos respectivos Conselhos de Assistência Social. (Redação dada pela Lei nº 12.435, de 2011)\n\n§ 2º O Poder Executivo disporá, no prazo de 180 (cento e oitenta) dias a contar da data de publicação desta lei, sobre o regulamento e funcionamento do Fundo Nacional de Assistência Social (FNAS).\n\n§ 3o O financiamento da assistência social no Suas deve ser efetuado mediante cofinanciamento dos 3 (três) entes federados, devendo os recursos alocados nos fundos de assistência social ser voltados à operacionalização, prestação, aprimoramento e viabilização dos serviços, programas, projetos e benefícios desta política. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2028.%20O%20financiamento%20dos%20benef%C3%ADcios%2C%20servi%C3%A7os%2C%20programas%20e%20projetos%20estabelecidos%20nesta%20lei%20far-se-%C3%A1%20com%20os%20recursos%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "28-A"
+    },
+    "28-A": {
+      "numero": "28-A",
+      "texto": "Art. 28-A (Revogado pela Lei nº 13.813, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2028-A%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.813%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os recursos de responsabilidade da União destinados à assistência social serão automaticamente repassados ao Fundo Nacional de Assistência Social (FNAS), à medida que se forem realizando as receitas.\n\nParágrafo único. Os recursos de responsabilidade da União destinados ao financiamento dos benefícios de prestação continuada, previstos no art. 20, poderão ser repassados pelo Ministério da Previdência e Assistência Social diretamente ao INSS, órgão responsável pela sua execução e manutenção. (Incluído pela Lei nº 9.720, de 30.11.1998)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2029.%20Os%20recursos%20de%20responsabilidade%20da%20Uni%C3%A3o%20destinados%20%C3%A0%20assist%C3%AAncia%20social%20ser%C3%A3o%20automaticamente%20repassados%20ao%20Fundo%20Nacional%20de%20Assist%C3%AAncia%20Social%20%28FNAS%29%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28-A",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. É condição para os repasses, aos Municípios, aos Estados e ao Distrito Federal, dos recursos de que trata esta lei, a efetiva instituição e funcionamento de:\n\nI - Conselho de Assistência Social, de composição paritária entre governo e sociedade civil;\n\nII - Fundo de Assistência Social, com orientação e controle dos respectivos Conselhos de Assistência Social;\n\nIII - Plano de Assistência Social.\n\nParágrafo único. É, ainda, condição para transferência de recursos do FNAS aos Estados, ao Distrito Federal e aos Municípios a comprovação orçamentária dos recursos próprios destinados à Assistência Social, alocados em seus respectivos Fundos de Assistência Social, a partir do exercício de 1999. (Incluído pela Lei nº 9.720, de 30.11.1998)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2030.%20%C3%89%20condi%C3%A7%C3%A3o%20para%20os%20repasses%2C%20aos%20Munic%C3%ADpios%2C%20aos%20Estados%20e%20ao%20Distrito%20Federal%2C%20dos%20recursos%20de%20que%20trata%20esta%20lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "30-A"
+    },
+    "30-A": {
+      "numero": "30-A",
+      "texto": "Art. 30-A. O cofinanciamento dos serviços, programas, projetos e benefícios eventuais, no que couber, e o aprimoramento da gestão da política de assistência social no Suas se efetuam por meio de transferências automáticas entre os fundos de assistência social e mediante alocação de recursos próprios nesses fundos nas 3 (três) esferas de governo. (Incluído pela Lei nº 12.435, de 2011)\n\nParágrafo único. As transferências automáticas de recursos entre os fundos de assistência social efetuadas à conta do orçamento da seguridade social, conforme o art. 204 da Constituição Federal, caracterizam-se como despesa pública com a seguridade social, na forma do art. 24 da Lei Complementar no 101, de 4 de maio de 2000. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2030-A.%20O%20cofinanciamento%20dos%20servi%C3%A7os%2C%20programas%2C%20projetos%20e%20benef%C3%ADcios%20eventuais%2C%20no%20que%20couber%2C%20e%20o%20aprimoramento%20da%20gest%C3%A3o%20da%20pol%C3%ADtica%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "30-B"
+    },
+    "30-B": {
+      "numero": "30-B",
+      "texto": "Art. 30-B. Caberá ao ente federado responsável pela utilização dos recursos do respectivo Fundo de Assistência Social o controle e o acompanhamento dos serviços, programas, projetos e benefícios, por meio dos respectivos órgãos de controle, independentemente de ações do órgão repassador dos recursos. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2030-B.%20Caber%C3%A1%20ao%20ente%20federado%20respons%C3%A1vel%20pela%20utiliza%C3%A7%C3%A3o%20dos%20recursos%20do%20respectivo%20Fundo%20de%20Assist%C3%AAncia%20Social%20o%20controle%20e%20o%20acompanhamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-A",
+      "next": "30-C"
+    },
+    "30-C": {
+      "numero": "30-C",
+      "texto": "Art. 30-C. A utilização dos recursos federais descentralizados para os fundos de assistência social dos Estados, dos Municípios e do Distrito Federal será declarada pelos entes recebedores ao ente transferidor, anualmente, mediante relatório de gestão submetido à apreciação do respectivo Conselho de Assistência Social, que comprove a execução das ações na forma de regulamento. (Incluído pela Lei nº 12.435, de 2011)\n\nParágrafo único. Os entes transferidores poderão requisitar informações referentes à aplicação dos recursos oriundos do seu fundo de assistência social, para fins de análise e acompanhamento de sua boa e regular utilização. (Incluído pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2030-C.%20A%20utiliza%C3%A7%C3%A3o%20dos%20recursos%20federais%20descentralizados%20para%20os%20fundos%20de%20assist%C3%AAncia%20social%20dos%20Estados%2C%20dos%20Munic%C3%ADpios%20e%20do%20Distrito%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-B",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Cabe ao Ministério Público zelar pelo efetivo respeito aos direitos estabelecidos nesta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2031.%20Cabe%20ao%20Minist%C3%A9rio%20P%C3%BAblico%20zelar%20pelo%20efetivo%20respeito%20aos%20direitos%20estabelecidos%20nesta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-C",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O Poder Executivo terá o prazo de 60 (sessenta) dias, a partir da publicação desta lei, obedecidas as normas por ela instituídas, para elaborar e encaminhar projeto de lei dispondo sobre a extinção e reordenamento dos órgãos de assistência social do Ministério do Bem-Estar Social.\n\n§ 1º O projeto de que trata este artigo definirá formas de transferências de benefícios, serviços, programas, projetos, pessoal, bens móveis e imóveis para a esfera municipal.\n\n§ 2º O Ministro de Estado do Bem-Estar Social indicará Comissão encarregada de elaborar o projeto de lei de que trata este artigo, que contará com a participação das organizações dos usuários, de trabalhadores do setor e de entidades e organizações de assistência social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2032.%20O%20Poder%20Executivo%20ter%C3%A1%20o%20prazo%20de%2060%20%28sessenta%29%20dias%2C%20a%20partir%20da%20publica%C3%A7%C3%A3o%20desta%20lei%2C%20obedecidas%20as%20normas%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Decorrido o prazo de 120 (cento e vinte) dias da promulgação desta lei, fica extinto o Conselho Nacional de Serviço Social (CNSS), revogando-se, em conseqüência, os Decretos-Lei nºs 525, de 1º de julho de 1938, e 657, de 22 de julho de 1943.\n\n§ 1º O Poder Executivo tomará as providências necessárias para a instalação do Conselho Nacional de Assistência Social (CNAS) e a transferência das atividades que passarão à sua competência dentro do prazo estabelecido no caput, de forma a assegurar não haja solução de continuidade.\n\n§ 2º O acervo do órgão de que trata o caput será transferido, no prazo de 60 (sessenta) dias, para o Conselho Nacional de Assistência Social (CNAS), que promoverá, mediante critérios e prazos a serem fixados, a revisão dos processos de registro e certificado de entidade de fins filantrópicos das entidades e organização de assistência social, observado o disposto no art. 3º desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2033.%20Decorrido%20o%20prazo%20de%20120%20%28cento%20e%20vinte%29%20dias%20da%20promulga%C3%A7%C3%A3o%20desta%20lei%2C%20fica%20extinto%20o%20Conselho%20Nacional%20de%20Servi%C3%A7o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A União continuará exercendo papel supletivo nas ações de assistência social, por ela atualmente executadas diretamente no âmbito dos Estados, dos Municípios e do Distrito Federal, visando à implementação do disposto nesta lei, por prazo máximo de 12 (doze) meses, contados a partir da data da publicação desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2034.%20A%20Uni%C3%A3o%20continuar%C3%A1%20exercendo%20papel%20supletivo%20nas%20a%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%2C%20por%20ela%20atualmente%20executadas%20diretamente%20no%20%C3%A2mbito%20dos%20Estados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Cabe ao órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social operar os benefícios de prestação continuada de que trata esta lei, podendo, para tanto, contar com o concurso de outros órgãos do Governo Federal, na forma a ser estabelecida em regulamento.\n\n§ 1º O regulamento de que trata o caput definirá as formas de comprovação do direito ao benefício, as condições de sua suspensão, os procedimentos em casos de curatela e tutela e o órgão de credenciamento, de pagamento e de fiscalização, dentre outros aspectos. (Incluído pela Lei nº 15.077, de 2024)\n\n§ 2º Os órgãos federais disponibilizarão as informações constantes das bases de dados de que sejam detentores necessárias à verificação dos requisitos para concessão, manutenção e revisão do benefício de prestação continuada previsto no art. 20 desta Lei, nos termos de ato do Poder Executivo federal. (Incluído pela Lei nº 15.077, de 2024) (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2035.%20Cabe%20ao%20%C3%B3rg%C3%A3o%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal%20respons%C3%A1vel%20pela%20coordena%C3%A7%C3%A3o%20da%20Pol%C3%ADtica%20Nacional%20de%20Assist%C3%AAncia%20Social%20operar%20os%20benef%C3%ADcios%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. As entidades e organizações de assistência social que incorrerem em irregularidades na aplicação dos recursos que lhes foram repassados pelos poderes públicos terão a sua vinculação ao Suas cancelada, sem prejuízo de responsabilidade civil e penal. (Redação dada pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2036.%20As%20entidades%20e%20organiza%C3%A7%C3%B5es%20de%20assist%C3%AAncia%20social%20que%20incorrerem%20em%20irregularidades%20na%20aplica%C3%A7%C3%A3o%20dos%20recursos%20que%20lhes%20foram%20repassados%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O benefício de prestação continuada será devido após o cumprimento, pelo requerente, de todos os requisitos legais e regulamentares exigidos para a sua concessão, inclusive apresentação da documentação necessária, devendo o seu pagamento ser efetuado em até quarenta e cinco dias após cumpridas as exigências de que trata este artigo. (Redação dada pela Lei nº 9.720, de 30.11.1998) (Vide Lei nº 9.720, de 30.11.1998)\n\nParágrafo único. No caso de o primeiro pagamento ser feito após o prazo previsto no caput, aplicar-se-á na sua atualização o mesmo critério adotado pelo INSS na atualização do primeiro pagamento de benefício previdenciário em atraso. (Incluído pela Lei nº 9.720, de 30.11.1998)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2037.%20O%20benef%C3%ADcio%20de%20presta%C3%A7%C3%A3o%20continuada%20ser%C3%A1%20devido%20ap%C3%B3s%20o%20cumprimento%2C%20pelo%20requerente%2C%20de%20todos%20os%20requisitos%20legais%20e%20regulamentares%20exigidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. (Revogado pela Lei nº 12.435, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2038.%20%28Revogado%20pela%20Lei%20n%C2%BA%2012.435%2C%20de%202011%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O Conselho Nacional de Assistência Social (CNAS), por decisão da maioria absoluta de seus membros, respeitados o orçamento da seguridade social e a disponibilidade do Fundo Nacional de Assistência Social (FNAS), poderá propor ao Poder Executivo a alteração dos limites de renda mensal per capita definidos no § 3º do art. 20 e caput do art. 22.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2039.%20O%20Conselho%20Nacional%20de%20Assist%C3%AAncia%20Social%20%28CNAS%29%2C%20por%20decis%C3%A3o%20da%20maioria%20absoluta%20de%20seus%20membros%2C%20respeitados%20o%20or%C3%A7amento%20da%20seguridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Com a implantação dos benefícios previstos nos arts. 20 e 22 desta lei, extinguem-se a renda mensal vitalícia, o auxílio-natalidade e o auxílio-funeral existentes no âmbito da Previdência Social, conforme o disposto na Lei nº 8.213, de 24 de julho de 1991.\n\n§ 1º A transferência dos benefíciários do sistema previdenciário para a assistência social deve ser estabelecida de forma que o atendimento à população não sofra solução de continuidade. (Redação dada pela Lei nº 9.711, de 20.11.1998\n\n§ 2º É assegurado ao maior de setenta anos e ao inválido o direito de requerer a renda mensal vitalícia junto ao INSS até 31 de dezembro de 1995, desde que atenda, alternativamente, aos requisitos estabelecidos nos incisos I, II ou III do § 1º do art. 139 da Lei nº 8.213, de 24 de julho de 1991. (Redação dada pela Lei nº 9.711, de 20.11.1998",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2040.%20Com%20a%20implanta%C3%A7%C3%A3o%20dos%20benef%C3%ADcios%20previstos%20nos%20arts.%2020%20e%2022%20desta%20lei%2C%20extinguem-se%20a%20renda%20mensal%20vital%C3%ADcia%2C%20o%20aux%C3%ADlio-natalidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "40-A"
+    },
+    "40-A": {
+      "numero": "40-A",
+      "texto": "Art. 40-A. Os benefícios monetários decorrentes do disposto nos arts. 22, 24-C e 25 desta Lei serão pagos preferencialmente à mulher responsável pela unidade familiar, quando cabível. (Incluído pela Lei nº 13.014, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2040-A.%20Os%20benef%C3%ADcios%20monet%C3%A1rios%20decorrentes%20do%20disposto%20nos%20arts.%2022%2C%2024-C%20e%2025%20desta%20Lei%20ser%C3%A3o%20pagos%20preferencialmente%20%C3%A0%20mulher%20respons%C3%A1vel",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "40-B"
+    },
+    "40-B": {
+      "numero": "40-B",
+      "texto": "Art. 40-B. Enquanto não estiver regulamentado o instrumento de avaliação de que tratam os §§ 1º e 2º do art. 2º da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), a concessão do benefício de prestação continuada a pessoa com deficiência ficará sujeita à avaliação do grau da deficiência e do impedimento de que trata o § 2º do art. 20 desta Lei, composta de avaliação médica e avaliação social realizadas, respectivamente, pela perícia médica federal e pelo serviço social do INSS, com a utilização de instrumentos desenvolvidos especificamente para esse fim, e será obrigatório o registro, nos sistemas informacionais utilizados para a concessão do benefício, do código da Classificação Internacional de Doenças (CID), garantida a preservação do sigilo. (Redação dada pela Lei nº 15.077, de 2024)\n\n§ 1º O INSS poderá celebrar parcerias para a realização da avaliação social, sob a supervisão do serviço social da autarquia. (Incluído pela Lei nº 14.724, de 2023)\n\n§ 2º A avaliação médica prevista no caput deste artigo poderá ser realizada com o uso de tecnologia de telemedicina ou por análise documental conforme situações e requisitos definidos em regulamento. (Incluído pela Lei nº 14.724, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2040-B.%20Enquanto%20n%C3%A3o%20estiver%20regulamentado%20o%20instrumento%20de%20avalia%C3%A7%C3%A3o%20de%20que%20tratam%20os%20%C2%A7%C2%A7%201%C2%BA%20e%202%C2%BA%20do%20art.%202%C2%BA%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40-A",
+      "next": "40-C"
+    },
+    "40-C": {
+      "numero": "40-C",
+      "texto": "Art. 40-C. Os eventuais débitos do beneficiário decorrentes de recebimento irregular do benefício de prestação continuada ou do auxílio-inclusão poderão ser consignados no valor mensal desses benefícios, nos termos do regulamento. (Incluído pela Lei nº 14.176, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2040-C.%20Os%20eventuais%20d%C3%A9bitos%20do%20benefici%C3%A1rio%20decorrentes%20de%20recebimento%20irregular%20do%20benef%C3%ADcio%20de%20presta%C3%A7%C3%A3o%20continuada%20ou%20do%20aux%C3%ADlio-inclus%C3%A3o%20poder%C3%A3o%20ser%20consignados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40-B",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Esta lei entra em vigor na data da sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2041.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20da%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40-C",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Revogam-se as disposições em contrário.\n\nBrasília, 7 de dezembro de 1993, 172º da Independência e 105º da República.\n\nITAMAR FRANCO Jutahy Magalhães Júnior\n\nEste texto não substitui o publicado no DOU de 8.12.1993\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm#:~:text=Art.%2042.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": null
+    }
+  }
+}

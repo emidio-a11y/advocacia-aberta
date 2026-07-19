@@ -1,0 +1,527 @@
+{
+  "_meta": {
+    "codigo": "LC108",
+    "nome": "Previdência Complementar com Patrocinador Público",
+    "lei": "Lei Complementar 108/2001",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm",
+    "total_artigos": 32,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o A relação entre a União, os Estados, o Distrito Federal e os Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadores de entidades fechadas de previdência complementar, e suas respectivas entidades fechadas, a que se referem os §§ 3o, 4o, 5o e 6o do art. 202 da Constituição Federal, será disciplinada pelo disposto nesta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%201o%20A%20rela%C3%A7%C3%A3o%20entre%20a%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20inclusive%20suas%20autarquias%2C%20funda%C3%A7%C3%B5es%2C%20sociedades%20de%20economia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o As regras e os princípios gerais estabelecidos na Lei Complementar que regula o caput do art. 202 da Constituição Federal aplicam-se às entidades reguladas por esta Lei Complementar, ressalvadas as disposições específicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%202o%20As%20regras%20e%20os%20princ%C3%ADpios%20gerais%20estabelecidos%20na%20Lei%20Complementar%20que%20regula%20o%20caput%20do%20art.%20202%20da%20Constitui%C3%A7%C3%A3o%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Observado o disposto no artigo anterior, os planos de benefícios das entidades de que trata esta Lei Complementar atenderão às seguintes regras:\n\nI – carência mínima de sessenta contribuições mensais a plano de benefícios e cessação do vínculo com o patrocinador, para se tornar elegível a um benefício de prestação que seja programada e continuada; e\n\nII – concessão de benefício pelo regime de previdência ao qual o participante esteja filiado por intermédio de seu patrocinador, quando se tratar de plano na modalidade benefício definido, instituído depois da publicação desta Lei Complementar.\n\nParágrafo único. Os reajustes dos benefícios em manutenção serão efetuados de acordo com critérios estabelecidos nos regulamentos dos planos de benefícios, vedado o repasse de ganhos de produtividade, abono e vantagens de qualquer natureza para tais benefícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%203o%20Observado%20o%20disposto%20no%20artigo%20anterior%2C%20os%20planos%20de%20benef%C3%ADcios%20das%20entidades%20de%20que%20trata%20esta%20Lei%20Complementar%20atender%C3%A3o%20%C3%A0s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Nas sociedades de economia mista e empresas controladas direta ou indiretamente pela União, pelos Estados, pelo Distrito Federal e pelos Municípios, a proposta de instituição de plano de benefícios ou adesão a plano de benefícios em execução será submetida ao órgão fiscalizador, acompanhada de manifestação favorável do órgão responsável pela supervisão, pela coordenação e pelo controle do patrocinador.\n\nParágrafo único. As alterações no plano de benefícios que implique elevação da contribuição de patrocinadores serão objeto de prévia manifestação do órgão responsável pela supervisão, pela coordenação e pelo controle referido no caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%204o%20Nas%20sociedades%20de%20economia%20mista%20e%20empresas%20controladas%20direta%20ou%20indiretamente%20pela%20Uni%C3%A3o%2C%20pelos%20Estados%2C%20pelo%20Distrito%20Federal%20e%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o É vedado à União, aos Estados, ao Distrito Federal e aos Municípios, suas autarquias, fundações, empresas públicas, sociedades de economia mista e outras entidades públicas o aporte de recursos a entidades de previdência privada de caráter complementar, salvo na condição de patrocinador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%205o%20%C3%89%20vedado%20%C3%A0%20Uni%C3%A3o%2C%20aos%20Estados%2C%20ao%20Distrito%20Federal%20e%20aos%20Munic%C3%ADpios%2C%20suas%20autarquias%2C%20funda%C3%A7%C3%B5es%2C%20empresas%20p%C3%BAblicas%2C%20sociedades%20de%20economia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O custeio dos planos de benefícios será responsabilidade do patrocinador e dos participantes, inclusive assistidos.\n\n§ 1o A contribuição normal do patrocinador para plano de benefícios, em hipótese alguma, excederá a do participante, observado o disposto no art. 5o da Emenda Constitucional no 20, de 15 de dezembro de 1998, e as regras específicas emanadas do órgão regulador e fiscalizador.\n\n§ 2o Além das contribuições normais, os planos poderão prever o aporte de recursos pelos participantes, a título de contribuição facultativa, sem contrapartida do patrocinador.\n\n§ 3o É vedado ao patrocinador assumir encargos adicionais para o financiamento dos planos de benefícios, além daqueles previstos nos respectivos planos de custeio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%206o%20O%20custeio%20dos%20planos%20de%20benef%C3%ADcios%20ser%C3%A1%20responsabilidade%20do%20patrocinador%20e%20dos%20participantes%2C%20inclusive%20assistidos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o A despesa administrativa da entidade de previdência complementar será custeada pelo patrocinador e pelos participantes e assistidos, atendendo a limites e critérios estabelecidos pelo órgão regulador e fiscalizador.\n\nParágrafo único. É facultada aos patrocinadores a cessão de pessoal às entidades de previdência complementar que patrocinam, desde que ressarcidos os custos correspondentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%207o%20A%20despesa%20administrativa%20da%20entidade%20de%20previd%C3%AAncia%20complementar%20ser%C3%A1%20custeada%20pelo%20patrocinador%20e%20pelos%20participantes%20e%20assistidos%2C%20atendendo%20a%20limites",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o A administração e execução dos planos de benefícios compete às entidades fechadas de previdência complementar mencionadas no art. 1o desta Lei Complementar.\n\nParágrafo único. As entidades de que trata o caput organizar-se-ão sob a forma de fundação ou sociedade civil, sem fins lucrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%208o%20A%20administra%C3%A7%C3%A3o%20e%20execu%C3%A7%C3%A3o%20dos%20planos%20de%20benef%C3%ADcios%20compete%20%C3%A0s%20entidades%20fechadas%20de%20previd%C3%AAncia%20complementar%20mencionadas%20no%20art.%201o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o A estrutura organizacional das entidades de previdência complementar a que se refere esta Lei Complementar é constituída de conselho deliberativo, conselho fiscal e diretoria-executiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%209o%20A%20estrutura%20organizacional%20das%20entidades%20de%20previd%C3%AAncia%20complementar%20a%20que%20se%20refere%20esta%20Lei%20Complementar%20%C3%A9%20constitu%C3%ADda%20de%20conselho%20deliberativo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O conselho deliberativo, órgão máximo da estrutura organizacional, é responsável pela definição da política geral de administração da entidade e de seus planos de benefícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2010.%20O%20conselho%20deliberativo%2C%20%C3%B3rg%C3%A3o%20m%C3%A1ximo%20da%20estrutura%20organizacional%2C%20%C3%A9%20respons%C3%A1vel%20pela%20defini%C3%A7%C3%A3o%20da%20pol%C3%ADtica%20geral%20de%20administra%C3%A7%C3%A3o%20da%20entidade%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A composição do conselho deliberativo, integrado por no máximo seis membros, será paritária entre representantes dos participantes e assistidos e dos patrocinadores, cabendo a estes a indicação do conselheiro presidente, que terá, além do seu, o voto de qualidade.\n\n§ 1o A escolha dos representantes dos participantes e assistidos dar-se-á por meio de eleição direta entre seus pares.\n\n§ 2o Caso o estatuto da entidade fechada, respeitado o número máximo de conselheiros de que trata o caput e a participação paritária entre representantes dos participantes e assistidos e dos patrocinadores, preveja outra composição, que tenha sido aprovada na forma prevista no seu estatuto, esta poderá ser aplicada, mediante autorização do órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2011.%20A%20composi%C3%A7%C3%A3o%20do%20conselho%20deliberativo%2C%20integrado%20por%20no%20m%C3%A1ximo%20seis%20membros%2C%20ser%C3%A1%20parit%C3%A1ria%20entre%20representantes%20dos%20participantes%20e%20assistidos%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O mandato dos membros do conselho deliberativo será de quatro anos, com garantia de estabilidade, permitida uma recondução.\n\n§ 1o O membro do conselho deliberativo somente perderá o mandato em virtude de renúncia, de condenação judicial transitada em julgado ou processo administrativo disciplinar.\n\n§ 2o A instauração de processo administrativo disciplinar, para apuração de irregularidades no âmbito de atuação do conselho deliberativo da entidade fechada, poderá determinar o afastamento do conselheiro até sua conclusão.\n\n§ 3o O afastamento de que trata o parágrafo anterior não implica prorrogação ou permanência no cargo além da data inicialmente prevista para o término do mandato.\n\n§ 4o O estatuto da entidade deverá regulamentar os procedimentos de que tratam os parágrafos anteriores deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2012.%20O%20mandato%20dos%20membros%20do%20conselho%20deliberativo%20ser%C3%A1%20de%20quatro%20anos%2C%20com%20garantia%20de%20estabilidade%2C%20permitida%20uma%20recondu%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Ao conselho deliberativo compete a definição das seguintes matérias:\n\nI – política geral de administração da entidade e de seus planos de benefícios;\n\nII – alteração de estatuto e regulamentos dos planos de benefícios, bem como a implantação e a extinção deles e a retirada de patrocinador;\n\nIII – gestão de investimentos e plano de aplicação de recursos;\n\nIV – autorizar investimentos que envolvam valores iguais ou superiores a cinco por cento dos recursos garantidores;\n\nV – contratação de auditor independente atuário e avaliador de gestão, observadas as disposições regulamentares aplicáveis;\n\nVI – nomeação e exoneração dos membros da diretoria-executiva; e\n\nVII – exame, em grau de recurso, das decisões da diretoria-executiva.\n\nParágrafo único. A definição das matérias previstas no inciso II deverá ser aprovada pelo patrocinador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2013.%20Ao%20conselho%20deliberativo%20compete%20a%20defini%C3%A7%C3%A3o%20das%20seguintes%20mat%C3%A9rias%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O conselho fiscal é órgão de controle interno da entidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2014.%20O%20conselho%20fiscal%20%C3%A9%20%C3%B3rg%C3%A3o%20de%20controle%20interno%20da%20entidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A composição do conselho fiscal, integrado por no máximo quatro membros, será paritária entre representantes de patrocinadores e de participantes e assistidos, cabendo a estes a indicação do conselheiro presidente, que terá, além do seu, o voto de qualidade.\n\nParágrafo único. Caso o estatuto da entidade fechada, respeitado o número máximo de conselheiros de que trata o caput e a participação paritária entre representantes dos participantes e assistidos e dos patrocinadores, preveja outra composição, que tenha sido aprovada na forma prevista no seu estatuto, esta poderá ser aplicada, mediante autorização do órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2015.%20A%20composi%C3%A7%C3%A3o%20do%20conselho%20fiscal%2C%20integrado%20por%20no%20m%C3%A1ximo%20quatro%20membros%2C%20ser%C3%A1%20parit%C3%A1ria%20entre%20representantes%20de%20patrocinadores%20e%20de%20participantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O mandato dos membros do conselho fiscal será de quatro anos, vedada a recondução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2016.%20O%20mandato%20dos%20membros%20do%20conselho%20fiscal%20ser%C3%A1%20de%20quatro%20anos%2C%20vedada%20a%20recondu%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A renovação dos mandatos dos conselheiros deverá obedecer ao critério de proporcionalidade, de forma que se processe parcialmente a cada dois anos.\n\n§ 1o Na primeira investidura dos conselhos, após a publicação desta Lei Complementar, os seus membros terão mandato com prazo diferenciado.\n\n§ 2o O conselho deliberativo deverá renovar três de seus membros a cada dois anos e o conselho fiscal dois membros com a mesma periodicidade, observada a regra de transição estabelecida no parágrafo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2017.%20A%20renova%C3%A7%C3%A3o%20dos%20mandatos%20dos%20conselheiros%20dever%C3%A1%20obedecer%20ao%20crit%C3%A9rio%20de%20proporcionalidade%2C%20de%20forma%20que%20se%20processe%20parcialmente%20a%20cada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Aplicam-se aos membros dos conselhos deliberativo e fiscal os mesmos requisitos previstos nos incisos I a III do art. 20 desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2018.%20Aplicam-se%20aos%20membros%20dos%20conselhos%20deliberativo%20e%20fiscal%20os%20mesmos%20requisitos%20previstos%20nos%20incisos%20I%20a%20III%20do%20art.%2020",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A diretoria-executiva é o órgão responsável pela administração da entidade, em conformidade com a política de administração traçada pelo conselho deliberativo.\n\n§ 1o A diretoria-executiva será composta, no máximo, por seis membros, definidos em função do patrimônio da entidade e do seu número de participantes, inclusive assistidos.\n\n§ 2o O estatuto da entidade fechada, respeitado o número máximo de diretores de que trata o parágrafo anterior, deverá prever a forma de composição e o mandato da diretoria-executiva, aprovado na forma prevista no seu estatuto, observadas as demais disposições desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2019.%20A%20diretoria-executiva%20%C3%A9%20o%20%C3%B3rg%C3%A3o%20respons%C3%A1vel%20pela%20administra%C3%A7%C3%A3o%20da%20entidade%2C%20em%20conformidade%20com%20a%20pol%C3%ADtica%20de%20administra%C3%A7%C3%A3o%20tra%C3%A7ada%20pelo%20conselho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os membros da diretoria-executiva deverão atender aos seguintes requisitos mínimos:\n\nI – comprovada experiência no exercício de atividade na área financeira, administrativa, contábil, jurídica, de fiscalização, atuarial ou de auditoria;\n\nII – não ter sofrido condenação criminal transitada em julgado;\n\nIII – não ter sofrido penalidade administrativa por infração da legislação da seguridade social, inclusive da previdência complementar ou como servidor público; e\n\nIV – ter formação de nível superior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2020.%20Os%20membros%20da%20diretoria-executiva%20dever%C3%A3o%20atender%20aos%20seguintes%20requisitos%20m%C3%ADnimos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Aos membros da diretoria-executiva é vedado:\n\nI – exercer simultaneamente atividade no patrocinador;\n\nII – integrar concomitantemente o conselho deliberativo ou fiscal da entidade e, mesmo depois do término do seu mandato na diretoria-executiva, enquanto não tiver suas contas aprovadas; e\n\nIII – ao longo do exercício do mandato prestar serviços a instituições integrantes do sistema financeiro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2021.%20Aos%20membros%20da%20diretoria-executiva%20%C3%A9%20vedado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A entidade de previdência complementar informará ao órgão regulador e fiscalizador o responsável pelas aplicações dos recursos da entidade, escolhido entre os membros da diretoria-executiva.\n\nParágrafo único. Os demais membros da diretoria-executiva responderão solidariamente com o dirigente indicado na forma do caput pelos danos e prejuízos causados à entidade para os quais tenham concorrido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2022.%20A%20entidade%20de%20previd%C3%AAncia%20complementar%20informar%C3%A1%20ao%20%C3%B3rg%C3%A3o%20regulador%20e%20fiscalizador%20o%20respons%C3%A1vel%20pelas%20aplica%C3%A7%C3%B5es%20dos%20recursos%20da%20entidade%2C%20escolhido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Nos doze meses seguintes ao término do exercício do cargo, o ex-diretor estará impedido de prestar, direta ou indiretamente, independentemente da forma ou natureza do contrato, qualquer tipo de serviço às empresas do sistema financeiro que impliquem a utilização das informações a que teve acesso em decorrência do cargo exercido, sob pena de responsabilidade civil e penal.\n\n§ 1o Durante o impedimento, ao ex-diretor que não tiver sido destituído ou que pedir afastamento será assegurada a possibilidade de prestar serviço à entidade, mediante remuneração equivalente à do cargo de direção que exerceu ou em qualquer outro órgão da Administração Pública.\n\n§ 2o Incorre na prática de advocacia administrativa, sujeitando-se às penas da lei, o ex-diretor que violar o impedimento previsto neste artigo, exceto se retornar ao exercício de cargo ou emprego que ocupava junto ao patrocinador, anteriormente à indicação para a respectiva diretoria-executiva, ou se for nomeado para exercício em qualquer órgão da Administração Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2023.%20Nos%20doze%20meses%20seguintes%20ao%20t%C3%A9rmino%20do%20exerc%C3%ADcio%20do%20cargo%2C%20o%20ex-diretor%20estar%C3%A1%20impedido%20de%20prestar%2C%20direta%20ou%20indiretamente%2C%20independentemente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A fiscalização e controle dos planos de benefícios e das entidades fechadas de previdência complementar de que trata esta Lei Complementar competem ao órgão regulador e fiscalizador das entidades fechadas de previdência complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2024.%20A%20fiscaliza%C3%A7%C3%A3o%20e%20controle%20dos%20planos%20de%20benef%C3%ADcios%20e%20das%20entidades%20fechadas%20de%20previd%C3%AAncia%20complementar%20de%20que%20trata%20esta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As ações exercidas pelo órgão referido no artigo anterior não eximem os patrocinadores da responsabilidade pela supervisão e fiscalização sistemática das atividades das suas respectivas entidades de previdência complementar.\n\nParágrafo único. Os resultados da fiscalização e do controle exercidos pelos patrocinadores serão encaminhados ao órgão mencionado no artigo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2025.%20As%20a%C3%A7%C3%B5es%20exercidas%20pelo%20%C3%B3rg%C3%A3o%20referido%20no%20artigo%20anterior%20n%C3%A3o%20eximem%20os%20patrocinadores%20da%20responsabilidade%20pela%20supervis%C3%A3o%20e%20fiscaliza%C3%A7%C3%A3o%20sistem%C3%A1tica",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. As entidades fechadas de previdência complementar patrocinadas por empresas privadas permissionárias ou concessionárias de prestação de serviços públicos subordinam-se, no que couber, às disposições desta Lei Complementar, na forma estabelecida pelo órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2026.%20As%20entidades%20fechadas%20de%20previd%C3%AAncia%20complementar%20patrocinadas%20por%20empresas%20privadas%20permission%C3%A1rias%20ou%20concession%C3%A1rias%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20p%C3%BAblicos%20subordinam-se%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As entidades de previdência complementar patrocinadas por entidades públicas, inclusive empresas públicas e sociedades de economia mista, deverão rever, no prazo de dois anos, a contar de 16 de dezembro de 1998, seus planos de benefícios e serviços, de modo a ajustá-los atuarialmente a seus ativos, sob pena de intervenção, sendo seus dirigentes e seus respectivos patrocinadores responsáveis civil e criminalmente pelo descumprimento do disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2027.%20As%20entidades%20de%20previd%C3%AAncia%20complementar%20patrocinadas%20por%20entidades%20p%C3%BAblicas%2C%20inclusive%20empresas%20p%C3%BAblicas%20e%20sociedades%20de%20economia%20mista%2C%20dever%C3%A3o%20rever%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A infração de qualquer disposição desta Lei Complementar ou de seu regulamento, para a qual não haja penalidade expressamente cominada, sujeita a pessoa física ou jurídica responsável, conforme o caso e a gravidade da infração, às penalidades administrativas previstas na Lei Complementar que disciplina o caput do art. 202 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2028.%20A%20infra%C3%A7%C3%A3o%20de%20qualquer%20disposi%C3%A7%C3%A3o%20desta%20Lei%20Complementar%20ou%20de%20seu%20regulamento%2C%20para%20a%20qual%20n%C3%A3o%20haja%20penalidade%20expressamente%20cominada%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. As entidades de previdência privada patrocinadas por empresas controladas, direta ou indiretamente, pela União, Estados, Distrito Federal e Municípios, que possuam planos de benefícios definidos com responsabilidade da patrocinadora, não poderão exercer o controle ou participar de acordo de acionistas que tenha por objeto formação de grupo de controle de sociedade anônima, sem prévia e expressa autorização da patrocinadora e do seu respectivo ente controlador.\n\nParágrafo único. O disposto no caput não se aplica às participações acionárias detidas na data de publicação desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2029.%20As%20entidades%20de%20previd%C3%AAncia%20privada%20patrocinadas%20por%20empresas%20controladas%2C%20direta%20ou%20indiretamente%2C%20pela%20Uni%C3%A3o%2C%20Estados%2C%20Distrito%20Federal%20e%20Munic%C3%ADpios%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As entidades de previdência complementar terão o prazo de um ano para adaptar sua organização estatutária ao disposto nesta Lei Complementar, contados a partir da data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2030.%20As%20entidades%20de%20previd%C3%AAncia%20complementar%20ter%C3%A3o%20o%20prazo%20de%20um%20ano%20para%20adaptar%20sua%20organiza%C3%A7%C3%A3o%20estatut%C3%A1ria%20ao%20disposto%20nesta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Esta Lei Complementar entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2031.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Revoga-se a Lei no 8.020, de 12 de abril de 1990.\n\nBrasília, 29 de maio de 2001; 180o da Independência e 113o da República.\n\nFERNANDO HENRIQUE CARDOSO José Gregori Pedro Malan Roberto Brant\n\nEste texto não substitui o publicado no DOU de 30.5.2001.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm#:~:text=Art.%2032.%20Revoga-se%20a%20Lei%20no%208.020%2C%20de%2012%20de%20abril%20de%201990.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": null
+    }
+  }
+}

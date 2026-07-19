@@ -885,6 +885,59 @@
     "L9249:9"
    ],
    "justificativa": "O art. 9º da Lei 9.249/1995 é a sede legal dos juros sobre o capital próprio: dedução na apuração do lucro real, calculados sobre as contas do patrimônio líquido à TJLP."
+  },
+  {
+   "id": "loas-bpc",
+   "grupo": "legislacao",
+   "consulta": "benefício de prestação continuada garantia salário mínimo",
+   "filtro": {
+    "codigo": "LOAS"
+   },
+   "relevantes": [
+    "LOAS:20",
+    "LOAS:2",
+    "LOAS:26-A"
+   ],
+   "obrigatorios": [
+    "LOAS:20"
+   ],
+   "justificativa": "O art. 20 institui o BPC (um salário mínimo mensal à pessoa com deficiência e ao idoso); o art. 2º, I, e, põe essa garantia entre os objetivos da assistência social; o art. 26-A disciplina o auxílio-inclusão, diretamente conexo ao BPC. Os arts. 3º (entidades) e 6º (SUAS), também recuperados, não respondem à consulta."
+  },
+  {
+   "id": "l8212-contribuicao-patronal",
+   "grupo": "legislacao",
+   "consulta": "contribuição a cargo da empresa vinte por cento remunerações",
+   "filtro": {
+    "codigo": "L8212"
+   },
+   "relevantes": [
+    "L8212:22",
+    "L8212:23",
+    "L8212:30"
+   ],
+   "obrigatorios": [
+    "L8212:22"
+   ],
+   "justificativa": "O art. 22 é a sede da contribuição patronal de 20% sobre as remunerações; o art. 23 traz as contribuições da empresa sobre faturamento e lucro; o art. 30 disciplina a arrecadação e o recolhimento. Os arts. 12 (segurados) e 21 (contribuinte individual) não tratam da contribuição da empresa."
+  },
+  {
+   "id": "lc142-aposentadoria-pcd",
+   "grupo": "legislacao",
+   "consulta": "aposentadoria pessoa com deficiência tempo de contribuição",
+   "filtro": {
+    "codigo": "LC142"
+   },
+   "relevantes": [
+    "LC142:3",
+    "LC142:1",
+    "LC142:2",
+    "LC142:6",
+    "LC142:9"
+   ],
+   "obrigatorios": [
+    "LC142:3"
+   ],
+   "justificativa": "O art. 3º fixa os requisitos etário e de tempo de contribuição por grau de deficiência; o art. 1º delimita o objeto; o art. 2º define pessoa com deficiência; o art. 6º trata da comprovação do tempo nessa condição; o art. 9º manda aplicar fator previdenciário e demais regras do RGPS."
   }
  ]
 }
