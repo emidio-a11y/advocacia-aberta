@@ -147,6 +147,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_dl167.json",
     rotulo: "Cédulas de Crédito Rural (Decreto-Lei 167/1967)",
   },
+  DL3365: {
+    arquivo: "../../data/lei_dl3365.json",
+    rotulo: "Desapropriação por utilidade pública (Decreto-Lei 3.365/1941)",
+  },
   ECID: {
     arquivo: "../../data/lei_ecid.json",
     rotulo: "Estatuto da Cidade (Lei 10.257/2001)",
@@ -251,9 +255,21 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10887.json",
     rotulo: "Cálculo/Contribuição de Servidor Federal (RPPS União) (Lei 10.887/2004)",
   },
+  L11079: {
+    arquivo: "../../data/lei_l11079.json",
+    rotulo: "Parcerias Público-Privadas (PPPs) (Lei 11.079/2004)",
+  },
+  L11107: {
+    arquivo: "../../data/lei_l11107.json",
+    rotulo: "Consórcios Públicos (Lei 11.107/2005)",
+  },
   L11441: {
     arquivo: "../../data/lei_l11441.json",
     rotulo: "Inventários Extrajudiciais (Lei 11.441/2007)",
+  },
+  L11445: {
+    arquivo: "../../data/lei_l11445.json",
+    rotulo: "Saneamento Básico (marco setorial) (Lei 11.445/2007)",
   },
   L11770: {
     arquivo: "../../data/lei_l11770.json",
@@ -275,6 +291,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12010.json",
     rotulo: "Adoção (Lei 12.010/2009)",
   },
+  L12153: {
+    arquivo: "../../data/lei_l12153.json",
+    rotulo: "Juizados da Fazenda Pública (Lei 12.153/2009)",
+  },
   L12318: {
     arquivo: "../../data/lei_l12318.json",
     rotulo: "Alienação Parental (Lei 12.318/2010)",
@@ -294,6 +314,10 @@ const REGISTRO_CODIGOS = {
   L12850: {
     arquivo: "../../data/lei_l12850.json",
     rotulo: "Organização Criminosa (Lei 12.850/2013)",
+  },
+  L13019: {
+    arquivo: "../../data/lei_l13019.json",
+    rotulo: "Marco Regulatório das OSCs (MROSC) (Lei 13.019/2014)",
   },
   L13058: {
     arquivo: "../../data/lei_l13058.json",
@@ -315,9 +339,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13260.json",
     rotulo: "Antiterrorismo (Lei 13.260/2016)",
   },
+  L13303: {
+    arquivo: "../../data/lei_l13303.json",
+    rotulo: "Estatais (Lei 13.303/2016)",
+  },
   L13431: {
     arquivo: "../../data/lei_l13431.json",
     rotulo: "Sistema de Garantia – Escuta e Depoimento Especial (Lei 13.431/2017)",
+  },
+  L13460: {
+    arquivo: "../../data/lei_l13460.json",
+    rotulo: "Direitos do Usuário do Serviço Público (Lei 13.460/2017)",
   },
   L13465: {
     arquivo: "../../data/lei_l13465.json",
@@ -339,6 +371,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13786.json",
     rotulo: "Distrato Imobiliário (Lei 13.786/2018)",
   },
+  L13848: {
+    arquivo: "../../data/lei_l13848.json",
+    rotulo: "Agências Reguladoras (Lei 13.848/2019)",
+  },
   L13869: {
     arquivo: "../../data/lei_l13869.json",
     rotulo: "Abuso de Autoridade (Lei 13.869/2019)",
@@ -346,6 +382,18 @@ const REGISTRO_CODIGOS = {
   L13988: {
     arquivo: "../../data/lei_l13988.json",
     rotulo: "Transação no Contencioso Tributário Federal (Lei 13.988/2020)",
+  },
+  L14026: {
+    arquivo: "../../data/lei_l14026.json",
+    rotulo: "Novo Marco do Saneamento (Lei 14.026/2020)",
+  },
+  L14063: {
+    arquivo: "../../data/lei_l14063.json",
+    rotulo: "Assinaturas Eletrônicas na Administração Pública (Lei 14.063/2020)",
+  },
+  L14129: {
+    arquivo: "../../data/lei_l14129.json",
+    rotulo: "Governo Digital e Eficiência Pública (Lei 14.129/2021)",
   },
   L14192: {
     arquivo: "../../data/lei_l14192.json",
@@ -390,6 +438,10 @@ const REGISTRO_CODIGOS = {
   L4591: {
     arquivo: "../../data/lei_l4591.json",
     rotulo: "Incorporação Imobiliária (Lei 4.591/1964)",
+  },
+  L4717: {
+    arquivo: "../../data/lei_l4717.json",
+    rotulo: "Ação Popular (Lei 4.717/1965)",
   },
   L4749: {
     arquivo: "../../data/lei_l4749.json",
@@ -499,6 +551,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8072.json",
     rotulo: "Crimes Hediondos (Lei 8.072/1990)",
   },
+  L8112: {
+    arquivo: "../../data/lei_l8112.json",
+    rotulo: "Regime Jurídico dos Servidores Federais (RJU) (Lei 8.112/1990)",
+  },
   L8137: {
     arquivo: "../../data/lei_l8137.json",
     rotulo: "Crimes contra Ordem Tributária (Lei 8.137/1990)",
@@ -526,6 +582,10 @@ const REGISTRO_CODIGOS = {
   L8971: {
     arquivo: "../../data/lei_l8971.json",
     rotulo: "Companheiros Alimentos e Sucessão (Lei 8.971/1994)",
+  },
+  L8987: {
+    arquivo: "../../data/lei_l8987.json",
+    rotulo: "Concessões e Permissões de Serviços Públicos (Lei 8.987/1995)",
   },
   L8989: {
     arquivo: "../../data/lei_l8989.json",
@@ -563,6 +623,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9504.json",
     rotulo: "Lei das Eleições (Lei 9.504/1997)",
   },
+  L9507: {
+    arquivo: "../../data/lei_l9507.json",
+    rotulo: "Habeas Data (Lei 9.507/1997)",
+  },
   L9514: {
     arquivo: "../../data/lei_l9514.json",
     rotulo: "Alienação Fiduciária de Imóveis (SFI) (Lei 9.514/1997)",
@@ -583,6 +647,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9717.json",
     rotulo: "Normas Gerais dos RPPS (Lei 9.717/1998)",
   },
+  L9784: {
+    arquivo: "../../data/lei_l9784.json",
+    rotulo: "Processo Administrativo Federal (PAF) (Lei 9.784/1999)",
+  },
   L9796: {
     arquivo: "../../data/lei_l9796.json",
     rotulo: "Compensação Financeira RGPS × RPPS (COMPREV) (Lei 9.796/1999)",
@@ -590,6 +658,18 @@ const REGISTRO_CODIGOS = {
   L9807: {
     arquivo: "../../data/lei_l9807.json",
     rotulo: "Proteção Testemunhas (Lei 9.807/1999)",
+  },
+  L9986: {
+    arquivo: "../../data/lei_l9986.json",
+    rotulo: "Gestão de RH das Agências Reguladoras (Lei 9.986/2000)",
+  },
+  LACP: {
+    arquivo: "../../data/lei_lacp.json",
+    rotulo: "Ação Civil Pública (ACP) (Lei 7.347/1985)",
+  },
+  LAI: {
+    arquivo: "../../data/lei_lai.json",
+    rotulo: "Acesso à Informação (LAI) (Lei 12.527/2011)",
   },
   LC105: {
     arquivo: "../../data/lei_lc105.json",
@@ -639,13 +719,25 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lef.json",
     rotulo: "Execução Fiscal (LEF) (Lei 6.830/1980)",
   },
+  LIA: {
+    arquivo: "../../data/lei_lia.json",
+    rotulo: "Improbidade Administrativa (Lei 8.429/1992)",
+  },
   LMIG: {
     arquivo: "../../data/lei_lmig.json",
     rotulo: "Lei de Migração (Lei 13.445/2017)",
   },
+  LMS: {
+    arquivo: "../../data/lei_lms.json",
+    rotulo: "Mandado de Segurança (Lei 12.016/2009)",
+  },
   LOAS: {
     arquivo: "../../data/lei_loas.json",
     rotulo: "Lei Orgânica da Assistência Social (LOAS) (Lei 8.742/1993)",
+  },
+  LRF: {
+    arquivo: "../../data/lei_lrf.json",
+    rotulo: "Responsabilidade Fiscal (LRF) (Lei Complementar 101/2000)",
   },
   LRP: {
     arquivo: "../../data/lei_lrp.json",

@@ -1,0 +1,863 @@
+{
+  "_meta": {
+    "codigo": "L13848",
+    "nome": "Agências Reguladoras",
+    "lei": "Lei 13.848/2019",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm",
+    "total_artigos": 53,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei dispõe sobre a gestão, a organização, o processo decisório e o controle social das agências reguladoras, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, a Lei nº 9.478, de 6 de agosto de 1997, a Lei nº 9.782, de 26 de janeiro de 1999, a Lei nº 9.961, de 28 de janeiro de 2000, a Lei nº 9.984, de 17 de julho de 2000, a Lei nº 9.986, de 18 de julho de 2000, a Lei nº 10.233, de 5 de junho de 2001, a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, a Lei nº 11.182, de 27 de setembro de 2005, e a Lei nº 10.180, de 6 de fevereiro de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%201o%20Esta%20Lei%20disp%C3%B5e%20sobre%20a%20gest%C3%A3o%2C%20a%20organiza%C3%A7%C3%A3o%2C%20o%20processo%20decis%C3%B3rio%20e%20o%20controle%20social%20das%20ag%C3%AAncias%20reguladoras%2C%20altera%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Consideram-se agências reguladoras, para os fins desta Lei e para os fins da Lei nº 9.986, de 18 de julho de 2000:\n\nI - a Agência Nacional de Energia Elétrica (Aneel);\n\nII - a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP);\n\nIII - a Agência Nacional de Telecomunicações (Anatel);\n\nIV - a Agência Nacional de Vigilância Sanitária (Anvisa);\n\nV - a Agência Nacional de Saúde Suplementar (ANS);\n\nVI - a Agência Nacional de Águas (ANA);\n\nVII - a Agência Nacional de Transportes Aquaviários (Antaq);\n\nVIII - a Agência Nacional de Transportes Terrestres (ANTT);\n\nIX - a Agência Nacional do Cinema (Ancine);\n\nX - a Agência Nacional de Aviação Civil (Anac);\n\nXI - a Agência Nacional de Mineração (ANM).\n\nXII - a Agência Nacional de Proteção de Dados (ANPD). (Incluído pela Medida Provisória nº 1.317, de 2025)\n\nXII - a Agência Nacional de Proteção de Dados (ANPD). (Redação dada pela Lei nº 15.352, de 2026)\n\nParágrafo único. Ressalvado o que dispuser a legislação específica, aplica-se o disposto nesta Lei às autarquias especiais caracterizadas, nos termos desta Lei, como agências reguladoras e criadas a partir de sua vigência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%202%C2%BA%20Consideram-se%20ag%C3%AAncias%20reguladoras%2C%20para%20os%20fins%20desta%20Lei%20e%20para%20os%20fins%20da%20Lei%20n%C2%BA%209.986%2C%20de%2018%20de%20julho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A natureza especial conferida à agência reguladora é caracterizada pela ausência de tutela ou de subordinação hierárquica, pela autonomia funcional, decisória, administrativa e financeira e pela investidura a termo de seus dirigentes e estabilidade durante os mandatos, bem como pelas demais disposições constantes desta Lei ou de leis específicas voltadas à sua implementação.\n\n§ 1º Cada agência reguladora, bem como eventuais fundos a ela vinculados, deverá corresponder a um órgão setorial dos Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Pessoal Civil da Administração Federal, de Organização e Inovação Institucional, de Administração dos Recursos de Tecnologia da Informação e de Serviços Gerais.\n\n§ 2º A autonomia administrativa da agência reguladora é caracterizada pelas seguintes competências:\n\nI - solicitar diretamente ao Ministério da Economia:\n\na) autorização para a realização de concursos públicos;\n\nb) provimento dos cargos autorizados em lei para seu quadro de pessoal, observada a disponibilidade orçamentária;\n\nc) alterações no respectivo quadro de pessoal, fundamentadas em estudos de dimensionamento, bem como alterações nos planos de carreira de seus servidores;\n\nII - conceder diárias e passagens em deslocamentos nacionais e internacionais e autorizar afastamentos do País a servidores da agência;\n\nIII - celebrar contratos administrativos e prorrogar contratos em vigor relativos a atividades de custeio, independentemente do valor.\n\n§ 3º As agências reguladoras devem adotar práticas de gestão de riscos e de controle interno e elaborar e divulgar programa de integridade, com o objetivo de promover a adoção de medidas e ações institucionais destinadas à prevenção, à detecção, à punição e à remediação de fraudes e atos de corrupção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%203%C2%BA%20A%20natureza%20especial%20conferida%20%C3%A0%20ag%C3%AAncia%20reguladora%20%C3%A9%20caracterizada%20pela%20aus%C3%AAncia%20de%20tutela%20ou%20de%20subordina%C3%A7%C3%A3o%20hier%C3%A1rquica%2C%20pela%20autonomia%20funcional%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A agência reguladora deverá observar, em suas atividades, a devida adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquela necessária ao atendimento do interesse público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%204%C2%BA%20A%20ag%C3%AAncia%20reguladora%20dever%C3%A1%20observar%2C%20em%20suas%20atividades%2C%20a%20devida%20adequa%C3%A7%C3%A3o%20entre%20meios%20e%20fins%2C%20vedada%20a%20imposi%C3%A7%C3%A3o%20de%20obriga%C3%A7%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A agência reguladora deverá indicar os pressupostos de fato e de direito que determinarem suas decisões, inclusive a respeito da edição ou não de atos normativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%205%C2%BA%20A%20ag%C3%AAncia%20reguladora%20dever%C3%A1%20indicar%20os%20pressupostos%20de%20fato%20e%20de%20direito%20que%20determinarem%20suas%20decis%C3%B5es%2C%20inclusive%20a%20respeito%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A adoção e as propostas de alteração de atos normativos de interesse geral dos agentes econômicos, consumidores ou usuários dos serviços prestados serão, nos termos de regulamento, precedidas da realização de Análise de Impacto Regulatório (AIR), que conterá informações e dados sobre os possíveis efeitos do ato normativo. (Regulamento)\n\n§ 1º Regulamento disporá sobre o conteúdo e a metodologia da AIR, sobre os quesitos mínimos a serem objeto de exame, bem como sobre os casos em que será obrigatória sua realização e aqueles em que poderá ser dispensada.\n\n§ 2º O regimento interno de cada agência disporá sobre a operacionalização da AIR em seu âmbito.\n\n§ 3º O conselho diretor ou a diretoria colegiada manifestar-se-á, em relação ao relatório de AIR, sobre a adequação da proposta de ato normativo aos objetivos pretendidos, indicando se os impactos estimados recomendam sua adoção, e, quando for o caso, quais os complementos necessários.\n\n§ 4º A manifestação de que trata o § 3º integrará, juntamente com o relatório de AIR, a documentação a ser disponibilizada aos interessados para a realização de consulta ou de audiência pública, caso o conselho diretor ou a diretoria colegiada decida pela continuidade do procedimento administrativo.\n\n§ 5º Nos casos em que não for realizada a AIR, deverá ser disponibilizada, no mínimo, nota técnica ou documento equivalente que tenha fundamentado a proposta de decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%206%C2%BA%20A%20ado%C3%A7%C3%A3o%20e%20as%20propostas%20de%20altera%C3%A7%C3%A3o%20de%20atos%20normativos%20de%20interesse%20geral%20dos%20agentes%20econ%C3%B4micos%2C%20consumidores%20ou%20usu%C3%A1rios%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O processo de decisão da agência reguladora referente a regulação terá caráter colegiado.\n\n§ 1º O conselho diretor ou a diretoria colegiada da agência reguladora deliberará por maioria absoluta dos votos de seus membros, entre eles o diretor-presidente, o diretor-geral ou o presidente, conforme definido no regimento interno.\n\n§ 2º É facultado à agência reguladora adotar processo de delegação interna de decisão, sendo assegurado ao conselho diretor ou à diretoria colegiada o direito de reexame das decisões delegadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%207%C2%BA%20O%20processo%20de%20decis%C3%A3o%20da%20ag%C3%AAncia%20reguladora%20referente%20a%20regula%C3%A7%C3%A3o%20ter%C3%A1%20car%C3%A1ter%20colegiado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º As reuniões deliberativas do conselho diretor ou da diretoria colegiada da agência reguladora serão públicas e gravadas em meio eletrônico.\n\n§ 1º A pauta de reunião deliberativa deverá ser divulgada no sítio da agência na internet com antecedência mínima de 3 (três) dias úteis.\n\n§ 2º Somente poderá ser deliberada matéria que conste da pauta de reunião divulgada na forma do § 1º.\n\n§ 3º A gravação de cada reunião deliberativa deve ser disponibilizada aos interessados na sede da agência e no respectivo sítio na internet em até 15 (quinze) dias úteis após o encerramento da reunião.\n\n§ 4º A ata de cada reunião deliberativa deve ser disponibilizada aos interessados na sede da agência e no respectivo sítio na internet em até 5 (cinco) dias úteis após sua aprovação.\n\n§ 5º Não se aplica o disposto nos §§ 1º e 2º deste artigo às matérias urgentes e relevantes, a critério do presidente, diretor-presidente ou diretor-geral, cuja deliberação não possa submeter-se aos prazos neles estabelecidos.\n\n§ 6º Não se aplica o disposto neste artigo às deliberações do conselho diretor ou da diretoria colegiada que envolvam:\n\nI - documentos classificados como sigilosos;\n\nII - matéria de natureza administrativa.\n\n§ 7º A agência reguladora deverá adequar suas reuniões deliberativas às disposições deste artigo, no prazo de até 1 (um) ano a contar da entrada em vigor desta Lei, e definir o procedimento em regimento interno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%208%C2%BA%20As%20reuni%C3%B5es%20deliberativas%20do%20conselho%20diretor%20ou%20da%20diretoria%20colegiada%20da%20ag%C3%AAncia%20reguladora%20ser%C3%A3o%20p%C3%BAblicas%20e%20gravadas%20em%20meio%20eletr%C3%B4nico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Serão objeto de consulta pública, previamente à tomada de decisão pelo conselho diretor ou pela diretoria colegiada, as minutas e as propostas de alteração de atos normativos de interesse geral dos agentes econômicos, consumidores ou usuários dos serviços prestados.\n\n§ 1º A consulta pública é o instrumento de apoio à tomada de decisão por meio do qual a sociedade é consultada previamente, por meio do envio de críticas, sugestões e contribuições por quaisquer interessados, sobre proposta de norma regulatória aplicável ao setor de atuação da agência reguladora.\n\n§ 2º Ressalvada a exigência de prazo diferente em legislação específica, acordo ou tratado internacional, o período de consulta pública terá início após a publicação do respectivo despacho ou aviso de abertura no Diário Oficial da União e no sítio da agência na internet, e terá duração mínima de 45 (quarenta e cinco) dias, ressalvado caso excepcional de urgência e relevância, devidamente motivado.\n\n§ 3º A agência reguladora deverá disponibilizar, na sede e no respectivo sítio na internet, quando do início da consulta pública, o relatório de AIR, os estudos, os dados e o material técnico usados como fundamento para as propostas submetidas a consulta pública, ressalvados aqueles de caráter sigiloso.\n\n§ 4º As críticas e as sugestões encaminhadas pelos interessados deverão ser disponibilizadas na sede da agência e no respectivo sítio na internet em até 10 (dez) dias úteis após o término do prazo da consulta pública.\n\n§ 5º O posicionamento da agência reguladora sobre as críticas ou as contribuições apresentadas no processo de consulta pública deverá ser disponibilizado na sede da agência e no respectivo sítio na internet em até 30 (trinta) dias úteis após a reunião do conselho diretor ou da diretoria colegiada para deliberação final sobre a matéria.\n\n§ 6º A agência reguladora deverá estabelecer, em regimento interno, os procedimentos a serem observados nas consultas públicas.\n\n§ 7º Compete ao órgão responsável no Ministério da Economia opinar, quando considerar pertinente, sobre os impactos regulatórios de minutas e propostas de alteração de atos normativos de interesse geral dos agentes econômicos, consumidores ou usuários dos serviços prestados submetidas a consulta pública pela agência reguladora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%209%C2%BA%20Ser%C3%A3o%20objeto%20de%20consulta%20p%C3%BAblica%2C%20previamente%20%C3%A0%20tomada%20de%20decis%C3%A3o%20pelo%20conselho%20diretor%20ou%20pela%20diretoria%20colegiada%2C%20as%20minutas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A agência reguladora, por decisão colegiada, poderá convocar audiência pública para formação de juízo e tomada de decisão sobre matéria considerada relevante.\n\n§ 1º A audiência pública é o instrumento de apoio à tomada de decisão por meio do qual é facultada a manifestação oral por quaisquer interessados em sessão pública previamente destinada a debater matéria relevante.\n\n§ 2º A abertura do período de audiência pública será precedida de despacho ou aviso de abertura publicado no Diário Oficial da União e em outros meios de comunicação com antecedência mínima de 5 (cinco) dias úteis.\n\n§ 3º A agência reguladora deverá disponibilizar, em local específico e no respectivo sítio na internet, com antecedência mínima de 5 (cinco) dias úteis do início do período de audiência pública, os seguintes documentos:\n\nI - para as propostas de ato normativo submetidas a audiência pública, o relatório de AIR, os estudos, os dados e o material técnico que as tenha fundamentado, ressalvados aqueles de caráter sigiloso;\n\nII - para outras propostas submetidas a audiência pública, a nota técnica ou o documento equivalente que as tenha fundamentado.\n\n§ 4º A agência reguladora deverá estabelecer, em regimento interno, os procedimentos a serem observados nas audiências públicas, aplicando-se o § 5º do art. 9º às contribuições recebidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2010.%20A%20ag%C3%AAncia%20reguladora%2C%20por%20decis%C3%A3o%20colegiada%2C%20poder%C3%A1%20convocar%20audi%C3%AAncia%20p%C3%BAblica%20para%20forma%C3%A7%C3%A3o%20de%20ju%C3%ADzo%20e%20tomada%20de%20decis%C3%A3o%20sobre%20mat%C3%A9ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A agência reguladora poderá estabelecer, em regimento interno, outros meios de participação de interessados em suas decisões, diretamente ou por meio de organizações e associações legalmente reconhecidas, aplicando-se o § 5º do art. 9º às contribuições recebidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2011.%20A%20ag%C3%AAncia%20reguladora%20poder%C3%A1%20estabelecer%2C%20em%20regimento%20interno%2C%20outros%20meios%20de%20participa%C3%A7%C3%A3o%20de%20interessados%20em%20suas%20decis%C3%B5es%2C%20diretamente%20ou%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os relatórios da audiência pública e de outros meios de participação de interessados nas decisões a que se referem os arts. 10 e 11 deverão ser disponibilizados na sede da agência e no respectivo sítio na internet em até 30 (trinta) dias úteis após o seu encerramento.\n\nParágrafo único. Em casos de grande complexidade, o prazo de que trata o caput poderá ser prorrogado por igual período, justificadamente, uma única vez.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2012.%20Os%20relat%C3%B3rios%20da%20audi%C3%AAncia%20p%C3%BAblica%20e%20de%20outros%20meios%20de%20participa%C3%A7%C3%A3o%20de%20interessados%20nas%20decis%C3%B5es%20a%20que%20se%20referem%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A agência reguladora deverá decidir as matérias submetidas a sua apreciação nos prazos fixados na legislação e, em caso de omissão, nos prazos estabelecidos em seu regimento interno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2013.%20A%20ag%C3%AAncia%20reguladora%20dever%C3%A1%20decidir%20as%20mat%C3%A9rias%20submetidas%20a%20sua%20aprecia%C3%A7%C3%A3o%20nos%20prazos%20fixados%20na%20legisla%C3%A7%C3%A3o%20e%2C%20em%20caso%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O controle externo das agências reguladoras será exercido pelo Congresso Nacional, com auxílio do Tribunal de Contas da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2014.%20O%20controle%20externo%20das%20ag%C3%AAncias%20reguladoras%20ser%C3%A1%20exercido%20pelo%20Congresso%20Nacional%2C%20com%20aux%C3%ADlio%20do%20Tribunal%20de%20Contas%20da%20Uni%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A agência reguladora deverá elaborar relatório anual circunstanciado de suas atividades, no qual destacará o cumprimento da política do setor, definida pelos Poderes Legislativo e Executivo, e o cumprimento dos seguintes planos:\n\nI - plano estratégico vigente, previsto no art. 17 desta Lei;\n\nII - plano de gestão anual, previsto no art. 18 desta Lei.\n\n§ 1º São objetivos dos planos referidos no caput:\n\nI - aperfeiçoar o acompanhamento das ações da agência reguladora, inclusive de sua gestão, promovendo maior transparência e controle social;\n\nII - aperfeiçoar as relações de cooperação da agência reguladora com o Poder Público, em particular no cumprimento das políticas públicas definidas em lei;\n\nIII - promover o aumento da eficiência e da qualidade dos serviços da agência reguladora de forma a melhorar o seu desempenho, bem como incrementar a satisfação dos interesses da sociedade, com foco nos resultados;\n\nIV - permitir o acompanhamento da atuação administrativa e a avaliação da gestão da agência.\n\n§ 2º O relatório anual de atividades de que trata o caput deverá conter sumário executivo e será elaborado em consonância com o relatório de gestão integrante da prestação de contas da agência reguladora, nos termos do art. 9º da Lei nº 8.443, de 16 de julho de 1992, devendo ser encaminhado pela agência reguladora, por escrito, no prazo de até 90 (noventa) dias após a abertura da sessão legislativa do Congresso Nacional, ao ministro de Estado da pasta a que estiver vinculada, ao Senado Federal, à Câmara dos Deputados e ao Tribunal de Contas da União, e disponibilizado aos interessados na sede da agência e no respectivo sítio na internet.\n\n§ 3º (VETADO).\n\n§ 4º É do presidente, diretor-presidente ou diretor-geral da agência reguladora o dever de cumprir os prazos estabelecidos neste artigo, sob pena de responsabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2015.%20A%20ag%C3%AAncia%20reguladora%20dever%C3%A1%20elaborar%20relat%C3%B3rio%20anual%20circunstanciado%20de%20suas%20atividades%2C%20no%20qual%20destacar%C3%A1%20o%20cumprimento%20da%20pol%C3%ADtica%20do%20setor%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A agência reguladora deverá implementar, em cada exercício, plano de comunicação voltado à divulgação, com caráter informativo e educativo, de suas atividades e dos direitos dos usuários perante a agência reguladora e as empresas que compõem o setor regulado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2016.%20A%20ag%C3%AAncia%20reguladora%20dever%C3%A1%20implementar%2C%20em%20cada%20exerc%C3%ADcio%2C%20plano%20de%20comunica%C3%A7%C3%A3o%20voltado%20%C3%A0%20divulga%C3%A7%C3%A3o%2C%20com%20car%C3%A1ter%20informativo%20e%20educativo%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A agência reguladora deverá elaborar, para cada período quadrienal, plano estratégico que conterá os objetivos, as metas e os resultados estratégicos esperados das ações da agência reguladora relativos a sua gestão e a suas competências regulatórias, fiscalizatórias e normativas, bem como a indicação dos fatores externos alheios ao controle da agência que poderão afetar significativamente o cumprimento do plano.\n\n§ 1º O plano estratégico será compatível com o disposto no Plano Plurianual (PPA) em vigência e será revisto, periodicamente, com vistas a sua permanente adequação.\n\n§ 2º A agência reguladora, no prazo máximo de 10 (dez) dias úteis, contado da aprovação do plano estratégico pelo conselho diretor ou pela diretoria colegiada, disponibilizá-lo-á no respectivo sítio na internet.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2017.%20A%20ag%C3%AAncia%20reguladora%20dever%C3%A1%20elaborar%2C%20para%20cada%20per%C3%ADodo%20quadrienal%2C%20plano%20estrat%C3%A9gico%20que%20conter%C3%A1%20os%20objetivos%2C%20as%20metas%20e%20os%20resultados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O plano de gestão anual, alinhado às diretrizes estabelecidas no plano estratégico, será o instrumento anual do planejamento consolidado da agência reguladora e contemplará ações, resultados e metas relacionados aos processos finalísticos e de gestão.\n\n§ 1º A agenda regulatória, prevista no art. 21 desta Lei, integrará o plano de gestão anual para o respectivo ano.\n\n§ 2º O plano de gestão anual será aprovado pelo conselho diretor ou pela diretoria colegiada da agência reguladora com antecedência mínima de 10 (dez) dias úteis do início de seu período de vigência e poderá ser revisto periodicamente, com vistas a sua adequação.\n\n§ 3º A agência reguladora, no prazo máximo de 20 (vinte) dias úteis, contado da aprovação do plano de gestão anual pelo conselho diretor ou pela diretoria colegiada, dará ciência de seu conteúdo ao Senado Federal, à Câmara dos Deputados e ao Tribunal de Contas da União, bem como disponibilizá-lo-á na sede da agência e no respectivo sítio na internet.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2018.%20O%20plano%20de%20gest%C3%A3o%20anual%2C%20alinhado%20%C3%A0s%20diretrizes%20estabelecidas%20no%20plano%20estrat%C3%A9gico%2C%20ser%C3%A1%20o%20instrumento%20anual%20do%20planejamento%20consolidado%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O plano de gestão anual deverá:\n\nI - especificar, no mínimo, as metas de desempenho administrativo e operacional e as metas de fiscalização a serem atingidas durante sua vigência, as quais deverão ser compatíveis com o plano estratégico;\n\nII - prever estimativa de recursos orçamentários e cronograma de desembolso dos recursos financeiros necessários ao alcance das metas definidas.\n\nParágrafo único. As metas de desempenho administrativo e operacional referidas no inciso I do caput incluirão, obrigatoriamente, as ações relacionadas a:\n\nI - promoção da qualidade dos serviços prestados pela agência;\n\nII - promoção do fomento à pesquisa no setor regulado pela agência, quando couber;\n\nIII - promoção da cooperação com os órgãos de defesa da concorrência e com os órgãos de defesa do consumidor e de defesa do meio ambiente, quando couber.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2019.%20O%20plano%20de%20gest%C3%A3o%20anual%20dever%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O regimento interno de cada agência reguladora disporá sobre as condições para a revisão e sobre a sistemática de acompanhamento e avaliação do plano de gestão anual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2020.%20O%20regimento%20interno%20de%20cada%20ag%C3%AAncia%20reguladora%20dispor%C3%A1%20sobre%20as%20condi%C3%A7%C3%B5es%20para%20a%20revis%C3%A3o%20e%20sobre%20a%20sistem%C3%A1tica%20de%20acompanhamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A agência reguladora implementará, no respectivo âmbito de atuação, a agenda regulatória, instrumento de planejamento da atividade normativa que conterá o conjunto dos temas prioritários a serem regulamentados pela agência durante sua vigência.\n\n§ 1º A agenda regulatória deverá ser alinhada com os objetivos do plano estratégico e integrará o plano de gestão anual.\n\n§ 2º A agenda regulatória será aprovada pelo conselho diretor ou pela diretoria colegiada e será disponibilizada na sede da agência e no respectivo sítio na internet.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2021.%20A%20ag%C3%AAncia%20reguladora%20implementar%C3%A1%2C%20no%20respectivo%20%C3%A2mbito%20de%20atua%C3%A7%C3%A3o%2C%20a%20agenda%20regulat%C3%B3ria%2C%20instrumento%20de%20planejamento%20da%20atividade%20normativa%20que%20conter%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Haverá, em cada agência reguladora, 1 (um) ouvidor, que atuará sem subordinação hierárquica e exercerá suas atribuições sem acumulação com outras funções.\n\n§ 1º São atribuições do ouvidor:\n\nI - zelar pela qualidade e pela tempestividade dos serviços prestados pela agência;\n\nII - acompanhar o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação da agência;\n\nIII - elaborar relatório anual de ouvidoria sobre as atividades da agência.\n\n§ 2º O ouvidor terá acesso a todos os processos da agência reguladora.\n\n§ 3º O ouvidor deverá manter em sigilo as informações que tenham caráter reservado ou confidencial.\n\n§ 4º Os relatórios do ouvidor deverão ser encaminhados ao conselho diretor ou à diretoria colegiada da agência reguladora, que poderá se manifestar no prazo de 20 (vinte) dias úteis.\n\n§ 5º Os relatórios do ouvidor não terão caráter impositivo, cabendo ao conselho diretor ou à diretoria colegiada deliberar, em última instância, a respeito dos temas relacionados ao setor de atuação da agência reguladora.\n\n§ 6º Transcorrido o prazo para manifestação do conselho diretor ou da diretoria colegiada, o ouvidor deverá encaminhar o relatório e, se houver, a respectiva manifestação ao titular do ministério a que a agência estiver vinculada, à Câmara dos Deputados, ao Senado Federal e ao Tribunal de Contas da União, bem como divulgá-los no sítio da agência na internet.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2022.%20Haver%C3%A1%2C%20em%20cada%20ag%C3%AAncia%20reguladora%2C%201%20%28um%29%20ouvidor%2C%20que%20atuar%C3%A1%20sem%20subordina%C3%A7%C3%A3o%20hier%C3%A1rquica%20e%20exercer%C3%A1%20suas%20atribui%C3%A7%C3%B5es%20sem%20acumula%C3%A7%C3%A3o%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O ouvidor será escolhido pelo Presidente da República e por ele nomeado, após prévia aprovação do Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, devendo não se enquadrar nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, e ter notório conhecimento em administração pública ou em regulação de setores econômicos, ou no campo específico de atuação da agência reguladora.\n\n§ 1º O ouvidor terá mandato de 3 (três) anos, vedada a recondução, no curso do qual somente perderá o cargo em caso de renúncia, condenação judicial transitada em julgado ou condenação em processo administrativo disciplinar.\n\n§ 2º É vedado ao ouvidor ter participação, direta ou indireta, em empresa sob regulação da respectiva agência reguladora.\n\n§ 3º O processo administrativo contra o ouvidor somente poderá ser instaurado pelo titular do ministério ao qual a agência está vinculada, por iniciativa de seu ministro ou do Ministro de Estado da Controladoria-Geral da União, em decorrência de representação promovida pelo conselho diretor ou pela diretoria colegiada da respectiva agência.\n\n§ 4º Ocorrendo vacância no cargo de ouvidor no curso do mandato, este será completado por sucessor investido na forma prevista no caput, que exercerá o cargo pelo prazo remanescente, admitida a recondução se tal prazo for igual ou inferior a 2 (dois) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2023.%20O%20ouvidor%20ser%C3%A1%20escolhido%20pelo%20Presidente%20da%20Rep%C3%BAblica%20e%20por%20ele%20nomeado%2C%20ap%C3%B3s%20pr%C3%A9via%20aprova%C3%A7%C3%A3o%20do%20Senado%20Federal%2C%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O ouvidor contará com estrutura administrativa compatível com suas atribuições e com espaço em canal de comunicação e divulgação institucional da agência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2024.%20O%20ouvidor%20contar%C3%A1%20com%20estrutura%20administrativa%20compat%C3%ADvel%20com%20suas%20atribui%C3%A7%C3%B5es%20e%20com%20espa%C3%A7o%20em%20canal%20de%20comunica%C3%A7%C3%A3o%20e%20divulga%C3%A7%C3%A3o%20institucional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Com vistas à promoção da concorrência e à eficácia na implementação da legislação de defesa da concorrência nos mercados regulados, as agências reguladoras e os órgãos de defesa da concorrência devem atuar em estreita cooperação, privilegiando a troca de experiências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2025.%20Com%20vistas%20%C3%A0%20promo%C3%A7%C3%A3o%20da%20concorr%C3%AAncia%20e%20%C3%A0%20efic%C3%A1cia%20na%20implementa%C3%A7%C3%A3o%20da%20legisla%C3%A7%C3%A3o%20de%20defesa%20da%20concorr%C3%AAncia%20nos%20mercados%20regulados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. No exercício de suas atribuições, incumbe às agências reguladoras monitorar e acompanhar as práticas de mercado dos agentes dos setores regulados, de forma a auxiliar os órgãos de defesa da concorrência na observância do cumprimento da legislação de defesa da concorrência, nos termos da Lei nº 12.529, de 30 de novembro de 2011 (Lei de Defesa da Concorrência).\n\n§ 1º Os órgãos de defesa da concorrência são responsáveis pela aplicação da legislação de defesa da concorrência nos setores regulados, incumbindo-lhes a análise de atos de concentração, bem como a instauração e a instrução de processos administrativos para apuração de infrações contra a ordem econômica.\n\n§ 2º Os órgãos de defesa da concorrência poderão solicitar às agências reguladoras pareceres técnicos relacionados a seus setores de atuação, os quais serão utilizados como subsídio à análise de atos de concentração e à instrução de processos administrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2026.%20No%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20incumbe%20%C3%A0s%20ag%C3%AAncias%20reguladoras%20monitorar%20e%20acompanhar%20as%20pr%C3%A1ticas%20de%20mercado%20dos%20agentes%20dos%20setores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Quando a agência reguladora, no exercício de suas atribuições, tomar conhecimento de fato que possa configurar infração à ordem econômica, deverá comunicá-lo imediatamente aos órgãos de defesa da concorrência para que esses adotem as providências cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2027.%20Quando%20a%20ag%C3%AAncia%20reguladora%2C%20no%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20tomar%20conhecimento%20de%20fato%20que%20possa%20configurar%20infra%C3%A7%C3%A3o%20%C3%A0%20ordem%20econ%C3%B4mica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Sem prejuízo de suas competências legais, o Conselho Administrativo de Defesa Econômica (Cade) notificará a agência reguladora do teor da decisão sobre condutas potencialmente anticompetitivas cometidas no exercício das atividades reguladas, bem como das decisões relativas a atos de concentração julgados por aquele órgão, no prazo máximo de 48 (quarenta e oito) horas após a publicação do respectivo acórdão, para que sejam adotadas as providências legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2028.%20Sem%20preju%C3%ADzo%20de%20suas%20compet%C3%AAncias%20legais%2C%20o%20Conselho%20Administrativo%20de%20Defesa%20Econ%C3%B4mica%20%28Cade%29%20notificar%C3%A1%20a%20ag%C3%AAncia%20reguladora%20do%20teor%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. No exercício de suas competências definidas em lei, duas ou mais agências reguladoras poderão editar atos normativos conjuntos dispondo sobre matéria cuja disciplina envolva agentes econômicos sujeitos a mais de uma regulação setorial.\n\n§ 1º Os atos normativos conjuntos deverão ser aprovados pelo conselho diretor ou pela diretoria colegiada de cada agência reguladora envolvida, por procedimento idêntico ao de aprovação de ato normativo isolado, observando-se em cada agência as normas aplicáveis ao exercício da competência normativa previstas no respectivo regimento interno.\n\n§ 2º Os atos normativos conjuntos deverão conter regras sobre a fiscalização de sua execução e prever mecanismos de solução de controvérsias decorrentes de sua aplicação, podendo admitir solução mediante mediação, nos termos da Lei nº 13.140, de 26 de junho de 2015 (Lei da Mediação), ou mediante arbitragem por comissão integrada, entre outros, por representantes de todas as agências reguladoras envolvidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2029.%20No%20exerc%C3%ADcio%20de%20suas%20compet%C3%AAncias%20definidas%20em%20lei%2C%20duas%20ou%20mais%20ag%C3%AAncias%20reguladoras%20poder%C3%A3o%20editar%20atos%20normativos%20conjuntos%20dispondo%20sobre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As agências reguladoras poderão constituir comitês para o intercâmbio de experiências e informações entre si ou com os órgãos integrantes do Sistema Brasileiro de Defesa da Concorrência (SBDC), visando a estabelecer orientações e procedimentos comuns para o exercício da regulação nas respectivas áreas e setores e a permitir a consulta recíproca quando da edição de normas que impliquem mudanças nas condições dos setores regulados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2030.%20As%20ag%C3%AAncias%20reguladoras%20poder%C3%A3o%20constituir%20comit%C3%AAs%20para%20o%20interc%C3%A2mbio%20de%20experi%C3%AAncias%20e%20informa%C3%A7%C3%B5es%20entre%20si%20ou%20com%20os%20%C3%B3rg%C3%A3os%20integrantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. No exercício de suas atribuições, e em articulação com o Sistema Nacional de Defesa do Consumidor (SNDC) e com o órgão de defesa do consumidor do Ministério da Justiça e Segurança Pública, incumbe às agências reguladoras zelar pelo cumprimento da legislação de defesa do consumidor, monitorando e acompanhando as práticas de mercado dos agentes do setor regulado.\n\n§ 1º As agências reguladoras poderão articular-se com os órgãos e as entidades integrantes do SNDC, visando à eficácia da proteção e defesa do consumidor e do usuário de serviço público no âmbito das respectivas esferas de atuação.\n\n§ 2º As agências reguladoras poderão firmar convênios e acordos de cooperação com os órgãos e as entidades integrantes do SNDC para colaboração mútua, sendo vedada a delegação de competências que tenham sido a elas atribuídas por lei específica de proteção e defesa do consumidor no âmbito do setor regulado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2031.%20No%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20e%20em%20articula%C3%A7%C3%A3o%20com%20o%20Sistema%20Nacional%20de%20Defesa%20do%20Consumidor%20%28SNDC%29%20e%20com%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Para o cumprimento do disposto nesta Lei, as agências reguladoras são autorizadas a celebrar, com força de título executivo extrajudicial, termo de ajustamento de conduta com pessoas físicas ou jurídicas sujeitas a sua competência regulatória, aplicando-se os requisitos do art. 4º-A da Lei nº 9.469, de 10 de julho de 1997.\n\n§ 1º Enquanto perdurar a vigência do correspondente termo de ajustamento de conduta, ficará suspensa, em relação aos fatos que deram causa a sua celebração, a aplicação de sanções administrativas de competência da agência reguladora à pessoa física ou jurídica que o houver firmado.\n\n§ 2º A agência reguladora deverá ser comunicada quando da celebração do termo de ajustamento de conduta a que se refere o § 6º do art. 5º da Lei nº 7.347, de 24 de julho de 1985, caso o termo tenha por objeto matéria de natureza regulatória de sua competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2032.%20Para%20o%20cumprimento%20do%20disposto%20nesta%20Lei%2C%20as%20ag%C3%AAncias%20reguladoras%20s%C3%A3o%20autorizadas%20a%20celebrar%2C%20com%20for%C3%A7a%20de%20t%C3%ADtulo%20executivo%20extrajudicial%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. As agências reguladoras poderão articular-se com os órgãos de defesa do meio ambiente mediante a celebração de convênios e acordos de cooperação, visando ao intercâmbio de informações, à padronização de exigências e procedimentos, à celeridade na emissão de licenças ambientais e à maior eficiência nos processos de fiscalização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2033.%20As%20ag%C3%AAncias%20reguladoras%20poder%C3%A3o%20articular-se%20com%20os%20%C3%B3rg%C3%A3os%20de%20defesa%20do%20meio%20ambiente%20mediante%20a%20celebra%C3%A7%C3%A3o%20de%20conv%C3%AAnios%20e%20acordos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As agências reguladoras de que trata esta Lei poderão promover a articulação de suas atividades com as de agências reguladoras ou órgãos de regulação dos Estados, do Distrito Federal e dos Municípios, nas respectivas áreas de competência, implementando, a seu critério e mediante acordo de cooperação, a descentralização de suas atividades fiscalizatórias, sancionatórias e arbitrais, exceto quanto a atividades do Sistema Único de Saúde (SUS), que observarão o disposto em legislação própria.\n\n§ 1º É vedada a delegação de competências normativas.\n\n§ 2º A descentralização de que trata o caput será instituída desde que a agência reguladora ou o órgão de regulação da unidade federativa interessada possua serviços técnicos e administrativos competentes devidamente organizados e aparelhados para a execução das respectivas atividades, conforme condições estabelecidas em regimento interno da agência reguladora federal.\n\n§ 3º A execução, por agência reguladora ou órgão de regulação estadual, distrital ou municipal, das atividades delegadas será permanentemente acompanhada e avaliada pela agência reguladora federal, nos termos do respectivo acordo.\n\n§ 4º Na execução das atividades de fiscalização objeto de delegação, a agência reguladora ou o órgão regulador estadual, distrital ou municipal que receber a delegação observará as normas legais e regulamentares federais pertinentes.\n\n§ 5º É vedado à agência reguladora ou ao órgão regulador estadual, distrital ou municipal conveniado, no exercício de competência fiscalizatória delegada, exigir de concessionária ou permissionária obrigação não prevista previamente em contrato.\n\n§ 6º Além do disposto no § 2º deste artigo, a delegação de competências fiscalizatórias, sancionatórias e arbitrais somente poderá ser efetivada em favor de agência reguladora ou órgão de regulação estadual, distrital ou municipal que gozar de autonomia assegurada por regime jurídico compatível com o disposto nesta Lei.\n\n§ 7º Havendo delegação de competência, a agência reguladora delegante permanecerá como instância superior e recursal das decisões tomadas no exercício da competência delegada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2034.%20As%20ag%C3%AAncias%20reguladoras%20de%20que%20trata%20esta%20Lei%20poder%C3%A3o%20promover%20a%20articula%C3%A7%C3%A3o%20de%20suas%20atividades%20com%20as%20de%20ag%C3%AAncias%20reguladoras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. No caso da descentralização prevista no caput do art. 34, parte da receita arrecadada pela agência reguladora federal poderá ser repassada à agência reguladora ou ao órgão de regulação estadual, distrital ou municipal, para custeio de seus serviços, na forma do respectivo acordo de cooperação.\n\nParágrafo único. O repasse referido no caput deste artigo deverá ser compatível com os custos da agência reguladora ou do órgão de regulação local para realizar as atividades delegadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2035.%20No%20caso%20da%20descentraliza%C3%A7%C3%A3o%20prevista%20no%20caput%20do%20art.%2034%2C%20parte%20da%20receita%20arrecadada%20pela%20ag%C3%AAncia%20reguladora%20federal%20poder%C3%A1%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A Lei nº 9.427, de 26 de dezembro de 1996, passa a vigorar com as seguintes alterações:\n\n“Art. 4º ..........................................................\n\n§ 1º Integrarão a estrutura da Aneel uma Procuradoria e uma Ouvidoria.\n\n............................................................” (NR)\n\n“Art. 5º O Diretor-Geral e os Diretores serão nomeados pelo Presidente da República para cumprir mandatos não coincidentes de 5 (cinco) anos, vedada a recondução, ressalvado o que dispõe o art. 29.\n\nParágrafo único. A nomeação dos membros da Diretoria Colegiada dependerá de prévia aprovação do Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2036.%20A%20Lei%20n%C2%BA%209.427%2C%20de%2026%20de%20dezembro%20de%201996%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A Lei nº 9.472, de 16 de julho de 1997, passa a vigorar com as seguintes alterações:\n\n“Art. 7º As normas gerais de proteção à ordem econômica são aplicáveis ao setor de telecomunicações.\n\n..........................................................\n\n§ 2º Os atos de que trata o § 1º serão submetidos à aprovação do Conselho Administrativo de Defesa Econômica (Cade).\n\n...........................................................” (NR)\n\n“Art. 20. O Conselho Diretor será composto por Presidente e 4 (quatro) conselheiros e decidirá por maioria absoluta.\n\nParágrafo único. Cada membro do Conselho Diretor votará com independência, fundamentando seu voto.” (NR)\n\n“Art. 23. Os membros do Conselho Diretor serão brasileiros e terão reputação ilibada, formação universitária e elevado conceito no campo de sua especialidade, devendo ser indicados pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 24. O mandato dos membros do Conselho Diretor será de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000.\n\n...........................................................” (NR)\n\n“Art. 29. Caberá aos membros do Conselho Diretor a direção dos órgãos administrativos da Agência.” (NR)\n\n“Art. 49. A Agência submeterá anualmente ao Ministério da Economia a sua proposta de orçamento, bem como a do Fistel, para inclusão na lei orçamentária anual a que se refere o § 5º do art. 165 da Constituição Federal.\n\n...........................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2037.%20A%20Lei%20n%C2%BA%209.472%2C%20de%2016%20de%20julho%20de%201997%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O art. 11 da Lei nº 9.478, de 6 de agosto de 1997, passa a vigorar com a seguinte redação:\n\n“Art. 11. A ANP será dirigida por Diretoria Colegiada composta de 1 (um) Diretor-Geral e 4 (quatro) Diretores.\n\n§ 1º Integrarão a estrutura organizacional da ANP uma Procuradoria e uma Ouvidoria.\n\n§ 2º Os membros da Diretoria Colegiada serão nomeados pelo Presidente da República, após aprovação dos respectivos nomes pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.\n\n§ 3º Os membros da Diretoria Colegiada cumprirão mandatos de 5 (cinco) anos, não coincidentes, vedada a recondução, observado o disposto no art. 75 desta Lei e na Lei nº 9.986, de 18 de julho de 2000.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2038.%20O%20art.%2011%20da%20Lei%20n%C2%BA%209.478%2C%20de%206%20de%20agosto%20de%201997%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A Lei nº 9.782, de 26 de janeiro de 1999, passa a vigorar com as seguintes alterações:\n\n“Art. 10. A gerência e a administração da Agência serão exercidas por Diretoria Colegiada composta de 5 (cinco) membros, sendo um deles o seu Diretor-Presidente, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000.\n\nParágrafo único. Os membros da Diretoria Colegiada serão brasileiros, indicados pelo Presidente da República e por ele nomeados, após aprovação prévia pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, para cumprimento de mandato de 5 (cinco) anos, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 11. O Diretor-Presidente da Agência será nomeado pelo Presidente da República e investido na função por 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 15. ..........................................................\n\n..........................................................\n\n§ 1º A Diretoria reunir-se-á com a presença de, pelo menos, 3 (três) Diretores, entre eles o Diretor-Presidente ou seu substituto legal, e deliberará por maioria absoluta.\n\n..........................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2039.%20A%20Lei%20n%C2%BA%209.782%2C%20de%2026%20de%20janeiro%20de%201999%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A Lei nº 9.961, de 28 de janeiro de 2000, passa a vigorar com as seguintes alterações:\n\n“Art. 6º A gestão da ANS será exercida por Diretoria Colegiada composta de 5 (cinco) Diretores, sendo um deles o seu Diretor-Presidente.\n\nParágrafo único. Os membros da Diretoria Colegiada serão brasileiros, indicados pelo Presidente da República e por ele nomeados, após aprovação prévia pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, para cumprimento de mandato de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 7º O Diretor-Presidente da ANS será nomeado pelo Presidente da República e investido na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 10. ..........................................................\n\n...........................................................\n\n§ 1º A Diretoria Colegiada reunir-se-á com a presença de, pelo menos, 3 (três) diretores, entre eles o Diretor-Presidente ou seu substituto legal, e deliberará com, no mínimo, 3 (três) votos coincidentes.\n\n..........................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2040.%20A%20Lei%20n%C2%BA%209.961%2C%20de%2028%20de%20janeiro%20de%202000%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A Lei nº 9.984, de 17 de julho de 2000, passa a vigorar com as seguintes alterações:\n\n“Art. 9º A ANA será dirigida por Diretoria Colegiada composta de 5 (cinco) membros, nomeados pelo Presidente da República, com mandatos não coincidentes de 5 (cinco) anos, vedada a recondução, sendo um deles o Diretor-Presidente, e terá em sua estrutura uma Procuradoria, uma Ouvidoria e uma Auditoria, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.\n\n§ 1º O Diretor-Presidente da ANA será nomeado pelo Presidente da República e investido na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.\n\n§ 2º (Revogado).” (NR)\n\n“Art. 12. ...........................................................\n\n..........................................................\n\n§ 1º A Diretoria Colegiada deliberará por maioria absoluta de votos e reunir-se-á com a presença de, pelo menos, 3 (três) diretores, entre eles o Diretor-Presidente ou seu substituto legal.\n\n...........................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2041.%20A%20Lei%20n%C2%BA%209.984%2C%20de%2017%20de%20julho%20de%202000%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. A Lei nº 9.986, de 18 de julho de 2000, passa a vigorar com as seguintes alterações:\n\n“Art. 4º As agências terão como órgão máximo o Conselho Diretor ou a Diretoria Colegiada, que será composto de até 4 (quatro) Conselheiros ou Diretores e 1 (um) Presidente, Diretor-Presidente ou Diretor-Geral.\n\n§ 1º Os mandatos dos membros do Conselho Diretor ou da Diretoria Colegiada serão não coincidentes, de modo que, sempre que possível, a cada ano, ocorra o término de um mandato e uma consequente nova indicação.\n\n§ 2º Os mandatos que não forem providos no mesmo ano em que ocorrer sua vacância terão a duração reduzida, a fim de viabilizar a observância à regra de não coincidência de que trata o § 1º deste artigo.\n\n§ 3º Integrarão a estrutura organizacional de cada agência uma procuradoria, que a representará em juízo, uma ouvidoria e uma auditoria.\n\n§ 4º Cabe ao Presidente, Diretor-Presidente ou Diretor-Geral do Conselho Diretor ou da Diretoria Colegiada a representação da agência, o comando hierárquico sobre o pessoal e os serviços e o exercício de todas as competências administrativas correspondentes, bem como a presidência das sessões do Conselho Diretor ou da Diretoria Colegiada, sem prejuízo das deliberações colegiadas para matérias definidas em regimento interno.” (NR)\n\n“Art. 5º O Presidente, Diretor-Presidente ou Diretor-Geral (CD I) e os demais membros do Conselho Diretor ou da Diretoria Colegiada (CD II) serão brasileiros, indicados pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, entre cidadãos de reputação ilibada e de notório conhecimento no campo de sua especialidade, devendo ser atendidos 1 (um) dos requisitos das alíneas “a”, “b” e “c” do inciso I e, cumulativamente, o inciso II:\n\nI - ter experiência profissional de, no mínimo:\n\na) 10 (dez) anos, no setor público ou privado, no campo de atividade da agência reguladora ou em área a ela conexa, em função de direção superior; ou\n\nb) 4 (quatro) anos ocupando pelo menos um dos seguintes cargos:\n\n1. cargo de direção ou de chefia superior em empresa no campo de atividade da agência reguladora, entendendo-se como cargo de chefia superior aquele situado nos 2 (dois) níveis hierárquicos não estatutários mais altos da empresa;\n\n2. cargo em comissão ou função de confiança equivalente a DAS-4 ou superior, no setor público;\n\n3. cargo de docente ou de pesquisador no campo de atividade da agência reguladora ou em área conexa; ou\n\nc) 10 (dez) anos de experiência como profissional liberal no campo de atividade da agência reguladora ou em área conexa; e\n\nII - ter formação acadêmica compatível com o cargo para o qual foi indicado.\n\n§ 1º (VETADO).\n\n§ 2º (VETADO).\n\n§ 3º (VETADO).\n\n§ 4º (VETADO).\n\n§ 5º A indicação, pelo Presidente da República, dos membros do Conselho Diretor ou da Diretoria Colegiada a serem submetidos à aprovação do Senado Federal especificará, em cada caso, se a indicação é para Presidente, Diretor-Presidente, Diretor-Geral, Diretor ou Conselheiro.\n\n§ 6º (VETADO).\n\n§ 7º Ocorrendo vacância no cargo de Presidente, Diretor-Presidente, Diretor-Geral, Diretor ou Conselheiro no curso do mandato, este será completado por sucessor investido na forma prevista no caput e exercido pelo prazo remanescente, admitida a recondução se tal prazo for igual ou inferior a 2 (dois) anos.\n\n§ 8º O início da fluência do prazo do mandato dar-se-á imediatamente após o término do mandato anterior, independentemente da data de indicação, aprovação ou posse do membro do colegiado.\n\n§ 9º Nas ausências eventuais do Presidente, Diretor-Presidente ou Diretor-Geral, as funções atinentes à presidência serão exercidas por membro do Conselho Diretor ou da Diretoria Colegiada indicado pelo Presidente, Diretor-Presidente ou Diretor-Geral da agência reguladora.” (NR)\n\n“Art. 6º O mandato dos membros do Conselho Diretor ou da Diretoria Colegiada das agências reguladoras será de 5 (cinco) anos, vedada a recondução, ressalvada a hipótese do § 7º do art. 5º.\n\n...........................................................” (NR)\n\n“Art. 8º Os membros do Conselho Diretor ou da Diretoria Colegiada ficam impedidos de exercer atividade ou de prestar qualquer serviço no setor regulado pela respectiva agência, por período de 6 (seis) meses, contados da exoneração ou do término de seu mandato, assegurada a remuneração compensatória.\n\n...........................................................” (NR)\n\n“Art. 8º-A. É vedada a indicação para o Conselho Diretor ou a Diretoria Colegiada:\n\nI - de Ministro de Estado, Secretário de Estado, Secretário Municipal, dirigente estatutário de partido político e titular de mandato no Poder Legislativo de qualquer ente da federação, ainda que licenciados dos cargos;\n\nII - de pessoa que tenha atuado, nos últimos 36 (trinta e seis) meses, como participante de estrutura decisória de partido político ou em trabalho vinculado a organização, estruturação e realização de campanha eleitoral;\n\nIII - de pessoa que exerça cargo em organização sindical;\n\nIV - de pessoa que tenha participação, direta ou indireta, em empresa ou entidade que atue no setor sujeito à regulação exercida pela agência reguladora em que atuaria, ou que tenha matéria ou ato submetido à apreciação dessa agência reguladora;\n\nV - de pessoa que se enquadre nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990;\n\nVI - (VETADO);\n\nVII - de membro de conselho ou de diretoria de associação, regional ou nacional, representativa de interesses patronais ou trabalhistas ligados às atividades reguladas pela respectiva agência.\n\nParágrafo único. A vedação prevista no inciso I do caput estende-se também aos parentes consanguíneos ou afins até o terceiro grau das pessoas nele mencionadas.”\n\n“Art. 8º-B. Ao membro do Conselho Diretor ou da Diretoria Colegiada é vedado:\n\nI - receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas;\n\nII - exercer qualquer outra atividade profissional, ressalvado o exercício do magistério, havendo compatibilidade de horários;\n\nIII - participar de sociedade simples ou empresária ou de empresa de qualquer espécie, na forma de controlador, diretor, administrador, gerente, membro de conselho de administração ou conselho fiscal, preposto ou mandatário;\n\nIV - emitir parecer sobre matéria de sua especialização, ainda que em tese, ou atuar como consultor de qualquer tipo de empresa;\n\nV - exercer atividade sindical;\n\nVI - exercer atividade político-partidária;\n\nVII - estar em situação de conflito de interesse, nos termos da Lei nº 12.813, de 16 de maio de 2013.”\n\n“Art. 9º O membro do Conselho Diretor ou da Diretoria Colegiada somente perderá o mandato:\n\nI - em caso de renúncia;\n\nII - em caso de condenação judicial transitada em julgado ou de condenação em processo administrativo disciplinar;\n\nIII - por infringência de quaisquer das vedações previstas no art. 8º-B desta Lei.\n\nParágrafo único. (Revogado).” (NR)\n\n“Art. 10. Durante o período de vacância que anteceder a nomeação de novo titular do Conselho Diretor ou da Diretoria Colegiada, exercerá o cargo vago um integrante da lista de substituição.\n\n§ 1º A lista de substituição será formada por 3 (três) servidores da agência, ocupantes dos cargos de Superintendente, Gerente-Geral ou equivalente hierárquico, escolhidos e designados pelo Presidente da República entre os indicados pelo Conselho Diretor ou pela Diretoria Colegiada, observada a ordem de precedência constante do ato de designação para o exercício da substituição.\n\n§ 2º O Conselho Diretor ou a Diretoria Colegiada indicará ao Presidente da República 3 (três) nomes para cada vaga na lista.\n\n§ 3º Na ausência da designação de que trata o § 1º até 31 de janeiro do ano subsequente à indicação, exercerá o cargo vago, interinamente, o Superintendente ou o titular de cargo equivalente, na agência reguladora, com maior tempo de exercício na função.\n\n§ 4º Cada servidor permanecerá por, no máximo, 2 (dois) anos contínuos na lista de substituição, somente podendo a ela ser reconduzido após 2 (dois) anos.\n\n§ 5º Aplicam-se ao substituto os requisitos subjetivos quanto à investidura, às proibições e aos deveres impostos aos membros do Conselho Diretor ou da Diretoria Colegiada, enquanto permanecer no cargo.\n\n§ 6º Em caso de vacância de mais de um cargo no Conselho Diretor ou na Diretoria Colegiada, os substitutos serão chamados na ordem de precedência na lista, observado o sistema de rodízio.\n\n§ 7º O mesmo substituto não exercerá interinamente o cargo por mais de 180 (cento e oitenta) dias contínuos, devendo ser convocado outro substituto, na ordem da lista, caso a vacância ou o impedimento do membro do Conselho Diretor ou da Diretoria Colegiada se estenda além desse prazo.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2042.%20A%20Lei%20n%C2%BA%209.986%2C%20de%2018%20de%20julho%20de%202000%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A Lei nº 10.233, de 5 de junho de 2001, passa a vigorar com as seguintes alterações:\n\n“Art. 52. A ANTT e a Antaq terão como órgãos de deliberação máxima as Diretorias Colegiadas e terão em suas estruturas organizacionais uma Procuradoria, uma Ouvidoria e uma Corregedoria.” (NR)\n\n“Art. 53. A Diretoria Colegiada da ANTT será composta de 1 (um) Diretor-Geral e 4 (quatro) Diretores, e a Diretoria Colegiada da Antaq será composta de 1 (um) Diretor-Geral e 2 (dois) Diretores.\n\n§ 1º Os membros das Diretorias Colegiadas serão brasileiros, terão reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos a serem exercidos e serão nomeados pelo Presidente da República, após aprovação pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.\n\n§ 2º Os Diretores-Gerais da ANTT e da Antaq serão nomeados pelo Presidente da República e investidos na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 54. Os membros das Diretorias Colegiadas cumprirão mandatos de 5 (cinco) anos, não coincidentes, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.\n\n............................................................” (NR)\n\n“Art. 56. Os membros das Diretorias Colegiadas perderão o mandato em virtude de renúncia, condenação judicial transitada em julgado ou condenação em processo administrativo disciplinar.\n\n...........................................................” (NR)\n\n“Art. 60. Compete às Diretorias Colegiadas exercer as atribuições e cumprir os deveres estabelecidos por esta Lei para as respectivas Agências.\n\nParágrafo único. As Diretorias Colegiadas aprovarão os regimentos internos das respectivas Agências.” (NR)\n\n“Art. 61. Cabem aos respectivos Diretores-Gerais a representação das Agências, o comando hierárquico sobre pessoal e serviços, a coordenação das competências administrativas e a presidência das reuniões das Diretorias Colegiadas.” (NR)\n\n“Art. 63. O Ouvidor será nomeado pelo Presidente da República para mandato de 3 (três) anos, vedada a recondução.\n\nParágrafo único. (Revogado).” (NR)\n\n“Art. 67. As decisões das Diretorias Colegiadas serão tomadas pelo voto da maioria absoluta de seus membros, cabendo aos respectivos Diretores-Gerais o voto de qualidade, e serão registradas em atas.\n\nParágrafo único. As datas, as pautas e as atas das reuniões das Diretorias Colegiadas, assim como os documentos que as instruem, deverão ser objeto de ampla publicidade, inclusive por meio da internet, conforme regulamento.” (NR)\n\n“Art. 68. As iniciativas de projetos de lei, as alterações de normas administrativas e as decisões das Diretorias Colegiadas para resolução de pendências que afetem os direitos de agentes econômicos ou de usuários de serviços de transporte serão precedidas de audiência pública.\n\n...........................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2043.%20A%20Lei%20n%C2%BA%2010.233%2C%20de%205%20de%20junho%20de%202001%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. A Medida Provisória nº 2.228-1, de 6 de setembro de 2001, passa a vigorar com as seguintes alterações:\n\n“Art. 8º A Ancine será dirigida por Diretoria Colegiada composta de 1 (um) Diretor-Presidente e 3 (três) Diretores, com mandatos não coincidentes de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000.\n\n§ 1º Os membros da Diretoria Colegiada serão nomeados nos termos da Lei nº 9.986, de 18 de julho de 2000.\n\n§ 2º O Diretor-Presidente da Ancine será nomeado pelo Presidente da República e investido na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.\n\n§ 3º Em caso de vaga no curso do mandato de membro da Diretoria Colegiada, esse será completado por sucessor investido na forma prevista no § 1º deste artigo e exercido pelo prazo remanescente.\n\n§ 4º Integrarão a estrutura da Ancine, além da Diretoria Colegiada, uma Procuradoria, que a representará em juízo, uma Ouvidoria e uma Auditoria.\n\n§ 5º (Revogado).” (NR)\n\n“Art. 9º ...........................................................\n\n..........................................................\n\nParágrafo único. A Diretoria Colegiada reunir-se-á com a presença de, pelo menos, 3 (três) diretores, entre eles o Diretor-Presidente, e deliberará por maioria absoluta de votos.” (NR)\n\n“Art. 10. ..........................................................\n\n..........................................................\n\nVIII - encaminhar ao Ministério da Economia a proposta de orçamento da Ancine;\n\n...........................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2044.%20A%20Medida%20Provis%C3%B3ria%20n%C2%BA%202.228-1%2C%20de%206%20de%20setembro%20de%202001%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A Lei nº 11.182, de 27 de setembro de 2005, passa a vigorar com as seguintes alterações:\n\n“Art. 9º A Anac terá como órgão de deliberação máxima a Diretoria Colegiada e terá em sua estrutura uma Procuradoria, uma Corregedoria, um Conselho Consultivo e uma Ouvidoria, além das unidades especializadas.” (NR)\n\n“Art. 10. A Diretoria Colegiada será composta de 1 (um) Diretor-Presidente e 4 (quatro) Diretores, que decidirão por maioria absoluta, cabendo ao Diretor-Presidente, além do voto ordinário, o voto de qualidade.\n\n§ 1º A Diretoria Colegiada reunir-se-á com a maioria de seus membros.\n\n..........................................................\n\n§ 3º As decisões da Diretoria Colegiada serão fundamentadas.\n\n§ 4º As sessões deliberativas da Diretoria Colegiada que se destinem a resolver pendências entre agentes econômicos, ou entre esses e usuários da aviação civil, serão públicas.” (NR)\n\n“Art. 12. Os membros da Diretoria Colegiada serão nomeados pelo Presidente da República, após aprovação pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.” (NR)\n\n“Art. 13. O mandato dos membros da Diretoria Colegiada será de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000.\n\n..........................................................” (NR)\n\n“Art. 16. Cabe ao Diretor-Presidente a representação da Anac, o comando hierárquico sobre pessoal e serviços, o exercício das competências administrativas correspondentes e a presidência das reuniões da Diretoria Colegiada.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2045.%20A%20Lei%20n%C2%BA%2011.182%2C%20de%2027%20de%20setembro%20de%202005%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2046.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Até que sejam organizadas as ouvidorias na Aneel, na ANP e na ANA, as competências do ouvidor poderão ser exercidas, cumulativamente, por um dos membros do conselho diretor ou da diretoria colegiada, definido em ato do presidente, diretor-presidente ou diretor-geral da agência reguladora.\n\nParágrafo único. As ouvidorias referidas no caput deverão ser organizadas em até 120 (cento e vinte) dias após a entrada em vigor desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2047.%20At%C3%A9%20que%20sejam%20organizadas%20as%20ouvidorias%20na%20Aneel%2C%20na%20ANP%20e%20na%20ANA%2C%20as%20compet%C3%AAncias%20do%20ouvidor%20poder%C3%A3o%20ser%20exercidas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A apreciação pelos órgãos de defesa da concorrência dos atos de que trata o § 1º do art. 7º da Lei nº 9.472, de 16 de julho de 1997, observará o disposto nos arts. 25 a 28 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2048.%20A%20aprecia%C3%A7%C3%A3o%20pelos%20%C3%B3rg%C3%A3os%20de%20defesa%20da%20concorr%C3%AAncia%20dos%20atos%20de%20que%20trata%20o%20%C2%A7%201%C2%BA%20do%20art.%207%C2%BA%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Ficam mantidos os prazos de encerramento dos mandatos de diretores, conselheiros, presidentes, diretores-gerais e diretores-presidentes de agências reguladoras nomeados anteriormente à entrada em vigor desta Lei.\n\nParágrafo único. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2049.%20Ficam%20mantidos%20os%20prazos%20de%20encerramento%20dos%20mandatos%20de%20diretores%2C%20conselheiros%2C%20presidentes%2C%20diretores-gerais%20e%20diretores-presidentes%20de%20ag%C3%AAncias%20reguladoras%20nomeados%20anteriormente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Tendo em vista o cumprimento da regra da não coincidência de mandatos, disposta no art. 4º da Lei nº 9.986, de 18 de julho de 2000, os mandatos dos membros do conselho diretor ou da diretoria colegiada nomeados a partir da entrada em vigor desta Lei terão, como regra de transição, as durações fixadas de acordo com as hipóteses a seguir:\n\nI - encerramento de 5 (cinco) mandatos em um mesmo ano: os prazos dos mandatos subsequentes, contados do primeiro mandato que se encerra, serão, respectivamente, de 2 (dois), 3 (três), 4 (quatro), 5 (cinco) e 6 (seis) anos, permitida uma única recondução do membro com mandato de 2 (dois) anos para exercer mandato de 5 (cinco) anos;\n\nII - encerramento de 4 (quatro) mandatos em um mesmo ano: os prazos dos mandatos subsequentes, contados do primeiro mandato que se encerra, serão, respectivamente, de 2 (dois), 3 (três), 4 (quatro) e 5 (cinco) anos, permitida uma única recondução do membro com mandato de 2 (dois) anos para exercer mandato de 5 (cinco) anos;\n\nIII - encerramento de 3 (três) mandatos em um mesmo ano: os prazos dos mandatos subsequentes, contados do primeiro mandato que se encerra, serão, respectivamente, de 2 (dois), 3 (três) e 4 (quatro) anos, permitida uma única recondução do membro com mandato de 2 (dois) anos para exercer mandato de 5 (cinco) anos;\n\nIV - encerramento de 2 (dois) mandatos em um mesmo ano: os prazos dos mandatos subsequentes serão de 5 (cinco) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2050.%20Tendo%20em%20vista%20o%20cumprimento%20da%20regra%20da%20n%C3%A3o%20coincid%C3%AAncia%20de%20mandatos%2C%20disposta%20no%20art.%204%C2%BA%20da%20Lei%20n%C2%BA%209.986%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O disposto no art. 3º e, no que couber, nos arts. 14 a 20 desta Lei aplica-se ao Cade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2051.%20O%20disposto%20no%20art.%203%C2%BA%20e%2C%20no%20que%20couber%2C%20nos%20arts.%2014%20a%2020%20desta%20Lei%20aplica-se%20ao%20Cade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Revogam-se:\n\nI - o arts. 6º, 7º e 22 da Lei nº 9.427, de 26 de dezembro de 1996;\n\nII - os incisos XXVI e XXIX do art. 19 e os arts. 27, 42 e 45 da Lei nº 9.472, de 16 de julho de 1997;\n\nIII - os arts. 12, 19 e 20 da Lei nº 9.782, de 26 de janeiro de 1999;\n\nIV - os arts. 8º, 14 e 15 da Lei nº 9.961, de 28 de janeiro de 2000;\n\nV - o § 2º do art. 9º e o art. 10 da Lei nº 9.984, de 17 de julho de 2000;\n\nVI - o art. 7º, o parágrafo único do art. 9º e o parágrafo único do art. 11 da Lei nº 9.986, de 18 de julho de 2000;\n\nVII - o parágrafo único do art. 63 e o art. 78 da Lei nº 10.233, de 5 de junho de 2001;\n\nVIII - o § 5º do art. 8º da Medida Provisória nº 2.228-1, de 6 de setembro de 2001;\n\nIX - o art. 18 da Lei nº 11.182, de 27 de setembro de 2005.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2052.%20Revogam-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publicação oficial.\n\nBrasília, 25 de junho de 2019; 198o da Independência e 131o da República.\n\nJAIR MESSIAS BOLSONARO Paulo Guedes Tarcisio Gomes de Freitas Bento Albuquerque Onyx Lorenzoni\n\nEste texto não substitui o publicado no DOU de 26.6.2019\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm#:~:text=Art.%2053.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%2090%20%28noventa%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": null
+    }
+  }
+}

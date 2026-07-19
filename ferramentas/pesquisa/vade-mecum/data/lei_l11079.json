@@ -1,0 +1,527 @@
+{
+  "_meta": {
+    "codigo": "L11079",
+    "nome": "Parcerias Público-Privadas (PPPs)",
+    "lei": "Lei 11.079/2004",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm",
+    "total_artigos": 32,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei institui normas gerais para licitação e contratação de parceria público-privada no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.\n\nParágrafo único. Esta Lei aplica-se aos órgãos da administração pública direta dos Poderes Executivo e Legislativo, aos fundos especiais, às autarquias, às fundações públicas, às empresas públicas, às sociedades de economia mista e às demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios. (Redação dada pela Lei nº 13.137, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20institui%20normas%20gerais%20para%20licita%C3%A7%C3%A3o%20e%20contrata%C3%A7%C3%A3o%20de%20parceria%20p%C3%BAblico-privada%20no%20%C3%A2mbito%20dos%20Poderes%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Parceria público-privada é o contrato administrativo de concessão, na modalidade patrocinada ou administrativa.\n\n§ 1º Concessão patrocinada é a concessão de serviços públicos ou de obras públicas de que trata a Lei nº 8.987, de 13 de fevereiro de 1995, quando envolver, adicionalmente à tarifa cobrada dos usuários contraprestação pecuniária do parceiro público ao parceiro privado.\n\n§ 2º Concessão administrativa é o contrato de prestação de serviços de que a Administração Pública seja a usuária direta ou indireta, ainda que envolva execução de obra ou fornecimento e instalação de bens.\n\n§ 3º Não constitui parceria público-privada a concessão comum, assim entendida a concessão de serviços públicos ou de obras públicas de que trata a Lei nº 8.987, de 13 de fevereiro de 1995, quando não envolver contraprestação pecuniária do parceiro público ao parceiro privado.\n\n§ 4º É vedada a celebração de contrato de parceria público-privada:\n\nI - cujo valor do contrato seja inferior a R$ 10.000.000,00 (dez milhões de reais); (Redação dada pela Lei nº 13.529, de 2017)\n\nII – cujo período de prestação do serviço seja inferior a 5 (cinco) anos; ou\n\nIII – que tenha como objeto único o fornecimento de mão-de-obra, o fornecimento e instalação de equipamentos ou a execução de obra pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%202%C2%BA%20Parceria%20p%C3%BAblico-privada%20%C3%A9%20o%20contrato%20administrativo%20de%20concess%C3%A3o%2C%20na%20modalidade%20patrocinada%20ou%20administrativa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º As concessões administrativas regem-se por esta Lei, aplicando-se-lhes adicionalmente o disposto nos arts. 21, 23, 25 e 27 a 39 da Lei nº 8.987, de 13 de fevereiro de 1995, e no art. 31 da Lei nº 9.074, de 7 de julho de 1995. ( Regulamento )\n\n§ 1º As concessões patrocinadas regem-se por esta Lei, aplicando-se-lhes subsidiariamente o disposto na Lei nº 8.987, de 13 de fevereiro de 1995, e nas leis que lhe são correlatas. ( Regulamento )\n\n§ 2º As concessões comuns continuam regidas pela Lei nº 8.987, de 13 de fevereiro de 1995, e pelas leis que lhe são correlatas, não se lhes aplicando o disposto nesta Lei.\n\n§ 3º Continuam regidos exclusivamente pela Lei nº 8.666, de 21 de junho de 1993, e pelas leis que lhe são correlatas os contratos administrativos que não caracterizem concessão comum, patrocinada ou administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%203%C2%BA%20As%20concess%C3%B5es%20administrativas%20regem-se%20por%20esta%20Lei%2C%20aplicando-se-lhes%20adicionalmente%20o%20disposto%20nos%20arts.%2021%2C%2023%2C%2025%20e%2027%20a%2039",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Na contratação de parceria público-privada serão observadas as seguintes diretrizes:\n\nI – eficiência no cumprimento das missões de Estado e no emprego dos recursos da sociedade;\n\nII – respeito aos interesses e direitos dos destinatários dos serviços e dos entes privados incumbidos da sua execução;\n\nIII – indelegabilidade das funções de regulação, jurisdicional, do exercício do poder de polícia e de outras atividades exclusivas do Estado;\n\nIV – responsabilidade fiscal na celebração e execução das parcerias;\n\nV – transparência dos procedimentos e das decisões;\n\nVI – repartição objetiva de riscos entre as partes;\n\nVII – sustentabilidade financeira e vantagens socioeconômicas dos projetos de parceria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%204%C2%BA%20Na%20contrata%C3%A7%C3%A3o%20de%20parceria%20p%C3%BAblico-privada%20ser%C3%A3o%20observadas%20as%20seguintes%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As cláusulas dos contratos de parceria público-privada atenderão ao disposto no art. 23 da Lei nº 8.987, de 13 de fevereiro de 1995, no que couber, devendo também prever:\n\nI – o prazo de vigência do contrato, compatível com a amortização dos investimentos realizados, não inferior a 5 (cinco), nem superior a 35 (trinta e cinco) anos, incluindo eventual prorrogação;\n\nII – as penalidades aplicáveis à Administração Pública e ao parceiro privado em caso de inadimplemento contratual, fixadas sempre de forma proporcional à gravidade da falta cometida, e às obrigações assumidas;\n\nIII – a repartição de riscos entre as partes, inclusive os referentes a caso fortuito, força maior, fato do príncipe e álea econômica extraordinária;\n\nIV – as formas de remuneração e de atualização dos valores contratuais;\n\nV – os mecanismos para a preservação da atualidade da prestação dos serviços;\n\nVI – os fatos que caracterizem a inadimplência pecuniária do parceiro público, os modos e o prazo de regularização e, quando houver, a forma de acionamento da garantia;\n\nVII – os critérios objetivos de avaliação do desempenho do parceiro privado;\n\nVIII – a prestação, pelo parceiro privado, de garantias de execução suficientes e compatíveis com os ônus e riscos envolvidos, observados os limites dos §§ 3º e 5º do art. 56 da Lei nº 8.666, de 21 de junho de 1993, e, no que se refere às concessões patrocinadas, o disposto no inciso XV do art. 18 da Lei nº 8.987, de 13 de fevereiro de 1995 ;\n\nIX – o compartilhamento com a Administração Pública de ganhos econômicos efetivos do parceiro privado decorrentes da redução do risco de crédito dos financiamentos utilizados pelo parceiro privado;\n\nX – a realização de vistoria dos bens reversíveis, podendo o parceiro público reter os pagamentos ao parceiro privado, no valor necessário para reparar as irregularidades eventualmente detectadas.\n\nXI - o cronograma e os marcos para o repasse ao parceiro privado das parcelas do aporte de recursos, na fase de investimentos do projeto e/ou após a disponibilização dos serviços, sempre que verificada a hipótese do § 2º do art. 6º desta Lei. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 1º As cláusulas contratuais de atualização automática de valores baseadas em índices e fórmulas matemáticas, quando houver, serão aplicadas sem necessidade de homologação pela Administração Pública, exceto se esta publicar, na imprensa oficial, onde houver, até o prazo de 15 (quinze) dias após apresentação da fatura, razões fundamentadas nesta Lei ou no contrato para a rejeição da atualização.\n\n§ 2º Os contratos poderão prever adicionalmente:\n\nI - os requisitos e condições em que o parceiro público autorizará a transferência do controle ou a administração temporária da sociedade de propósito específico aos seus financiadores e garantidores com quem não mantenha vínculo societário direto, com o objetivo de promover a sua reestruturação financeira e assegurar a continuidade da prestação dos serviços, não se aplicando para este efeito o previsto no inciso I do parágrafo único do art. 27 da Lei nº 8.987, de 13 de fevereiro de 1995; (Redação dada pela Lei nº 13.097, de 2015)\n\nII – a possibilidade de emissão de empenho em nome dos financiadores do projeto em relação às obrigações pecuniárias da Administração Pública;\n\nIII – a legitimidade dos financiadores do projeto para receber indenizações por extinção antecipada do contrato, bem como pagamentos efetuados pelos fundos e empresas estatais garantidores de parcerias público-privadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%205%C2%BA%20As%20cl%C3%A1usulas%20dos%20contratos%20de%20parceria%20p%C3%BAblico-privada%20atender%C3%A3o%20ao%20disposto%20no%20art.%2023%20da%20Lei%20n%C2%BA%208.987%2C%20de%2013%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A. Para fins do inciso I do § 2º do art. 5º , considera-se: (Incluído pela Lei nº 13.097, de 2015)\n\nI - o controle da sociedade de propósito específico a propriedade resolúvel de ações ou quotas por seus financiadores e garantidores que atendam os requisitos do art. 116 da Lei nº 6.404, de 15 de dezembro de 1976; (Incluído pela Lei nº 13.097, de 2015)\n\nII - A administração temporária da sociedade de propósito específico, pelos financiadores e garantidores quando, sem a transferência da propriedade de ações ou quotas, forem outorgados os seguintes poderes: (Incluído pela Lei nº 13.097, de 2015)\n\na) indicar os membros do Conselho de Administração, a serem eleitos em Assembleia Geral pelos acionistas, nas sociedades regidas pela Lei 6.404, de 15 de dezembro de 1976; ou administradores, a serem eleitos pelos quotistas, nas demais sociedades; (Incluído pela Lei nº 13.097, de 2015)\n\nb) indicar os membros do Conselho Fiscal, a serem eleitos pelos acionistas ou quotistas controladores em Assembleia Geral; (Incluído pela Lei nº 13.097, de 2015)\n\nc) exercer poder de veto sobre qualquer proposta submetida à votação dos acionistas ou quotistas da concessionária, que representem, ou possam representar, prejuízos aos fins previstos no caput deste artigo; (Incluído pela Lei nº 13.097, de 2015)\n\nd) outros poderes necessários ao alcance dos fins previstos no caput deste artigo; (Incluído pela Lei nº 13.097, de 2015)\n\n§ 1º A administração temporária autorizada pelo poder concedente não acarretará responsabilidade aos financiadores e garantidores em relação à tributação, encargos, ônus, sanções, obrigações ou compromissos com terceiros, inclusive com o poder concedente ou empregados. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 2º O Poder Concedente disciplinará sobre o prazo da administração temporária. (Incluído pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%205%C2%BA-A.%20Para%20fins%20do%20inciso%20I%20do%20%C2%A7%202%C2%BA%20do%20art.%205%C2%BA%20%2C%20considera-se%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.097%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A contraprestação da Administração Pública nos contratos de parceria público-privada poderá ser feita por:\n\nI – ordem bancária;\n\nII – cessão de créditos não tributários;\n\nIII – outorga de direitos em face da Administração Pública;\n\nIII - (Vide Lei nº 13.043, de 2014) Vigência\n\nIV – outorga de direitos sobre bens públicos dominicais;\n\nV – outros meios admitidos em lei.\n\n§ 1º O contrato poderá prever o pagamento ao parceiro privado de remuneração variável vinculada ao seu desempenho, conforme metas e padrões de qualidade e disponibilidade definidos no contrato. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 2º O contrato poderá prever o aporte de recursos em favor do parceiro privado para a realização de obras e aquisição de bens reversíveis, nos termos dos incisos X e XI do caput do art. 18 da Lei nº 8.987, de 13 de fevereiro de 1995 , desde que autorizado no edital de licitação, se contratos novos, ou em lei específica, se contratos celebrados até 8 de agosto de 2012. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 3º O valor do aporte de recursos realizado nos termos do § 2º poderá ser excluído da determinação: (Incluído pela Lei nº 12.766, de 2012)\n\nI - do lucro líquido para fins de apuração do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido - CSLL; e (Incluído pela Lei nº 12.766, de 2012)\n\nII - da base de cálculo da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS. (Incluído pela Lei nº 12.766, de 2012) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIII - da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta - CPRB devida pelas empresas referidas nos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011, a partir de 1º de janeiro de 2015. (Redação dada pela Lei nº 13.043, de 2014) Vigência\n\n§ 4º Até 31 de dezembro de 2013, para os optantes conforme o art. 75 da Lei nº 12.973, de 13 de maio de 2014, e até 31 de dezembro de 2014, para os não optantes, a parcela excluída nos termos do § 3º deverá ser computada na determinação do lucro líquido para fins de apuração do lucro real, da base de cálculo da CSLL e da base de cálculo da Contribuição para o PIS/Pasep e da Cofins, na proporção em que o custo para a realização de obras e aquisição de bens a que se refere o § 2º deste artigo for realizado, inclusive mediante depreciação ou extinção da concessão, nos termos do art. 35 da Lei nº 8.987, de 13 de fevereiro de 1995. (Redação dada pela Lei nº 13.043, de 2014) Vigência\n\n§ 5º Por ocasião da extinção do contrato, o parceiro privado não receberá indenização pelas parcelas de investimentos vinculados a bens reversíveis ainda não amortizadas ou depreciadas, quando tais investimentos houverem sido realizados com valores provenientes do aporte de recursos de que trata o § 2º . (Incluído pela Lei nº 12.766, de 2012)\n\n§ 6º A partir de 1º de janeiro de 2014, para os optantes conforme o art. 75 da Lei nº 12.973, de 13 de maio de 2014, e de 1º de janeiro de 2015, para os não optantes, a parcela excluída nos termos do § 3º deverá ser computada na determinação do lucro líquido para fins de apuração do lucro real, da base de cálculo da CSLL e da base de cálculo da Contribuição para o PIS/Pasep e da Cofins em cada período de apuração durante o prazo restante do contrato, considerado a partir do início da prestação dos serviços públicos. (Incluído pela Lei nº 13.043, de 2014) Vigência\n\n§ 7º No caso do § 6º , o valor a ser adicionado em cada período de apuração deve ser o valor da parcela excluída dividida pela quantidade de períodos de apuração contidos no prazo restante do contrato. (Incluído pela Lei nº 13.043, de 2014) Vigência\n\n§ 8º Para os contratos de concessão em que a concessionária já tenha iniciado a prestação dos serviços públicos nas datas referidas no § 6º , as adições subsequentes serão realizadas em cada período de apuração durante o prazo restante do contrato, considerando o saldo remanescente ainda não adicionado. (Incluído pela Lei nº 13.043, de 2014) Vigência\n\n§ 9º A parcela excluída nos termos do inciso III do § 3º deverá ser computada na determinação da base de cálculo da contribuição previdenciária de que trata o inciso III do § 3º em cada período de apuração durante o prazo restante previsto no contrato para construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura que será utilizada na prestação de serviços públicos. (Incluído pela Lei nº 13.043, de 2014) Vigência\n\n§ 10. No caso do § 9º , o valor a ser adicionado em cada período de apuração deve ser o valor da parcela excluída dividida pela quantidade de períodos de apuração contidos no prazo restante previsto no contrato para construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura que será utilizada na prestação de serviços públicos. (Incluído pela Lei nº 13.043, de 2014) Vigência\n\n§ 11. Ocorrendo a extinção da concessão antes do advento do termo contratual, o saldo da parcela excluída nos termos do § 3º, ainda não adicionado, deverá ser computado na determinação do lucro líquido para fins de apuração do lucro real, da base de cálculo da CSLL e da contribuição previdenciária de que trata o inciso III do § 3º no período de apuração da extinção. (Redação dada pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 12. Aplicam-se às receitas auferidas pelo parceiro privado nos termos do § 6º o regime de apuração e as alíquotas da Contribuição para o PIS/Pasep e da Cofins aplicáveis às suas receitas decorrentes da prestação dos serviços públicos. (Incluído pela Lei nº 13.043, de 2014) Vigência (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%206%C2%BA%20A%20contrapresta%C3%A7%C3%A3o%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20nos%20contratos%20de%20parceria%20p%C3%BAblico-privada%20poder%C3%A1%20ser%20feita%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-A",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A contraprestação da Administração Pública será obrigatoriamente precedida da disponibilização do serviço objeto do contrato de parceria público-privada.\n\n§ 1º É facultado à administração pública, nos termos do contrato, efetuar o pagamento da contraprestação relativa a parcela fruível do serviço objeto do contrato de parceria público-privada. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 2º O aporte de recursos de que trata o § 2º do art. 6º , quando realizado durante a fase dos investimentos a cargo do parceiro privado, deverá guardar proporcionalidade com as etapas efetivamente executadas. (Incluído pela Lei nº 12.766, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%207%C2%BA%20A%20contrapresta%C3%A7%C3%A3o%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20ser%C3%A1%20obrigatoriamente%20precedida%20da%20disponibiliza%C3%A7%C3%A3o%20do%20servi%C3%A7o%20objeto%20do%20contrato%20de%20parceria%20p%C3%BAblico-privada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º As obrigações pecuniárias contraídas pela Administração Pública em contrato de parceria público-privada poderão ser garantidas mediante: (Vide Lei nº 13.043, de 2014) Vigência\n\nI – vinculação de receitas, observado o disposto no inciso IV do art. 167 da Constituição Federal ;\n\nII – instituição ou utilização de fundos especiais previstos em lei;\n\nIII – contratação de seguro-garantia com as companhias seguradoras que não sejam controladas pelo Poder Público;\n\nIV - garantia prestada por organismos internacionais ou instituições financeiras; (Redação dada pela Lei nº 14.227, de 2021)\n\nV – garantias prestadas por fundo garantidor ou empresa estatal criada para essa finalidade;\n\nVI – outros mecanismos admitidos em lei.\n\nParágrafo único. (VETADO). (Incluído pela Lei nº 13.043, de 2014) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%208%C2%BA%20As%20obriga%C3%A7%C3%B5es%20pecuni%C3%A1rias%20contra%C3%ADdas%20pela%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20em%20contrato%20de%20parceria%20p%C3%BAblico-privada%20poder%C3%A3o%20ser%20garantidas%20mediante%3A%20%28Vide%20Lei%20n%C2%BA%2013.043%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Antes da celebração do contrato, deverá ser constituída sociedade de propósito específico, incumbida de implantar e gerir o objeto da parceria.\n\n§ 1º A transferência do controle da sociedade de propósito específico estará condicionada à autorização expressa da Administração Pública, nos termos do edital e do contrato, observado o disposto no parágrafo único do art. 27 da Lei nº 8.987, de 13 de fevereiro de 1995.\n\n§ 2º A sociedade de propósito específico poderá assumir a forma de companhia aberta, com valores mobiliários admitidos a negociação no mercado.\n\n§ 3º A sociedade de propósito específico deverá obedecer a padrões de governança corporativa e adotar contabilidade e demonstrações financeiras padronizadas, conforme regulamento.\n\n§ 4º Fica vedado à Administração Pública ser titular da maioria do capital votante das sociedades de que trata este Capítulo.\n\n§ 5º A vedação prevista no § 4º deste artigo não se aplica à eventual aquisição da maioria do capital votante da sociedade de propósito específico por instituição financeira controlada pelo Poder Público em caso de inadimplemento de contratos de financiamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%209%C2%BA%20Antes%20da%20celebra%C3%A7%C3%A3o%20do%20contrato%2C%20dever%C3%A1%20ser%20constitu%C3%ADda%20sociedade%20de%20prop%C3%B3sito%20espec%C3%ADfico%2C%20incumbida%20de%20implantar%20e%20gerir%20o%20objeto%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A contratação de parceria público-privada será precedida de licitação na modalidade concorrência ou diálogo competitivo, estando a abertura do processo licitatório condicionada a: (Redação dada pela Lei nº 14.133, de 2021)\n\nI – autorização da autoridade competente, fundamentada em estudo técnico que demonstre:\n\na) a conveniência e a oportunidade da contratação, mediante identificação das razões que justifiquem a opção pela forma de parceria público-privada;\n\nb) que as despesas criadas ou aumentadas não afetarão as metas de resultados fiscais previstas no Anexo referido no § 1º do art. 4º da Lei Complementar nº 101, de 4 de maio de 2000, devendo seus efeitos financeiros, nos períodos seguintes, ser compensados pelo aumento permanente de receita ou pela redução permanente de despesa; e\n\nc) quando for o caso, conforme as normas editadas na forma do art. 25 desta Lei, a observância dos limites e condições decorrentes da aplicação dos arts. 29, 30 e 32 da Lei Complementar nº 101, de 4 de maio de 2000, pelas obrigações contraídas pela Administração Pública relativas ao objeto do contrato;\n\nII – elaboração de estimativa do impacto orçamentário-financeiro nos exercícios em que deva vigorar o contrato de parceria público-privada;\n\nIII – declaração do ordenador da despesa de que as obrigações contraídas pela Administração Pública no decorrer do contrato são compatíveis com a lei de diretrizes orçamentárias e estão previstas na lei orçamentária anual;\n\nIV – estimativa do fluxo de recursos públicos suficientes para o cumprimento, durante a vigência do contrato e por exercício financeiro, das obrigações contraídas pela Administração Pública;\n\nV – seu objeto estar previsto no plano plurianual em vigor no âmbito onde o contrato será celebrado;\n\nVI – submissão da minuta de edital e de contrato à consulta pública, mediante publicação na imprensa oficial, em jornais de grande circulação e por meio eletrônico, que deverá informar a justificativa para a contratação, a identificação do objeto, o prazo de duração do contrato, seu valor estimado, fixando-se prazo mínimo de 30 (trinta) dias para recebimento de sugestões, cujo termo dar-se-á pelo menos 7 (sete) dias antes da data prevista para a publicação do edital; e VII – licença ambiental prévia ou expedição das diretrizes para o licenciamento ambiental do empreendimento, na forma do regulamento, sempre que o objeto do contrato exigir.\n\n§ 1º A comprovação referida nas alíneas b e c do inciso I do caput deste artigo conterá as premissas e metodologia de cálculo utilizadas, observadas as normas gerais para consolidação das contas públicas, sem prejuízo do exame de compatibilidade das despesas com as demais normas do plano plurianual e da lei de diretrizes orçamentárias.\n\n§ 2º Sempre que a assinatura do contrato ocorrer em exercício diverso daquele em que for publicado o edital, deverá ser precedida da atualização dos estudos e demonstrações a que se referem os incisos I a IV do caput deste artigo.\n\n§ 3º As concessões patrocinadas em que mais de 70% (setenta por cento) da remuneração do parceiro privado for paga pela Administração Pública dependerão de autorização legislativa específica.\n\n§ 4º Os estudos de engenharia para a definição do valor do investimento da PPP deverão ter nível de detalhamento de anteprojeto, e o valor dos investimentos para definição do preço de referência para a licitação será calculado com base em valores de mercado considerando o custo global de obras semelhantes no Brasil ou no exterior ou com base em sistemas de custos que utilizem como insumo valores de mercado do setor específico do projeto, aferidos, em qualquer caso, mediante orçamento sintético, elaborado por meio de metodologia expedita ou paramétrica. (Incluído pela Lei nº 12.766, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2010.%20A%20contrata%C3%A7%C3%A3o%20de%20parceria%20p%C3%BAblico-privada%20ser%C3%A1%20precedida%20de%20licita%C3%A7%C3%A3o%20na%20modalidade%20concorr%C3%AAncia%20ou%20di%C3%A1logo%20competitivo%2C%20estando%20a%20abertura%20do%20processo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O instrumento convocatório conterá minuta do contrato, indicará expressamente a submissão da licitação às normas desta Lei e observará, no que couber, os §§ 3º e 4º do art. 15, os arts. 18, 19 e 21 da Lei nº 8.987, de 13 de fevereiro de 1995, podendo ainda prever:\n\nI – exigência de garantia de proposta do licitante, observado o limite do inciso III do art. 31 da Lei nº 8.666, de 21 de junho de 1993 ;\n\nII – (VETADO)\n\nIII – o emprego dos mecanismos privados de resolução de disputas, inclusive a arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei nº 9.307, de 23 de setembro de 1996, para dirimir conflitos decorrentes ou relacionados ao contrato.\n\nParágrafo único. O edital deverá especificar, quando houver, as garantias da contraprestação do parceiro público a serem concedidas ao parceiro privado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2011.%20O%20instrumento%20convocat%C3%B3rio%20conter%C3%A1%20minuta%20do%20contrato%2C%20indicar%C3%A1%20expressamente%20a%20submiss%C3%A3o%20da%20licita%C3%A7%C3%A3o%20%C3%A0s%20normas%20desta%20Lei%20e%20observar%C3%A1%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O certame para a contratação de parcerias público-privadas obedecerá ao procedimento previsto na legislação vigente sobre licitações e contratos administrativos e também ao seguinte:\n\nI – o julgamento poderá ser precedido de etapa de qualificação de propostas técnicas, desclassificando-se os licitantes que não alcançarem a pontuação mínima, os quais não participarão das etapas seguintes;\n\nII – o julgamento poderá adotar como critérios, além dos previstos nos incisos I e V do art. 15 da Lei nº 8.987, de 13 de fevereiro de 1995, os seguintes:\n\na) menor valor da contraprestação a ser paga pela Administração Pública;\n\nb) melhor proposta em razão da combinação do critério da alínea a com o de melhor técnica, de acordo com os pesos estabelecidos no edital;\n\nIII – o edital definirá a forma de apresentação das propostas econômicas, admitindo-se:\n\na) propostas escritas em envelopes lacrados; ou\n\nb) propostas escritas, seguidas de lances em viva voz;\n\nIV – o edital poderá prever a possibilidade de saneamento de falhas, de complementação de insuficiências ou ainda de correções de caráter formal no curso do procedimento, desde que o licitante possa satisfazer as exigências dentro do prazo fixado no instrumento convocatório.\n\n§ 1º Na hipótese da alínea b do inciso III do caput deste artigo:\n\nI - os lances em viva voz serão sempre oferecidos na ordem inversa da classificação das propostas escritas, sendo vedado ao edital limitar a quantidade de lances;\n\nII – o edital poderá restringir a apresentação de lances em viva voz aos licitantes cuja proposta escrita for no máximo 20% (vinte por cento) maior que o valor da melhor proposta.\n\n§ 2º O exame de propostas técnicas, para fins de qualificação ou julgamento, será feito por ato motivado, com base em exigências, parâmetros e indicadores de resultado pertinentes ao objeto, definidos com clareza e objetividade no edital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2012.%20O%20certame%20para%20a%20contrata%C3%A7%C3%A3o%20de%20parcerias%20p%C3%BAblico-privadas%20obedecer%C3%A1%20ao%20procedimento%20previsto%20na%20legisla%C3%A7%C3%A3o%20vigente%20sobre%20licita%C3%A7%C3%B5es%20e%20contratos%20administrativos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O edital poderá prever a inversão da ordem das fases de habilitação e julgamento, hipótese em que:\n\nI – encerrada a fase de classificação das propostas ou o oferecimento de lances, será aberto o invólucro com os documentos de habilitação do licitante mais bem classificado, para verificação do atendimento das condições fixadas no edital;\n\nII – verificado o atendimento das exigências do edital, o licitante será declarado vencedor;\n\nIII – inabilitado o licitante melhor classificado, serão analisados os documentos habilitatórios do licitante com a proposta classificada em 2º (segundo) lugar, e assim, sucessivamente, até que um licitante classificado atenda às condições fixadas no edital;\n\nIV – proclamado o resultado final do certame, o objeto será adjudicado ao vencedor nas condições técnicas e econômicas por ele ofertadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2013.%20O%20edital%20poder%C3%A1%20prever%20a%20invers%C3%A3o%20da%20ordem%20das%20fases%20de%20habilita%C3%A7%C3%A3o%20e%20julgamento%2C%20hip%C3%B3tese%20em%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Será instituído, por decreto, órgão gestor de parcerias público-privadas federais, com competência para: (Vide Decreto nº 5.385, de 2005)\n\nI – definir os serviços prioritários para execução no regime de parceria público-privada;\n\nII – disciplinar os procedimentos para celebração desses contratos;\n\nIII – autorizar a abertura da licitação e aprovar seu edital;\n\nIV – apreciar os relatórios de execução dos contratos.\n\n§ 1º O órgão mencionado no caput deste artigo será composto por indicação nominal de um representante titular e respectivo suplente de cada um dos seguintes órgãos:\n\nI – Ministério do Planejamento, Orçamento e Gestão, ao qual cumprirá a tarefa de coordenação das respectivas atividades;\n\nII – Ministério da Fazenda;\n\nIII – Casa Civil da Presidência da República.\n\n§ 2º Das reuniões do órgão a que se refere o caput deste artigo para examinar projetos de parceria público-privada participará um representante do órgão da Administração Pública direta cuja área de competência seja pertinente ao objeto do contrato em análise.\n\n§ 3º Para deliberação do órgão gestor sobre a contratação de parceria público-privada, o expediente deverá estar instruído com pronunciamento prévio e fundamentado:\n\nI – do Ministério do Planejamento, Orçamento e Gestão, sobre o mérito do projeto;\n\nII – do Ministério da Fazenda, quanto à viabilidade da concessão da garantia e à sua forma, relativamente aos riscos para o Tesouro Nacional e ao cumprimento do limite de que trata o art. 22 desta Lei.\n\n§ 4º Para o desempenho de suas funções, o órgão citado no caput deste artigo poderá criar estrutura de apoio técnico com a presença de representantes de instituições públicas.\n\n§ 5º O órgão de que trata o caput deste artigo remeterá ao Congresso Nacional e ao Tribunal de Contas da União, com periodicidade anual, relatórios de desempenho dos contratos de parceria público-privada.\n\n§ 6º Para fins do atendimento do disposto no inciso V do art. 4º desta Lei, ressalvadas as informações classificadas como sigilosas, os relatórios de que trata o § 5º deste artigo serão disponibilizados ao público, por meio de rede pública de transmissão de dados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2014.%20Ser%C3%A1%20institu%C3%ADdo%2C%20por%20decreto%2C%20%C3%B3rg%C3%A3o%20gestor%20de%20parcerias%20p%C3%BAblico-privadas%20federais%2C%20com%20compet%C3%AAncia%20para%3A%20%28Vide%20Decreto%20n%C2%BA%205.385%2C%20de%202005%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. A Câmara dos Deputados e o Senado Federal, por meio de atos das respectivas Mesas, poderão dispor sobre a matéria de que trata o art. 14 no caso de parcerias público-privadas por eles realizadas, mantida a competência do Ministério da Fazenda descrita no inciso II do § 3º do referido artigo. (Incluído pela Lei nº 13.137, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2014-A.%20A%20C%C3%A2mara%20dos%20Deputados%20e%20o%20Senado%20Federal%2C%20por%20meio%20de%20atos%20das%20respectivas%20Mesas%2C%20poder%C3%A3o%20dispor%20sobre%20a%20mat%C3%A9ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Compete aos Ministérios e às Agências Reguladoras, nas suas respectivas áreas de competência, submeter o edital de licitação ao órgão gestor, proceder à licitação, acompanhar e fiscalizar os contratos de parceria público-privada.\n\nParágrafo único. Os Ministérios e Agências Reguladoras encaminharão ao órgão a que se refere o caput do art. 14 desta Lei, com periodicidade semestral, relatórios circunstanciados acerca da execução dos contratos de parceria público-privada, na forma definida em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2015.%20Compete%20aos%20Minist%C3%A9rios%20e%20%C3%A0s%20Ag%C3%AAncias%20Reguladoras%2C%20nas%20suas%20respectivas%20%C3%A1reas%20de%20compet%C3%AAncia%2C%20submeter%20o%20edital%20de%20licita%C3%A7%C3%A3o%20ao%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Ficam a União, seus fundos especiais, suas autarquias, suas fundações públicas e suas empresas estatais dependentes autorizadas a participar, no limite global de R$ 6.000.000.000,00 (seis bilhões de reais), em Fundo Garantidor de Parcerias Público-Privadas - FGP que terá por finalidade prestar garantia de pagamento de obrigações pecuniárias assumidas pelos parceiros públicos federais, distritais, estaduais ou municipais em virtude das parcerias de que trata esta Lei. (Redação dada pela Lei nº 12.766, de 2012)\n\n§ 1º O FGP terá natureza privada e patrimônio próprio separado do patrimônio dos cotistas, e será sujeito a direitos e obrigações próprios.\n\n§ 2º O patrimônio do Fundo será formado pelo aporte de bens e direitos realizado pelos cotistas, por meio da integralização de cotas e pelos rendimentos obtidos com sua administração.\n\n§ 3º Os bens e direitos transferidos ao Fundo serão avaliados por empresa especializada, que deverá apresentar laudo fundamentado, com indicação dos critérios de avaliação adotados e instruído com os documentos relativos aos bens avaliados.\n\n§ 4º A integralização das cotas poderá ser realizada em dinheiro, títulos da dívida pública, bens imóveis dominicais, bens móveis, inclusive ações de sociedade de economia mista federal excedentes ao necessário para manutenção de seu controle pela União, ou outros direitos com valor patrimonial.\n\n§ 5º O FGP responderá por suas obrigações com os bens e direitos integrantes de seu patrimônio, não respondendo os cotistas por qualquer obrigação do Fundo, salvo pela integralização das cotas que subscreverem.\n\n§ 6º A integralização com bens a que se refere o § 4º deste artigo será feita independentemente de licitação, mediante prévia avaliação e autorização específica do Presidente da República, por proposta do Ministro da Fazenda.\n\n§ 7º O aporte de bens de uso especial ou de uso comum no FGP será condicionado a sua desafetação de forma individualizada.\n\n§ 8º A capitalização do FGP, quando realizada por meio de recursos orçamentários, dar-se-á por ação orçamentária específica para esta finalidade, no âmbito de Encargos Financeiros da União. (Redação dada pela Lei nº 12.409, de 2011)\n\n§ 9º (VETADO). (Incluído e vetado pela Lei nº 12.766, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2016.%20Ficam%20a%20Uni%C3%A3o%2C%20seus%20fundos%20especiais%2C%20suas%20autarquias%2C%20suas%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20e%20suas%20empresas%20estatais%20dependentes%20autorizadas%20a%20participar%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O FGP será criado, administrado, gerido e representado judicial e extrajudicialmente por instituição financeira controlada, direta ou indiretamente, pela União, com observância das normas a que se refere o inciso XXII do art. 4º da Lei nº 4.595, de 31 de dezembro de 1964.\n\n§ 1º O estatuto e o regulamento do FGP serão aprovados em assembléia dos cotistas.\n\n§ 2º A representação da União na assembléia dos cotistas dar-se-á na forma do inciso V do art. 10 do Decreto-Lei nº 147, de 3 de fevereiro de 1967.\n\n§ 3º Caberá à instituição financeira deliberar sobre a gestão e alienação dos bens e direitos do FGP, zelando pela manutenção de sua rentabilidade e liquidez.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2017.%20O%20FGP%20ser%C3%A1%20criado%2C%20administrado%2C%20gerido%20e%20representado%20judicial%20e%20extrajudicialmente%20por%20institui%C3%A7%C3%A3o%20financeira%20controlada%2C%20direta%20ou%20indiretamente%2C%20pela%20Uni%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O estatuto e o regulamento do FGP devem deliberar sobre a política de concessão de garantias, inclusive no que se refere à relação entre ativos e passivos do Fundo. (Redação dada pela Lei nº 12.409, de 2011)\n\n§ 1º A garantia será prestada na forma aprovada pela assembléia dos cotistas, nas seguintes modalidades:\n\nI – fiança, sem benefício de ordem para o fiador;\n\nII – penhor de bens móveis ou de direitos integrantes do patrimônio do FGP, sem transferência da posse da coisa empenhada antes da execução da garantia;\n\nIII – hipoteca de bens imóveis do patrimônio do FGP;\n\nIV – alienação fiduciária, permanecendo a posse direta dos bens com o FGP ou com agente fiduciário por ele contratado antes da execução da garantia;\n\nV – outros contratos que produzam efeito de garantia, desde que não transfiram a titularidade ou posse direta dos bens ao parceiro privado antes da execução da garantia;\n\nVI – garantia, real ou pessoal, vinculada a um patrimônio de afetação constituído em decorrência da separação de bens e direitos pertencentes ao FGP.\n\n§ 2º O FGP poderá prestar contra-garantias a seguradoras, instituições financeiras e organismos internacionais que garantirem o cumprimento das obrigações pecuniárias dos cotistas em contratos de parceria público-privadas.\n\n§ 3º A quitação pelo parceiro público de cada parcela de débito garantido pelo FGP importará exoneração proporcional da garantia.\n\n§ 4º O FGP poderá prestar garantia mediante contratação de instrumentos disponíveis em mercado, inclusive para complementação das modalidades previstas no § 1º . (Redação dada pela Lei nº 12.766, de 2012)\n\n§ 5º O parceiro privado poderá acionar o FGP nos casos de: (Redação dada pela Lei nº 12.766, de 2012)\n\nI - crédito líquido e certo, constante de título exigível aceito e não pago pelo parceiro público após 15 (quinze) dias contados da data de vencimento; e (Incluído pela Lei nº 12.766, de 2012)\n\nII - débitos constantes de faturas emitidas e não aceitas pelo parceiro público após 45 (quarenta e cinco) dias contados da data de vencimento, desde que não tenha havido rejeição expressa por ato motivado. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 6º A quitação de débito pelo FGP importará sua subrogação nos direitos do parceiro privado.\n\n§ 7º Em caso de inadimplemento, os bens e direitos do Fundo poderão ser objeto de constrição judicial e alienação para satisfazer as obrigações garantidas.\n\n§ 8º O FGP poderá usar parcela da cota da União para prestar garantia aos seus fundos especiais, às suas autarquias, às suas fundações públicas e às suas empresas estatais dependentes. (Incluído pela Lei nº 12.409, de 2011)\n\n§ 9º O FGP é obrigado a honrar faturas aceitas e não pagas pelo parceiro público. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 10. O FGP é proibido de pagar faturas rejeitadas expressamente por ato motivado. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 11. O parceiro público deverá informar o FGP sobre qualquer fatura rejeitada e sobre os motivos da rejeição no prazo de 40 (quarenta) dias contado da data de vencimento. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 12. A ausência de aceite ou rejeição expressa de fatura por parte do parceiro público no prazo de 40 (quarenta) dias contado da data de vencimento implicará aceitação tácita. (Incluído pela Lei nº 12.766, de 2012)\n\n§ 13. O agente público que contribuir por ação ou omissão para a aceitação tácita de que trata o § 12 ou que rejeitar fatura sem motivação será responsabilizado pelos danos que causar, em conformidade com a legislação civil, administrativa e penal em vigor. (Incluído pela Lei nº 12.766, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2018.%20O%20estatuto%20e%20o%20regulamento%20do%20FGP%20devem%20deliberar%20sobre%20a%20pol%C3%ADtica%20de%20concess%C3%A3o%20de%20garantias%2C%20inclusive%20no%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19 O FGP não pagará rendimentos a seus cotistas, assegurando-se a qualquer deles o direito de requerer o resgate total ou parcial de suas cotas, correspondente ao patrimônio ainda não utilizado para a concessão de garantias, fazendo-se a liquidação com base na situação patrimonial do Fundo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2019%20O%20FGP%20n%C3%A3o%20pagar%C3%A1%20rendimentos%20a%20seus%20cotistas%2C%20assegurando-se%20a%20qualquer%20deles%20o%20direito%20de%20requerer%20o%20resgate%20total%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A dissolução do FGP, deliberada pela assembléia dos cotistas, ficará condicionada à prévia quitação da totalidade dos débitos garantidos ou liberação das garantias pelos credores.\n\nParágrafo único. Dissolvido o FGP, o seu patrimônio será rateado entre os cotistas, com base na situação patrimonial à data da dissolução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2020.%20A%20dissolu%C3%A7%C3%A3o%20do%20FGP%2C%20deliberada%20pela%20assembl%C3%A9ia%20dos%20cotistas%2C%20ficar%C3%A1%20condicionada%20%C3%A0%20pr%C3%A9via%20quita%C3%A7%C3%A3o%20da%20totalidade%20dos%20d%C3%A9bitos%20garantidos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. É facultada a constituição de patrimônio de afetação que não se comunicará com o restante do patrimônio do FGP, ficando vinculado exclusivamente à garantia em virtude da qual tiver sido constituído, não podendo ser objeto de penhora, arresto, seqüestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do FGP.\n\nParágrafo único. A constituição do patrimônio de afetação será feita por registro em Cartório de Registro de Títulos e Documentos ou, no caso de bem imóvel, no Cartório de Registro Imobiliário correspondente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2021.%20%C3%89%20facultada%20a%20constitui%C3%A7%C3%A3o%20de%20patrim%C3%B4nio%20de%20afeta%C3%A7%C3%A3o%20que%20n%C3%A3o%20se%20comunicar%C3%A1%20com%20o%20restante%20do%20patrim%C3%B4nio%20do%20FGP%2C%20ficando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A União somente poderá contratar parceria público-privada quando a soma das despesas de caráter continuado derivadas do conjunto das parcerias já contratadas não tiver excedido, no ano anterior, a 1% (um por cento) da receita corrente líquida do exercício, e as despesas anuais dos contratos vigentes, nos 10 (dez) anos subseqüentes, não excedam a 1% (um por cento) da receita corrente líquida projetada para os respectivos exercícios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2022.%20A%20Uni%C3%A3o%20somente%20poder%C3%A1%20contratar%20parceria%20p%C3%BAblico-privada%20quando%20a%20soma%20das%20despesas%20de%20car%C3%A1ter%20continuado%20derivadas%20do%20conjunto%20das%20parcerias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Fica a União autorizada a conceder incentivo, nos termos do Programa de Incentivo à Implementação de Projetos de Interesse Social – PIPS, instituído pela Lei nº 10.735, de 11 de setembro de 2003, às aplicações em fundos de investimento, criados por instituições financeiras, em direitos creditórios provenientes dos contratos de parcerias público-privadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2023.%20Fica%20a%20Uni%C3%A3o%20autorizada%20a%20conceder%20incentivo%2C%20nos%20termos%20do%20Programa%20de%20Incentivo%20%C3%A0%20Implementa%C3%A7%C3%A3o%20de%20Projetos%20de%20Interesse%20Social",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O Conselho Monetário Nacional estabelecerá, na forma da legislação pertinente, as diretrizes para a concessão de crédito destinado ao financiamento de contratos de parcerias público-privadas, bem como para participação de entidades fechadas de previdência complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2024.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20estabelecer%C3%A1%2C%20na%20forma%20da%20legisla%C3%A7%C3%A3o%20pertinente%2C%20as%20diretrizes%20para%20a%20concess%C3%A3o%20de%20cr%C3%A9dito%20destinado%20ao%20financiamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A Secretaria do Tesouro Nacional editará, na forma da legislação pertinente, normas gerais relativas à consolidação das contas públicas aplicáveis aos contratos de parceria público-privada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2025.%20A%20Secretaria%20do%20Tesouro%20Nacional%20editar%C3%A1%2C%20na%20forma%20da%20legisla%C3%A7%C3%A3o%20pertinente%2C%20normas%20gerais%20relativas%20%C3%A0%20consolida%C3%A7%C3%A3o%20das%20contas%20p%C3%BAblicas%20aplic%C3%A1veis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O inciso I do § 1º do art. 56 da Lei nº 8.666, de 21 de junho de 1993, passa a vigorar com a seguinte redação:\n\n\"Art. 56 ....................................................................................\n\n§ 1º .........................................................................................\n\nI - caução em dinheiro ou em títulos da dívida pública, devendo estes ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda;\n\n.........................................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2026.%20O%20inciso%20I%20do%20%C2%A7%201%C2%BA%20do%20art.%2056%20da%20Lei%20n%C2%BA%208.666%2C%20de%2021%20de%20junho%20de%201993%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As operações de crédito efetuadas por empresas públicas ou sociedades de economia mista controladas pela União não poderão exceder a 70% (setenta por cento) do total das fontes de recursos financeiros da sociedade de propósito específico, sendo que para as áreas das regiões Norte, Nordeste e Centro-Oeste, onde o Índice de Desenvolvimento Humano – IDH seja inferior à média nacional, essa participação não poderá exceder a 80% (oitenta por cento).\n\n§ 1º Não poderão exceder a 80% (oitenta por cento) do total das fontes de recursos financeiros da sociedade de propósito específico ou 90% (noventa por cento) nas áreas das regiões Norte, Nordeste e Centro-Oeste, onde o Índice de Desenvolvimento Humano – IDH seja inferior à média nacional, as operações de crédito ou contribuições de capital realizadas cumulativamente por:\n\nI – entidades fechadas de previdência complementar;\n\nII – empresas públicas ou sociedades de economia mista controladas pela União.\n\n§ 2º Para fins do disposto neste artigo, entende-se por fonte de recursos financeiros as operações de crédito e contribuições de capital à sociedade de propósito específico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2027.%20As%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20efetuadas%20por%20empresas%20p%C3%BAblicas%20ou%20sociedades%20de%20economia%20mista%20controladas%20pela%20Uni%C3%A3o%20n%C3%A3o%20poder%C3%A3o%20exceder%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A União não poderá conceder garantia ou realizar transferência voluntária aos Estados, Distrito Federal e Municípios se a soma das despesas de caráter continuado derivadas do conjunto das parcerias já contratadas por esses entes tiver excedido, no ano anterior, a 5% (cinco por cento) da receita corrente líquida do exercício ou se as despesas anuais dos contratos vigentes nos 10 (dez) anos subsequentes excederem a 5% (cinco por cento) da receita corrente líquida projetada para os respectivos exercícios. (Redação dada pela Lei nº 12.766, de 2012)\n\n§ 1º Os Estados, o Distrito Federal e os Municípios que contratarem empreendimentos por intermédio de parcerias público-privadas deverão encaminhar ao Senado Federal e à Secretaria do Tesouro Nacional, previamente à contratação, as informações necessárias para cumprimento do previsto no caput deste artigo.\n\n§ 2º Na aplicação do limite previsto no caput deste artigo, serão computadas as despesas derivadas de contratos de parceria celebrados pela administração pública direta, autarquias, fundações públicas, empresas públicas, sociedades de economia mista e demais entidades controladas, direta ou indiretamente, pelo respectivo ente, excluídas as empresas estatais não dependentes. (Redação dada pela Lei nº 12.024, de 2009)\n\n§ 3º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2028.%20A%20Uni%C3%A3o%20n%C3%A3o%20poder%C3%A1%20conceder%20garantia%20ou%20realizar%20transfer%C3%AAncia%20volunt%C3%A1ria%20aos%20Estados%2C%20Distrito%20Federal%20e%20Munic%C3%ADpios%20se%20a%20soma%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Serão aplicáveis, no que couber, as penalidades previstas no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, na Lei nº 8.429, de 2 de junho de 1992 – Lei de Improbidade Administrativa, na Lei nº 10.028, de 19 de outubro de 2000 - Lei dos Crimes Fiscais, no Decreto-Lei nº 201, de 27 de fevereiro de 1967, e na Lei nº 1.079, de 10 de abril de 1950, sem prejuízo das penalidades financeiras previstas contratualmente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2029.%20Ser%C3%A3o%20aplic%C3%A1veis%2C%20no%20que%20couber%2C%20as%20penalidades%20previstas%20no%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de%201940%20-%20C%C3%B3digo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 30 de dezembro de 2004; 183º da Independência e 116º da República.\n\nLUIZ INÁCIO LULA DA SILVA Bernard Appy Nelson Machado\n\nEste texto não substitui o publicado no DOU de 31.12.2004\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm#:~:text=Art.%2030.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": null
+    }
+  }
+}

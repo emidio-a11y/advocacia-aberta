@@ -1089,6 +1089,63 @@
     "L6766:4"
    ],
    "justificativa": "O art. 2º define as modalidades de parcelamento (loteamento e desmembramento); o art. 4º os requisitos mínimos; os arts. 11, 12 e 18 tratam da aplicação ao desmembramento, da aprovação do projeto e do registro."
+  },
+  {
+   "id": "lia-improbidade",
+   "grupo": "legislacao",
+   "consulta": "atos de improbidade enriquecimento ilícito dolo",
+   "filtro": {
+    "codigo": "LIA"
+   },
+   "relevantes": [
+    "LIA:9",
+    "LIA:10",
+    "LIA:11",
+    "LIA:1"
+   ],
+   "obrigatorios": [
+    "LIA:9"
+   ],
+   "justificativa": "Os arts. 9º, 10 e 11 tipificam as três espécies de ato de improbidade (enriquecimento ilícito, lesão ao erário e atentado aos princípios); o art. 1º delimita o sistema de responsabilização e a exigência de dolo. O art. 16 (indisponibilidade de bens), também recuperado, é medida processual e não foi julgado relevante."
+  },
+  {
+   "id": "lms-mandado-seguranca",
+   "grupo": "legislacao",
+   "consulta": "mandado de segurança direito líquido e certo prazo cento e vinte dias",
+   "filtro": {
+    "codigo": "LMS"
+   },
+   "relevantes": [
+    "LMS:1",
+    "LMS:23",
+    "LMS:3",
+    "LMS:21",
+    "LMS:22"
+   ],
+   "obrigatorios": [
+    "LMS:1",
+    "LMS:23"
+   ],
+   "justificativa": "O art. 1º define o cabimento do mandado de segurança para direito líquido e certo; o art. 23 fixa o prazo decadencial de 120 dias; o art. 3º trata do titular de direito decorrente; os arts. 21 e 22 disciplinam o mandado de segurança coletivo."
+  },
+  {
+   "id": "lrf-despesa-pessoal",
+   "grupo": "legislacao",
+   "consulta": "despesa total com pessoal limite percentual receita corrente líquida",
+   "filtro": {
+    "codigo": "LRF"
+   },
+   "relevantes": [
+    "LRF:19",
+    "LRF:20",
+    "LRF:23",
+    "LRF:71"
+   ],
+   "obrigatorios": [
+    "LRF:19",
+    "LRF:20"
+   ],
+   "justificativa": "O art. 19 fixa os limites globais da despesa com pessoal sobre a receita corrente líquida; o art. 20 os reparte por Poder e órgão; o art. 23 disciplina a recondução ao limite; o art. 71 traz regra transitória sobre a despesa de pessoal. O art. 4º (conteúdo da LDO) não foi julgado relevante."
   }
  ]
 }

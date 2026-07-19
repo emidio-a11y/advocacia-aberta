@@ -1,0 +1,799 @@
+{
+  "_meta": {
+    "codigo": "DL3365",
+    "nome": "Desapropriação por utilidade pública",
+    "lei": "Decreto-Lei 3.365/1941",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm",
+    "total_artigos": 49,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o A desapropriação por utilidade pública regular-se-á por esta lei, em todo o território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%201o%20A%20desapropria%C3%A7%C3%A3o%20por%20utilidade%20p%C3%BAblica%20regular-se-%C3%A1%20por%20esta%20lei%2C%20em%20todo%20o%20territ%C3%B3rio%20nacional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Mediante declaração de utilidade pública, todos os bens poderão ser desapropriados pela União, pelos Estados, Municípios, Distrito Federal e Territórios.\n\n§ 1o A desapropriação do espaço aéreo ou do subsolo só se tornará necessária, quando de sua utilização resultar prejuizo patrimonial do proprietário do solo.\n\n§ 2º Será exigida autorização legislativa para a desapropriação dos bens de domínio dos Estados, dos Municípios e do Distrito Federal pela União e dos bens de domínio dos Municípios pelos Estados. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 2º-A. Será dispensada a autorização legislativa a que se refere o § 2º quando a desapropriação for realizada mediante acordo entre os entes federativos, no qual serão fixadas as respectivas responsabilidades financeiras quanto ao pagamento das indenizações correspondentes. (Incluído pela Lei nº 14.620, de 2023)\n\n§ 3º É vedada a desapropriação, pelos Estados, Distrito Federal, Territórios e Municípios de ações, cotas e direitos representativos do capital de instituições e emprêsas cujo funcionamento dependa de autorização do Govêrno Federal e se subordine à sua fiscalização, salvo mediante prévia autorização, por decreto do Presidente da República. (Incluído pelo Decreto-lei nº 856, de 1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%202o%20Mediante%20declara%C3%A7%C3%A3o%20de%20utilidade%20p%C3%BAblica%2C%20todos%20os%20bens%20poder%C3%A3o%20ser%20desapropriados%20pela%20Uni%C3%A3o%2C%20pelos%20Estados%2C%20Munic%C3%ADpios%2C%20Distrito%20Federal%20e%20Territ%C3%B3rios.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Poderão promover a desapropriação mediante autorização expressa constante de lei ou contrato: (Redação dada pela Lei nº 14.620, de 2023)\n\nI - os concessionários, inclusive aqueles contratados nos termos da Lei nº 11.079, de 30 de dezembro de 2004 (Lei de Parceria Público-Privada), permissionários, autorizatários e arrendatários; (Redação dada pela Lei nº 14.620, de 2023)\n\nII - as entidades públicas; (Redação dada pela Lei nº 14.273, de 2021) Vigência\n\nIII - as entidades que exerçam funções delegadas do poder público; e (Redação dada pela Lei nº 14.273, de 2021) Vigência\n\nIV - o contratado pelo poder público para fins de execução de obras e serviços de engenharia sob os regimes de empreitada por preço global, empreitada integral e contratação integrada. (Redação dada pela Lei nº 14.620, de 2023)\n\nParágrafo único. Na hipótese prevista no inciso IV do caput, o edital deverá prever expressamente: (Incluído pela Lei nº 14.620, de 2023)\n\nI - o responsável por cada fase do procedimento expropriatório; (Incluído pela Lei nº 14.620, de 2023)\n\nII - o orçamento estimado para sua realização; (Incluído pela Lei nº 14.620, de 2023)\n\nIII - a distribuição objetiva de riscos entre as partes, incluído o risco pela variação do custo das desapropriações em relação ao orçamento estimado. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%203%C2%BA%20Poder%C3%A3o%20promover%20a%20desapropria%C3%A7%C3%A3o%20mediante%20autoriza%C3%A7%C3%A3o%20expressa%20constante%20de%20lei%20ou%20contrato%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.620%2C%20de%202023%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A desapropriação poderá abranger a área contígua necessária ao desenvolvimento da obra a que se destina, e as zonas que se valorizarem extraordinariamente, em consequência da realização do serviço. Em qualquer caso, a declaração de utilidade pública deverá compreendê-las, mencionando-se quais as indispensaveis à continuação da obra e as que se destinam à revenda.\n\nParágrafo único. Quando a desapropriação executada pelos autorizados a que se refere o art. 3º destinar-se a planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo previstos no plano diretor, o edital de licitação poderá prever que a receita decorrente da revenda ou da utilização imobiliária integre projeto associado por conta e risco do contratado, garantido ao poder público responsável pela contratação, no mínimo, o ressarcimento dos desembolsos com indenizações, quando essas ficarem sob sua responsabilidade. (Redação dada pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%204o%20A%20desapropria%C3%A7%C3%A3o%20poder%C3%A1%20abranger%20a%20%C3%A1rea%20cont%C3%ADgua%20necess%C3%A1ria%20ao%20desenvolvimento%20da%20obra%20a%20que%20se%20destina%2C%20e%20as%20zonas%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "4-A"
+    },
+    "4-A": {
+      "numero": "4-A",
+      "texto": "Art. 4º-A. Quando o imóvel a ser desapropriado caracterizar-se como núcleo urbano informal ocupado predominantemente por população de baixa renda, nos termos do § 2º do art. 9º da Lei nº 13.465, de 11 de julho de 2017, e seu regulamento, o ente expropriante deverá prever, no planejamento da ação de desapropriação, medidas compensatórias. (Incluído pela Lei nº 14.620, de 2023)\n\n§ 1º As medidas compensatórias a que se refere o caput incluem a realocação de famílias em outra unidade habitacional, a indenização de benfeitorias ou a compensação financeira suficiente para assegurar o restabelecimento da família em outro local, exigindo-se, para este fim, o prévio cadastramento dos ocupantes. (Incluído pela Lei nº 14.620, de 2023)\n\n§ 2º Poderá ser equiparada à família ou à pessoa de baixa renda aquela ocupante da área que, por sua situação fática específica, apresente condição de vulnerabilidade, conforme definido pelo expropriante. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%204%C2%BA-A.%20Quando%20o%20im%C3%B3vel%20a%20ser%20desapropriado%20caracterizar-se%20como%20n%C3%BAcleo%20urbano%20informal%20ocupado%20predominantemente%20por%20popula%C3%A7%C3%A3o%20de%20baixa%20renda%2C%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Consideram-se casos de utilidade pública:\n\na) a segurança nacional;\n\nb) a defesa do Estado;\n\nc) o socorro público em caso de calamidade;\n\nd) a salubridade pública;\n\ne) a criação e melhoramento de centros de população, seu abastecimento regular de meios de subsistência;\n\nf) o aproveitamento industrial das minas e das jazidas minerais, das águas e da energia hidráulica;\n\ng) a assistência pública, as obras de higiene e decoração, casas de saude, clínicas, estações de clima e fontes medicinais;\n\nh) a exploração ou a conservação dos serviços públicos;\n\ni) a abertura, conservação e melhoramento de vias ou logradouros públicos; a execução de planos de urbanização; o parcelamento do solo, com ou sem edificação, para sua melhor utilização econômica, higiênica ou estética; a construção ou ampliação de distritos industriais; (Redação dada pela Lei nº 9.785, de 1999)\n\nj) o funcionamento dos meios de transporte coletivo;\n\nk) a preservação e conservação dos monumentos históricos e artísticos, isolados ou integrados em conjuntos urbanos ou rurais, bem como as medidas necessárias a manter-lhes e realçar-lhes os aspectos mais valiosos ou característicos e, ainda, a proteção de paisagens e locais particularmente dotados pela natureza;\n\nl) a preservação e a conservação adequada de arquivos, documentos e outros bens moveis de valor histórico ou artístico;\n\nm) a construção de edifícios públicos, monumentos comemorativos e cemitérios;\n\nn) a criação de estádios, aeródromos ou campos de pouso para aeronaves;\n\no) a reedição ou divulgação de obra ou invento de natureza científica, artística ou literária;\n\np) os demais casos previstos por leis especiais.\n\n§ 1º - A construção ou ampliação de distritos industriais, de que trata a alínea i do caput deste artigo, inclui o loteamento das áreas necessárias à instalação de indústrias e atividades correlatas, bem como a revenda ou locação dos respectivos lotes a empresas previamente qualificadas. (Incluído pela Lei nº 6.602, de 1978)\n\n§ 2º - A efetivação da desapropriação para fins de criação ou ampliação de distritos industriais depende de aprovação, prévia e expressa, pelo Poder Público competente, do respectivo projeto de implantação. (Incluído pela Lei nº 6.602, de 1978)\n\n§ 3o Ao imóvel desapropriado para implantação de parcelamento popular, destinado às classes de menor renda, não se dará outra utilização nem haverá retrocessão. (Incluído pela Lei nº 9.785, de 1999)\n\n§ 4º Os bens desapropriados para fins de utilidade pública e os direitos decorrentes da respectiva imissão na posse poderão ser alienados a terceiros, locados, cedidos, arrendados, outorgados em regimes de concessão de direito real de uso, de concessão comum ou de parceria público-privada e ainda transferidos como integralização de fundos de investimento ou sociedades de propósito específico. (Redação dada pela Lei nº 14.273, de 2021) Vigência\n\n§ 5º Aplica-se o disposto no § 4º nos casos de desapropriação para fins de execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, desde que seja assegurada a destinação prevista no referido plano de urbanização ou de parcelamento do solo. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 6º Comprovada a inviabilidade ou a perda objetiva de interesse público em manter a destinação do bem prevista no decreto expropriatório, o expropriante deverá adotar uma das seguintes medidas, nesta ordem de preferência: (Incluído pela Lei nº 14.620, de 2023)\n\nI - destinar a área não utilizada para outra finalidade pública; ou (Incluído pela Lei nº 14.620, de 2023)\n\nII - alienar o bem a qualquer interessado, na forma prevista em lei, assegurado o direito de preferência à pessoa física ou jurídica desapropriada. (Incluído pela Lei nº 14.620, de 2023)\n\n§ 7º No caso de desapropriação para fins de execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, as diretrizes do plano de urbanização ou de parcelamento do solo deverão estar previstas no plano diretor, na legislação de uso e ocupação do solo ou em lei municipal específica. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%205o%20Consideram-se%20casos%20de%20utilidade%20p%C3%BAblica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-A",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A declaração de utilidade pública far-se-á por decreto do Presidente da República, Governador, Interventor ou Prefeito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%206o%20A%20declara%C3%A7%C3%A3o%20de%20utilidade%20p%C3%BAblica%20far-se-%C3%A1%20por%20decreto%20do%20Presidente%20da%20Rep%C3%BAblica%2C%20Governador%2C%20Interventor%20ou%20Prefeito.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Declarada a utilidade pública, ficam as autoridades administrativas do expropriante ou seus representantes autorizados a ingressar nas áreas compreendidas na declaração, inclusive para realizar inspeções e levantamentos de campo, podendo recorrer, em caso de resistência, ao auxílio de força policial. (Redação dada pela Lei nº 14.620, de 2023)\n\nParágrafo único. Em caso de dano por excesso ou abuso de poder ou originário das inspeções e levantamentos de campo realizados, cabe indenização por perdas e danos, sem prejuízo da ação penal. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%207%C2%BA%20Declarada%20a%20utilidade%20p%C3%BAblica%2C%20ficam%20as%20autoridades%20administrativas%20do%20expropriante%20ou%20seus%20representantes%20autorizados%20a%20ingressar%20nas%20%C3%A1reas%20compreendidas%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o O Poder Legislativo poderá tomar a iniciativa da desapropriação, cumprindo, neste caso, ao Executivo, praticar os atos necessários à sua efetivação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%208o%20O%20Poder%20Legislativo%20poder%C3%A1%20tomar%20a%20iniciativa%20da%20desapropria%C3%A7%C3%A3o%2C%20cumprindo%2C%20neste%20caso%2C%20ao%20Executivo%2C%20praticar%20os%20atos%20necess%C3%A1rios%20%C3%A0%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Ao Poder Judiciário é vedado, no processo de desapropriação, decidir se se verificam ou não os casos de utilidade pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%209o%20Ao%20Poder%20Judici%C3%A1rio%20%C3%A9%20vedado%2C%20no%20processo%20de%20desapropria%C3%A7%C3%A3o%2C%20decidir%20se%20se%20verificam%20ou%20n%C3%A3o%20os%20casos%20de%20utilidade%20p%C3%BAblica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A desapropriação deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de cinco anos, contados da data da expedição do respectivo decreto e findos os quais este caducará. (Vide Decreto-lei nº 9.282, de 1946)\n\nNeste caso, somente decorrido um ano, poderá ser o mesmo bem objeto de nova declaração.\n\nParágrafo único. Extingue-se em cinco anos o direito de propor ação que vise a indenização por restrições decorrentes de atos do Poder Público. (Incluído pela Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2010.%20A%20desapropria%C3%A7%C3%A3o%20dever%C3%A1%20efetivar-se%20mediante%20acordo%20ou%20intentar-se%20judicialmente%2C%20dentro%20de%20cinco%20anos%2C%20contados%20da%20data%20da%20expedi%C3%A7%C3%A3o%20do%20respectivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. O poder público deverá notificar o proprietário e apresentar-lhe oferta de indenização. (Incluído pela Lei nº 13.867, de 2019)\n\n§ 1º A notificação de que trata o caput deste artigo conterá: (Incluído pela Lei nº 13.867, de 2019)\n\nI - cópia do ato de declaração de utilidade pública; (Incluído pela Lei nº 13.867, de 2019)\n\nII - planta ou descrição dos bens e suas confrontações; (Incluído pela Lei nº 13.867, de 2019)\n\nIII - valor da oferta; (Incluído pela Lei nº 13.867, de 2019)\n\nIV - informação de que o prazo para aceitar ou rejeitar a oferta é de 15 (quinze) dias e de que o silêncio será considerado rejeição; (Incluído pela Lei nº 13.867, de 2019)\n\nV - (VETADO). (Incluído pela Lei nº 13.867, de 2019)\n\n§ 2º Aceita a oferta e realizado o pagamento, será lavrado acordo, o qual será título hábil para a transcrição no registro de imóveis. (Incluído pela Lei nº 13.867, de 2019)\n\n§ 3º Rejeitada a oferta, ou transcorrido o prazo sem manifestação, o poder público procederá na forma dos arts. 11 e seguintes deste Decreto-Lei. (Incluído pela Lei nº 13.867, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2010-A.%20O%20poder%20p%C3%BAblico%20dever%C3%A1%20notificar%20o%20propriet%C3%A1rio%20e%20apresentar-lhe%20oferta%20de%20indeniza%C3%A7%C3%A3o.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.867%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "10-B"
+    },
+    "10-B": {
+      "numero": "10-B",
+      "texto": "Art. 10-B. Feita a opção pela mediação ou pela via arbitral, o particular indicará um dos órgãos ou instituições especializados em mediação ou arbitragem previamente cadastrados pelo órgão responsável pela desapropriação. (Incluído pela Lei nº 13.867, de 2019)\n\n§ 1º A mediação seguirá as normas da Lei nº 13.140, de 26 de junho de 2015, e, subsidiariamente, os regulamentos do órgão ou instituição responsável. (Incluído pela Lei nº 13.867, de 2019)\n\n§ 2º Poderá ser eleita câmara de mediação criada pelo poder público, nos termos do art. 32 da Lei nº 13.140, de 26 de junho de 2015. (Incluído pela Lei nº 13.867, de 2019)\n\n§ 3º (VETADO). (Incluído pela Lei nº 13.867, de 2019)\n\n§ 4º A arbitragem seguirá as normas da Lei nº 9.307, de 23 de setembro de 1996, e, subsidiariamente, os regulamentos do órgão ou instituição responsável. (Incluído pela Lei nº 13.867, de 2019)\n\n§ 5º (VETADO). (Incluído pela Lei nº 13.867, de 2019)\n\nDO PROCESSO JUDICIAL",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2010-B.%20Feita%20a%20op%C3%A7%C3%A3o%20pela%20media%C3%A7%C3%A3o%20ou%20pela%20via%20arbitral%2C%20o%20particular%20indicar%C3%A1%20um%20dos%20%C3%B3rg%C3%A3os%20ou%20institui%C3%A7%C3%B5es%20especializados%20em%20media%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A ação, quando a União for autora, será proposta no Distrito Federal ou no foro da Capital do Estado onde for domiciliado o réu, perante o juizo privativo, se houver; sendo outro o autor, no foro da situação dos bens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2011.%20A%20a%C3%A7%C3%A3o%2C%20quando%20a%20Uni%C3%A3o%20for%20autora%2C%20ser%C3%A1%20proposta%20no%20Distrito%20Federal%20ou%20no%20foro%20da%20Capital%20do%20Estado%20onde",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-B",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Somente os juizes que tiverem garantia de vitaliciedade, inamovibilidade e irredutibilidade de vencimentos poderão conhecer dos processos de desapropriação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2012.%20Somente%20os%20juizes%20que%20tiverem%20garantia%20de%20vitaliciedade%2C%20inamovibilidade%20e%20irredutibilidade%20de%20vencimentos%20poder%C3%A3o%20conhecer%20dos%20processos%20de%20desapropria%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A petição inicial, alem dos requisitos previstos no Código de Processo Civil, conterá a oferta do preço e será instruida com um exemplar do contrato, ou do jornal oficial que houver publicado o decreto de desapropriação, ou cópia autenticada dos mesmos, e a planta ou descrição dos bens e suas confrontações.\n\nParágrafo único. Sendo o valor da causa igual ou inferior a dois contos de réis (2:000$0), dispensam-se os autos suplementares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2013.%20A%20peti%C3%A7%C3%A3o%20inicial%2C%20alem%20dos%20requisitos%20previstos%20no%20C%C3%B3digo%20de%20Processo%20Civil%2C%20conter%C3%A1%20a%20oferta%20do%20pre%C3%A7o%20e%20ser%C3%A1%20instruida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Ao despachar a inicial, o juiz designará um perito de sua livre escolha, sempre que possivel, técnico, para proceder à avaliação dos bens.\n\nParágrafo único. O autor e o réu poderão indicar assistente técnico do perito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2014.%20Ao%20despachar%20a%20inicial%2C%20o%20juiz%20designar%C3%A1%20um%20perito%20de%20sua%20livre%20escolha%2C%20sempre%20que%20possivel%2C%20t%C3%A9cnico%2C%20para%20proceder%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Se o expropriante alegar urgência e depositar quantia arbitrada de conformidade com o art. 685 do Código de Processo Civil, o juiz mandará imití-lo provisoriamente na posse dos bens;\n\nParágrafo único. (Revogado pela Lei nº 2.786, de 1956)\n\n§ 1º A imissão provisória poderá ser feita, independente da citação do réu, mediante o depósito: (Incluído pela Lei nº 2.786, de 1956)\n\na) do preço oferecido, se êste fôr superior a 20 (vinte) vêzes o valor locativo, caso o imóvel esteja sujeito ao impôsto predial; (Incluída pela Lei nº 2.786, de 1956)\n\nb) da quantia correspondente a 20 (vinte) vêzes o valor locativo, estando o imóvel sujeito ao impôsto predial e sendo menor o preço oferecido; (Incluída pela Lei nº 2.786, de 1956)\n\nc) do valor cadastral do imóvel, para fins de lançamento do impôsto territorial, urbano ou rural, caso o referido valor tenha sido atualizado no ano fiscal imediatamente anterior; (Incluída pela Lei nº 2.786, de 1956)\n\nd) não tendo havido a atualização a que se refere o inciso c, o juiz fixará independente de avaliação, a importância do depósito, tendo em vista a época em que houver sido fixado originàlmente o valor cadastral e a valorização ou desvalorização posterior do imóvel. (Incluída pela Lei nº 2.786, de 1956)\n\n§ 2º A alegação de urgência, que não poderá ser renovada, obrigará o expropriante a requerer a imissão provisória dentro do prazo improrrogável de 120 (cento e vinte) dias. (Incluído pela Lei nº 2.786, de 1956)\n\n§ 3º Excedido o prazo fixado no parágrafo anterior não será concedida a imissão provisória. (Incluído pela Lei nº 2.786, de 1956)\n\n§ 4o A imissão provisória na posse será registrada no registro de imóveis competente. (Incluído pela Lei nº 11.977, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2015.%20Se%20o%20expropriante%20alegar%20urg%C3%AAncia%20e%20depositar%20quantia%20arbitrada%20de%20conformidade%20com%20o%20art.%20685%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15-A"
+    },
+    "15-A": {
+      "numero": "15-A",
+      "texto": "Art. 15-A. No caso de imissão prévia na posse, na desapropriação por necessidade ou utilidade pública ou na desapropriação por interesse social prevista na Lei nº 4.132, de 10 de setembro de 1962, na hipótese de haver divergência entre o preço ofertado em juízo e o valor do bem fixado na sentença, expressos em termos reais, poderão incidir juros compensatórios de até 6% a.a. (seis por cento ao ano) sobre o valor da diferença eventualmente apurada, contado da data de imissão na posse, vedada a aplicação de juros compostos. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 1º Os juros compensatórios destinam-se apenas a compensar danos correspondentes a lucros cessantes comprovadamente sofridos pelo proprietário, não incidindo nas indenizações relativas às desapropriações que tiverem como pressuposto o descumprimento da função social da propriedade, previstas no art. 182, § 4º, inciso III, e no art. 184 da Constituição. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 2º O disposto no caput aplica-se também às ações ordinárias de indenização por apossamento administrativo ou por desapropriação indireta e às ações que visem à indenização por restrições decorrentes de atos do poder público. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 3º Nas ações referidas no § 2º, o poder público não será onerado por juros compensatórios relativos a período anterior à aquisição da propriedade ou da posse titulada pelo autor da ação. (Redação dada pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2015-A.%20No%20caso%20de%20imiss%C3%A3o%20pr%C3%A9via%20na%20posse%2C%20na%20desapropria%C3%A7%C3%A3o%20por%20necessidade%20ou%20utilidade%20p%C3%BAblica%20ou%20na%20desapropria%C3%A7%C3%A3o%20por%20interesse%20social",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "15-B"
+    },
+    "15-B": {
+      "numero": "15-B",
+      "texto": "Art. 15-B Nas ações a que se refere o art. 15-A, os juros moratórios destinam-se a recompor a perda decorrente do atraso no efetivo pagamento da indenização fixada na decisão final de mérito, e somente serão devidos à razão de até seis por cento ao ano, a partir de 1o de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, nos termos do art. 100 da Constituição. (Incluído pela Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2015-B%20Nas%20a%C3%A7%C3%B5es%20a%20que%20se%20refere%20o%20art.%2015-A%2C%20os%20juros%20morat%C3%B3rios%20destinam-se%20a%20recompor%20a%20perda%20decorrente%20do%20atraso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A citação far-se-á por mandado na pessoa do proprietário dos bens; a do marido dispensa a dá mulher; a de um sócio, ou administrador, a dos demais, quando o bem pertencer a sociedade; a do administrador da coisa no caso de condomínio, exceto o de edificio de apartamento constituindo cada um propriedade autonôma, a dos demais condôminos e a do inventariante, e, se não houver, a do cônjuge, herdeiro, ou legatário, detentor da herança, a dos demais interessados, quando o bem pertencer a espólio.\n\nParágrafo único. Quando não encontrar o citando, mas ciente de que se encontra no território da jurisdição do juiz, o oficial portador do mandado marcará desde logo hora certa para a citação, ao fim de 48 horas, independentemente de nova diligência ou despacho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2016.%20A%20cita%C3%A7%C3%A3o%20far-se-%C3%A1%20por%20mandado%20na%20pessoa%20do%20propriet%C3%A1rio%20dos%20bens%3B%20a%20do%20marido%20dispensa%20a%20d%C3%A1%20mulher%3B%20a%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15-B",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Quando a ação não for proposta no foro do domicilio ou da residência do réu, a citação far-se-á por precatória, se ó mesmo estiver em lugar certo, fora do território da jurisdição do juiz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2017.%20Quando%20a%20a%C3%A7%C3%A3o%20n%C3%A3o%20for%20proposta%20no%20foro%20do%20domicilio%20ou%20da%20resid%C3%AAncia%20do%20r%C3%A9u%2C%20a%20cita%C3%A7%C3%A3o%20far-se-%C3%A1%20por%20precat%C3%B3ria%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A citação far-se-á por edital se o citando não for conhecido, ou estiver em lugar ignorado, incerto ou inacessível, ou, ainda, no estrangeiro, o que dois oficiais do juizo certificarão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2018.%20A%20cita%C3%A7%C3%A3o%20far-se-%C3%A1%20por%20edital%20se%20o%20citando%20n%C3%A3o%20for%20conhecido%2C%20ou%20estiver%20em%20lugar%20ignorado%2C%20incerto%20ou%20inacess%C3%ADvel%2C%20ou%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Feita a citação, a causa seguirá com o rito ordinário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2019.%20Feita%20a%20cita%C3%A7%C3%A3o%2C%20a%20causa%20seguir%C3%A1%20com%20o%20rito%20ordin%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A contestação só poderá versar sobre vício do processo judicial ou impugnação do preço; qualquer outra questão deverá ser decidida por ação direta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2020.%20A%20contesta%C3%A7%C3%A3o%20s%C3%B3%20poder%C3%A1%20versar%20sobre%20v%C3%ADcio%20do%20processo%20judicial%20ou%20impugna%C3%A7%C3%A3o%20do%20pre%C3%A7o%3B%20qualquer%20outra%20quest%C3%A3o%20dever%C3%A1%20ser%20decidida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A instância não se interrompe. No caso de falecimento do réu, ou perda de sua capacidade civil, o juiz, logo que disso tenha conhecimento, nomeará curador à lide, ate que se lhe habilite o interessado.\n\nParágrafo único. Os atos praticados da data do falecimento ou perda da capacidade à investidura do curador à lide poderão ser ratificados ou impugnados por ele, ou pelo representante do espólio, ou do incapaz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2021.%20A%20inst%C3%A2ncia%20n%C3%A3o%20se%20interrompe.%20No%20caso%20de%20falecimento%20do%20r%C3%A9u%2C%20ou%20perda%20de%20sua%20capacidade%20civil%2C%20o%20juiz%2C%20logo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Havendo concordância sobre o preço, o juiz o homologará por sentença no despacho saneador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2022.%20Havendo%20concord%C3%A2ncia%20sobre%20o%20pre%C3%A7o%2C%20o%20juiz%20o%20homologar%C3%A1%20por%20senten%C3%A7a%20no%20despacho%20saneador.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Findo o prazo para a contestação e não havendo concordância expressa quanto ao preço, o perito apresentará o laudo em cartório até cinco dias, pelo menos, antes da audiência de instrução e julgamento.\n\n§ 1o O perito poderá requisitar das autoridades públicas os esclarecimentos ou documentos que se tornarem necessários à elaboração do laudo, e deverá indicar nele, entre outras circunstâncias atendiveis para a fixação da indenização, as enumeradas no art. 27.\n\nSer-lhe-ão abonadas, como custas, as despesas com certidões e, a arbítrio do juiz, as de outros documentos que juntar ao laudo.\n\n§ 2o Antes de proferido o despacho saneador, poderá o perito solicitar prazo especial para apresentação do laudo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2023.%20Findo%20o%20prazo%20para%20a%20contesta%C3%A7%C3%A3o%20e%20n%C3%A3o%20havendo%20concord%C3%A2ncia%20expressa%20quanto%20ao%20pre%C3%A7o%2C%20o%20perito%20apresentar%C3%A1%20o%20laudo%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Na audiência de instrução e julgamento proceder-se-á na conformidade do Código de Processo Civil. Encerrado o debate, o juiz proferirá sentença fixando o preço da indenização.\n\nParágrafo único. Se não se julgar habilitado a decidir, o juiz designará desde logo outra audiência que se realizará dentro de 10 dias afim de publicar a sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2024.%20Na%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%20proceder-se-%C3%A1%20na%20conformidade%20do%20C%C3%B3digo%20de%20Processo%20Civil.%20Encerrado%20o%20debate%2C%20o%20juiz%20proferir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O principal e os acessórios serão computados em parcelas autônomas.\n\nParágrafo único. O juiz poderá arbitrar quantia módica para desmonte e transporte de maquinismos instalados e em funcionamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2025.%20O%20principal%20e%20os%20acess%C3%B3rios%20ser%C3%A3o%20computados%20em%20parcelas%20aut%C3%B4nomas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. No valor da indenização, que será contemporâneo da avaliação, não se incluirão os direitos de terceiros contra o expropriado. (Redação dada pela Lei nº 2.786, de 1956)\n\n§ 1º Serão atendidas as benfeitorias necessárias feitas após a desapropriação; as úteis, quando feitas com autorização do expropriante. (Renumerado do Parágrafo Único pela Lei nº 4.686, de 1965)\n\n§ 2º Decorrido prazo superior a um ano a partir da avaliação, o Juiz ou Tribunal, antes da decisão final, determinará a correção monetária do valor apurado, conforme índice que será fixado, trimestralmente, pela Secretaria de Planejamento da Presidência da República. (Redação dada pela Lei nº 6.306, de 1978)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2026.%20No%20valor%20da%20indeniza%C3%A7%C3%A3o%2C%20que%20ser%C3%A1%20contempor%C3%A2neo%20da%20avalia%C3%A7%C3%A3o%2C%20n%C3%A3o%20se%20incluir%C3%A3o%20os%20direitos%20de%20terceiros%20contra%20o%20expropriado.%20%28Reda%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O juiz indicará na sentença os fatos que motivaram o seu convencimento e deverá atender, especialmente, à estimação dos bens para efeitos fiscais; ao preço de aquisição e interesse que deles aufere o proprietário; à sua situação, estado de conservação e segurança; ao valor venal dos da mesma espécie, nos últimos cinco anos, e à valorização ou depreciação de área remanescente, pertencente ao réu.\n\n§ 1o A sentença que fixar o valor da indenização quando este for superior ao preço oferecido condenará o desapropriante a pagar honorários do advogado, que serão fixados entre meio e cinco por cento do valor da diferença, observado o disposto no § 4o do art. 20 do Código de Processo Civil, não podendo os honorários ultrapassar R$ 151.000,00 (cento e cinqüenta e um mil reais). (Redação dada Medida Provisória nº 2.183-56, de 2001) (Vide ADIN Nº 2332)\n\n§ 2º A transmissão da propriedade, decorrente de desapropriação amigável ou judicial, não ficará sujeita ao impôsto de lucro imobiliário. (Incluído pela Lei nº 2.786, de 1956)\n\n§ 3º O disposto no § 1o deste artigo se aplica: (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nI - ao procedimento contraditório especial, de rito sumário, para o processo de desapropriação de imóvel rural, por interesse social, para fins de reforma agrária; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nII - às ações de indenização por apossamento administrativo ou desapropriação indireta. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 4º O valor a que se refere o § 1o será atualizado, a partir de maio de 2000, no dia 1o de janeiro de cada ano, com base na variação acumulada do Índice de Preços ao Consumidor Amplo - IPCA do respectivo período. (Incluído pela Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2027.%20O%20juiz%20indicar%C3%A1%20na%20senten%C3%A7a%20os%20fatos%20que%20motivaram%20o%20seu%20convencimento%20e%20dever%C3%A1%20atender%2C%20especialmente%2C%20%C3%A0%20estima%C3%A7%C3%A3o%20dos%20bens",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Da sentença que fixar o preço da indenização caberá apelação com efeito simplesmente devolutivo, quando interposta pelo expropriado, e com ambos os efeitos, quando o for pelo expropriante.\n\n§ 1 º A sentença que condenar a Fazenda Pública em quantia superior ao dobro da oferecida fica sujeita ao duplo grau de jurisdição. (Redação dada pela Lei nº 6.071, de 1974)\n\n§ 2o Nas causas de valor igual ou inferior a dois contos de réis (2:000$0), observar-se-á o disposto no art. 839 do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2028.%20Da%20senten%C3%A7a%20que%20fixar%20o%20pre%C3%A7o%20da%20indeniza%C3%A7%C3%A3o%20caber%C3%A1%20apela%C3%A7%C3%A3o%20com%20efeito%20simplesmente%20devolutivo%2C%20quando%20interposta%20pelo%20expropriado%2C%20e%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Efetuado o pagamento ou a consignação, expedir-se-á, em favor do expropriante, mandado de imissão de posse, valendo a sentença como título habil para a transcrição no registro de imoveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2029.%20Efetuado%20o%20pagamento%20ou%20a%20consigna%C3%A7%C3%A3o%2C%20expedir-se-%C3%A1%2C%20em%20favor%20do%20expropriante%2C%20mandado%20de%20imiss%C3%A3o%20de%20posse%2C%20valendo%20a%20senten%C3%A7a%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As custas serão pagas pelo autor se o réu aceitar o preço oferecido; em caso contrário, pelo vencido, ou em proporção, na forma da lei.\n\nDISPOSIÇÕES FINAIS",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2030.%20As%20custas%20ser%C3%A3o%20pagas%20pelo%20autor%20se%20o%20r%C3%A9u%20aceitar%20o%20pre%C3%A7o%20oferecido%3B%20em%20caso%20contr%C3%A1rio%2C%20pelo%20vencido%2C%20ou%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Ficam subrogados no preço quaisquer onus ou direitos que recaiam sobre o bem expropriado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2031.%20Ficam%20subrogados%20no%20pre%C3%A7o%20quaisquer%20onus%20ou%20direitos%20que%20recaiam%20sobre%20o%20bem%20expropriado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O pagamento do preço será prévio e em dinheiro. (Redação dada pela Lei nº 2.786, de 1956)\n\n§ 1o As dívidas fiscais serão deduzidas dos valores depositados, quando inscritas e ajuizadas. (Incluído pela Lei nº 11.977, de 2009)\n\n§ 2o Incluem-se na disposição prevista no § 1o as multas decorrentes de inadimplemento e de obrigações fiscais. (Incluído pela Lei nº 11.977, de 2009)\n\n§ 3o A discussão acerca dos valores inscritos ou executados será realizada em ação própria. (Incluído pela Lei nº 11.977, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2032.%20O%20pagamento%20do%20pre%C3%A7o%20ser%C3%A1%20pr%C3%A9vio%20e%20em%20dinheiro.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%202.786%2C%20de%201956%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O depósito do preço fixado por sentença, à disposição do juiz da causa, é considerado pagamento prévio da indenização.\n\n§ 1º O depósito far-se-á no Banco do Brasil ou, onde este não tiver agência, em estabelecimento bancário acreditado, a critério do juiz. (Renumerado do Parágrafo Único pela Lei nº 2.786, de 1956)\n\n§ 2º O desapropriado, ainda que discorde do preço oferecido, do arbitrado ou do fixado pela sentença, poderá levantar até 80% (oitenta por cento) do depósito feito para o fim previsto neste e no art. 15, observado o processo estabelecido no art. 34. (Incluído pela Lei nº 2.786, de 1956)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2033.%20O%20dep%C3%B3sito%20do%20pre%C3%A7o%20fixado%20por%20senten%C3%A7a%2C%20%C3%A0%20disposi%C3%A7%C3%A3o%20do%20juiz%20da%20causa%2C%20%C3%A9%20considerado%20pagamento%20pr%C3%A9vio%20da%20indeniza%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O levantamento do preço será deferido mediante prova de propriedade, de quitação de dívidas fiscais que recaiam sobre o bem expropriado, e publicação de editais, com o prazo de 10 dias, para conhecimento de terceiros.\n\nParágrafo único. Se o juiz verificar que há dúvida fundada sobre o domínio, o preço ficará em depósito, ressalvada aos interessados a ação própria para disputá-lo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2034.%20O%20levantamento%20do%20pre%C3%A7o%20ser%C3%A1%20deferido%20mediante%20prova%20de%20propriedade%2C%20de%20quita%C3%A7%C3%A3o%20de%20d%C3%ADvidas%20fiscais%20que%20recaiam%20sobre%20o%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "34-A"
+    },
+    "34-A": {
+      "numero": "34-A",
+      "texto": "Art. 34-A. Se houver concordância, reduzida a termo, do expropriado, a decisão concessiva da imissão provisória na posse implicará a aquisição da propriedade pelo expropriante com o consequente registro da propriedade na matrícula do imóvel. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 1o A concordância escrita do expropriado não implica renúncia ao seu direito de questionar o preço ofertado em juízo. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 2o Na hipótese deste artigo, o expropriado poderá levantar 100% (cem por cento) do depósito de que trata o art. 33 deste Decreto-Lei. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 3o Do valor a ser levantado pelo expropriado devem ser deduzidos os valores dispostos nos §§ 1o e 2o do art. 32 deste Decreto-Lei, bem como, a critério do juiz, aqueles tidos como necessários para o custeio das despesas processuais. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 4º Após a apresentação da contestação pelo expropriado, se não houver oposição expressa com relação à validade do decreto desapropriatório, deverá ser determinada a imediata transferência da propriedade do imóvel para o expropriante, independentemente de anuência expressa do expropriado, e prosseguirá o processo somente para resolução das questões litigiosas. (Incluído pela Lei nº 14.421, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2034-A.%20Se%20houver%20concord%C3%A2ncia%2C%20reduzida%20a%20termo%2C%20do%20expropriado%2C%20a%20decis%C3%A3o%20concessiva%20da%20imiss%C3%A3o%20provis%C3%B3ria%20na%20posse%20implicar%C3%A1%20a%20aquisi%C3%A7%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os bens expropriados, uma vez incorporados à Fazenda Pública, não podem ser objeto de reivindicação, ainda que fundada em nulidade do processo de desapropriação. Qualquer ação, julgada procedente, resolver-se-á em perdas e danos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2035.%20Os%20bens%20expropriados%2C%20uma%20vez%20incorporados%20%C3%A0%20Fazenda%20P%C3%BAblica%2C%20n%C3%A3o%20podem%20ser%20objeto%20de%20reivindica%C3%A7%C3%A3o%2C%20ainda%20que%20fundada%20em%20nulidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34-A",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. É permitida a ocupação temporária, que será indenizada, afinal, por ação própria, de terrenos não edificados, vizinhos às obras e necessários à sua realização.\n\nO expropriante prestará caução, quando exigida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2036.%20%C3%89%20permitida%20a%20ocupa%C3%A7%C3%A3o%20tempor%C3%A1ria%2C%20que%20ser%C3%A1%20indenizada%2C%20afinal%2C%20por%20a%C3%A7%C3%A3o%20pr%C3%B3pria%2C%20de%20terrenos%20n%C3%A3o%20edificados%2C%20vizinhos%20%C3%A0s%20obras%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Aquele cujo bem for prejudicado extraordinariamente em sua destinação econômica pela desapropriação de áreas contíguas terá direito a reclamar perdas e danos do expropriante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2037.%20Aquele%20cujo%20bem%20for%20prejudicado%20extraordinariamente%20em%20sua%20destina%C3%A7%C3%A3o%20econ%C3%B4mica%20pela%20desapropria%C3%A7%C3%A3o%20de%20%C3%A1reas%20cont%C3%ADguas%20ter%C3%A1%20direito%20a%20reclamar%20perdas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O réu responderá perante terceiros, e por ação própria, pela omissão ou sonegação de quaisquer informações que possam interessar à marcha do processo ou ao recebimento da indenização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2038.%20O%20r%C3%A9u%20responder%C3%A1%20perante%20terceiros%2C%20e%20por%20a%C3%A7%C3%A3o%20pr%C3%B3pria%2C%20pela%20omiss%C3%A3o%20ou%20sonega%C3%A7%C3%A3o%20de%20quaisquer%20informa%C3%A7%C3%B5es%20que%20possam%20interessar%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A ação de desapropriação pode ser proposta durante as férias forenses, e não se interrompe pela superveniência destas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2039.%20A%20a%C3%A7%C3%A3o%20de%20desapropria%C3%A7%C3%A3o%20pode%20ser%20proposta%20durante%20as%20f%C3%A9rias%20forenses%2C%20e%20n%C3%A3o%20se%20interrompe%20pela%20superveni%C3%AAncia%20destas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O expropriante poderá constituir servidões, mediante indenização na forma desta lei. (Vide Decreto nº 35.851, de 1954)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2040.%20O%20expropriante%20poder%C3%A1%20constituir%20servid%C3%B5es%2C%20mediante%20indeniza%C3%A7%C3%A3o%20na%20forma%20desta%20lei.%20%28Vide%20Decreto%20n%C2%BA%2035.851%2C%20de%201954%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. As disposições desta lei aplicam-se aos processos de desapropriação em curso, não se permitindo depois de sua vigência outros termos e atos além dos por ela admitidos, nem o seu processamento por forma diversa da que por ela é regulada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2041.%20As%20disposi%C3%A7%C3%B5es%20desta%20lei%20aplicam-se%20aos%20processos%20de%20desapropria%C3%A7%C3%A3o%20em%20curso%2C%20n%C3%A3o%20se%20permitindo%20depois%20de%20sua%20vig%C3%AAncia%20outros%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. No que esta lei for omissa aplica-se o Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2042.%20No%20que%20esta%20lei%20for%20omissa%20aplica-se%20o%20C%C3%B3digo%20de%20Processo%20Civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Esta lei entrará em vigor 10 dias depois de publicada, no Distrito Federal, e 30 dias no Estados e Território do Acre, revogadas as disposições em contrário.\n\nRio de Janeiro, em 21 junho de 1941, 120o da Independência e 53o da República.\n\nGETULIO VARGAS Francisco Campos.\n\nEste texto não substitui o publicado no DOU de 18.7.1941\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm#:~:text=Art.%2043.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%2010%20dias%20depois%20de%20publicada%2C%20no%20Distrito%20Federal%2C%20e%2030%20dias%20no%20Estados%20e%20Territ%C3%B3rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": null
+    }
+  }
+}

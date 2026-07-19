@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "codigo": "LACP",
+    "nome": "Ação Civil Pública (ACP)",
+    "lei": "Lei 7.347/1985",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm",
+    "total_artigos": 23,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Regem-se pelas disposições desta Lei, sem prejuízo da ação popular, as ações de responsabilidade por danos morais e patrimoniais causados: (Redação dada pela Lei nº 12.529, de 2011).\n\nl - ao meio-ambiente;\n\nll - ao consumidor;\n\nIII – a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico;\n\nIV - a qualquer outro interesse difuso ou coletivo. (Incluído pela Lei nº 8.078 de 1990)\n\nV - por infração da ordem econômica; (Redação dada pela Lei nº 12.529, de 2011).\n\nVI - à ordem urbanística. (Incluído pela Medida provisória nº 2.180-35, de 2001)\n\nVII – à honra e à dignidade de grupos raciais, étnicos ou religiosos. (Incluído pela Lei nº 12.966, de 2014)\n\nVIII – ao patrimônio público e social. (Incluído pela Lei nº 13.004, de 2014)\n\nParágrafo único. Não será cabível ação civil pública para veicular pretensões que envolvam tributos, contribuições previdenciárias, o Fundo de Garantia do Tempo de Serviço - FGTS ou outros fundos de natureza institucional cujos beneficiários podem ser individualmente determinados. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%201%C2%BA%20Regem-se%20pelas%20disposi%C3%A7%C3%B5es%20desta%20Lei%2C%20sem%20preju%C3%ADzo%20da%20a%C3%A7%C3%A3o%20popular%2C%20as%20a%C3%A7%C3%B5es%20de%20responsabilidade%20por%20danos%20morais%20e%20patrimoniais%20causados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º As ações previstas nesta Lei serão propostas no foro do local onde ocorrer o dano, cujo juízo terá competência funcional para processar e julgar a causa.\n\nParágrafo único A propositura da ação prevenirá a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%202%C2%BA%20As%20a%C3%A7%C3%B5es%20previstas%20nesta%20Lei%20ser%C3%A3o%20propostas%20no%20foro%20do%20local%20onde%20ocorrer%20o%20dano%2C%20cujo%20ju%C3%ADzo%20ter%C3%A1%20compet%C3%AAncia%20funcional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A ação civil poderá ter por objeto a condenação em dinheiro ou o cumprimento de obrigação de fazer ou não fazer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%203%C2%BA%20A%20a%C3%A7%C3%A3o%20civil%20poder%C3%A1%20ter%20por%20objeto%20a%20condena%C3%A7%C3%A3o%20em%20dinheiro%20ou%20o%20cumprimento%20de%20obriga%C3%A7%C3%A3o%20de%20fazer%20ou%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Poderá ser ajuizada ação cautelar para os fins desta Lei, objetivando, inclusive, evitar dano ao patrimônio público e social, ao meio ambiente, ao consumidor, à honra e à dignidade de grupos raciais, étnicos ou religiosos, à ordem urbanística ou aos bens e direitos de valor artístico, estético, histórico, turístico e paisagístico. (Redação dada pela Lei nº 13.004, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%204o%20Poder%C3%A1%20ser%20ajuizada%20a%C3%A7%C3%A3o%20cautelar%20para%20os%20fins%20desta%20Lei%2C%20objetivando%2C%20inclusive%2C%20evitar%20dano%20ao%20patrim%C3%B4nio%20p%C3%BAblico%20e%20social%2C%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Têm legitimidade para propor a ação principal e a ação cautelar: (Redação dada pela Lei nº 11.448, de 2007).\n\nI - o Ministério Público; (Redação dada pela Lei nº 11.448, de 2007).\n\nII - a Defensoria Pública; (Redação dada pela Lei nº 11.448, de 2007).\n\nIII - a União, os Estados, o Distrito Federal e os Municípios; (Incluído pela Lei nº 11.448, de 2007).\n\nIV - a autarquia, empresa pública, fundação ou sociedade de economia mista; (Incluído pela Lei nº 11.448, de 2007).\n\nV - a associação que, concomitantemente: (Incluído pela Lei nº 11.448, de 2007).\n\na) esteja constituída há pelo menos 1 (um) ano nos termos da lei civil; (Incluído pela Lei nº 11.448, de 2007).\n\nb) inclua, entre suas finalidades institucionais, a proteção ao patrimônio público e social, ao meio ambiente, ao consumidor, à ordem econômica, à livre concorrência, aos direitos de grupos raciais, étnicos ou religiosos ou ao patrimônio artístico, estético, histórico, turístico e paisagístico. (Redação dada pela Lei nº 13.004, de 2014)\n\n§ 1º O Ministério Público, se não intervier no processo como parte, atuará obrigatoriamente como fiscal da lei.\n\n§ 2º Fica facultado ao Poder Público e a outras associações legitimadas nos termos deste artigo habilitar-se como litisconsortes de qualquer das partes.\n\n§ 3º Em caso de desistência infundada ou abandono da ação por associação legitimada, o Ministério Público ou outro legitimado assumirá a titularidade ativa. (Redação dada pela Lei nº 8.078, de 1990)\n\n§ 4.° O requisito da pré-constituição poderá ser dispensado pelo juiz, quando haja manifesto interesse social evidenciado pela dimensão ou característica do dano, ou pela relevância do bem jurídico a ser protegido. (Incluído pela Lei nª 8.078, de 11.9.1990)\n\n§ 5.° Admitir-se-á o litisconsórcio facultativo entre os Ministérios Públicos da União, do Distrito Federal e dos Estados na defesa dos interesses e direitos de que cuida esta lei. (Incluído pela Lei nª 8.078, de 11.9.1990) (Vide Mensagem de veto)\n\n§ 6° Os órgãos públicos legitimados poderão tomar dos interessados compromisso de ajustamento de sua conduta às exigências legais, mediante cominações, que terá eficácia de título executivo extrajudicial. (Incluído pela Lei nª 8.078, de 11.9.1990) (Vide Mensagem de veto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%205o%20T%C3%AAm%20legitimidade%20para%20propor%20a%20a%C3%A7%C3%A3o%20principal%20e%20a%20a%C3%A7%C3%A3o%20cautelar%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2011.448%2C%20de%202007%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Qualquer pessoa poderá e o servidor público deverá provocar a iniciativa do Ministério Público, ministrando-lhe informações sobre fatos que constituam objeto da ação civil e indicando-lhe os elementos de convicção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%206%C2%BA%20Qualquer%20pessoa%20poder%C3%A1%20e%20o%20servidor%20p%C3%BAblico%20dever%C3%A1%20provocar%20a%20iniciativa%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20ministrando-lhe%20informa%C3%A7%C3%B5es%20sobre%20fatos%20que%20constituam",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Se, no exercício de suas funções, os juízes e tribunais tiverem conhecimento de fatos que possam ensejar a propositura da ação civil, remeterão peças ao Ministério Público para as providências cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%207%C2%BA%20Se%2C%20no%20exerc%C3%ADcio%20de%20suas%20fun%C3%A7%C3%B5es%2C%20os%20ju%C3%ADzes%20e%20tribunais%20tiverem%20conhecimento%20de%20fatos%20que%20possam%20ensejar%20a%20propositura%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Para instruir a inicial, o interessado poderá requerer às autoridades competentes as certidões e informações que julgar necessárias, a serem fornecidas no prazo de 15 (quinze) dias.\n\n§ 1º O Ministério Público poderá instaurar, sob sua presidência, inquérito civil, ou requisitar, de qualquer organismo público ou particular, certidões, informações, exames ou perícias, no prazo que assinalar, o qual não poderá ser inferior a 10 (dez) dias úteis.\n\n§ 2º Somente nos casos em que a lei impuser sigilo, poderá ser negada certidão ou informação, hipótese em que a ação poderá ser proposta desacompanhada daqueles documentos, cabendo ao juiz requisitá-los.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%208%C2%BA%20Para%20instruir%20a%20inicial%2C%20o%20interessado%20poder%C3%A1%20requerer%20%C3%A0s%20autoridades%20competentes%20as%20certid%C3%B5es%20e%20informa%C3%A7%C3%B5es%20que%20julgar%20necess%C3%A1rias%2C%20a%20serem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Se o órgão do Ministério Público, esgotadas todas as diligências, se convencer da inexistência de fundamento para a propositura da ação civil, promoverá o arquivamento dos autos do inquérito civil ou das peças informativas, fazendo-o fundamentadamente.\n\n§ 1º Os autos do inquérito civil ou das peças de informação arquivadas serão remetidos, sob pena de se incorrer em falta grave, no prazo de 3 (três) dias, ao Conselho Superior do Ministério Público.\n\n§ 2º Até que, em sessão do Conselho Superior do Ministério Público, seja homologada ou rejeitada a promoção de arquivamento, poderão as associações legitimadas apresentar razões escritas ou documentos, que serão juntados aos autos do inquérito ou anexados às peças de informação.\n\n§ 3º A promoção de arquivamento será submetida a exame e deliberação do Conselho Superior do Ministério Público, conforme dispuser o seu Regimento.\n\n§ 4º Deixando o Conselho Superior de homologar a promoção de arquivamento, designará, desde logo, outro órgão do Ministério Público para o ajuizamento da ação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%209%C2%BA%20Se%20o%20%C3%B3rg%C3%A3o%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20esgotadas%20todas%20as%20dilig%C3%AAncias%2C%20se%20convencer%20da%20inexist%C3%AAncia%20de%20fundamento%20para%20a%20propositura%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Constitui crime, punido com pena de reclusão de 1 (um) a 3 (três) anos, mais multa de 10 (dez) a 1.000 (mil) Obrigações Reajustáveis do Tesouro Nacional - ORTN, a recusa, o retardamento ou a omissão de dados técnicos indispensáveis à propositura da ação civil, quando requisitados pelo Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2010.%20Constitui%20crime%2C%20punido%20com%20pena%20de%20reclus%C3%A3o%20de%201%20%28um%29%20a%203%20%28tr%C3%AAs%29%20anos%2C%20mais%20multa%20de%2010%20%28dez%29%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Na ação que tenha por objeto o cumprimento de obrigação de fazer ou não fazer, o juiz determinará o cumprimento da prestação da atividade devida ou a cessação da atividade nociva, sob pena de execução específica, ou de cominação de multa diária, se esta for suficiente ou compatível, independentemente de requerimento do autor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2011.%20Na%20a%C3%A7%C3%A3o%20que%20tenha%20por%20objeto%20o%20cumprimento%20de%20obriga%C3%A7%C3%A3o%20de%20fazer%20ou%20n%C3%A3o%20fazer%2C%20o%20juiz%20determinar%C3%A1%20o%20cumprimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Poderá o juiz conceder mandado liminar, com ou sem justificação prévia, em decisão sujeita a agravo.\n\n§ 1º A requerimento de pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, poderá o Presidente do Tribunal a que competir o conhecimento do respectivo recurso suspender a execução da liminar, em decisão fundamentada, da qual caberá agravo para uma das turmas julgadoras, no prazo de 5 (cinco) dias a partir da publicação do ato.\n\n§ 2º A multa cominada liminarmente só será exigível do réu após o trânsito em julgado da decisão favorável ao autor, mas será devida desde o dia em que se houver configurado o descumprimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2012.%20Poder%C3%A1%20o%20juiz%20conceder%20mandado%20liminar%2C%20com%20ou%20sem%20justifica%C3%A7%C3%A3o%20pr%C3%A9via%2C%20em%20decis%C3%A3o%20sujeita%20a%20agravo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Havendo condenação em dinheiro, a indenização pelo dano causado reverterá a um fundo gerido por um Conselho Federal ou por Conselhos Estaduais de que participarão necessariamente o Ministério Público e representantes da comunidade, sendo seus recursos destinados à reconstituição dos bens lesados. (Regulamento) (Regulamento) (Regulamento)\n\n§ 1o. Enquanto o fundo não for regulamentado, o dinheiro ficará depositado em estabelecimento oficial de crédito, em conta com correção monetária. (Renumerado do parágrafo único pela Lei nº 12.288, de 2010)\n\n§ 2o Havendo acordo ou condenação com fundamento em dano causado por ato de discriminação étnica nos termos do disposto no art. 1o desta Lei, a prestação em dinheiro reverterá diretamente ao fundo de que trata o caput e será utilizada para ações de promoção da igualdade étnica, conforme definição do Conselho Nacional de Promoção da Igualdade Racial, na hipótese de extensão nacional, ou dos Conselhos de Promoção de Igualdade Racial estaduais ou locais, nas hipóteses de danos com extensão regional ou local, respectivamente. (Incluído pela Lei nº 12.288, de 2010) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2013.%20Havendo%20condena%C3%A7%C3%A3o%20em%20dinheiro%2C%20a%20indeniza%C3%A7%C3%A3o%20pelo%20dano%20causado%20reverter%C3%A1%20a%20um%20fundo%20gerido%20por%20um%20Conselho%20Federal%20ou%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O juiz poderá conferir efeito suspensivo aos recursos, para evitar dano irreparável à parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2014.%20O%20juiz%20poder%C3%A1%20conferir%20efeito%20suspensivo%20aos%20recursos%2C%20para%20evitar%20dano%20irrepar%C3%A1vel%20%C3%A0%20parte.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Decorridos sessenta dias do trânsito em julgado da sentença condenatória, sem que a associação autora lhe promova a execução, deverá fazê-lo o Ministério Público, facultada igual iniciativa aos demais legitimados. (Redação dada pela Lei nº 8.078, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2015.%20Decorridos%20sessenta%20dias%20do%20tr%C3%A2nsito%20em%20julgado%20da%20senten%C3%A7a%20condenat%C3%B3ria%2C%20sem%20que%20a%20associa%C3%A7%C3%A3o%20autora%20lhe%20promova%20a%20execu%C3%A7%C3%A3o%2C%20dever%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A sentença civil fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator, exceto se o pedido for julgado improcedente por insuficiência de provas, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova. (Redação dada pela Lei nº 9.494, de 10.9.1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2016.%20A%20senten%C3%A7a%20civil%20far%C3%A1%20coisa%20julgada%20erga%20omnes%2C%20nos%20limites%20da%20compet%C3%AAncia%20territorial%20do%20%C3%B3rg%C3%A3o%20prolator%2C%20exceto%20se%20o%20pedido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Em caso de litigância de má-fé, a associação autora e os diretores responsáveis pela propositura da ação serão solidariamente condenados em honorários advocatícios e ao décuplo das custas, sem prejuízo da responsabilidade por perdas e danos. (Renumerado do Parágrafo Único com nova redação pela Lei nº 8.078, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2017.%20Em%20caso%20de%20litig%C3%A2ncia%20de%20m%C3%A1-f%C3%A9%2C%20a%20associa%C3%A7%C3%A3o%20autora%20e%20os%20diretores%20respons%C3%A1veis%20pela%20propositura%20da%20a%C3%A7%C3%A3o%20ser%C3%A3o%20solidariamente%20condenados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Nas ações de que trata esta lei, não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da associação autora, salvo comprovada má-fé, em honorários de advogado, custas e despesas processuais. (Redação dada pela Lei nº 8.078, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2018.%20Nas%20a%C3%A7%C3%B5es%20de%20que%20trata%20esta%20lei%2C%20n%C3%A3o%20haver%C3%A1%20adiantamento%20de%20custas%2C%20emolumentos%2C%20honor%C3%A1rios%20periciais%20e%20quaisquer%20outras%20despesas%2C%20nem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Aplica-se à ação civil pública, prevista nesta Lei, o Código de Processo Civil, aprovado pela Lei nº 5.869, de 11 de janeiro de 1973, naquilo em que não contrarie suas disposições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2019.%20Aplica-se%20%C3%A0%20a%C3%A7%C3%A3o%20civil%20p%C3%BAblica%2C%20prevista%20nesta%20Lei%2C%20o%20C%C3%B3digo%20de%20Processo%20Civil%2C%20aprovado%20pela%20Lei%20n%C2%BA%205.869%2C%20de%2011",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O fundo de que trata o art. 13 desta Lei será regulamentado pelo Poder Executivo no prazo de 90 (noventa) dias. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2020.%20O%20fundo%20de%20que%20trata%20o%20art.%2013%20desta%20Lei%20ser%C3%A1%20regulamentado%20pelo%20Poder%20Executivo%20no%20prazo%20de%2090%20%28noventa%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Aplicam-se à defesa dos direitos e interesses difusos, coletivos e individuais, no que for cabível, os dispositivos do Título III da lei que instituiu o Código de Defesa do Consumidor. (Incluído Lei nº 8.078, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2021.%20Aplicam-se%20%C3%A0%20defesa%20dos%20direitos%20e%20interesses%20difusos%2C%20coletivos%20e%20individuais%2C%20no%20que%20for%20cab%C3%ADvel%2C%20os%20dispositivos%20do%20T%C3%ADtulo%20III",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Esta lei entra em vigor na data de sua publicação. (Renumerado do art. 21, pela Lei nº 8.078, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2022.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.%20%28Renumerado%20do%20art.%2021%2C%20pela%20Lei%20n%C2%BA%208.078%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Revogam-se as disposições em contrário. (Renumerado do art. 22, pela Lei nº 8.078, de 1990)\n\nBrasília, em 24 de julho de 1985; 164º da Independência e 97º da República.\n\nJOSÉ SARNEY Fernando Lyra\n\nEste texto não substitui o publicado no DOU de 25.7.1985\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm#:~:text=Art.%2023.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.%20%28Renumerado%20do%20art.%2022%2C%20pela%20Lei%20n%C2%BA%208.078%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,1343 @@
+{
+  "_meta": {
+    "codigo": "LRF",
+    "nome": "Responsabilidade Fiscal (LRF)",
+    "lei": "Lei Complementar 101/2000",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm",
+    "total_artigos": 83,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei Complementar estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, com amparo no Capítulo II do Título VI da Constituição.\n\n§ 1o A responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a obediência a limites e condições no que tange a renúncia de receita, geração de despesas com pessoal, da seguridade social e outras, dívidas consolidada e mobiliária, operações de crédito, inclusive por antecipação de receita, concessão de garantia e inscrição em Restos a Pagar.\n\n§ 2o As disposições desta Lei Complementar obrigam a União, os Estados, o Distrito Federal e os Municípios.\n\n§ 3o Nas referências:\n\nI - à União, aos Estados, ao Distrito Federal e aos Municípios, estão compreendidos:\n\na) o Poder Executivo, o Poder Legislativo, neste abrangidos os Tribunais de Contas, o Poder Judiciário e o Ministério Público;\n\nb) as respectivas administrações diretas, fundos, autarquias, fundações e empresas estatais dependentes;\n\nII - a Estados entende-se considerado o Distrito Federal;\n\nIII - a Tribunais de Contas estão incluídos: Tribunal de Contas da União, Tribunal de Contas do Estado e, quando houver, Tribunal de Contas dos Municípios e Tribunal de Contas do Município.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%201o%20Esta%20Lei%20Complementar%20estabelece%20normas%20de%20finan%C3%A7as%20p%C3%BAblicas%20voltadas%20para%20a%20responsabilidade%20na%20gest%C3%A3o%20fiscal%2C%20com%20amparo%20no%20Cap%C3%ADtulo%20II",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Para os efeitos desta Lei Complementar, entende-se como:\n\nI - ente da Federação: a União, cada Estado, o Distrito Federal e cada Município;\n\nII - empresa controlada: sociedade cuja maioria do capital social com direito a voto pertença, direta ou indiretamente, a ente da Federação;\n\nIII - empresa estatal dependente: empresa controlada que receba do ente controlador recursos financeiros para pagamento de despesas com pessoal ou de custeio em geral ou de capital, excluídos, no último caso, aqueles provenientes de aumento de participação acionária; (Regulamento)\n\nIV - receita corrente líquida: somatório das receitas tributárias, de contribuições, patrimoniais, industriais, agropecuárias, de serviços, transferências correntes e outras receitas também correntes, deduzidos:\n\na) na União, os valores transferidos aos Estados e Municípios por determinação constitucional ou legal, e as contribuições mencionadas na alínea a do inciso I e no inciso II do art. 195, e no art. 239 da Constituição;\n\na) na União, os valores transferidos aos Estados, Distrito Federal e Municípios por determinação constitucional ou legal, inclusive os valores entregues aos Estados e ao Distrito Federal por meio do Fundo instituído pelo art. 159-A da Constituição, e as contribuições mencionadas na alínea “a” do inciso I e no inciso II do art. 195, e no art. 239 da Constituição; (Redação dada pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nb) nos Estados, as parcelas entregues aos Municípios por determinação constitucional;\n\nc) na União, nos Estados e nos Municípios, a contribuição dos servidores para o custeio do seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira citada no § 9º do art. 201 da Constituição.\n\n§ 1o Serão computados no cálculo da receita corrente líquida os valores pagos e recebidos em decorrência da Lei Complementar no 87, de 13 de setembro de 1996, e do fundo previsto pelo art. 60 do Ato das Disposições Constitucionais Transitórias.\n\n§ 2o Não serão considerados na receita corrente líquida do Distrito Federal e dos Estados do Amapá e de Roraima os recursos recebidos da União para atendimento das despesas de que trata o inciso V do § 1o do art. 19.\n\n§ 3o A receita corrente líquida será apurada somando-se as receitas arrecadadas no mês em referência e nos onze anteriores, excluídas as duplicidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%202o%20Para%20os%20efeitos%20desta%20Lei%20Complementar%2C%20entende-se%20como%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%203o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A lei de diretrizes orçamentárias atenderá o disposto no § 2o do art. 165 da Constituição e:\n\nI - disporá também sobre:\n\na) equilíbrio entre receitas e despesas;\n\nb) critérios e forma de limitação de empenho, a ser efetivada nas hipóteses previstas na alínea b do inciso II deste artigo, no art. 9o e no inciso II do § 1o do art. 31;\n\nc) (VETADO)\n\nd) (VETADO)\n\ne) normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos;\n\nf) demais condições e exigências para transferências de recursos a entidades públicas e privadas;\n\nII - (VETADO)\n\nIII - (VETADO)\n\n§ 1o Integrará o projeto de lei de diretrizes orçamentárias Anexo de Metas Fiscais, em que serão estabelecidas metas anuais, em valores correntes e constantes, relativas a receitas, despesas, resultados nominal e primário e montante da dívida pública, para o exercício a que se referirem e para os dois seguintes.(Vide ADI 7064)\n\n§ 2o O Anexo conterá, ainda:\n\nI - avaliação do cumprimento das metas relativas ao ano anterior;\n\nII - demonstrativo das metas anuais, instruído com memória e metodologia de cálculo que justifiquem os resultados pretendidos, comparando-as com as fixadas nos três exercícios anteriores, e evidenciando a consistência delas com as premissas e os objetivos da política econômica nacional;\n\nIII - evolução do patrimônio líquido, também nos últimos três exercícios, destacando a origem e a aplicação dos recursos obtidos com a alienação de ativos;\n\nIV - avaliação da situação financeira e atuarial:\n\na) dos regimes geral de previdência social e próprio dos servidores públicos e do Fundo de Amparo ao Trabalhador;\n\nb) dos demais fundos públicos e programas estatais de natureza atuarial;\n\nV - demonstrativo da estimativa e compensação da renúncia de receita e da margem de expansão das despesas obrigatórias de caráter continuado.\n\nVI – quadro demonstrativo do cálculo da meta do resultado primário de que trata o § 1º deste artigo, que evidencie os principais agregados de receitas e despesas, os resultados, comparando-os com os valores programados para o exercício em curso e os realizados nos 2 (dois) exercícios anteriores, e as estimativas para o exercício a que se refere a lei de diretrizes orçamentárias e para os subsequentes. (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\n§ 3o A lei de diretrizes orçamentárias conterá Anexo de Riscos Fiscais, onde serão avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas, informando as providências a serem tomadas, caso se concretizem.\n\n§ 4o A mensagem que encaminhar o projeto da União apresentará, em anexo específico, os objetivos das políticas monetária, creditícia e cambial, bem como os parâmetros e as projeções para seus principais agregados e variáveis, e ainda as metas de inflação, para o exercício subseqüente.\n\n§ 5º No caso da União, o Anexo de Metas Fiscais do projeto de lei de diretrizes orçamentárias conterá também: (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\nI - as metas anuais para o exercício a que se referir e para os 3 (três) seguintes, com o objetivo de garantir sustentabilidade à trajetória da dívida pública; (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\nII – o marco fiscal de médio prazo, com projeções para os principais agregados fiscais que compõem os cenários de referência, distinguindo-se as despesas primárias das financeiras e as obrigatórias daquelas discricionárias; (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\nIII - o efeito esperado e a compatibilidade, no período de 10 (dez) anos, do cumprimento das metas de resultado primário sobre a trajetória de convergência da dívida pública, evidenciando o nível de resultados fiscais consistentes com a estabilização da Dívida Bruta do Governo Geral (DBGG) em relação ao Produto Interno Bruto (PIB); (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\nIV - os intervalos de tolerância para verificação do cumprimento das metas anuais de resultado primário, convertido em valores correntes, de menos 0,25 p.p. (vinte e cinco centésimos ponto percentual) e de mais 0,25 p.p. (vinte e cinco centésimos ponto percentual) do PIB previsto no respectivo projeto de lei de diretrizes orçamentárias; (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\nV - os limites e os parâmetros orçamentários dos Poderes e órgãos autônomos compatíveis com as disposições estabelecidas na lei complementar prevista no inciso VIII do caput do art. 163 da Constituição Federal e no art. 6º da Emenda Constitucional nº 126, de 21 de dezembro de 2022; (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\nVI – a estimativa do impacto fiscal, quando couber, das recomendações resultantes da avaliação das políticas públicas previstas no § 16 do art. 37 da Constituição Federal. (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\n§ 6º Os Estados, o Distrito Federal e os Municípios poderão adotar, total ou parcialmente, no que couber, o disposto no § 5º deste artigo. (Incluído pela Lei Complementar nº 200, de 2023) Vigência\n\n§ 7º A lei de diretrizes orçamentárias não poderá dispor sobre a exclusão de quaisquer despesas primárias da apuração da meta de resultado primário dos orçamentos fiscal e da seguridade social. (Incluído pela Lei Complementar nº 200, de 2023) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%204o%20A%20lei%20de%20diretrizes%20or%C3%A7ament%C3%A1rias%20atender%C3%A1%20o%20disposto%20no%20%C2%A7%202o%20do%20art.%20165%20da%20Constitui%C3%A7%C3%A3o%20e%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O projeto de lei orçamentária anual, elaborado de forma compatível com o plano plurianual, com a lei de diretrizes orçamentárias e com as normas desta Lei Complementar:\n\nI - conterá, em anexo, demonstrativo da compatibilidade da programação dos orçamentos com os objetivos e metas constantes do documento de que trata o § 1o do art. 4o;\n\nII - será acompanhado do documento a que se refere o § 6o do art. 165 da Constituição, bem como das medidas de compensação a renúncias de receita e ao aumento de despesas obrigatórias de caráter continuado;\n\nIII - conterá reserva de contingência, cuja forma de utilização e montante, definido com base na receita corrente líquida, serão estabelecidos na lei de diretrizes orçamentárias, destinada ao:\n\na) (VETADO)\n\nb) atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.\n\nIV - conterá a estimativa global de incentivos e benefícios de natureza tributária, financeira e creditícia e para pessoas físicas e jurídicas; e (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nV - conterá, em anexo, a estimativa das despesas financeiras e das despesas primárias obrigatórias e discricionárias, no exercício de sua elaboração e para os 2 (dois) exercícios subsequentes. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 1o Todas as despesas relativas à dívida pública, mobiliária ou contratual, e as receitas que as atenderão, constarão da lei orçamentária anual.\n\n§ 2o O refinanciamento da dívida pública constará separadamente na lei orçamentária e nas de crédito adicional.\n\n§ 3o A atualização monetária do principal da dívida mobiliária refinanciada não poderá superar a variação do índice de preços previsto na lei de diretrizes orçamentárias, ou em legislação específica.\n\n§ 4o É vedado consignar na lei orçamentária crédito com finalidade imprecisa ou com dotação ilimitada.\n\n§ 5o A lei orçamentária não consignará dotação para investimento com duração superior a um exercício financeiro que não esteja previsto no plano plurianual ou em lei que autorize a sua inclusão, conforme disposto no § 1o do art. 167 da Constituição.\n\n§ 6o Integrarão as despesas da União, e serão incluídas na lei orçamentária, as do Banco Central do Brasil relativas a pessoal e encargos sociais, custeio administrativo, inclusive os destinados a benefícios e assistência aos servidores, e a investimentos.\n\n§ 7o (VETADO)\n\n§ 8º As estimativas de que trata o inciso IV do caput deste artigo serão organizadas em anexos específicos com estimativa das renúncias no exercício de referência e nos 2 (dois) exercícios subsequentes. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%205o%20O%20projeto%20de%20lei%20or%C3%A7ament%C3%A1ria%20anual%2C%20elaborado%20de%20forma%20compat%C3%ADvel%20com%20o%20plano%20plurianual%2C%20com%20a%20lei%20de%20diretrizes%20or%C3%A7ament%C3%A1rias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%206o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o O resultado do Banco Central do Brasil, apurado após a constituição ou reversão de reservas, constitui receita do Tesouro Nacional, e será transferido até o décimo dia útil subseqüente à aprovação dos balanços semestrais.\n\n§ 1o O resultado negativo constituirá obrigação do Tesouro para com o Banco Central do Brasil e será consignado em dotação específica no orçamento.\n\n§ 2o O impacto e o custo fiscal das operações realizadas pelo Banco Central do Brasil serão demonstrados trimestralmente, nos termos em que dispuser a lei de diretrizes orçamentárias da União.\n\n§ 3o Os balanços trimestrais do Banco Central do Brasil conterão notas explicativas sobre os custos da remuneração das disponibilidades do Tesouro Nacional e da manutenção das reservas cambiais e a rentabilidade de sua carteira de títulos, destacando os de emissão da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%207o%20O%20resultado%20do%20Banco%20Central%20do%20Brasil%2C%20apurado%20ap%C3%B3s%20a%20constitui%C3%A7%C3%A3o%20ou%20revers%C3%A3o%20de%20reservas%2C%20constitui%20receita%20do%20Tesouro%20Nacional%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Até trinta dias após a publicação dos orçamentos, nos termos em que dispuser a lei de diretrizes orçamentárias e observado o disposto na alínea c do inciso I do art. 4o, o Poder Executivo estabelecerá a programação financeira e o cronograma de execução mensal de desembolso. (Vide Decreto nº 4.959, de 2004) (Vide Decreto nº 5.356, de 2005)\n\nParágrafo único. Os recursos legalmente vinculados a finalidade específica serão utilizados exclusivamente para atender ao objeto de sua vinculação, ainda que em exercício diverso daquele em que ocorrer o ingresso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%208o%20At%C3%A9%20trinta%20dias%20ap%C3%B3s%20a%20publica%C3%A7%C3%A3o%20dos%20or%C3%A7amentos%2C%20nos%20termos%20em%20que%20dispuser%20a%20lei%20de%20diretrizes%20or%C3%A7ament%C3%A1rias%20e%20observado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Se verificado, ao final de um bimestre, que a realização da receita poderá não comportar o cumprimento das metas de resultado primário ou nominal estabelecidas no Anexo de Metas Fiscais, os Poderes e o Ministério Público promoverão, por ato próprio e nos montantes necessários, nos trinta dias subseqüentes, limitação de empenho e movimentação financeira, segundo os critérios fixados pela lei de diretrizes orçamentárias.\n\n§ 1o No caso de restabelecimento da receita prevista, ainda que parcial, a recomposição das dotações cujos empenhos foram limitados dar-se-á de forma proporcional às reduções efetivadas.\n\n§ 2o Não serão objeto de limitação as despesas que constituam obrigações constitucionais e legais do ente, inclusive aquelas destinadas ao pagamento do serviço da dívida, e as ressalvadas pela lei de diretrizes orçamentárias.\n\n§ 2º Não serão objeto de limitação as despesas que constituam obrigações constitucionais e legais do ente, inclusive aquelas destinadas ao pagamento do serviço da dívida, as relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade e as ressalvadas pela lei de diretrizes orçamentárias. (Redação dada pela Lei Complementar nº 177, de 2021)\n\n§ 3o No caso de os Poderes Legislativo e Judiciário e o Ministério Público não promoverem a limitação no prazo estabelecido no caput, é o Poder Executivo autorizado a limitar os valores financeiros segundo os critérios fixados pela lei de diretrizes orçamentárias. (Vide ADI 2238)\n\n§ 4o Até o final dos meses de maio, setembro e fevereiro, o Poder Executivo demonstrará e avaliará o cumprimento das metas fiscais de cada quadrimestre, em audiência pública na comissão referida no § 1o do art. 166 da Constituição ou equivalente nas Casas Legislativas estaduais e municipais.\n\n§ 4º Até o final dos meses de maio, setembro e fevereiro, o Ministro ou Secretário de Estado da Fazenda demonstrará e avaliará o cumprimento das metas fiscais de cada quadrimestre e a trajetória da dívida, em audiência pública na comissão referida no § 1º do art. 166 da Constituição Federal ou conjunta com as comissões temáticas do Congresso Nacional ou equivalente nas Casas Legislativas estaduais e municipais. (Redação dada pela Lei Complementar nº 200, de 2023) Vigência\n\n§ 5o No prazo de noventa dias após o encerramento de cada semestre, o Banco Central do Brasil apresentará, em reunião conjunta das comissões temáticas pertinentes do Congresso Nacional, avaliação do cumprimento dos objetivos e metas das políticas monetária, creditícia e cambial, evidenciando o impacto e o custo fiscal de suas operações e os resultados demonstrados nos balanços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%209o%20Se%20verificado%2C%20ao%20final%20de%20um%20bimestre%2C%20que%20a%20realiza%C3%A7%C3%A3o%20da%20receita%20poder%C3%A1%20n%C3%A3o%20comportar%20o%20cumprimento%20das%20metas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A execução orçamentária e financeira identificará os beneficiários de pagamento de sentenças judiciais, por meio de sistema de contabilidade e administração financeira, para fins de observância da ordem cronológica determinada no art. 100 da Constituição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2010.%20A%20execu%C3%A7%C3%A3o%20or%C3%A7ament%C3%A1ria%20e%20financeira%20identificar%C3%A1%20os%20benefici%C3%A1rios%20de%20pagamento%20de%20senten%C3%A7as%20judiciais%2C%20por%20meio%20de%20sistema%20de%20contabilidade%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Constituem requisitos essenciais da responsabilidade na gestão fiscal a instituição, previsão e efetiva arrecadação de todos os tributos da competência constitucional do ente da Federação.\n\nParágrafo único. É vedada a realização de transferências voluntárias para o ente que não observe o disposto no caput, no que se refere aos impostos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2011.%20Constituem%20requisitos%20essenciais%20da%20responsabilidade%20na%20gest%C3%A3o%20fiscal%20a%20institui%C3%A7%C3%A3o%2C%20previs%C3%A3o%20e%20efetiva%20arrecada%C3%A7%C3%A3o%20de%20todos%20os%20tributos%20da%20compet%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. As previsões de receita observarão as normas técnicas e legais, considerarão os efeitos das alterações na legislação, da variação do índice de preços, do crescimento econômico ou de qualquer outro fator relevante e serão acompanhadas de demonstrativo de sua evolução nos últimos três anos, da projeção para os dois seguintes àquele a que se referirem, e da metodologia de cálculo e premissas utilizadas.\n\n§ 1o Reestimativa de receita por parte do Poder Legislativo só será admitida se comprovado erro ou omissão de ordem técnica ou legal.\n\n§ 2o O montante previsto para as receitas de operações de crédito não poderá ser superior ao das despesas de capital constantes do projeto de lei orçamentária. (Vide ADI 2238)\n\n§ 3o O Poder Executivo de cada ente colocará à disposição dos demais Poderes e do Ministério Público, no mínimo trinta dias antes do prazo final para encaminhamento de suas propostas orçamentárias, os estudos e as estimativas das receitas para o exercício subseqüente, inclusive da corrente líquida, e as respectivas memórias de cálculo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2012.%20As%20previs%C3%B5es%20de%20receita%20observar%C3%A3o%20as%20normas%20t%C3%A9cnicas%20e%20legais%2C%20considerar%C3%A3o%20os%20efeitos%20das%20altera%C3%A7%C3%B5es%20na%20legisla%C3%A7%C3%A3o%2C%20da%20varia%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. No prazo previsto no art. 8o, as receitas previstas serão desdobradas, pelo Poder Executivo, em metas bimestrais de arrecadação, com a especificação, em separado, quando cabível, das medidas de combate à evasão e à sonegação, da quantidade e valores de ações ajuizadas para cobrança da dívida ativa, bem como da evolução do montante dos créditos tributários passíveis de cobrança administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2013.%20No%20prazo%20previsto%20no%20art.%208o%2C%20as%20receitas%20previstas%20ser%C3%A3o%20desdobradas%2C%20pelo%20Poder%20Executivo%2C%20em%20metas%20bimestrais%20de%20arrecada%C3%A7%C3%A3o%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, atender ao disposto na lei de diretrizes orçamentárias e a pelo menos uma das seguintes condições: (Vide Medida Provisória nº 2.159, de 2001) (Vide Lei nº 10.276, de 2001) (Vide ADI 6357)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2014.%20A%20concess%C3%A3o%20ou%20amplia%C3%A7%C3%A3o%20de%20incentivo%20ou%20benef%C3%ADcio%20de%20natureza%20tribut%C3%A1ria%20da%20qual%20decorra%20ren%C3%BAncia%20de%20receita%20dever%C3%A1%20estar%20acompanhada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. A proposição legislativa que trate de concessão, ampliação ou prorrogação de qualquer incentivo ou benefício de natureza tributária que implique renúncia de receita e cujo beneficiário seja pessoa jurídica deverá estar acompanhada de: (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nI - estimativa de quantitativo de beneficiários; (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nII - prazo de vigência, que não poderá ser superior a 5 (cinco) anos; (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nIII - metas de desempenho, que deverão ser objetivas e quantificáveis, em dimensões econômicas, sociais e ambientais; (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nIV - impacto previsto na redução das desigualdades regionais, se for o caso; e (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nV - mecanismos de transparência e de monitoramento e avaliação de resultados em relação às metas de que trata o inciso III deste caput. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 1º O prazo de que trata o inciso II do caput poderá ser superior a 5 (cinco) anos na hipótese de benefícios tributários associados a investimentos de longo prazo, nos termos estabelecidos em regulamento e desde que a proposição legislativa esteja acompanhada de estimativa dos investimentos durante o período em que vigorar o benefício, sem prejuízo de outras metas previstas na forma do inciso III do caput deste artigo. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 2º É vedada a prorrogação de benefícios tributários cujas metas de resultados definidas na forma do inciso III do caput deste artigo não tenham sido atingidas ou cuja avaliação de resultados não tenha sido realizada. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 3º Na hipótese de que trata o § 1º deste artigo, a vigência do benefício tributário fica condicionada à realização periódica de avaliação e ao atingimento de metas de resultados definidas na forma do inciso III do caput deste artigo, a cada 5 (cinco) anos. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 4º A avaliação de resultados em relação às metas de que trata o inciso III do caput deste artigo será realizada por órgão do Poder Executivo multidisciplinar e especializado no monitoramento e avaliação de políticas públicas, nos termos de regulamento. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 5º O disposto neste artigo: (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nI - aplica-se também a proposição legislativa que conceda diferimento de tributos, ressalvado o diferimento que implique postergação do pagamento do tributo: (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\na) por prazo igual ou inferior a 60 (sessenta) meses, para pagamento de forma parcelada, contado daquele em que seria devido o tributo; ou (Incluída pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nb) que, mesmo que concedido por prazo superior ao previsto na alínea “a” deste inciso, abranja a totalidade dos contribuintes de determinada região e seja destinado ao combate aos efeitos de situação de emergência ou estado de calamidade pública reconhecidos na forma da legislação; e (Incluída pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\nII - não se aplica às alterações das alíquotas dos impostos previstos nos incisos I, II, IV e V do caput do art. 153 da Constituição Federal, na forma do § 1º do referido artigo. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2014-A.%20A%20proposi%C3%A7%C3%A3o%20legislativa%20que%20trate%20de%20concess%C3%A3o%2C%20amplia%C3%A7%C3%A3o%20ou%20prorroga%C3%A7%C3%A3o%20de%20qualquer%20incentivo%20ou%20benef%C3%ADcio%20de%20natureza%20tribut%C3%A1ria%20que%20implique",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Serão consideradas não autorizadas, irregulares e lesivas ao patrimônio público a geração de despesa ou assunção de obrigação que não atendam o disposto nos arts. 16 e 17.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2015.%20Ser%C3%A3o%20consideradas%20n%C3%A3o%20autorizadas%2C%20irregulares%20e%20lesivas%20ao%20patrim%C3%B4nio%20p%C3%BAblico%20a%20gera%C3%A7%C3%A3o%20de%20despesa%20ou%20assun%C3%A7%C3%A3o%20de%20obriga%C3%A7%C3%A3o%20que%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "14-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A criação, expansão ou aperfeiçoamento de ação governamental que acarrete aumento da despesa será acompanhado de: (Vide ADI 6357)\n\nI - estimativa do impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subseqüentes;\n\nII - declaração do ordenador da despesa de que o aumento tem adequação orçamentária e financeira com a lei orçamentária anual e compatibilidade com o plano plurianual e com a lei de diretrizes orçamentárias.\n\n§ 1o Para os fins desta Lei Complementar, considera-se:\n\nI - adequada com a lei orçamentária anual, a despesa objeto de dotação específica e suficiente, ou que esteja abrangida por crédito genérico, de forma que somadas todas as despesas da mesma espécie, realizadas e a realizar, previstas no programa de trabalho, não sejam ultrapassados os limites estabelecidos para o exercício;\n\nII - compatível com o plano plurianual e a lei de diretrizes orçamentárias, a despesa que se conforme com as diretrizes, objetivos, prioridades e metas previstos nesses instrumentos e não infrinja qualquer de suas disposições.\n\n§ 2o A estimativa de que trata o inciso I do caput será acompanhada das premissas e metodologia de cálculo utilizadas.\n\n§ 3o Ressalva-se do disposto neste artigo a despesa considerada irrelevante, nos termos em que dispuser a lei de diretrizes orçamentárias.\n\n§ 4o As normas do caput constituem condição prévia para:\n\nI - empenho e licitação de serviços, fornecimento de bens ou execução de obras;\n\nII - desapropriação de imóveis urbanos a que se refere o § 3o do art. 182 da Constituição.\n\nSubseção I\n\nDa Despesa Obrigatória de Caráter Continuado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2016.%20A%20cria%C3%A7%C3%A3o%2C%20expans%C3%A3o%20ou%20aperfei%C3%A7oamento%20de%20a%C3%A7%C3%A3o%20governamental%20que%20acarrete%20aumento%20da%20despesa%20ser%C3%A1%20acompanhado%20de%3A%20%28Vide%20ADI%206357%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Considera-se obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo normativo que fixem para o ente a obrigação legal de sua execução por um período superior a dois exercícios. (Vide ADI 6357)\n\n§ 1o Os atos que criarem ou aumentarem despesa de que trata o caput deverão ser instruídos com a estimativa prevista no inciso I do art. 16 e demonstrar a origem dos recursos para seu custeio. (Vide Lei Complementar nº 176, de 2020)\n\n§ 2o Para efeito do atendimento do § 1o, o ato será acompanhado de comprovação de que a despesa criada ou aumentada não afetará as metas de resultados fiscais previstas no anexo referido no § 1o do art. 4o, devendo seus efeitos financeiros, nos períodos seguintes, ser compensados pelo aumento permanente de receita ou pela redução permanente de despesa. (Vide Lei Complementar nº 176, de 2020)\n\n§ 3o Para efeito do § 2o, considera-se aumento permanente de receita o proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição. (Vide Lei Complementar nº 176, de 2020)\n\n§ 4o A comprovação referida no § 2o, apresentada pelo proponente, conterá as premissas e metodologia de cálculo utilizadas, sem prejuízo do exame de compatibilidade da despesa com as demais normas do plano plurianual e da lei de diretrizes orçamentárias. (Vide Lei Complementar nº 176, de 2020)\n\n§ 5o A despesa de que trata este artigo não será executada antes da implementação das medidas referidas no § 2o, as quais integrarão o instrumento que a criar ou aumentar. (Vide Lei Complementar nº 176, de 2020)\n\n§ 6o O disposto no § 1o não se aplica às despesas destinadas ao serviço da dívida nem ao reajustamento de remuneração de pessoal de que trata o inciso X do art. 37 da Constituição.\n\n§ 7o Considera-se aumento de despesa a prorrogação daquela criada por prazo determinado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2017.%20Considera-se%20obrigat%C3%B3ria%20de%20car%C3%A1ter%20continuado%20a%20despesa%20corrente%20derivada%20de%20lei%2C%20medida%20provis%C3%B3ria%20ou%20ato%20administrativo%20normativo%20que%20fixem%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Para os efeitos desta Lei Complementar, entende-se como despesa total com pessoal: o somatório dos gastos do ente da Federação com os ativos, os inativos e os pensionistas, relativos a mandatos eletivos, cargos, funções ou empregos, civis, militares e de membros de Poder, com quaisquer espécies remuneratórias, tais como vencimentos e vantagens, fixas e variáveis, subsídios, proventos da aposentadoria, reformas e pensões, inclusive adicionais, gratificações, horas extras e vantagens pessoais de qualquer natureza, bem como encargos sociais e contribuições recolhidas pelo ente às entidades de previdência.\n\n§ 1o Os valores dos contratos de terceirização de mão-de-obra que se referem à substituição de servidores e empregados públicos serão contabilizados como \"Outras Despesas de Pessoal\".\n\n§ 2o A despesa total com pessoal será apurada somando-se a realizada no mês em referência com as dos onze imediatamente anteriores, adotando-se o regime de competência.\n\n§ 2º A despesa total com pessoal será apurada somando-se a realizada no mês em referência com as dos 11 (onze) imediatamente anteriores, adotando-se o regime de competência, independentemente de empenho. (Redação dada pela Lei Complementar nº 178, de 2021)\n\n§ 3º Para a apuração da despesa total com pessoal, será observada a remuneração bruta do servidor, sem qualquer dedução ou retenção, ressalvada a redução para atendimento ao disposto no art. 37, inciso XI, da Constituição Federal. (Incluído pela Lei Complementar nº 178, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2018.%20Para%20os%20efeitos%20desta%20Lei%20Complementar%2C%20entende-se%20como%20despesa%20total%20com%20pessoal%3A%20o%20somat%C3%B3rio%20dos%20gastos%20do%20ente%20da%20Federa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Para os fins do disposto no caput do art. 169 da Constituição, a despesa total com pessoal, em cada período de apuração e em cada ente da Federação, não poderá exceder os percentuais da receita corrente líquida, a seguir discriminados:\n\nI - União: 50% (cinqüenta por cento);\n\nII - Estados: 60% (sessenta por cento);\n\nIII - Municípios: 60% (sessenta por cento).\n\n§ 1o Na verificação do atendimento dos limites definidos neste artigo, não serão computadas as despesas:\n\nI - de indenização por demissão de servidores ou empregados;\n\nII - relativas a incentivos à demissão voluntária;\n\nIII - derivadas da aplicação do disposto no inciso II do § 6o do art. 57 da Constituição;\n\nIV - decorrentes de decisão judicial e da competência de período anterior ao da apuração a que se refere o § 2o do art. 18;\n\nV - com pessoal, do Distrito Federal e dos Estados do Amapá e Roraima, custeadas com recursos transferidos pela União na forma dos incisos XIII e XIV do art. 21 da Constituição e do art. 31 da Emenda Constitucional no 19;\n\nVI - com inativos, ainda que por intermédio de fundo específico, custeadas por recursos provenientes:\n\nVI - com inativos e pensionistas, ainda que pagas por intermédio de unidade gestora única ou fundo previsto no art. 249 da Constituição Federal, quanto à parcela custeada por recursos provenientes: (Redação dada pela Lei Complementar nº 178, de 2021)\n\na) da arrecadação de contribuições dos segurados;\n\nb) da compensação financeira de que trata o § 9o do art. 201 da Constituição;\n\nc) das demais receitas diretamente arrecadadas por fundo vinculado a tal finalidade, inclusive o produto da alienação de bens, direitos e ativos, bem como seu superávit financeiro.\n\nc) de transferências destinadas a promover o equilíbrio atuarial do regime de previdência, na forma definida pelo órgão do Poder Executivo federal responsável pela orientação, pela supervisão e pelo acompanhamento dos regimes próprios de previdência social dos servidores públicos. (Redação dada pela Lei Complementar nº 178, de 2021)\n\n§ 2o Observado o disposto no inciso IV do § 1o, as despesas com pessoal decorrentes de sentenças judiciais serão incluídas no limite do respectivo Poder ou órgão referido no art. 20.\n\n§ 3º Na verificação do atendimento dos limites definidos neste artigo, é vedada a dedução da parcela custeada com recursos aportados para a cobertura do déficit financeiro dos regimes de previdência. (Incluído pela Lei Complementar nº 178, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2019.%20Para%20os%20fins%20do%20disposto%20no%20caput%20do%20art.%20169%20da%20Constitui%C3%A7%C3%A3o%2C%20a%20despesa%20total%20com%20pessoal%2C%20em%20cada%20per%C3%ADodo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A repartição dos limites globais do art. 19 não poderá exceder os seguintes percentuais:\n\nI - na esfera federal:\n\na) 2,5% (dois inteiros e cinco décimos por cento) para o Legislativo, incluído o Tribunal de Contas da União;\n\nb) 6% (seis por cento) para o Judiciário;\n\nc) 40,9% (quarenta inteiros e nove décimos por cento) para o Executivo, destacando-se 3% (três por cento) para as despesas com pessoal decorrentes do que dispõem os incisos XIII e XIV do art. 21 da Constituição e o art. 31 da Emenda Constitucional no 19, repartidos de forma proporcional à média das despesas relativas a cada um destes dispositivos, em percentual da receita corrente líquida, verificadas nos três exercícios financeiros imediatamente anteriores ao da publicação desta Lei Complementar; (Vide Decreto nº 3.917, de 2001)\n\nd) 0,6% (seis décimos por cento) para o Ministério Público da União;\n\nII - na esfera estadual:\n\na) 3% (três por cento) para o Legislativo, incluído o Tribunal de Contas do Estado; (Vide ADI 6533)\n\nb) 6% (seis por cento) para o Judiciário; (Vide ADI 6533)\n\nc) 49% (quarenta e nove por cento) para o Executivo; (Vide ADI 6533)\n\nd) 2% (dois por cento) para o Ministério Público dos Estados; (Vide ADI 6533)\n\nIII - na esfera municipal:\n\na) 6% (seis por cento) para o Legislativo, incluído o Tribunal de Contas do Município, quando houver;\n\nb) 54% (cinqüenta e quatro por cento) para o Executivo.\n\n§ 1o Nos Poderes Legislativo e Judiciário de cada esfera, os limites serão repartidos entre seus órgãos de forma proporcional à média das despesas com pessoal, em percentual da receita corrente líquida, verificadas nos três exercícios financeiros imediatamente anteriores ao da publicação desta Lei Complementar. (Vide ADI 6533)\n\n§ 2o Para efeito deste artigo entende-se como órgão:\n\nI - o Ministério Público;\n\nII - no Poder Legislativo:\n\na) Federal, as respectivas Casas e o Tribunal de Contas da União;\n\nb) Estadual, a Assembléia Legislativa e os Tribunais de Contas;\n\nc) do Distrito Federal, a Câmara Legislativa e o Tribunal de Contas do Distrito Federal;\n\nd) Municipal, a Câmara de Vereadores e o Tribunal de Contas do Município, quando houver;\n\nIII - no Poder Judiciário:\n\na) Federal, os tribunais referidos no art. 92 da Constituição;\n\nb) Estadual, o Tribunal de Justiça e outros, quando houver.\n\n§ 3o Os limites para as despesas com pessoal do Poder Judiciário, a cargo da União por força do inciso XIII do art. 21 da Constituição, serão estabelecidos mediante aplicação da regra do § 1o.\n\n§ 4o Nos Estados em que houver Tribunal de Contas dos Municípios, os percentuais definidos nas alíneas a e c do inciso II do caput serão, respectivamente, acrescidos e reduzidos em 0,4% (quatro décimos por cento).\n\n§ 5o Para os fins previstos no art. 168 da Constituição, a entrega dos recursos financeiros correspondentes à despesa total com pessoal por Poder e órgão será a resultante da aplicação dos percentuais definidos neste artigo, ou aqueles fixados na lei de diretrizes orçamentárias.\n\n§ 6o (VETADO)\n\n§ 7º Os Poderes e órgãos referidos neste artigo deverão apurar, de forma segregada para aplicação dos limites de que trata este artigo, a integralidade das despesas com pessoal dos respectivos servidores inativos e pensionistas, mesmo que o custeio dessas despesas esteja a cargo de outro Poder ou órgão. (Incluído pela Lei Complementar nº 178, de 2021)\n\nSubseção II\n\nDo Controle da Despesa Total com Pessoal",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2020.%20A%20reparti%C3%A7%C3%A3o%20dos%20limites%20globais%20do%20art.%2019%20n%C3%A3o%20poder%C3%A1%20exceder%20os%20seguintes%20percentuais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. É nulo de pleno direito o ato que provoque aumento da despesa com pessoal e não atenda:\n\nI - as exigências dos arts. 16 e 17 desta Lei Complementar, e o disposto no inciso XIII do art. 37 e no § 1o do art. 169 da Constituição;\n\nII - o limite legal de comprometimento aplicado às despesas com pessoal inativo.\n\nParágrafo único. Também é nulo de pleno direito o ato de que resulte aumento da despesa com pessoal expedido nos cento e oitenta dias anteriores ao final do mandato do titular do respectivo Poder ou órgão referido no art. 20.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2021.%20%C3%89%20nulo%20de%20pleno%20direito%20o%20ato%20que%20provoque%20aumento%20da%20despesa%20com%20pessoal%20e%20n%C3%A3o%20atenda%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A verificação do cumprimento dos limites estabelecidos nos arts. 19 e 20 será realizada ao final de cada quadrimestre.\n\nParágrafo único. Se a despesa total com pessoal exceder a 95% (noventa e cinco por cento) do limite, são vedados ao Poder ou órgão referido no art. 20 que houver incorrido no excesso:\n\nI - concessão de vantagem, aumento, reajuste ou adequação de remuneração a qualquer título, salvo os derivados de sentença judicial ou de determinação legal ou contratual, ressalvada a revisão prevista no inciso X do art. 37 da Constituição;\n\nII - criação de cargo, emprego ou função;\n\nIII - alteração de estrutura de carreira que implique aumento de despesa;\n\nIV - provimento de cargo público, admissão ou contratação de pessoal a qualquer título, ressalvada a reposição decorrente de aposentadoria ou falecimento de servidores das áreas de educação, saúde e segurança;\n\nV - contratação de hora extra, salvo no caso do disposto no inciso II do § 6o do art. 57 da Constituição e as situações previstas na lei de diretrizes orçamentárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2022.%20A%20verifica%C3%A7%C3%A3o%20do%20cumprimento%20dos%20limites%20estabelecidos%20nos%20arts.%2019%20e%2020%20ser%C3%A1%20realizada%20ao%20final%20de%20cada%20quadrimestre.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Se a despesa total com pessoal, do Poder ou órgão referido no art. 20, ultrapassar os limites definidos no mesmo artigo, sem prejuízo das medidas previstas no art. 22, o percentual excedente terá de ser eliminado nos dois quadrimestres seguintes, sendo pelo menos um terço no primeiro, adotando-se, entre outras, as providências previstas nos §§ 3º e 4o do art. 169 da Constituição.\n\n§ 1o No caso do inciso I do § 3º do art. 169 da Constituição, o objetivo poderá ser alcançado tanto pela extinção de cargos e funções quanto pela redução dos valores a eles atribuídos. (Vide ADI 2238)\n\n§ 2o É facultada a redução temporária da jornada de trabalho com adequação dos vencimentos à nova carga horária. (Vide ADI 2238)\n\n§ 3o Não alcançada a redução no prazo estabelecido, e enquanto perdurar o excesso, o ente não poderá:\n\n§ 3º Não alcançada a redução no prazo estabelecido e enquanto perdurar o excesso, o Poder ou órgão referido no art. 20 não poderá: (Redação dada pela Lei Complementar nº 178, de 2021)\n\nI - receber transferências voluntárias;\n\nII - obter garantia, direta ou indireta, de outro ente;\n\nIII - contratar operações de crédito, ressalvadas as destinadas ao refinanciamento da dívida mobiliária e as que visem à redução das despesas com pessoal.\n\nIII - contratar operações de crédito, ressalvadas as destinadas ao pagamento da dívida mobiliária e as que visem à redução das despesas com pessoal. (Redação dada pela Lei Complementar nº 178, de 2021)\n\n§ 4o As restrições do § 3o aplicam-se imediatamente se a despesa total com pessoal exceder o limite no primeiro quadrimestre do último ano do mandato dos titulares de Poder ou órgão referidos no art. 20.\n\n§ 5º As restrições previstas no § 3º deste artigo não se aplicam ao Município em caso de queda de receita real superior a 10% (dez por cento), em comparação ao correspondente quadrimestre do exercício financeiro anterior, devido a: (Incluído pela Lei Complementar nº 164, de 2018) Produção de efeitos\n\nI – diminuição das transferências recebidas do Fundo de Participação dos Municípios decorrente de concessão de isenções tributárias pela União; e (Incluído pela Lei Complementar nº 164, de 2018) Produção de efeitos\n\nII – diminuição das receitas recebidas de royalties e participações especiais. (Incluído pela Lei Complementar nº 164, de 2018) Produção de efeitos\n\n§ 6º O disposto no § 5º deste artigo só se aplica caso a despesa total com pessoal do quadrimestre vigente não ultrapasse o limite percentual previsto no art. 19 desta Lei Complementar, considerada, para este cálculo, a receita corrente líquida do quadrimestre correspondente do ano anterior atualizada monetariamente. (Incluído pela Lei Complementar nº 164, de 2018) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2023.%20Se%20a%20despesa%20total%20com%20pessoal%2C%20do%20Poder%20ou%20%C3%B3rg%C3%A3o%20referido%20no%20art.%2020%2C%20ultrapassar%20os%20limites%20definidos%20no%20mesmo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Nenhum benefício ou serviço relativo à seguridade social poderá ser criado, majorado ou estendido sem a indicação da fonte de custeio total, nos termos do § 5o do art. 195 da Constituição, atendidas ainda as exigências do art. 17. (Vide ADI 6357)\n\n§ 1o É dispensada da compensação referida no art. 17 o aumento de despesa decorrente de:\n\nI - concessão de benefício a quem satisfaça as condições de habilitação prevista na legislação pertinente;\n\nII - expansão quantitativa do atendimento e dos serviços prestados;\n\nIII - reajustamento de valor do benefício ou serviço, a fim de preservar o seu valor real.\n\n§ 2o O disposto neste artigo aplica-se a benefício ou serviço de saúde, previdência e assistência social, inclusive os destinados aos servidores públicos e militares, ativos e inativos, e aos pensionistas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2024.%20Nenhum%20benef%C3%ADcio%20ou%20servi%C3%A7o%20relativo%20%C3%A0%20seguridade%20social%20poder%C3%A1%20ser%20criado%2C%20majorado%20ou%20estendido%20sem%20a%20indica%C3%A7%C3%A3o%20da%20fonte%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Para efeito desta Lei Complementar, entende-se por transferência voluntária a entrega de recursos correntes ou de capital a outro ente da Federação, a título de cooperação, auxílio ou assistência financeira, que não decorra de determinação constitucional, legal ou os destinados ao Sistema Único de Saúde.\n\n§ 1o São exigências para a realização de transferência voluntária, além das estabelecidas na lei de diretrizes orçamentárias:\n\nI - existência de dotação específica;\n\nII - (VETADO)\n\nIII - observância do disposto no inciso X do art. 167 da Constituição;\n\nIV - comprovação, por parte do beneficiário, de:\n\na) que se acha em dia quanto ao pagamento de tributos, empréstimos e financiamentos devidos ao ente transferidor, bem como quanto à prestação de contas de recursos anteriormente dele recebidos;\n\nb) cumprimento dos limites constitucionais relativos à educação e à saúde;\n\nc) observância dos limites das dívidas consolidada e mobiliária, de operações de crédito, inclusive por antecipação de receita, de inscrição em Restos a Pagar e de despesa total com pessoal;\n\nd) previsão orçamentária de contrapartida.\n\n§ 2o É vedada a utilização de recursos transferidos em finalidade diversa da pactuada.\n\n§ 3o Para fins da aplicação das sanções de suspensão de transferências voluntárias constantes desta Lei Complementar, excetuam-se aquelas relativas a ações de educação, saúde e assistência social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2025.%20Para%20efeito%20desta%20Lei%20Complementar%2C%20entende-se%20por%20transfer%C3%AAncia%20volunt%C3%A1ria%20a%20entrega%20de%20recursos%20correntes%20ou%20de%20capital%20a%20outro%20ente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A destinação de recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas ou déficits de pessoas jurídicas deverá ser autorizada por lei específica, atender às condições estabelecidas na lei de diretrizes orçamentárias e estar prevista no orçamento ou em seus créditos adicionais.\n\n§ 1o O disposto no caput aplica-se a toda a administração indireta, inclusive fundações públicas e empresas estatais, exceto, no exercício de suas atribuições precípuas, as instituições financeiras e o Banco Central do Brasil.\n\n§ 2o Compreende-se incluída a concessão de empréstimos, financiamentos e refinanciamentos, inclusive as respectivas prorrogações e a composição de dívidas, a concessão de subvenções e a participação em constituição ou aumento de capital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2026.%20A%20destina%C3%A7%C3%A3o%20de%20recursos%20para%2C%20direta%20ou%20indiretamente%2C%20cobrir%20necessidades%20de%20pessoas%20f%C3%ADsicas%20ou%20d%C3%A9ficits%20de%20pessoas%20jur%C3%ADdicas%20dever%C3%A1%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. (VETADO). (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2026-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20Complementar%20n%C2%BA%20224%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Na concessão de crédito por ente da Federação a pessoa física, ou jurídica que não esteja sob seu controle direto ou indireto, os encargos financeiros, comissões e despesas congêneres não serão inferiores aos definidos em lei ou ao custo de captação.\n\nParágrafo único. Dependem de autorização em lei específica as prorrogações e composições de dívidas decorrentes de operações de crédito, bem como a concessão de empréstimos ou financiamentos em desacordo com o caput, sendo o subsídio correspondente consignado na lei orçamentária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2027.%20Na%20concess%C3%A3o%20de%20cr%C3%A9dito%20por%20ente%20da%20Federa%C3%A7%C3%A3o%20a%20pessoa%20f%C3%ADsica%2C%20ou%20jur%C3%ADdica%20que%20n%C3%A3o%20esteja%20sob%20seu%20controle%20direto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Salvo mediante lei específica, não poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do Sistema Financeiro Nacional, ainda que mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.\n\n§ 1o A prevenção de insolvência e outros riscos ficará a cargo de fundos, e outros mecanismos, constituídos pelas instituições do Sistema Financeiro Nacional, na forma da lei.\n\n§ 2o O disposto no caput não proíbe o Banco Central do Brasil de conceder às instituições financeiras operações de redesconto e de empréstimos de prazo inferior a trezentos e sessenta dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2028.%20Salvo%20mediante%20lei%20espec%C3%ADfica%2C%20n%C3%A3o%20poder%C3%A3o%20ser%20utilizados%20recursos%20p%C3%BAblicos%2C%20inclusive%20de%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%2C%20para%20socorrer%20institui%C3%A7%C3%B5es%20do%20Sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Para os efeitos desta Lei Complementar, são adotadas as seguintes definições:\n\nI - dívida pública consolidada ou fundada: montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses;\n\nII - dívida pública mobiliária: dívida pública representada por títulos emitidos pela União, inclusive os do Banco Central do Brasil, Estados e Municípios;\n\nIII - operação de crédito: compromisso financeiro assumido em razão de mútuo, abertura de crédito, emissão e aceite de título, aquisição financiada de bens, recebimento antecipado de valores provenientes da venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, inclusive com o uso de derivativos financeiros;\n\nIV - concessão de garantia: compromisso de adimplência de obrigação financeira ou contratual assumida por ente da Federação ou entidade a ele vinculada;\n\nV - refinanciamento da dívida mobiliária: emissão de títulos para pagamento do principal acrescido da atualização monetária.\n\n§ 1o Equipara-se a operação de crédito a assunção, o reconhecimento ou a confissão de dívidas pelo ente da Federação, sem prejuízo do cumprimento das exigências dos arts. 15 e 16.\n\n§ 2o Será incluída na dívida pública consolidada da União a relativa à emissão de títulos de responsabilidade do Banco Central do Brasil.\n\n§ 3o Também integram a dívida pública consolidada as operações de crédito de prazo inferior a doze meses cujas receitas tenham constado do orçamento.\n\n§ 4o O refinanciamento do principal da dívida mobiliária não excederá, ao término de cada exercício financeiro, o montante do final do exercício anterior, somado ao das operações de crédito autorizadas no orçamento para este efeito e efetivamente realizadas, acrescido de atualização monetária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2029.%20Para%20os%20efeitos%20desta%20Lei%20Complementar%2C%20s%C3%A3o%20adotadas%20as%20seguintes%20defini%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. No prazo de noventa dias após a publicação desta Lei Complementar, o Presidente da República submeterá ao:\n\nI - Senado Federal: proposta de limites globais para o montante da dívida consolidada da União, Estados e Municípios, cumprindo o que estabelece o inciso VI do art. 52 da Constituição, bem como de limites e condições relativos aos incisos VII, VIII e IX do mesmo artigo;\n\nII - Congresso Nacional: projeto de lei que estabeleça limites para o montante da dívida mobiliária federal a que se refere o inciso XIV do art. 48 da Constituição, acompanhado da demonstração de sua adequação aos limites fixados para a dívida consolidada da União, atendido o disposto no inciso I do § 1o deste artigo.\n\n§ 1o As propostas referidas nos incisos I e II do caput e suas alterações conterão:\n\nI - demonstração de que os limites e condições guardam coerência com as normas estabelecidas nesta Lei Complementar e com os objetivos da política fiscal;\n\nII - estimativas do impacto da aplicação dos limites a cada uma das três esferas de governo;\n\nIII - razões de eventual proposição de limites diferenciados por esfera de governo;\n\nIV - metodologia de apuração dos resultados primário e nominal.\n\n§ 2o As propostas mencionadas nos incisos I e II do caput também poderão ser apresentadas em termos de dívida líquida, evidenciando a forma e a metodologia de sua apuração.\n\n§ 3o Os limites de que tratam os incisos I e II do caput serão fixados em percentual da receita corrente líquida para cada esfera de governo e aplicados igualmente a todos os entes da Federação que a integrem, constituindo, para cada um deles, limites máximos.\n\n§ 4o Para fins de verificação do atendimento do limite, a apuração do montante da dívida consolidada será efetuada ao final de cada quadrimestre.\n\n§ 5o No prazo previsto no art. 5o, o Presidente da República enviará ao Senado Federal ou ao Congresso Nacional, conforme o caso, proposta de manutenção ou alteração dos limites e condições previstos nos incisos I e II do caput.\n\n§ 6o Sempre que alterados os fundamentos das propostas de que trata este artigo, em razão de instabilidade econômica ou alterações nas políticas monetária ou cambial, o Presidente da República poderá encaminhar ao Senado Federal ou ao Congresso Nacional solicitação de revisão dos limites.\n\n§ 7o Os precatórios judiciais não pagos durante a execução do orçamento em que houverem sido incluídos integram a dívida consolidada, para fins de aplicação dos limites.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2030.%20No%20prazo%20de%20noventa%20dias%20ap%C3%B3s%20a%20publica%C3%A7%C3%A3o%20desta%20Lei%20Complementar%2C%20o%20Presidente%20da%20Rep%C3%BAblica%20submeter%C3%A1%20ao%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Se a dívida consolidada de um ente da Federação ultrapassar o respectivo limite ao final de um quadrimestre, deverá ser a ele reconduzida até o término dos três subseqüentes, reduzindo o excedente em pelo menos 25% (vinte e cinco por cento) no primeiro.\n\n§ 1o Enquanto perdurar o excesso, o ente que nele houver incorrido:\n\nI - estará proibido de realizar operação de crédito interna ou externa, inclusive por antecipação de receita, ressalvado o refinanciamento do principal atualizado da dívida mobiliária;\n\nI - estará proibido de realizar operação de crédito interna ou externa, inclusive por antecipação de receita, ressalvadas as para pagamento de dívidas mobiliárias; (Redação dada pela Lei Complementar nº 178, de 2021)\n\nII - obterá resultado primário necessário à recondução da dívida ao limite, promovendo, entre outras medidas, limitação de empenho, na forma do art. 9o.\n\n§ 2o Vencido o prazo para retorno da dívida ao limite, e enquanto perdurar o excesso, o ente ficará também impedido de receber transferências voluntárias da União ou do Estado.\n\n§ 3o As restrições do § 1o aplicam-se imediatamente se o montante da dívida exceder o limite no primeiro quadrimestre do último ano do mandato do Chefe do Poder Executivo.\n\n§ 4o O Ministério da Fazenda divulgará, mensalmente, a relação dos entes que tenham ultrapassado os limites das dívidas consolidada e mobiliária.\n\n§ 5o As normas deste artigo serão observadas nos casos de descumprimento dos limites da dívida mobiliária e das operações de crédito internas e externas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2031.%20Se%20a%20d%C3%ADvida%20consolidada%20de%20um%20ente%20da%20Federa%C3%A7%C3%A3o%20ultrapassar%20o%20respectivo%20limite%20ao%20final%20de%20um%20quadrimestre%2C%20dever%C3%A1%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O Ministério da Fazenda verificará o cumprimento dos limites e condições relativos à realização de operações de crédito de cada ente da Federação, inclusive das empresas por eles controladas, direta ou indiretamente.\n\n§ 1o O ente interessado formalizará seu pleito fundamentando-o em parecer de seus órgãos técnicos e jurídicos, demonstrando a relação custo-benefício, o interesse econômico e social da operação e o atendimento das seguintes condições:\n\nI - existência de prévia e expressa autorização para a contratação, no texto da lei orçamentária, em créditos adicionais ou lei específica;\n\nII - inclusão no orçamento ou em créditos adicionais dos recursos provenientes da operação, exceto no caso de operações por antecipação de receita;\n\nIII - observância dos limites e condições fixados pelo Senado Federal;\n\nIV - autorização específica do Senado Federal, quando se tratar de operação de crédito externo;\n\nV - atendimento do disposto no inciso III do art. 167 da Constituição;\n\nVI - observância das demais restrições estabelecidas nesta Lei Complementar.\n\n§ 2o As operações relativas à dívida mobiliária federal autorizadas, no texto da lei orçamentária ou de créditos adicionais, serão objeto de processo simplificado que atenda às suas especificidades.\n\n§ 3o Para fins do disposto no inciso V do § 1o, considerar-se-á, em cada exercício financeiro, o total dos recursos de operações de crédito nele ingressados e o das despesas de capital executadas, observado o seguinte:\n\nI - não serão computadas nas despesas de capital as realizadas sob a forma de empréstimo ou financiamento a contribuinte, com o intuito de promover incentivo fiscal, tendo por base tributo de competência do ente da Federação, se resultar a diminuição, direta ou indireta, do ônus deste;\n\nII - se o empréstimo ou financiamento a que se refere o inciso I for concedido por instituição financeira controlada pelo ente da Federação, o valor da operação será deduzido das despesas de capital;\n\nIII - (VETADO)\n\n§ 4o Sem prejuízo das atribuições próprias do Senado Federal e do Banco Central do Brasil, o Ministério da Fazenda efetuará o registro eletrônico centralizado e atualizado das dívidas públicas interna e externa, garantido o acesso público às informações, que incluirão:\n\nI - encargos e condições de contratação;\n\nII - saldos atualizados e limites relativos às dívidas consolidada e mobiliária, operações de crédito e concessão de garantias.\n\n§ 5o Os contratos de operação de crédito externo não conterão cláusula que importe na compensação automática de débitos e créditos.\n\n§ 6o O prazo de validade da verificação dos limites e das condições de que trata este artigo e da análise realizada para a concessão de garantia pela União será de, no mínimo, 90 (noventa) dias e, no máximo, 270 (duzentos e setenta) dias, a critério do Ministério da Fazenda. (Incluído pela Lei Complementar nº 159, de 2017)\n\n§ 7º Poderá haver alteração da finalidade de operação de crédito de Estados, do Distrito Federal e de Municípios sem a necessidade de nova verificação pelo Ministério da Economia, desde que haja prévia e expressa autorização para tanto, no texto da lei orçamentária, em créditos adicionais ou em lei específica, que se demonstre a relação custo-benefício e o interesse econômico e social da operação e que não configure infração a dispositivo desta Lei Complementar. (Incluído pela Lei Complementar nº 178, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2032.%20O%20Minist%C3%A9rio%20da%20Fazenda%20verificar%C3%A1%20o%20cumprimento%20dos%20limites%20e%20condi%C3%A7%C3%B5es%20relativos%20%C3%A0%20realiza%C3%A7%C3%A3o%20de%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20de%20cada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A instituição financeira que contratar operação de crédito com ente da Federação, exceto quando relativa à dívida mobiliária ou à externa, deverá exigir comprovação de que a operação atende às condições e limites estabelecidos.\n\n§ 1o A operação realizada com infração do disposto nesta Lei Complementar será considerada nula, procedendo-se ao seu cancelamento, mediante a devolução do principal, vedados o pagamento de juros e demais encargos financeiros.\n\n§ 2o Se a devolução não for efetuada no exercício de ingresso dos recursos, será consignada reserva específica na lei orçamentária para o exercício seguinte.\n\n§ 3o Enquanto não efetuado o cancelamento, a amortização, ou constituída a reserva, aplicam-se as sanções previstas nos incisos do § 3o do art. 23.\n\n§ 3º Enquanto não for efetuado o cancelamento ou a amortização ou constituída a reserva de que trata o § 2º, aplicam-se ao ente as restrições previstas no § 3º do art. 23. (Redação dada pela Lei Complementar nº 178, de 2021)\n\n§ 4o Também se constituirá reserva, no montante equivalente ao excesso, se não atendido o disposto no inciso III do art. 167 da Constituição, consideradas as disposições do § 3o do art. 32.\n\nSubseção II\n\nDas Vedações",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2033.%20A%20institui%C3%A7%C3%A3o%20financeira%20que%20contratar%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20com%20ente%20da%20Federa%C3%A7%C3%A3o%2C%20exceto%20quando%20relativa%20%C3%A0%20d%C3%ADvida%20mobili%C3%A1ria%20ou%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O Banco Central do Brasil não emitirá títulos da dívida pública a partir de dois anos após a publicação desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2034.%20O%20Banco%20Central%20do%20Brasil%20n%C3%A3o%20emitir%C3%A1%20t%C3%ADtulos%20da%20d%C3%ADvida%20p%C3%BAblica%20a%20partir%20de%20dois%20anos%20ap%C3%B3s%20a%20publica%C3%A7%C3%A3o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. É vedada a realização de operação de crédito entre um ente da Federação, diretamente ou por intermédio de fundo, autarquia, fundação ou empresa estatal dependente, e outro, inclusive suas entidades da administração indireta, ainda que sob a forma de novação, refinanciamento ou postergação de dívida contraída anteriormente.\n\n§ 1o Excetuam-se da vedação a que se refere o caput as operações entre instituição financeira estatal e outro ente da Federação, inclusive suas entidades da administração indireta, que não se destinem a:\n\nI - financiar, direta ou indiretamente, despesas correntes;\n\nI - financiar, direta ou indiretamente, despesas correntes, ressalvadas as operações destinadas a financiar a estruturação de projetos ou a garantir contraprestações em contratos de parceria público-privada ou de concessão para o ente da Federação afetado pelo estado de calamidade pública reconhecido pelo Congresso Nacional de que trata o art. 65; (Redação dada pela Lei Complementar nº 206, de 2024)\n\nI - financiar, direta ou indiretamente, despesas correntes, ressalvadas as operações destinadas a financiar a estruturação de projetos ou a garantir contraprestações em contratos de parceria público-privada ou de concessão; (Redação dada pela Lei Complementar nº 212, de 2025)\n\nII - refinanciar dívidas não contraídas junto à própria instituição concedente.\n\n§ 2o O disposto no caput não impede Estados e Municípios de comprar títulos da dívida da União como aplicação de suas disponibilidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2035.%20%C3%89%20vedada%20a%20realiza%C3%A7%C3%A3o%20de%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20entre%20um%20ente%20da%20Federa%C3%A7%C3%A3o%2C%20diretamente%20ou%20por%20interm%C3%A9dio%20de%20fundo%2C%20autarquia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. É proibida a operação de crédito entre uma instituição financeira estatal e o ente da Federação que a controle, na qualidade de beneficiário do empréstimo.\n\nParágrafo único. O disposto no caput não proíbe instituição financeira controlada de adquirir, no mercado, títulos da dívida pública para atender investimento de seus clientes, ou títulos da dívida de emissão da União para aplicação de recursos próprios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2036.%20%C3%89%20proibida%20a%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20entre%20uma%20institui%C3%A7%C3%A3o%20financeira%20estatal%20e%20o%20ente%20da%20Federa%C3%A7%C3%A3o%20que%20a%20controle%2C%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Equiparam-se a operações de crédito e estão vedados:\n\nI - captação de recursos a título de antecipação de receita de tributo ou contribuição cujo fato gerador ainda não tenha ocorrido, sem prejuízo do disposto no § 7o do art. 150 da Constituição;\n\nII - recebimento antecipado de valores de empresa em que o Poder Público detenha, direta ou indiretamente, a maioria do capital social com direito a voto, salvo lucros e dividendos, na forma da legislação;\n\nIII - assunção direta de compromisso, confissão de dívida ou operação assemelhada, com fornecedor de bens, mercadorias ou serviços, mediante emissão, aceite ou aval de título de crédito, não se aplicando esta vedação a empresas estatais dependentes;\n\nIV - assunção de obrigação, sem autorização orçamentária, com fornecedores para pagamento a posteriori de bens e serviços.\n\nSubseção III\n\nDas Operações de Crédito por Antecipação de Receita Orçamentária",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2037.%20Equiparam-se%20a%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20e%20est%C3%A3o%20vedados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A operação de crédito por antecipação de receita destina-se a atender insuficiência de caixa durante o exercício financeiro e cumprirá as exigências mencionadas no art. 32 e mais as seguintes:\n\nI - realizar-se-á somente a partir do décimo dia do início do exercício;\n\nII - deverá ser liquidada, com juros e outros encargos incidentes, até o dia dez de dezembro de cada ano;\n\nIII - não será autorizada se forem cobrados outros encargos que não a taxa de juros da operação, obrigatoriamente prefixada ou indexada à taxa básica financeira, ou à que vier a esta substituir;\n\nIV - estará proibida:\n\na) enquanto existir operação anterior da mesma natureza não integralmente resgatada;\n\nb) no último ano de mandato do Presidente, Governador ou Prefeito Municipal.\n\n§ 1o As operações de que trata este artigo não serão computadas para efeito do que dispõe o inciso III do art. 167 da Constituição, desde que liquidadas no prazo definido no inciso II do caput.\n\n§ 2o As operações de crédito por antecipação de receita realizadas por Estados ou Municípios serão efetuadas mediante abertura de crédito junto à instituição financeira vencedora em processo competitivo eletrônico promovido pelo Banco Central do Brasil.\n\n§ 3o O Banco Central do Brasil manterá sistema de acompanhamento e controle do saldo do crédito aberto e, no caso de inobservância dos limites, aplicará as sanções cabíveis à instituição credora.\n\nSubseção IV\n\nDas Operações com o Banco Central do Brasil",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2038.%20A%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20por%20antecipa%C3%A7%C3%A3o%20de%20receita%20destina-se%20a%20atender%20insufici%C3%AAncia%20de%20caixa%20durante%20o%20exerc%C3%ADcio%20financeiro%20e%20cumprir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Nas suas relações com ente da Federação, o Banco Central do Brasil está sujeito às vedações constantes do art. 35 e mais às seguintes:\n\nI - compra de título da dívida, na data de sua colocação no mercado, ressalvado o disposto no § 2o deste artigo;\n\nII - permuta, ainda que temporária, por intermédio de instituição financeira ou não, de título da dívida de ente da Federação por título da dívida pública federal, bem como a operação de compra e venda, a termo, daquele título, cujo efeito final seja semelhante à permuta;\n\nIII - concessão de garantia.\n\n§ 1o O disposto no inciso II, in fine, não se aplica ao estoque de Letras do Banco Central do Brasil, Série Especial, existente na carteira das instituições financeiras, que pode ser refinanciado mediante novas operações de venda a termo.\n\n§ 2o O Banco Central do Brasil só poderá comprar diretamente títulos emitidos pela União para refinanciar a dívida mobiliária federal que estiver vencendo na sua carteira.\n\n§ 3o A operação mencionada no § 2o deverá ser realizada à taxa média e condições alcançadas no dia, em leilão público.\n\n§ 4o É vedado ao Tesouro Nacional adquirir títulos da dívida pública federal existentes na carteira do Banco Central do Brasil, ainda que com cláusula de reversão, salvo para reduzir a dívida mobiliária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2039.%20Nas%20suas%20rela%C3%A7%C3%B5es%20com%20ente%20da%20Federa%C3%A7%C3%A3o%2C%20o%20Banco%20Central%20do%20Brasil%20est%C3%A1%20sujeito%20%C3%A0s%20veda%C3%A7%C3%B5es%20constantes%20do%20art.%2035",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os entes poderão conceder garantia em operações de crédito internas ou externas, observados o disposto neste artigo, as normas do art. 32 e, no caso da União, também os limites e as condições estabelecidos pelo Senado Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2040.%20Os%20entes%20poder%C3%A3o%20conceder%20garantia%20em%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20internas%20ou%20externas%2C%20observados%20o%20disposto%20neste%20artigo%2C%20as%20normas%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2041.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "40",
+      "next": "41-A"
+    },
+    "41-A": {
+      "numero": "41-A",
+      "texto": "Art. 41-A. A partir de 1º de janeiro de 2027, se verificado, ao final de um exercício, que a disponibilidade de caixa não é suficiente para honrar os compromissos com Restos a Pagar processados e não processados inscritos e com as demais obrigações financeiras, aplica-se imediatamente ao respectivo Poder ou órgão referido no art. 20, até a próxima apuração anual, a vedação à concessão ou à ampliação de incentivo ou benefício de natureza tributária. (Incluído pela Lei Complementar nº 212, de 2025)\n\nParágrafo único. Se verificado que a insuficiência de que trata o caput perdura por 2 (dois) anos consecutivos, aplicam-se imediatamente ao respectivo Poder ou órgão, enquanto perdurar a insuficiência, as vedações previstas nos incisos I, II e III do parágrafo único do art. 22, bem como a vedação à concessão ou à ampliação de incentivo ou benefício de natureza tributária. (Incluído pela Lei Complementar nº 212, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2041-A.%20A%20partir%20de%201%C2%BA%20de%20janeiro%20de%202027%2C%20se%20verificado%2C%20ao%20final%20de%20um%20exerc%C3%ADcio%2C%20que%20a%20disponibilidade%20de%20caixa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "41",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. É vedado ao titular de Poder ou órgão referido no art. 20, nos últimos dois quadrimestres do seu mandato, contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele, ou que tenha parcelas a serem pagas no exercício seguinte sem que haja suficiente disponibilidade de caixa para este efeito. (Vide Lei Complementar nº 178, de 2021) (Vigência)\n\nParágrafo único. Na determinação da disponibilidade de caixa serão considerados os encargos e despesas compromissadas a pagar até o final do exercício.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2042.%20%C3%89%20vedado%20ao%20titular%20de%20Poder%20ou%20%C3%B3rg%C3%A3o%20referido%20no%20art.%2020%2C%20nos%20%C3%BAltimos%20dois%20quadrimestres%20do%20seu%20mandato%2C%20contrair",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "41-A",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. As disponibilidades de caixa dos entes da Federação serão depositadas conforme estabelece o § 3o do art. 164 da Constituição.\n\n§ 1o As disponibilidades de caixa dos regimes de previdência social, geral e próprio dos servidores públicos, ainda que vinculadas a fundos específicos a que se referem os arts. 249 e 250 da Constituição, ficarão depositadas em conta separada das demais disponibilidades de cada ente e aplicadas nas condições de mercado, com observância dos limites e condições de proteção e prudência financeira.\n\n§ 2o É vedada a aplicação das disponibilidades de que trata o § 1o em:\n\nI - títulos da dívida pública estadual e municipal, bem como em ações e outros papéis relativos às empresas controladas pelo respectivo ente da Federação;\n\nII - empréstimos, de qualquer natureza, aos segurados e ao Poder Público, inclusive a suas empresas controladas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2043.%20As%20disponibilidades%20de%20caixa%20dos%20entes%20da%20Federa%C3%A7%C3%A3o%20ser%C3%A3o%20depositadas%20conforme%20estabelece%20o%20%C2%A7%203o%20do%20art.%20164%20da%20Constitui%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. É vedada a aplicação da receita de capital derivada da alienação de bens e direitos que integram o patrimônio público para o financiamento de despesa corrente, salvo se destinada por lei aos regimes de previdência social, geral e próprio dos servidores públicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2044.%20%C3%89%20vedada%20a%20aplica%C3%A7%C3%A3o%20da%20receita%20de%20capital%20derivada%20da%20aliena%C3%A7%C3%A3o%20de%20bens%20e%20direitos%20que%20integram%20o%20patrim%C3%B4nio%20p%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Observado o disposto no § 5o do art. 5o, a lei orçamentária e as de créditos adicionais só incluirão novos projetos após adequadamente atendidos os em andamento e contempladas as despesas de conservação do patrimônio público, nos termos em que dispuser a lei de diretrizes orçamentárias.\n\nParágrafo único. O Poder Executivo de cada ente encaminhará ao Legislativo, até a data do envio do projeto de lei de diretrizes orçamentárias, relatório com as informações necessárias ao cumprimento do disposto neste artigo, ao qual será dada ampla divulgação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2045.%20Observado%20o%20disposto%20no%20%C2%A7%205o%20do%20art.%205o%2C%20a%20lei%20or%C3%A7ament%C3%A1ria%20e%20as%20de%20cr%C3%A9ditos%20adicionais%20s%C3%B3%20incluir%C3%A3o%20novos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. É nulo de pleno direito ato de desapropriação de imóvel urbano expedido sem o atendimento do disposto no § 3o do art. 182 da Constituição, ou prévio depósito judicial do valor da indenização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2046.%20%C3%89%20nulo%20de%20pleno%20direito%20ato%20de%20desapropria%C3%A7%C3%A3o%20de%20im%C3%B3vel%20urbano%20expedido%20sem%20o%20atendimento%20do%20disposto%20no%20%C2%A7%203o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. A empresa controlada que firmar contrato de gestão em que se estabeleçam objetivos e metas de desempenho, na forma da lei, disporá de autonomia gerencial, orçamentária e financeira, sem prejuízo do disposto no inciso II do § 5o do art. 165 da Constituição.\n\nParágrafo único. A empresa controlada incluirá em seus balanços trimestrais nota explicativa em que informará:\n\nI - fornecimento de bens e serviços ao controlador, com respectivos preços e condições, comparando-os com os praticados no mercado;\n\nII - recursos recebidos do controlador, a qualquer título, especificando valor, fonte e destinação;\n\nIII - venda de bens, prestação de serviços ou concessão de empréstimos e financiamentos com preços, taxas, prazos ou condições diferentes dos vigentes no mercado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2047.%20A%20empresa%20controlada%20que%20firmar%20contrato%20de%20gest%C3%A3o%20em%20que%20se%20estabele%C3%A7am%20objetivos%20e%20metas%20de%20desempenho%2C%20na%20forma%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. São instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público: os planos, orçamentos e leis de diretrizes orçamentárias; as prestações de contas e o respectivo parecer prévio; o Relatório Resumido da Execução Orçamentária e o Relatório de Gestão Fiscal; e as versões simplificadas desses documentos.\n\nParágrafo único. A transparência será assegurada também mediante incentivo à participação popular e realização de audiências públicas, durante os processos de elaboração e de discussão dos planos, lei de diretrizes orçamentárias e orçamentos.\n\nParágrafo único. A transparência será assegurada também mediante: (Redação dada pela Lei Complementar nº 131, de 2009).\n\n§ 1o A transparência será assegurada também mediante: (Redação dada pela Lei Complementar nº 156, de 2016)\n\nI – incentivo à participação popular e realização de audiências públicas, durante os processos de elaboração e discussão dos planos, lei de diretrizes orçamentárias e orçamentos; (Incluído pela Lei Complementar nº 131, de 2009).\n\nII – liberação ao pleno conhecimento e acompanhamento da sociedade, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira, em meios eletrônicos de acesso público; (Incluído pela Lei Complementar nº 131, de 2009).\n\nII - liberação ao pleno conhecimento e acompanhamento da sociedade, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira, em meios eletrônicos de acesso público; e (Redação dada pela Lei Complementar nº 156, de 2016)\n\nIII – adoção de sistema integrado de administração financeira e controle, que atenda a padrão mínimo de qualidade estabelecido pelo Poder Executivo da União e ao disposto no art. 48-A. (Incluído pela Lei Complementar nº 131, de 2009) (Vide Decreto nº 7.185, de 2010)\n\nIV - divulgação no Portal de Transparência, em formato aberto e padronizado, de dados atualizados sobre benefícios de natureza tributária, financeira e creditícia concedidos. (Incluído pela Lei Complementar nº 224, de 2025) Produção de efeitos\n\n§ 2º A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, os quais deverão ser divulgados em meio eletrônico de amplo acesso público. (Incluído pela Lei Complementar nº 156, de 2016)\n\n§ 3o Os Estados, o Distrito Federal e os Municípios encaminharão ao Ministério da Fazenda, nos termos e na periodicidade a serem definidos em instrução específica deste órgão, as informações necessárias para a constituição do registro eletrônico centralizado e atualizado das dívidas públicas interna e externa, de que trata o § 4o do art. 32. (Incluído pela Lei Complementar nº 156, de 2016)\n\n§ 4o A inobservância do disposto nos §§ 2o e 3o ensejará as penalidades previstas no § 2o do art. 51. (Incluído pela Lei Complementar nº 156, de 2016)\n\n§ 5o Nos casos de envio conforme disposto no § 2o, para todos os efeitos, a União, os Estados, o Distrito Federal e os Municípios cumprem o dever de ampla divulgação a que se refere o caput. (Incluído pela Lei Complementar nº 156, de 2016)\n\n§ 6o Todos os Poderes e órgãos referidos no art. 20, incluídos autarquias, fundações públicas, empresas estatais dependentes e fundos, do ente da Federação devem utilizar sistemas únicos de execução orçamentária e financeira, mantidos e gerenciados pelo Poder Executivo, resguardada a autonomia. (Incluído pela Lei Complementar nº 156, de 2016)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2048.%20S%C3%A3o%20instrumentos%20de%20transpar%C3%AAncia%20da%20gest%C3%A3o%20fiscal%2C%20aos%20quais%20ser%C3%A1%20dada%20ampla%20divulga%C3%A7%C3%A3o%2C%20inclusive%20em%20meios%20eletr%C3%B4nicos%20de%20acesso%20p%C3%BAblico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "47",
+      "next": "48-A"
+    },
+    "48-A": {
+      "numero": "48-A",
+      "texto": "Art. 48-A. Para os fins a que se refere o inciso II do parágrafo único do art. 48, os entes da Federação disponibilizarão a qualquer pessoa física ou jurídica o acesso a informações referentes a: (Incluído pela Lei Complementar nº 131, de 2009).\n\nI – quanto à despesa: todos os atos praticados pelas unidades gestoras no decorrer da execução da despesa, no momento de sua realização, com a disponibilização mínima dos dados referentes ao número do correspondente processo, ao bem fornecido ou ao serviço prestado, à pessoa física ou jurídica beneficiária do pagamento e, quando for o caso, ao procedimento licitatório realizado; (Incluído pela Lei Complementar nº 131, de 2009).\n\nII – quanto à receita: o lançamento e o recebimento de toda a receita das unidades gestoras, inclusive referente a recursos extraordinários. (Incluído pela Lei Complementar nº 131, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2048-A.%20Para%20os%20fins%20a%20que%20se%20refere%20o%20inciso%20II%20do%20par%C3%A1grafo%20%C3%BAnico%20do%20art.%2048%2C%20os%20entes%20da%20Federa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "48",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. As contas apresentadas pelo Chefe do Poder Executivo ficarão disponíveis, durante todo o exercício, no respectivo Poder Legislativo e no órgão técnico responsável pela sua elaboração, para consulta e apreciação pelos cidadãos e instituições da sociedade.\n\nParágrafo único. A prestação de contas da União conterá demonstrativos do Tesouro Nacional e das agências financeiras oficiais de fomento, incluído o Banco Nacional de Desenvolvimento Econômico e Social, especificando os empréstimos e financiamentos concedidos com recursos oriundos dos orçamentos fiscal e da seguridade social e, no caso das agências financeiras, avaliação circunstanciada do impacto fiscal de suas atividades no exercício.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2049.%20As%20contas%20apresentadas%20pelo%20Chefe%20do%20Poder%20Executivo%20ficar%C3%A3o%20dispon%C3%ADveis%2C%20durante%20todo%20o%20exerc%C3%ADcio%2C%20no%20respectivo%20Poder%20Legislativo%20e%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "48-A",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Além de obedecer às demais normas de contabilidade pública, a escrituração das contas públicas observará as seguintes:\n\nI - a disponibilidade de caixa constará de registro próprio, de modo que os recursos vinculados a órgão, fundo ou despesa obrigatória fiquem identificados e escriturados de forma individualizada;\n\nII - a despesa e a assunção de compromisso serão registradas segundo o regime de competência, apurando-se, em caráter complementar, o resultado dos fluxos financeiros pelo regime de caixa;\n\nIII - as demonstrações contábeis compreenderão, isolada e conjuntamente, as transações e operações de cada órgão, fundo ou entidade da administração direta, autárquica e fundacional, inclusive empresa estatal dependente;\n\nIV - as receitas e despesas previdenciárias serão apresentadas em demonstrativos financeiros e orçamentários específicos;\n\nV - as operações de crédito, as inscrições em Restos a Pagar e as demais formas de financiamento ou assunção de compromissos junto a terceiros, deverão ser escrituradas de modo a evidenciar o montante e a variação da dívida pública no período, detalhando, pelo menos, a natureza e o tipo de credor;\n\nVI - a demonstração das variações patrimoniais dará destaque à origem e ao destino dos recursos provenientes da alienação de ativos.\n\n§ 1o No caso das demonstrações conjuntas, excluir-se-ão as operações intragovernamentais.\n\n§ 2o A edição de normas gerais para consolidação das contas públicas caberá ao órgão central de contabilidade da União, enquanto não implantado o conselho de que trata o art. 67.\n\n§ 3o A Administração Pública manterá sistema de custos que permita a avaliação e o acompanhamento da gestão orçamentária, financeira e patrimonial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2050.%20Al%C3%A9m%20de%20obedecer%20%C3%A0s%20demais%20normas%20de%20contabilidade%20p%C3%BAblica%2C%20a%20escritura%C3%A7%C3%A3o%20das%20contas%20p%C3%BAblicas%20observar%C3%A1%20as%20seguintes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O Poder Executivo da União promoverá, até o dia trinta de junho, a consolidação, nacional e por esfera de governo, das contas dos entes da Federação relativas ao exercício anterior, e a sua divulgação, inclusive por meio eletrônico de acesso público.\n\n§ 1o Os Estados e os Municípios encaminharão suas contas ao Poder Executivo da União nos seguintes prazos:\n\nI - Municípios, com cópia para o Poder Executivo do respectivo Estado, até trinta de abril;\n\nII - Estados, até trinta e um de maio.\n\n§ 1º Os Estados e os Municípios encaminharão suas contas ao Poder Executivo da União até 30 de abril. (Redação dada pela Lei Complementar nº 178, de 2021) (Vigência)\n\n§ 2o O descumprimento dos prazos previstos neste artigo impedirá, até que a situação seja regularizada, que o ente da Federação receba transferências voluntárias e contrate operações de crédito, exceto as destinadas ao refinanciamento do principal atualizado da dívida mobiliária.\n\n§ 2º O descumprimento dos prazos previstos neste artigo impedirá, até que a situação seja regularizada, que o Poder ou órgão referido no art. 20 receba transferências voluntárias e contrate operações de crédito, exceto as destinadas ao pagamento da dívida mobiliária. (Redação dada pela Lei Complementar nº 178, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2051.%20O%20Poder%20Executivo%20da%20Uni%C3%A3o%20promover%C3%A1%2C%20at%C3%A9%20o%20dia%20trinta%20de%20junho%2C%20a%20consolida%C3%A7%C3%A3o%2C%20nacional%20e%20por%20esfera%20de%20governo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O relatório a que se refere o § 3o do art. 165 da Constituição abrangerá todos os Poderes e o Ministério Público, será publicado até trinta dias após o encerramento de cada bimestre e composto de:\n\nI - balanço orçamentário, que especificará, por categoria econômica, as:\n\na) receitas por fonte, informando as realizadas e a realizar, bem como a previsão atualizada;\n\nb) despesas por grupo de natureza, discriminando a dotação para o exercício, a despesa liquidada e o saldo;\n\nII - demonstrativos da execução das:\n\na) receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a realizada no exercício e a previsão a realizar;\n\nb) despesas, por categoria econômica e grupo de natureza da despesa, discriminando dotação inicial, dotação para o exercício, despesas empenhada e liquidada, no bimestre e no exercício;\n\nc) despesas, por função e subfunção.\n\n§ 1o Os valores referentes ao refinanciamento da dívida mobiliária constarão destacadamente nas receitas de operações de crédito e nas despesas com amortização da dívida.\n\n§ 2o O descumprimento do prazo previsto neste artigo sujeita o ente às sanções previstas no § 2o do art. 51.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2052.%20O%20relat%C3%B3rio%20a%20que%20se%20refere%20o%20%C2%A7%203o%20do%20art.%20165%20da%20Constitui%C3%A7%C3%A3o%20abranger%C3%A1%20todos%20os%20Poderes%20e%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Acompanharão o Relatório Resumido demonstrativos relativos a:\n\nI - apuração da receita corrente líquida, na forma definida no inciso IV do art. 2o, sua evolução, assim como a previsão de seu desempenho até o final do exercício;\n\nII - receitas e despesas previdenciárias a que se refere o inciso IV do art. 50;\n\nIII - resultados nominal e primário;\n\nIV - despesas com juros, na forma do inciso II do art. 4o;\n\nV - Restos a Pagar, detalhando, por Poder e órgão referido no art. 20, os valores inscritos, os pagamentos realizados e o montante a pagar.\n\n§ 1o O relatório referente ao último bimestre do exercício será acompanhado também de demonstrativos:\n\nI - do atendimento do disposto no inciso III do art. 167 da Constituição, conforme o § 3o do art. 32;\n\nII - das projeções atuariais dos regimes de previdência social, geral e próprio dos servidores públicos;\n\nIII - da variação patrimonial, evidenciando a alienação de ativos e a aplicação dos recursos dela decorrentes.\n\n§ 2o Quando for o caso, serão apresentadas justificativas:\n\nI - da limitação de empenho;\n\nII - da frustração de receitas, especificando as medidas de combate à sonegação e à evasão fiscal, adotadas e a adotar, e as ações de fiscalização e cobrança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2053.%20Acompanhar%C3%A3o%20o%20Relat%C3%B3rio%20Resumido%20demonstrativos%20relativos%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Ao final de cada quadrimestre será emitido pelos titulares dos Poderes e órgãos referidos no art. 20 Relatório de Gestão Fiscal, assinado pelo:\n\nI - Chefe do Poder Executivo;\n\nII - Presidente e demais membros da Mesa Diretora ou órgão decisório equivalente, conforme regimentos internos dos órgãos do Poder Legislativo;\n\nIII - Presidente de Tribunal e demais membros de Conselho de Administração ou órgão decisório equivalente, conforme regimentos internos dos órgãos do Poder Judiciário;\n\nIV - Chefe do Ministério Público, da União e dos Estados.\n\nParágrafo único. O relatório também será assinado pelas autoridades responsáveis pela administração financeira e pelo controle interno, bem como por outras definidas por ato próprio de cada Poder ou órgão referido no art. 20.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2054.%20Ao%20final%20de%20cada%20quadrimestre%20ser%C3%A1%20emitido%20pelos%20titulares%20dos%20Poderes%20e%20%C3%B3rg%C3%A3os%20referidos%20no%20art.%2020%20Relat%C3%B3rio%20de%20Gest%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O relatório conterá:\n\nI - comparativo com os limites de que trata esta Lei Complementar, dos seguintes montantes:\n\na) despesa total com pessoal, distinguindo a com inativos e pensionistas;\n\nb) dívidas consolidada e mobiliária;\n\nc) concessão de garantias;\n\nd) operações de crédito, inclusive por antecipação de receita;\n\ne) despesas de que trata o inciso II do art. 4o;\n\nII - indicação das medidas corretivas adotadas ou a adotar, se ultrapassado qualquer dos limites;\n\nIII - demonstrativos, no último quadrimestre:\n\na) do montante das disponibilidades de caixa em trinta e um de dezembro;\n\nb) da inscrição em Restos a Pagar, das despesas:\n\n1) liquidadas;\n\n2) empenhadas e não liquidadas, inscritas por atenderem a uma das condições do inciso II do art. 41;\n\n3) empenhadas e não liquidadas, inscritas até o limite do saldo da disponibilidade de caixa;\n\n4) não inscritas por falta de disponibilidade de caixa e cujos empenhos foram cancelados;\n\nc) do cumprimento do disposto no inciso II e na alínea b do inciso IV do art. 38.\n\n§ 1o O relatório dos titulares dos órgãos mencionados nos incisos II, III e IV do art. 54 conterá apenas as informações relativas à alínea a do inciso I, e os documentos referidos nos incisos II e III.\n\n§ 2o O relatório será publicado até trinta dias após o encerramento do período a que corresponder, com amplo acesso ao público, inclusive por meio eletrônico.\n\n§ 3o O descumprimento do prazo a que se refere o § 2o sujeita o ente à sanção prevista no § 2o do art. 51.\n\n§ 4o Os relatórios referidos nos arts. 52 e 54 deverão ser elaborados de forma padronizada, segundo modelos que poderão ser atualizados pelo conselho de que trata o art. 67.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2055.%20O%20relat%C3%B3rio%20conter%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. As contas prestadas pelos Chefes do Poder Executivo incluirão, além das suas próprias, as dos Presidentes dos órgãos dos Poderes Legislativo e Judiciário e do Chefe do Ministério Público, referidos no art. 20, as quais receberão parecer prévio, separadamente, do respectivo Tribunal de Contas. (Vide ADI 2324)\n\n§ 1o As contas do Poder Judiciário serão apresentadas no âmbito:\n\nI - da União, pelos Presidentes do Supremo Tribunal Federal e dos Tribunais Superiores, consolidando as dos respectivos tribunais;\n\nII - dos Estados, pelos Presidentes dos Tribunais de Justiça, consolidando as dos demais tribunais.\n\n§ 2o O parecer sobre as contas dos Tribunais de Contas será proferido no prazo previsto no art. 57 pela comissão mista permanente referida no § 1o do art. 166 da Constituição ou equivalente das Casas Legislativas estaduais e municipais. (Vide ADI 2324)\n\n§ 3o Será dada ampla divulgação dos resultados da apreciação das contas, julgadas ou tomadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2056.%20As%20contas%20prestadas%20pelos%20Chefes%20do%20Poder%20Executivo%20incluir%C3%A3o%2C%20al%C3%A9m%20das%20suas%20pr%C3%B3prias%2C%20as%20dos%20Presidentes%20dos%20%C3%B3rg%C3%A3os%20dos%20Poderes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Os Tribunais de Contas emitirão parecer prévio conclusivo sobre as contas no prazo de sessenta dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis orgânicas municipais.\n\n§ 1o No caso de Municípios que não sejam capitais e que tenham menos de duzentos mil habitantes o prazo será de cento e oitenta dias.\n\n§ 2o Os Tribunais de Contas não entrarão em recesso enquanto existirem contas de Poder, ou órgão referido no art. 20, pendentes de parecer prévio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2057.%20Os%20Tribunais%20de%20Contas%20emitir%C3%A3o%20parecer%20pr%C3%A9vio%20conclusivo%20sobre%20as%20contas%20no%20prazo%20de%20sessenta%20dias%20do%20recebimento%2C%20se%20outro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. A prestação de contas evidenciará o desempenho da arrecadação em relação à previsão, destacando as providências adotadas no âmbito da fiscalização das receitas e combate à sonegação, as ações de recuperação de créditos nas instâncias administrativa e judicial, bem como as demais medidas para incremento das receitas tributárias e de contribuições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2058.%20A%20presta%C3%A7%C3%A3o%20de%20contas%20evidenciar%C3%A1%20o%20desempenho%20da%20arrecada%C3%A7%C3%A3o%20em%20rela%C3%A7%C3%A3o%20%C3%A0%20previs%C3%A3o%2C%20destacando%20as%20provid%C3%AAncias%20adotadas%20no%20%C3%A2mbito%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. O Poder Legislativo, diretamente ou com o auxílio dos Tribunais de Contas, e o sistema de controle interno de cada Poder e do Ministério Público, fiscalizarão o cumprimento das normas desta Lei Complementar, com ênfase no que se refere a: (Vide ADI 2324)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2059.%20O%20Poder%20Legislativo%2C%20diretamente%20ou%20com%20o%20aux%C3%ADlio%20dos%20Tribunais%20de%20Contas%2C%20e%20o%20sistema%20de%20controle%20interno%20de%20cada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Lei estadual ou municipal poderá fixar limites inferiores àqueles previstos nesta Lei Complementar para as dívidas consolidada e mobiliária, operações de crédito e concessão de garantias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2060.%20Lei%20estadual%20ou%20municipal%20poder%C3%A1%20fixar%20limites%20inferiores%20%C3%A0queles%20previstos%20nesta%20Lei%20Complementar%20para%20as%20d%C3%ADvidas%20consolidada%20e%20mobili%C3%A1ria%2C%20opera%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Os títulos da dívida pública, desde que devidamente escriturados em sistema centralizado de liquidação e custódia, poderão ser oferecidos em caução para garantia de empréstimos, ou em outras transações previstas em lei, pelo seu valor econômico, conforme definido pelo Ministério da Fazenda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2061.%20Os%20t%C3%ADtulos%20da%20d%C3%ADvida%20p%C3%BAblica%2C%20desde%20que%20devidamente%20escriturados%20em%20sistema%20centralizado%20de%20liquida%C3%A7%C3%A3o%20e%20cust%C3%B3dia%2C%20poder%C3%A3o%20ser%20oferecidos%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Os Municípios só contribuirão para o custeio de despesas de competência de outros entes da Federação se houver:\n\nI - autorização na lei de diretrizes orçamentárias e na lei orçamentária anual;\n\nII - convênio, acordo, ajuste ou congênere, conforme sua legislação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2062.%20Os%20Munic%C3%ADpios%20s%C3%B3%20contribuir%C3%A3o%20para%20o%20custeio%20de%20despesas%20de%20compet%C3%AAncia%20de%20outros%20entes%20da%20Federa%C3%A7%C3%A3o%20se%20houver%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. É facultado aos Municípios com população inferior a cinqüenta mil habitantes optar por:\n\nI - aplicar o disposto no art. 22 e no § 4o do art. 30 ao final do semestre;\n\nII - divulgar semestralmente:\n\na) (VETADO)\n\nb) o Relatório de Gestão Fiscal;\n\nc) os demonstrativos de que trata o art. 53;\n\nIII - elaborar o Anexo de Política Fiscal do plano plurianual, o Anexo de Metas Fiscais e o Anexo de Riscos Fiscais da lei de diretrizes orçamentárias e o anexo de que trata o inciso I do art. 5o a partir do quinto exercício seguinte ao da publicação desta Lei Complementar.\n\n§ 1o A divulgação dos relatórios e demonstrativos deverá ser realizada em até trinta dias após o encerramento do semestre.\n\n§ 2o Se ultrapassados os limites relativos à despesa total com pessoal ou à dívida consolidada, enquanto perdurar esta situação, o Município ficará sujeito aos mesmos prazos de verificação e de retorno ao limite definidos para os demais entes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2063.%20%C3%89%20facultado%20aos%20Munic%C3%ADpios%20com%20popula%C3%A7%C3%A3o%20inferior%20a%20cinq%C3%BCenta%20mil%20habitantes%20optar%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A União prestará assistência técnica e cooperação financeira aos Municípios para a modernização das respectivas administrações tributária, financeira, patrimonial e previdenciária, com vistas ao cumprimento das normas desta Lei Complementar.\n\n§ 1o A assistência técnica consistirá no treinamento e desenvolvimento de recursos humanos e na transferência de tecnologia, bem como no apoio à divulgação dos instrumentos de que trata o art. 48 em meio eletrônico de amplo acesso público.\n\n§ 2o A cooperação financeira compreenderá a doação de bens e valores, o financiamento por intermédio das instituições financeiras federais e o repasse de recursos oriundos de operações externas.\n\n§ 3º A assistência técnica e a cooperação financeira a que se refere o caput poderão ser prestadas para a modernização da gestão educacional dos Estados e Municípios. (Incluído pela Lei Complementar nº 212, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2064.%20A%20Uni%C3%A3o%20prestar%C3%A1%20assist%C3%AAncia%20t%C3%A9cnica%20e%20coopera%C3%A7%C3%A3o%20financeira%20aos%20Munic%C3%ADpios%20para%20a%20moderniza%C3%A7%C3%A3o%20das%20respectivas%20administra%C3%A7%C3%B5es%20tribut%C3%A1ria%2C%20financeira%2C%20patrimonial%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Na ocorrência de calamidade pública reconhecida pelo Congresso Nacional, no caso da União, ou pelas Assembléias Legislativas, na hipótese dos Estados e Municípios, enquanto perdurar a situação:\n\nI - serão suspensas a contagem dos prazos e as disposições estabelecidas nos arts. 23 , 31 e 70;\n\nII - serão dispensados o atingimento dos resultados fiscais e a limitação de empenho prevista no art. 9o.\n\nParágrafo único. Aplica-se o disposto no caput no caso de estado de defesa ou de sítio, decretado na forma da Constituição.\n\n§ 1º Na ocorrência de calamidade pública reconhecida pelo Congresso Nacional, nos termos de decreto legislativo, em parte ou na integralidade do território nacional e enquanto perdurar a situação, além do previsto nos inciso I e II do caput: (Incluído pela Lei Complementar nº 173, de 2020)\n\nI - serão dispensados os limites, condições e demais restrições aplicáveis à União, aos Estados, ao Distrito Federal e aos Municípios, bem como sua verificação, para: (Incluído pela Lei Complementar nº 173, de 2020)\n\na) contratação e aditamento de operações de crédito; (Incluído pela Lei Complementar nº 173, de 2020)\n\nb) concessão de garantias; (Incluído pela Lei Complementar nº 173, de 2020)\n\nc) contratação entre entes da Federação; e (Incluído pela Lei Complementar nº 173, de 2020)\n\nd) recebimento de transferências voluntárias; (Incluído pela Lei Complementar nº 173, de 2020)\n\nII - serão dispensados os limites e afastadas as vedações e sanções previstas e decorrentes dos arts. 35, 37 e 42, bem como será dispensado o cumprimento do disposto no parágrafo único do art. 8º desta Lei Complementar, desde que os recursos arrecadados sejam destinados ao combate à calamidade pública; (Incluído pela Lei Complementar nº 173, de 2020)\n\nIII - serão afastadas as condições e as vedações previstas nos arts. 14, 16 e 17 desta Lei Complementar, desde que o incentivo ou benefício e a criação ou o aumento da despesa sejam destinados ao combate à calamidade pública. (Incluído pela Lei Complementar nº 173, de 2020)\n\n§ 2º O disposto no § 1º deste artigo, observados os termos estabelecidos no decreto legislativo que reconhecer o estado de calamidade pública: (Incluído pela Lei Complementar nº 173, de 2020)\n\nI - aplicar-se-á exclusivamente: (Incluído pela Lei Complementar nº 173, de 2020)\n\na) às unidades da Federação atingidas e localizadas no território em que for reconhecido o estado de calamidade pública pelo Congresso Nacional e enquanto perdurar o referido estado de calamidade; (Incluído pela Lei Complementar nº 173, de 2020)\n\nb) aos atos de gestão orçamentária e financeira necessários ao atendimento de despesas relacionadas ao cumprimento do decreto legislativo; (Incluído pela Lei Complementar nº 173, de 2020)\n\nII - não afasta as disposições relativas a transparência, controle e fiscalização. (Incluído pela Lei Complementar nº 173, de 2020)\n\n§ 3º No caso de aditamento de operações de crédito garantidas pela União com amparo no disposto no § 1º deste artigo, a garantia será mantida, não sendo necessária a alteração dos contratos de garantia e de contragarantia vigentes. (Incluído pela Lei Complementar nº 173, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2065.%20Na%20ocorr%C3%AAncia%20de%20calamidade%20p%C3%BAblica%20reconhecida%20pelo%20Congresso%20Nacional%2C%20no%20caso%20da%20Uni%C3%A3o%2C%20ou%20pelas%20Assembl%C3%A9ias%20Legislativas%2C%20na%20hip%C3%B3tese%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "65-A"
+    },
+    "65-A": {
+      "numero": "65-A",
+      "texto": "Art. 65-A. Não serão contabilizadas na meta de resultado primário, para efeito do disposto no art. 9º desta Lei Complementar, as transferências federais aos demais entes da Federação, devidamente identificadas, para enfrentamento das consequências sociais e econômicas no setor cultural decorrentes de calamidades públicas ou pandemias, desde que sejam autorizadas em acréscimo aos valores inicialmente previstos pelo Congresso Nacional na lei orçamentária anual. (Incluído pela Lei Complementar nº 195, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2065-A.%20N%C3%A3o%20ser%C3%A3o%20contabilizadas%20na%20meta%20de%20resultado%20prim%C3%A1rio%2C%20para%20efeito%20do%20disposto%20no%20art.%209%C2%BA%20desta%20Lei%20Complementar%2C%20as%20transfer%C3%AAncias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Os prazos estabelecidos nos arts. 23, 31 e 70 serão duplicados no caso de crescimento real baixo ou negativo do Produto Interno Bruto (PIB) nacional, regional ou estadual por período igual ou superior a quatro trimestres.\n\n§ 1o Entende-se por baixo crescimento a taxa de variação real acumulada do Produto Interno Bruto inferior a 1% (um por cento), no período correspondente aos quatro últimos trimestres.\n\n§ 2o A taxa de variação será aquela apurada pela Fundação Instituto Brasileiro de Geografia e Estatística ou outro órgão que vier a substituí-la, adotada a mesma metodologia para apuração dos PIB nacional, estadual e regional.\n\n§ 3o Na hipótese do caput, continuarão a ser adotadas as medidas previstas no art. 22.\n\n§ 4o Na hipótese de se verificarem mudanças drásticas na condução das políticas monetária e cambial, reconhecidas pelo Senado Federal, o prazo referido no caput do art. 31 poderá ser ampliado em até quatro quadrimestres.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2066.%20Os%20prazos%20estabelecidos%20nos%20arts.%2023%2C%2031%20e%2070%20ser%C3%A3o%20duplicados%20no%20caso%20de%20crescimento%20real%20baixo%20ou%20negativo%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65-A",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. O acompanhamento e a avaliação, de forma permanente, da política e da operacionalidade da gestão fiscal serão realizados por conselho de gestão fiscal, constituído por representantes de todos os Poderes e esferas de Governo, do Ministério Público e de entidades técnicas representativas da sociedade, visando a:\n\nI - harmonização e coordenação entre os entes da Federação;\n\nII - disseminação de práticas que resultem em maior eficiência na alocação e execução do gasto público, na arrecadação de receitas, no controle do endividamento e na transparência da gestão fiscal;\n\nIII - adoção de normas de consolidação das contas públicas, padronização das prestações de contas e dos relatórios e demonstrativos de gestão fiscal de que trata esta Lei Complementar, normas e padrões mais simples para os pequenos Municípios, bem como outros, necessários ao controle social;\n\nIV - divulgação de análises, estudos e diagnósticos.\n\n§ 1o O conselho a que se refere o caput instituirá formas de premiação e reconhecimento público aos titulares de Poder que alcançarem resultados meritórios em suas políticas de desenvolvimento social, conjugados com a prática de uma gestão fiscal pautada pelas normas desta Lei Complementar.\n\n§ 2o Lei disporá sobre a composição e a forma de funcionamento do conselho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2067.%20O%20acompanhamento%20e%20a%20avalia%C3%A7%C3%A3o%2C%20de%20forma%20permanente%2C%20da%20pol%C3%ADtica%20e%20da%20operacionalidade%20da%20gest%C3%A3o%20fiscal%20ser%C3%A3o%20realizados%20por%20conselho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Na forma do art. 250 da Constituição, é criado o Fundo do Regime Geral de Previdência Social, vinculado ao Ministério da Previdência e Assistência Social, com a finalidade de prover recursos para o pagamento dos benefícios do regime geral da previdência social.\n\n§ 1o O Fundo será constituído de:\n\nI - bens móveis e imóveis, valores e rendas do Instituto Nacional do Seguro Social não utilizados na operacionalização deste;\n\nII - bens e direitos que, a qualquer título, lhe sejam adjudicados ou que lhe vierem a ser vinculados por força de lei;\n\nIII - receita das contribuições sociais para a seguridade social, previstas na alínea a do inciso I e no inciso II do art. 195 da Constituição;\n\nIV - produto da liquidação de bens e ativos de pessoa física ou jurídica em débito com a Previdência Social;\n\nV - resultado da aplicação financeira de seus ativos;\n\nVI - recursos provenientes do orçamento da União.\n\n§ 2o O Fundo será gerido pelo Instituto Nacional do Seguro Social, na forma da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2068.%20Na%20forma%20do%20art.%20250%20da%20Constitui%C3%A7%C3%A3o%2C%20%C3%A9%20criado%20o%20Fundo%20do%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%2C%20vinculado%20ao%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. O ente da Federação que mantiver ou vier a instituir regime próprio de previdência social para seus servidores conferir-lhe-á caráter contributivo e o organizará com base em normas de contabilidade e atuária que preservem seu equilíbrio financeiro e atuarial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2069.%20O%20ente%20da%20Federa%C3%A7%C3%A3o%20que%20mantiver%20ou%20vier%20a%20instituir%20regime%20pr%C3%B3prio%20de%20previd%C3%AAncia%20social%20para%20seus%20servidores%20conferir-lhe-%C3%A1%20car%C3%A1ter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. O Poder ou órgão referido no art. 20 cuja despesa total com pessoal no exercício anterior ao da publicação desta Lei Complementar estiver acima dos limites estabelecidos nos arts. 19 e 20 deverá enquadrar-se no respectivo limite em até dois exercícios, eliminando o excesso, gradualmente, à razão de, pelo menos, 50% a.a. (cinqüenta por cento ao ano), mediante a adoção, entre outras, das medidas previstas nos arts. 22 e 23.\n\nParágrafo único. A inobservância do disposto no caput, no prazo fixado, sujeita o ente às sanções previstas no § 3o do art. 23.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2070.%20O%20Poder%20ou%20%C3%B3rg%C3%A3o%20referido%20no%20art.%2020%20cuja%20despesa%20total%20com%20pessoal%20no%20exerc%C3%ADcio%20anterior%20ao%20da%20publica%C3%A7%C3%A3o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Ressalvada a hipótese do inciso X do art. 37 da Constituição, até o término do terceiro exercício financeiro seguinte à entrada em vigor desta Lei Complementar, a despesa total com pessoal dos Poderes e órgãos referidos no art. 20 não ultrapassará, em percentual da receita corrente líquida, a despesa verificada no exercício imediatamente anterior, acrescida de até 10% (dez por cento), se esta for inferior ao limite definido na forma do art. 20.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2071.%20Ressalvada%20a%20hip%C3%B3tese%20do%20inciso%20X%20do%20art.%2037%20da%20Constitui%C3%A7%C3%A3o%2C%20at%C3%A9%20o%20t%C3%A9rmino%20do%20terceiro%20exerc%C3%ADcio%20financeiro%20seguinte%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. A despesa com serviços de terceiros dos Poderes e órgãos referidos no art. 20 não poderá exceder, em percentual da receita corrente líquida, a do exercício anterior à entrada em vigor desta Lei Complementar, até o término do terceiro exercício seguinte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2072.%20A%20despesa%20com%20servi%C3%A7os%20de%20terceiros%20dos%20Poderes%20e%20%C3%B3rg%C3%A3os%20referidos%20no%20art.%2020%20n%C3%A3o%20poder%C3%A1%20exceder%2C%20em%20percentual%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. As infrações dos dispositivos desta Lei Complementar serão punidas segundo o Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal); a Lei no 1.079, de 10 de abril de 1950; o Decreto-Lei no 201, de 27 de fevereiro de 1967; a Lei no 8.429, de 2 de junho de 1992; e demais normas da legislação pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2073.%20As%20infra%C3%A7%C3%B5es%20dos%20dispositivos%20desta%20Lei%20Complementar%20ser%C3%A3o%20punidas%20segundo%20o%20Decreto-Lei%20no%202.848%2C%20de%207%20de%20dezembro%20de%201940",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "73-A"
+    },
+    "73-A": {
+      "numero": "73-A",
+      "texto": "Art. 73-A. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar ao respectivo Tribunal de Contas e ao órgão competente do Ministério Público o descumprimento das prescrições estabelecidas nesta Lei Complementar. (Incluído pela Lei Complementar nº 131, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2073-A.%20Qualquer%20cidad%C3%A3o%2C%20partido%20pol%C3%ADtico%2C%20associa%C3%A7%C3%A3o%20ou%20sindicato%20%C3%A9%20parte%20leg%C3%ADtima%20para%20denunciar%20ao%20respectivo%20Tribunal%20de%20Contas%20e%20ao%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "73-B"
+    },
+    "73-B": {
+      "numero": "73-B",
+      "texto": "Art. 73-B. Ficam estabelecidos os seguintes prazos para o cumprimento das determinações dispostas nos incisos II e III do parágrafo único do art. 48 e do art. 48-A: (Incluído pela Lei Complementar nº 131, de 2009).\n\nI – 1 (um) ano para a União, os Estados, o Distrito Federal e os Municípios com mais de 100.000 (cem mil) habitantes; (Incluído pela Lei Complementar nº 131, de 2009).\n\nII – 2 (dois) anos para os Municípios que tenham entre 50.000 (cinquenta mil) e 100.000 (cem mil) habitantes; (Incluído pela Lei Complementar nº 131, de 2009).\n\nIII – 4 (quatro) anos para os Municípios que tenham até 50.000 (cinquenta mil) habitantes. (Incluído pela Lei Complementar nº 131, de 2009).\n\nParágrafo único. Os prazos estabelecidos neste artigo serão contados a partir da data de publicação da lei complementar que introduziu os dispositivos referidos no caput deste artigo. (Incluído pela Lei Complementar nº 131, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2073-B.%20Ficam%20estabelecidos%20os%20seguintes%20prazos%20para%20o%20cumprimento%20das%20determina%C3%A7%C3%B5es%20dispostas%20nos%20incisos%20II%20e%20III%20do%20par%C3%A1grafo%20%C3%BAnico%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73-A",
+      "next": "73-C"
+    },
+    "73-C": {
+      "numero": "73-C",
+      "texto": "Art. 73-C. O não atendimento, até o encerramento dos prazos previstos no art. 73-B, das determinações contidas nos incisos II e III do parágrafo único do art. 48 e no art. 48-A sujeita o ente à sanção prevista no inciso I do § 3o do art. 23. (Incluído pela Lei Complementar nº 131, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2073-C.%20O%20n%C3%A3o%20atendimento%2C%20at%C3%A9%20o%20encerramento%20dos%20prazos%20previstos%20no%20art.%2073-B%2C%20das%20determina%C3%A7%C3%B5es%20contidas%20nos%20incisos%20II%20e%20III",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73-B",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Esta Lei Complementar entra em vigor na data da sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2074.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20na%20data%20da%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73-C",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Revoga-se a Lei Complementar no 96, de 31 de maio de 1999.\n\nBrasília, 4 de maio de 2000; 179o da Independência e 112o da República.\n\nFERNANDO HENRIQUE CARDOSO Pedro Malan Martus Tavares\n\nEste texto não substitui o publicada no DOU de 5.5.2000\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm#:~:text=Art.%2075.%20Revoga-se%20a%20Lei%20Complementar%20no%2096%2C%20de%2031%20de%20maio%20de%201999.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": null
+    }
+  }
+}

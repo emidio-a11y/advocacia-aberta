@@ -1,0 +1,479 @@
+{
+  "_meta": {
+    "codigo": "LMS",
+    "nome": "Mandado de Segurança",
+    "lei": "Lei 12.016/2009",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+    "total_artigos": 29,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça. (Vide ADIN 4296)\n\n§ 1o Equiparam-se às autoridades, para os efeitos desta Lei, os representantes ou órgãos de partidos políticos e os administradores de entidades autárquicas, bem como os dirigentes de pessoas jurídicas ou as pessoas naturais no exercício de atribuições do poder público, somente no que disser respeito a essas atribuições.\n\n§ 2o Não cabe mandado de segurança contra os atos de gestão comercial praticados pelos administradores de empresas públicas, de sociedade de economia mista e de concessionárias de serviço público. (Vide ADIN 4296)\n\n§ 3o Quando o direito ameaçado ou violado couber a várias pessoas, qualquer delas poderá requerer o mandado de segurança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%201o%20Conceder-se-%C3%A1%20mandado%20de%20seguran%C3%A7a%20para%20proteger%20direito%20l%C3%ADquido%20e%20certo%2C%20n%C3%A3o%20amparado%20por%20habeas%20corpus%20ou%20habeas%20data%2C%20sempre%20que%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Considerar-se-á federal a autoridade coatora se as consequências de ordem patrimonial do ato contra o qual se requer o mandado houverem de ser suportadas pela União ou entidade por ela controlada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%202o%20Considerar-se-%C3%A1%20federal%20a%20autoridade%20coatora%20se%20as%20consequ%C3%AAncias%20de%20ordem%20patrimonial%20do%20ato%20contra%20o%20qual%20se%20requer%20o%20mandado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O titular de direito líquido e certo decorrente de direito, em condições idênticas, de terceiro poderá impetrar mandado de segurança a favor do direito originário, se o seu titular não o fizer, no prazo de 30 (trinta) dias, quando notificado judicialmente.\n\nParágrafo único. O exercício do direito previsto no caput deste artigo submete-se ao prazo fixado no art. 23 desta Lei, contado da notificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%203o%20O%20titular%20de%20direito%20l%C3%ADquido%20e%20certo%20decorrente%20de%20direito%2C%20em%20condi%C3%A7%C3%B5es%20id%C3%AAnticas%2C%20de%20terceiro%20poder%C3%A1%20impetrar%20mandado%20de%20seguran%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Em caso de urgência, é permitido, observados os requisitos legais, impetrar mandado de segurança por telegrama, radiograma, fax ou outro meio eletrônico de autenticidade comprovada.\n\n§ 1o Poderá o juiz, em caso de urgência, notificar a autoridade por telegrama, radiograma ou outro meio que assegure a autenticidade do documento e a imediata ciência pela autoridade.\n\n§ 2o O texto original da petição deverá ser apresentado nos 5 (cinco) dias úteis seguintes.\n\n§ 3o Para os fins deste artigo, em se tratando de documento eletrônico, serão observadas as regras da Infra-Estrutura de Chaves Públicas Brasileira - ICP-Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%204o%20Em%20caso%20de%20urg%C3%AAncia%2C%20%C3%A9%20permitido%2C%20observados%20os%20requisitos%20legais%2C%20impetrar%20mandado%20de%20seguran%C3%A7a%20por%20telegrama%2C%20radiograma%2C%20fax%20ou%20outro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Não se concederá mandado de segurança quando se tratar:\n\nI - de ato do qual caiba recurso administrativo com efeito suspensivo, independentemente de caução;\n\nII - de decisão judicial da qual caiba recurso com efeito suspensivo;\n\nIII - de decisão judicial transitada em julgado.\n\nParágrafo único. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%205o%20N%C3%A3o%20se%20conceder%C3%A1%20mandado%20de%20seguran%C3%A7a%20quando%20se%20tratar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A petição inicial, que deverá preencher os requisitos estabelecidos pela lei processual, será apresentada em 2 (duas) vias com os documentos que instruírem a primeira reproduzidos na segunda e indicará, além da autoridade coatora, a pessoa jurídica que esta integra, à qual se acha vinculada ou da qual exerce atribuições.\n\n§ 1o No caso em que o documento necessário à prova do alegado se ache em repartição ou estabelecimento público ou em poder de autoridade que se recuse a fornecê-lo por certidão ou de terceiro, o juiz ordenará, preliminarmente, por ofício, a exibição desse documento em original ou em cópia autêntica e marcará, para o cumprimento da ordem, o prazo de 10 (dez) dias. O escrivão extrairá cópias do documento para juntá-las à segunda via da petição.\n\n§ 2o Se a autoridade que tiver procedido dessa maneira for a própria coatora, a ordem far-se-á no próprio instrumento da notificação.\n\n§ 3o Considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática.\n\n§ 4o (VETADO)\n\n§ 5o Denega-se o mandado de segurança nos casos previstos pelo art. 267 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.\n\n§ 6o O pedido de mandado de segurança poderá ser renovado dentro do prazo decadencial, se a decisão denegatória não lhe houver apreciado o mérito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%206o%20A%20peti%C3%A7%C3%A3o%20inicial%2C%20que%20dever%C3%A1%20preencher%20os%20requisitos%20estabelecidos%20pela%20lei%20processual%2C%20ser%C3%A1%20apresentada%20em%202%20%28duas%29%20vias%20com%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Ao despachar a inicial, o juiz ordenará:\n\nI - que se notifique o coator do conteúdo da petição inicial, enviando-lhe a segunda via apresentada com as cópias dos documentos, a fim de que, no prazo de 10 (dez) dias, preste as informações;\n\nII - que se dê ciência do feito ao órgão de representação judicial da pessoa jurídica interessada, enviando-lhe cópia da inicial sem documentos, para que, querendo, ingresse no feito;\n\nIII - que se suspenda o ato que deu motivo ao pedido, quando houver fundamento relevante e do ato impugnado puder resultar a ineficácia da medida, caso seja finalmente deferida, sendo facultado exigir do impetrante caução, fiança ou depósito, com o objetivo de assegurar o ressarcimento à pessoa jurídica. (Vide ADIN 4296)\n\n§ 1o Da decisão do juiz de primeiro grau que conceder ou denegar a liminar caberá agravo de instrumento, observado o disposto na Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.\n\n§ 2o Não será concedida medida liminar que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza. (Vide ADIN 4296)\n\n§ 3o Os efeitos da medida liminar, salvo se revogada ou cassada, persistirão até a prolação da sentença.\n\n§ 4o Deferida a medida liminar, o processo terá prioridade para julgamento.\n\n§ 5o As vedações relacionadas com a concessão de liminares previstas neste artigo se estendem à tutela antecipada a que se referem os arts. 273 e 461 da Lei no 5.869, de 11 janeiro de 1973 - Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%207o%20Ao%20despachar%20a%20inicial%2C%20o%20juiz%20ordenar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Será decretada a perempção ou caducidade da medida liminar ex officio ou a requerimento do Ministério Público quando, concedida a medida, o impetrante criar obstáculo ao normal andamento do processo ou deixar de promover, por mais de 3 (três) dias úteis, os atos e as diligências que lhe cumprirem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%208o%20Ser%C3%A1%20decretada%20a%20peremp%C3%A7%C3%A3o%20ou%20caducidade%20da%20medida%20liminar%20ex%20officio%20ou%20a%20requerimento%20do%20Minist%C3%A9rio%20P%C3%BAblico%20quando%2C%20concedida%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o As autoridades administrativas, no prazo de 48 (quarenta e oito) horas da notificação da medida liminar, remeterão ao Ministério ou órgão a que se acham subordinadas e ao Advogado-Geral da União ou a quem tiver a representação judicial da União, do Estado, do Município ou da entidade apontada como coatora cópia autenticada do mandado notificatório, assim como indicações e elementos outros necessários às providências a serem tomadas para a eventual suspensão da medida e defesa do ato apontado como ilegal ou abusivo de poder.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%209o%20As%20autoridades%20administrativas%2C%20no%20prazo%20de%2048%20%28quarenta%20e%20oito%29%20horas%20da%20notifica%C3%A7%C3%A3o%20da%20medida%20liminar%2C%20remeter%C3%A3o%20ao%20Minist%C3%A9rio%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A inicial será desde logo indeferida, por decisão motivada, quando não for o caso de mandado de segurança ou lhe faltar algum dos requisitos legais ou quando decorrido o prazo legal para a impetração.\n\n§ 1o Do indeferimento da inicial pelo juiz de primeiro grau caberá apelação e, quando a competência para o julgamento do mandado de segurança couber originariamente a um dos tribunais, do ato do relator caberá agravo para o órgão competente do tribunal que integre.\n\n§ 2o O ingresso de litisconsorte ativo não será admitido após o despacho da petição inicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2010.%20A%20inicial%20ser%C3%A1%20desde%20logo%20indeferida%2C%20por%20decis%C3%A3o%20motivada%2C%20quando%20n%C3%A3o%20for%20o%20caso%20de%20mandado%20de%20seguran%C3%A7a%20ou%20lhe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Feitas as notificações, o serventuário em cujo cartório corra o feito juntará aos autos cópia autêntica dos ofícios endereçados ao coator e ao órgão de representação judicial da pessoa jurídica interessada, bem como a prova da entrega a estes ou da sua recusa em aceitá-los ou dar recibo e, no caso do art. 4o desta Lei, a comprovação da remessa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2011.%20Feitas%20as%20notifica%C3%A7%C3%B5es%2C%20o%20serventu%C3%A1rio%20em%20cujo%20cart%C3%B3rio%20corra%20o%20feito%20juntar%C3%A1%20aos%20autos%20c%C3%B3pia%20aut%C3%AAntica%20dos%20of%C3%ADcios%20endere%C3%A7ados%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Findo o prazo a que se refere o inciso I do caput do art. 7o desta Lei, o juiz ouvirá o representante do Ministério Público, que opinará, dentro do prazo improrrogável de 10 (dez) dias.\n\nParágrafo único. Com ou sem o parecer do Ministério Público, os autos serão conclusos ao juiz, para a decisão, a qual deverá ser necessariamente proferida em 30 (trinta) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2012.%20Findo%20o%20prazo%20a%20que%20se%20refere%20o%20inciso%20I%20do%20caput%20do%20art.%207o%20desta%20Lei%2C%20o%20juiz%20ouvir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Concedido o mandado, o juiz transmitirá em ofício, por intermédio do oficial do juízo, ou pelo correio, mediante correspondência com aviso de recebimento, o inteiro teor da sentença à autoridade coatora e à pessoa jurídica interessada.\n\nParágrafo único. Em caso de urgência, poderá o juiz observar o disposto no art. 4o desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2013.%20Concedido%20o%20mandado%2C%20o%20juiz%20transmitir%C3%A1%20em%20of%C3%ADcio%2C%20por%20interm%C3%A9dio%20do%20oficial%20do%20ju%C3%ADzo%2C%20ou%20pelo%20correio%2C%20mediante%20correspond%C3%AAncia%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Da sentença, denegando ou concedendo o mandado, cabe apelação.\n\n§ 1o Concedida a segurança, a sentença estará sujeita obrigatoriamente ao duplo grau de jurisdição.\n\n§ 2o Estende-se à autoridade coatora o direito de recorrer.\n\n§ 3o A sentença que conceder o mandado de segurança pode ser executada provisoriamente, salvo nos casos em que for vedada a concessão da medida liminar.\n\n§ 4o O pagamento de vencimentos e vantagens pecuniárias assegurados em sentença concessiva de mandado de segurança a servidor público da administração direta ou autárquica federal, estadual e municipal somente será efetuado relativamente às prestações que se vencerem a contar da data do ajuizamento da inicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2014.%20Da%20senten%C3%A7a%2C%20denegando%20ou%20concedendo%20o%20mandado%2C%20cabe%20apela%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Quando, a requerimento de pessoa jurídica de direito público interessada ou do Ministério Público e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, o presidente do tribunal ao qual couber o conhecimento do respectivo recurso suspender, em decisão fundamentada, a execução da liminar e da sentença, dessa decisão caberá agravo, sem efeito suspensivo, no prazo de 5 (cinco) dias, que será levado a julgamento na sessão seguinte à sua interposição.\n\n§ 1o Indeferido o pedido de suspensão ou provido o agravo a que se refere o caput deste artigo, caberá novo pedido de suspensão ao presidente do tribunal competente para conhecer de eventual recurso especial ou extraordinário.\n\n§ 2o É cabível também o pedido de suspensão a que se refere o § 1o deste artigo, quando negado provimento a agravo de instrumento interposto contra a liminar a que se refere este artigo.\n\n§ 3o A interposição de agravo de instrumento contra liminar concedida nas ações movidas contra o poder público e seus agentes não prejudica nem condiciona o julgamento do pedido de suspensão a que se refere este artigo.\n\n§ 4o O presidente do tribunal poderá conferir ao pedido efeito suspensivo liminar se constatar, em juízo prévio, a plausibilidade do direito invocado e a urgência na concessão da medida.\n\n§ 5o As liminares cujo objeto seja idêntico poderão ser suspensas em uma única decisão, podendo o presidente do tribunal estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2015.%20Quando%2C%20a%20requerimento%20de%20pessoa%20jur%C3%ADdica%20de%20direito%20p%C3%BAblico%20interessada%20ou%20do%20Minist%C3%A9rio%20P%C3%BAblico%20e%20para%20evitar%20grave%20les%C3%A3o%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Nos casos de competência originária dos tribunais, caberá ao relator a instrução do processo, sendo assegurada a defesa oral na sessão do julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2016.%20Nos%20casos%20de%20compet%C3%AAncia%20origin%C3%A1ria%20dos%20tribunais%2C%20caber%C3%A1%20ao%20relator%20a%20instru%C3%A7%C3%A3o%20do%20processo%2C%20sendo%20assegurada%20a%20defesa%20oral%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Nas decisões proferidas em mandado de segurança e nos respectivos recursos, quando não publicado, no prazo de 30 (trinta) dias, contado da data do julgamento, o acórdão será substituído pelas respectivas notas taquigráficas, independentemente de revisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2017.%20Nas%20decis%C3%B5es%20proferidas%20em%20mandado%20de%20seguran%C3%A7a%20e%20nos%20respectivos%20recursos%2C%20quando%20n%C3%A3o%20publicado%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Das decisões em mandado de segurança proferidas em única instância pelos tribunais cabe recurso especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for denegada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2018.%20Das%20decis%C3%B5es%20em%20mandado%20de%20seguran%C3%A7a%20proferidas%20em%20%C3%BAnica%20inst%C3%A2ncia%20pelos%20tribunais%20cabe%20recurso%20especial%20e%20extraordin%C3%A1rio%2C%20nos%20casos%20legalmente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A sentença ou o acórdão que denegar mandado de segurança, sem decidir o mérito, não impedirá que o requerente, por ação própria, pleiteie os seus direitos e os respectivos efeitos patrimoniais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2019.%20A%20senten%C3%A7a%20ou%20o%20ac%C3%B3rd%C3%A3o%20que%20denegar%20mandado%20de%20seguran%C3%A7a%2C%20sem%20decidir%20o%20m%C3%A9rito%2C%20n%C3%A3o%20impedir%C3%A1%20que%20o%20requerente%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os processos de mandado de segurança e os respectivos recursos terão prioridade sobre todos os atos judiciais, salvo habeas corpus.\n\n§ 1o Na instância superior, deverão ser levados a julgamento na primeira sessão que se seguir à data em que forem conclusos ao relator.\n\n§ 2o O prazo para a conclusão dos autos não poderá exceder de 5 (cinco) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2020.%20Os%20processos%20de%20mandado%20de%20seguran%C3%A7a%20e%20os%20respectivos%20recursos%20ter%C3%A3o%20prioridade%20sobre%20todos%20os%20atos%20judiciais%2C%20salvo%20habeas%20corpus.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional, na defesa de seus interesses legítimos relativos a seus integrantes ou à finalidade partidária, ou por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há, pelo menos, 1 (um) ano, em defesa de direitos líquidos e certos da totalidade, ou de parte, dos seus membros ou associados, na forma dos seus estatutos e desde que pertinentes às suas finalidades, dispensada, para tanto, autorização especial.\n\nParágrafo único. Os direitos protegidos pelo mandado de segurança coletivo podem ser:\n\nI - coletivos, assim entendidos, para efeito desta Lei, os transindividuais, de natureza indivisível, de que seja titular grupo ou categoria de pessoas ligadas entre si ou com a parte contrária por uma relação jurídica básica;\n\nII - individuais homogêneos, assim entendidos, para efeito desta Lei, os decorrentes de origem comum e da atividade ou situação específica da totalidade ou de parte dos associados ou membros do impetrante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2021.%20O%20mandado%20de%20seguran%C3%A7a%20coletivo%20pode%20ser%20impetrado%20por%20partido%20pol%C3%ADtico%20com%20representa%C3%A7%C3%A3o%20no%20Congresso%20Nacional%2C%20na%20defesa%20de%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. No mandado de segurança coletivo, a sentença fará coisa julgada limitadamente aos membros do grupo ou categoria substituídos pelo impetrante. (Vide ADIN 4296)\n\n§ 1o O mandado de segurança coletivo não induz litispendência para as ações individuais, mas os efeitos da coisa julgada não beneficiarão o impetrante a título individual se não requerer a desistência de seu mandado de segurança no prazo de 30 (trinta) dias a contar da ciência comprovada da impetração da segurança coletiva.\n\n§ 2o No mandado de segurança coletivo, a liminar só poderá ser concedida após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de 72 (setenta e duas) horas. (Vide ADIN 4296)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2022.%20No%20mandado%20de%20seguran%C3%A7a%20coletivo%2C%20a%20senten%C3%A7a%20far%C3%A1%20coisa%20julgada%20limitadamente%20aos%20membros%20do%20grupo%20ou%20categoria%20substitu%C3%ADdos%20pelo%20impetrante.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado. (Vide ADIN 4296)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2023.%20O%20direito%20de%20requerer%20mandado%20de%20seguran%C3%A7a%20extinguir-se-%C3%A1%20decorridos%20120%20%28cento%20e%20vinte%29%20dias%2C%20contados%20da%20ci%C3%AAncia%2C%20pelo%20interessado%2C%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Aplicam-se ao mandado de segurança os arts. 46 a 49 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2024.%20Aplicam-se%20ao%20mandado%20de%20seguran%C3%A7a%20os%20arts.%2046%20a%2049%20da%20Lei%20no%205.869%2C%20de%2011%20de%20janeiro%20de%201973",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé. (Vide ADIN 4296)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2025.%20N%C3%A3o%20cabem%2C%20no%20processo%20de%20mandado%20de%20seguran%C3%A7a%2C%20a%20interposi%C3%A7%C3%A3o%20de%20embargos%20infringentes%20e%20a%20condena%C3%A7%C3%A3o%20ao%20pagamento%20dos%20honor%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Constitui crime de desobediência, nos termos do art. 330 do Decreto-Lei no 2.848, de 7 de dezembro de 1940, o não cumprimento das decisões proferidas em mandado de segurança, sem prejuízo das sanções administrativas e da aplicação da Lei no 1.079, de 10 de abril de 1950, quando cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2026.%20Constitui%20crime%20de%20desobedi%C3%AAncia%2C%20nos%20termos%20do%20art.%20330%20do%20Decreto-Lei%20no%202.848%2C%20de%207%20de%20dezembro%20de%201940%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Os regimentos dos tribunais e, no que couber, as leis de organização judiciária deverão ser adaptados às disposições desta Lei no prazo de 180 (cento e oitenta) dias, contado da sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2027.%20Os%20regimentos%20dos%20tribunais%20e%2C%20no%20que%20couber%2C%20as%20leis%20de%20organiza%C3%A7%C3%A3o%20judici%C3%A1ria%20dever%C3%A3o%20ser%20adaptados%20%C3%A0s%20disposi%C3%A7%C3%B5es%20desta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2028.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Revogam-se as Leis nos 1.533, de 31 de dezembro de 1951, 4.166, de 4 de dezembro de 1962, 4.348, de 26 de junho de 1964, 5.021, de 9 de junho de 1966; o art. 3o da Lei no 6.014, de 27 de dezembro de 1973, o art. 1o da Lei no 6.071, de 3 de julho de 1974, o art. 12 da Lei no 6.978, de 19 de janeiro de 1982, e o art. 2o da Lei no 9.259, de 9 de janeiro de 1996.\n\nBrasília, 7 de agosto de 2009; 188o da Independência e 121o da República.\n\nLUIZ INÁCIO LULA DA SILVA Tarso Genro José Antonio Dias Toffoli\n\nEste texto não substitui o publicado no DOU de 10.8.2009\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm#:~:text=Art.%2029.%20Revogam-se%20as%20Leis%20nos%201.533%2C%20de%2031%20de%20dezembro%20de%201951%2C%204.166%2C%20de%204%20de%20dezembro%20de%201962%2C%204.348%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": null
+    }
+  }
+}

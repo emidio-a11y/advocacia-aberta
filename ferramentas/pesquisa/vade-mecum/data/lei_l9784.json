@@ -1,0 +1,1295 @@
+{
+  "_meta": {
+    "codigo": "L9784",
+    "nome": "Processo Administrativo Federal (PAF)",
+    "lei": "Lei 9.784/1999",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+    "total_artigos": 80,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da Administração Federal direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor cumprimento dos fins da Administração.\n\n§ 1o Os preceitos desta Lei também se aplicam aos órgãos dos Poderes Legislativo e Judiciário da União, quando no desempenho de função administrativa.\n\n§ 2o Para os fins desta Lei, consideram-se:\n\nI - órgão - a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta;\n\nII - entidade - a unidade de atuação dotada de personalidade jurídica;\n\nIII - autoridade - o servidor ou agente público dotado de poder de decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%201o%20Esta%20Lei%20estabelece%20normas%20b%C3%A1sicas%20sobre%20o%20processo%20administrativo%20no%20%C3%A2mbito%20da%20Administra%C3%A7%C3%A3o%20Federal%20direta%20e%20indireta%2C%20visando%2C%20em%20especial%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.\n\nParágrafo único. Nos processos administrativos serão observados, entre outros, os critérios de:\n\nI - atuação conforme a lei e o Direito;\n\nII - atendimento a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências, salvo autorização em lei;\n\nIII - objetividade no atendimento do interesse público, vedada a promoção pessoal de agentes ou autoridades;\n\nIV - atuação segundo padrões éticos de probidade, decoro e boa-fé;\n\nV - divulgação oficial dos atos administrativos, ressalvadas as hipóteses de sigilo previstas na Constituição;\n\nVI - adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do interesse público;\n\nVII - indicação dos pressupostos de fato e de direito que determinarem a decisão;\n\nVIII – observância das formalidades essenciais à garantia dos direitos dos administrados;\n\nIX - adoção de formas simples, suficientes para propiciar adequado grau de certeza, segurança e respeito aos direitos dos administrados;\n\nX - garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de provas e à interposição de recursos, nos processos de que possam resultar sanções e nas situações de litígio;\n\nXI - proibição de cobrança de despesas processuais, ressalvadas as previstas em lei;\n\nXII - impulsão, de ofício, do processo administrativo, sem prejuízo da atuação dos interessados;\n\nXIII - interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público a que se dirige, vedada aplicação retroativa de nova interpretação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%202o%20A%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20obedecer%C3%A1%2C%20dentre%20outros%2C%20aos%20princ%C3%ADpios%20da%20legalidade%2C%20finalidade%2C%20motiva%C3%A7%C3%A3o%2C%20razoabilidade%2C%20proporcionalidade%2C%20moralidade%2C%20ampla%20defesa%2C%20contradit%C3%B3rio%2C%20seguran%C3%A7a%20jur%C3%ADdica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe sejam assegurados:\n\nI - ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações;\n\nII - ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas;\n\nIII - formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente;\n\nIV - fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%203o%20O%20administrado%20tem%20os%20seguintes%20direitos%20perante%20a%20Administra%C3%A7%C3%A3o%2C%20sem%20preju%C3%ADzo%20de%20outros%20que%20lhe%20sejam%20assegurados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DOS DIREITOS DOS ADMINISTRADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o São deveres do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo:\n\nI - expor os fatos conforme a verdade;\n\nII - proceder com lealdade, urbanidade e boa-fé;\n\nIII - não agir de modo temerário;\n\nIV - prestar as informações que lhe forem solicitadas e colaborar para o esclarecimento dos fatos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%204o%20S%C3%A3o%20deveres%20do%20administrado%20perante%20a%20Administra%C3%A7%C3%A3o%2C%20sem%20preju%C3%ADzo%20de%20outros%20previstos%20em%20ato%20normativo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DOS DEVERES DO ADMINISTRADO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%205o%20O%20processo%20administrativo%20pode%20iniciar-se%20de%20of%C3%ADcio%20ou%20a%20pedido%20de%20interessado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DO INÍCIO DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral, deve ser formulado por escrito e conter os seguintes dados:\n\nI - órgão ou autoridade administrativa a que se dirige;\n\nII - identificação do interessado ou de quem o represente;\n\nIII - domicílio do requerente ou local para recebimento de comunicações;\n\nIV - formulação do pedido, com exposição dos fatos e de seus fundamentos;\n\nV - data e assinatura do requerente ou de seu representante.\n\nParágrafo único. É vedada à Administração a recusa imotivada de recebimento de documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais falhas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%206o%20O%20requerimento%20inicial%20do%20interessado%2C%20salvo%20casos%20em%20que%20for%20admitida%20solicita%C3%A7%C3%A3o%20oral%2C%20deve%20ser%20formulado%20por%20escrito%20e%20conter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DO INÍCIO DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Os órgãos e entidades administrativas deverão elaborar modelos ou formulários padronizados para assuntos que importem pretensões equivalentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%207o%20Os%20%C3%B3rg%C3%A3os%20e%20entidades%20administrativas%20dever%C3%A3o%20elaborar%20modelos%20ou%20formul%C3%A1rios%20padronizados%20para%20assuntos%20que%20importem%20pretens%C3%B5es%20equivalentes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DO INÍCIO DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%208o%20Quando%20os%20pedidos%20de%20uma%20pluralidade%20de%20interessados%20tiverem%20conte%C3%BAdo%20e%20fundamentos%20id%C3%AAnticos%2C%20poder%C3%A3o%20ser%20formulados%20em%20um%20%C3%BAnico%20requerimento%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DO INÍCIO DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o São legitimados como interessados no processo administrativo:\n\nI - pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses individuais ou no exercício do direito de representação;\n\nII - aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser afetados pela decisão a ser adotada;\n\nIII - as organizações e associações representativas, no tocante a direitos e interesses coletivos;\n\nIV - as pessoas ou as associações legalmente constituídas quanto a direitos ou interesses difusos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%209o%20S%C3%A3o%20legitimados%20como%20interessados%20no%20processo%20administrativo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS INTERESSADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. São capazes, para fins de processo administrativo, os maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2010.%20S%C3%A3o%20capazes%2C%20para%20fins%20de%20processo%20administrativo%2C%20os%20maiores%20de%20dezoito%20anos%2C%20ressalvada%20previs%C3%A3o%20especial%20em%20ato%20normativo%20pr%C3%B3prio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS INTERESSADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2011.%20A%20compet%C3%AAncia%20%C3%A9%20irrenunci%C3%A1vel%20e%20se%20exerce%20pelos%20%C3%B3rg%C3%A3os%20administrativos%20a%20que%20foi%20atribu%C3%ADda%20como%20pr%C3%B3pria%2C%20salvo%20os%20casos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial.\n\nParágrafo único. O disposto no caput deste artigo aplica-se à delegação de competência dos órgãos colegiados aos respectivos presidentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2012.%20Um%20%C3%B3rg%C3%A3o%20administrativo%20e%20seu%20titular%20poder%C3%A3o%2C%20se%20n%C3%A3o%20houver%20impedimento%20legal%2C%20delegar%20parte%20da%20sua%20compet%C3%AAncia%20a%20outros%20%C3%B3rg%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Não podem ser objeto de delegação:\n\nI - a edição de atos de caráter normativo;\n\nII - a decisão de recursos administrativos;\n\nIII - as matérias de competência exclusiva do órgão ou autoridade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2013.%20N%C3%A3o%20podem%20ser%20objeto%20de%20delega%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O ato de delegação e sua revogação deverão ser publicados no meio oficial.\n\n§ 1o O ato de delegação especificará as matérias e poderes transferidos, os limites da atuação do delegado, a duração e os objetivos da delegação e o recurso cabível, podendo conter ressalva de exercício da atribuição delegada.\n\n§ 2o O ato de delegação é revogável a qualquer tempo pela autoridade delegante.\n\n§ 3o As decisões adotadas por delegação devem mencionar explicitamente esta qualidade e considerar-se-ão editadas pelo delegado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2014.%20O%20ato%20de%20delega%C3%A7%C3%A3o%20e%20sua%20revoga%C3%A7%C3%A3o%20dever%C3%A3o%20ser%20publicados%20no%20meio%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2015.%20Ser%C3%A1%20permitida%2C%20em%20car%C3%A1ter%20excepcional%20e%20por%20motivos%20relevantes%20devidamente%20justificados%2C%20a%20avoca%C3%A7%C3%A3o%20tempor%C3%A1ria%20de%20compet%C3%AAncia%20atribu%C3%ADda%20a%20%C3%B3rg%C3%A3o%20hierarquicamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os órgãos e entidades administrativas divulgarão publicamente os locais das respectivas sedes e, quando conveniente, a unidade fundacional competente em matéria de interesse especial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2016.%20Os%20%C3%B3rg%C3%A3os%20e%20entidades%20administrativas%20divulgar%C3%A3o%20publicamente%20os%20locais%20das%20respectivas%20sedes%20e%2C%20quando%20conveniente%2C%20a%20unidade%20fundacional%20competente%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a autoridade de menor grau hierárquico para decidir.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2017.%20Inexistindo%20compet%C3%AAncia%20legal%20espec%C3%ADfica%2C%20o%20processo%20administrativo%20dever%C3%A1%20ser%20iniciado%20perante%20a%20autoridade%20de%20menor%20grau%20hier%C3%A1rquico%20para%20decidir.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA COMPETÊNCIA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. É impedido de atuar em processo administrativo o servidor ou autoridade que:\n\nI - tenha interesse direto ou indireto na matéria;\n\nII - tenha participado ou venha a participar como perito, testemunha ou representante, ou se tais situações ocorrem quanto ao cônjuge, companheiro ou parente e afins até o terceiro grau;\n\nIII - esteja litigando judicial ou administrativamente com o interessado ou respectivo cônjuge ou companheiro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2018.%20%C3%89%20impedido%20de%20atuar%20em%20processo%20administrativo%20o%20servidor%20ou%20autoridade%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DOS IMPEDIMENTOS E DA SUSPEIÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A autoridade ou servidor que incorrer em impedimento deve comunicar o fato à autoridade competente, abstendo-se de atuar.\n\nParágrafo único. A omissão do dever de comunicar o impedimento constitui falta grave, para efeitos disciplinares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2019.%20A%20autoridade%20ou%20servidor%20que%20incorrer%20em%20impedimento%20deve%20comunicar%20o%20fato%20%C3%A0%20autoridade%20competente%2C%20abstendo-se%20de%20atuar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DOS IMPEDIMENTOS E DA SUSPEIÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Pode ser argüida a suspeição de autoridade ou servidor que tenha amizade íntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges, companheiros, parentes e afins até o terceiro grau.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2020.%20Pode%20ser%20arg%C3%BCida%20a%20suspei%C3%A7%C3%A3o%20de%20autoridade%20ou%20servidor%20que%20tenha%20amizade%20%C3%ADntima%20ou%20inimizade%20not%C3%B3ria%20com%20algum%20dos%20interessados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DOS IMPEDIMENTOS E DA SUSPEIÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O indeferimento de alegação de suspeição poderá ser objeto de recurso, sem efeito suspensivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2021.%20O%20indeferimento%20de%20alega%C3%A7%C3%A3o%20de%20suspei%C3%A7%C3%A3o%20poder%C3%A1%20ser%20objeto%20de%20recurso%2C%20sem%20efeito%20suspensivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DOS IMPEDIMENTOS E DA SUSPEIÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir.\n\n§ 1o Os atos do processo devem ser produzidos por escrito, em vernáculo, com a data e o local de sua realização e a assinatura da autoridade responsável.\n\n§ 2o Salvo imposição legal, o reconhecimento de firma somente será exigido quando houver dúvida de autenticidade.\n\n§ 3o A autenticação de documentos exigidos em cópia poderá ser feita pelo órgão administrativo.\n\n§ 4o O processo deverá ter suas páginas numeradas seqüencialmente e rubricadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2022.%20Os%20atos%20do%20processo%20administrativo%20n%C3%A3o%20dependem%20de%20forma%20determinada%20sen%C3%A3o%20quando%20a%20lei%20expressamente%20a%20exigir.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os atos do processo devem realizar-se em dias úteis, no horário normal de funcionamento da repartição na qual tramitar o processo.\n\nParágrafo único. Serão concluídos depois do horário normal os atos já iniciados, cujo adiamento prejudique o curso regular do procedimento ou cause dano ao interessado ou à Administração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2023.%20Os%20atos%20do%20processo%20devem%20realizar-se%20em%20dias%20%C3%BAteis%2C%20no%20hor%C3%A1rio%20normal%20de%20funcionamento%20da%20reparti%C3%A7%C3%A3o%20na%20qual%20tramitar%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos administrados que dele participem devem ser praticados no prazo de cinco dias, salvo motivo de força maior.\n\nParágrafo único. O prazo previsto neste artigo pode ser dilatado até o dobro, mediante comprovada justificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2024.%20Inexistindo%20disposi%C3%A7%C3%A3o%20espec%C3%ADfica%2C%20os%20atos%20do%20%C3%B3rg%C3%A3o%20ou%20autoridade%20respons%C3%A1vel%20pelo%20processo%20e%20dos%20administrados%20que%20dele%20participem%20devem%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os atos do processo devem realizar-se preferencialmente na sede do órgão, cientificando-se o interessado se outro for o local de realização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2025.%20Os%20atos%20do%20processo%20devem%20realizar-se%20preferencialmente%20na%20sede%20do%20%C3%B3rg%C3%A3o%2C%20cientificando-se%20o%20interessado%20se%20outro%20for%20o%20local%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O órgão competente perante o qual tramita o processo administrativo determinará a intimação do interessado para ciência de decisão ou a efetivação de diligências.\n\n§ 1o A intimação deverá conter:\n\nI - identificação do intimado e nome do órgão ou entidade administrativa;\n\nII - finalidade da intimação;\n\nIII - data, hora e local em que deve comparecer;\n\nIV - se o intimado deve comparecer pessoalmente, ou fazer-se representar;\n\nV - informação da continuidade do processo independentemente do seu comparecimento;\n\nVI - indicação dos fatos e fundamentos legais pertinentes.\n\n§ 2o A intimação observará a antecedência mínima de três dias úteis quanto à data de comparecimento.\n\n§ 3o A intimação pode ser efetuada por ciência no processo, por via postal com aviso de recebimento, por telegrama ou outro meio que assegure a certeza da ciência do interessado.\n\n§ 4o No caso de interessados indeterminados, desconhecidos ou com domicílio indefinido, a intimação deve ser efetuada por meio de publicação oficial.\n\n§ 5o As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento do administrado supre sua falta ou irregularidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2026.%20O%20%C3%B3rg%C3%A3o%20competente%20perante%20o%20qual%20tramita%20o%20processo%20administrativo%20determinar%C3%A1%20a%20intima%C3%A7%C3%A3o%20do%20interessado%20para%20ci%C3%AAncia%20de%20decis%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DA COMUNICAÇÃO DOS ATOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O desatendimento da intimação não importa o reconhecimento da verdade dos fatos, nem a renúncia a direito pelo administrado.\n\nParágrafo único. No prosseguimento do processo, será garantido direito de ampla defesa ao interessado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2027.%20O%20desatendimento%20da%20intima%C3%A7%C3%A3o%20n%C3%A3o%20importa%20o%20reconhecimento%20da%20verdade%20dos%20fatos%2C%20nem%20a%20ren%C3%BAncia%20a%20direito%20pelo%20administrado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DA COMUNICAÇÃO DOS ATOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Devem ser objeto de intimação os atos do processo que resultem para o interessado em imposição de deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos de outra natureza, de seu interesse.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2028.%20Devem%20ser%20objeto%20de%20intima%C3%A7%C3%A3o%20os%20atos%20do%20processo%20que%20resultem%20para%20o%20interessado%20em%20imposi%C3%A7%C3%A3o%20de%20deveres%2C%20%C3%B4nus%2C%20san%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DA COMUNICAÇÃO DOS ATOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. As atividades de instrução destinadas a averiguar e comprovar os dados necessários à tomada de decisão realizam-se de ofício ou mediante impulsão do órgão responsável pelo processo, sem prejuízo do direito dos interessados de propor atuações probatórias.\n\n§ 1o O órgão competente para a instrução fará constar dos autos os dados necessários à decisão do processo.\n\n§ 2o Os atos de instrução que exijam a atuação dos interessados devem realizar-se do modo menos oneroso para estes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2029.%20As%20atividades%20de%20instru%C3%A7%C3%A3o%20destinadas%20a%20averiguar%20e%20comprovar%20os%20dados%20necess%C3%A1rios%20%C3%A0%20tomada%20de%20decis%C3%A3o%20realizam-se%20de%20of%C3%ADcio%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. São inadmissíveis no processo administrativo as provas obtidas por meios ilícitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2030.%20S%C3%A3o%20inadmiss%C3%ADveis%20no%20processo%20administrativo%20as%20provas%20obtidas%20por%20meios%20il%C3%ADcitos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Quando a matéria do processo envolver assunto de interesse geral, o órgão competente poderá, mediante despacho motivado, abrir período de consulta pública para manifestação de terceiros, antes da decisão do pedido, se não houver prejuízo para a parte interessada.\n\n§ 1o A abertura da consulta pública será objeto de divulgação pelos meios oficiais, a fim de que pessoas físicas ou jurídicas possam examinar os autos, fixando-se prazo para oferecimento de alegações escritas.\n\n§ 2o O comparecimento à consulta pública não confere, por si, a condição de interessado do processo, mas confere o direito de obter da Administração resposta fundamentada, que poderá ser comum a todas as alegações substancialmente iguais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2031.%20Quando%20a%20mat%C3%A9ria%20do%20processo%20envolver%20assunto%20de%20interesse%20geral%2C%20o%20%C3%B3rg%C3%A3o%20competente%20poder%C3%A1%2C%20mediante%20despacho%20motivado%2C%20abrir%20per%C3%ADodo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Antes da tomada de decisão, a juízo da autoridade, diante da relevância da questão, poderá ser realizada audiência pública para debates sobre a matéria do processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2032.%20Antes%20da%20tomada%20de%20decis%C3%A3o%2C%20a%20ju%C3%ADzo%20da%20autoridade%2C%20diante%20da%20relev%C3%A2ncia%20da%20quest%C3%A3o%2C%20poder%C3%A1%20ser%20realizada%20audi%C3%AAncia%20p%C3%BAblica%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os órgãos e entidades administrativas, em matéria relevante, poderão estabelecer outros meios de participação de administrados, diretamente ou por meio de organizações e associações legalmente reconhecidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2033.%20Os%20%C3%B3rg%C3%A3os%20e%20entidades%20administrativas%2C%20em%20mat%C3%A9ria%20relevante%2C%20poder%C3%A3o%20estabelecer%20outros%20meios%20de%20participa%C3%A7%C3%A3o%20de%20administrados%2C%20diretamente%20ou%20por%20meio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os resultados da consulta e audiência pública e de outros meios de participação de administrados deverão ser apresentados com a indicação do procedimento adotado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2034.%20Os%20resultados%20da%20consulta%20e%20audi%C3%AAncia%20p%C3%BAblica%20e%20de%20outros%20meios%20de%20participa%C3%A7%C3%A3o%20de%20administrados%20dever%C3%A3o%20ser%20apresentados%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Quando necessária à instrução do processo, a audiência de outros órgãos ou entidades administrativas poderá ser realizada em reunião conjunta, com a participação de titulares ou representantes dos órgãos competentes, lavrando-se a respectiva ata, a ser juntada aos autos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2035.%20Quando%20necess%C3%A1ria%20%C3%A0%20instru%C3%A7%C3%A3o%20do%20processo%2C%20a%20audi%C3%AAncia%20de%20outros%20%C3%B3rg%C3%A3os%20ou%20entidades%20administrativas%20poder%C3%A1%20ser%20realizada%20em%20reuni%C3%A3o%20conjunta%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Cabe ao interessado a prova dos fatos que tenha alegado, sem prejuízo do dever atribuído ao órgão competente para a instrução e do disposto no art. 37 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2036.%20Cabe%20ao%20interessado%20a%20prova%20dos%20fatos%20que%20tenha%20alegado%2C%20sem%20preju%C3%ADzo%20do%20dever%20atribu%C3%ADdo%20ao%20%C3%B3rg%C3%A3o%20competente%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Quando o interessado declarar que fatos e dados estão registrados em documentos existentes na própria Administração responsável pelo processo ou em outro órgão administrativo, o órgão competente para a instrução proverá, de ofício, à obtenção dos documentos ou das respectivas cópias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2037.%20Quando%20o%20interessado%20declarar%20que%20fatos%20e%20dados%20est%C3%A3o%20registrados%20em%20documentos%20existentes%20na%20pr%C3%B3pria%20Administra%C3%A7%C3%A3o%20respons%C3%A1vel%20pelo%20processo%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O interessado poderá, na fase instrutória e antes da tomada da decisão, juntar documentos e pareceres, requerer diligências e perícias, bem como aduzir alegações referentes à matéria objeto do processo.\n\n§ 1o Os elementos probatórios deverão ser considerados na motivação do relatório e da decisão.\n\n§ 2o Somente poderão ser recusadas, mediante decisão fundamentada, as provas propostas pelos interessados quando sejam ilícitas, impertinentes, desnecessárias ou protelatórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2038.%20O%20interessado%20poder%C3%A1%2C%20na%20fase%20instrut%C3%B3ria%20e%20antes%20da%20tomada%20da%20decis%C3%A3o%2C%20juntar%20documentos%20e%20pareceres%2C%20requerer%20dilig%C3%AAncias%20e%20per%C3%ADcias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Quando for necessária a prestação de informações ou a apresentação de provas pelos interessados ou terceiros, serão expedidas intimações para esse fim, mencionando-se data, prazo, forma e condições de atendimento.\n\nParágrafo único. Não sendo atendida a intimação, poderá o órgão competente, se entender relevante a matéria, suprir de ofício a omissão, não se eximindo de proferir a decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2039.%20Quando%20for%20necess%C3%A1ria%20a%20presta%C3%A7%C3%A3o%20de%20informa%C3%A7%C3%B5es%20ou%20a%20apresenta%C3%A7%C3%A3o%20de%20provas%20pelos%20interessados%20ou%20terceiros%2C%20ser%C3%A3o%20expedidas%20intima%C3%A7%C3%B5es%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Quando dados, atuações ou documentos solicitados ao interessado forem necessários à apreciação de pedido formulado, o não atendimento no prazo fixado pela Administração para a respectiva apresentação implicará arquivamento do processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2040.%20Quando%20dados%2C%20atua%C3%A7%C3%B5es%20ou%20documentos%20solicitados%20ao%20interessado%20forem%20necess%C3%A1rios%20%C3%A0%20aprecia%C3%A7%C3%A3o%20de%20pedido%20formulado%2C%20o%20n%C3%A3o%20atendimento%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Os interessados serão intimados de prova ou diligência ordenada, com antecedência mínima de três dias úteis, mencionando-se data, hora e local de realização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2041.%20Os%20interessados%20ser%C3%A3o%20intimados%20de%20prova%20ou%20dilig%C3%AAncia%20ordenada%2C%20com%20anteced%C3%AAncia%20m%C3%ADnima%20de%20tr%C3%AAs%20dias%20%C3%BAteis%2C%20mencionando-se%20data%2C%20hora%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido no prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de maior prazo.\n\n§ 1o Se um parecer obrigatório e vinculante deixar de ser emitido no prazo fixado, o processo não terá seguimento até a respectiva apresentação, responsabilizando-se quem der causa ao atraso.\n\n§ 2o Se um parecer obrigatório e não vinculante deixar de ser emitido no prazo fixado, o processo poderá ter prosseguimento e ser decidido com sua dispensa, sem prejuízo da responsabilidade de quem se omitiu no atendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2042.%20Quando%20deva%20ser%20obrigatoriamente%20ouvido%20um%20%C3%B3rg%C3%A3o%20consultivo%2C%20o%20parecer%20dever%C3%A1%20ser%20emitido%20no%20prazo%20m%C3%A1ximo%20de%20quinze%20dias%2C%20salvo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Quando por disposição de ato normativo devam ser previamente obtidos laudos técnicos de órgãos administrativos e estes não cumprirem o encargo no prazo assinalado, o órgão responsável pela instrução deverá solicitar laudo técnico de outro órgão dotado de qualificação e capacidade técnica equivalentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2043.%20Quando%20por%20disposi%C3%A7%C3%A3o%20de%20ato%20normativo%20devam%20ser%20previamente%20obtidos%20laudos%20t%C3%A9cnicos%20de%20%C3%B3rg%C3%A3os%20administrativos%20e%20estes%20n%C3%A3o%20cumprirem%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Encerrada a instrução, o interessado terá o direito de manifestar-se no prazo máximo de dez dias, salvo se outro prazo for legalmente fixado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2044.%20Encerrada%20a%20instru%C3%A7%C3%A3o%2C%20o%20interessado%20ter%C3%A1%20o%20direito%20de%20manifestar-se%20no%20prazo%20m%C3%A1ximo%20de%20dez%20dias%2C%20salvo%20se%20outro%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Em caso de risco iminente, a Administração Pública poderá motivadamente adotar providências acauteladoras sem a prévia manifestação do interessado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2045.%20Em%20caso%20de%20risco%20iminente%2C%20a%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20poder%C3%A1%20motivadamente%20adotar%20provid%C3%AAncias%20acauteladoras%20sem%20a%20pr%C3%A9via%20manifesta%C3%A7%C3%A3o%20do%20interessado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Os interessados têm direito à vista do processo e a obter certidões ou cópias reprográficas dos dados e documentos que o integram, ressalvados os dados e documentos de terceiros protegidos por sigilo ou pelo direito à privacidade, à honra e à imagem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2046.%20Os%20interessados%20t%C3%AAm%20direito%20%C3%A0%20vista%20do%20processo%20e%20a%20obter%20certid%C3%B5es%20ou%20c%C3%B3pias%20reprogr%C3%A1ficas%20dos%20dados%20e%20documentos%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O órgão de instrução que não for competente para emitir a decisão final elaborará relatório indicando o pedido inicial, o conteúdo das fases do procedimento e formulará proposta de decisão, objetivamente justificada, encaminhando o processo à autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2047.%20O%20%C3%B3rg%C3%A3o%20de%20instru%C3%A7%C3%A3o%20que%20n%C3%A3o%20for%20competente%20para%20emitir%20a%20decis%C3%A3o%20final%20elaborar%C3%A1%20relat%C3%B3rio%20indicando%20o%20pedido%20inicial%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DA INSTRUÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e sobre solicitações ou reclamações, em matéria de sua competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2048.%20A%20Administra%C3%A7%C3%A3o%20tem%20o%20dever%20de%20explicitamente%20emitir%20decis%C3%A3o%20nos%20processos%20administrativos%20e%20sobre%20solicita%C3%A7%C3%B5es%20ou%20reclama%C3%A7%C3%B5es%2C%20em%20mat%C3%A9ria%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI DO DEVER DE DECIDIR",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049.%20Conclu%C3%ADda%20a%20instru%C3%A7%C3%A3o%20de%20processo%20administrativo%2C%20a%20Administra%C3%A7%C3%A3o%20tem%20o%20prazo%20de%20at%C3%A9%20trinta%20dias%20para%20decidir%2C%20salvo%20prorroga%C3%A7%C3%A3o%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI DO DEVER DE DECIDIR",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "49-A"
+    },
+    "49-A": {
+      "numero": "49-A",
+      "texto": "Art. 49-A. No âmbito da Administração Pública federal, as decisões administrativas que exijam a participação de 3 (três) ou mais setores, órgãos ou entidades poderão ser tomadas mediante decisão coordenada, sempre que: (Incluído pela Lei nº 14.210, de 2021)\n\nI - for justificável pela relevância da matéria; e (Incluído pela Lei nº 14.210, de 2021)\n\nII - houver discordância que prejudique a celeridade do processo administrativo decisório. (Incluído pela Lei nº 14.210, de 2021)\n\n§ 1º Para os fins desta Lei, considera-se decisão coordenada a instância de natureza interinstitucional ou intersetorial que atua de forma compartilhada com a finalidade de simplificar o processo administrativo mediante participação concomitante de todas as autoridades e agentes decisórios e dos responsáveis pela instrução técnico-jurídica, observada a natureza do objeto e a compatibilidade do procedimento e de sua formalização com a legislação pertinente. (Incluído pela Lei nº 14.210, de 2021)\n\n§ 2º (VETADO). (Incluído pela Lei nº 14.210, de 2021)\n\n§ 3º (VETADO). (Incluído pela Lei nº 14.210, de 2021)\n\n§ 4º A decisão coordenada não exclui a responsabilidade originária de cada órgão ou autoridade envolvida. (Incluído pela Lei nº 14.210, de 2021)\n\n§ 5º A decisão coordenada obedecerá aos princípios da legalidade, da eficiência e da transparência, com utilização, sempre que necessário, da simplificação do procedimento e da concentração das instâncias decisórias. (Incluído pela Lei nº 14.210, de 2021)\n\n§ 6º Não se aplica a decisão coordenada aos processos administrativos: (Incluído pela Lei nº 14.210, de 2021)\n\nI - de licitação; (Incluído pela Lei nº 14.210, de 2021)\n\nII - relacionados ao poder sancionador; ou (Incluído pela Lei nº 14.210, de 2021)\n\nIII - em que estejam envolvidas autoridades de Poderes distintos. (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-A.%20No%20%C3%A2mbito%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20federal%2C%20as%20decis%C3%B5es%20administrativas%20que%20exijam%20a%20participa%C3%A7%C3%A3o%20de%203%20%28tr%C3%AAs%29%20ou%20mais%20setores%2C%20%C3%B3rg%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "49-B"
+    },
+    "49-B": {
+      "numero": "49-B",
+      "texto": "Art. 49-B. Poderão habilitar-se a participar da decisão coordenada, na qualidade de ouvintes, os interessados de que trata o art. 9º desta Lei. (Incluído pela Lei nº 14.210, de 2021)\n\nParágrafo único. A participação na reunião, que poderá incluir direito a voz, será deferida por decisão irrecorrível da autoridade responsável pela convocação da decisão coordenada. (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-B.%20Poder%C3%A3o%20habilitar-se%20a%20participar%20da%20decis%C3%A3o%20coordenada%2C%20na%20qualidade%20de%20ouvintes%2C%20os%20interessados%20de%20que%20trata%20o%20art.%209%C2%BA%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-A",
+      "next": "49-C"
+    },
+    "49-C": {
+      "numero": "49-C",
+      "texto": "Art. 49-C. (VETADO). (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-C.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.210%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-B",
+      "next": "49-D"
+    },
+    "49-D": {
+      "numero": "49-D",
+      "texto": "Art. 49-D. Os participantes da decisão coordenada deverão ser intimados na forma do art. 26 desta Lei. (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-D.%20Os%20participantes%20da%20decis%C3%A3o%20coordenada%20dever%C3%A3o%20ser%20intimados%20na%20forma%20do%20art.%2026%20desta%20Lei.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.210%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-C",
+      "next": "49-E"
+    },
+    "49-E": {
+      "numero": "49-E",
+      "texto": "Art. 49-E. Cada órgão ou entidade participante é responsável pela elaboração de documento específico sobre o tema atinente à respectiva competência, a fim de subsidiar os trabalhos e integrar o processo da decisão coordenada. (Incluído pela Lei nº 14.210, de 2021)\n\nParágrafo único. O documento previsto no caput deste artigo abordará a questão objeto da decisão coordenada e eventuais precedentes. (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-E.%20Cada%20%C3%B3rg%C3%A3o%20ou%20entidade%20participante%20%C3%A9%20respons%C3%A1vel%20pela%20elabora%C3%A7%C3%A3o%20de%20documento%20espec%C3%ADfico%20sobre%20o%20tema%20atinente%20%C3%A0%20respectiva%20compet%C3%AAncia%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-D",
+      "next": "49-F"
+    },
+    "49-F": {
+      "numero": "49-F",
+      "texto": "Art. 49-F. Eventual dissenso na solução do objeto da decisão coordenada deverá ser manifestado durante as reuniões, de forma fundamentada, acompanhado das propostas de solução e de alteração necessárias para a resolução da questão. (Incluído pela Lei nº 14.210, de 2021)\n\nParágrafo único. Não poderá ser arguida matéria estranha ao objeto da convocação. (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-F.%20Eventual%20dissenso%20na%20solu%C3%A7%C3%A3o%20do%20objeto%20da%20decis%C3%A3o%20coordenada%20dever%C3%A1%20ser%20manifestado%20durante%20as%20reuni%C3%B5es%2C%20de%20forma%20fundamentada%2C%20acompanhado%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-E",
+      "next": "49-G"
+    },
+    "49-G": {
+      "numero": "49-G",
+      "texto": "Art. 49-G. A conclusão dos trabalhos da decisão coordenada será consolidada em ata, que conterá as seguintes informações: (Incluído pela Lei nº 14.210, de 2021)\n\nI - relato sobre os itens da pauta; (Incluído pela Lei nº 14.210, de 2021)\n\nII - síntese dos fundamentos aduzidos; (Incluído pela Lei nº 14.210, de 2021)\n\nIII - síntese das teses pertinentes ao objeto da convocação; (Incluído pela Lei nº 14.210, de 2021)\n\nIV - registro das orientações, das diretrizes, das soluções ou das propostas de atos governamentais relativos ao objeto da convocação; (Incluído pela Lei nº 14.210, de 2021)\n\nV - posicionamento dos participantes para subsidiar futura atuação governamental em matéria idêntica ou similar; e (Incluído pela Lei nº 14.210, de 2021)\n\nVI - decisão de cada órgão ou entidade relativa à matéria sujeita à sua competência. (Incluído pela Lei nº 14.210, de 2021)\n\n§ 1º Até a assinatura da ata, poderá ser complementada a fundamentação da decisão da autoridade ou do agente a respeito de matéria de competência do órgão ou da entidade representada. (Incluído pela Lei nº 14.210, de 2021)\n\n§ 2º (VETADO). (Incluído pela Lei nº 14.210, de 2021)\n\n§ 3º A ata será publicada por extrato no Diário Oficial da União, do qual deverão constar, além do registro referido no inciso IV do caput deste artigo, os dados identificadores da decisão coordenada e o órgão e o local em que se encontra a ata em seu inteiro teor, para conhecimento dos interessados. (Incluído pela Lei nº 14.210, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2049-G.%20A%20conclus%C3%A3o%20dos%20trabalhos%20da%20decis%C3%A3o%20coordenada%20ser%C3%A1%20consolidada%20em%20ata%2C%20que%20conter%C3%A1%20as%20seguintes%20informa%C3%A7%C3%B5es%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-F",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando:\n\nI - neguem, limitem ou afetem direitos ou interesses;\n\nII - imponham ou agravem deveres, encargos ou sanções;\n\nIII - decidam processos administrativos de concurso ou seleção pública;\n\nIV - dispensem ou declarem a inexigibilidade de processo licitatório;\n\nV - decidam recursos administrativos;\n\nVI - decorram de reexame de ofício;\n\nVII - deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos, propostas e relatórios oficiais;\n\nVIII - importem anulação, revogação, suspensão ou convalidação de ato administrativo.\n\n§ 1o A motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato.\n\n§ 2o Na solução de vários assuntos da mesma natureza, pode ser utilizado meio mecânico que reproduza os fundamentos das decisões, desde que não prejudique direito ou garantia dos interessados.\n\n§ 3o A motivação das decisões de órgãos colegiados e comissões ou de decisões orais constará da respectiva ata ou de termo escrito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2050.%20Os%20atos%20administrativos%20dever%C3%A3o%20ser%20motivados%2C%20com%20indica%C3%A7%C3%A3o%20dos%20fatos%20e%20dos%20fundamentos%20jur%C3%ADdicos%2C%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII DA MOTIVAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-G",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O interessado poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado ou, ainda, renunciar a direitos disponíveis.\n\n§ 1o Havendo vários interessados, a desistência ou renúncia atinge somente quem a tenha formulado.\n\n§ 2o A desistência ou renúncia do interessado, conforme o caso, não prejudica o prosseguimento do processo, se a Administração considerar que o interesse público assim o exige.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2051.%20O%20interessado%20poder%C3%A1%2C%20mediante%20manifesta%C3%A7%C3%A3o%20escrita%2C%20desistir%20total%20ou%20parcialmente%20do%20pedido%20formulado%20ou%2C%20ainda%2C%20renunciar%20a%20direitos%20dispon%C3%ADveis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII DA DESISTÊNCIA E OUTROS CASOS DE EXTINÇÃO DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O órgão competente poderá declarar extinto o processo quando exaurida sua finalidade ou o objeto da decisão se tornar impossível, inútil ou prejudicado por fato superveniente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2052.%20O%20%C3%B3rg%C3%A3o%20competente%20poder%C3%A1%20declarar%20extinto%20o%20processo%20quando%20exaurida%20sua%20finalidade%20ou%20o%20objeto%20da%20decis%C3%A3o%20se%20tornar%20imposs%C3%ADvel%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII DA DESISTÊNCIA E OUTROS CASOS DE EXTINÇÃO DO PROCESSO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2053.%20A%20Administra%C3%A7%C3%A3o%20deve%20anular%20seus%20pr%C3%B3prios%20atos%2C%20quando%20eivados%20de%20v%C3%ADcio%20de%20legalidade%2C%20e%20pode%20revog%C3%A1-los%20por%20motivo%20de%20conveni%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV DA ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.\n\n§ 1o No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento.\n\n§ 2o Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2054.%20O%20direito%20da%20Administra%C3%A7%C3%A3o%20de%20anular%20os%20atos%20administrativos%20de%20que%20decorram%20efeitos%20favor%C3%A1veis%20para%20os%20destinat%C3%A1rios%20decai%20em%20cinco",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV DA ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2055.%20Em%20decis%C3%A3o%20na%20qual%20se%20evidencie%20n%C3%A3o%20acarretarem%20les%C3%A3o%20ao%20interesse%20p%C3%BAblico%20nem%20preju%C3%ADzo%20a%20terceiros%2C%20os%20atos%20que%20apresentarem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV DA ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Das decisões administrativas cabe recurso, em face de razões de legalidade e de mérito.\n\n§ 1o O recurso será dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar no prazo de cinco dias, o encaminhará à autoridade superior.\n\n§ 2o Salvo exigência legal, a interposição de recurso administrativo independe de caução.\n\n§ 3o Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, caberá à autoridade prolatora da decisão impugnada, se não a reconsiderar, explicitar, antes de encaminhar o recurso à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. (Incluído pela Lei nº 11.417, de 2006). Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2056.%20Das%20decis%C3%B5es%20administrativas%20cabe%20recurso%2C%20em%20face%20de%20raz%C3%B5es%20de%20legalidade%20e%20de%20m%C3%A9rito.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O recurso administrativo tramitará no máximo por três instâncias administrativas, salvo disposição legal diversa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2057.%20O%20recurso%20administrativo%20tramitar%C3%A1%20no%20m%C3%A1ximo%20por%20tr%C3%AAs%20inst%C3%A2ncias%20administrativas%2C%20salvo%20disposi%C3%A7%C3%A3o%20legal%20diversa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Têm legitimidade para interpor recurso administrativo:\n\nI - os titulares de direitos e interesses que forem parte no processo;\n\nII - aqueles cujos direitos ou interesses forem indiretamente afetados pela decisão recorrida;\n\nIII - as organizações e associações representativas, no tocante a direitos e interesses coletivos;\n\nIV - os cidadãos ou associações, quanto a direitos ou interesses difusos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2058.%20T%C3%AAm%20legitimidade%20para%20interpor%20recurso%20administrativo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Salvo disposição legal específica, é de dez dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.\n\n§ 1o Quando a lei não fixar prazo diferente, o recurso administrativo deverá ser decidido no prazo máximo de trinta dias, a partir do recebimento dos autos pelo órgão competente.\n\n§ 2o O prazo mencionado no parágrafo anterior poderá ser prorrogado por igual período, ante justificativa explícita.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2059.%20Salvo%20disposi%C3%A7%C3%A3o%20legal%20espec%C3%ADfica%2C%20%C3%A9%20de%20dez%20dias%20o%20prazo%20para%20interposi%C3%A7%C3%A3o%20de%20recurso%20administrativo%2C%20contado%20a%20partir%20da%20ci%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O recurso interpõe-se por meio de requerimento no qual o recorrente deverá expor os fundamentos do pedido de reexame, podendo juntar os documentos que julgar convenientes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2060.%20O%20recurso%20interp%C3%B5e-se%20por%20meio%20de%20requerimento%20no%20qual%20o%20recorrente%20dever%C3%A1%20expor%20os%20fundamentos%20do%20pedido%20de%20reexame%2C%20podendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Salvo disposição legal em contrário, o recurso não tem efeito suspensivo.\n\nParágrafo único. Havendo justo receio de prejuízo de difícil ou incerta reparação decorrente da execução, a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido, dar efeito suspensivo ao recurso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2061.%20Salvo%20disposi%C3%A7%C3%A3o%20legal%20em%20contr%C3%A1rio%2C%20o%20recurso%20n%C3%A3o%20tem%20efeito%20suspensivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Interposto o recurso, o órgão competente para dele conhecer deverá intimar os demais interessados para que, no prazo de cinco dias úteis, apresentem alegações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2062.%20Interposto%20o%20recurso%2C%20o%20%C3%B3rg%C3%A3o%20competente%20para%20dele%20conhecer%20dever%C3%A1%20intimar%20os%20demais%20interessados%20para%20que%2C%20no%20prazo%20de%20cinco",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. O recurso não será conhecido quando interposto:\n\nI - fora do prazo;\n\nII - perante órgão incompetente;\n\nIII - por quem não seja legitimado;\n\nIV - após exaurida a esfera administrativa.\n\n§ 1o Na hipótese do inciso II, será indicada ao recorrente a autoridade competente, sendo-lhe devolvido o prazo para recurso.\n\n§ 2o O não conhecimento do recurso não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2063.%20O%20recurso%20n%C3%A3o%20ser%C3%A1%20conhecido%20quando%20interposto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. O órgão competente para decidir o recurso poderá confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida, se a matéria for de sua competência.\n\nParágrafo único. Se da aplicação do disposto neste artigo puder decorrer gravame à situação do recorrente, este deverá ser cientificado para que formule suas alegações antes da decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2064.%20O%20%C3%B3rg%C3%A3o%20competente%20para%20decidir%20o%20recurso%20poder%C3%A1%20confirmar%2C%20modificar%2C%20anular%20ou%20revogar%2C%20total%20ou%20parcialmente%2C%20a%20decis%C3%A3o%20recorrida%2C%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "64-A"
+    },
+    "64-A": {
+      "numero": "64-A",
+      "texto": "Art. 64-A. Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. (Incluído pela Lei nº 11.417, de 2006). Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2064-A.%20Se%20o%20recorrente%20alegar%20viola%C3%A7%C3%A3o%20de%20enunciado%20da%20s%C3%BAmula%20vinculante%2C%20o%20%C3%B3rg%C3%A3o%20competente%20para%20decidir%20o%20recurso%20explicitar%C3%A1%20as%20raz%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "64-B"
+    },
+    "64-B": {
+      "numero": "64-B",
+      "texto": "Art. 64-B. Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível, administrativa e penal. (Incluído pela Lei nº 11.417, de 2006). Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2064-B.%20Acolhida%20pelo%20Supremo%20Tribunal%20Federal%20a%20reclama%C3%A7%C3%A3o%20fundada%20em%20viola%C3%A7%C3%A3o%20de%20enunciado%20da%20s%C3%BAmula%20vinculante%2C%20dar-se-%C3%A1%20ci%C3%AAncia%20%C3%A0%20autoridade%20prolatora",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64-A",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Os processos administrativos de que resultem sanções poderão ser revistos, a qualquer tempo, a pedido ou de ofício, quando surgirem fatos novos ou circunstâncias relevantes suscetíveis de justificar a inadequação da sanção aplicada.\n\nParágrafo único. Da revisão do processo não poderá resultar agravamento da sanção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2065.%20Os%20processos%20administrativos%20de%20que%20resultem%20san%C3%A7%C3%B5es%20poder%C3%A3o%20ser%20revistos%2C%20a%20qualquer%20tempo%2C%20a%20pedido%20ou%20de%20of%C3%ADcio%2C%20quando%20surgirem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XV",
+        "chapter_name": "CAPÍTULO XV DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64-B",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Os prazos começam a correr a partir da data da cientificação oficial, excluindo-se da contagem o dia do começo e incluindo-se o do vencimento.\n\n§ 1o Considera-se prorrogado o prazo até o primeiro dia útil seguinte se o vencimento cair em dia em que não houver expediente ou este for encerrado antes da hora normal.\n\n§ 2o Os prazos expressos em dias contam-se de modo contínuo.\n\n§ 3o Os prazos fixados em meses ou anos contam-se de data a data. Se no mês do vencimento não houver o dia equivalente àquele do início do prazo, tem-se como termo o último dia do mês.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2066.%20Os%20prazos%20come%C3%A7am%20a%20correr%20a%20partir%20da%20data%20da%20cientifica%C3%A7%C3%A3o%20oficial%2C%20excluindo-se%20da%20contagem%20o%20dia%20do%20come%C3%A7o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XVI",
+        "chapter_name": "CAPÍTULO XVI DOS PRAZOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Salvo motivo de força maior devidamente comprovado, os prazos processuais não se suspendem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2067.%20Salvo%20motivo%20de%20for%C3%A7a%20maior%20devidamente%20comprovado%2C%20os%20prazos%20processuais%20n%C3%A3o%20se%20suspendem.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XVI",
+        "chapter_name": "CAPÍTULO XVI DOS PRAZOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. As sanções, a serem aplicadas por autoridade competente, terão natureza pecuniária ou consistirão em obrigação de fazer ou de não fazer, assegurado sempre o direito de defesa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2068.%20As%20san%C3%A7%C3%B5es%2C%20a%20serem%20aplicadas%20por%20autoridade%20competente%2C%20ter%C3%A3o%20natureza%20pecuni%C3%A1ria%20ou%20consistir%C3%A3o%20em%20obriga%C3%A7%C3%A3o%20de%20fazer%20ou%20de%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XVII",
+        "chapter_name": "CAPÍTULO XVII DAS SANÇÕES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes apenas subsidiariamente os preceitos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2069.%20Os%20processos%20administrativos%20espec%C3%ADficos%20continuar%C3%A3o%20a%20reger-se%20por%20lei%20pr%C3%B3pria%2C%20aplicando-se-lhes%20apenas%20subsidiariamente%20os%20preceitos%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XVIII",
+        "chapter_name": "CAPÍTULO XVIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "69-A"
+    },
+    "69-A": {
+      "numero": "69-A",
+      "texto": "Art. 69-A. Terão prioridade na tramitação, em qualquer órgão ou instância, os procedimentos administrativos em que figure como parte ou interessado: (Incluído pela Lei nº 12.008, de 2009).\n\nI - pessoa com idade igual ou superior a 60 (sessenta) anos; (Incluído pela Lei nº 12.008, de 2009).\n\nII - pessoa portadora de deficiência, física ou mental; (Incluído pela Lei nº 12.008, de 2009).\n\nIII – (VETADO) (Incluído pela Lei nº 12.008, de 2009).\n\nIV - pessoa portadora de tuberculose ativa, esclerose múltipla, neoplasia maligna, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome de imunodeficiência adquirida, ou outra doença grave, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída após o início do processo. (Incluído pela Lei nº 12.008, de 2009).\n\n§ 1o A pessoa interessada na obtenção do benefício, juntando prova de sua condição, deverá requerê-lo à autoridade administrativa competente, que determinará as providências a serem cumpridas. (Incluído pela Lei nº 12.008, de 2009).\n\n§ 2o Deferida a prioridade, os autos receberão identificação própria que evidencie o regime de tramitação prioritária. (Incluído pela Lei nº 12.008, de 2009).\n\n§ 3o (VETADO) (Incluído pela Lei nº 12.008, de 2009).\n\n§ 4o (VETADO) (Incluído pela Lei nº 12.008, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2069-A.%20Ter%C3%A3o%20prioridade%20na%20tramita%C3%A7%C3%A3o%2C%20em%20qualquer%20%C3%B3rg%C3%A3o%20ou%20inst%C3%A2ncia%2C%20os%20procedimentos%20administrativos%20em%20que%20figure%20como%20parte%20ou%20interessado%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XVIII",
+        "chapter_name": "CAPÍTULO XVIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília 29 de janeiro de 1999; 178o da Independência e 111o da República.\n\nFERNANDO HENRIQUE CARDOSO Renan Calheiros Paulo Paiva\n\nEste texto não substitui o publicado no DOU de 1.2.1999 e retificado em 11.3.1999\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm#:~:text=Art.%2070.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XVIII",
+        "chapter_name": "CAPÍTULO XVIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69-A",
+      "next": null
+    }
+  }
+}

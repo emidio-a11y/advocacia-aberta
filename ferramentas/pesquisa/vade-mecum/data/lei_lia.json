@@ -1,0 +1,575 @@
+{
+  "_meta": {
+    "codigo": "LIA",
+    "nome": "Improbidade Administrativa",
+    "lei": "Lei 8.429/1992",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm",
+    "total_artigos": 35,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos desta Lei. (Redação dada pela Lei nº 14.230, de 2021)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º, 10 e 11 desta Lei, ressalvados tipos previstos em leis especiais. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos arts. 9º, 10 e 11 desta Lei, não bastando a voluntariedade do agente. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º O mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, afasta a responsabilidade por ato de improbidade administrativa. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º Aplicam-se ao sistema da improbidade disciplinado nesta Lei os princípios constitucionais do direito administrativo sancionador. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º Os atos de improbidade violam a probidade na organização do Estado e no exercício de suas funções e a integridade do patrimônio público e social dos Poderes Executivo, Legislativo e Judiciário, bem como da administração direta e indireta, no âmbito da União, dos Estados, dos Municípios e do Distrito Federal. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 6º Estão sujeitos às sanções desta Lei os atos de improbidade praticados contra o patrimônio de entidade privada que receba subvenção, benefício ou incentivo, fiscal ou creditício, de entes públicos ou governamentais, previstos no § 5º deste artigo. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 7º Independentemente de integrar a administração indireta, estão sujeitos às sanções desta Lei os atos de improbidade praticados contra o patrimônio de entidade privada para cuja criação ou custeio o erário haja concorrido ou concorra no seu patrimônio ou receita atual, limitado o ressarcimento de prejuízos, nesse caso, à repercussão do ilícito sobre a contribuição dos cofres públicos. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 8º Não configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei, baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais do Poder Judiciário. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%201%C2%BA%20O%20sistema%20de%20responsabiliza%C3%A7%C3%A3o%20por%20atos%20de%20improbidade%20administrativa%20tutelar%C3%A1%20a%20probidade%20na%20organiza%C3%A7%C3%A3o%20do%20Estado%20e%20no%20exerc%C3%ADcio%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Para os efeitos desta Lei, consideram-se agente público o agente político, o servidor público e todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades referidas no art. 1º desta Lei. (Redação dada pela Lei nº 14.230, de 2021)\n\nParágrafo único. No que se refere a recursos de origem pública, sujeita-se às sanções previstas nesta Lei o particular, pessoa física ou jurídica, que celebra com a administração pública convênio, contrato de repasse, contrato de gestão, termo de parceria, termo de cooperação ou ajuste administrativo equivalente. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%202%C2%BA%20Para%20os%20efeitos%20desta%20Lei%2C%20consideram-se%20agente%20p%C3%BAblico%20o%20agente%20pol%C3%ADtico%2C%20o%20servidor%20p%C3%BAblico%20e%20todo%20aquele%20que%20exerce%2C%20ainda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º As disposições desta Lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º Os sócios, os cotistas, os diretores e os colaboradores de pessoa jurídica de direito privado não respondem pelo ato de improbidade que venha a ser imputado à pessoa jurídica, salvo se, comprovadamente, houver participação e benefícios diretos, caso em que responderão nos limites da sua participação. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º As sanções desta Lei não se aplicarão à pessoa jurídica, caso o ato de improbidade administrativa seja também sancionado como ato lesivo à administração pública de que trata a Lei nº 12.846, de 1º de agosto de 2013. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%203%C2%BA%20As%20disposi%C3%A7%C3%B5es%20desta%20Lei%20s%C3%A3o%20aplic%C3%A1veis%2C%20no%20que%20couber%2C%20%C3%A0quele%20que%2C%20mesmo%20n%C3%A3o%20sendo%20agente%20p%C3%BAblico%2C%20induza%20ou%20concorra%20dolosamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° (Revogado pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%204%C2%B0%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.230%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° (Revogado pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%205%C2%B0%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.230%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° (Revogado pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%206%C2%B0%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.230%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Se houver indícios de ato de improbidade, a autoridade que conhecer dos fatos representará ao Ministério Público competente, para as providências necessárias. (Redação dada pela Lei nº 14.230, de 2021)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%207%C2%BA%20Se%20houver%20ind%C3%ADcios%20de%20ato%20de%20improbidade%2C%20a%20autoridade%20que%20conhecer%20dos%20fatos%20representar%C3%A1%20ao%20Minist%C3%A9rio%20P%C3%BAblico%20competente%2C%20para%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O sucessor ou o herdeiro daquele que causar dano ao erário ou que se enriquecer ilicitamente estão sujeitos apenas à obrigação de repará-lo até o limite do valor da herança ou do patrimônio transferido. (Redação dada pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%208%C2%BA%20O%20sucessor%20ou%20o%20herdeiro%20daquele%20que%20causar%20dano%20ao%20er%C3%A1rio%20ou%20que%20se%20enriquecer%20ilicitamente%20est%C3%A3o%20sujeitos%20apenas%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A A responsabilidade sucessória de que trata o art. 8º desta Lei aplica-se também na hipótese de alteração contratual, de transformação, de incorporação, de fusão ou de cisão societária. (Incluído pela Lei nº 14.230, de 2021)\n\nParágrafo único. Nas hipóteses de fusão e de incorporação, a responsabilidade da sucessora será restrita à obrigação de reparação integral do dano causado, até o limite do patrimônio transferido, não lhe sendo aplicáveis as demais sanções previstas nesta Lei decorrentes de atos e de fatos ocorridos antes da data da fusão ou da incorporação, exceto no caso de simulação ou de evidente intuito de fraude, devidamente comprovados. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%208%C2%BA-A%20A%20responsabilidade%20sucess%C3%B3ria%20de%20que%20trata%20o%20art.%208%C2%BA%20desta%20Lei%20aplica-se%20tamb%C3%A9m%20na%20hip%C3%B3tese%20de%20altera%C3%A7%C3%A3o%20contratual%2C%20de%20transforma%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Constitui ato de improbidade administrativa importando em enriquecimento ilícito auferir, mediante a prática de ato doloso, qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo, de mandato, de função, de emprego ou de atividade nas entidades referidas no art. 1º desta Lei, e notadamente: (Redação dada pela Lei nº 14.230, de 2021)\n\nI - receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público;\n\nII - perceber vantagem econômica, direta ou indireta, para facilitar a aquisição, permuta ou locação de bem móvel ou imóvel, ou a contratação de serviços pelas entidades referidas no art. 1° por preço superior ao valor de mercado;\n\nIII - perceber vantagem econômica, direta ou indireta, para facilitar a alienação, permuta ou locação de bem público ou o fornecimento de serviço por ente estatal por preço inferior ao valor de mercado;\n\nIV - utilizar, em obra ou serviço particular, qualquer bem móvel, de propriedade ou à disposição de qualquer das entidades referidas no art. 1º desta Lei, bem como o trabalho de servidores, de empregados ou de terceiros contratados por essas entidades; (Redação dada pela Lei nº 14.230, de 2021)\n\nV - receber vantagem econômica de qualquer natureza, direta ou indireta, para tolerar a exploração ou a prática de jogos de azar, de lenocínio, de narcotráfico, de contrabando, de usura ou de qualquer outra atividade ilícita, ou aceitar promessa de tal vantagem;\n\nVI - receber vantagem econômica de qualquer natureza, direta ou indireta, para fazer declaração falsa sobre qualquer dado técnico que envolva obras públicas ou qualquer outro serviço ou sobre quantidade, peso, medida, qualidade ou característica de mercadorias ou bens fornecidos a qualquer das entidades referidas no art. 1º desta Lei; (Redação dada pela Lei nº 14.230, de 2021)\n\nVII - adquirir, para si ou para outrem, no exercício de mandato, de cargo, de emprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos atos descritos no caput deste artigo, cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público, assegurada a demonstração pelo agente da licitude da origem dessa evolução; (Redação dada pela Lei nº 14.230, de 2021)\n\nVIII - aceitar emprego, comissão ou exercer atividade de consultoria ou assessoramento para pessoa física ou jurídica que tenha interesse suscetível de ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público, durante a atividade;\n\nIX - perceber vantagem econômica para intermediar a liberação ou aplicação de verba pública de qualquer natureza;\n\nX - receber vantagem econômica de qualquer natureza, direta ou indiretamente, para omitir ato de ofício, providência ou declaração a que esteja obrigado;\n\nXI - incorporar, por qualquer forma, ao seu patrimônio bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1° desta lei;\n\nXII - usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1° desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%209%C2%BA%20Constitui%20ato%20de%20improbidade%20administrativa%20importando%20em%20enriquecimento%20il%C3%ADcito%20auferir%2C%20mediante%20a%20pr%C3%A1tica%20de%20ato%20doloso%2C%20qualquer%20tipo%20de%20vantagem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Atos de Improbidade Administrativa",
+        "section": "I",
+        "section_name": "Seção I Dos Atos de Improbidade Administrativa que Importam Enriquecimento Ilícito"
+      },
+      "prev": "8-A",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão dolosa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º desta Lei, e notadamente: (Redação dada pela Lei nº 14.230, de 2021)\n\nI - facilitar ou concorrer, por qualquer forma, para a indevida incorporação ao patrimônio particular, de pessoa física ou jurídica, de bens, de rendas, de verbas ou de valores integrantes do acervo patrimonial das entidades referidas no art. 1º desta Lei; (Redação dada pela Lei nº 14.230, de 2021)\n\nII - permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1º desta lei, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie;\n\nIII - doar à pessoa física ou jurídica bem como ao ente despersonalizado, ainda que de fins educativos ou assistências, bens, rendas, verbas ou valores do patrimônio de qualquer das entidades mencionadas no art. 1º desta lei, sem observância das formalidades legais e regulamentares aplicáveis à espécie;\n\nIV - permitir ou facilitar a alienação, permuta ou locação de bem integrante do patrimônio de qualquer das entidades referidas no art. 1º desta lei, ou ainda a prestação de serviço por parte delas, por preço inferior ao de mercado;\n\nV - permitir ou facilitar a aquisição, permuta ou locação de bem ou serviço por preço superior ao de mercado;\n\nVI - realizar operação financeira sem observância das normas legais e regulamentares ou aceitar garantia insuficiente ou inidônea;\n\nVII - conceder benefício administrativo ou fiscal sem a observância das formalidades legais ou regulamentares aplicáveis à espécie;\n\nVIII - frustrar a licitude de processo licitatório ou de processo seletivo para celebração de parcerias com entidades sem fins lucrativos, ou dispensá-los indevidamente, acarretando perda patrimonial efetiva; (Redação dada pela Lei nº 14.230, de 2021)\n\nIX - ordenar ou permitir a realização de despesas não autorizadas em lei ou regulamento;\n\nX - agir ilicitamente na arrecadação de tributo ou de renda, bem como no que diz respeito à conservação do patrimônio público; (Redação dada pela Lei nº 14.230, de 2021)\n\nXI - liberar verba pública sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular;\n\nXII - permitir, facilitar ou concorrer para que terceiro se enriqueça ilicitamente;\n\nXIII - permitir que se utilize, em obra ou serviço particular, veículos, máquinas, equipamentos ou material de qualquer natureza, de propriedade ou à disposição de qualquer das entidades mencionadas no art. 1° desta lei, bem como o trabalho de servidor público, empregados ou terceiros contratados por essas entidades.\n\nXIV – celebrar contrato ou outro instrumento que tenha por objeto a prestação de serviços públicos por meio da gestão associada sem observar as formalidades previstas na lei; (Incluído pela Lei nº 11.107, de 2005)\n\nXV – celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei. (Incluído pela Lei nº 11.107, de 2005)\n\nXVI - facilitar ou concorrer, por qualquer forma, para a incorporação, ao patrimônio particular de pessoa física ou jurídica, de bens, rendas, verbas ou valores públicos transferidos pela administração pública a entidades privadas mediante celebração de parcerias, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie; (Incluído pela Lei nº 13.019, de 2014) (Vigência)\n\nXVII - permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores públicos transferidos pela administração pública a entidade privada mediante celebração de parcerias, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie; (Incluído pela Lei nº 13.019, de 2014) (Vigência)\n\nXVIII - celebrar parcerias da administração pública com entidades privadas sem a observância das formalidades legais ou regulamentares aplicáveis à espécie; (Incluído pela Lei nº 13.019, de 2014) (Vigência)\n\nXIX - agir para a configuração de ilícito na celebração, na fiscalização e na análise das prestações de contas de parcerias firmadas pela administração pública com entidades privadas; (Redação dada pela Lei nº 14.230, de 2021)\n\nXX - liberar recursos de parcerias firmadas pela administração pública com entidades privadas sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular. (Incluído pela Lei nº 13.019, de 2014, com a redação dada pela Lei nº 13.204, de 2015)\n\nXXI - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nXXII - conceder, aplicar ou manter benefício financeiro ou tributário contrário ao que dispõem o caput e o § 1º do art. 8º-A da Lei Complementar nº 116, de 31 de julho de 2003. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 1º Nos casos em que a inobservância de formalidades legais ou regulamentares não implicar perda patrimonial efetiva, não ocorrerá imposição de ressarcimento, vedado o enriquecimento sem causa das entidades referidas no art. 1º desta Lei. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º A mera perda patrimonial decorrente da atividade econômica não acarretará improbidade administrativa, salvo se comprovado ato doloso praticado com essa finalidade. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2010.%20Constitui%20ato%20de%20improbidade%20administrativa%20que%20causa%20les%C3%A3o%20ao%20er%C3%A1rio%20qualquer%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20dolosa%2C%20que%20enseje%2C%20efetiva%20e%20comprovadamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Atos de Improbidade Administrativa",
+        "section": "II",
+        "section_name": "Seção II Dos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário"
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. (Revogado pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2010-A.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.230%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Atos de Improbidade Administrativa",
+        "section": "II",
+        "section_name": "Seção II-A (Revogado pela Lei nº 14.230, de 2021)"
+      },
+      "prev": "10",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Constitui ato de improbidade administrativa que atenta contra os princípios da administração pública a ação ou omissão dolosa que viole os deveres de honestidade, de imparcialidade e de legalidade, caracterizada por uma das seguintes condutas: (Redação dada pela Lei nº 14.230, de 2021)\n\nI - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nII - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nIII - revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo, propiciando beneficiamento por informação privilegiada ou colocando em risco a segurança da sociedade e do Estado; (Redação dada pela Lei nº 14.230, de 2021)\n\nIV - negar publicidade aos atos oficiais, exceto em razão de sua imprescindibilidade para a segurança da sociedade e do Estado ou de outras hipóteses instituídas em lei; (Redação dada pela Lei nº 14.230, de 2021)\n\nV - frustrar, em ofensa à imparcialidade, o caráter concorrencial de concurso público, de chamamento ou de procedimento licitatório, com vistas à obtenção de benefício próprio, direto ou indireto, ou de terceiros; (Redação dada pela Lei nº 14.230, de 2021)\n\nVI - deixar de prestar contas quando esteja obrigado a fazê-lo, desde que disponha das condições para isso, com vistas a ocultar irregularidades; (Redação dada pela Lei nº 14.230, de 2021)\n\nVII - revelar ou permitir que chegue ao conhecimento de terceiro, antes da respectiva divulgação oficial, teor de medida política ou econômica capaz de afetar o preço de mercadoria, bem ou serviço.\n\nVIII - descumprir as normas relativas à celebração, fiscalização e aprovação de contas de parcerias firmadas pela administração pública com entidades privadas. (Vide Medida Provisória nº 2.088-35, de 2000) (Redação dada pela Lei nº 13.019, de 2014) (Vigência)\n\nIX - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nX - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nXI - nomear cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas; (Incluído pela Lei nº 14.230, de 2021)\n\nXII - praticar, no âmbito da administração pública e com recursos do erário, ato de publicidade que contrarie o disposto no § 1º do art. 37 da Constituição Federal, de forma a promover inequívoco enaltecimento do agente público e personalização de atos, de programas, de obras, de serviços ou de campanhas dos órgãos públicos. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 1º Nos termos da Convenção das Nações Unidas contra a Corrupção, promulgada pelo Decreto nº 5.687, de 31 de janeiro de 2006, somente haverá improbidade administrativa, na aplicação deste artigo, quando for comprovado na conduta funcional do agente público o fim de obter proveito ou benefício indevido para si ou para outra pessoa ou entidade. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Aplica-se o disposto no § 1º deste artigo a quaisquer atos de improbidade administrativa tipificados nesta Lei e em leis especiais e a quaisquer outros tipos especiais de improbidade administrativa instituídos por lei. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º O enquadramento de conduta funcional na categoria de que trata este artigo pressupõe a demonstração objetiva da prática de ilegalidade no exercício da função pública, com a indicação das normas constitucionais, legais ou infralegais violadas. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º Os atos de improbidade de que trata este artigo exigem lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento e independem do reconhecimento da produção de danos ao erário e de enriquecimento ilícito dos agentes públicos. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º Não se configurará improbidade a mera nomeação ou indicação política por parte dos detentores de mandatos eletivos, sendo necessária a aferição de dolo com finalidade ilícita por parte do agente. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2011.%20Constitui%20ato%20de%20improbidade%20administrativa%20que%20atenta%20contra%20os%20princ%C3%ADpios%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20a%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20dolosa%20que%20viole",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Atos de Improbidade Administrativa",
+        "section": "III",
+        "section_name": "Seção III Dos Atos de Improbidade Administrativa que Atentam Contra os Princípios da Administração Pública"
+      },
+      "prev": "10-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Independentemente do ressarcimento integral do dano patrimonial, se efetivo, e das sanções penais comuns e de responsabilidade, civis e administrativas previstas na legislação específica, está o responsável pelo ato de improbidade sujeito às seguintes cominações, que podem ser aplicadas isolada ou cumulativamente, de acordo com a gravidade do fato: (Redação dada pela Lei nº 14.230, de 2021)\n\nI - na hipótese do art. 9º desta Lei, perda dos bens ou valores acrescidos ilicitamente ao patrimônio, perda da função pública, suspensão dos direitos políticos até 14 (catorze) anos, pagamento de multa civil equivalente ao valor do acréscimo patrimonial e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 14 (catorze) anos; (Redação dada pela Lei nº 14.230, de 2021)\n\nII - na hipótese do art. 10 desta Lei, perda dos bens ou valores acrescidos ilicitamente ao patrimônio, se concorrer esta circunstância, perda da função pública, suspensão dos direitos políticos até 12 (doze) anos, pagamento de multa civil equivalente ao valor do dano e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 12 (doze) anos; (Redação dada pela Lei nº 14.230, de 2021)\n\nIII - na hipótese do art. 11 desta Lei, pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 4 (quatro) anos; (Redação dada pela Lei nº 14.230, de 2021)\n\nIV - (revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º A sanção de perda da função pública, nas hipóteses dos incisos I e II do caput deste artigo, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou político detinha com o poder público na época do cometimento da infração, podendo o magistrado, na hipótese do inciso I do caput deste artigo, e em caráter excepcional, estendê-la aos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)\n\n§ 2º A multa pode ser aumentada até o dobro, se o juiz considerar que, em virtude da situação econômica do réu, o valor calculado na forma dos incisos I, II e III do caput deste artigo é ineficaz para reprovação e prevenção do ato de improbidade. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º Na responsabilização da pessoa jurídica, deverão ser considerados os efeitos econômicos e sociais das sanções, de modo a viabilizar a manutenção de suas atividades. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º Em caráter excepcional e por motivos relevantes devidamente justificados, a sanção de proibição de contratação com o poder público pode extrapolar o ente público lesado pelo ato de improbidade, observados os impactos econômicos e sociais das sanções, de forma a preservar a função social da pessoa jurídica, conforme disposto no § 3º deste artigo. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º No caso de atos de menor ofensa aos bens jurídicos tutelados por esta Lei, a sanção limitar-se-á à aplicação de multa, sem prejuízo do ressarcimento do dano e da perda dos valores obtidos, quando for o caso, nos termos do caput deste artigo. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 6º Se ocorrer lesão ao patrimônio público, a reparação do dano a que se refere esta Lei deverá deduzir o ressarcimento ocorrido nas instâncias criminal, civil e administrativa que tiver por objeto os mesmos fatos. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 7º As sanções aplicadas a pessoas jurídicas com base nesta Lei e na Lei nº 12.846, de 1º de agosto de 2013, deverão observar o princípio constitucional do non bis in idem. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 8º A sanção de proibição de contratação com o poder público deverá constar do Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) de que trata a Lei nº 12.846, de 1º de agosto de 2013, observadas as limitações territoriais contidas em decisão judicial, conforme disposto no § 4º deste artigo. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 9º As sanções previstas neste artigo somente poderão ser executadas após o trânsito em julgado da sentença condenatória. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 10. Para efeitos de contagem do prazo da sanção de suspensão dos direitos políticos, computar-se-á retroativamente o intervalo de tempo entre a decisão colegiada e o trânsito em julgado da sentença condenatória. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2012.%20Independentemente%20do%20ressarcimento%20integral%20do%20dano%20patrimonial%2C%20se%20efetivo%2C%20e%20das%20san%C3%A7%C3%B5es%20penais%20comuns%20e%20de%20responsabilidade%2C%20civis%20e%20administrativas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Das Penas",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A posse e o exercício de agente público ficam condicionados à apresentação de declaração de imposto de renda e proventos de qualquer natureza, que tenha sido apresentada à Secretaria Especial da Receita Federal do Brasil, a fim de ser arquivada no serviço de pessoal competente. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 2º A declaração de bens a que se refere o caput deste artigo será atualizada anualmente e na data em que o agente público deixar o exercício do mandato, do cargo, do emprego ou da função. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 3º Será apenado com a pena de demissão, sem prejuízo de outras sanções cabíveis, o agente público que se recusar a prestar a declaração dos bens a que se refere o caput deste artigo dentro do prazo determinado ou que prestar declaração falsa. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 4º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2013.%20A%20posse%20e%20o%20exerc%C3%ADcio%20de%20agente%20p%C3%BAblico%20ficam%20condicionados%20%C3%A0%20apresenta%C3%A7%C3%A3o%20de%20declara%C3%A7%C3%A3o%20de%20imposto%20de%20renda%20e%20proventos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Declaração de Bens",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Qualquer pessoa poderá representar à autoridade administrativa competente para que seja instaurada investigação destinada a apurar a prática de ato de improbidade.\n\n§ 1º A representação, que será escrita ou reduzida a termo e assinada, conterá a qualificação do representante, as informações sobre o fato e sua autoria e a indicação das provas de que tenha conhecimento.\n\n§ 2º A autoridade administrativa rejeitará a representação, em despacho fundamentado, se esta não contiver as formalidades estabelecidas no § 1º deste artigo. A rejeição não impede a representação ao Ministério Público, nos termos do art. 22 desta lei.\n\n§ 3º Atendidos os requisitos da representação, a autoridade determinará a imediata apuração dos fatos, observada a legislação que regula o processo administrativo disciplinar aplicável ao agente. (Redação dada pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2014.%20Qualquer%20pessoa%20poder%C3%A1%20representar%20%C3%A0%20autoridade%20administrativa%20competente%20para%20que%20seja%20instaurada%20investiga%C3%A7%C3%A3o%20destinada%20a%20apurar%20a%20pr%C3%A1tica%20de%20ato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A comissão processante dará conhecimento ao Ministério Público e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo para apurar a prática de ato de improbidade.\n\nParágrafo único. O Ministério Público ou Tribunal ou Conselho de Contas poderá, a requerimento, designar representante para acompanhar o procedimento administrativo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2015.%20A%20comiss%C3%A3o%20processante%20dar%C3%A1%20conhecimento%20ao%20Minist%C3%A9rio%20P%C3%BAblico%20e%20ao%20Tribunal%20ou%20Conselho%20de%20Contas%20da%20exist%C3%AAncia%20de%20procedimento%20administrativo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Na ação por improbidade administrativa poderá ser formulado, em caráter antecedente ou incidente, pedido de indisponibilidade de bens dos réus, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º-A O pedido de indisponibilidade de bens a que se refere o caput deste artigo poderá ser formulado independentemente da representação de que trata o art. 7º desta Lei. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Quando for o caso, o pedido de indisponibilidade de bens a que se refere o caput deste artigo incluirá a investigação, o exame e o bloqueio de bens, contas bancárias e aplicações financeiras mantidas pelo indiciado no exterior, nos termos da lei e dos tratados internacionais. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 3º O pedido de indisponibilidade de bens a que se refere o caput deste artigo apenas será deferido mediante a demonstração no caso concreto de perigo de dano irreparável ou de risco ao resultado útil do processo, desde que o juiz se convença da probabilidade da ocorrência dos atos descritos na petição inicial com fundamento nos respectivos elementos de instrução, após a oitiva do réu em 5 (cinco) dias. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º A indisponibilidade de bens poderá ser decretada sem a oitiva prévia do réu, sempre que o contraditório prévio puder comprovadamente frustrar a efetividade da medida ou houver outras circunstâncias que recomendem a proteção liminar, não podendo a urgência ser presumida. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º Se houver mais de um réu na ação, a somatória dos valores declarados indisponíveis não poderá superar o montante indicado na petição inicial como dano ao erário ou como enriquecimento ilícito. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 6º O valor da indisponibilidade considerará a estimativa de dano indicada na petição inicial, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do réu, bem como a sua readequação durante a instrução do processo. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 7º A indisponibilidade de bens de terceiro dependerá da demonstração da sua efetiva concorrência para os atos ilícitos apurados ou, quando se tratar de pessoa jurídica, da instauração de incidente de desconsideração da personalidade jurídica, a ser processado na forma da lei processual. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 8º Aplica-se à indisponibilidade de bens regida por esta Lei, no que for cabível, o regime da tutela provisória de urgência da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.230, de 2021)\n\n§ 9º Da decisão que deferir ou indeferir a medida relativa à indisponibilidade de bens caberá agravo de instrumento, nos termos da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.230, de 2021)\n\n§ 10. A indisponibilidade recairá sobre bens que assegurem exclusivamente o integral ressarcimento do dano ao erário, sem incidir sobre os valores a serem eventualmente aplicados a título de multa civil ou sobre acréscimo patrimonial decorrente de atividade lícita. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 11. A ordem de indisponibilidade de bens deverá priorizar veículos de via terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades simples e empresárias, pedras e metais preciosos e, apenas na inexistência desses, o bloqueio de contas bancárias, de forma a garantir a subsistência do acusado e a manutenção da atividade empresária ao longo do processo. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 12. O juiz, ao apreciar o pedido de indisponibilidade de bens do réu a que se refere o caput deste artigo, observará os efeitos práticos da decisão, vedada a adoção de medida capaz de acarretar prejuízo à prestação de serviços públicos. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 13. É vedada a decretação de indisponibilidade da quantia de até 40 (quarenta) salários mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou em conta-corrente. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 14. É vedada a decretação de indisponibilidade do bem de família do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, conforme descrito no art. 9º desta Lei. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2016.%20Na%20a%C3%A7%C3%A3o%20por%20improbidade%20administrativa%20poder%C3%A1%20ser%20formulado%2C%20em%20car%C3%A1ter%20antecedente%20ou%20incidente%2C%20pedido%20de%20indisponibilidade%20de%20bens%20dos%20r%C3%A9us%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo Ministério Público e seguirá o procedimento comum previsto na Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), salvo o disposto nesta Lei. (Redação dada pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 2º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 3º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 4º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 4º-A A ação a que se refere o caput deste artigo deverá ser proposta perante o foro do local onde ocorrer o dano ou da pessoa jurídica prejudicada. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º A propositura da ação a que se refere o caput deste artigo prevenirá a competência do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 6º A petição inicial observará o seguinte: (Redação dada pela Lei nº 14.230, de 2021)\n\nI - deverá individualizar a conduta do réu e apontar os elementos probatórios mínimos que demonstrem a ocorrência das hipóteses dos arts. 9º, 10 e 11 desta Lei e de sua autoria, salvo impossibilidade devidamente fundamentada; (Incluído pela Lei nº 14.230, de 2021)\n\nII - será instruída com documentos ou justificação que contenham indícios suficientes da veracidade dos fatos e do dolo imputado ou com razões fundamentadas da impossibilidade de apresentação de qualquer dessas provas, observada a legislação vigente, inclusive as disposições constantes dos arts. 77 e 80 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.230, de 2021)\n\n§ 6º-A O Ministério Público poderá requerer as tutelas provisórias adequadas e necessárias, nos termos dos arts. 294 a 310 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil (Incluído pela Lei nº 14.230, de 2021), (Vide ADI 7042) (Vide ADI 7043)\n\n§ 6º-B A petição inicial será rejeitada nos casos do art. 330 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), bem como quando não preenchidos os requisitos a que se referem os incisos I e II do § 6º deste artigo, ou ainda quando manifestamente inexistente o ato de improbidade imputado. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 7º Se a petição inicial estiver em devida forma, o juiz mandará autuá-la e ordenará a citação dos requeridos para que a contestem no prazo comum de 30 (trinta) dias, iniciado o prazo na forma do art. 231 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 8º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 9º (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 9º-A Da decisão que rejeitar questões preliminares suscitadas pelo réu em sua contestação caberá agravo de instrumento. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 10. (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 10-A. Havendo a possibilidade de solução consensual, poderão as partes requerer ao juiz a interrupção do prazo para a contestação, por prazo não superior a 90 (noventa) dias. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 10-B. Oferecida a contestação e, se for o caso, ouvido o autor, o juiz: (Incluído pela Lei nº 14.230, de 2021)\n\nI - procederá ao julgamento conforme o estado do processo, observada a eventual inexistência manifesta do ato de improbidade; (Incluído pela Lei nº 14.230, de 2021)\n\nII - poderá desmembrar o litisconsórcio, com vistas a otimizar a instrução processual. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 10-C. Após a réplica do Ministério Público, o juiz proferirá decisão na qual indicará com precisão a tipificação do ato de improbidade administrativa imputável ao réu, sendo-lhe vedado modificar o fato principal e a capitulação legal apresentada pelo autor. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)\n\n§ 10-D. Para cada ato de improbidade administrativa, deverá necessariamente ser indicado apenas um tipo dentre aqueles previstos nos arts. 9º, 10 e 11 desta Lei. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 10-E. Proferida a decisão referida no § 10-C deste artigo, as partes serão intimadas a especificar as provas que pretendem produzir. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 10-F. Será nula a decisão de mérito total ou parcial da ação de improbidade administrativa que: (Incluído pela Lei nº 14.230, de 2021)\n\nI - condenar o requerido por tipo diverso daquele definido na petição inicial; (Incluído pela Lei nº 14.230, de 2021)\n\nII - condenar o requerido sem a produção das provas por ele tempestivamente especificadas. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 11. Em qualquer momento do processo, verificada a inexistência do ato de improbidade, o juiz julgará a demanda improcedente. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 12. (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 13. (Revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 14. Sem prejuízo da citação dos réus, a pessoa jurídica interessada será intimada para, caso queira, intervir no processo. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)\n\n§ 15. Se a imputação envolver a desconsideração de pessoa jurídica, serão observadas as regras previstas nos arts. 133, 134, 135, 136 e 137 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.230, de 2021)\n\n§ 16. A qualquer momento, se o magistrado identificar a existência de ilegalidades ou de irregularidades administrativas a serem sanadas sem que estejam presentes todos os requisitos para a imposição das sanções aos agentes incluídos no polo passivo da demanda, poderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil pública, regulada pela Lei nº 7.347, de 24 de julho de 1985. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 17. Da decisão que converter a ação de improbidade em ação civil pública caberá agravo de instrumento. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 18. Ao réu será assegurado o direito de ser interrogado sobre os fatos de que trata a ação, e a sua recusa ou o seu silêncio não implicarão confissão. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 19. Não se aplicam na ação de improbidade administrativa: (Incluído pela Lei nº 14.230, de 2021)\n\nI - a presunção de veracidade dos fatos alegados pelo autor em caso de revelia; (Incluído pela Lei nº 14.230, de 2021)\n\nII - a imposição de ônus da prova ao réu, na forma dos §§ 1º e 2º do art. 373 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil); (Incluído pela Lei nº 14.230, de 2021)\n\nIII - o ajuizamento de mais de uma ação de improbidade administrativa pelo mesmo fato, competindo ao Conselho Nacional do Ministério Público dirimir conflitos de atribuições entre membros de Ministérios Públicos distintos; (Incluído pela Lei nº 14.230, de 2021)\n\nIV - o reexame obrigatório da sentença de improcedência ou de extinção sem resolução de mérito. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 20. A assessoria jurídica que emitiu o parecer atestando a legalidade prévia dos atos administrativos praticados pelo administrador público ficará obrigada a defendê-lo judicialmente, caso este venha a responder ação por improbidade administrativa, até que a decisão transite em julgado. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)\n\n§ 21. Das decisões interlocutórias caberá agravo de instrumento, inclusive da decisão que rejeitar questões preliminares suscitadas pelo réu em sua contestação. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2017.%20A%20a%C3%A7%C3%A3o%20para%20a%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20de%20que%20trata%20esta%20Lei%20ser%C3%A1%20proposta%20pelo%20Minist%C3%A9rio%20P%C3%BAblico%20e%20seguir%C3%A1%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17-A"
+    },
+    "17-A": {
+      "numero": "17-A",
+      "texto": "Art. 17-A. (VETADO): (Incluído pela Lei nº 13.964, de 2019)\n\nI - (VETADO); (Incluído pela Lei nº 13.964, de 2019)\n\nII - (VETADO); (Incluído pela Lei nº 13.964, de 2019)\n\nIII - (VETADO). (Incluído pela Lei nº 13.964, de 2019)\n\n§ 1º (VETADO). (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º (VETADO). (Incluído pela Lei nº 13.964, de 2019)\n\n§ 3º (VETADO). (Incluído pela Lei nº 13.964, de 2019)\n\n§ 4º (VETADO). (Incluído pela Lei nº 13.964, de 2019)\n\n§ 5º (VETADO). (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2017-A.%20%28VETADO%29%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.964%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "17-B"
+    },
+    "17-B": {
+      "numero": "17-B",
+      "texto": "Art. 17-B. O Ministério Público poderá, conforme as circunstâncias do caso concreto, celebrar acordo de não persecução civil, desde que dele advenham, ao menos, os seguintes resultados: (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)\n\nI - o integral ressarcimento do dano; (Incluído pela Lei nº 14.230, de 2021)\n\nII - a reversão à pessoa jurídica lesada da vantagem indevida obtida, ainda que oriunda de agentes privados. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 1º A celebração do acordo a que se refere o caput deste artigo dependerá, cumulativamente: (Incluído pela Lei nº 14.230, de 2021)\n\nI - da oitiva do ente federativo lesado, em momento anterior ou posterior à propositura da ação; (Incluído pela Lei nº 14.230, de 2021)\n\nII - de aprovação, no prazo de até 60 (sessenta) dias, pelo órgão do Ministério Público competente para apreciar as promoções de arquivamento de inquéritos civis, se anterior ao ajuizamento da ação; (Incluído pela Lei nº 14.230, de 2021)\n\nIII - de homologação judicial, independentemente de o acordo ocorrer antes ou depois do ajuizamento da ação de improbidade administrativa. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Em qualquer caso, a celebração do acordo a que se refere o caput deste artigo considerará a personalidade do agente, a natureza, as circunstâncias, a gravidade e a repercussão social do ato de improbidade, bem como as vantagens, para o interesse público, da rápida solução do caso. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas competente, que se manifestará, com indicação dos parâmetros utilizados, no prazo de 90 (noventa) dias. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)\n\n§ 4º O acordo a que se refere o caput deste artigo poderá ser celebrado no curso da investigação de apuração do ilícito, no curso da ação de improbidade ou no momento da execução da sentença condenatória. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º As negociações para a celebração do acordo a que se refere o caput deste artigo ocorrerão entre o Ministério Público, de um lado, e, de outro, o investigado ou demandado e o seu defensor. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)\n\n§ 6º O acordo a que se refere o caput deste artigo poderá contemplar a adoção de mecanismos e procedimentos internos de integridade, de auditoria e de incentivo à denúncia de irregularidades e a aplicação efetiva de códigos de ética e de conduta no âmbito da pessoa jurídica, se for o caso, bem como de outras medidas em favor do interesse público e de boas práticas administrativas. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 7º Em caso de descumprimento do acordo a que se refere o caput deste artigo, o investigado ou o demandado ficará impedido de celebrar novo acordo pelo prazo de 5 (cinco) anos, contado do conhecimento pelo Ministério Público do efetivo descumprimento. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7042) (Vide ADI 7043)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2017-B.%20O%20Minist%C3%A9rio%20P%C3%BAblico%20poder%C3%A1%2C%20conforme%20as%20circunst%C3%A2ncias%20do%20caso%20concreto%2C%20celebrar%20acordo%20de%20n%C3%A3o%20persecu%C3%A7%C3%A3o%20civil%2C%20desde%20que%20dele%20advenham%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-A",
+      "next": "17-C"
+    },
+    "17-C": {
+      "numero": "17-C",
+      "texto": "Art. 17-C. A sentença proferida nos processos a que se refere esta Lei deverá, além de observar o disposto no art. 489 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil): (Incluído pela Lei nº 14.230, de 2021)\n\nI - indicar de modo preciso os fundamentos que demonstram os elementos a que se referem os arts. 9º, 10 e 11 desta Lei, que não podem ser presumidos; (Incluído pela Lei nº 14.230, de 2021)\n\nII - considerar as consequências práticas da decisão, sempre que decidir com base em valores jurídicos abstratos; (Incluído pela Lei nº 14.230, de 2021)\n\nIII - considerar os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados e das circunstâncias práticas que houverem imposto, limitado ou condicionado a ação do agente; (Incluído pela Lei nº 14.230, de 2021)\n\nIV - considerar, para a aplicação das sanções, de forma isolada ou cumulativa: (Incluído pela Lei nº 14.230, de 2021)\n\na) os princípios da proporcionalidade e da razoabilidade; (Incluído pela Lei nº 14.230, de 2021)\n\nb) a natureza, a gravidade e o impacto da infração cometida; (Incluído pela Lei nº 14.230, de 2021)\n\nc) a extensão do dano causado; (Incluído pela Lei nº 14.230, de 2021)\n\nd) o proveito patrimonial obtido pelo agente; (Incluído pela Lei nº 14.230, de 2021)\n\ne) as circunstâncias agravantes ou atenuantes; (Incluído pela Lei nº 14.230, de 2021)\n\nf) a atuação do agente em minorar os prejuízos e as consequências advindas de sua conduta omissiva ou comissiva; (Incluído pela Lei nº 14.230, de 2021)\n\ng) os antecedentes do agente; (Incluído pela Lei nº 14.230, de 2021)\n\nV - considerar na aplicação das sanções a dosimetria das sanções relativas ao mesmo fato já aplicadas ao agente; (Incluído pela Lei nº 14.230, de 2021)\n\nVI - considerar, na fixação das penas relativamente ao terceiro, quando for o caso, a sua atuação específica, não admitida a sua responsabilização por ações ou omissões para as quais não tiver concorrido ou das quais não tiver obtido vantagens patrimoniais indevidas; (Incluído pela Lei nº 14.230, de 2021)\n\nVII - indicar, na apuração da ofensa a princípios, critérios objetivos que justifiquem a imposição da sanção. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 1º A ilegalidade sem a presença de dolo que a qualifique não configura ato de improbidade. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Na hipótese de litisconsórcio passivo, a condenação ocorrerá no limite da participação e dos benefícios diretos, vedada qualquer solidariedade. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º Não haverá remessa necessária nas sentenças de que trata esta Lei. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2017-C.%20A%20senten%C3%A7a%20proferida%20nos%20processos%20a%20que%20se%20refere%20esta%20Lei%20dever%C3%A1%2C%20al%C3%A9m%20de%20observar%20o%20disposto%20no%20art.%20489",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-B",
+      "next": "17-D"
+    },
+    "17-D": {
+      "numero": "17-D",
+      "texto": "Art. 17-D. A ação por improbidade administrativa é repressiva, de caráter sancionatório, destinada à aplicação de sanções de caráter pessoal previstas nesta Lei, e não constitui ação civil, vedado seu ajuizamento para o controle de legalidade de políticas públicas e para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos, coletivos e individuais homogêneos. (Incluído pela Lei nº 14.230, de 2021)\n\nParágrafo único. Ressalvado o disposto nesta Lei, o controle de legalidade de políticas públicas e a responsabilidade de agentes públicos, inclusive políticos, entes públicos e governamentais, por danos ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico, a qualquer outro interesse difuso ou coletivo, à ordem econômica, à ordem urbanística, à honra e à dignidade de grupos raciais, étnicos ou religiosos e ao patrimônio público e social submetem-se aos termos da Lei nº 7.347, de 24 de julho de 1985. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2017-D.%20A%20a%C3%A7%C3%A3o%20por%20improbidade%20administrativa%20%C3%A9%20repressiva%2C%20de%20car%C3%A1ter%20sancionat%C3%B3rio%2C%20destinada%20%C3%A0%20aplica%C3%A7%C3%A3o%20de%20san%C3%A7%C3%B5es%20de%20car%C3%A1ter%20pessoal%20previstas%20nesta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-C",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A sentença que julgar procedente a ação fundada nos arts. 9º e 10 desta Lei condenará ao ressarcimento dos danos e à perda ou à reversão dos bens e valores ilicitamente adquiridos, conforme o caso, em favor da pessoa jurídica prejudicada pelo ilícito. (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º Se houver necessidade de liquidação do dano, a pessoa jurídica prejudicada procederá a essa determinação e ao ulterior procedimento para cumprimento da sentença referente ao ressarcimento do patrimônio público ou à perda ou à reversão dos bens. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Caso a pessoa jurídica prejudicada não adote as providências a que se refere o § 1º deste artigo no prazo de 6 (seis) meses, contado do trânsito em julgado da sentença de procedência da ação, caberá ao Ministério Público proceder à respectiva liquidação do dano e ao cumprimento da sentença referente ao ressarcimento do patrimônio público ou à perda ou à reversão dos bens, sem prejuízo de eventual responsabilização pela omissão verificada. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º Para fins de apuração do valor do ressarcimento, deverão ser descontados os serviços efetivamente prestados. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º O juiz poderá autorizar o parcelamento, em até 48 (quarenta e oito) parcelas mensais corrigidas monetariamente, do débito resultante de condenação pela prática de improbidade administrativa se o réu demonstrar incapacidade financeira de saldá-lo de imediato. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2018.%20A%20senten%C3%A7a%20que%20julgar%20procedente%20a%20a%C3%A7%C3%A3o%20fundada%20nos%20arts.%209%C2%BA%20e%2010%20desta%20Lei%20condenar%C3%A1%20ao%20ressarcimento%20dos%20danos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-D",
+      "next": "18-A"
+    },
+    "18-A": {
+      "numero": "18-A",
+      "texto": "Art. 18-A. A requerimento do réu, na fase de cumprimento da sentença, o juiz unificará eventuais sanções aplicadas com outras já impostas em outros processos, tendo em vista a eventual continuidade de ilícito ou a prática de diversas ilicitudes, observado o seguinte: (Incluído pela Lei nº 14.230, de 2021)\n\nI - no caso de continuidade de ilícito, o juiz promoverá a maior sanção aplicada, aumentada de 1/3 (um terço), ou a soma das penas, o que for mais benéfico ao réu; (Incluído pela Lei nº 14.230, de 2021)\n\nII - no caso de prática de novos atos ilícitos pelo mesmo sujeito, o juiz somará as sanções. (Incluído pela Lei nº 14.230, de 2021)\n\nParágrafo único. As sanções de suspensão de direitos políticos e de proibição de contratar ou de receber incentivos fiscais ou creditícios do poder público observarão o limite máximo de 20 (vinte) anos. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2018-A.%20A%20requerimento%20do%20r%C3%A9u%2C%20na%20fase%20de%20cumprimento%20da%20senten%C3%A7a%2C%20o%20juiz%20unificar%C3%A1%20eventuais%20san%C3%A7%C3%B5es%20aplicadas%20com%20outras%20j%C3%A1%20impostas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Procedimento Administrativo e do Processo Judicial",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Constitui crime a representação por ato de improbidade contra agente público ou terceiro beneficiário, quando o autor da denúncia o sabe inocente.\n\nPena: detenção de seis a dez meses e multa.\n\nParágrafo único. Além da sanção penal, o denunciante está sujeito a indenizar o denunciado pelos danos materiais, morais ou à imagem que houver provocado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2019.%20Constitui%20crime%20a%20representa%C3%A7%C3%A3o%20por%20ato%20de%20improbidade%20contra%20agente%20p%C3%BAblico%20ou%20terceiro%20benefici%C3%A1rio%2C%20quando%20o%20autor%20da%20den%C3%BAncia%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Disposições Penais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18-A",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória.\n\n§ 1º A autoridade judicial competente poderá determinar o afastamento do agente público do exercício do cargo, do emprego ou da função, sem prejuízo da remuneração, quando a medida for necessária à instrução processual ou para evitar a iminente prática de novos ilícitos. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º O afastamento previsto no § 1º deste artigo será de até 90 (noventa) dias, prorrogáveis uma única vez por igual prazo, mediante decisão motivada. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2020.%20A%20perda%20da%20fun%C3%A7%C3%A3o%20p%C3%BAblica%20e%20a%20suspens%C3%A3o%20dos%20direitos%20pol%C3%ADticos%20s%C3%B3%20se%20efetivam%20com%20o%20tr%C3%A2nsito%20em%20julgado%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Disposições Penais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A aplicação das sanções previstas nesta lei independe:\n\nI - da efetiva ocorrência de dano ao patrimônio público, salvo quanto à pena de ressarcimento e às condutas previstas no art. 10 desta Lei; (Redação dada pela Lei nº 14.230, de 2021)\n\nII - da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas.\n\n§ 1º Os atos do órgão de controle interno ou externo serão considerados pelo juiz quando tiverem servido de fundamento para a conduta do agente público. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º As provas produzidas perante os órgãos de controle e as correspondentes decisões deverão ser consideradas na formação da convicção do juiz, sem prejuízo da análise acerca do dolo na conduta do agente. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º As sentenças civis e penais produzirão efeitos em relação à ação de improbidade quando concluírem pela inexistência da conduta ou pela negativa da autoria. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o trâmite da ação da qual trata esta Lei, havendo comunicação com todos os fundamentos de absolvição previstos no art. 386 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal). (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)\n\n§ 5º Sanções eventualmente aplicadas em outras esferas deverão ser compensadas com as sanções aplicadas nos termos desta Lei. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2021.%20A%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20previstas%20nesta%20lei%20independe%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Disposições Penais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Para apurar qualquer ilícito previsto nesta Lei, o Ministério Público, de ofício, a requerimento de autoridade administrativa ou mediante representação formulada de acordo com o disposto no art. 14 desta Lei, poderá instaurar inquérito civil ou procedimento investigativo assemelhado e requisitar a instauração de inquérito policial. (Redação dada pela Lei nº 14.230, de 2021)\n\nParágrafo único. Na apuração dos ilícitos previstos nesta Lei, será garantido ao investigado a oportunidade de manifestação por escrito e de juntada de documentos que comprovem suas alegações e auxiliem na elucidação dos fatos. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2022.%20Para%20apurar%20qualquer%20il%C3%ADcito%20previsto%20nesta%20Lei%2C%20o%20Minist%C3%A9rio%20P%C3%BAblico%2C%20de%20of%C3%ADcio%2C%20a%20requerimento%20de%20autoridade%20administrativa%20ou%20mediante%20representa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Das Disposições Penais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A ação para a aplicação das sanções previstas nesta Lei prescreve em 8 (oito) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência. (Redação dada pela Lei nº 14.230, de 2021)\n\nI - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nII - (revogado); (Redação dada pela Lei nº 14.230, de 2021)\n\nIII - (revogado). (Redação dada pela Lei nº 14.230, de 2021)\n\n§ 1º A instauração de inquérito civil ou de processo administrativo para apuração dos ilícitos referidos nesta Lei suspende o curso do prazo prescricional por, no máximo, 180 (cento e oitenta) dias corridos, recomeçando a correr após a sua conclusão ou, caso não concluído o processo, esgotado o prazo de suspensão. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º O inquérito civil para apuração do ato de improbidade será concluído no prazo de 365 (trezentos e sessenta e cinco) dias corridos, prorrogável uma única vez por igual período, mediante ato fundamentado submetido à revisão da instância competente do órgão ministerial, conforme dispuser a respectiva lei orgânica. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 3º Encerrado o prazo previsto no § 2º deste artigo, a ação deverá ser proposta no prazo de 30 (trinta) dias, se não for caso de arquivamento do inquérito civil. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 4º O prazo da prescrição referido no caput deste artigo interrompe-se: (Incluído pela Lei nº 14.230, de 2021)\n\nI - pelo ajuizamento da ação de improbidade administrativa; (Incluído pela Lei nº 14.230, de 2021)\n\nII - pela publicação da sentença condenatória; (Incluído pela Lei nº 14.230, de 2021)\n\nIII - pela publicação de decisão ou acórdão de Tribunal de Justiça ou Tribunal Regional Federal que confirma sentença condenatória ou que reforma sentença de improcedência; (Incluído pela Lei nº 14.230, de 2021)\n\nIV - pela publicação de decisão ou acórdão do Superior Tribunal de Justiça que confirma acórdão condenatório ou que reforma acórdão de improcedência; (Incluído pela Lei nº 14.230, de 2021)\n\nV - pela publicação de decisão ou acórdão do Supremo Tribunal Federal que confirma acórdão condenatório ou que reforma acórdão de improcedência. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 5º Interrompida a prescrição, o prazo recomeça a correr do dia da interrupção, pela metade do prazo previsto no caput deste artigo. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)\n\n§ 6º A suspensão e a interrupção da prescrição produzem efeitos relativamente a todos os que concorreram para a prática do ato de improbidade. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 7º Nos atos de improbidade conexos que sejam objeto do mesmo processo, a suspensão e a interrupção relativas a qualquer deles estendem-se aos demais. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 8º O juiz ou o tribunal, depois de ouvido o Ministério Público, deverá, de ofício ou a requerimento da parte interessada, reconhecer a prescrição intercorrente da pretensão sancionadora e decretá-la de imediato, caso, entre os marcos interruptivos referidos no § 4º, transcorra o prazo previsto no § 5º deste artigo. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2023.%20A%20a%C3%A7%C3%A3o%20para%20a%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20previstas%20nesta%20Lei%20prescreve%20em%208%20%28oito%29%20anos%2C%20contados%20a%20partir%20da%20ocorr%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23-A"
+    },
+    "23-A": {
+      "numero": "23-A",
+      "texto": "Art. 23-A. É dever do poder público oferecer contínua capacitação aos agentes públicos e políticos que atuem com prevenção ou repressão de atos de improbidade administrativa. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2023-A.%20%C3%89%20dever%20do%20poder%20p%C3%BAblico%20oferecer%20cont%C3%ADnua%20capacita%C3%A7%C3%A3o%20aos%20agentes%20p%C3%BAblicos%20e%20pol%C3%ADticos%20que%20atuem%20com%20preven%C3%A7%C3%A3o%20ou%20repress%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "23-B"
+    },
+    "23-B": {
+      "numero": "23-B",
+      "texto": "Art. 23-B. Nas ações e nos acordos regidos por esta Lei, não haverá adiantamento de custas, de preparo, de emolumentos, de honorários periciais e de quaisquer outras despesas. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 1º No caso de procedência da ação, as custas e as demais despesas processuais serão pagas ao final. (Incluído pela Lei nº 14.230, de 2021)\n\n§ 2º Haverá condenação em honorários sucumbenciais em caso de improcedência da ação de improbidade se comprovada má-fé. (Incluído pela Lei nº 14.230, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2023-B.%20Nas%20a%C3%A7%C3%B5es%20e%20nos%20acordos%20regidos%20por%20esta%20Lei%2C%20n%C3%A3o%20haver%C3%A1%20adiantamento%20de%20custas%2C%20de%20preparo%2C%20de%20emolumentos%2C%20de%20honor%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23-A",
+      "next": "23-C"
+    },
+    "23-C": {
+      "numero": "23-C",
+      "texto": "Art. 23-C. Atos que ensejem enriquecimento ilícito, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação de recursos públicos dos partidos políticos, ou de suas fundações, serão responsabilizados nos termos da Lei nº 9.096, de 19 de setembro de 1995. (Incluído pela Lei nº 14.230, de 2021) (Vide ADI 7236)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2023-C.%20Atos%20que%20ensejem%20enriquecimento%20il%C3%ADcito%2C%20perda%20patrimonial%2C%20desvio%2C%20apropria%C3%A7%C3%A3o%2C%20malbaratamento%20ou%20dilapida%C3%A7%C3%A3o%20de%20recursos%20p%C3%BAblicos%20dos%20partidos%20pol%C3%ADticos%2C%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23-B",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2024.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das Disposições Finais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23-C",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Ficam revogadas as Leis n°s 3.164, de 1° de junho de 1957, e 3.502, de 21 de dezembro de 1958 e demais disposições em contrário.\n\nRio de Janeiro, 2 de junho de 1992; 171° da Independência e 104° da República.\n\nFERNANDO COLLOR Célio Borja\n\nEste texto não substitui o publicado no DOU de 3.6.1992.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm#:~:text=Art.%2025.%20Ficam%20revogadas%20as%20Leis%20n%C2%B0s%203.164%2C%20de%201%C2%B0%20de%20junho%20de%201957%2C%20e%203.502%2C%20de%2021%20de%20dezembro%20de%201958",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Das Disposições Finais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": null
+    }
+  }
+}

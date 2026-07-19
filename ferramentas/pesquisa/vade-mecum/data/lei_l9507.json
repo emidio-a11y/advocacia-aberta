@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "codigo": "L9507",
+    "nome": "Habeas Data",
+    "lei": "Lei 9.507/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm",
+    "total_artigos": 23,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º (VETADO)\n\nParágrafo único. Considera-se de caráter público todo registro ou banco de dados contendo informações que sejam ou que possam ser transmitidas a terceiros ou que não sejam de uso privativo do órgão ou entidade produtora ou depositária das informações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%201%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° O requerimento será apresentado ao órgão ou entidade depositária do registro ou banco de dados e será deferido ou indeferido no prazo de quarenta e oito horas.\n\nParágrafo único. A decisão será comunicada ao requerente em vinte e quatro horas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%202%C2%B0%20O%20requerimento%20ser%C3%A1%20apresentado%20ao%20%C3%B3rg%C3%A3o%20ou%20entidade%20deposit%C3%A1ria%20do%20registro%20ou%20banco%20de%20dados%20e%20ser%C3%A1%20deferido%20ou%20indeferido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° Ao deferir o pedido, o depositário do registro ou do banco de dados marcará dia e hora para que o requerente tome conhecimento das informações.\n\nParágrafo único. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%203%C2%B0%20Ao%20deferir%20o%20pedido%2C%20o%20deposit%C3%A1rio%20do%20registro%20ou%20do%20banco%20de%20dados%20marcar%C3%A1%20dia%20e%20hora%20para%20que%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° Constatada a inexatidão de qualquer dado a seu respeito, o interessado, em petição acompanhada de documentos comprobatórios, poderá requerer sua retificação.\n\n§ 1° Feita a retificação em, no máximo, dez dias após a entrada do requerimento, a entidade ou órgão depositário do registro ou da informação dará ciência ao interessado.\n\n§ 2° Ainda que não se constate a inexatidão do dado, se o interessado apresentar explicação ou contestação sobre o mesmo, justificando possível pendência sobre o fato objeto do dado, tal explicação será anotada no cadastro do interessado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%204%C2%B0%20Constatada%20a%20inexatid%C3%A3o%20de%20qualquer%20dado%20a%20seu%20respeito%2C%20o%20interessado%2C%20em%20peti%C3%A7%C3%A3o%20acompanhada%20de%20documentos%20comprobat%C3%B3rios%2C%20poder%C3%A1%20requerer%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%205%C2%B0%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%206%C2%B0%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° Conceder-se-á habeas data:\n\nI - para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registro ou banco de dados de entidades governamentais ou de caráter público;\n\nII - para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;\n\nIII - para a anotação nos assentamentos do interessado, de contestação ou explicação sobre dado verdadeiro mas justificável e que esteja sob pendência judicial ou amigável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%207%C2%B0%20Conceder-se-%C3%A1%20habeas%20data%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8° A petição inicial, que deverá preencher os requisitos dos arts. 282 a 285 do Código de Processo Civil, será apresentada em duas vias, e os documentos que instruírem a primeira serão reproduzidos por cópia na segunda.\n\nParágrafo único. A petição inicial deverá ser instruída com prova:\n\nI - da recusa ao acesso às informações ou do decurso de mais de dez dias sem decisão;\n\nII - da recusa em fazer-se a retificação ou do decurso de mais de quinze dias, sem decisão; ou\n\nIII - da recusa em fazer-se a anotação a que se refere o § 2° do art. 4° ou do decurso de mais de quinze dias sem decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%208%C2%B0%20A%20peti%C3%A7%C3%A3o%20inicial%2C%20que%20dever%C3%A1%20preencher%20os%20requisitos%20dos%20arts.%20282%20a%20285%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C%20ser%C3%A1%20apresentada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9° Ao despachar a inicial, o juiz ordenará que se notifique o coator do conteúdo da petição, entregando-lhe a segunda via apresentada pelo impetrante, com as cópias dos documentos, a fim de que, no prazo de dez dias, preste as informações que julgar necessárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%209%C2%B0%20Ao%20despachar%20a%20inicial%2C%20o%20juiz%20ordenar%C3%A1%20que%20se%20notifique%20o%20coator%20do%20conte%C3%BAdo%20da%20peti%C3%A7%C3%A3o%2C%20entregando-lhe%20a%20segunda%20via",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A inicial será desde logo indeferida, quando não for o caso de habeas data, ou se lhe faltar algum dos requisitos previstos nesta Lei.\n\nParágrafo único. Do despacho de indeferimento caberá recurso previsto no art. 15.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2010.%20A%20inicial%20ser%C3%A1%20desde%20logo%20indeferida%2C%20quando%20n%C3%A3o%20for%20o%20caso%20de%20habeas%20data%2C%20ou%20se%20lhe%20faltar%20algum%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Feita a notificação, o serventuário em cujo cartório corra o feito, juntará aos autos cópia autêntica do ofício endereçado ao coator, bem como a prova da sua entrega a este ou da recusa, seja de recebê-lo, seja de dar recibo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2011.%20Feita%20a%20notifica%C3%A7%C3%A3o%2C%20o%20serventu%C3%A1rio%20em%20cujo%20cart%C3%B3rio%20corra%20o%20feito%2C%20juntar%C3%A1%20aos%20autos%20c%C3%B3pia%20aut%C3%AAntica%20do%20of%C3%ADcio%20endere%C3%A7ado%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Findo o prazo a que se refere o art. 9°, e ouvido o representante do Ministério Público dentro de cinco dias, os autos serão conclusos ao juiz para decisão a ser proferida em cinco dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2012.%20Findo%20o%20prazo%20a%20que%20se%20refere%20o%20art.%209%C2%B0%2C%20e%20ouvido%20o%20representante%20do%20Minist%C3%A9rio%20P%C3%BAblico%20dentro%20de%20cinco",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Na decisão, se julgar procedente o pedido, o juiz marcará data e horário para que o coator:\n\nI - apresente ao impetrante as informações a seu respeito, constantes de registros ou bancos de dadas; ou\n\nII - apresente em juízo a prova da retificação ou da anotação feita nos assentamentos do impetrante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2013.%20Na%20decis%C3%A3o%2C%20se%20julgar%20procedente%20o%20pedido%2C%20o%20juiz%20marcar%C3%A1%20data%20e%20hor%C3%A1rio%20para%20que%20o%20coator%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A decisão será comunicada ao coator, por correio, com aviso de recebimento, ou por telegrama, radiograma ou telefonema, conforme o requerer o impetrante.\n\nParágrafo único. Os originais, no caso de transmissão telegráfica, radiofônica ou telefônica deverão ser apresentados à agência expedidora, com a firma do juiz devidamente reconhecida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2014.%20A%20decis%C3%A3o%20ser%C3%A1%20comunicada%20ao%20coator%2C%20por%20correio%2C%20com%20aviso%20de%20recebimento%2C%20ou%20por%20telegrama%2C%20radiograma%20ou%20telefonema%2C%20conforme%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Da sentença que conceder ou negar o habeas data cabe apelação.\n\nParágrafo único. Quando a sentença conceder o habeas data, o recurso terá efeito meramente devolutivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2015.%20Da%20senten%C3%A7a%20que%20conceder%20ou%20negar%20o%20habeas%20data%20cabe%20apela%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Quando o habeas data for concedido e o Presidente do Tribunal ao qual competir o conhecimento do recurso ordenar ao juiz a suspensão da execução da sentença, desse seu ato caberá agravo para o Tribunal a que presida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2016.%20Quando%20o%20habeas%20data%20for%20concedido%20e%20o%20Presidente%20do%20Tribunal%20ao%20qual%20competir%20o%20conhecimento%20do%20recurso%20ordenar%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Nos casos de competência do Supremo Tribunal Federal e dos demais Tribunais caberá ao relator a instrução do processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2017.%20Nos%20casos%20de%20compet%C3%AAncia%20do%20Supremo%20Tribunal%20Federal%20e%20dos%20demais%20Tribunais%20caber%C3%A1%20ao%20relator%20a%20instru%C3%A7%C3%A3o%20do%20processo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O pedido de habeas data poderá ser renovado se a decisão denegatória não lhe houver apreciado o mérito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2018.%20O%20pedido%20de%20habeas%20data%20poder%C3%A1%20ser%20renovado%20se%20a%20decis%C3%A3o%20denegat%C3%B3ria%20n%C3%A3o%20lhe%20houver%20apreciado%20o%20m%C3%A9rito.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Os processos de habeas data terão prioridade sobre todos os atos judiciais, exceto habeas-corpus e mandado de segurança. Na instância superior, deverão ser levados a julgamento na primeira sessão que se seguir à data em que, feita a distribuição, forem conclusos ao relator.\n\nParágrafo único. O prazo para a conclusão não poderá exceder de vinte e quatro horas, a contar da distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2019.%20Os%20processos%20de%20habeas%20data%20ter%C3%A3o%20prioridade%20sobre%20todos%20os%20atos%20judiciais%2C%20exceto%20habeas-corpus%20e%20mandado%20de%20seguran%C3%A7a.%20Na%20inst%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O julgamento do habeas data compete:\n\nI - originariamente:\n\na) ao Supremo Tribunal Federal, contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal;\n\nb) ao Superior Tribunal de Justiça, contra atos de Ministro de Estado ou do próprio Tribunal;\n\nc) aos Tribunais Regionais Federais contra atos do próprio Tribunal ou de juiz federal;\n\nd) a juiz federal, contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais;\n\ne) a tribunais estaduais, segundo o disposto na Constituição do Estado;\n\nf) a juiz estadual, nos demais casos;\n\nII - em grau de recurso:\n\na) ao Supremo Tribunal Federal, quando a decisão denegatória for proferida em única instância pelos Tribunais Superiores;\n\nb) ao Superior Tribunal de Justiça, quando a decisão for proferida em única instância pelos Tribunais Regionais Federais;\n\nc) aos Tribunais Regionais Federais, quando a decisão for proferida por juiz federal;\n\nd) aos Tribunais Estaduais e ao do Distrito Federal e Territórios, conforme dispuserem a respectiva Constituição e a lei que organizar a Justiça do Distrito Federal;\n\nIII - mediante recurso extraordinário ao Supremo Tribunal Federal, nos casos previstos na Constituição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2020.%20O%20julgamento%20do%20habeas%20data%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. São gratuitos o procedimento administrativo para acesso a informações e retificação de dados e para anotação de justificação, bem como a ação de habeas data.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2021.%20S%C3%A3o%20gratuitos%20o%20procedimento%20administrativo%20para%20acesso%20a%20informa%C3%A7%C3%B5es%20e%20retifica%C3%A7%C3%A3o%20de%20dados%20e%20para%20anota%C3%A7%C3%A3o%20de%20justifica%C3%A7%C3%A3o%2C%20bem%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2022.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Revogam-se as disposições em contrário.\n\nBrasília, 12 de novembro de 1997; 176º da Independência e 109º da República.\n\nFERNANDO HENRIQUE CARDOSO Iris Rezende\n\nEste texto não substitui o publicado no DOU de 13.11.1997\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm#:~:text=Art.%2023.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": null
+    }
+  }
+}

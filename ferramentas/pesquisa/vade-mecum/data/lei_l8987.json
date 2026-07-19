@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "codigo": "L8987",
+    "nome": "Concessões e Permissões de Serviços Públicos",
+    "lei": "Lei 8.987/1995",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm",
+    "total_artigos": 52,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o As concessões de serviços públicos e de obras públicas e as permissões de serviços públicos reger-se-ão pelos termos do art. 175 da Constituição Federal, por esta Lei, pelas normas legais pertinentes e pelas cláusulas dos indispensáveis contratos.\n\nParágrafo único. A União, os Estados, o Distrito Federal e os Municípios promoverão a revisão e as adaptações necessárias de sua legislação às prescrições desta Lei, buscando atender as peculiaridades das diversas modalidades dos seus serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%201o%20As%20concess%C3%B5es%20de%20servi%C3%A7os%20p%C3%BAblicos%20e%20de%20obras%20p%C3%BAblicas%20e%20as%20permiss%C3%B5es%20de%20servi%C3%A7os%20p%C3%BAblicos%20reger-se-%C3%A3o%20pelos%20termos%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Para os fins do disposto nesta Lei, considera-se:\n\nI - poder concedente: a União, o Estado, o Distrito Federal ou o Município, em cuja competência se encontre o serviço público, precedido ou não da execução de obra pública, objeto de concessão ou permissão;\n\nII - concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado; (Redação dada pela Lei nº 14.133, de 2021)\n\nIII - concessão de serviço público precedida da execução de obra pública: a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegados pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado; (Redação dada pela Lei nº 14.133, de 2021)\n\nIV - permissão de serviço público: a delegação, a título precário, mediante licitação, da prestação de serviços públicos, feita pelo poder concedente à pessoa física ou jurídica que demonstre capacidade para seu desempenho, por sua conta e risco.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%202o%20Para%20os%20fins%20do%20disposto%20nesta%20Lei%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o As concessões e permissões sujeitar-se-ão à fiscalização pelo poder concedente responsável pela delegação, com a cooperação dos usuários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%203o%20As%20concess%C3%B5es%20e%20permiss%C3%B5es%20sujeitar-se-%C3%A3o%20%C3%A0%20fiscaliza%C3%A7%C3%A3o%20pelo%20poder%20concedente%20respons%C3%A1vel%20pela%20delega%C3%A7%C3%A3o%2C%20com%20a%20coopera%C3%A7%C3%A3o%20dos%20usu%C3%A1rios.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A concessão de serviço público, precedida ou não da execução de obra pública, será formalizada mediante contrato, que deverá observar os termos desta Lei, das normas pertinentes e do edital de licitação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%204o%20A%20concess%C3%A3o%20de%20servi%C3%A7o%20p%C3%BAblico%2C%20precedida%20ou%20n%C3%A3o%20da%20execu%C3%A7%C3%A3o%20de%20obra%20p%C3%BAblica%2C%20ser%C3%A1%20formalizada%20mediante%20contrato%2C%20que%20dever%C3%A1%20observar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O poder concedente publicará, previamente ao edital de licitação, ato justificando a conveniência da outorga de concessão ou permissão, caracterizando seu objeto, área e prazo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%205o%20O%20poder%20concedente%20publicar%C3%A1%2C%20previamente%20ao%20edital%20de%20licita%C3%A7%C3%A3o%2C%20ato%20justificando%20a%20conveni%C3%AAncia%20da%20outorga%20de%20concess%C3%A3o%20ou%20permiss%C3%A3o%2C%20caracterizando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato.\n\n§ 1o Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas.\n\n§ 2o A atualidade compreende a modernidade das técnicas, do equipamento e das instalações e a sua conservação, bem como a melhoria e expansão do serviço.\n\n§ 3o Não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando:\n\nI - motivada por razões de ordem técnica ou de segurança das instalações; e,\n\nII - por inadimplemento do usuário, considerado o interesse da coletividade.\n\n§ 4º A interrupção do serviço na hipótese prevista no inciso II do § 3º deste artigo não poderá iniciar-se na sexta-feira, no sábado ou no domingo, nem em feriado ou no dia anterior a feriado. (Incluído pela Lei nº 14.015, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%206o%20Toda%20concess%C3%A3o%20ou%20permiss%C3%A3o%20pressup%C3%B5e%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7o%20adequado%20ao%20pleno%20atendimento%20dos%20usu%C3%A1rios%2C%20conforme%20estabelecido%20nesta%20Lei%2C%20nas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º. Sem prejuízo do disposto na Lei no 8.078, de 11 de setembro de 1990, são direitos e obrigações dos usuários:\n\nI - receber serviço adequado;\n\nII - receber do poder concedente e da concessionária informações para a defesa de interesses individuais ou coletivos;\n\nIII - obter e utilizar o serviço, com liberdade de escolha entre vários prestadores de serviços, quando for o caso, observadas as normas do poder concedente. (Redação dada pela Lei nº 9.648, de 1998)\n\nIV - levar ao conhecimento do poder público e da concessionária as irregularidades de que tenham conhecimento, referentes ao serviço prestado;\n\nV - comunicar às autoridades competentes os atos ilícitos praticados pela concessionária na prestação do serviço;\n\nVI - contribuir para a permanência das boas condições dos bens públicos através dos quais lhes são prestados os serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%207%C2%BA.%20Sem%20preju%C3%ADzo%20do%20disposto%20na%20Lei%20no%208.078%2C%20de%2011%20de%20setembro%20de%201990%2C%20s%C3%A3o%20direitos%20e%20obriga%C3%A7%C3%B5es%20dos%20usu%C3%A1rios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7º-A. As concessionárias de serviços públicos, de direito público e privado, nos Estados e no Distrito Federal, são obrigadas a oferecer ao consumidor e ao usuário, dentro do mês de vencimento, o mínimo de seis datas opcionais para escolherem os dias de vencimento de seus débitos. (Incluído pela Lei nº 9.791, de 1999)\n\nParágrafo único. (VETADO) (Incluído pela Lei nº 9.791, de 1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%207%C2%BA-A.%20As%20concession%C3%A1rias%20de%20servi%C3%A7os%20p%C3%BAblicos%2C%20de%20direito%20p%C3%BAblico%20e%20privado%2C%20nos%20Estados%20e%20no%20Distrito%20Federal%2C%20s%C3%A3o%20obrigadas%20a%20oferecer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%208o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7-A",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o A tarifa do serviço público concedido será fixada pelo preço da proposta vencedora da licitação e preservada pelas regras de revisão previstas nesta Lei, no edital e no contrato.\n\n§ 1o A tarifa não será subordinada à legislação específica anterior e somente nos casos expressamente previstos em lei, sua cobrança poderá ser condicionada à existência de serviço público alternativo e gratuito para o usuário. (Redação dada pela Lei nº 9.648, de 1998)\n\n§ 2o Os contratos poderão prever mecanismos de revisão das tarifas, a fim de manter-se o equilíbrio econômico-financeiro.\n\n§ 3o Ressalvados os impostos sobre a renda, a criação, alteração ou extinção de quaisquer tributos ou encargos legais, após a apresentação da proposta, quando comprovado seu impacto, implicará a revisão da tarifa, para mais ou para menos, conforme o caso.\n\n§ 4o Em havendo alteração unilateral do contrato que afete o seu inicial equilíbrio econômico-financeiro, o poder concedente deverá restabelecê-lo, concomitantemente à alteração.\n\n§ 5º A concessionária deverá divulgar em seu sítio eletrônico, de forma clara e de fácil compreensão pelos usuários, tabela com o valor das tarifas praticadas e a evolução das revisões ou reajustes realizados nos últimos cinco anos. (Incluído pela Lei nº 13.673, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%209o%20A%20tarifa%20do%20servi%C3%A7o%20p%C3%BAblico%20concedido%20ser%C3%A1%20fixada%20pelo%20pre%C3%A7o%20da%20proposta%20vencedora%20da%20licita%C3%A7%C3%A3o%20e%20preservada%20pelas%20regras%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Sempre que forem atendidas as condições do contrato, considera-se mantido seu equilíbrio econômico-financeiro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2010.%20Sempre%20que%20forem%20atendidas%20as%20condi%C3%A7%C3%B5es%20do%20contrato%2C%20considera-se%20mantido%20seu%20equil%C3%ADbrio%20econ%C3%B4mico-financeiro.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. No atendimento às peculiaridades de cada serviço público, poderá o poder concedente prever, em favor da concessionária, no edital de licitação, a possibilidade de outras fontes provenientes de receitas alternativas, complementares, acessórias ou de projetos associados, com ou sem exclusividade, com vistas a favorecer a modicidade das tarifas, observado o disposto no art. 17 desta Lei.\n\nParágrafo único. As fontes de receita previstas neste artigo serão obrigatoriamente consideradas para a aferição do inicial equilíbrio econômico-financeiro do contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2011.%20No%20atendimento%20%C3%A0s%20peculiaridades%20de%20cada%20servi%C3%A7o%20p%C3%BAblico%2C%20poder%C3%A1%20o%20poder%20concedente%20prever%2C%20em%20favor%20da%20concession%C3%A1ria%2C%20no%20edital%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2012.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As tarifas poderão ser diferenciadas em função das características técnicas e dos custos específicos provenientes do atendimento aos distintos segmentos de usuários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2013.%20As%20tarifas%20poder%C3%A3o%20ser%20diferenciadas%20em%20fun%C3%A7%C3%A3o%20das%20caracter%C3%ADsticas%20t%C3%A9cnicas%20e%20dos%20custos%20espec%C3%ADficos%20provenientes%20do%20atendimento%20aos%20distintos%20segmentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Toda concessão de serviço público, precedida ou não da execução de obra pública, será objeto de prévia licitação, nos termos da legislação própria e com observância dos princípios da legalidade, moralidade, publicidade, igualdade, do julgamento por critérios objetivos e da vinculação ao instrumento convocatório.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2014.%20Toda%20concess%C3%A3o%20de%20servi%C3%A7o%20p%C3%BAblico%2C%20precedida%20ou%20n%C3%A3o%20da%20execu%C3%A7%C3%A3o%20de%20obra%20p%C3%BAblica%2C%20ser%C3%A1%20objeto%20de%20pr%C3%A9via%20licita%C3%A7%C3%A3o%2C%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. No julgamento da licitação será considerado um dos seguintes critérios: (Redação dada pela Lei nº 9.648, de 1998)\n\nI - o menor valor da tarifa do serviço público a ser prestado; (Redação dada pela Lei nº 9.648, de 1998)\n\nII - a maior oferta, nos casos de pagamento ao poder concedente pela outorga da concessão; (Redação dada pela Lei nº 9.648, de 1998)\n\nIII - a combinação, dois a dois, dos critérios referidos nos incisos I, II e VII; (Redação dada pela Lei nº 9.648, de 1998)\n\nIV - melhor proposta técnica, com preço fixado no edital; (Incluído pela Lei nº 9.648, de 1998)\n\nV - melhor proposta em razão da combinação dos critérios de menor valor da tarifa do serviço público a ser prestado com o de melhor técnica; (Incluído pela Lei nº 9.648, de 1998)\n\nVI - melhor proposta em razão da combinação dos critérios de maior oferta pela outorga da concessão com o de melhor técnica; ou (Incluído pela Lei nº 9.648, de 1998)\n\nVII - melhor oferta de pagamento pela outorga após qualificação de propostas técnicas. (Incluído pela Lei nº 9.648, de 1998)\n\n§ 1o A aplicação do critério previsto no inciso III só será admitida quando previamente estabelecida no edital de licitação, inclusive com regras e fórmulas precisas para avaliação econômico-financeira. (Redação dada pela Lei nº 9.648, de 1998)\n\n§ 2o Para fins de aplicação do disposto nos incisos IV, V, VI e VII, o edital de licitação conterá parâmetros e exigências para formulação de propostas técnicas. (Redação dada pela Lei nº 9.648, de 1998)\n\n§ 3o O poder concedente recusará propostas manifestamente inexequíveis ou financeiramente incompatíveis com os objetivos da licitação. (Redação dada pela Lei nº 9.648, de 1998)\n\n§ 4o Em igualdade de condições, será dada preferência à proposta apresentada por empresa brasileira. (Redação dada pela Lei nº 9.648, de 1998)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2015.%20No%20julgamento%20da%20licita%C3%A7%C3%A3o%20ser%C3%A1%20considerado%20um%20dos%20seguintes%20crit%C3%A9rios%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%209.648%2C%20de%201998%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A outorga de concessão ou permissão não terá caráter de exclusividade, salvo no caso de inviabilidade técnica ou econômica justificada no ato a que se refere o art. 5o desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2016.%20A%20outorga%20de%20concess%C3%A3o%20ou%20permiss%C3%A3o%20n%C3%A3o%20ter%C3%A1%20car%C3%A1ter%20de%20exclusividade%2C%20salvo%20no%20caso%20de%20inviabilidade%20t%C3%A9cnica%20ou%20econ%C3%B4mica%20justificada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Considerar-se-á desclassificada a proposta que, para sua viabilização, necessite de vantagens ou subsídios que não estejam previamente autorizados em lei e à disposição de todos os concorrentes.\n\n§ 1o Considerar-se-á, também, desclassificada a proposta de entidade estatal alheia à esfera político-administrativa do poder concedente que, para sua viabilização, necessite de vantagens ou subsídios do poder público controlador da referida entidade. (Renumerado do parágrafo único pela Lei nº 9.648, de 1998)\n\n§ 2o Inclui-se nas vantagens ou subsídios de que trata este artigo, qualquer tipo de tratamento tributário diferenciado, ainda que em conseqüência da natureza jurídica do licitante, que comprometa a isonomia fiscal que deve prevalecer entre todos os concorrentes. (Incluído pela Lei nº 9.648, de 1998)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2017.%20Considerar-se-%C3%A1%20desclassificada%20a%20proposta%20que%2C%20para%20sua%20viabiliza%C3%A7%C3%A3o%2C%20necessite%20de%20vantagens%20ou%20subs%C3%ADdios%20que%20n%C3%A3o%20estejam%20previamente%20autorizados%20em%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O edital de licitação será elaborado pelo poder concedente, observados, no que couber, os critérios e as normas gerais da legislação própria sobre licitações e contratos e conterá, especialmente:\n\nI - o objeto, metas e prazo da concessão;\n\nII - a descrição das condições necessárias à prestação adequada do serviço;\n\nIII - os prazos para recebimento das propostas, julgamento da licitação e assinatura do contrato;\n\nIV - prazo, local e horário em que serão fornecidos, aos interessados, os dados, estudos e projetos necessários à elaboração dos orçamentos e apresentação das propostas;\n\nV - os critérios e a relação dos documentos exigidos para a aferição da capacidade técnica, da idoneidade financeira e da regularidade jurídica e fiscal;\n\nVI - as possíveis fontes de receitas alternativas, complementares ou acessórias, bem como as provenientes de projetos associados;\n\nVII - os direitos e obrigações do poder concedente e da concessionária em relação a alterações e expansões a serem realizadas no futuro, para garantir a continuidade da prestação do serviço;\n\nVIII - os critérios de reajuste e revisão da tarifa;\n\nIX - os critérios, indicadores, fórmulas e parâmetros a serem utilizados no julgamento técnico e econômico-financeiro da proposta;\n\nX - a indicação dos bens reversíveis;\n\nXI - as características dos bens reversíveis e as condições em que estes serão postos à disposição, nos casos em que houver sido extinta a concessão anterior;\n\nXII - a expressa indicação do responsável pelo ônus das desapropriações necessárias à execução do serviço ou da obra pública, ou para a instituição de servidão administrativa;\n\nXIII - as condições de liderança da empresa responsável, na hipótese em que for permitida a participação de empresas em consórcio;\n\nXIV - nos casos de concessão, a minuta do respectivo contrato, que conterá as cláusulas essenciais referidas no art. 23 desta Lei, quando aplicáveis;\n\nXV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização, bem assim as garantias exigidas para essa parte específica do contrato, adequadas a cada caso e limitadas ao valor da obra; (Redação dada pela Lei nº 9.648, de 1998)\n\nXVI - nos casos de permissão, os termos do contrato de adesão a ser firmado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2018.%20O%20edital%20de%20licita%C3%A7%C3%A3o%20ser%C3%A1%20elaborado%20pelo%20poder%20concedente%2C%20observados%2C%20no%20que%20couber%2C%20os%20crit%C3%A9rios%20e%20as%20normas%20gerais%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18-A"
+    },
+    "18-A": {
+      "numero": "18-A",
+      "texto": "Art. 18-A. O edital poderá prever a inversão da ordem das fases de habilitação e julgamento, hipótese em que: (Incluído pela Lei nº 11.196, de 2005)\n\nI - encerrada a fase de classificação das propostas ou o oferecimento de lances, será aberto o invólucro com os documentos de habilitação do licitante mais bem classificado, para verificação do atendimento das condições fixadas no edital; (Incluído pela Lei nº 11.196, de 2005)\n\nII - verificado o atendimento das exigências do edital, o licitante será declarado vencedor; (Incluído pela Lei nº 11.196, de 2005)\n\nIII - inabilitado o licitante melhor classificado, serão analisados os documentos habilitatórios do licitante com a proposta classificada em segundo lugar, e assim sucessivamente, até que um licitante classificado atenda às condições fixadas no edital; (Incluído pela Lei nº 11.196, de 2005)\n\nIV - proclamado o resultado final do certame, o objeto será adjudicado ao vencedor nas condições técnicas e econômicas por ele ofertadas. (Incluído pela Lei nº 11.196, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2018-A.%20O%20edital%20poder%C3%A1%20prever%20a%20invers%C3%A3o%20da%20ordem%20das%20fases%20de%20habilita%C3%A7%C3%A3o%20e%20julgamento%2C%20hip%C3%B3tese%20em%20que%3A%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Quando permitida, na licitação, a participação de empresas em consórcio, observar-se-ão as seguintes normas:\n\nI - comprovação de compromisso, público ou particular, de constituição de consórcio, subscrito pelas consorciadas;\n\nII - indicação da empresa responsável pelo consórcio;\n\nIII - apresentação dos documentos exigidos nos incisos V e XIII do artigo anterior, por parte de cada consorciada;\n\nIV - impedimento de participação de empresas consorciadas na mesma licitação, por intermédio de mais de um consórcio ou isoladamente.\n\n§ 1o O licitante vencedor fica obrigado a promover, antes da celebração do contrato, a constituição e registro do consórcio, nos termos do compromisso referido no inciso I deste artigo.\n\n§ 2o A empresa líder do consórcio é a responsável perante o poder concedente pelo cumprimento do contrato de concessão, sem prejuízo da responsabilidade solidária das demais consorciadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2019.%20Quando%20permitida%2C%20na%20licita%C3%A7%C3%A3o%2C%20a%20participa%C3%A7%C3%A3o%20de%20empresas%20em%20cons%C3%B3rcio%2C%20observar-se-%C3%A3o%20as%20seguintes%20normas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18-A",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. É facultado ao poder concedente, desde que previsto no edital, no interesse do serviço a ser concedido, determinar que o licitante vencedor, no caso de consórcio, se constitua em empresa antes da celebração do contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2020.%20%C3%89%20facultado%20ao%20poder%20concedente%2C%20desde%20que%20previsto%20no%20edital%2C%20no%20interesse%20do%20servi%C3%A7o%20a%20ser%20concedido%2C%20determinar%20que%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os estudos, investigações, levantamentos, projetos, obras e despesas ou investimentos já efetuados, vinculados à concessão, de utilidade para a licitação, realizados pelo poder concedente ou com a sua autorização, estarão à disposição dos interessados, devendo o vencedor da licitação ressarcir os dispêndios correspondentes, especificados no edital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2021.%20Os%20estudos%2C%20investiga%C3%A7%C3%B5es%2C%20levantamentos%2C%20projetos%2C%20obras%20e%20despesas%20ou%20investimentos%20j%C3%A1%20efetuados%2C%20vinculados%20%C3%A0%20concess%C3%A3o%2C%20de%20utilidade%20para%20a%20licita%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. É assegurada a qualquer pessoa a obtenção de certidão sobre atos, contratos, decisões ou pareceres relativos à licitação ou às próprias concessões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2022.%20%C3%89%20assegurada%20a%20qualquer%20pessoa%20a%20obten%C3%A7%C3%A3o%20de%20certid%C3%A3o%20sobre%20atos%2C%20contratos%2C%20decis%C3%B5es%20ou%20pareceres%20relativos%20%C3%A0%20licita%C3%A7%C3%A3o%20ou%20%C3%A0s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. São cláusulas essenciais do contrato de concessão as relativas:\n\nI - ao objeto, à área e ao prazo da concessão;\n\nII - ao modo, forma e condições de prestação do serviço;\n\nIII - aos critérios, indicadores, fórmulas e parâmetros definidores da qualidade do serviço;\n\nIV - ao preço do serviço e aos critérios e procedimentos para o reajuste e a revisão das tarifas;\n\nV - aos direitos, garantias e obrigações do poder concedente e da concessionária, inclusive os relacionados às previsíveis necessidades de futura alteração e expansão do serviço e conseqüente modernização, aperfeiçoamento e ampliação dos equipamentos e das instalações;\n\nVI - aos direitos e deveres dos usuários para obtenção e utilização do serviço;\n\nVII - à forma de fiscalização das instalações, dos equipamentos, dos métodos e práticas de execução do serviço, bem como a indicação dos órgãos competentes para exercê-la;\n\nVIII - às penalidades contratuais e administrativas a que se sujeita a concessionária e sua forma de aplicação;\n\nIX - aos casos de extinção da concessão;\n\nX - aos bens reversíveis;\n\nXI - aos critérios para o cálculo e a forma de pagamento das indenizações devidas à concessionária, quando for o caso;\n\nXII - às condições para prorrogação do contrato;\n\nXIII - à obrigatoriedade, forma e periodicidade da prestação de contas da concessionária ao poder concedente;\n\nXIV - à exigência da publicação de demonstrações financeiras periódicas da concessionária; e\n\nXV - ao foro e ao modo amigável de solução das divergências contratuais.\n\nParágrafo único. Os contratos relativos à concessão de serviço público precedido da execução de obra pública deverão, adicionalmente:\n\nI - estipular os cronogramas físico-financeiros de execução das obras vinculadas à concessão; e\n\nII - exigir garantia do fiel cumprimento, pela concessionária, das obrigações relativas às obras vinculadas à concessão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2023.%20S%C3%A3o%20cl%C3%A1usulas%20essenciais%20do%20contrato%20de%20concess%C3%A3o%20as%20relativas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23-A"
+    },
+    "23-A": {
+      "numero": "23-A",
+      "texto": "Art. 23-A. O contrato de concessão poderá prever o emprego de mecanismos privados para resolução de disputas decorrentes ou relacionadas ao contrato, inclusive a arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei no 9.307, de 23 de setembro de 1996. (Incluído pela Lei nº 11.196, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2023-A.%20O%20contrato%20de%20concess%C3%A3o%20poder%C3%A1%20prever%20o%20emprego%20de%20mecanismos%20privados%20para%20resolu%C3%A7%C3%A3o%20de%20disputas%20decorrentes%20ou%20relacionadas%20ao%20contrato%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2024.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23-A",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.\n\n§ 1o Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados. (Vide ADC 57)\n\n§ 2o Os contratos celebrados entre a concessionária e os terceiros a que se refere o parágrafo anterior reger-se-ão pelo direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros e o poder concedente.\n\n§ 3o A execução das atividades contratadas com terceiros pressupõe o cumprimento das normas regulamentares da modalidade do serviço concedido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2025.%20Incumbe%20%C3%A0%20concession%C3%A1ria%20a%20execu%C3%A7%C3%A3o%20do%20servi%C3%A7o%20concedido%2C%20cabendo-lhe%20responder%20por%20todos%20os%20preju%C3%ADzos%20causados%20ao%20poder%20concedente%2C%20aos%20usu%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. É admitida a subconcessão, nos termos previstos no contrato de concessão, desde que expressamente autorizada pelo poder concedente.\n\n§ 1o A outorga de subconcessão será sempre precedida de concorrência.\n\n§ 2o O subconcessionário se sub-rogará todos os direitos e obrigações da subconcedente dentro dos limites da subconcessão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2026.%20%C3%89%20admitida%20a%20subconcess%C3%A3o%2C%20nos%20termos%20previstos%20no%20contrato%20de%20concess%C3%A3o%2C%20desde%20que%20expressamente%20autorizada%20pelo%20poder%20concedente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A transferência de concessão ou do controle societário da concessionária sem prévia anuência do poder concedente implicará a caducidade da concessão.\n\n§ 1o Para fins de obtenção da anuência de que trata o caput deste artigo, o pretendente deverá: (Renumerado do parágrafo único pela Lei nº 11.196, de 2005)\n\nI - atender às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal necessárias à assunção do serviço; e\n\nII - comprometer-se a cumprir todas as cláusulas do contrato em vigor.\n\n§ 2o (Revogado). (Redação dada pela Lei nº 13.097, de 2015)\n\n§ 3o (Revogado). (Redação dada pela Lei nº 13.097, de 2015)\n\n§ 4o (Revogado). (Redação dada pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2027.%20A%20transfer%C3%AAncia%20de%20concess%C3%A3o%20ou%20do%20controle%20societ%C3%A1rio%20da%20concession%C3%A1ria%20sem%20pr%C3%A9via%20anu%C3%AAncia%20do%20poder%20concedente%20implicar%C3%A1%20a%20caducidade%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27-A"
+    },
+    "27-A": {
+      "numero": "27-A",
+      "texto": "Art. 27-A. Nas condições estabelecidas no contrato de concessão, o poder concedente autorizará a assunção do controle ou da administração temporária da concessionária por seus financiadores e garantidores com quem não mantenha vínculo societário direto, para promover sua reestruturação financeira e assegurar a continuidade da prestação dos serviços. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 1o Na hipótese prevista no caput, o poder concedente exigirá dos financiadores e dos garantidores que atendam às exigências de regularidade jurídica e fiscal, podendo alterar ou dispensar os demais requisitos previstos no inciso I do parágrafo único do art. 27. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 2o A assunção do controle ou da administração temporária autorizadas na forma do caput deste artigo não alterará as obrigações da concessionária e de seus controladores para com terceiros, poder concedente e usuários dos serviços públicos. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 3o Configura-se o controle da concessionária, para os fins dispostos no caput deste artigo, a propriedade resolúvel de ações ou quotas por seus financiadores e garantidores que atendam os requisitos do art. 116 da Lei no 6.404, de 15 de dezembro de 1976. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 4o Configura-se a administração temporária da concessionária por seus financiadores e garantidores quando, sem a transferência da propriedade de ações ou quotas, forem outorgados os seguintes poderes: (Incluído pela Lei nº 13.097, de 2015)\n\nI - indicar os membros do Conselho de Administração, a serem eleitos em Assembleia Geral pelos acionistas, nas sociedades regidas pela Lei 6.404, de 15 de dezembro de 1976; ou administradores, a serem eleitos pelos quotistas, nas demais sociedades; (Incluído pela Lei nº 13.097, de 2015)\n\nII - indicar os membros do Conselho Fiscal, a serem eleitos pelos acionistas ou quotistas controladores em Assembleia Geral; (Incluído pela Lei nº 13.097, de 2015)\n\nIII - exercer poder de veto sobre qualquer proposta submetida à votação dos acionistas ou quotistas da concessionária, que representem, ou possam representar, prejuízos aos fins previstos no caput deste artigo; (Incluído pela Lei nº 13.097, de 2015)\n\nIV - outros poderes necessários ao alcance dos fins previstos no caput deste artigo. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 5o A administração temporária autorizada na forma deste artigo não acarretará responsabilidade aos financiadores e garantidores em relação à tributação, encargos, ônus, sanções, obrigações ou compromissos com terceiros, inclusive com o poder concedente ou empregados. (Incluído pela Lei nº 13.097, de 2015)\n\n§ 6o O Poder Concedente disciplinará sobre o prazo da administração temporária. (Incluído pela Lei nº 13.097, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2027-A.%20Nas%20condi%C3%A7%C3%B5es%20estabelecidas%20no%20contrato%20de%20concess%C3%A3o%2C%20o%20poder%20concedente%20autorizar%C3%A1%20a%20assun%C3%A7%C3%A3o%20do%20controle%20ou%20da%20administra%C3%A7%C3%A3o%20tempor%C3%A1ria%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Nos contratos de financiamento, as concessionárias poderão oferecer em garantia os direitos emergentes da concessão, até o limite que não comprometa a operacionalização e a continuidade da prestação do serviço.\n\nParágrafo único. (Revogado pela Lei no 9.074, de 1995)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2028.%20Nos%20contratos%20de%20financiamento%2C%20as%20concession%C3%A1rias%20poder%C3%A3o%20oferecer%20em%20garantia%20os%20direitos%20emergentes%20da%20concess%C3%A3o%2C%20at%C3%A9%20o%20limite%20que%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-A",
+      "next": "28-A"
+    },
+    "28-A": {
+      "numero": "28-A",
+      "texto": "Art. 28-A. Para garantir contratos de mútuo de longo prazo, destinados a investimentos relacionados a contratos de concessão, em qualquer de suas modalidades, as concessionárias poderão ceder ao mutuante, em caráter fiduciário, parcela de seus créditos operacionais futuros, observadas as seguintes condições: (Incluído pela Lei nº 11.196, de 2005)\n\nI - o contrato de cessão dos créditos deverá ser registrado em Cartório de Títulos e Documentos para ter eficácia perante terceiros;\n\nII - sem prejuízo do disposto no inciso I do caput deste artigo, a cessão do crédito não terá eficácia em relação ao Poder Público concedente senão quando for este formalmente notificado; (Incluído pela Lei nº 11.196, de 2005)\n\nIII - os créditos futuros cedidos nos termos deste artigo serão constituídos sob a titularidade do mutuante, independentemente de qualquer formalidade adicional; (Incluído pela Lei nº 11.196, de 2005)\n\nIV - o mutuante poderá indicar instituição financeira para efetuar a cobrança e receber os pagamentos dos créditos cedidos ou permitir que a concessionária o faça, na qualidade de representante e depositária; (Incluído pela Lei nº 11.196, de 2005)\n\nV - na hipótese de ter sido indicada instituição financeira, conforme previsto no inciso IV do caput deste artigo, fica a concessionária obrigada a apresentar a essa os créditos para cobrança; (Incluído pela Lei nº 11.196, de 2005)\n\nVI - os pagamentos dos créditos cedidos deverão ser depositados pela concessionária ou pela instituição encarregada da cobrança em conta corrente bancária vinculada ao contrato de mútuo; (Incluído pela Lei nº 11.196, de 2005)\n\nVII - a instituição financeira depositária deverá transferir os valores recebidos ao mutuante à medida que as obrigações do contrato de mútuo tornarem-se exigíveis; e (Incluído pela Lei nº 11.196, de 2005)\n\nVIII - o contrato de cessão disporá sobre a devolução à concessionária dos recursos excedentes, sendo vedada a retenção do saldo após o adimplemento integral do contrato. (Incluído pela Lei nº 11.196, de 2005)\n\nParágrafo único. Para os fins deste artigo, serão considerados contratos de longo prazo aqueles cujas obrigações tenham prazo médio de vencimento superior a 5 (cinco) anos. (Incluído pela Lei nº 11.196, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2028-A.%20Para%20garantir%20contratos%20de%20m%C3%BAtuo%20de%20longo%20prazo%2C%20destinados%20a%20investimentos%20relacionados%20a%20contratos%20de%20concess%C3%A3o%2C%20em%20qualquer%20de%20suas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Incumbe ao poder concedente:\n\nI - regulamentar o serviço concedido e fiscalizar permanentemente a sua prestação;\n\nII - aplicar as penalidades regulamentares e contratuais;\n\nIII - intervir na prestação do serviço, nos casos e condições previstos em lei;\n\nIV - extinguir a concessão, nos casos previstos nesta Lei e na forma prevista no contrato;\n\nV - homologar reajustes e proceder à revisão das tarifas na forma desta Lei, das normas pertinentes e do contrato;\n\nVI - cumprir e fazer cumprir as disposições regulamentares do serviço e as cláusulas contratuais da concessão;\n\nVII - zelar pela boa qualidade do serviço, receber, apurar e solucionar queixas e reclamações dos usuários, que serão cientificados, em até trinta dias, das providências tomadas;\n\nVIII - declarar de utilidade pública os bens necessários à execução do serviço ou obra pública, promovendo as desapropriações, diretamente ou mediante outorga de poderes à concessionária, caso em que será desta a responsabilidade pelas indenizações cabíveis;\n\nIX - declarar de necessidade ou utilidade pública, para fins de instituição de servidão administrativa, os bens necessários à execução de serviço ou obra pública, promovendo-a diretamente ou mediante outorga de poderes à concessionária, caso em que será desta a responsabilidade pelas indenizações cabíveis;\n\nX - estimular o aumento da qualidade, produtividade, preservação do meio-ambiente e conservação;\n\nXI - incentivar a competitividade; e\n\nXII - estimular a formação de associações de usuários para defesa de interesses relativos ao serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2029.%20Incumbe%20ao%20poder%20concedente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28-A",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. No exercício da fiscalização, o poder concedente terá acesso aos dados relativos à administração, contabilidade, recursos técnicos, econômicos e financeiros da concessionária.\n\nParágrafo único. A fiscalização do serviço será feita por intermédio de órgão técnico do poder concedente ou por entidade com ele conveniada, e, periodicamente, conforme previsto em norma regulamentar, por comissão composta de representantes do poder concedente, da concessionária e dos usuários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2030.%20No%20exerc%C3%ADcio%20da%20fiscaliza%C3%A7%C3%A3o%2C%20o%20poder%20concedente%20ter%C3%A1%20acesso%20aos%20dados%20relativos%20%C3%A0%20administra%C3%A7%C3%A3o%2C%20contabilidade%2C%20recursos%20t%C3%A9cnicos%2C%20econ%C3%B4micos%20e%20financeiros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Incumbe à concessionária:\n\nI - prestar serviço adequado, na forma prevista nesta Lei, nas normas técnicas aplicáveis e no contrato;\n\nII - manter em dia o inventário e o registro dos bens vinculados à concessão;\n\nIII - prestar contas da gestão do serviço ao poder concedente e aos usuários, nos termos definidos no contrato;\n\nIV - cumprir e fazer cumprir as normas do serviço e as cláusulas contratuais da concessão;\n\nV - permitir aos encarregados da fiscalização livre acesso, em qualquer época, às obras, aos equipamentos e às instalações integrantes do serviço, bem como a seus registros contábeis;\n\nVI - promover as desapropriações e constituir servidões autorizadas pelo poder concedente, conforme previsto no edital e no contrato;\n\nVII - zelar pela integridade dos bens vinculados à prestação do serviço, bem como segurá-los adequadamente; e\n\nVIII - captar, aplicar e gerir os recursos financeiros necessários à prestação do serviço.\n\nParágrafo único. As contratações, inclusive de mão-de-obra, feitas pela concessionária serão regidas pelas disposições de direito privado e pela legislação trabalhista, não se estabelecendo qualquer relação entre os terceiros contratados pela concessionária e o poder concedente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2031.%20Incumbe%20%C3%A0%20concession%C3%A1ria%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "Capítulo VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O poder concedente poderá intervir na concessão, com o fim de assegurar a adequação na prestação do serviço, bem como o fiel cumprimento das normas contratuais, regulamentares e legais pertinentes.\n\nParágrafo único. A intervenção far-se-á por decreto do poder concedente, que conterá a designação do interventor, o prazo da intervenção e os objetivos e limites da medida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2032.%20O%20poder%20concedente%20poder%C3%A1%20intervir%20na%20concess%C3%A3o%2C%20com%20o%20fim%20de%20assegurar%20a%20adequa%C3%A7%C3%A3o%20na%20presta%C3%A7%C3%A3o%20do%20servi%C3%A7o%2C%20bem%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "Capítulo IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Declarada a intervenção, o poder concedente deverá, no prazo de trinta dias, instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurado o direito de ampla defesa.\n\n§ 1o Se ficar comprovado que a intervenção não observou os pressupostos legais e regulamentares será declarada sua nulidade, devendo o serviço ser imediatamente devolvido à concessionária, sem prejuízo de seu direito à indenização.\n\n§ 2o O procedimento administrativo a que se refere o caput deste artigo deverá ser concluído no prazo de até cento e oitenta dias, sob pena de considerar-se inválida a intervenção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2033.%20Declarada%20a%20interven%C3%A7%C3%A3o%2C%20o%20poder%20concedente%20dever%C3%A1%2C%20no%20prazo%20de%20trinta%20dias%2C%20instaurar%20procedimento%20administrativo%20para%20comprovar%20as%20causas%20determinantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "Capítulo IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Cessada a intervenção, se não for extinta a concessão, a administração do serviço será devolvida à concessionária, precedida de prestação de contas pelo interventor, que responderá pelos atos praticados durante a sua gestão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2034.%20Cessada%20a%20interven%C3%A7%C3%A3o%2C%20se%20n%C3%A3o%20for%20extinta%20a%20concess%C3%A3o%2C%20a%20administra%C3%A7%C3%A3o%20do%20servi%C3%A7o%20ser%C3%A1%20devolvida%20%C3%A0%20concession%C3%A1ria%2C%20precedida%20de%20presta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "Capítulo IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Extingue-se a concessão por:\n\nI - advento do termo contratual; (Regulamento)\n\nII - encampação;\n\nIII - caducidade;\n\nIV - rescisão;\n\nV - anulação; e\n\nVI - falência ou extinção da empresa concessionária e falecimento ou incapacidade do titular, no caso de empresa individual.\n\n§ 1o Extinta a concessão, retornam ao poder concedente todos os bens reversíveis, direitos e privilégios transferidos ao concessionário conforme previsto no edital e estabelecido no contrato.\n\n§ 2o Extinta a concessão, haverá a imediata assunção do serviço pelo poder concedente, procedendo-se aos levantamentos, avaliações e liquidações necessários.\n\n§ 3o A assunção do serviço autoriza a ocupação das instalações e a utilização, pelo poder concedente, de todos os bens reversíveis.\n\n§ 4o Nos casos previstos nos incisos I e II deste artigo, o poder concedente, antecipando-se à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à concessionária, na forma dos arts. 36 e 37 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2035.%20Extingue-se%20a%20concess%C3%A3o%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "Capítulo X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou depreciados, que tenham sido realizados com o objetivo de garantir a continuidade e atualidade do serviço concedido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2036.%20A%20revers%C3%A3o%20no%20advento%20do%20termo%20contratual%20far-se-%C3%A1%20com%20a%20indeniza%C3%A7%C3%A3o%20das%20parcelas%20dos%20investimentos%20vinculados%20a%20bens%20revers%C3%ADveis%2C%20ainda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "Capítulo X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Considera-se encampação a retomada do serviço pelo poder concedente durante o prazo da concessão, por motivo de interesse público, mediante lei autorizativa específica e após prévio pagamento da indenização, na forma do artigo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2037.%20Considera-se%20encampa%C3%A7%C3%A3o%20a%20retomada%20do%20servi%C3%A7o%20pelo%20poder%20concedente%20durante%20o%20prazo%20da%20concess%C3%A3o%2C%20por%20motivo%20de%20interesse%20p%C3%BAblico%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "Capítulo X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A inexecução total ou parcial do contrato acarretará, a critério do poder concedente, a declaração de caducidade da concessão ou a aplicação das sanções contratuais, respeitadas as disposições deste artigo, do art. 27, e as normas convencionadas entre as partes.\n\n§ 1o A caducidade da concessão poderá ser declarada pelo poder concedente quando:\n\nI - o serviço estiver sendo prestado de forma inadequada ou deficiente, tendo por base as normas, critérios, indicadores e parâmetros definidores da qualidade do serviço;\n\nII - a concessionária descumprir cláusulas contratuais ou disposições legais ou regulamentares concernentes à concessão;\n\nIII - a concessionária paralisar o serviço ou concorrer para tanto, ressalvadas as hipóteses decorrentes de caso fortuito ou força maior;\n\nIV - a concessionária perder as condições econômicas, técnicas ou operacionais para manter a adequada prestação do serviço concedido;\n\nV - a concessionária não cumprir as penalidades impostas por infrações, nos devidos prazos;\n\nVI - a concessionária não atender a intimação do poder concedente no sentido de regularizar a prestação do serviço; e\n\nVII - a concessionária não atender a intimação do poder concedente para, em 180 (cento e oitenta) dias, apresentar a documentação relativa a regularidade fiscal, no curso da concessão, na forma do art. 29 da Lei nº 8.666, de 21 de junho de 1993. (Redação dada pela Lei nº 12.767, de 2012)\n\n§ 2o A declaração da caducidade da concessão deverá ser precedida da verificação da inadimplência da concessionária em processo administrativo, assegurado o direito de ampla defesa.\n\n§ 3o Não será instaurado processo administrativo de inadimplência antes de comunicados à concessionária, detalhadamente, os descumprimentos contratuais referidos no § 1º deste artigo, dando-lhe um prazo para corrigir as falhas e transgressões apontadas e para o enquadramento, nos termos contratuais.\n\n§ 4o Instaurado o processo administrativo e comprovada a inadimplência, a caducidade será declarada por decreto do poder concedente, independentemente de indenização prévia, calculada no decurso do processo.\n\n§ 5o A indenização de que trata o parágrafo anterior, será devida na forma do art. 36 desta Lei e do contrato, descontado o valor das multas contratuais e dos danos causados pela concessionária.\n\n§ 6o Declarada a caducidade, não resultará para o poder concedente qualquer espécie de responsabilidade em relação aos encargos, ônus, obrigações ou compromissos com terceiros ou com empregados da concessionária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2038.%20A%20inexecu%C3%A7%C3%A3o%20total%20ou%20parcial%20do%20contrato%20acarretar%C3%A1%2C%20a%20crit%C3%A9rio%20do%20poder%20concedente%2C%20a%20declara%C3%A7%C3%A3o%20de%20caducidade%20da%20concess%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "Capítulo X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O contrato de concessão poderá ser rescindido por iniciativa da concessionária, no caso de descumprimento das normas contratuais pelo poder concedente, mediante ação judicial especialmente intentada para esse fim.\n\nParágrafo único. Na hipótese prevista no caput deste artigo, os serviços prestados pela concessionária não poderão ser interrompidos ou paralisados, até a decisão judicial transitada em julgado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2039.%20O%20contrato%20de%20concess%C3%A3o%20poder%C3%A1%20ser%20rescindido%20por%20iniciativa%20da%20concession%C3%A1ria%2C%20no%20caso%20de%20descumprimento%20das%20normas%20contratuais%20pelo%20poder",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "Capítulo X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A permissão de serviço público será formalizada mediante contrato de adesão, que observará os termos desta Lei, das demais normas pertinentes e do edital de licitação, inclusive quanto à precariedade e à revogabilidade unilateral do contrato pelo poder concedente.\n\nParágrafo único. Aplica-se às permissões o disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2040.%20A%20permiss%C3%A3o%20de%20servi%C3%A7o%20p%C3%BAblico%20ser%C3%A1%20formalizada%20mediante%20contrato%20de%20ades%C3%A3o%2C%20que%20observar%C3%A1%20os%20termos%20desta%20Lei%2C%20das%20demais%20normas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "Capítulo XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O disposto nesta Lei não se aplica à concessão, permissão e autorização para o serviço de radiodifusão sonora e de sons e imagens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2041.%20O%20disposto%20nesta%20Lei%20n%C3%A3o%20se%20aplica%20%C3%A0%20concess%C3%A3o%2C%20permiss%C3%A3o%20e%20autoriza%C3%A7%C3%A3o%20para%20o%20servi%C3%A7o%20de%20radiodifus%C3%A3o%20sonora%20e%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. As concessões de serviço público outorgadas anteriormente à entrada em vigor desta Lei consideram-se válidas pelo prazo fixado no contrato ou no ato de outorga, observado o disposto no art. 43 desta Lei. (Vide Lei nº 9.074, de 1995)\n\n§ 1o Vencido o prazo mencionado no contrato ou ato de outorga, o serviço poderá ser prestado por órgão ou entidade do poder concedente, ou delegado a terceiros, mediante novo contrato. (Redação dada pela Lei nº 11.445, de 2007). (Vigência) (Vide ADIN 4058)\n\n§ 2o As concessões em caráter precário, as que estiverem com prazo vencido e as que estiverem em vigor por prazo indeterminado, inclusive por força de legislação anterior, permanecerão válidas pelo prazo necessário à realização dos levantamentos e avaliações indispensáveis à organização das licitações que precederão a outorga das concessões que as substituirão, prazo esse que não será inferior a 24 (vinte e quatro) meses.\n\n§ 3º As concessões a que se refere o § 2o deste artigo, inclusive as que não possuam instrumento que as formalize ou que possuam cláusula que preveja prorrogação, terão validade máxima até o dia 31 de dezembro de 2010, desde que, até o dia 30 de junho de 2009, tenham sido cumpridas, cumulativamente, as seguintes condições: (Incluído pela Lei nº 11.445, de 2007). (Vigência)\n\nI - levantamento mais amplo e retroativo possível dos elementos físicos constituintes da infra-estrutura de bens reversíveis e dos dados financeiros, contábeis e comerciais relativos à prestação dos serviços, em dimensão necessária e suficiente para a realização do cálculo de eventual indenização relativa aos investimentos ainda não amortizados pelas receitas emergentes da concessão, observadas as disposições legais e contratuais que regulavam a prestação do serviço ou a ela aplicáveis nos 20 (vinte) anos anteriores ao da publicação desta Lei; (Incluído pela Lei nº 11.445, de 2007). (Vigência)\n\nII - celebração de acordo entre o poder concedente e o concessionário sobre os critérios e a forma de indenização de eventuais créditos remanescentes de investimentos ainda não amortizados ou depreciados, apurados a partir dos levantamentos referidos no inciso I deste parágrafo e auditados por instituição especializada escolhida de comum acordo pelas partes; e (Incluído pela Lei nº 11.445, de 2007). (Vigência)\n\nIII - publicação na imprensa oficial de ato formal de autoridade do poder concedente, autorizando a prestação precária dos serviços por prazo de até 6 (seis) meses, renovável até 31 de dezembro de 2008, mediante comprovação do cumprimento do disposto nos incisos I e II deste parágrafo. (Incluído pela Lei nº 11.445, de 2007). (Vigência)\n\n§ 4o Não ocorrendo o acordo previsto no inciso II do § 3o deste artigo, o cálculo da indenização de investimentos será feito com base nos critérios previstos no instrumento de concessão antes celebrado ou, na omissão deste, por avaliação de seu valor econômico ou reavaliação patrimonial, depreciação e amortização de ativos imobilizados definidos pelas legislações fiscal e das sociedades por ações, efetuada por empresa de auditoria independente escolhida de comum acordo pelas partes. (Incluído pela Lei nº 11.445, de 2007). (Vigência)\n\n§ 5o No caso do § 4o deste artigo, o pagamento de eventual indenização será realizado, mediante garantia real, por meio de 4 (quatro) parcelas anuais, iguais e sucessivas, da parte ainda não amortizada de investimentos e de outras indenizações relacionadas à prestação dos serviços, realizados com capital próprio do concessionário ou de seu controlador, ou originários de operações de financiamento, ou obtidos mediante emissão de ações, debêntures e outros títulos mobiliários, com a primeira parcela paga até o último dia útil do exercício financeiro em que ocorrer a reversão. (Incluído pela Lei nº 11.445, de 2007). (Vigência)\n\n§ 6o Ocorrendo acordo, poderá a indenização de que trata o § 5o deste artigo ser paga mediante receitas de novo contrato que venha a disciplinar a prestação do serviço. (Incluído pela Lei nº 11.445, de 2007). (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2042.%20As%20concess%C3%B5es%20de%20servi%C3%A7o%20p%C3%BAblico%20outorgadas%20anteriormente%20%C3%A0%20entrada%20em%20vigor%20desta%20Lei%20consideram-se%20v%C3%A1lidas%20pelo%20prazo%20fixado%20no%20contrato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Ficam extintas todas as concessões de serviços públicos outorgadas sem licitação na vigência da Constituição de 1988. (Vide Lei nº 9.074, de 1995)\n\nParágrafo único. Ficam também extintas todas as concessões outorgadas sem licitação anteriormente à Constituição de 1988, cujas obras ou serviços não tenham sido iniciados ou que se encontrem paralisados quando da entrada em vigor desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2043.%20Ficam%20extintas%20todas%20as%20concess%C3%B5es%20de%20servi%C3%A7os%20p%C3%BAblicos%20outorgadas%20sem%20licita%C3%A7%C3%A3o%20na%20vig%C3%AAncia%20da%20Constitui%C3%A7%C3%A3o%20de%201988.%20%28Vide%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As concessionárias que tiverem obras que se encontrem atrasadas, na data da publicação desta Lei, apresentarão ao poder concedente, dentro de cento e oitenta dias, plano efetivo de conclusão das obras. (Vide Lei nº 9.074, de 1995)\n\nParágrafo único. Caso a concessionária não apresente o plano a que se refere este artigo ou se este plano não oferecer condições efetivas para o término da obra, o poder concedente poderá declarar extinta a concessão, relativa a essa obra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2044.%20As%20concession%C3%A1rias%20que%20tiverem%20obras%20que%20se%20encontrem%20atrasadas%2C%20na%20data%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20apresentar%C3%A3o%20ao%20poder%20concedente%2C%20dentro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Nas hipóteses de que tratam os arts. 43 e 44 desta Lei, o poder concedente indenizará as obras e serviços realizados somente no caso e com os recursos da nova licitação.\n\nParágrafo único. A licitação de que trata o caput deste artigo deverá, obrigatoriamente, levar em conta, para fins de avaliação, o estágio das obras paralisadas ou atrasadas, de modo a permitir a utilização do critério de julgamento estabelecido no inciso III do art. 15 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2045.%20Nas%20hip%C3%B3teses%20de%20que%20tratam%20os%20arts.%2043%20e%2044%20desta%20Lei%2C%20o%20poder%20concedente%20indenizar%C3%A1%20as%20obras%20e%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2046.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Revogam-se as disposições em contrário.\n\nBrasília, 13 de fevereiro de 1995; 174o da Independência e 107o da República.\n\nFERNANDO HENRIQUE CARDOSO Nelson Jobim\n\nEste texto não substitui o republicado no DOU de 14.2.1995\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm#:~:text=Art.%2047.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "Capítulo XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": null
+    }
+  }
+}

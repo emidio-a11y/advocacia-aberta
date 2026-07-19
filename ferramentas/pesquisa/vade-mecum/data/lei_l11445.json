@@ -1,0 +1,1471 @@
+{
+  "_meta": {
+    "codigo": "L11445",
+    "nome": "Saneamento Básico (marco setorial)",
+    "lei": "Lei 11.445/2007",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm",
+    "total_artigos": 91,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei estabelece as diretrizes nacionais para o saneamento básico e para a política federal de saneamento básico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%201o%20Esta%20Lei%20estabelece%20as%20diretrizes%20nacionais%20para%20o%20saneamento%20b%C3%A1sico%20e%20para%20a%20pol%C3%ADtica%20federal%20de%20saneamento%20b%C3%A1sico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Os serviços públicos de saneamento básico serão prestados com base nos seguintes princípios fundamentais:\n\nI - universalização do acesso;\n\nII - integralidade, compreendida como o conjunto de todas as atividades e componentes de cada um dos diversos serviços de saneamento básico, propiciando à população o acesso na conformidade de suas necessidades e maximizando a eficácia das ações e resultados;\n\nIII - abastecimento de água, esgotamento sanitário, limpeza urbana e manejo dos resíduos sólidos realizados de formas adequadas à saúde pública e à proteção do meio ambiente;\n\nIV - disponibilidade, em todas as áreas urbanas, de serviços de drenagem e de manejo das águas pluviais adequados à saúde pública e à segurança da vida e do patrimônio público e privado;\n\nIV - disponibilidade, em todas as áreas urbanas, de serviços de drenagem e manejo das águas pluviais, limpeza e fiscalização preventiva das respectivas redes, adequados à saúde pública e à segurança da vida e do patrimônio público e privado; (Redação dada pela Lei nº 13.308, de 2016)\n\nV - adoção de métodos, técnicas e processos que considerem as peculiaridades locais e regionais;\n\nVI - articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza e de sua erradicação, de proteção ambiental, de promoção da saúde e outras de relevante interesse social voltadas para a melhoria da qualidade de vida, para as quais o saneamento básico seja fator determinante;\n\nVII - eficiência e sustentabilidade econômica;\n\nVIII - utilização de tecnologias apropriadas, considerando a capacidade de pagamento dos usuários e a adoção de soluções graduais e progressivas;\n\nIX - transparência das ações, baseada em sistemas de informações e processos decisórios institucionalizados;\n\nX - controle social;\n\nXI - segurança, qualidade e regularidade;\n\nXII - integração das infra-estruturas e serviços com a gestão eficiente dos recursos hídricos.\n\nXIII - adoção de medidas de fomento à moderação do consumo de água. (Incluído pela Lei nº 12.862, de 2013) (Revogado pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%202o%20Os%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20ser%C3%A3o%20prestados%20com%20base%20nos%20seguintes%20princ%C3%ADpios%20fundamentais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2º-A A definição do disposto no inciso VIII do caput do art. 2º desta Lei especifica as áreas a que se refere o inciso VI do caput do art. 3º da Lei Complementar nº 141, de 13 de janeiro de 2012. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%202%C2%BA-A%20A%20defini%C3%A7%C3%A3o%20do%20disposto%20no%20inciso%20VIII%20do%20caput%20do%20art.%202%C2%BA%20desta%20Lei%20especifica%20as%20%C3%A1reas%20a%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Para os efeitos desta Lei, considera-se:\n\nI - saneamento básico: conjunto de serviços, infra-estruturas e instalações operacionais de:\n\na) abastecimento de água potável: constituído pelas atividades, infra-estruturas e instalações necessárias ao abastecimento público de água potável, desde a captação até as ligações prediais e respectivos instrumentos de medição;\n\nb) esgotamento sanitário: constituído pelas atividades, infraestruturas e instalações operacionais de coleta, transporte, tratamento e disposição final adequados dos esgotos sanitários, desde as ligações prediais até o seu lançamento final no meio ambiente;\n\nc) limpeza urbana e manejo de resíduos sólidos: conjunto de atividades, infra-estruturas e instalações operacionais de coleta, transporte, transbordo, tratamento e destino final do lixo doméstico e do lixo originário da varrição e limpeza de logradouros e vias públicas;\n\nd) drenagem e manejo das águas pluviais urbanas: conjunto de atividades, infra-estruturas e instalações operacionais de drenagem urbana de águas pluviais, de transporte, detenção ou retenção para o amortecimento de vazões de cheias, tratamento e disposição final das águas pluviais drenadas nas áreas urbanas;\n\nd) drenagem e manejo das águas pluviais, limpeza e fiscalização preventiva das respectivas redes urbanas: conjunto de atividades, infraestruturas e instalações operacionais de drenagem urbana de águas pluviais, de transporte, detenção ou retenção para o amortecimento de vazões de cheias, tratamento e disposição final das águas pluviais drenadas nas áreas urbanas; (Redação dada pela Lei nº 13.308, de 2016)\n\nII - gestão associada: associação voluntária de entes federados, por convênio de cooperação ou consórcio público, conforme disposto no art. 241 da Constituição Federal;\n\nIII - universalização: ampliação progressiva do acesso de todos os domicílios ocupados ao saneamento básico;\n\nIV - controle social: conjunto de mecanismos e procedimentos que garantem à sociedade informações, representações técnicas e participações nos processos de formulação de políticas, de planejamento e de avaliação relacionados aos serviços públicos de saneamento básico;\n\nV - (VETADO);\n\nVI - prestação regionalizada: aquela em que um único prestador atende a 2 (dois) ou mais titulares;\n\nVII - subsídios: instrumento econômico de política social para garantir a universalização do acesso ao saneamento básico, especialmente para populações e localidades de baixa renda;\n\nVIII - localidade de pequeno porte: vilas, aglomerados rurais, povoados, núcleos, lugarejos e aldeias, assim definidos pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.\n\n§ 1º ( VETADO).\n\n§ 2º ( VETADO).\n\n§ 3º ( VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%203o%20Para%20os%20efeitos%20desta%20Lei%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "3-A"
+    },
+    "3-A": {
+      "numero": "3-A",
+      "texto": "Art. 3º-A. Consideram-se serviços públicos de abastecimento de água a sua distribuição mediante ligação predial, incluídos eventuais instrumentos de medição, bem como, quando vinculadas a essa finalidade, as seguintes atividades: (Incluído pela Lei nº 14.026, de 2020)\n\nI - reservação de água bruta; (Incluído pela Lei nº 14.026, de 2020)\n\nII - captação de água bruta; (Incluído pela Lei nº 14.026, de 2020)\n\nIII - adução de água bruta; (Incluído pela Lei nº 14.026, de 2020)\n\nIV - tratamento de água bruta; (Incluído pela Lei nº 14.026, de 2020)\n\nV - adução de água tratada; e (Incluído pela Lei nº 14.026, de 2020)\n\nVI - reservação de água tratada. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%203%C2%BA-A.%20Consideram-se%20servi%C3%A7os%20p%C3%BAblicos%20de%20abastecimento%20de%20%C3%A1gua%20a%20sua%20distribui%C3%A7%C3%A3o%20mediante%20liga%C3%A7%C3%A3o%20predial%2C%20inclu%C3%ADdos%20eventuais%20instrumentos%20de%20medi%C3%A7%C3%A3o%2C%20bem%20como%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "3-B"
+    },
+    "3-B": {
+      "numero": "3-B",
+      "texto": "Art. 3º-B. Consideram-se serviços públicos de esgotamento sanitário aqueles constituídos por 1 (uma) ou mais das seguintes atividades: (Incluído pela Lei nº 14.026, de 2020)\n\nI - coleta, incluída ligação predial, dos esgotos sanitários; (Incluído pela Lei nº 14.026, de 2020)\n\nII - transporte dos esgotos sanitários; (Incluído pela Lei nº 14.026, de 2020)\n\nIII - tratamento dos esgotos sanitários; e (Incluído pela Lei nº 14.026, de 2020)\n\nIV - disposição final dos esgotos sanitários e dos lodos originários da operação de unidades de tratamento coletivas ou individuais de forma ambientalmente adequada, incluídas fossas sépticas. (Incluído pela Lei nº 14.026, de 2020)\n\nParágrafo único. Nas Zonas Especiais de Interesse Social (Zeis) ou outras áreas do perímetro urbano ocupadas predominantemente por população de baixa renda, o serviço público de esgotamento sanitário, realizado diretamente pelo titular ou por concessionário, inclui conjuntos sanitários para as residências e solução para a destinação de efluentes, quando inexistentes, assegurada compatibilidade com as diretrizes da política municipal de regularização fundiária. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%203%C2%BA-B.%20Consideram-se%20servi%C3%A7os%20p%C3%BAblicos%20de%20esgotamento%20sanit%C3%A1rio%20aqueles%20constitu%C3%ADdos%20por%201%20%28uma%29%20ou%20mais%20das%20seguintes%20atividades%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-A",
+      "next": "3-C"
+    },
+    "3-C": {
+      "numero": "3-C",
+      "texto": "Art. 3º-C. Consideram-se serviços públicos especializados de limpeza urbana e de manejo de resíduos sólidos as atividades operacionais de coleta, transbordo, transporte, triagem para fins de reutilização ou reciclagem, tratamento, inclusive por compostagem, e destinação final dos: (Incluído pela Lei nº 14.026, de 2020)\n\nI - resíduos domésticos; (Incluído pela Lei nº 14.026, de 2020)\n\nII - resíduos originários de atividades comerciais, industriais e de serviços, em quantidade e qualidade similares às dos resíduos domésticos, que, por decisão do titular, sejam considerados resíduos sólidos urbanos, desde que tais resíduos não sejam de responsabilidade de seu gerador nos termos da norma legal ou administrativa, de decisão judicial ou de termo de ajustamento de conduta; e (Incluído pela Lei nº 14.026, de 2020)\n\nIII - resíduos originários dos serviços públicos de limpeza urbana, tais como: (Incluído pela Lei nº 14.026, de 2020)\n\na) serviços de varrição, capina, roçada, poda e atividades correlatas em vias e logradouros públicos; (Incluído pela Lei nº 14.026, de 2020)\n\nb) asseio de túneis, escadarias, monumentos, abrigos e sanitários públicos; (Incluído pela Lei nº 14.026, de 2020)\n\nc) raspagem e remoção de terra, areia e quaisquer materiais depositados pelas águas pluviais em logradouros públicos; (Incluído pela Lei nº 14.026, de 2020)\n\nd) desobstrução e limpeza de bueiros, bocas de lobo e correlatos; (Incluído pela Lei nº 14.026, de 2020)\n\ne) limpeza de logradouros públicos onde se realizem feiras públicas e outros eventos de acesso aberto ao público; e (Incluído pela Lei nº 14.026, de 2020)\n\nf) outros eventuais serviços de limpeza urbana. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%203%C2%BA-C.%20Consideram-se%20servi%C3%A7os%20p%C3%BAblicos%20especializados%20de%20limpeza%20urbana%20e%20de%20manejo%20de%20res%C3%ADduos%20s%C3%B3lidos%20as%20atividades%20operacionais%20de%20coleta%2C%20transbordo%2C%20transporte%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-B",
+      "next": "3-D"
+    },
+    "3-D": {
+      "numero": "3-D",
+      "texto": "Art. 3º-D. Consideram-se serviços públicos de manejo das águas pluviais urbanas aqueles constituídos por 1 (uma) ou mais das seguintes atividades: (Incluído pela Lei nº 14.026, de 2020)\n\nI - drenagem urbana; (Incluído pela Lei nº 14.026, de 2020)\n\nII - transporte de águas pluviais urbanas; (Incluído pela Lei nº 14.026, de 2020)\n\nIII - detenção ou retenção de águas pluviais urbanas para amortecimento de vazões de cheias; e (Incluído pela Lei nº 14.026, de 2020)\n\nIV - tratamento e disposição final de águas pluviais urbanas. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%203%C2%BA-D.%20Consideram-se%20servi%C3%A7os%20p%C3%BAblicos%20de%20manejo%20das%20%C3%A1guas%20pluviais%20urbanas%20aqueles%20constitu%C3%ADdos%20por%201%20%28uma%29%20ou%20mais%20das%20seguintes%20atividades%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-C",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Os recursos hídricos não integram os serviços públicos de saneamento básico.\n\nParágrafo único. A utilização de recursos hídricos na prestação de serviços públicos de saneamento básico, inclusive para disposição ou diluição de esgotos e outros resíduos líquidos, é sujeita a outorga de direito de uso, nos termos da Lei no 9.433, de 8 de janeiro de 1997, de seus regulamentos e das legislações estaduais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%204o%20Os%20recursos%20h%C3%ADdricos%20n%C3%A3o%20integram%20os%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-D",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Não constitui serviço público a ação de saneamento executada por meio de soluções individuais, desde que o usuário não dependa de terceiros para operar os serviços, bem como as ações e serviços de saneamento básico de responsabilidade privada, incluindo o manejo de resíduos de responsabilidade do gerador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%205o%20N%C3%A3o%20constitui%20servi%C3%A7o%20p%C3%BAblico%20a%20a%C3%A7%C3%A3o%20de%20saneamento%20executada%20por%20meio%20de%20solu%C3%A7%C3%B5es%20individuais%2C%20desde%20que%20o%20usu%C3%A1rio%20n%C3%A3o%20dependa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O lixo originário de atividades comerciais, industriais e de serviços cuja responsabilidade pelo manejo não seja atribuída ao gerador pode, por decisão do poder público, ser considerado resíduo sólido urbano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%206o%20O%20lixo%20origin%C3%A1rio%20de%20atividades%20comerciais%2C%20industriais%20e%20de%20servi%C3%A7os%20cuja%20responsabilidade%20pelo%20manejo%20n%C3%A3o%20seja%20atribu%C3%ADda%20ao%20gerador%20pode%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Para os efeitos desta Lei, o serviço público de limpeza urbana e de manejo de resíduos sólidos urbanos é composto pelas seguintes atividades:\n\nI - de coleta, transbordo e transporte dos resíduos relacionados na alínea c do inciso I do caput do art. 3o desta Lei;\n\nI - de coleta, transbordo e transporte dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nI - de coleta, transbordo e transporte dos resíduos relacionados na alínea c do inciso I do caput do art. 3o desta Lei;\n\nI - de coleta, transbordo e transporte dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - de coleta, transbordo e transporte dos resíduos relacionados na alínea c do inciso I do caput do art. 3o desta Lei;\n\nII - de triagem para fins de reúso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados na alínea c do inciso I do caput do art. 3o desta Lei;\n\nII - de triagem, para fins de reuso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º; e (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - de triagem para fins de reúso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados na alínea c do inciso I do caput do art. 3o desta Lei;\n\nII - de triagem, para fins de reuso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º; e (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - de triagem para fins de reúso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados na alínea c do inciso I do caput do art. 3o desta Lei;\n\nIII - de varrição, capina e poda de árvores em vias e logradouros públicos e outros eventuais serviços pertinentes à limpeza pública urbana.\n\nI - de coleta, de transbordo e de transporte dos resíduos relacionados na alínea “c” do inciso I do caput do art. 3º desta Lei; (Redação dada pela Lei nº 14.026, de 2020)\n\nII - de triagem, para fins de reutilização ou reciclagem, de tratamento, inclusive por compostagem, e de destinação final dos resíduos relacionados na alínea “c” do inciso I do caput do art. 3º desta Lei; e (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - de varrição de logradouros públicos, de limpeza de dispositivos de drenagem de águas pluviais, de limpeza de córregos e outros serviços, tais como poda, capina, raspagem e roçada, e de outros eventuais serviços de limpeza urbana, bem como de coleta, de acondicionamento e de destinação final ambientalmente adequada dos resíduos sólidos provenientes dessas atividades. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%207o%20Para%20os%20efeitos%20desta%20Lei%2C%20o%20servi%C3%A7o%20p%C3%BAblico%20de%20limpeza%20urbana%20e%20de%20manejo%20de%20res%C3%ADduos%20s%C3%B3lidos%20urbanos%20%C3%A9%20composto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Os titulares dos serviços públicos de saneamento básico poderão delegar a organização, a regulação, a fiscalização e a prestação desses serviços, nos termos do art. 241 da Constituição Federal e da Lei no 11.107, de 6 de abril de 2005.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%208o%20Os%20titulares%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20poder%C3%A3o%20delegar%20a%20organiza%C3%A7%C3%A3o%2C%20a%20regula%C3%A7%C3%A3o%2C%20a%20fiscaliza%C3%A7%C3%A3o%20e%20a%20presta%C3%A7%C3%A3o%20desses",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A. Os Municípios e o Distrito Federal são os titulares dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º O exercício da titularidade dos serviços de saneamento básico pelos Municípios e pelo Distrito Federal fica restrito às suas respectivas áreas geográficas. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 2º Na hipótese de interesse comum, o exercício da titularidade dos serviços de saneamento básico será realizado por meio: (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nI - de colegiado interfederativo formado a partir da instituição de região metropolitana, aglomeração urbana ou microrregião; ou (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - de instrumentos de gestão associada, por meio de consórcios públicos ou de convênios de cooperação, nos termos estabelecidos no art. 241 da Constituição. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 3º Na hipótese prevista no inciso I do § 2º, o exercício da titularidade dos serviços públicos de saneamento básico observará o disposto na Lei nº 13.089, de 12 de janeiro de 2015. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 4º O exercício da titularidade na forma prevista no § 2º poderá ter como objeto a prestação conjunta de uma ou mais atividades previstas no inciso I do caput do art. 2º. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 5º Os serviços públicos de saneamento básico nas regiões metropolitanas, nas aglomerações urbanas e nas microrregiões serão fiscalizados e regulados por entidade reguladora estadual, distrital, regional ou intermunicipal, que observará os princípios estabelecidos no art. 21. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%208%C2%BA-A.%20Os%20Munic%C3%ADpios%20e%20o%20Distrito%20Federal%20s%C3%A3o%20os%20titulares%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico.%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B. Excetuam-se da hipótese prevista no § 6º do art. 13 da Lei nº 11.107, de 2005, os casos de alienação do controle acionário de companhia estatal prestadora de serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º Anteriormente à alienação de controle acionário a que se refere o caput, a ser realizada por meio de licitação na forma prevista na Lei nº 8.987, de 13 de fevereiro de 1995, e na Lei nº 11.079, de 30 de dezembro de 2004, o controlador comunicará formalmente a sua decisão aos titulares dos serviços de saneamento atendidos pela companhia. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 2º A comunicação formal a que se refere o § 1º deverá: (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nI - contemplar os estudos de viabilidade e a minuta do edital de licitação e os seus anexos, os quais poderão estabelecer novas obrigações, escopo, prazos e metas de atendimento para a prestação dos serviços de saneamento, a serem observados pela companhia após a alienação do seu controle acionário; e (Incluído pela Medida Provisória nº 844, de 2018)\n\nII - dispor sobre as condições e o prazo para a anuência, pelos titulares dos serviços de saneamento, a respeito da continuidade dos contratos de programa vigentes. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 3º A anuência prevista no inciso II do § 2º será formalizada por meio de manifestação do Poder Executivo, que precederá à alienação de controle da companhia. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 4º A anuência quanto à continuidade dos contratos implicará a adesão automática às novas obrigações, ao escopo, aos prazos e às metas de atendimento para a prestação dos serviços de saneamento, se estabelecidas, as quais prevalecerão sobre aquelas constantes dos contratos de programa vigentes. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 5º Os instrumentos de gestão associada poderão ser oportunamente adequados, no que couber, às novas obrigações, ao escopo, aos prazos e às metas de atendimento para a prestação de serviços de saneamento, a serem observadas pela companhia posteriormente à alienação de seu controle. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 6º Os Municípios que decidirem pela não continuidade dos contratos de programa assumirão a prestação dos serviços públicos de saneamento básico e procederão ao pagamento de indenizações devidas em razão de investimentos realizados e ainda não amortizados ou depreciados, na forma prevista na Lei nº 8.987, de 13 de fevereiro de 1995. (Incluído pela Medida Provisória nº 844, de 2018 (Vigência encerrada)\n\n§ 7º O disposto neste artigo aplica-se, no que couber, às hipóteses de delegação ou de subdelegação de serviços à iniciativa privada. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%208%C2%BA-B.%20Excetuam-se%20da%20hip%C3%B3tese%20prevista%20no%20%C2%A7%206%C2%BA%20do%20art.%2013%20da%20Lei%20n%C2%BA%2011.107%2C%20de%202005%2C%20os%20casos%20de%20aliena%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-A",
+      "next": "8-C"
+    },
+    "8-C": {
+      "numero": "8-C",
+      "texto": "Art. 8º-C. Os Municípios e o Distrito Federal são os titulares dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1º Na hipótese de interesse comum, o exercício da titularidade dos serviços de saneamento básico será realizado por meio: (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - de colegiado interfederativo formado a partir da instituição de região metropolitana, aglomeração urbana ou microrregião; ou (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - de instrumentos de gestão associada, por meio de consórcios públicos ou de convênios de cooperação, nos termos estabelecidos no art. 241 da Constituição. (Incluído pela Medida Provisória nº 868, de 2018 (Vigência encerrada)\n\n§ 2º Na hipótese prevista no inciso I do § 1º, o exercício da titularidade dos serviços públicos de saneamento básico observará o disposto na Lei nº 13.089, de 12 de janeiro de 2015. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 3º O exercício da titularidade na forma prevista no § 2º 1º poderá ter como objeto a prestação conjunta de uma ou mais atividades previstas no inciso I do caput do art. 2º. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 4º Nas hipóteses de consórcio público ou de convênio de cooperação, nos termos do disposto no inciso II do § 1º, os entes federativos estabelecerão a agência reguladora que será responsável pela regulação e pela fiscalização dos serviços prestados no âmbito da gestão associada. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 5º Os serviços públicos de saneamento básico nas regiões metropolitanas, nas aglomerações urbanas e nas microrregiões serão fiscalizados e regulados por entidade reguladora estadual, distrital, regional ou intermunicipal, que observará os princípios estabelecidos no art. 21. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%208%C2%BA-C.%20Os%20Munic%C3%ADpios%20e%20o%20Distrito%20Federal%20s%C3%A3o%20os%20titulares%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico.%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-B",
+      "next": "8-D"
+    },
+    "8-D": {
+      "numero": "8-D",
+      "texto": "Art. 8º-D. Excetuam-se da hipótese prevista no § 6º do art. 13 da Lei nº 11.107, de 2005, os casos de alienação do controle acionário de companhia estatal prestadora de serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1º Anteriormente à alienação de controle acionário a que se refere o caput, a ser realizada por meio de licitação na forma prevista na Lei nº 8.987, de 13 de fevereiro de 1995, ou na Lei nº 11.079, de 30 de dezembro de 2004, o controlador comunicará formalmente a sua decisão aos titulares dos serviços de saneamento atendidos pela companhia. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 2º A comunicação formal a que se refere o § 1º deverá: (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - contemplar os estudos de viabilidade e a minuta do edital de licitação e os seus anexos, os quais poderão estabelecer novas obrigações, escopo, prazos e metas de atendimento para a prestação dos serviços de saneamento, a serem observados pela companhia após a alienação do seu controle acionário; e (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - dispor sobre as condições e o prazo para a anuência, pelos titulares dos serviços de saneamento, a respeito da continuidade dos contratos de programa vigentes, permitida ao titular a apresentação de sugestões de melhoria nas condições propostas. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 3º A anuência prevista no inciso II do § 2º será formalizada por meio de manifestação do titular, que precederá à alienação de controle da companhia. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 4º A anuência quanto à continuidade dos contratos implicará a adesão automática às novas obrigações, ao escopo, aos prazos e às metas de atendimento para a prestação dos serviços de saneamento, se estabelecidas, as quais prevalecerão sobre aquelas constantes dos contratos de programa vigentes. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 5º Os instrumentos de gestão associada poderão ser oportunamente adequados, no que couber, às novas obrigações, ao escopo, aos prazos e às metas de atendimento para a prestação de serviços de saneamento, a serem observadas pela companhia posteriormente à alienação de seu controle. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 6º Os Municípios que decidirem pela não continuidade dos contratos de programa assumirão a prestação dos serviços públicos de saneamento básico e procederão ao pagamento de indenizações devidas em razão de investimentos realizados e ainda não amortizados ou depreciados, na forma prevista na Lei nº 8.987, de 13 de fevereiro de 1995. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 7º O disposto neste artigo aplica-se, no que couber, às hipóteses de delegação ou de subdelegação de serviços à iniciativa privada. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%208%C2%BA-D.%20Excetuam-se%20da%20hip%C3%B3tese%20prevista%20no%20%C2%A7%206%C2%BA%20do%20art.%2013%20da%20Lei%20n%C2%BA%2011.107%2C%20de%202005%2C%20os%20casos%20de%20aliena%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-C",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o O titular dos serviços formulará a respectiva política pública de saneamento básico, devendo, para tanto:\n\nI - elaborar os planos de saneamento básico, nos termos desta Lei;\n\nII - prestar diretamente ou autorizar a delegação dos serviços e definir o ente responsável pela sua regulação e fiscalização, bem como os procedimentos de sua atuação;\n\nII - prestar diretamente ou delegar a prestação dos serviços; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - prestar diretamente ou autorizar a delegação dos serviços e definir o ente responsável pela sua regulação e fiscalização, bem como os procedimentos de sua atuação;\n\nII - prestar diretamente ou delegar a prestação dos serviços; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - prestar diretamente ou autorizar a delegação dos serviços e definir o ente responsável pela sua regulação e fiscalização, bem como os procedimentos de sua atuação;\n\nIII - adotar parâmetros para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;\n\nIII - definir a entidade responsável pela regulação e pela fiscalização dos serviços públicos de saneamento básico e os procedimentos para a sua atuação, observado o disposto no § 5º do art. 8º-A; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIII - adotar parâmetros para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;\n\nIII - definir a entidade responsável pela regulação e pela fiscalização dos serviços públicos de saneamento básico e os procedimentos para a sua atuação, observado o disposto no § 5º do art. 8º-C; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIII - adotar parâmetros para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;\n\nIV - fixar os direitos e os deveres dos usuários;\n\nIV - definir os parâmetros a serem adotados para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIV - fixar os direitos e os deveres dos usuários;\n\nIV - definir os parâmetros a serem adotados para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIV - fixar os direitos e os deveres dos usuários;\n\nV - estabelecer mecanismos de controle social, nos termos do inciso IV do caput do art. 3o desta Lei;\n\nV - estabelecer os direitos e os deveres dos usuários; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nV - estabelecer mecanismos de controle social, nos termos do inciso IV do caput do art. 3o desta Lei;\n\nV - estabelecer os direitos e os deveres dos usuários; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nV - estabelecer mecanismos de controle social, nos termos do inciso IV do caput do art. 3o desta Lei;\n\nVI - estabelecer sistema de informações sobre os serviços, articulado com o Sistema Nacional de Informações em Saneamento;\n\nVI - estabelecer os mecanismos e os procedimentos de controle social, observado o disposto no inciso IV do caput do art. 2º; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nVI - estabelecer sistema de informações sobre os serviços, articulado com o Sistema Nacional de Informações em Saneamento;\n\nVI - estabelecer os mecanismos e os procedimentos de controle social, observado o disposto no inciso IV do caput do art. 2º; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nVI - estabelecer sistema de informações sobre os serviços, articulado com o Sistema Nacional de Informações em Saneamento;\n\nVII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nos casos e condições previstos em lei e nos documentos contratuais.\n\nVII - implementar sistema de informações sobre os serviços públicos de saneamento básico, articulado com o Sistema Nacional de Informações em Saneamento Básico - Sinisa, o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos - Sinir e o Sistema Nacional de Gerenciamento de Recursos Hídricos, observadas a metodologia e a periodicidade estabelecidas pelo Ministério das Cidades; e (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nVII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nos casos e condições previstos em lei e nos documentos contratuais.\n\nVII - implementar sistema de informações sobre os serviços públicos de saneamento básico, articulado com o Sistema Nacional de Informações em Saneamento Básico - Sinisa, o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos - Sinir e o Sistema Nacional de Gerenciamento de Recursos Hídricos, observadas a metodologia e a periodicidade estabelecidas pelo Ministério das Cidades; e (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nVII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nos casos e condições previstos em lei e nos documentos contratuais.\n\nVIII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nas hipóteses e nas condições previstas na legislação e nos contratos. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nVIII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nas hipóteses e nas condições previstas na legislação e nos contratos. (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - elaborar os planos de saneamento básico, nos termos desta Lei, bem como estabelecer metas e indicadores de desempenho e mecanismos de aferição de resultados, a serem obrigatoriamente observados na execução dos serviços prestados de forma direta ou por concessão; (Redação dada pela Lei nº 14.026, de 2020)\n\nII - prestar diretamente os serviços, ou conceder a prestação deles, e definir, em ambos os casos, a entidade responsável pela regulação e fiscalização da prestação dos serviços públicos de saneamento básico; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - definir os parâmetros a serem adotados para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água; (Redação dada pela Lei nº 14.026, de 2020)\n\nIV - estabelecer os direitos e os deveres dos usuários; (Redação dada pela Lei nº 14.026, de 2020)\n\nV - estabelecer os mecanismos e os procedimentos de controle social, observado o disposto no inciso IV do caput do art. 3º desta Lei; (Redação dada pela Lei nº 14.026, de 2020)\n\nVI - implementar sistema de informações sobre os serviços públicos de saneamento básico, articulado com o Sistema Nacional de Informações em Saneamento Básico (Sinisa), o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir) e o Sistema Nacional de Gerenciamento de Recursos Hídricos (Singreh), observadas a metodologia e a periodicidade estabelecidas pelo Ministério do Desenvolvimento Regional; e (Redação dada pela Lei nº 14.026, de 2020)\n\nVI - implementar sistema de informações sobre os serviços públicos de saneamento básico, articulado com o Sistema Nacional de Informações em Saneamento Básico - Sinisa, o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos – Sinir e o Sistema Nacional de Gerenciamento de Recursos Hídricos - Singreh, observadas a metodologia e a periodicidade estabelecidas pelo Ministério do Meio Ambiente e Mudança do Clima; e (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\nVI - implementar sistema de informações sobre os serviços públicos de saneamento básico, articulado com o Sistema Nacional de Informações em Saneamento Básico (Sinisa), o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir) e o Sistema Nacional de Gerenciamento de Recursos Hídricos (Singreh), observadas a metodologia e a periodicidade estabelecidas pelo Ministério das Cidades; e (Redação dada pela Lei nº 14.600, de 2023)\n\nVII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nas hipóteses e nas condições previstas na legislação e nos contratos. (Redação dada pela Lei nº 14.026, de 2020)\n\nParágrafo único. No exercício das atividades a que se refere o caput deste artigo, o titular poderá receber cooperação técnica do respectivo Estado e basear-se em estudos fornecidos pelos prestadores dos serviços. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%209o%20O%20titular%20dos%20servi%C3%A7os%20formular%C3%A1%20a%20respectiva%20pol%C3%ADtica%20p%C3%BAblica%20de%20saneamento%20b%C3%A1sico%2C%20devendo%2C%20para%20tanto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-D",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A prestação de serviços públicos de saneamento básico por entidade que não integre a administração do titular depende da celebração de contrato, sendo vedada a sua disciplina mediante convênios, termos de parceria ou outros instrumentos de natureza precária.\n\n§ 1o Excetuam-se do disposto no caput deste artigo:\n\nI - os serviços públicos de saneamento básico cuja prestação o poder público, nos termos de lei, autorizar para usuários organizados em cooperativas ou associações, desde que se limitem a:\n\na) determinado condomínio;\n\nb) localidade de pequeno porte, predominantemente ocupada por população de baixa renda, onde outras formas de prestação apresentem custos de operação e manutenção incompatíveis com a capacidade de pagamento dos usuários;\n\nII - os convênios e outros atos de delegação celebrados até o dia 6 de abril de 2005.\n\n§ 2o A autorização prevista no inciso I do § 1o deste artigo deverá prever a obrigação de transferir ao titular os bens vinculados aos serviços por meio de termo específico, com os respectivos cadastros técnicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2010.%20A%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20por%20entidade%20que%20n%C3%A3o%20integre%20a%20administra%C3%A7%C3%A3o%20do%20titular%20depende%20da%20celebra%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. (Vide pela Medida Provisória nº 844, de 2018) Vigência (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2010-A.%20%28Vide%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20844%2C%20de%202018%29%20Vig%C3%AAncia%20%28Vig%C3%AAncia%20encerrada%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "10-B"
+    },
+    "10-B": {
+      "numero": "10-B",
+      "texto": "Art. 10-B. Sem prejuízo do disposto nesta Lei e na Lei nº 11.107, de 2005, as cláusulas essenciais do contrato de concessão, estabelecidas nos art. 23 e art. 23-A da Lei nº 8.987, de 1995, serão reproduzidas nos contratos de programa para prestação de serviços de saneamento básico, exceto na hipótese de absoluta incompatibilidade devidamente motivada pelo titular do serviço público. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2010-B.%20Sem%20preju%C3%ADzo%20do%20disposto%20nesta%20Lei%20e%20na%20Lei%20n%C2%BA%2011.107%2C%20de%202005%2C%20as%20cl%C3%A1usulas%20essenciais%20do%20contrato%20de%20concess%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "10-C"
+    },
+    "10-C": {
+      "numero": "10-C",
+      "texto": "Art. 10-C. (Vide Medida Provisória nº 868, de 2018) (Vigência) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2010-C.%20%28Vide%20Medida%20Provis%C3%B3ria%20n%C2%BA%20868%2C%20de%202018%29%20%28Vig%C3%AAncia%29%20%28Vig%C3%AAncia%20encerrada%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-B",
+      "next": "10-D"
+    },
+    "10-D": {
+      "numero": "10-D",
+      "texto": "Art. 10-D. Sem prejuízo do disposto nesta Lei e na Lei nº 11.107, de 2005, as cláusulas essenciais do contrato de concessão, estabelecidas nos art. 23 e art. 23-A da Lei nº 8.987, de 1995, serão reproduzidas nos contratos de programa para prestação de serviços de saneamento básico, exceto na hipótese de absoluta incompatibilidade devidamente motivada pelo titular do serviço público. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2010-D.%20Sem%20preju%C3%ADzo%20do%20disposto%20nesta%20Lei%20e%20na%20Lei%20n%C2%BA%2011.107%2C%20de%202005%2C%20as%20cl%C3%A1usulas%20essenciais%20do%20contrato%20de%20concess%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-C",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. São condições de validade dos contratos que tenham por objeto a prestação de serviços públicos de saneamento básico:\n\nI - a existência de plano de saneamento básico;\n\nII - a existência de estudo comprovando a viabilidade técnica e econômico-financeira da prestação universal e integral dos serviços, nos termos do respectivo plano de saneamento básico;\n\nII - a existência de estudo que comprove a viabilidade técnica e econômico-financeira da prestação dos serviços, nos termos estabelecidos no respectivo plano de saneamento básico; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - a existência de estudo comprovando a viabilidade técnica e econômico-financeira da prestação universal e integral dos serviços, nos termos do respectivo plano de saneamento básico;\n\nII - a existência de estudo que comprove a viabilidade técnica e econômico-financeira da prestação dos serviços, nos termos estabelecidos no respectivo plano de saneamento básico; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - a existência de estudo comprovando a viabilidade técnica e econômico-financeira da prestação universal e integral dos serviços, nos termos do respectivo plano de saneamento básico;\n\nII - a existência de estudo que comprove a viabilidade técnica e econômico-financeira da prestação dos serviços, nos termos estabelecidos no respectivo plano de saneamento básico; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - a existência de normas de regulação que prevejam os meios para o cumprimento das diretrizes desta Lei, incluindo a designação da entidade de regulação e de fiscalização;\n\nIV - a realização prévia de audiência e de consulta públicas sobre o edital de licitação, no caso de concessão, e sobre a minuta do contrato.\n\nV - a existência de metas e cronograma de universalização dos serviços de saneamento básico. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 1o Os planos de investimentos e os projetos relativos ao contrato deverão ser compatíveis com o respectivo plano de saneamento básico.\n\n§ 2o Nos casos de serviços prestados mediante contratos de concessão ou de programa, as normas previstas no inciso III do caput deste artigo deverão prever:\n\nI - a autorização para a contratação dos serviços, indicando os respectivos prazos e a área a ser atendida;\n\nII - a inclusão, no contrato, das metas progressivas e graduais de expansão dos serviços, de qualidade, de eficiência e de uso racional da água, da energia e de outros recursos naturais, em conformidade com os serviços a serem prestados;\n\nII - a inclusão, no contrato, das metas progressivas e graduais de expansão dos serviços, de redução de perdas na distribuição de água tratada, de qualidade, de eficiência e de uso racional da água, da energia e de outros recursos naturais, em conformidade com os serviços a serem prestados; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - a inclusão, no contrato, das metas progressivas e graduais de expansão dos serviços, de qualidade, de eficiência e de uso racional da água, da energia e de outros recursos naturais, em conformidade com os serviços a serem prestados;\n\nII - a inclusão, no contrato, das metas progressivas e graduais de expansão dos serviços, de redução progressiva e controle de perdas na distribuição de água tratada, de qualidade, de eficiência e de uso racional da água, da energia e de outros recursos naturais, em conformidade com os serviços a serem prestados e com o respectivo plano de saneamento básico; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - as prioridades de ação, compatíveis com as metas estabelecidas;\n\nIV - as condições de sustentabilidade e equilíbrio econômico-financeiro da prestação dos serviços, em regime de eficiência, incluindo:\n\na) o sistema de cobrança e a composição de taxas e tarifas;\n\nb) a sistemática de reajustes e de revisões de taxas e tarifas;\n\nc) a política de subsídios;\n\nV - mecanismos de controle social nas atividades de planejamento, regulação e fiscalização dos serviços;\n\nVI - as hipóteses de intervenção e de retomada dos serviços.\n\n§ 3o Os contratos não poderão conter cláusulas que prejudiquem as atividades de regulação e de fiscalização ou o acesso às informações sobre os serviços contratados.\n\n§ 4o Na prestação regionalizada, o disposto nos incisos I a IV do caput e nos §§ 1o e 2o deste artigo poderá se referir ao conjunto de municípios por ela abrangidos.\n\n§ 5º Na hipótese de não existência de plano de saneamento básico aprovado nos termos estabelecidos no § 1º do art. 19, as condições de validade previstas nos incisos I e II do caput poderão ser supridas pela aprovação pelo titular de estudo que fundamente a contratação, com o diagnóstico e a comprovação da viabilidade técnica e econômico-financeira da prestação dos serviços, observado o disposto no § 2º. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 5º Fica vedada a distribuição de lucros e dividendos, do contrato em execução, pelo prestador de serviços que estiver descumprindo as metas e cronogramas estabelecidos no contrato específico da prestação de serviço público de saneamento básico. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 5º-A Na hipótese de não existência de plano de saneamento básico aprovado nos termos estabelecidos no § 1º do art. 19, as condições de validade previstas nos incisos I e II do caput poderão ser supridas pela aprovação pelo titular de estudo que fundamente a contratação, com o diagnóstico e a comprovação da viabilidade técnica e econômico-financeira da prestação dos serviços, observado o disposto no § 2º. (IRedação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 6º O disposto no § 5º-A não exclui a obrigatoriedade de elaboração pelo titular do plano de saneamento básico, nos termos estabelecidos no art. 19. (Incluído pela Medida Provisória nº 868, de 2018 (Vigência encerrada)\n\n§ 7º A elaboração superveniente do plano de saneamento básico poderá ensejar medidas para assegurar a manutenção do equilíbrio econômico-financeiro dos contratos firmados com base no disposto no § 5º-A. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2011.%20S%C3%A3o%20condi%C3%A7%C3%B5es%20de%20validade%20dos%20contratos%20que%20tenham%20por%20objeto%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-D",
+      "next": "11-A"
+    },
+    "11-A": {
+      "numero": "11-A",
+      "texto": "Art. 11-A. Na hipótese de prestação dos serviços públicos de saneamento básico por meio de contrato de programa, o prestador de serviços poderá, desde que haja autorização expressa do titular dos serviços, por meio de ato do Poder Executivo, subdelegar o objeto contratado total ou parcialmente. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º A subdelegação fica condicionada à comprovação técnica, por parte do prestador de serviços, do benefício em termos de qualidade dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 2º Os contratos de subdelegação disporão sobre os limites da sub-rogação de direitos e obrigações do prestador de serviços pelo subdelegatário e observarão, no que couber, o disposto no § 2º do art. 11 e serão precedidos de procedimento licitatório na forma prevista na Lei nº 8.666, de 1993, na Lei nº 8.987, de 1995, e na Lei nº 11.079, de 2004. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 3º O contrato de subdelegação poderá ter por objeto serviços públicos de saneamento básico que sejam objeto de um ou mais contratos. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2011-A.%20Na%20hip%C3%B3tese%20de%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20por%20meio%20de%20contrato%20de%20programa%2C%20o%20prestador%20de%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "11-B"
+    },
+    "11-B": {
+      "numero": "11-B",
+      "texto": "Art. 11-B. Na hipótese de prestação dos serviços públicos de saneamento básico por meio de contrato de programa, o prestador de serviços poderá, desde que haja autorização expressa do titular dos serviços, subdelegar o objeto contratado total ou parcialmente. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1º A subdelegação fica condicionada à comprovação técnica, por parte do prestador de serviços, do benefício em termos de qualidade dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 2º Os contratos de subdelegação disporão sobre os limites da sub-rogação de direitos e obrigações do prestador de serviços pelo subdelegatário e observarão, no que couber, o disposto no § 2º do art. 11 e serão precedidos de procedimento licitatório na forma prevista na Lei nº 8.666, de 1993, na Lei nº 8.987, de 1995, e na Lei nº 11.079, de 2004. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 3º O contrato de subdelegação poderá ter por objeto serviços públicos de saneamento básico que sejam objeto de um ou mais contratos. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2011-B.%20Na%20hip%C3%B3tese%20de%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20por%20meio%20de%20contrato%20de%20programa%2C%20o%20prestador%20de%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Nos serviços públicos de saneamento básico em que mais de um prestador execute atividade interdependente com outra, a relação entre elas deverá ser regulada por contrato e haverá entidade única encarregada das funções de regulação e de fiscalização.\n\n§ 1o A entidade de regulação definirá, pelo menos:\n\nI - as normas técnicas relativas à qualidade, quantidade e regularidade dos serviços prestados aos usuários e entre os diferentes prestadores envolvidos;\n\nII - as normas econômicas e financeiras relativas às tarifas, aos subsídios e aos pagamentos por serviços prestados aos usuários e entre os diferentes prestadores envolvidos;\n\nIII - a garantia de pagamento de serviços prestados entre os diferentes prestadores dos serviços;\n\nIV - os mecanismos de pagamento de diferenças relativas a inadimplemento dos usuários, perdas comerciais e físicas e outros créditos devidos, quando for o caso;\n\nV - o sistema contábil específico para os prestadores que atuem em mais de um Município.\n\n§ 2o O contrato a ser celebrado entre os prestadores de serviços a que se refere o caput deste artigo deverá conter cláusulas que estabeleçam pelo menos:\n\nI - as atividades ou insumos contratados;\n\nII - as condições e garantias recíprocas de fornecimento e de acesso às atividades ou insumos;\n\nIII - o prazo de vigência, compatível com as necessidades de amortização de investimentos, e as hipóteses de sua prorrogação;\n\nIV - os procedimentos para a implantação, ampliação, melhoria e gestão operacional das atividades;\n\nV - as regras para a fixação, o reajuste e a revisão das taxas, tarifas e outros preços públicos aplicáveis ao contrato;\n\nVI - as condições e garantias de pagamento;\n\nVII - os direitos e deveres sub-rogados ou os que autorizam a sub-rogação;\n\nVIII - as hipóteses de extinção, inadmitida a alteração e a rescisão administrativas unilaterais;\n\nIX - as penalidades a que estão sujeitas as partes em caso de inadimplemento;\n\nX - a designação do órgão ou entidade responsável pela regulação e fiscalização das atividades ou insumos contratados.\n\n§ 3o Inclui-se entre as garantias previstas no inciso VI do § 2o deste artigo a obrigação do contratante de destacar, nos documentos de cobrança aos usuários, o valor da remuneração dos serviços prestados pelo contratado e de realizar a respectiva arrecadação e entrega dos valores arrecadados.\n\n§ 4o No caso de execução mediante concessão de atividades interdependentes a que se refere o caput deste artigo, deverão constar do correspondente edital de licitação as regras e os valores das tarifas e outros preços públicos a serem pagos aos demais prestadores, bem como a obrigação e a forma de pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2012.%20Nos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20em%20que%20mais%20de%20um%20prestador%20execute%20atividade%20interdependente%20com%20outra%2C%20a%20rela%C3%A7%C3%A3o%20entre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11-B",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os entes da Federação, isoladamente ou reunidos em consórcios públicos, poderão instituir fundos, aos quais poderão ser destinadas, entre outros recursos, parcelas das receitas dos serviços, com a finalidade de custear, na conformidade do disposto nos respectivos planos de saneamento básico, a universalização dos serviços públicos de saneamento básico.\n\nParágrafo único. Os recursos dos fundos a que se refere o caput deste artigo poderão ser utilizados como fontes ou garantias em operações de crédito para financiamento dos investimentos necessários à universalização dos serviços públicos de saneamento básico. (Revogado pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1º Os recursos dos fundos a que se refere o caput poderão ser utilizados como fontes ou garantias em operações de crédito para financiamento dos investimentos necessários à universalização dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º-A Os recursos dos fundos a que se refere o caput poderão ser utilizados como fontes ou garantias em operações de crédito para financiamento dos investimentos necessários à universalização dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 2º Na hipótese de delegação onerosa de serviços de saneamento básico pelo titular, os recursos decorrentes da outorga pagos ao titular poderão ser destinados aos fundos previstos no caput e utilizados para fins de universalização dos serviços de saneamento nas áreas de responsabilidade do titular. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 2º-A Na hipótese de delegação onerosa de serviços de saneamento básico pelo titular, os recursos decorrentes da outorga pagos ao titular deverão ser destinados aos fundos previstos no caput e utilizados para fins de universalização dos serviços de saneamento nas áreas de responsabilidade do titular e, após a universalização dos serviços sob responsabilidade do titular, poderão ser utilizados para outras finalidades. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nParágrafo único. Os recursos dos fundos a que se refere o caput deste artigo poderão ser utilizados como fontes ou garantias em operações de crédito para financiamento dos investimentos necessários à universalização dos serviços públicos de saneamento básico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2013.%20Os%20entes%20da%20Federa%C3%A7%C3%A3o%2C%20isoladamente%20ou%20reunidos%20em%20cons%C3%B3rcios%20p%C3%BAblicos%2C%20poder%C3%A3o%20instituir%20fundos%2C%20aos%20quais%20poder%C3%A3o%20ser%20destinadas%2C%20entre%20outros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A prestação regionalizada de serviços públicos de saneamento básico é caracterizada por: (Revogado pela Lei nº 14.026, de 2020)\n\nI - um único prestador do serviço para vários Municípios, contíguos ou não; (Revogado pela Lei nº 14.026, de 2020)\n\nII - uniformidade de fiscalização e regulação dos serviços, inclusive de sua remuneração; (Revogado pela Lei nº 14.026, de 2020)\n\nIII - compatibilidade de planejamento. (Revogado pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2014.%20A%20presta%C3%A7%C3%A3o%20regionalizada%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20%C3%A9%20caracterizada%20por%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.026%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Na prestação regionalizada de serviços públicos de saneamento básico, as atividades de regulação e fiscalização poderão ser exercidas: (Revogado pela Lei nº 14.026, de 2020)\n\nI - por órgão ou entidade de ente da Federação a que o titular tenha delegado o exercício dessas competências por meio de convênio de cooperação entre entes da Federação, obedecido o disposto no art. 241 da Constituição Federal; (Revogado pela Lei nº 14.026, de 2020)\n\nII - por consórcio público de direito público integrado pelos titulares dos serviços. (Revogado pela Lei nº 14.026, de 2020)\n\nParágrafo único. No exercício das atividades de planejamento dos serviços a que se refere o caput deste artigo, o titular poderá receber cooperação técnica do respectivo Estado e basear-se em estudos fornecidos pelos prestadores. (Revogado pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2015.%20Na%20presta%C3%A7%C3%A3o%20regionalizada%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%2C%20as%20atividades%20de%20regula%C3%A7%C3%A3o%20e%20fiscaliza%C3%A7%C3%A3o%20poder%C3%A3o%20ser%20exercidas%3A%20%28Revogado%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A prestação regionalizada de serviços públicos de saneamento básico poderá ser realizada por: (Revogado pela Lei nº 14.026, de 2020)\n\nI - órgão, autarquia, fundação de direito público, consórcio público, empresa pública ou sociedade de economia mista estadual, do Distrito Federal, ou municipal, na forma da legislação; (Revogado pela Lei nº 14.026, de 2020)\n\nII - empresa a que se tenham concedido os serviços. (Revogado pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2016.%20A%20presta%C3%A7%C3%A3o%20regionalizada%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20poder%C3%A1%20ser%20realizada%20por%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.026%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O serviço regionalizado de saneamento básico poderá obedecer a plano de saneamento básico elaborado para o conjunto de Municípios atendidos.\n\n§ 1º O plano de saneamento básico elaborado para o conjunto de Municípios poderá contemplar um ou mais elementos do saneamento básico, com vistas à otimização do planejamento e da prestação dos serviços. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º-A O plano de saneamento básico elaborado para o conjunto de Municípios poderá contemplar um ou mais elementos do saneamento básico, com vistas à otimização do planejamento e da prestação dos serviços. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 2º As disposições constantes do plano de saneamento básico elaborado para o conjunto de Municípios prevalecerão sobre aquelas constantes dos planos municipais de saneamento, quando existirem. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 2º-A As disposições constantes do plano de saneamento básico elaborado para o conjunto de Municípios prevalecerão sobre aquelas constantes dos planos municipais de saneamento, quando existirem. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 3º A existência de plano de saneamento básico elaborado para o conjunto de Municípios atenderá ao requisito estabelecido no inciso I do caput do art. 11 e dispensará a necessidade de elaboração e publicação de planos de saneamento pelos Municípios contemplados pelo plano regional. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 3º-A A existência de plano de saneamento básico elaborado para o conjunto de Municípios atenderá ao requisito estabelecido no inciso I do caput do art. 11 e dispensará a necessidade de elaboração e publicação de planos de saneamento pelos Municípios contemplados pelo plano regional. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 4º O plano de saneamento básico para o conjunto de Municípios poderá ser elaborado com suporte de órgãos e entidades da administração pública federal e estadual e será convalidado em cada um dos Municípios por ele abrangidos, por meio da publicação de ato do Poder Executivo. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 4º-A O plano de saneamento básico para o conjunto de Municípios poderá ser elaborado com suporte de órgãos e entidades da administração pública federal e estadual e será convalidado em cada um dos Municípios por ele abrangidos, por meio da publicação de ato do Poder Executivo. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 5º Na hipótese de os Municípios integrarem região metropolitana, o plano de saneamento básico elaborado para o conjunto de Municípios será convalidado pelo colegiado de que trata o art. 8º da Lei nº 13.089, de 2015, naquilo que concernir ao interesse comum, dispensada a convalidação prevista no § 4º. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 5º-A Na hipótese de os Municípios integrarem região metropolitana, o plano de saneamento básico elaborado para o conjunto de Municípios será convalidado pelo colegiado de que trata o art. 8º da Lei nº 13.089, de 2015, naquilo que concernir ao interesse comum, dispensada a convalidação prevista no § 4º-A. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2017.%20O%20servi%C3%A7o%20regionalizado%20de%20saneamento%20b%C3%A1sico%20poder%C3%A1%20obedecer%20a%20plano%20de%20saneamento%20b%C3%A1sico%20elaborado%20para%20o%20conjunto%20de%20Munic%C3%ADpios%20atendidos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Os prestadores que atuem em mais de um Município ou que prestem serviços públicos de saneamento básico diferentes em um mesmo Município manterão sistema contábil que permita registrar e demonstrar, separadamente, os custos e as receitas de cada serviço em cada um dos Municípios atendidos e, se for o caso, no Distrito Federal.\n\nParágrafo único. A entidade de regulação deverá instituir regras e critérios de estruturação de sistema contábil e do respectivo plano de contas, de modo a garantir que a apropriação e a distribuição de custos dos serviços estejam em conformidade com as diretrizes estabelecidas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2018.%20Os%20prestadores%20que%20atuem%20em%20mais%20de%20um%20Munic%C3%ADpio%20ou%20que%20prestem%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20diferentes%20em%20um",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18-A"
+    },
+    "18-A": {
+      "numero": "18-A",
+      "texto": "Art. 18-A. O prestador dos serviços públicos de saneamento básico deve disponibilizar infraestrutura de rede até os respectivos pontos de conexão necessários à implantação dos serviços nas edificações e nas unidades imobiliárias decorrentes de incorporação imobiliária e de parcelamento de solo urbano. (Incluído pela Lei nº 14.026, de 2020)\n\nParágrafo único. A agência reguladora instituirá regras para que empreendedores imobiliários façam investimentos em redes de água e esgoto, identificando as situações nas quais os investimentos representam antecipação de atendimento obrigatório do operador local, fazendo jus ao ressarcimento futuro por parte da concessionária, por critérios de avaliação regulatórios, e aquelas nas quais os investimentos configuram-se como de interesse restrito do empreendedor imobiliário, situação na qual não fará jus ao ressarcimento. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2018-A.%20O%20prestador%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20deve%20disponibilizar%20infraestrutura%20de%20rede%20at%C3%A9%20os%20respectivos%20pontos%20de%20conex%C3%A3o%20necess%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A prestação de serviços públicos de saneamento básico observará plano, que poderá ser específico para cada serviço, o qual abrangerá, no mínimo:\n\nI - diagnóstico da situação e de seus impactos nas condições de vida, utilizando sistema de indicadores sanitários, epidemiológicos, ambientais e socioeconômicos e apontando as causas das deficiências detectadas;\n\nII - objetivos e metas de curto, médio e longo prazos para a universalização, admitidas soluções graduais e progressivas, observando a compatibilidade com os demais planos setoriais;\n\nIII - programas, projetos e ações necessárias para atingir os objetivos e as metas, de modo compatível com os respectivos planos plurianuais e com outros planos governamentais correlatos, identificando possíveis fontes de financiamento;\n\nIV - ações para emergências e contingências;\n\nV - mecanismos e procedimentos para a avaliação sistemática da eficiência e eficácia das ações programadas.\n\n§ 1o Os planos de saneamento básico serão editados pelos titulares, podendo ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço.\n\n§ 1º Os planos de saneamento básico serão aprovados por ato do Poder Executivo dos titulares e poderão ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1o Os planos de saneamento básico serão editados pelos titulares, podendo ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço.\n\n§ 1º Os planos de saneamento básico serão aprovados por ato dos titulares e poderão ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1o Os planos de saneamento básico serão editados pelos titulares, podendo ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço.\n\n§ 1º Os planos de saneamento básico serão aprovados por atos dos titulares e poderão ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 2o A consolidação e compatibilização dos planos específicos de cada serviço serão efetuadas pelos respectivos titulares.\n\n§ 3o Os planos de saneamento básico deverão ser compatíveis com os planos das bacias hidrográficas em que estiverem inseridos.\n\n§ 3º Os planos de saneamento básico deverão ser compatíveis com os planos das bacias hidrográficas e com planos diretores dos Municípios em que estiverem inseridos, ou com os planos de desenvolvimento urbano integrado das unidades regionais por eles abrangidas. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 4o Os planos de saneamento básico serão revistos periodicamente, em prazo não superior a 4 (quatro) anos, anteriormente à elaboração do Plano Plurianual.\n\n§ 4º Os planos de saneamento básico serão revistos periodicamente, em prazo não superior a 10 (dez) anos. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 5o Será assegurada ampla divulgação das propostas dos planos de saneamento básico e dos estudos que as fundamentem, inclusive com a realização de audiências ou consultas públicas.\n\n§ 6o A delegação de serviço de saneamento básico não dispensa o cumprimento pelo prestador do respectivo plano de saneamento básico em vigor à época da delegação.\n\n§ 7o Quando envolverem serviços regionalizados, os planos de saneamento básico devem ser editados em conformidade com o estabelecido no art. 14 desta Lei.\n\n§ 8o Exceto quando regional, o plano de saneamento básico deverá englobar integralmente o território do ente da Federação que o elaborou.\n\n§ 9º Os Municípios com população inferior a vinte mil habitantes poderão apresentar planos simplificados com menor nível de detalhamento dos aspectos previstos nos incisos I a V do caput, conforme regulamentação do Ministério das Cidades. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 9º Os Municípios com população inferior a 20.000 (vinte mil) habitantes poderão apresentar planos simplificados, com menor nível de detalhamento dos aspectos previstos nos incisos I a V do caput deste artigo. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 9º-A Os Municípios com população inferior a vinte mil habitantes poderão apresentar planos simplificados com menor nível de detalhamento dos aspectos previstos nos incisos I ao V do caput, conforme regulamentação do Ministério das Cidades. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2019.%20A%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20observar%C3%A1%20plano%2C%20que%20poder%C3%A1%20ser%20espec%C3%ADfico%20para%20cada%20servi%C3%A7o%2C%20o%20qual%20abranger%C3%A1%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18-A",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. (VETADO).\n\nParágrafo único. Incumbe à entidade reguladora e fiscalizadora dos serviços a verificação do cumprimento dos planos de saneamento por parte dos prestadores de serviços, na forma das disposições legais, regulamentares e contratuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2020.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O exercício da função de regulação atenderá aos seguintes princípios:\n\nI - independência decisória, incluindo autonomia administrativa, orçamentária e financeira da entidade reguladora;\n\nII - transparência, tecnicidade, celeridade e objetividade das decisões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2021.%20O%20exerc%C3%ADcio%20da%20fun%C3%A7%C3%A3o%20de%20regula%C3%A7%C3%A3o%20atender%C3%A1%20aos%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. São objetivos da regulação:\n\nI - estabelecer padrões e normas para a adequada prestação dos serviços e para a satisfação dos usuários;\n\nII - garantir o cumprimento das condições e metas estabelecidas;\n\nIII - prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do sistema nacional de defesa da concorrência;\n\nIII - prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIII - prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do sistema nacional de defesa da concorrência;\n\nIII - prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIII - prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do sistema nacional de defesa da concorrência;\n\nIV - definir tarifas que assegurem tanto o equilíbrio econômico e financeiro dos contratos como a modicidade tarifária, mediante mecanismos que induzam a eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade.\n\nIV - definir tarifas que assegurem tanto o equilíbrio econômico-financeiro dos contratos quanto a modicidade tarifária, por meio de mecanismos que induzam a eficiência e a eficácia dos serviços e que permitam o compartilhamento dos ganhos de produtividade com os usuários. (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIV - definir tarifas que assegurem tanto o equilíbrio econômico e financeiro dos contratos como a modicidade tarifária, mediante mecanismos que induzam a eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade.\n\nIV - definir tarifas que assegurem tanto o equilíbrio econômico-financeiro dos contratos quanto a modicidade tarifária, por meio de mecanismos que induzam a eficiência e a eficácia dos serviços e que permitam o compartilhamento dos ganhos de produtividade com os usuários. (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIV - definir tarifas que assegurem tanto o equilíbrio econômico e financeiro dos contratos como a modicidade tarifária, mediante mecanismos que induzam a eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade.\n\nI - estabelecer padrões e normas para a adequada prestação e a expansão da qualidade dos serviços e para a satisfação dos usuários, com observação das normas de referência editadas pela ANA; (Redação dada pela Lei nº 14.026, de 2020)\n\nII - garantir o cumprimento das condições e metas estabelecidas nos contratos de prestação de serviços e nos planos municipais ou de prestação regionalizada de saneamento básico; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e (Redação dada pela Lei nº 14.026, de 2020)\n\nIV - definir tarifas que assegurem tanto o equilíbrio econômico-financeiro dos contratos quanto a modicidade tarifária, por mecanismos que gerem eficiência e eficácia dos serviços e que permitam o compartilhamento dos ganhos de produtividade com os usuários. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2022.%20S%C3%A3o%20objetivos%20da%20regula%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A entidade reguladora editará normas relativas às dimensões técnica, econômica e social de prestação dos serviços, que abrangerão, pelo menos, os seguintes aspectos:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2023.%20A%20entidade%20reguladora%20editar%C3%A1%20normas%20relativas%20%C3%A0s%20dimens%C3%B5es%20t%C3%A9cnica%2C%20econ%C3%B4mica%20e%20social%20de%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%2C%20que%20abranger%C3%A3o%2C%20pelo%20menos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Em caso de gestão associada ou prestação regionalizada dos serviços, os titulares poderão adotar os mesmos critérios econômicos, sociais e técnicos da regulação em toda a área de abrangência da associação ou da prestação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2024.%20Em%20caso%20de%20gest%C3%A3o%20associada%20ou%20presta%C3%A7%C3%A3o%20regionalizada%20dos%20servi%C3%A7os%2C%20os%20titulares%20poder%C3%A3o%20adotar%20os%20mesmos%20crit%C3%A9rios%20econ%C3%B4micos%2C%20sociais%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os prestadores de serviços públicos de saneamento básico deverão fornecer à entidade reguladora todos os dados e informações necessários para o desempenho de suas atividades, na forma das normas legais, regulamentares e contratuais.\n\n§ 1o Incluem-se entre os dados e informações a que se refere o caput deste artigo aquelas produzidas por empresas ou profissionais contratados para executar serviços ou fornecer materiais e equipamentos específicos.\n\n§ 2o Compreendem-se nas atividades de regulação dos serviços de saneamento básico a interpretação e a fixação de critérios para a fiel execução dos contratos, dos serviços e para a correta administração de subsídios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2025.%20Os%20prestadores%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20dever%C3%A3o%20fornecer%20%C3%A0%20entidade%20reguladora%20todos%20os%20dados%20e%20informa%C3%A7%C3%B5es%20necess%C3%A1rios%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "25-A"
+    },
+    "25-A": {
+      "numero": "25-A",
+      "texto": "Art. 25-A. A Agência Nacional de Águas - ANA instituirá normas de referência nacionais para a regulação da prestação dos serviços públicos de saneamento básico e por seus titulares e suas entidades reguladoras e fiscalizadoras, observada a legislação federal pertinente. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º O acesso aos recursos públicos federais ou à contratação de financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da administração pública federal, quando destinados aos serviços de saneamento básico, será condicionado ao cumprimento das normas de referência nacionais para a regulação da prestação dos serviços públicos de saneamento básico estabelecidas pela ANA, observado o disposto no art. 50 desta Lei e no art. 4º-B da Lei nº 9.984, de 17 de julho de 2000. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 2º A restrição ao acesso de recursos públicos federais e de financiamento prevista no § 1º somente produzirá efeitos após o estabelecimento, pela ANA, das normas de referência nacionais, respeitadas as regras dos contratos assinados anteriormente à vigência das normas da ANA. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 3º O disposto no caput não se aplica: (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nI - às ações de saneamento básico em: (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\na) áreas rurais; (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nb) comunidades tradicionais; e (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nc) áreas indígenas; e (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - às soluções individuais que não constituem serviço público em áreas rurais ou urbanas. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2025-A.%20A%20Ag%C3%AAncia%20Nacional%20de%20%C3%81guas%20-%20ANA%20instituir%C3%A1%20normas%20de%20refer%C3%AAncia%20nacionais%20para%20a%20regula%C3%A7%C3%A3o%20da%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20p%C3%BAblicos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "25-B"
+    },
+    "25-B": {
+      "numero": "25-B",
+      "texto": "Art. 25-B. A Agência Nacional de Águas - ANA instituirá normas de referência nacionais para a regulação da prestação dos serviços públicos de saneamento básico e por seus titulares e suas entidades reguladoras e fiscalizadoras, observada a legislação federal pertinente. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1º O acesso aos recursos públicos federais ou à contratação de financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da administração pública federal, quando destinados aos serviços de saneamento básico, será condicionado ao cumprimento das normas de referência nacionais para a regulação da prestação dos serviços públicos de saneamento básico estabelecidas pela ANA, observado o disposto no art. 50 desta Lei e no art. 4º-D da Lei nº 9.984, de 17 de julho de 2000. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 2º A restrição ao acesso de recursos públicos federais e de financiamento prevista no § 1º somente produzirá efeitos após o estabelecimento, pela ANA, das normas de referência nacionais, respeitadas as regras dos contratos assinados anteriormente à vigência das normas da ANA. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 3º O disposto no caput não se aplica: (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - às ações de saneamento básico em: (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\na) áreas rurais; (Incluída pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nb) comunidades tradicionais, incluídas as áreas quilombolas; e (Incluída pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nc) áreas indígenas; e (Incluída pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - às soluções individuais que não constituem serviço público em áreas rurais ou urbanas. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2025-B.%20A%20Ag%C3%AAncia%20Nacional%20de%20%C3%81guas%20-%20ANA%20instituir%C3%A1%20normas%20de%20refer%C3%AAncia%20nacionais%20para%20a%20regula%C3%A7%C3%A3o%20da%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20p%C3%BAblicos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25-A",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Deverá ser assegurado publicidade aos relatórios, estudos, decisões e instrumentos equivalentes que se refiram à regulação ou à fiscalização dos serviços, bem como aos direitos e deveres dos usuários e prestadores, a eles podendo ter acesso qualquer do povo, independentemente da existência de interesse direto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2026.%20Dever%C3%A1%20ser%20assegurado%20publicidade%20aos%20relat%C3%B3rios%2C%20estudos%2C%20decis%C3%B5es%20e%20instrumentos%20equivalentes%20que%20se%20refiram%20%C3%A0%20regula%C3%A7%C3%A3o%20ou%20%C3%A0%20fiscaliza%C3%A7%C3%A3o%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25-B",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. É assegurado aos usuários de serviços públicos de saneamento básico, na forma das normas legais, regulamentares e contratuais:\n\nI - amplo acesso a informações sobre os serviços prestados;\n\nII - prévio conhecimento dos seus direitos e deveres e das penalidades a que podem estar sujeitos;\n\nIII - acesso a manual de prestação do serviço e de atendimento ao usuário, elaborado pelo prestador e aprovado pela respectiva entidade de regulação;\n\nIV - acesso a relatório periódico sobre a qualidade da prestação dos serviços.\n\nV - acesso a relatórios periódicos sobre o nível dos reservatórios de água para abastecimento público e a outros dados relativos à segurança hídrica. (Incluído pela Lei nº 15.012, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2027.%20%C3%89%20assegurado%20aos%20usu%C3%A1rios%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%2C%20na%20forma%20das%20normas%20legais%2C%20regulamentares%20e%20contratuais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2028.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os serviços públicos de saneamento básico terão a sustentabilidade econômico-financeira assegurada, sempre que possível, mediante remuneração pela cobrança dos serviços:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2029.%20Os%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20ter%C3%A3o%20a%20sustentabilidade%20econ%C3%B4mico-financeira%20assegurada%2C%20sempre%20que%20poss%C3%ADvel%2C%20mediante%20remunera%C3%A7%C3%A3o%20pela%20cobran%C3%A7a%20dos%20servi%C3%A7os%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Observado o disposto no art. 29 desta Lei, a estrutura de remuneração e cobrança dos serviços públicos de saneamento básico poderá levar em consideração os seguintes fatores:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2030.%20Observado%20o%20disposto%20no%20art.%2029%20desta%20Lei%2C%20a%20estrutura%20de%20remunera%C3%A7%C3%A3o%20e%20cobran%C3%A7a%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os subsídios necessários ao atendimento de usuários e localidades de baixa renda serão, dependendo das características dos beneficiários e da origem dos recursos:\n\nI - diretos, quando destinados a usuários determinados, ou indiretos, quando destinados ao prestador dos serviços;\n\nII - tarifários, quando integrarem a estrutura tarifária, ou fiscais, quando decorrerem da alocação de recursos orçamentários, inclusive por meio de subvenções;\n\nIII - internos a cada titular ou entre localidades, nas hipóteses de gestão associada e de prestação regional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2031.%20Os%20subs%C3%ADdios%20necess%C3%A1rios%20ao%20atendimento%20de%20usu%C3%A1rios%20e%20localidades%20de%20baixa%20renda%20ser%C3%A3o%2C%20dependendo%20das%20caracter%C3%ADsticas%20dos%20benefici%C3%A1rios%20e%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2032.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2033.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2034.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As taxas ou tarifas decorrentes da prestação de serviço público de limpeza urbana e de manejo de resíduos sólidos urbanos devem levar em conta a adequada destinação dos resíduos coletados e poderão considerar:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2035.%20As%20taxas%20ou%20tarifas%20decorrentes%20da%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7o%20p%C3%BAblico%20de%20limpeza%20urbana%20e%20de%20manejo%20de%20res%C3%ADduos%20s%C3%B3lidos%20urbanos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A cobrança pela prestação do serviço público de drenagem e manejo de águas pluviais urbanas deve levar em conta, em cada lote urbano, os percentuais de impermeabilização e a existência de dispositivos de amortecimento ou de retenção de água de chuva, bem como poderá considerar:\n\nI - o nível de renda da população da área atendida;\n\nII - as características dos lotes urbanos e as áreas que podem ser neles edificadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2036.%20A%20cobran%C3%A7a%20pela%20presta%C3%A7%C3%A3o%20do%20servi%C3%A7o%20p%C3%BAblico%20de%20drenagem%20e%20manejo%20de%20%C3%A1guas%20pluviais%20urbanas%20deve%20levar%20em%20conta%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os reajustes de tarifas de serviços públicos de saneamento básico serão realizados observando-se o intervalo mínimo de 12 (doze) meses, de acordo com as normas legais, regulamentares e contratuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2037.%20Os%20reajustes%20de%20tarifas%20de%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20ser%C3%A3o%20realizados%20observando-se%20o%20intervalo%20m%C3%ADnimo%20de%2012%20%28doze%29%20meses%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. As revisões tarifárias compreenderão a reavaliação das condições da prestação dos serviços e das tarifas praticadas e poderão ser:\n\nI - periódicas, objetivando a distribuição dos ganhos de produtividade com os usuários e a reavaliação das condições de mercado;\n\nII - extraordinárias, quando se verificar a ocorrência de fatos não previstos no contrato, fora do controle do prestador dos serviços, que alterem o seu equilíbrio econômico-financeiro.\n\n§ 1o As revisões tarifárias terão suas pautas definidas pelas respectivas entidades reguladoras, ouvidos os titulares, os usuários e os prestadores dos serviços.\n\n§ 2o Poderão ser estabelecidos mecanismos tarifários de indução à eficiência, inclusive fatores de produtividade, assim como de antecipação de metas de expansão e qualidade dos serviços.\n\n§ 3o Os fatores de produtividade poderão ser definidos com base em indicadores de outras empresas do setor.\n\n§ 4o A entidade de regulação poderá autorizar o prestador de serviços a repassar aos usuários custos e encargos tributários não previstos originalmente e por ele não administrados, nos termos da Lei no 8.987, de 13 de fevereiro de 1995.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2038.%20As%20revis%C3%B5es%20tarif%C3%A1rias%20compreender%C3%A3o%20a%20reavalia%C3%A7%C3%A3o%20das%20condi%C3%A7%C3%B5es%20da%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20e%20das%20tarifas%20praticadas%20e%20poder%C3%A3o%20ser%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. As tarifas serão fixadas de forma clara e objetiva, devendo os reajustes e as revisões serem tornados públicos com antecedência mínima de 30 (trinta) dias com relação à sua aplicação.\n\nParágrafo único. A fatura a ser entregue ao usuário final deverá obedecer a modelo estabelecido pela entidade reguladora, que definirá os itens e custos que deverão estar explicitados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2039.%20As%20tarifas%20ser%C3%A3o%20fixadas%20de%20forma%20clara%20e%20objetiva%2C%20devendo%20os%20reajustes%20e%20as%20revis%C3%B5es%20serem%20tornados%20p%C3%BAblicos%20com%20anteced%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os serviços poderão ser interrompidos pelo prestador nas seguintes hipóteses:\n\nI - situações de emergência que atinjam a segurança de pessoas e bens;\n\nII - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas;\n\nII - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas, respeitados os padrões de qualidade e continuidade estabelecidos pela regulação do serviço; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas, respeitados os padrões de qualidade e continuidade estabelecidos pela regulação do serviço; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas;\n\nII - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas, respeitados os padrões de qualidade e continuidade estabelecidos pela regulação do serviço; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - negativa do usuário em permitir a instalação de dispositivo de leitura de água consumida, após ter sido previamente notificado a respeito;\n\nIV - manipulação indevida de qualquer tubulação, medidor ou outra instalação do prestador, por parte do usuário; e\n\nV - inadimplemento do usuário do serviço de abastecimento de água, do pagamento das tarifas, após ter sido formalmente notificado.\n\nV - inadimplemento, pelo usuário do serviço de abastecimento de água ou de esgotamento sanitário, do pagamento das tarifas, após ter sido formalmente notificado, de forma que, em caso de coleta, afastamento e tratamento de esgoto, a interrupção dos serviços deverá preservar as condições mínimas de manutenção da saúde dos usuários, de acordo com norma de regulação ou norma do órgão de política ambiental. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 1o As interrupções programadas serão previamente comunicadas ao regulador e aos usuários.\n\n§ 2o A suspensão dos serviços prevista nos incisos III e V do caput deste artigo será precedida de prévio aviso ao usuário, não inferior a 30 (trinta) dias da data prevista para a suspensão.\n\n§ 3o A interrupção ou a restrição do fornecimento de água por inadimplência a estabelecimentos de saúde, a instituições educacionais e de internação coletiva de pessoas e a usuário residencial de baixa renda beneficiário de tarifa social deverá obedecer a prazos e critérios que preservem condições mínimas de manutenção da saúde das pessoas atingidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2040.%20Os%20servi%C3%A7os%20poder%C3%A3o%20ser%20interrompidos%20pelo%20prestador%20nas%20seguintes%20hip%C3%B3teses%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Desde que previsto nas normas de regulação, grandes usuários poderão negociar suas tarifas com o prestador dos serviços, mediante contrato específico, ouvido previamente o regulador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2041.%20Desde%20que%20previsto%20nas%20normas%20de%20regula%C3%A7%C3%A3o%2C%20grandes%20usu%C3%A1rios%20poder%C3%A3o%20negociar%20suas%20tarifas%20com%20o%20prestador%20dos%20servi%C3%A7os%2C%20mediante%20contrato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os valores investidos em bens reversíveis pelos prestadores constituirão créditos perante o titular, a serem recuperados mediante a exploração dos serviços, nos termos das normas regulamentares e contratuais e, quando for o caso, observada a legislação pertinente às sociedades por ações.\n\n§ 1o Não gerarão crédito perante o titular os investimentos feitos sem ônus para o prestador, tais como os decorrentes de exigência legal aplicável à implantação de empreendimentos imobiliários e os provenientes de subvenções ou transferências fiscais voluntárias.\n\n§ 2o Os investimentos realizados, os valores amortizados, a depreciação e os respectivos saldos serão anualmente auditados e certificados pela entidade reguladora.\n\n§ 3o Os créditos decorrentes de investimentos devidamente certificados poderão constituir garantia de empréstimos aos delegatários, destinados exclusivamente a investimentos nos sistemas de saneamento objeto do respectivo contrato.\n\n§ 4o (VETADO).\n\n§ 5º A transferência de serviços de um prestador para outro será condicionada, em qualquer hipótese, à indenização dos investimentos vinculados a bens reversíveis ainda não amortizados ou depreciados, nos termos da Lei nº 8.987, de 13 de fevereiro de 1995, facultado ao titular atribuir ao prestador que assumirá o serviço a responsabilidade por seu pagamento. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2042.%20Os%20valores%20investidos%20em%20bens%20revers%C3%ADveis%20pelos%20prestadores%20constituir%C3%A3o%20cr%C3%A9ditos%20perante%20o%20titular%2C%20a%20serem%20recuperados%20mediante%20a%20explora%C3%A7%C3%A3o%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A prestação dos serviços atenderá a requisitos mínimos de qualidade, incluindo a regularidade, a continuidade e aqueles relativos aos produtos oferecidos, ao atendimento dos usuários e às condições operacionais e de manutenção dos sistemas, de acordo com as normas regulamentares e contratuais.\n\nParágrafo único. A União definirá parâmetros mínimos para a potabilidade da água. (Revogado pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1º A União definirá os parâmetros mínimos de potabilidade da água. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 2º A entidade reguladora estabelecerá os limites máximos de perda na distribuição de água tratada, que poderão ser reduzidos gradualmente, conforme sejam verificados os avanços tecnológicos e os maiores investimentos em medidas para diminuição do desperdício. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nParágrafo único. A União definirá parâmetros mínimos para a potabilidade da água.\n\n§ 1º A União definirá parâmetros mínimos de potabilidade da água. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 2º A entidade reguladora estabelecerá limites máximos de perda na distribuição de água tratada, que poderão ser reduzidos gradualmente, conforme se verifiquem avanços tecnológicos e maiores investimentos em medidas para diminuição desse desperdício. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2043.%20A%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20atender%C3%A1%20a%20requisitos%20m%C3%ADnimos%20de%20qualidade%2C%20incluindo%20a%20regularidade%2C%20a%20continuidade%20e%20aqueles%20relativos%20aos%20produtos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "43-A"
+    },
+    "43-A": {
+      "numero": "43-A",
+      "texto": "Art. 43-A. É obrigação dos prestadores de serviço público de abastecimento de água, conforme regulamento: (Incluído pela Lei nº 14.546, de 2023)\n\nI - corrigir as falhas da rede hidráulica, de modo a evitar vazamentos e perdas e a aumentar a eficiência do sistema de distribuição; e (Incluído pela Lei nº 14.546, de 2023)\n\nII - fiscalizar a rede de abastecimento de água para coibir as ligações irregulares. (Incluído pela Lei nº 14.546, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2043-A.%20%C3%89%20obriga%C3%A7%C3%A3o%20dos%20prestadores%20de%20servi%C3%A7o%20p%C3%BAblico%20de%20abastecimento%20de%20%C3%A1gua%2C%20conforme%20regulamento%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.546%2C%20de%202023%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O licenciamento ambiental de unidades de tratamento de esgotos sanitários e de efluentes gerados nos processos de tratamento de água considerará etapas de eficiência, a fim de alcançar progressivamente os padrões estabelecidos pela legislação ambiental, em função da capacidade de pagamento dos usuários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2044.%20O%20licenciamento%20ambiental%20de%20unidades%20de%20tratamento%20de%20esgotos%20sanit%C3%A1rios%20e%20de%20efluentes%20gerados%20nos%20processos%20de%20tratamento%20de%20%C3%A1gua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43-A",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Ressalvadas as disposições em contrário das normas do titular, da entidade de regulação e de meio ambiente, toda edificação permanente urbana será conectada às redes públicas de abastecimento de água e de esgotamento sanitário disponíveis e sujeita ao pagamento das tarifas e de outros preços públicos decorrentes da conexão e do uso desses serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2045.%20Ressalvadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%20das%20normas%20do%20titular%2C%20da%20entidade%20de%20regula%C3%A7%C3%A3o%20e%20de%20meio%20ambiente%2C%20toda%20edifica%C3%A7%C3%A3o%20permanente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Em situação crítica de escassez ou contaminação de recursos hídricos que obrigue à adoção de racionamento, declarada pela autoridade gestora de recursos hídricos, o ente regulador poderá adotar mecanismos tarifários de contingência, com objetivo de cobrir custos adicionais decorrentes, garantindo o equilíbrio financeiro da prestação do serviço e a gestão da demanda.\n\nParágrafo único. Sem prejuízo da adoção dos mecanismos referidos no caput, a ANA poderá recomendar, independentemente da dominialidade dos corpos hídricos que formem determinada bacia hidrográfica, a restrição ou a interrupção do uso de recursos hídricos e a prioridade do uso para o consumo humano e para a dessedentação de animais. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nParágrafo único. Sem prejuízo da adoção dos mecanismos a que se refere o caput deste artigo, a ANA poderá recomendar, independentemente da dominialidade dos corpos hídricos que formem determinada bacia hidrográfica, a restrição ou a interrupção do uso de recursos hídricos e a prioridade do uso para o consumo humano e para a dessedentação de animais. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2046.%20Em%20situa%C3%A7%C3%A3o%20cr%C3%ADtica%20de%20escassez%20ou%20contamina%C3%A7%C3%A3o%20de%20recursos%20h%C3%ADdricos%20que%20obrigue%20%C3%A0%20ado%C3%A7%C3%A3o%20de%20racionamento%2C%20declarada%20pela%20autoridade%20gestora",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "46-A"
+    },
+    "46-A": {
+      "numero": "46-A",
+      "texto": "Art. 46-A Sem prejuízo da adoção dos mecanismos a que se refere o art. 46, a ANA poderá recomendar, independentemente da dominialidade dos corpos hídricos que formem determinada bacia hidrográfica, a restrição ou a interrupção do uso de recursos hídricos e a prioridade do uso para o consumo humano e para a dessedentação de animais. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2046-A%20Sem%20preju%C3%ADzo%20da%20ado%C3%A7%C3%A3o%20dos%20mecanismos%20a%20que%20se%20refere%20o%20art.%2046%2C%20a%20ANA%20poder%C3%A1%20recomendar%2C%20independentemente%20da%20dominialidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O controle social dos serviços públicos de saneamento básico poderá incluir a participação de órgãos colegiados de caráter consultivo, estaduais, do Distrito Federal e municipais, assegurada a representação:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2047.%20O%20controle%20social%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20saneamento%20b%C3%A1sico%20poder%C3%A1%20incluir%20a%20participa%C3%A7%C3%A3o%20de%20%C3%B3rg%C3%A3os%20colegiados%20de%20car%C3%A1ter%20consultivo%2C%20estaduais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46-A",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A União, no estabelecimento de sua política de saneamento básico, observará as seguintes diretrizes:\n\nI - prioridade para as ações que promovam a eqüidade social e territorial no acesso ao saneamento básico;\n\nII - aplicação dos recursos financeiros por ela administrados de modo a promover o desenvolvimento sustentável, a eficiência e a eficácia;\n\nIII - estímulo ao estabelecimento de adequada regulação dos serviços;\n\nIII - uniformização da regulação do setor e divulgação de melhores práticas, conforme o disposto na Lei nº 9.984, de 2000; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIII - uniformização da regulação do setor e divulgação de melhores práticas, conforme o disposto na Lei nº 9.984, de 2000; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIII - estímulo ao estabelecimento de adequada regulação dos serviços;\n\nIII - uniformização da regulação do setor e divulgação de melhores práticas, conforme o disposto na Lei nº 9.984, de 17 de julho de 2000; (Redação dada pela Lei nº 14.026, de 2020)\n\nIV - utilização de indicadores epidemiológicos e de desenvolvimento social no planejamento, implementação e avaliação das suas ações de saneamento básico;\n\nV - melhoria da qualidade de vida e das condições ambientais e de saúde pública;\n\nVI - colaboração para o desenvolvimento urbano e regional;\n\nVII - garantia de meios adequados para o atendimento da população rural dispersa, inclusive mediante a utilização de soluções compatíveis com suas características econômicas e sociais peculiares;\n\nVII - garantia de meios adequados para o atendimento da população rural, inclusive por meio da utilização de soluções compatíveis com as suas características econômicas e sociais peculiares; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nVII - garantia de meios adequados para o atendimento da população rural, inclusive por meio da utilização de soluções compatíveis com as suas características econômicas e sociais peculiares; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nVII - garantia de meios adequados para o atendimento da população rural dispersa, inclusive mediante a utilização de soluções compatíveis com suas características econômicas e sociais peculiares;\n\nVII - garantia de meios adequados para o atendimento da população rural, por meio da utilização de soluções compatíveis com as suas características econômicas e sociais peculiares; (Redação dada pela Lei nº 14.026, de 2020)\n\nVIII - fomento ao desenvolvimento científico e tecnológico, à adoção de tecnologias apropriadas e à difusão dos conhecimentos gerados;\n\nIX - adoção de critérios objetivos de elegibilidade e prioridade, levando em consideração fatores como nível de renda e cobertura, grau de urbanização, concentração populacional, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais;\n\nIX - adoção de critérios objetivos de elegibilidade e prioridade, considerados fatores como nível de renda e cobertura, grau de urbanização, concentração populacional, porte populacional municipal, áreas rurais e comunidades tradicionais e indígenas, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIX - adoção de critérios objetivos de elegibilidade e prioridade, considerados fatores como nível de renda e cobertura, grau de urbanização, concentração populacional, porte populacional municipal, áreas rurais e comunidades tradicionais e indígenas, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIX - adoção de critérios objetivos de elegibilidade e prioridade, levando em consideração fatores como nível de renda e cobertura, grau de urbanização, concentração populacional, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais;\n\nIX - adoção de critérios objetivos de elegibilidade e prioridade, considerados fatores como nível de renda e cobertura, grau de urbanização, concentração populacional, porte populacional municipal, áreas rurais e comunidades tradicionais e indígenas, disponibilidade hídrica e riscos sanitários, epidemiológicos e ambientais; (Redação dada pela Lei nº 14.026, de 2020)\n\nX - adoção da bacia hidrográfica como unidade de referência para o planejamento de suas ações;\n\nXI - estímulo à implementação de infra-estruturas e serviços comuns a Municípios, mediante mecanismos de cooperação entre entes federados.\n\nXII - estímulo ao desenvolvimento e aperfeiçoamento de equipamentos e métodos economizadores de água. (Incluído pela Lei nº 12.862, de 2013)\n\nXII - combate à perda de água e racionalização de seu consumo pelos usuários; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nXII - combate à perda de água e racionalização de seu consumo pelos usuários; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nXII - estímulo ao desenvolvimento e aperfeiçoamento de equipamentos e métodos economizadores de água. (Incluído pela Lei nº 12.862, de 2013)\n\nXII - redução progressiva e controle das perdas de água, inclusive na distribuição da água tratada, estímulo à racionalização de seu consumo pelos usuários e fomento à eficiência energética, ao reúso de efluentes sanitários e ao aproveitamento de águas de chuva, em conformidade com as demais normas ambientais e de saúde pública; (Redação dada pela Lei nº 14.026, de 2020)\n\nXIII - estímulo ao desenvolvimento e ao aperfeiçoamento de equipamentos e métodos economizadores de água; (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nXIII - estímulo ao desenvolvimento e ao aperfeiçoamento de equipamentos e métodos economizadores de água; (Redação dada pela Lei nº 14.026, de 2020)\n\nXIII-A - estímulo ao desenvolvimento e ao aperfeiçoamento de equipamentos e métodos economizadores de água; (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nXIV - promoção da segurança jurídica e da redução dos riscos regulatórios, com vistas a estimular investimentos públicos e privados no setor; e (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nXIV - promoção da segurança jurídica e da redução dos riscos regulatórios, com vistas a estimular investimentos públicos e privados; (Redação dada pela Lei nº 14.026, de 2020)\n\nXIV-A - promoção da segurança jurídica e da redução dos riscos regulatórios, com vistas a estimular investimentos públicos e privados no setor; e (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nXV - estímulo à integração das bases de dados do setor. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nXV - estímulo à integração das bases de dados; (Redação dada pela Lei nº 14.026, de 2020)\n\nXV-A - estímulo à integração das bases de dados do setor. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nXVI - acompanhamento da governança e da regulação do setor de saneamento; e (Incluído pela Lei nº 14.026, de 2020)\n\nXVII - prioridade para planos, programas e projetos que visem à implantação e à ampliação dos serviços e das ações de saneamento básico integrado, nos termos desta Lei. (Incluído pela Lei nº 14.026, de 2020)\n\nParágrafo único. As políticas e ações da União de desenvolvimento urbano e regional, de habitação, de combate e erradicação da pobreza, de proteção ambiental, de promoção da saúde e outras de relevante interesse social voltadas para a melhoria da qualidade de vida devem considerar a necessária articulação, inclusive no que se refere ao financiamento, com o saneamento básico.\n\nParágrafo único. As políticas e ações da União de desenvolvimento urbano e regional, de habitação, de combate e erradicação da pobreza, de proteção ambiental, de promoção da saúde, de recursos hídricos e outras de relevante interesse social direcionadas à melhoria da qualidade de vida devem considerar a necessária articulação, inclusive no que se refere ao financiamento e à governança, com o saneamento básico. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2048.%20A%20Uni%C3%A3o%2C%20no%20estabelecimento%20de%20sua%20pol%C3%ADtica%20de%20saneamento%20b%C3%A1sico%2C%20observar%C3%A1%20as%20seguintes%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "48-A"
+    },
+    "48-A": {
+      "numero": "48-A",
+      "texto": "Art. 48-A. Em programas habitacionais públicos federais ou subsidiados com recursos públicos federais, o sistema de esgotamento sanitário deverá ser interligado à rede existente, ressalvadas as hipóteses do § 4º do art. 11-B desta Lei. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2048-A.%20Em%20programas%20habitacionais%20p%C3%BAblicos%20federais%20ou%20subsidiados%20com%20recursos%20p%C3%BAblicos%20federais%2C%20o%20sistema%20de%20esgotamento%20sanit%C3%A1rio%20dever%C3%A1%20ser%20interligado%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. São objetivos da Política Federal de Saneamento Básico:\n\nI - contribuir para o desenvolvimento nacional, a redução das desigualdades regionais, a geração de emprego e de renda e a inclusão social;\n\nI - contribuir para o desenvolvimento nacional, a redução das desigualdades regionais, a geração de emprego e de renda, a inclusão social e a promoção da saúde pública; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nI - contribuir para o desenvolvimento nacional, a redução das desigualdades regionais, a geração de emprego e de renda, a inclusão social e a promoção da saúde pública; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - contribuir para o desenvolvimento nacional, a redução das desigualdades regionais, a geração de emprego e de renda e a inclusão social;\n\nI - contribuir para o desenvolvimento nacional, a redução das desigualdades regionais, a geração de emprego e de renda, a inclusão social e a promoção da saúde pública; (Redação dada pela Lei nº 14.026, de 2020)\n\nII - priorizar planos, programas e projetos que visem à implantação e ampliação dos serviços e ações de saneamento básico nas áreas ocupadas por populações de baixa renda;\n\nII - priorizar planos, programas e projetos que visem à implantação e à ampliação dos serviços e das ações de saneamento básico nas áreas ocupadas por populações de baixa renda, incluídos os núcleos urbanos informais consolidados, quando não se encontrarem em situação de risco; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - priorizar planos, programas e projetos que visem à implantação e à ampliação dos serviços e das ações de saneamento básico nas áreas ocupadas por populações de baixa renda, incluídos os núcleos urbanos informais consolidados, quando não se encontrarem em situação de risco; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - priorizar planos, programas e projetos que visem à implantação e ampliação dos serviços e ações de saneamento básico nas áreas ocupadas por populações de baixa renda;\n\nII - priorizar planos, programas e projetos que visem à implantação e à ampliação dos serviços e das ações de saneamento básico nas áreas ocupadas por populações de baixa renda, incluídos os núcleos urbanos informais consolidados, quando não se encontrarem em situação de risco; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - proporcionar condições adequadas de salubridade ambiental aos povos indígenas e outras populações tradicionais, com soluções compatíveis com suas características socioculturais;\n\nIV - proporcionar condições adequadas de salubridade ambiental às populações rurais e de pequenos núcleos urbanos isolados;\n\nIV - proporcionar condições adequadas de salubridade ambiental às populações rurais e às pequenas comunidades; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIV - proporcionar condições adequadas de salubridade ambiental às populações rurais e às pequenas comunidades; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIV - proporcionar condições adequadas de salubridade ambiental às populações rurais e de pequenos núcleos urbanos isolados;\n\nIV - proporcionar condições adequadas de salubridade ambiental às populações rurais e às pequenas comunidades; (Redação dada pela Lei nº 14.026, de 2020)\n\nV - assegurar que a aplicação dos recursos financeiros administrados pelo poder público dê-se segundo critérios de promoção da salubridade ambiental, de maximização da relação benefício-custo e de maior retorno social;\n\nVI - incentivar a adoção de mecanismos de planejamento, regulação e fiscalização da prestação dos serviços de saneamento básico;\n\nVII - promover alternativas de gestão que viabilizem a auto-sustentação econômica e financeira dos serviços de saneamento básico, com ênfase na cooperação federativa;\n\nVIII - promover o desenvolvimento institucional do saneamento básico, estabelecendo meios para a unidade e articulação das ações dos diferentes agentes, bem como do desenvolvimento de sua organização, capacidade técnica, gerencial, financeira e de recursos humanos, contempladas as especificidades locais;\n\nIX - fomentar o desenvolvimento científico e tecnológico, a adoção de tecnologias apropriadas e a difusão dos conhecimentos gerados de interesse para o saneamento básico;\n\nX - minimizar os impactos ambientais relacionados à implantação e desenvolvimento das ações, obras e serviços de saneamento básico e assegurar que sejam executadas de acordo com as normas relativas à proteção do meio ambiente, ao uso e ocupação do solo e à saúde.\n\nXI - incentivar a adoção de equipamentos sanitários que contribuam para a redução do consumo de água; (Incluído pela Lei nº 12.862, de 2013)\n\nXII - promover educação ambiental voltada para a economia de água pelos usuários. (Incluído pela Lei nº 12.862, de 2013)\n\nXII - promover a educação ambiental destinada à economia de água pelos usuários; e (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nXII - promover a educação ambiental destinada à economia de água pelos usuários; e (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nXII - promover educação ambiental voltada para a economia de água pelos usuários. (Incluído pela Lei nº 12.862, de 2013)\n\nXII - promover educação ambiental destinada à economia de água pelos usuários; (Redação dada pela Lei nº 14.026, de 2020)\n\nXIII - promover a capacitação técnica do setor. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nXIII - promover a capacitação técnica do setor; (Redação dada pela Lei nº 14.026, de 2020)\n\nXIII-A - promover a capacitação técnica do setor. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nXIV - promover a regionalização dos serviços, com vistas à geração de ganhos de escala, por meio do apoio à formação dos blocos de referência e à obtenção da sustentabilidade econômica financeira do bloco; (Incluído pela Lei nº 14.026, de 2020)\n\nXV - promover a concorrência na prestação dos serviços; e (Incluído pela Lei nº 14.026, de 2020)\n\nXVI - priorizar, apoiar e incentivar planos, programas e projetos que visem à implantação e à ampliação dos serviços e das ações de saneamento integrado, nos termos desta Lei. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2049.%20S%C3%A3o%20objetivos%20da%20Pol%C3%ADtica%20Federal%20de%20Saneamento%20B%C3%A1sico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48-A",
+      "next": "49-A"
+    },
+    "49-A": {
+      "numero": "49-A",
+      "texto": "Art. 49-A. No âmbito da Política Federal de Saneamento Básico, a União estimulará o uso das águas de chuva e o reúso não potável das águas cinzas em novas edificações e nas atividades paisagísticas, agrícolas, florestais e industriais, conforme regulamento. (Incluído pela Lei nº 14.546, de 2023)\n\n§ 1º A rede hidráulica e o reservatório destinado a acumular águas de chuva e águas cinzas das edificações devem ser distintos da rede de água proveniente do abastecimento público. (Incluído pela Lei nº 14.546, de 2023)\n\n§ 2º (VETADO). (Incluído pela Lei nº 14.546, de 2023)\n\n§ 3º As águas de chuva e as águas cinzas passarão por processo de tratamento que assegure sua utilização segura, previamente à acumulação e ao uso na edificação. (Incluído pela Lei nº 14.546, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2049-A.%20No%20%C3%A2mbito%20da%20Pol%C3%ADtica%20Federal%20de%20Saneamento%20B%C3%A1sico%2C%20a%20Uni%C3%A3o%20estimular%C3%A1%20o%20uso%20das%20%C3%A1guas%20de%20chuva%20e%20o%20re%C3%BAso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A alocação de recursos públicos federais e os financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União serão feitos em conformidade com as diretrizes e objetivos estabelecidos nos arts. 48 e 49 desta Lei e com os planos de saneamento básico e condicionados:\n\nI - ao alcance de índices mínimos de:\n\na) desempenho do prestador na gestão técnica, econômica e financeira dos serviços;\n\na) desempenho do prestador na gestão técnica, econômica e financeira dos serviços; e (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\na) desempenho do prestador na gestão técnica, econômica e financeira dos serviços; e (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\na) desempenho do prestador na gestão técnica, econômica e financeira dos serviços;\n\na) desempenho do prestador na gestão técnica, econômica e financeira dos serviços; e (Redação dada pela Lei nº 14.026, de 2020)\n\nb) eficiência e eficácia dos serviços, ao longo da vida útil do empreendimento;\n\nb) eficiência e eficácia na prestação dos serviços de saneamento básico; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nb) eficiência e eficácia na prestação dos serviços de saneamento básico; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nb) eficiência e eficácia dos serviços, ao longo da vida útil do empreendimento;\n\nb) eficiência e eficácia na prestação dos serviços públicos de saneamento básico; (Redação dada pela Lei nº 14.026, de 2020)\n\nII - à adequada operação e manutenção dos empreendimentos anteriormente financiados com recursos mencionados no caput deste artigo.\n\nII - à operação adequada e à manutenção dos empreendimentos anteriormente financiados com os recursos mencionados no caput; (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - à operação adequada e à manutenção dos empreendimentos anteriormente financiados com os recursos mencionados no caput; (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - à adequada operação e manutenção dos empreendimentos anteriormente financiados com recursos mencionados no caput deste artigo.\n\nII - à operação adequada e à manutenção dos empreendimentos anteriormente financiados com os recursos mencionados no caput deste artigo; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII - à observância às normas de referência nacionais para a regulação dos serviços públicos de saneamento básico expedidas pela ANA; (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIII - à observância das normas de referência para a regulação da prestação dos serviços públicos de saneamento básico expedidas pela ANA; (Redação dada pela Lei nº 14.026, de 2020)\n\nIII-A - à observância às normas de referência nacionais para a regulação dos serviços públicos de saneamento básico expedidas pela ANA; (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIV - ao cumprimento de índice de perda de água na distribuição, conforme definido em ato do Ministro de Estado das Cidades; e (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIV - ao cumprimento de índice de perda de água na distribuição, conforme definido em ato do Ministro de Estado do Desenvolvimento Regional; (Redação dada pela Lei nº 14.026, de 2020)\n\nIV - ao cumprimento de índice de perda de água na distribuição, conforme estabelecido em ato do Ministro de Estado do Meio Ambiente e Mudança do Clima; (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\nIV - ao cumprimento de índice de perda de água na distribuição, conforme estabelecido em ato do Ministro de Estado das Cidades; (Redação dada pela Lei nº 14.600, de 2023)\n\nIV-A - ao cumprimento de índice de perda de água na distribuição, conforme definido em ato do Ministro de Estado das Cidades; e (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nV - ao fornecimento de informações atualizadas para o Sinisa, conforme os critérios, os métodos e a periodicidade estabelecidos pelo Ministério das Cidades. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nV - ao fornecimento de informações atualizadas para o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério do Desenvolvimento Regional; (Redação dada pela Lei nº 14.026, de 2020)\n\nV - ao fornecimento de informações atualizadas para o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério do Meio Ambiente e Mudança do Clima; (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\nV - ao fornecimento de informações atualizadas para o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério das Cidades; (Redação dada pela Lei nº 14.600, de 2023)\n\nV-A - ao fornecimento de informações atualizadas para o Sinisa, conforme os critérios, os métodos e a periodicidade estabelecidos pelo Ministério das Cidades. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nVI - à regularidade da operação a ser financiada, nos termos do inciso XIII do caput do art. 3º desta Lei; (Incluído pela Lei nº 14.026, de 2020)\n\nVII - à estruturação de prestação regionalizada; (Incluído pela Lei nº 14.026, de 2020)\n\nVIII - à adesão pelos titulares dos serviços públicos de saneamento básico à estrutura de governança correspondente em até 180 (cento e oitenta) dias contados de sua instituição, nos casos de unidade regional de saneamento básico, blocos de referência e gestão associada; e (Incluído pela Lei nº 14.026, de 2020)\n\nIX - à constituição da entidade de governança federativa no prazo estabelecido no inciso VIII do caput deste artigo. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 1o Na aplicação de recursos não onerosos da União, será dado prioridade às ações e empreendimentos que visem ao atendimento de usuários ou Municípios que não tenham capacidade de pagamento compatível com a auto-sustentação econômico-financeira dos serviços, vedada sua aplicação a empreendimentos contratados de forma onerosa.\n\n§ 1º Na aplicação de recursos não onerosos da União, será dada prioridade aos serviços prestados por gestão associada ou que visem ao atendimento dos Municípios com maiores déficits de atendimento e cuja população não tenha capacidade de pagamento compatível com a viabilidade econômico-financeira dos serviços, vedada a aplicação em empreendimentos contratados de forma onerosa. (Redação dada pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 1º Na aplicação de recursos não onerosos da União, será dada prioridade aos serviços prestados por gestão associada ou que visem ao atendimento dos Municípios com maiores déficits de atendimento e cuja população não tenha capacidade de pagamento compatível com a viabilidade econômico-financeira dos serviços, vedada a aplicação em empreendimentos contratados de forma onerosa. (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 1o Na aplicação de recursos não onerosos da União, será dado prioridade às ações e empreendimentos que visem ao atendimento de usuários ou Municípios que não tenham capacidade de pagamento compatível com a auto-sustentação econômico-financeira dos serviços, vedada sua aplicação a empreendimentos contratados de forma onerosa.\n\n§ 1º Na aplicação de recursos não onerosos da União, serão priorizados os investimentos de capital que viabilizem a prestação de serviços regionalizada, por meio de blocos regionais, quando a sua sustentabilidade econômico-financeira não for possível apenas com recursos oriundos de tarifas ou taxas, mesmo após agrupamento com outros Municípios do Estado, e os investimentos que visem ao atendimento dos Municípios com maiores déficits de saneamento cuja população não tenha capacidade de pagamento compatível com a viabilidade econômico-financeira dos serviços. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 2o A União poderá instituir e orientar a execução de programas de incentivo à execução de projetos de interesse social na área de saneamento básico com participação de investidores privados, mediante operações estruturadas de financiamentos realizados com recursos de fundos privados de investimento, de capitalização ou de previdência complementar, em condições compatíveis com a natureza essencial dos serviços públicos de saneamento básico.\n\n§ 3o É vedada a aplicação de recursos orçamentários da União na administração, operação e manutenção de serviços públicos de saneamento básico não administrados por órgão ou entidade federal, salvo por prazo determinado em situações de eminente risco à saúde pública e ao meio ambiente.\n\n§ 4o Os recursos não onerosos da União, para subvenção de ações de saneamento básico promovidas pelos demais entes da Federação, serão sempre transferidos para Municípios, o Distrito Federal ou Estados.\n\n§ 5o No fomento à melhoria de operadores públicos de serviços de saneamento básico, a União poderá conceder benefícios ou incentivos orçamentários, fiscais ou creditícios como contrapartida ao alcance de metas de desempenho operacional previamente estabelecidas\n\n§ 5º No fomento à melhoria da prestação dos serviços públicos de saneamento básico, a União poderá conceder benefícios ou incentivos orçamentários, fiscais ou creditícios como contrapartida ao alcance de metas de desempenho operacional previamente estabelecidas. (Redação dada pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 5o No fomento à melhoria de operadores públicos de serviços de saneamento básico, a União poderá conceder benefícios ou incentivos orçamentários, fiscais ou creditícios como contrapartida ao alcance de metas de desempenho operacional previamente estabelecidas.\n\n§ 5º No fomento à melhoria da prestação dos serviços públicos de saneamento básico, a União poderá conceder benefícios ou incentivos orçamentários, fiscais ou creditícios como contrapartida ao alcance de metas de desempenho operacional previamente estabelecidas. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 6o A exigência prevista na alínea a do inciso I do caput deste artigo não se aplica à destinação de recursos para programas de desenvolvimento institucional do operador de serviços públicos de saneamento básico.\n\n§ 7o (VETADO).\n\n§ 8º A manutenção das condições e do acesso aos recursos referidos no caput dependerá da continuidade da observância aos atos normativos e à conformidade dos órgãos e das entidades reguladoras ao disposto no inciso III do caput. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 8º A manutenção das condições e do acesso aos recursos referidos no caput deste artigo dependerá da continuidade da observância dos atos normativos e da conformidade dos órgãos e das entidades reguladoras ao disposto no inciso III do caput deste artigo. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 8º-A A manutenção das condições e do acesso aos recursos a que se refere o caput dependerá da continuidade da observância aos atos normativos e à conformidade dos órgãos e das entidades reguladoras ao disposto no inciso III-A do caput. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 9º A restrição de acesso a recursos públicos federais e a financiamentos decorrente do descumprimento do inciso III do caput deste artigo não afetará os contratos celebrados anteriormente à sua instituição e as respectivas previsões de desembolso. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 10. O disposto no inciso III do caput deste artigo não se aplica às ações de saneamento básico em: (Incluído pela Lei nº 14.026, de 2020)\n\nI - áreas rurais; (Incluído pela Lei nº 14.026, de 2020)\n\nII - comunidades tradicionais, incluídas áreas quilombolas; e (Incluído pela Lei nº 14.026, de 2020)\n\nIII - terras indígenas. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 11. A União poderá criar cursos de capacitação técnica dos gestores públicos municipais, em consórcio ou não com os Estados, para a elaboração e implementação dos planos de saneamento básico. (Incluído pela Lei nº 14.026, de 2020)\n\n§ 12. (VETADO). (Incluído pela Lei nº 14.026, de 2020)\n\n§ 13. As condicionantes para alocação de recursos de que tratam os incisos I a IX do caput deste artigo não se aplicam ao componente de drenagem e manejo de águas pluviais urbanas quando destinados a Municípios em situação de emergência ou estado de calamidade pública reconhecidos pelo Poder Executivo federal ou suscetíveis a eventos de enxurradas e inundações, conforme cadastro publicado pelo Poder Executivo, nos termos do regulamento. (Incluído pela Lei nº 15.112, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2050.%20A%20aloca%C3%A7%C3%A3o%20de%20recursos%20p%C3%BAblicos%20federais%20e%20os%20financiamentos%20com%20recursos%20da%20Uni%C3%A3o%20ou%20com%20recursos%20geridos%20ou%20operados%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-A",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O processo de elaboração e revisão dos planos de saneamento básico deverá prever sua divulgação em conjunto com os estudos que os fundamentarem, o recebimento de sugestões e críticas por meio de consulta ou audiência pública e, quando previsto na legislação do titular, análise e opinião por órgão colegiado criado nos termos do art. 47 desta Lei.\n\nParágrafo único. A divulgação das propostas dos planos de saneamento básico e dos estudos que as fundamentarem dar-se-á por meio da disponibilização integral de seu teor a todos os interessados, inclusive por meio da internet e por audiência pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2051.%20O%20processo%20de%20elabora%C3%A7%C3%A3o%20e%20revis%C3%A3o%20dos%20planos%20de%20saneamento%20b%C3%A1sico%20dever%C3%A1%20prever%20sua%20divulga%C3%A7%C3%A3o%20em%20conjunto%20com%20os%20estudos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A União elaborará, sob a coordenação do Ministério das Cidades:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2052.%20A%20Uni%C3%A3o%20elaborar%C3%A1%2C%20sob%20a%20coordena%C3%A7%C3%A3o%20do%20Minist%C3%A9rio%20das%20Cidades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Fica instituído o Sistema Nacional de Informações em Saneamento Básico - SINISA, com os objetivos de:\n\nI - coletar e sistematizar dados relativos às condições da prestação dos serviços públicos de saneamento básico;\n\nII - disponibilizar estatísticas, indicadores e outras informações relevantes para a caracterização da demanda e da oferta de serviços públicos de saneamento básico;\n\nIII - permitir e facilitar o monitoramento e avaliação da eficiência e da eficácia da prestação dos serviços de saneamento básico.\n\n§ 1o As informações do Sinisa são públicas e acessíveis a todos, devendo ser publicadas por meio da internet.\n\n§ 1º As informações do Sinisa são públicas, gratuitas, acessíveis a todos e devem ser publicadas na internet, em formato de dados abertos. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 2o A União apoiará os titulares dos serviços a organizar sistemas de informação em saneamento básico, em atendimento ao disposto no inciso VI do caput do art. 9o desta Lei.\n\n§ 3º Compete ao Ministério das Cidades a organização, a implementação e a gestão do Sinisa, além de estabelecer os critérios, os métodos e a periodicidade para o preenchimento das informações pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria do Sinisa. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 3º-A Compete ao Ministério das Cidades a organização, a implementação e a gestão do Sinisa, além de estabelecer os critérios, os métodos e a periodicidade para o preenchimento das informações pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria do Sinisa. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 3º Compete ao Ministério do Desenvolvimento Regional a organização, a implementação e a gestão do Sinisa, além do estabelecimento dos critérios, dos métodos e da periodicidade para o preenchimento das informações pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria própria do sistema. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 3º Competem ao Ministério do Meio Ambiente e Mudança do Clima a organização, a implementação e a gestão do Sinisa, além do estabelecimento dos critérios, dos métodos e da periodicidade para o preenchimento das informações pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria própria do sistema. (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\n§ 3º Competem ao Ministério das Cidades a organização, a implementação e a gestão do Sinisa, além do estabelecimento dos critérios, dos métodos e da periodicidade para o preenchimento das informações pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria própria do sistema. (Redação dada pela Lei nº 14.600, de 2023)\n\n§ 4º A ANA e o Ministério das Cidades promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos com o Sinisa. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 4º A ANA e o Ministério do Desenvolvimento Regional promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos (SNIRH) com o Sinisa. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 4º-A A ANA e o Ministério das Cidades promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos com o Sinisa. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 4º A ANA e o Ministério do Meio Ambiente e Mudança do Clima promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos - SNIRH com o Sinisa. (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\n§ 4º A ANA e o Ministério das Cidades promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos (SNIRH) com o Sinisa. (Redação dada pela Lei nº 14.600, de 2023)\n\n§ 5º O Ministério das Cidades dará ampla transparência e publicidade aos sistemas de informações por ele geridos e considerará as demandas dos órgãos e das entidades envolvidos na política federal de saneamento básico, para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 5º-A O Ministério das Cidades dará ampla transparência e publicidade aos sistemas de informações por ele geridos e considerará as demandas dos órgãos e das entidades envolvidos na política federal de saneamento básico, para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 5º O Ministério do Desenvolvimento Regional dará ampla transparência e publicidade aos sistemas de informações por ele geridos e considerará as demandas dos órgãos e das entidades envolvidos na política federal de saneamento básico para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 5º O Ministério do Meio Ambiente e Mudança do Clima dará ampla transparência e publicidade aos sistemas de informações por ele geridos e considerará as demandas dos órgãos e das entidades envolvidos na política federal de saneamento básico para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor. (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\n§ 5º O Ministério das Cidades dará ampla transparência e publicidade aos sistemas de informações por ele geridos e considerará as demandas dos órgãos e das entidades envolvidos na política federal de saneamento básico para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor. (Redação dada pela Lei nº 14.600, de 2023)\n\n§ 6º O Ministério das Cidades estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada\n\n§ 6º-A O Ministério das Cidades estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 6º O Ministério do Desenvolvimento Regional estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 6º O Ministério do Meio Ambiente e Mudança do Clima estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa. (Redação dada pela Medida Provisória nº 1.154, de 2023)\n\n§ 6º O Ministério das Cidades estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa. (Redação dada pela Lei nº 14.600, de 2023)\n\n§ 7º Os titulares, os prestadores de serviços de saneamento básico e as entidades reguladoras fornecerão as informações a serem inseridas no Sinisa. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\n§ 7º-A Os titulares, os prestadores de serviços de saneamento básico e as entidades reguladoras fornecerão as informações a serem inseridas no Sinisa. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\n§ 7º Os titulares, os prestadores de serviços públicos de saneamento básico e as entidades reguladoras fornecerão as informações a serem inseridas no Sinisa. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053.%20Fica%20institu%C3%ADdo%20o%20Sistema%20Nacional%20de%20Informa%C3%A7%C3%B5es%20em%20Saneamento%20B%C3%A1sico%20-%20SINISA%2C%20com%20os%20objetivos%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "53-A"
+    },
+    "53-A": {
+      "numero": "53-A",
+      "texto": "Art. 53-A. Fica criado o Comitê Interministerial de Saneamento Básico - Cisb, colegiado que, sob a presidência do Ministério das Cidades, tem a finalidade de assegurar a implementação da política federal de saneamento básico e de articular a atuação dos órgãos e das entidades federais na alocação de recursos financeiros em ações de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nParágrafo único. A composição do Cisb será definida em ato do Poder Executivo federal. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053-A.%20Fica%20criado%20o%20Comit%C3%AA%20Interministerial%20de%20Saneamento%20B%C3%A1sico%20-%20Cisb%2C%20colegiado%20que%2C%20sob%20a%20presid%C3%AAncia%20do%20Minist%C3%A9rio%20das%20Cidades%2C%20tem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "53-B"
+    },
+    "53-B": {
+      "numero": "53-B",
+      "texto": "Art. 53-B. Compete ao Cisb: (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nI - coordenar, integrar, articular e avaliar a gestão, em âmbito federal, do Plano Nacional de Saneamento Básico; (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nII - acompanhar o processo de articulação e as medidas que visem à destinação dos recursos para o saneamento básico, no âmbito do Poder Executivo federal; (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIII - garantir a racionalidade da aplicação dos recursos federais no setor de saneamento básico com vistas à universalização dos serviços e à ampliação dos investimentos públicos e privados no setor; (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nIV - elaborar estudos técnicos para subsidiar a tomada de decisões sobre a alocação de recursos federais no âmbito da política federal de saneamento básico; e (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)\n\nV - avaliar e aprovar orientações para a aplicação dos recursos federais em saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053-B.%20Compete%20ao%20Cisb%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20844%2C%20de%202018%29%20%28Vig%C3%AAncia%20encerrada%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-A",
+      "next": "53-C"
+    },
+    "53-C": {
+      "numero": "53-C",
+      "texto": "Art. 53-C. Regimento interno disporá sobre a organização e o funcionamento do Cisb. (Incluído pela Medida Provisória nº 844, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053-C.%20Regimento%20interno%20dispor%C3%A1%20sobre%20a%20organiza%C3%A7%C3%A3o%20e%20o%20funcionamento%20do%20Cisb.%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20844%2C%20de%202018%29%20%28Vig%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-B",
+      "next": "53-D"
+    },
+    "53-D": {
+      "numero": "53-D",
+      "texto": "Art. 53-D. Fica criado o Comitê Interministerial de Saneamento Básico - Cisb, colegiado que, sob a presidência do Ministério das Cidades, tem a finalidade de assegurar a implementação da política federal de saneamento básico e de articular a atuação dos órgãos e das entidades federais na alocação de recursos financeiros em ações de saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nParágrafo único. A composição do Cisb será definida em ato do Poder Executivo federal. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053-D.%20Fica%20criado%20o%20Comit%C3%AA%20Interministerial%20de%20Saneamento%20B%C3%A1sico%20-%20Cisb%2C%20colegiado%20que%2C%20sob%20a%20presid%C3%AAncia%20do%20Minist%C3%A9rio%20das%20Cidades%2C%20tem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-C",
+      "next": "53-E"
+    },
+    "53-E": {
+      "numero": "53-E",
+      "texto": "Art. 53-E. Compete ao Cisb: (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nI - coordenar, integrar, articular e avaliar a gestão, em âmbito federal, do Plano Nacional de Saneamento Básico; (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nII - acompanhar o processo de articulação e as medidas que visem à destinação dos recursos para o saneamento básico, no âmbito do Poder Executivo federal; (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIII - garantir a racionalidade da aplicação dos recursos federais no setor de saneamento básico com vistas à universalização dos serviços e à ampliação dos investimentos públicos e privados no setor; (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nIV - elaborar estudos técnicos para subsidiar a tomada de decisões sobre a alocação de recursos federais no âmbito da política federal de saneamento básico; e (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)\n\nV - avaliar e aprovar orientações para a aplicação dos recursos federais em saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053-E.%20Compete%20ao%20Cisb%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20868%2C%20de%202018%29%20%28Vig%C3%AAncia%20encerrada%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-D",
+      "next": "53-F"
+    },
+    "53-F": {
+      "numero": "53-F",
+      "texto": "Art. 53-F. Regimento interno disporá sobre a organização e o funcionamento do Cisb. (Incluído pela Medida Provisória nº 868, de 2018) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2053-F.%20Regimento%20interno%20dispor%C3%A1%20sobre%20a%20organiza%C3%A7%C3%A3o%20e%20o%20funcionamento%20do%20Cisb.%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20868%2C%20de%202018%29%20%28Vig%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-E",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2054.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53-F",
+      "next": "54-A"
+    },
+    "54-A": {
+      "numero": "54-A",
+      "texto": "Art. 54-A. Fica instituído o Regime Especial de Incentivos para o Desenvolvimento do Saneamento Básico - REISB, com o objetivo de estimular a pessoa jurídica prestadora de serviços públicos de saneamento básico a aumentar seu volume de investimentos por meio da concessão de créditos tributários. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\nParágrafo único. A vigência do Reisb se estenderá até o ano de 2026. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2054-A.%20Fica%20institu%C3%ADdo%20o%20Regime%20Especial%20de%20Incentivos%20para%20o%20Desenvolvimento%20do%20Saneamento%20B%C3%A1sico%20-%20REISB%2C%20com%20o%20objetivo%20de%20estimular",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "54-B"
+    },
+    "54-B": {
+      "numero": "54-B",
+      "texto": "Art. 54-B. É beneficiária do Reisb a pessoa jurídica que realize investimentos voltados para a sustentabilidade e para a eficiência dos sistemas de saneamento básico e em acordo com o Plano Nacional de Saneamento Básico. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\n§ 1o Para efeitos do disposto no caput, ficam definidos como investimentos em sustentabilidade e em eficiência dos sistemas de saneamento básico aqueles que atendam: (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\nI - ao alcance das metas de universalização do abastecimento de água para consumo humano e da coleta e tratamento de esgoto; (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\nII - à preservação de áreas de mananciais e de unidades de conservação necessárias à proteção das condições naturais e de produção de água; (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\nIII - à redução de perdas de água e à ampliação da eficiência dos sistemas de abastecimento de água para consumo humano e dos sistemas de coleta e tratamento de esgoto; (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\nIV - à inovação tecnológica. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\n§ 2o Somente serão beneficiados pelo Reisb projetos cujo enquadramento às condições definidas no caput seja atestado pela Administração da pessoa jurídica beneficiária nas demonstrações financeiras dos períodos em que se apurarem ou se utilizarem os créditos. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\n§ 3o Não se poderão beneficiar do Reisb as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, de que trata a Lei Complementar no 123, de 14 de dezembro de 2006, e as pessoas jurídicas de que tratam o inciso II do art. 8o da Lei no 10.637, de 30 de dezembro de 2002, e o inciso II do art. 10 da Lei no 10.833, de 29 de dezembro de 2003. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)\n\n§ 4o A adesão ao Reisb é condicionada à regularidade fiscal da pessoa jurídica em relação aos impostos e às contribuições administrados pela Secretaria da Receita Federal do Brasil. (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2054-B.%20%C3%89%20benefici%C3%A1ria%20do%20Reisb%20a%20pessoa%20jur%C3%ADdica%20que%20realize%20investimentos%20voltados%20para%20a%20sustentabilidade%20e%20para%20a%20efici%C3%AAncia%20dos%20sistemas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54-A",
+      "next": "54-C"
+    },
+    "54-C": {
+      "numero": "54-C",
+      "texto": "Art. 54-C. (VETADO). (Incluído pela Lei nº 13.329. de 2016) (Produção de efeito)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2054-C.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.329.%20de%202016%29%20%28Produ%C3%A7%C3%A3o%20de%20efeito%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54-B",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O § 5o do art. 2o da Lei nº 6.766, de 19 de dezembro de 1979, passa a vigorar com a seguinte redação: (Vigência)\n\n“Art. 2o .........................................................................................\n\n......................................................................................................\n\n§ 5o A infra-estrutura básica dos parcelamentos é constituída pelos equipamentos urbanos de escoamento das águas pluviais, iluminação pública, esgotamento sanitário, abastecimento de água potável, energia elétrica pública e domiciliar e vias de circulação.\n\n............................................................................................. ” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2055.%20O%20%C2%A7%205o%20do%20art.%202o%20da%20Lei%20n%C2%BA%206.766%2C%20de%2019%20de%20dezembro%20de%201979%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54-C",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2056.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O inciso XXVII do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993, passa a vigorar com a seguinte redação: (Vigência)\n\n“Art. 24. ............................................................................................\n\n.........................................................................................................\n\nXXVII - na contratação da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, efetuados por associações ou cooperativas formadas exclusivamente por pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública.\n\n................................................................................................... ” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2057.%20O%20inciso%20XXVII%20do%20caput%20do%20art.%2024%20da%20Lei%20n%C2%BA%208.666%2C%20de%2021%20de%20junho%20de%201993%2C%20passa%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. O art. 42 da Lei nº 8.987, de 13 de fevereiro de 1995, passa a vigorar com a seguinte redação: (Vigência) (Vide ADIN 4058)\n\n“Art. 42. ............................................................................................\n\n§ 1o Vencido o prazo mencionado no contrato ou ato de outorga, o serviço poderá ser prestado por órgão ou entidade do poder concedente, ou delegado a terceiros, mediante novo contrato.\n\n.........................................................................................................\n\n§ 3º As concessões a que se refere o § 2o deste artigo, inclusive as que não possuam instrumento que as formalize ou que possuam cláusula que preveja prorrogação, terão validade máxima até o dia 31 de dezembro de 2010, desde que, até o dia 30 de junho de 2009, tenham sido cumpridas, cumulativamente, as seguintes condições:\n\nI - levantamento mais amplo e retroativo possível dos elementos físicos constituintes da infra-estrutura de bens reversíveis e dos dados financeiros, contábeis e comerciais relativos à prestação dos serviços, em dimensão necessária e suficiente para a realização do cálculo de eventual indenização relativa aos investimentos ainda não amortizados pelas receitas emergentes da concessão, observadas as disposições legais e contratuais que regulavam a prestação do serviço ou a ela aplicáveis nos 20 (vinte) anos anteriores ao da publicação desta Lei;\n\nII - celebração de acordo entre o poder concedente e o concessionário sobre os critérios e a forma de indenização de eventuais créditos remanescentes de investimentos ainda não amortizados ou depreciados, apurados a partir dos levantamentos referidos no inciso I deste parágrafo e auditados por instituição especializada escolhida de comum acordo pelas partes; e\n\nIII - publicação na imprensa oficial de ato formal de autoridade do poder concedente, autorizando a prestação precária dos serviços por prazo de até 6 (seis) meses, renovável até 31 de dezembro de 2008, mediante comprovação do cumprimento do disposto nos incisos I e II deste parágrafo.\n\n§ 4o Não ocorrendo o acordo previsto no inciso II do § 3o deste artigo, o cálculo da indenização de investimentos será feito com base nos critérios previstos no instrumento de concessão antes celebrado ou, na omissão deste, por avaliação de seu valor econômico ou reavaliação patrimonial, depreciação e amortização de ativos imobilizados definidos pelas legislações fiscal e das sociedades por ações, efetuada por empresa de auditoria independente escolhida de comum acordo pelas partes.\n\n§ 5o No caso do § 4o deste artigo, o pagamento de eventual indenização será realizado, mediante garantia real, por meio de 4 (quatro) parcelas anuais, iguais e sucessivas, da parte ainda não amortizada de investimentos e de outras indenizações relacionadas à prestação dos serviços, realizados com capital próprio do concessionário ou de seu controlador, ou originários de operações de financiamento, ou obtidos mediante emissão de ações, debêntures e outros títulos mobiliários, com a primeira parcela paga até o último dia útil do exercício financeiro em que ocorrer a reversão.\n\n§ 6o Ocorrendo acordo, poderá a indenização de que trata o § 5o deste artigo ser paga mediante receitas de novo contrato que venha a disciplinar a prestação do serviço.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2058.%20O%20art.%2042%20da%20Lei%20n%C2%BA%208.987%2C%20de%2013%20de%20fevereiro%20de%201995%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2059.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Revoga-se a Lei no 6.528, de 11 de maio de 1978.\n\nBrasília, 5 de janeiro de 2007; 186o da Independência e 119o da República.\n\nLUIZ INÁCIO LULA DA SILVA Márcio Fortes de Almeida Luiz Paulo Teles Ferreira Barreto Bernard Appy Paulo Sérgio Oliveira Passos Luiz Marinho José Agenor Álvares da Silva Fernando Rodrigues Lopes de Oliveira Marina Silva\n\nEste texto não substitui o publicado no DOU de 8.1.2007 e retificado em 11.1.2007.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm#:~:text=Art.%2060.%20Revoga-se%20a%20Lei%20no%206.528%2C%20de%2011%20de%20maio%20de%201978.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": null
+    }
+  }
+}

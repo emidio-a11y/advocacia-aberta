@@ -1,0 +1,895 @@
+{
+  "_meta": {
+    "codigo": "L14129",
+    "nome": "Governo Digital e Eficiência Pública",
+    "lei": "Lei 14.129/2021",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm",
+    "total_artigos": 55,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre princípios, regras e instrumentos para o aumento da eficiência da administração pública, especialmente por meio da desburocratização, da inovação, da transformação digital e da participação do cidadão.\n\nParágrafo único. Na aplicação desta Lei deverá ser observado o disposto nas Leis nºs 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), 13.460, de 26 de junho de 2017, 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), e 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e na Lei Complementar nº 105, de 10 de janeiro de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%20princ%C3%ADpios%2C%20regras%20e%20instrumentos%20para%20o%20aumento%20da%20efici%C3%AAncia%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%2C%20especialmente%20por%20meio%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Esta Lei aplica-se:\n\nI - aos órgãos da administração pública direta federal, abrangendo os Poderes Executivo, Judiciário e Legislativo, incluído o Tribunal de Contas da União, e o Ministério Público da União;\n\nII - às entidades da administração pública indireta federal, incluídas as empresas públicas e sociedades de economia mista, suas subsidiárias e controladas, que prestem serviço público, autarquias e fundações públicas; e\n\nIII - às administrações diretas e indiretas dos demais entes federados, nos termos dos incisos I e II do caput deste artigo, desde que adotem os comandos desta Lei por meio de atos normativos próprios.\n\n§ 1º Esta Lei não se aplica a empresas públicas e sociedades de economia mista, suas subsidiárias e controladas, que não prestem serviço público.\n\n§ 2º As referências feitas nesta Lei, direta ou indiretamente, a Estados, Municípios e ao Distrito Federal são cabíveis somente na hipótese de ter sido cumprido o requisito previsto no inciso III do caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%202%C2%BA%20Esta%20Lei%20aplica-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º São princípios e diretrizes do Governo Digital e da eficiência pública:\n\nI - a desburocratização, a modernização, o fortalecimento e a simplificação da relação do poder público com a sociedade, mediante serviços digitais, acessíveis inclusive por dispositivos móveis;\n\nII - a disponibilização em plataforma única do acesso às informações e aos serviços públicos, observadas as restrições legalmente previstas e sem prejuízo, quando indispensável, da prestação de caráter presencial;\n\nIII - a possibilidade aos cidadãos, às pessoas jurídicas e aos outros entes públicos de demandar e de acessar serviços públicos por meio digital, sem necessidade de solicitação presencial;\n\nIV - a transparência na execução dos serviços públicos e o monitoramento da qualidade desses serviços;\n\nV - o incentivo à participação social no controle e na fiscalização da administração pública;\n\nVI - o dever do gestor público de prestar contas diretamente à população sobre a gestão dos recursos públicos;\n\nVII - o uso de linguagem clara e compreensível a qualquer cidadão;\n\nVIII - o uso da tecnologia para otimizar processos de trabalho da administração pública;\n\nIX - a atuação integrada entre os órgãos e as entidades envolvidos na prestação e no controle dos serviços públicos, com o compartilhamento de dados pessoais em ambiente seguro quando for indispensável para a prestação do serviço, nos termos da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), e, quando couber, com a transferência de sigilo, nos termos do art. 198 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e da Lei Complementar nº 105, de 10 de janeiro de 2001;\n\nX - a simplificação dos procedimentos de solicitação, oferta e acompanhamento dos serviços públicos, com foco na universalização do acesso e no autosserviço;\n\nXI - a eliminação de formalidades e de exigências cujo custo econômico ou social seja superior ao risco envolvido;\n\nXII - a imposição imediata e de uma única vez ao interessado das exigências necessárias à prestação dos serviços públicos, justificada exigência posterior apenas em caso de dúvida superveniente;\n\nXIII - a vedação de exigência de prova de fato já comprovado pela apresentação de documento ou de informação válida;\n\nXIV - a interoperabilidade de sistemas e a promoção de dados abertos;\n\nXV - a presunção de boa-fé do usuário dos serviços públicos;\n\nXVI - a permanência da possibilidade de atendimento presencial, de acordo com as características, a relevância e o público-alvo do serviço;\n\nXVII - a proteção de dados pessoais, nos termos da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais);\n\nXVIII - o cumprimento de compromissos e de padrões de qualidade divulgados na Carta de Serviços ao Usuário;\n\nXIX - a acessibilidade da pessoa com deficiência ou com mobilidade reduzida, nos termos da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência);\n\nXX - o estímulo a ações educativas para qualificação dos servidores públicos para o uso das tecnologias digitais e para a inclusão digital da população;\n\nXXI - o apoio técnico aos entes federados para implantação e adoção de estratégias que visem à transformação digital da administração pública;\n\nXXII - o estímulo ao uso das assinaturas eletrônicas nas interações e nas comunicações entre órgãos públicos e entre estes e os cidadãos;\n\nXXIII - a implantação do governo como plataforma e a promoção do uso de dados, preferencialmente anonimizados, por pessoas físicas e jurídicas de diferentes setores da sociedade, resguardado o disposto nos arts. 7º e 11 da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), com vistas, especialmente, à formulação de políticas públicas, de pesquisas científicas, de geração de negócios e de controle social;\n\nXXIV - o tratamento adequado a idosos, nos termos da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso);\n\nXXV - a adoção preferencial, no uso da internet e de suas aplicações, de tecnologias, de padrões e de formatos abertos e livres, conforme disposto no inciso V do caput do art. 24 e no art. 25 da Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet); e\n\nXXVI - a promoção do desenvolvimento tecnológico e da inovação no setor público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%203%C2%BA%20S%C3%A3o%20princ%C3%ADpios%20e%20diretrizes%20do%20Governo%20Digital%20e%20da%20efici%C3%AAncia%20p%C3%BAblica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Para os fins desta Lei, considera-se:\n\nI - (VETADO);\n\nII - autosserviço: acesso pelo cidadão a serviço público prestado por meio digital, sem necessidade de mediação humana;\n\nIII - base nacional de serviços públicos: base de dados que contém as informações necessárias sobre a oferta de serviços públicos de todos os prestadores desses serviços;\n\nIV - dados abertos: dados acessíveis ao público, representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na internet e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou tratamento por qualquer pessoa, física ou jurídica;\n\nV - dado acessível ao público: qualquer dado gerado ou acumulado pelos entes públicos que não esteja sob sigilo ou sob restrição de acesso nos termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação);\n\nVI - formato aberto: formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou de qualquer outra restrição legal quanto à sua utilização;\n\nVII - governo como plataforma: infraestrutura tecnológica que facilite o uso de dados de acesso público e promova a interação entre diversos agentes, de forma segura, eficiente e responsável, para estímulo à inovação, à exploração de atividade econômica e à prestação de serviços à população;\n\nVIII - laboratório de inovação: espaço aberto à participação e à colaboração da sociedade para o desenvolvimento de ideias, de ferramentas e de métodos inovadores para a gestão pública, a prestação de serviços públicos e a participação do cidadão para o exercício do controle sobre a administração pública;\n\nIX - plataformas de governo digital: ferramentas digitais e serviços comuns aos órgãos, normalmente ofertados de forma centralizada e compartilhada, necessárias para a oferta digital de serviços e de políticas públicas;\n\nX - registros de referência: informação íntegra e precisa oriunda de uma ou mais fontes de dados, centralizadas ou descentralizadas, sobre elementos fundamentais para a prestação de serviços e para a gestão de políticas públicas; e\n\nXI - transparência ativa: disponibilização de dados pela administração pública independentemente de solicitações.\n\nParágrafo único. Aplicam-se a esta Lei os conceitos da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%204%C2%BA%20Para%20os%20fins%20desta%20Lei%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A administração pública utilizará soluções digitais para a gestão de suas políticas finalísticas e administrativas e para o trâmite de processos administrativos eletrônicos.\n\nParágrafo único. Entes públicos que emitem atestados, certidões, diplomas ou outros documentos comprobatórios com validade legal poderão fazê-lo em meio digital, assinados eletronicamente na forma do art. 7º desta Lei e da Lei nº 14.063, de 23 de setembro de 2020.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%205%C2%BA%20A%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20utilizar%C3%A1%20solu%C3%A7%C3%B5es%20digitais%20para%20a%20gest%C3%A3o%20de%20suas%20pol%C3%ADticas%20final%C3%ADsticas%20e%20administrativas%20e%20para%20o%20tr%C3%A2mite%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Nos processos administrativos eletrônicos, os atos processuais deverão ser realizados em meio eletrônico, exceto se o usuário solicitar de forma diversa, nas situações em que esse procedimento for inviável, nos casos de indisponibilidade do meio eletrônico ou diante de risco de dano relevante à celeridade do processo.\n\nParágrafo único. No caso das exceções previstas no caput deste artigo, os atos processuais poderão ser praticados conforme as regras aplicáveis aos processos em papel, desde que posteriormente o documento-base correspondente seja digitalizado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%206%C2%BA%20Nos%20processos%20administrativos%20eletr%C3%B4nicos%2C%20os%20atos%20processuais%20dever%C3%A3o%20ser%20realizados%20em%20meio%20eletr%C3%B4nico%2C%20exceto%20se%20o%20usu%C3%A1rio%20solicitar%20de%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os documentos e os atos processuais serão válidos em meio digital mediante o uso de assinatura eletrônica, desde que respeitados parâmetros de autenticidade, de integridade e de segurança adequados para os níveis de risco em relação à criticidade da decisão, da informação ou do serviço específico, nos termos da lei.\n\n§ 1º Regulamento poderá dispor sobre o uso de assinatura avançada para os fins de que tratam os seguintes dispositivos:\n\nI - art. 2º-A da Lei nº 12.682, de 9 de julho de 2012;\n\nII - art. 289 da Lei nº 6.404, de 15 de dezembro de 1976;\n\nIII - art. 2º da Lei nº 13.787, de 27 de dezembro de 2018;\n\nIV - art. 282-A da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro);\n\nV - (VETADO);\n\nVI - art. 8º da Lei nº 12.618, de 30 de abril de 2012;\n\nVII - art. 38 da Lei nº 11.977, de 7 de julho de 2009.\n\n§ 2º O disposto neste artigo não se aplica às hipóteses legais de anonimato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%207%C2%BA%20Os%20documentos%20e%20os%20atos%20processuais%20ser%C3%A3o%20v%C3%A1lidos%20em%20meio%20digital%20mediante%20o%20uso%20de%20assinatura%20eletr%C3%B4nica%2C%20desde%20que%20respeitados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Os atos processuais em meio eletrônico consideram-se realizados no dia e na hora do recebimento pelo sistema informatizado de gestão de processo administrativo eletrônico do órgão ou da entidade, o qual deverá fornecer recibo eletrônico de protocolo que os identifique.\n\n§ 1º Quando o ato processual tiver que ser praticado em determinado prazo, por meio eletrônico, serão considerados tempestivos os efetivados, salvo disposição em contrário, até as 23h59 (vinte e três horas e cinquenta e nove minutos) do último dia do prazo, no horário de Brasília.\n\n§ 2º A regulamentação deverá dispor sobre os casos e as condições de prorrogação de prazos em virtude da indisponibilidade de sistemas informatizados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%208%C2%BA%20Os%20atos%20processuais%20em%20meio%20eletr%C3%B4nico%20consideram-se%20realizados%20no%20dia%20e%20na%20hora%20do%20recebimento%20pelo%20sistema%20informatizado%20de%20gest%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O acesso à íntegra do processo para vista pessoal do interessado poderá ocorrer por intermédio da disponibilização de sistema informatizado de gestão ou por acesso à cópia do documento, preferencialmente em meio eletrônico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%209%C2%BA%20O%20acesso%20%C3%A0%20%C3%ADntegra%20do%20processo%20para%20vista%20pessoal%20do%20interessado%20poder%C3%A1%20ocorrer%20por%20interm%C3%A9dio%20da%20disponibiliza%C3%A7%C3%A3o%20de%20sistema%20informatizado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A classificação da informação quanto ao grau de sigilo e a possibilidade de limitação do acesso aos servidores autorizados e aos interessados no processo observarão os termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e das demais normas vigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2010.%20A%20classifica%C3%A7%C3%A3o%20da%20informa%C3%A7%C3%A3o%20quanto%20ao%20grau%20de%20sigilo%20e%20a%20possibilidade%20de%20limita%C3%A7%C3%A3o%20do%20acesso%20aos%20servidores%20autorizados%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os documentos nato-digitais assinados eletronicamente na forma do art. 7º desta Lei são considerados originais para todos os efeitos legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2011.%20Os%20documentos%20nato-digitais%20assinados%20eletronicamente%20na%20forma%20do%20art.%207%C2%BA%20desta%20Lei%20s%C3%A3o%20considerados%20originais%20para%20todos%20os%20efeitos%20legais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O formato e o armazenamento dos documentos digitais deverão garantir o acesso e a preservação das informações, nos termos da legislação arquivística nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2012.%20O%20formato%20e%20o%20armazenamento%20dos%20documentos%20digitais%20dever%C3%A3o%20garantir%20o%20acesso%20e%20a%20preserva%C3%A7%C3%A3o%20das%20informa%C3%A7%C3%B5es%2C%20nos%20termos%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A guarda dos documentos digitais e dos processos administrativos eletrônicos considerados de valor permanente deverá estar de acordo com as normas previstas pela instituição arquivística pública responsável por sua custódia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2013.%20A%20guarda%20dos%20documentos%20digitais%20e%20dos%20processos%20administrativos%20eletr%C3%B4nicos%20considerados%20de%20valor%20permanente%20dever%C3%A1%20estar%20de%20acordo%20com%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A prestação digital dos serviços públicos deverá ocorrer por meio de tecnologias de amplo acesso pela população, inclusive pela de baixa renda ou residente em áreas rurais e isoladas, sem prejuízo do direito do cidadão a atendimento presencial.\n\nParágrafo único. O acesso à prestação digital dos serviços públicos será realizado, preferencialmente, por meio do autosserviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2014.%20A%20presta%C3%A7%C3%A3o%20digital%20dos%20servi%C3%A7os%20p%C3%BAblicos%20dever%C3%A1%20ocorrer%20por%20meio%20de%20tecnologias%20de%20amplo%20acesso%20pela%20popula%C3%A7%C3%A3o%2C%20inclusive%20pela%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A administração pública participará, de maneira integrada e cooperativa, da consolidação da Estratégia Nacional de Governo Digital, editada pelo Poder Executivo federal, que observará os princípios e as diretrizes de que trata o art. 3º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2015.%20A%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20participar%C3%A1%2C%20de%20maneira%20integrada%20e%20cooperativa%2C%20da%20consolida%C3%A7%C3%A3o%20da%20Estrat%C3%A9gia%20Nacional%20de%20Governo%20Digital%2C%20editada%20pelo%20Poder",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A administração pública de cada ente federado poderá editar estratégia de governo digital, no âmbito de sua competência, buscando a sua compatibilização com a estratégia federal e a de outros entes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2016.%20A%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20de%20cada%20ente%20federado%20poder%C3%A1%20editar%20estrat%C3%A9gia%20de%20governo%20digital%2C%20no%20%C3%A2mbito%20de%20sua%20compet%C3%AAncia%2C%20buscando%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O Poder Executivo federal poderá criar redes de conhecimento, com o objetivo de:\n\nI - gerar, compartilhar e disseminar conhecimento e experiências;\n\nII - formular propostas de padrões, políticas, guias e manuais;\n\nIII - discutir sobre os desafios enfrentados e as possibilidades de ação quanto ao Governo Digital e à eficiência pública;\n\nIV - prospectar novas tecnologias para facilitar a prestação de serviços públicos disponibilizados em meio digital, o fornecimento de informações e a participação social por meios digitais.\n\n§ 1º Poderão participar das redes de conhecimento todos os órgãos e as entidades referidos no art. 2º desta Lei, inclusive dos entes federados.\n\n§ 2º Serão assegurados às instituições científicas, tecnológicas e de inovação o acesso às redes de conhecimento e o estabelecimento de canal de comunicação permanente com o órgão federal a quem couber a coordenação das atividades previstas neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2017.%20O%20Poder%20Executivo%20federal%20poder%C3%A1%20criar%20redes%20de%20conhecimento%2C%20com%20o%20objetivo%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. São componentes essenciais para a prestação digital dos serviços públicos na administração pública:\n\nI - a Base Nacional de Serviços Públicos;\n\nII - as Cartas de Serviços ao Usuário, de que trata a Lei nº 13.460, de 26 de junho de 2017; e\n\nIII - as Plataformas de Governo Digital.\n\nSubseção II\n\nDa Base Nacional de Serviços Públicos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2018.%20S%C3%A3o%20componentes%20essenciais%20para%20a%20presta%C3%A7%C3%A3o%20digital%20dos%20servi%C3%A7os%20p%C3%BAblicos%20na%20administra%C3%A7%C3%A3o%20p%C3%BAblica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Poderá o Poder Executivo federal estabelecer Base Nacional de Serviços Públicos, que reunirá informações necessárias sobre a oferta de serviços públicos em cada ente federado.\n\nParágrafo único. Cada ente federado poderá disponibilizar as informações sobre a prestação de serviços públicos, conforme disposto nas suas Cartas de Serviços ao Usuário, na Base Nacional de Serviços Públicos, em formato aberto e interoperável e em padrão comum a todos os entes.\n\nSubseção III\n\nDas Plataformas de Governo Digital",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2019.%20Poder%C3%A1%20o%20Poder%20Executivo%20federal%20estabelecer%20Base%20Nacional%20de%20Servi%C3%A7os%20P%C3%BAblicos%2C%20que%20reunir%C3%A1%20informa%C3%A7%C3%B5es%20necess%C3%A1rias%20sobre%20a%20oferta%20de%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. As Plataformas de Governo Digital, instrumentos necessários para a oferta e a prestação digital dos serviços públicos de cada ente federativo, deverão ter pelo menos as seguintes funcionalidades:\n\nI - ferramenta digital de solicitação de atendimento e de acompanhamento da entrega dos serviços públicos; e\n\nII - painel de monitoramento do desempenho dos serviços públicos.\n\n§ 1º As Plataformas de Governo Digital deverão ser acessadas por meio de portal, de aplicativo ou de outro canal digital único e oficial, para a disponibilização de informações institucionais, notícias e prestação de serviços públicos.\n\n§ 2º As funcionalidades de que trata o caput deste artigo deverão observar padrões de interoperabilidade e a necessidade de integração de dados como formas de simplificação e de eficiência nos processos e no atendimento aos usuários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2020.%20As%20Plataformas%20de%20Governo%20Digital%2C%20instrumentos%20necess%C3%A1rios%20para%20a%20oferta%20e%20a%20presta%C3%A7%C3%A3o%20digital%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20cada%20ente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A ferramenta digital de atendimento e de acompanhamento da entrega dos serviços públicos de que trata o inciso I do caput do art. 20 desta Lei deve apresentar, no mínimo, as seguintes características e funcionalidades:\n\nI - identificação do serviço público e de suas principais etapas;\n\nII - solicitação digital do serviço;\n\nIII - agendamento digital, quando couber;\n\nIV - acompanhamento das solicitações por etapas;\n\nV - avaliação continuada da satisfação dos usuários em relação aos serviços públicos prestados;\n\nVI - identificação, quando necessária, e gestão do perfil pelo usuário;\n\nVII - notificação do usuário;\n\nVIII - possibilidade de pagamento digital de serviços públicos e de outras cobranças, quando necessário;\n\nIX - nível de segurança compatível com o grau de exigência, a natureza e a criticidade dos serviços públicos e dos dados utilizados;\n\nX - funcionalidade para solicitar acesso a informações acerca do tratamento de dados pessoais, nos termos das Leis nºs 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais); e\n\nXI - implementação de sistema de ouvidoria, nos termos da Lei nº 13.460, de 26 de junho de 2017.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2021.%20A%20ferramenta%20digital%20de%20atendimento%20e%20de%20acompanhamento%20da%20entrega%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20que%20trata%20o%20inciso%20I%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O painel de monitoramento do desempenho dos serviços públicos de que trata o inciso II do caput do art. 20 desta Lei deverá conter, no mínimo, as seguintes informações, para cada serviço público ofertado:\n\nI - quantidade de solicitações em andamento e concluídas anualmente;\n\nII - tempo médio de atendimento; e\n\nIII - grau de satisfação dos usuários.\n\nParágrafo único. Deverá ser assegurada interoperabilidade e padronização mínima do painel a que se refere o caput deste artigo, de modo a permitir a comparação entre as avaliações e os desempenhos dos serviços públicos prestados pelos diversos entes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2022.%20O%20painel%20de%20monitoramento%20do%20desempenho%20dos%20servi%C3%A7os%20p%C3%BAblicos%20de%20que%20trata%20o%20inciso%20II%20do%20caput%20do%20art.%2020",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Poderá o Poder Executivo federal:\n\nI - estabelecer padrões nacionais para as soluções previstas nesta Seção;\n\nII - disponibilizar soluções para outros entes que atendam ao disposto nesta Seção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2023.%20Poder%C3%A1%20o%20Poder%20Executivo%20federal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os órgãos e as entidades responsáveis pela prestação digital de serviços públicos deverão, no âmbito de suas competências:\n\nI - manter atualizadas:\n\na) as Cartas de Serviços ao Usuário, a Base Nacional de Serviços Públicos e as Plataformas de Governo Digital;\n\nb) as informações institucionais e as comunicações de interesse público;\n\nII - monitorar e implementar ações de melhoria dos serviços públicos prestados, com base nos resultados da avaliação de satisfação dos usuários dos serviços;\n\nIII - integrar os serviços públicos às ferramentas de notificação aos usuários, de assinatura eletrônica e de meios de pagamento digitais, quando aplicáveis;\n\nIV - eliminar, inclusive por meio da interoperabilidade de dados, as exigências desnecessárias ao usuário quanto à apresentação de informações e de documentos comprobatórios prescindíveis;\n\nV - eliminar a replicação de registros de dados, exceto por razões de desempenho ou de segurança;\n\nVI - tornar os dados da prestação dos serviços públicos sob sua responsabilidade interoperáveis para composição dos indicadores do painel de monitoramento do desempenho dos serviços públicos;\n\nVII - realizar a gestão das suas políticas públicas com base em dados e em evidências por meio da aplicação de inteligência de dados em plataforma digital; e\n\nVIII - realizar testes e pesquisas com os usuários para subsidiar a oferta de serviços simples, intuitivos, acessíveis e personalizados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2024.%20Os%20%C3%B3rg%C3%A3os%20e%20as%20entidades%20respons%C3%A1veis%20pela%20presta%C3%A7%C3%A3o%20digital%20de%20servi%C3%A7os%20p%C3%BAblicos%20dever%C3%A3o%2C%20no%20%C3%A2mbito%20de%20suas%20compet%C3%AAncias%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As Plataformas de Governo Digital devem dispor de ferramentas de transparência e de controle do tratamento de dados pessoais que sejam claras e facilmente acessíveis e que permitam ao cidadão o exercício dos direitos previstos na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).\n\n§ 1º As ferramentas previstas no caput deste artigo devem:\n\nI - disponibilizar, entre outras, as fontes dos dados pessoais, a finalidade específica do seu tratamento pelo respectivo órgão ou ente e a indicação de outros órgãos ou entes com os quais é realizado o uso compartilhado de dados pessoais, incluído o histórico de acesso ou uso compartilhado, ressalvados os casos previstos no inciso III do caput do art. 4º da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais);\n\nII - permitir que o cidadão efetue requisições ao órgão ou à entidade controladora dos seus dados, especialmente aquelas previstas no art. 18 da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).\n\n§ 2º A Autoridade Nacional de Proteção de Dados (ANPD) poderá editar normas complementares para regulamentar o disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2025.%20As%20Plataformas%20de%20Governo%20Digital%20devem%20dispor%20de%20ferramentas%20de%20transpar%C3%AAncia%20e%20de%20controle%20do%20tratamento%20de%20dados%20pessoais%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Presume-se a autenticidade de documentos apresentados por usuários dos serviços públicos ofertados por meios digitais, desde que o envio seja assinado eletronicamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2026.%20Presume-se%20a%20autenticidade%20de%20documentos%20apresentados%20por%20usu%C3%A1rios%20dos%20servi%C3%A7os%20p%C3%BAblicos%20ofertados%20por%20meios%20digitais%2C%20desde%20que%20o%20envio%20seja",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. São garantidos os seguintes direitos aos usuários da prestação digital de serviços públicos, além daqueles constantes das Leis nºs 13.460, de 26 de junho de 2017, e 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais):\n\nI - gratuidade no acesso às Plataformas de Governo Digital;\n\nII - atendimento nos termos da respectiva Carta de Serviços ao Usuário;\n\nIII - padronização de procedimentos referentes à utilização de formulários, de guias e de outros documentos congêneres, incluídos os de formato digital;\n\nIV - recebimento de protocolo, físico ou digital, das solicitações apresentadas; e\n\nV - indicação de canal preferencial de comunicação com o prestador público para o recebimento de notificações, de mensagens, de avisos e de outras comunicações relativas à prestação de serviços públicos e a assuntos de interesse público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2027.%20S%C3%A3o%20garantidos%20os%20seguintes%20direitos%20aos%20usu%C3%A1rios%20da%20presta%C3%A7%C3%A3o%20digital%20de%20servi%C3%A7os%20p%C3%BAblicos%2C%20al%C3%A9m%20daqueles%20constantes%20das%20Leis%20n%C2%BAs%2013.460%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Fica estabelecido o número de inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ) como número suficiente para identificação do cidadão ou da pessoa jurídica, conforme o caso, nos bancos de dados de serviços públicos, garantida a gratuidade da inscrição e das alterações nesses cadastros.\n\n§ 1º O número de inscrição no CPF deverá constar dos cadastros e dos documentos de órgãos públicos, do registro civil de pessoas naturais, dos documentos de identificação de conselhos profissionais e, especialmente, dos seguintes cadastros e documentos:\n\nI - certidão de nascimento;\n\nII - certidão de casamento;\n\nIII - certidão de óbito;\n\nIV - Documento Nacional de Identificação (DNI);\n\nV - Número de Identificação do Trabalhador (NIT);\n\nVI - registro no Programa de Integração Social (PIS) ou no Programa de Formação do Patrimônio do Servidor Público (Pasep);\n\nVII - Cartão Nacional de Saúde;\n\nVIII - título de eleitor;\n\nIX - Carteira de Trabalho e Previdência Social (CTPS);\n\nX - Carteira Nacional de Habilitação (CNH) ou Permissão para Dirigir;\n\nXI - certificado militar;\n\nXII - carteira profissional expedida pelos conselhos de fiscalização de profissão regulamentada;\n\nXIII - passaporte;\n\nXIV - carteiras de identidade de que trata a Lei nº 7.116, de 29 de agosto de 1983; e\n\nXV - outros certificados de registro e números de inscrição existentes em bases de dados públicas federais, estaduais, distritais e municipais.\n\n§ 2º A inclusão do número de inscrição no CPF nos cadastros e nos documentos de que trata o § 1º deste artigo ocorrerá sempre que a instituição responsável pelos cadastros e pelos documentos tiver acesso a documento comprobatório ou à base de dados administrada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.\n\n§ 3º A incorporação do número de inscrição no CPF à carteira de identidade será precedida de consulta à base de dados administrada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia e de validação de acordo com essa base de dados.\n\n§ 4º Na hipótese de o requerente da carteira de identidade não estar inscrito no CPF, o órgão de identificação realizará a sua inscrição, caso tenha integração com a base de dados da Secretaria Especial da Receita Federal do Brasil do Ministério Economia.\n\n§ 5º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2028.%20Fica%20estabelecido%20o%20n%C3%BAmero%20de%20inscri%C3%A7%C3%A3o%20no%20Cadastro%20de%20Pessoas%20F%C3%ADsicas%20%28CPF%29%20ou%20no%20Cadastro%20Nacional%20da%20Pessoa%20Jur%C3%ADdica%20%28CNPJ%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os dados disponibilizados pelos prestadores de serviços públicos, bem como qualquer informação de transparência ativa, são de livre utilização pela sociedade, observados os princípios dispostos no art. 6º da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).\n\n§ 1º Na promoção da transparência ativa de dados, o poder público deverá observar os seguintes requisitos:\n\nI - observância da publicidade das bases de dados não pessoais como preceito geral e do sigilo como exceção;\n\nII - garantia de acesso irrestrito aos dados, os quais devem ser legíveis por máquina e estar disponíveis em formato aberto, respeitadas as Leis nºs 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais);\n\nIII - descrição das bases de dados com informação suficiente sobre estrutura e semântica dos dados, inclusive quanto à sua qualidade e à sua integridade;\n\nIV - permissão irrestrita de uso de bases de dados publicadas em formato aberto;\n\nV - completude de bases de dados, as quais devem ser disponibilizadas em sua forma primária, com o maior grau de granularidade possível, ou referenciar bases primárias, quando disponibilizadas de forma agregada;\n\nVI - atualização periódica, mantido o histórico, de forma a garantir a perenidade de dados, a padronização de estruturas de informação e o valor dos dados à sociedade e a atender às necessidades de seus usuários;\n\nVII - (VETADO);\n\nVIII - respeito à privacidade dos dados pessoais e dos dados sensíveis, sem prejuízo dos demais requisitos elencados, conforme a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais);\n\nIX - intercâmbio de dados entre órgãos e entidades dos diferentes Poderes e esferas da Federação, respeitado o disposto no art. 26 da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais); e\n\nX - fomento ao desenvolvimento de novas tecnologias destinadas à construção de ambiente de gestão pública participativa e democrática e à melhor oferta de serviços públicos.\n\n§ 2º Sem prejuízo da legislação em vigor, os órgãos e as entidades previstos no art. 2º desta Lei deverão divulgar na internet:\n\nI - o orçamento anual de despesas e receitas públicas do Poder ou órgão independente;\n\nII - a execução das despesas e receitas públicas, nos termos dos arts. 48 e 48-A da Lei Complementar nº 101, de 4 de maio de 2000;\n\nIII - os repasses de recursos federais aos Estados, aos Municípios e ao Distrito Federal;\n\nIV - os convênios e as operações de descentralização de recursos orçamentários em favor de pessoas naturais e de organizações não governamentais de qualquer natureza;\n\nV - as licitações e as contratações realizadas pelo Poder ou órgão independente;\n\nVI - as notas fiscais eletrônicas relativas às compras públicas;\n\nVII - as informações sobre os servidores e os empregados públicos federais, bem como sobre os militares da União, incluídos nome e detalhamento dos vínculos profissionais e de remuneração;\n\nVIII - as viagens a serviço custeadas pelo Poder ou órgão independente;\n\nIX - as sanções administrativas aplicadas a pessoas, a empresas, a organizações não governamentais e a servidores públicos;\n\nX - os currículos dos ocupantes de cargos de chefia e direção;\n\nXI - o inventário de bases de dados produzidos ou geridos no âmbito do órgão ou instituição, bem como catálogo de dados abertos disponíveis;\n\nXII - as concessões de recursos financeiros ou as renúncias de receitas para pessoas físicas ou jurídicas, com vistas ao desenvolvimento político, econômico, social e cultural, incluída a divulgação dos valores recebidos, da contrapartida e dos objetivos a serem alcançados por meio da utilização desses recursos e, no caso das renúncias individualizadas, dos dados dos beneficiários.\n\n§ 3º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2029.%20Os%20dados%20disponibilizados%20pelos%20prestadores%20de%20servi%C3%A7os%20p%C3%BAblicos%2C%20bem%20como%20qualquer%20informa%C3%A7%C3%A3o%20de%20transpar%C3%AAncia%20ativa%2C%20s%C3%A3o%20de%20livre%20utiliza%C3%A7%C3%A3o%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Qualquer interessado poderá apresentar pedido de abertura de bases de dados da administração pública, que deverá conter os dados de contato do requerente e a especificação da base de dados requerida.\n\n§ 1º O requerente poderá solicitar a preservação de sua identidade quando entender que sua identificação prejudicará o princípio da impessoalidade, caso em que o canal responsável deverá resguardar os dados sem repassá-los ao setor, ao órgão ou à entidade responsável pela resposta.\n\n§ 2º Os procedimentos e os prazos previstos para o processamento de pedidos de acesso à informação, nos termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), aplicam-se às solicitações de abertura de bases de dados da administração pública.\n\n§ 3º Para a abertura de base de dados de interesse público, as informações para identificação do requerente não podem conter exigências que inviabilizem o exercício de seu direito.\n\n§ 4º São vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de abertura de base de dados públicos.\n\n§ 5º Os pedidos de abertura de base de dados públicos, bem como as respectivas respostas, deverão compor base de dados aberta de livre consulta.\n\n§ 6º Consideram-se automaticamente passíveis de abertura as bases de dados que não contenham informações protegidas por lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2030.%20Qualquer%20interessado%20poder%C3%A1%20apresentar%20pedido%20de%20abertura%20de%20bases%20de%20dados%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%2C%20que%20dever%C3%A1%20conter%20os%20dados%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Compete a cada ente federado monitorar a aplicação, o cumprimento dos prazos e os procedimentos para abertura dos dados sob seu controle.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2031.%20Compete%20a%20cada%20ente%20federado%20monitorar%20a%20aplica%C3%A7%C3%A3o%2C%20o%20cumprimento%20dos%20prazos%20e%20os%20procedimentos%20para%20abertura%20dos%20dados%20sob",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2032.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A solicitação de abertura da base de dados será considerada atendida a partir da notificação ao requerente sobre a disponibilização e a catalogação da base de dados para acesso público no site oficial do órgão ou da entidade na internet.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2033.%20A%20solicita%C3%A7%C3%A3o%20de%20abertura%20da%20base%20de%20dados%20ser%C3%A1%20considerada%20atendida%20a%20partir%20da%20notifica%C3%A7%C3%A3o%20ao%20requerente%20sobre%20a%20disponibiliza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. É direito do requerente obter o inteiro teor da decisão negativa de abertura de base de dados.\n\nParágrafo único. Eventual decisão negativa à solicitação de abertura de base de dados ou decisão de prorrogação de prazo, em razão de custos desproporcionais ou não previstos pelo órgão ou pela entidade da administração pública, deverá ser acompanhada da devida análise técnica que conclua pela inviabilidade orçamentária da solicitação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2034.%20%C3%89%20direito%20do%20requerente%20obter%20o%20inteiro%20teor%20da%20decis%C3%A3o%20negativa%20de%20abertura%20de%20base%20de%20dados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2035.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os órgãos gestores de dados poderão disponibilizar em transparência ativa dados de pessoas físicas e jurídicas para fins de pesquisa acadêmica e de monitoramento e de avaliação de políticas públicas, desde que anonimizados antes de sua disponibilização os dados protegidos por sigilo ou com restrição de acesso prevista, nos termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2036.%20Os%20%C3%B3rg%C3%A3os%20gestores%20de%20dados%20poder%C3%A3o%20disponibilizar%20em%20transpar%C3%AAncia%20ativa%20dados%20de%20pessoas%20f%C3%ADsicas%20e%20jur%C3%ADdicas%20para%20fins%20de%20pesquisa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Aplica-se subsidiariamente, no que couber, as disposições da Lei nº 9.784, de 29 de janeiro de 1999, ao procedimento de que trata este Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2037.%20Aplica-se%20subsidiariamente%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20da%20Lei%20n%C2%BA%209.784%2C%20de%2029%20de%20janeiro%20de%201999%2C%20ao%20procedimento%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os órgãos e as entidades responsáveis pela prestação digital de serviços públicos detentores ou gestores de bases de dados, inclusive os controladores de dados pessoais, conforme estabelecido pela Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), deverão gerir suas ferramentas digitais, considerando:\n\nI - a interoperabilidade de informações e de dados sob gestão dos órgãos e das entidades referidos no art. 2º desta Lei, respeitados as restrições legais, os requisitos de segurança da informação e das comunicações, as limitações tecnológicas e a relação custo-benefício da interoperabilidade;\n\nII - a otimização dos custos de acesso a dados e o reaproveitamento, sempre que possível, de recursos de infraestrutura de acesso a dados por múltiplos órgãos e entidades;\n\nIII - a proteção de dados pessoais, observada a legislação vigente, especialmente a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2038.%20Os%20%C3%B3rg%C3%A3os%20e%20as%20entidades%20respons%C3%A1veis%20pela%20presta%C3%A7%C3%A3o%20digital%20de%20servi%C3%A7os%20p%C3%BAblicos%20detentores%20ou%20gestores%20de%20bases%20de%20dados%2C%20inclusive",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Será instituído mecanismo de interoperabilidade com a finalidade de:\n\nI - aprimorar a gestão de políticas públicas;\n\nII - aumentar a confiabilidade dos cadastros de cidadãos existentes na administração pública, por meio de mecanismos de manutenção da integridade e da segurança da informação no tratamento das bases de dados, tornando-as devidamente qualificadas e consistentes;\n\nIII - viabilizar a criação de meios unificados de identificação do cidadão para a prestação de serviços públicos;\n\nIV - facilitar a interoperabilidade de dados entre os órgãos de governo;\n\nV - realizar o tratamento de informações das bases de dados a partir do número de inscrição do cidadão no CPF, conforme previsto no art. 11 da Lei nº 13.444, de 11 de maio de 2017.\n\nParágrafo único. Aplicam-se aos dados pessoais tratados por meio de mecanismos de interoperabilidade as disposições da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2039.%20Ser%C3%A1%20institu%C3%ADdo%20mecanismo%20de%20interoperabilidade%20com%20a%20finalidade%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os órgãos abrangidos por esta Lei serão responsáveis pela publicidade de seus registros de referência e pelos mecanismos de interoperabilidade de que trata esta Seção.\n\n§ 1º As pessoas físicas e jurídicas poderão verificar a exatidão, a correção e a completude de qualquer um dos seus dados contidos nos registros de referência, bem como monitorar o acesso a esses dados.\n\n§ 2º Nova base de dados somente poderá ser criada quando forem esgotadas as possibilidades de utilização dos registros de referência existentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2040.%20Os%20%C3%B3rg%C3%A3os%20abrangidos%20por%20esta%20Lei%20ser%C3%A3o%20respons%C3%A1veis%20pela%20publicidade%20de%20seus%20registros%20de%20refer%C3%AAncia%20e%20pelos%20mecanismos%20de%20interoperabilidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. É de responsabilidade dos órgãos e das entidades referidos no art. 2º desta Lei os custos de adaptação de seus sistemas e de suas bases de dados para a implementação da interoperabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2041.%20%C3%89%20de%20responsabilidade%20dos%20%C3%B3rg%C3%A3os%20e%20das%20entidades%20referidos%20no%20art.%202%C2%BA%20desta%20Lei%20os%20custos%20de%20adapta%C3%A7%C3%A3o%20de%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os órgãos e as entidades referidos no art. 2º desta Lei, mediante opção do usuário, poderão realizar todas as comunicações, as notificações e as intimações por meio eletrônico.\n\n§ 1º O disposto no caput deste artigo não gera direito subjetivo à opção pelo administrado caso os meios não estejam disponíveis.\n\n§ 2º O administrado poderá, a qualquer momento e independentemente de fundamentação, optar pelo fim das comunicações, das notificações e das intimações por meio eletrônico.\n\n§ 3º O ente público poderá realizar as comunicações, as notificações e as intimações por meio de ferramenta mantida por outro ente público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2042.%20Os%20%C3%B3rg%C3%A3os%20e%20as%20entidades%20referidos%20no%20art.%202%C2%BA%20desta%20Lei%2C%20mediante%20op%C3%A7%C3%A3o%20do%20usu%C3%A1rio%2C%20poder%C3%A3o%20realizar%20todas%20as%20comunica%C3%A7%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. As ferramentas usadas para os atos de que trata o art. 42 desta Lei:\n\nI - disporão de meios que permitam comprovar a autoria das comunicações, das notificações e das intimações;\n\nII - terão meios de comprovação de emissão e de recebimento, ainda que não de leitura, das comunicações, das notificações e das intimações;\n\nIII - poderão ser utilizadas mesmo que legislação especial preveja apenas as comunicações, as notificações e as intimações pessoais ou por via postal;\n\nIV - serão passíveis de auditoria;\n\nV - conservarão os dados de envio e de recebimento por, pelo menos, 5 (cinco) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2043.%20As%20ferramentas%20usadas%20para%20os%20atos%20de%20que%20trata%20o%20art.%2042%20desta%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Os entes públicos poderão instituir laboratórios de inovação, abertos à participação e à colaboração da sociedade para o desenvolvimento e a experimentação de conceitos, de ferramentas e de métodos inovadores para a gestão pública, a prestação de serviços públicos, o tratamento de dados produzidos pelo poder público e a participação do cidadão no controle da administração pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2044.%20Os%20entes%20p%C3%BAblicos%20poder%C3%A3o%20instituir%20laborat%C3%B3rios%20de%20inova%C3%A7%C3%A3o%2C%20abertos%20%C3%A0%20participa%C3%A7%C3%A3o%20e%20%C3%A0%20colabora%C3%A7%C3%A3o%20da%20sociedade%20para%20o%20desenvolvimento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os laboratórios de inovação terão como diretrizes:\n\nI - colaboração interinstitucional e com a sociedade;\n\nII - promoção e experimentação de tecnologias abertas e livres;\n\nIII - uso de práticas de desenvolvimento e prototipação de softwares e de métodos ágeis para formulação e implementação de políticas públicas;\n\nIV - foco na sociedade e no cidadão;\n\nV - fomento à participação social e à transparência pública;\n\nVI - incentivo à inovação;\n\nVII - apoio ao empreendedorismo inovador e fomento a ecossistema de inovação tecnológica direcionado ao setor público;\n\nVIII - apoio a políticas públicas orientadas por dados e com base em evidências, a fim de subsidiar a tomada de decisão e de melhorar a gestão pública;\n\nIX - estímulo à participação de servidores, de estagiários e de colaboradores em suas atividades;\n\nX - difusão de conhecimento no âmbito da administração pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2045.%20Os%20laborat%C3%B3rios%20de%20inova%C3%A7%C3%A3o%20ter%C3%A3o%20como%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2046.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Caberá à autoridade competente dos órgãos e das entidades referidos no art. 2º desta Lei, observados as normas e os procedimentos específicos aplicáveis, implementar e manter mecanismos, instâncias e práticas de governança, em consonância com os princípios e as diretrizes estabelecidos nesta Lei.\n\nParágrafo único. Os mecanismos, as instâncias e as práticas de governança referidos no caput deste artigo incluirão, no mínimo:\n\nI - formas de acompanhamento de resultados;\n\nII - soluções para a melhoria do desempenho das organizações;\n\nIII - instrumentos de promoção do processo decisório fundamentado em evidências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2047.%20Caber%C3%A1%20%C3%A0%20autoridade%20competente%20dos%20%C3%B3rg%C3%A3os%20e%20das%20entidades%20referidos%20no%20art.%202%C2%BA%20desta%20Lei%2C%20observados%20as%20normas%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os órgãos e as entidades a que se refere o art. 2º desta Lei deverão estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e de controle interno com vistas à identificação, à avaliação, ao tratamento, ao monitoramento e à análise crítica de riscos da prestação digital de serviços públicos que possam impactar a consecução dos objetivos da organização no cumprimento de sua missão institucional e na proteção dos usuários, observados os seguintes princípios:\n\nI - integração da gestão de riscos ao processo de planejamento estratégico e aos seus desdobramentos, às atividades, aos processos de trabalho e aos projetos em todos os níveis da organização, relevantes para a execução da estratégia e o alcance dos objetivos institucionais;\n\nII - estabelecimento de controles internos proporcionais aos riscos, de modo a considerar suas causas, fontes, consequências e impactos, observada a relação custo-benefício;\n\nIII - utilização dos resultados da gestão de riscos para apoio à melhoria contínua do desempenho e dos processos de governança, de gestão de riscos e de controle;\n\nIV - proteção às liberdades civis e aos direitos fundamentais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2048.%20Os%20%C3%B3rg%C3%A3os%20e%20as%20entidades%20a%20que%20se%20refere%20o%20art.%202%C2%BA%20desta%20Lei%20dever%C3%A3o%20estabelecer%2C%20manter%2C%20monitorar%20e%20aprimorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A auditoria interna governamental deverá adicionar valor e melhorar as operações das organizações para o alcance de seus objetivos, mediante a abordagem sistemática e disciplinada para avaliar e melhorar a eficácia dos processos de governança, de gestão de riscos e de controle, por meio da:\n\nI - realização de trabalhos de avaliação e consultoria de forma independente, conforme os padrões de auditoria e de ética profissional reconhecidos internacionalmente;\n\nII - adoção de abordagem baseada em risco para o planejamento de suas atividades e para a definição do escopo, da natureza, da época e da extensão dos procedimentos de auditoria;\n\nIII - promoção da prevenção, da detecção e da investigação de fraudes praticadas por agentes públicos ou privados na utilização de recursos públicos federais.\n\nCAPÍTULO VIII\n\nDISPOSIÇÕES FINAIS",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2049.%20A%20auditoria%20interna%20governamental%20dever%C3%A1%20adicionar%20valor%20e%20melhorar%20as%20opera%C3%A7%C3%B5es%20das%20organiza%C3%A7%C3%B5es%20para%20o%20alcance%20de%20seus%20objetivos%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. O acesso e a conexão para o uso de serviços públicos poderão ser garantidos total ou parcialmente pelo governo, com o objetivo de promover o acesso universal à prestação digital dos serviços públicos e a redução de custos aos usuários, nos termos da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2050.%20O%20acesso%20e%20a%20conex%C3%A3o%20para%20o%20uso%20de%20servi%C3%A7os%20p%C3%BAblicos%20poder%C3%A3o%20ser%20garantidos%20total%20ou%20parcialmente%20pelo%20governo%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O art. 3º da Lei nº 7.116, de 29 de agosto de 1983, passa a vigorar com a seguinte redação:\n\n“Art. 3º . ..............................................................................................................\n\n.............................................................................................................................\n\ng) assinatura do dirigente do órgão expedidor;\n\nh) número de inscrição no Cadastro de Pessoas Físicas (CPF).\n\n§ 1º A inclusão do número de inscrição no CPF na Carteira de Identidade, conforme disposto na alínea “h” do caput deste artigo, ocorrerá sempre que o órgão de identificação tiver acesso a documento comprobatório ou à base de dados administrada pela Secretaria Especial da Receita Federal do Brasil.\n\n§ 2º A incorporação do número de inscrição no CPF à Carteira de Identidade será precedida de consulta e de validação com a base de dados administrada pela Secretaria Especial da Receita Federal do Brasil.\n\n§ 3º Na hipótese de o requerente da Carteira de Identidade não estar inscrito no CPF, o órgão de identificação realizará a sua inscrição, caso tenha autorização da Secretaria Especial da Receita Federal do Brasil.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2051.%20O%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%207.116%2C%20de%2029%20de%20agosto%20de%201983%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O art. 12 da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), passa vigorar com a seguinte redação:\n\n“Art. 12. O serviço de busca e de fornecimento de informação é gratuito.\n\n§ 1º O órgão ou a entidade poderá cobrar exclusivamente o valor necessário ao ressarcimento dos custos dos serviços e dos materiais utilizados, quando o serviço de busca e de fornecimento da informação exigir reprodução de documentos pelo órgão ou pela entidade pública consultada.\n\n§ 2º Estará isento de ressarcir os custos previstos no § 1º deste artigo aquele cuja situação econômica não lhe permita fazê-lo sem prejuízo do sustento próprio ou da família, declarada nos termos da Lei nº 7.115, de 29 de agosto de 1983.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2052.%20O%20art.%2012%20da%20Lei%20n%C2%BA%2012.527%2C%20de%2018%20de%20novembro%20de%202011%20%28Lei%20de%20Acesso%20%C3%A0%20Informa%C3%A7%C3%A3o%29%2C%20passa%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O caput do art. 3º da Lei nº 12.682, de 9 de julho de 2012, passa a vigorar com a seguinte redação:\n\n“Art. 3º O processo de digitalização deverá ser realizado de forma a manter a integridade, a autenticidade e, se necessário, a confidencialidade do documento digital, com o emprego de assinatura eletrônica.\n\n...............................................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2053.%20O%20caput%20do%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%2012.682%2C%20de%209%20de%20julho%20de%202012%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. A Lei nº 13.460, de 26 de junho de 2017, passa a vigorar com as seguintes alterações:\n\n“Art. 7º . .................................................................................................................\n\n.................................................................................................................................\n\n§ 6º Compete a cada ente federado disponibilizar as informações dos serviços prestados, conforme disposto nas suas Cartas de Serviços ao Usuário, na Base Nacional de Serviços Públicos, mantida pelo Poder Executivo federal, em formato aberto e interoperável, nos termos do regulamento do Poder Executivo federal.” (NR)\n\n“Art. 10-A. Para fins de acesso a informações e serviços, de exercício de direitos e obrigações ou de obtenção de benefícios perante os órgãos e as entidades federais, estaduais, distritais e municipais ou os serviços públicos delegados, a apresentação de documento de identificação com fé pública em que conste o número de inscrição no Cadastro de Pessoas Físicas (CPF) será suficiente para identificação do cidadão, dispensada a apresentação de qualquer outro documento.\n\n§ 1º Os cadastros, os formulários, os sistemas e outros instrumentos exigidos dos usuários para a prestação de serviço público deverão disponibilizar campo para registro do número de inscrição no CPF, de preenchimento obrigatório para cidadãos brasileiros e estrangeiros residentes no Brasil, que será suficiente para sua identificação, vedada a exigência de apresentação de qualquer outro número para esse fim.\n\n§ 2º O número de inscrição no CPF poderá ser declarado pelo usuário do serviço público, desde que acompanhado de documento de identificação com fé pública, nos termos da lei.\n\n§ 3º Ato de cada ente federativo ou Poder poderá dispor sobre casos excepcionais ao previsto no caput deste artigo.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2054.%20A%20Lei%20n%C2%BA%2013.460%2C%20de%2026%20de%20junho%20de%202017%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Esta Lei entra em vigor após decorridos:\n\nI - 90 (noventa) dias de sua publicação oficial, para a União;\n\nII - 120 (cento e vinte) dias de sua publicação oficial, para os Estados e o Distrito Federal;\n\nIII - 180 (cento e oitenta) dias de sua publicação oficial, para os Municípios.\n\nBrasília, 29 de março de 2021; 200o da Independência e 133o da República.\n\nJAIR MESSIAS BOLSONARO\n\nAndré Luiz de Almeida Mendonça\n\nPaulo Guedes\n\nMarcos César Pontes\n\nWagner de Campos Rosário\n\nOnyx Lorenzoni\n\nEste texto não substitui o publicado no DOU de 30.3.2021 e republicado em 14.4.2021\n\nLEI Nº 14.129, DE 29 DE MARÇO DE 2021\n\nDispõe sobre princípios, regras e instrumentos para o Governo Digital e para o aumento da eficiência pública e altera a Lei nº 7.116, de 29 de agosto de 1983, a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), a Lei nº 12.682, de 9 de julho de 2012, e a Lei nº 13.460, de 26 de junho de 2017.\n\nO PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5o do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei no 14.129, de 29 de março de 2021:\n\n“Art. 32. A existência de inconsistências na base de dados não poderá obstar o atendimento da solicitação de abertura.”\n\n“Art. 35. No caso de indeferimento de abertura de base de dados, poderá o interessado interpor recurso contra a decisão no prazo de 10 (dez) dias, contado de sua ciência.\n\nParágrafo único. O recurso será dirigido à autoridade hierarquicamente superior à que exarou a decisão impugnada, que deverá manifestar-se no prazo de 5 (cinco) dias.”\n\nBrasília, 10 de junho de 2021; 200o da Independência e 133o da República.\n\nJAIR MESSIAS BOLSONARO\n\nEste texto não substitui o publicado no DOU de 11.6.2021\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm#:~:text=Art.%2055.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": null
+    }
+  }
+}

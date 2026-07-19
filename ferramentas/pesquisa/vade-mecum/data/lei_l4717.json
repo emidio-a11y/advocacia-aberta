@@ -1,0 +1,367 @@
+{
+  "_meta": {
+    "codigo": "L4717",
+    "nome": "Ação Popular",
+    "lei": "Lei 4.717/1965",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm",
+    "total_artigos": 22,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Qualquer cidadão será parte legítima para pleitear a anulação ou a declaração de nulidade de atos lesivos ao patrimônio da União, do Distrito Federal, dos Estados, dos Municípios, de entidades autárquicas, de sociedades de economia mista (Constituição, art. 141, § 38), de sociedades mútuas de seguro nas quais a União represente os segurados ausentes, de empresas públicas, de serviços sociais autônomos, de instituições ou fundações para cuja criação ou custeio o tesouro público haja concorrido ou concorra com mais de cinqüenta por cento do patrimônio ou da receita ânua, de empresas incorporadas ao patrimônio da União, do Distrito Federal, dos Estados e dos Municípios, e de quaisquer pessoas jurídicas ou entidades subvencionadas pelos cofres públicos.\n\n§ 1º Consideram-se patrimônio público, para os fins referidos neste artigo, os bens e direitos de valor econômico, artístico, estético ou histórico.\n\n§ 1º - Consideram-se patrimônio público para os fins referidos neste artigo, os bens e direitos de valor econômico, artístico, estético, histórico ou turístico. (Redação dada pela Lei nº 6.513, de 1977)\n\n§ 2º Em se tratando de instituições ou fundações, para cuja criação ou custeio o tesouro público concorra com menos de cinqüenta por cento do patrimônio ou da receita ânua, bem como de pessoas jurídicas ou entidades subvencionadas, as conseqüências patrimoniais da invalidez dos atos lesivos terão por limite a repercussão deles sobre a contribuição dos cofres públicos.\n\n§ 3º A prova da cidadania, para ingresso em juízo, será feita com o título eleitoral, ou com documento que a ele corresponda.\n\n§ 4º Para instruir a inicial, o cidadão poderá requerer às entidades, a que se refere este artigo, as certidões e informações que julgar necessárias, bastando para isso indicar a finalidade das mesmas.\n\n§ 5º As certidões e informações, a que se refere o parágrafo anterior, deverão ser fornecidas dentro de 15 (quinze) dias da entrega, sob recibo, dos respectivos requerimentos, e só poderão ser utilizadas para a instrução de ação popular.\n\n§ 6º Somente nos casos em que o interesse público, devidamente justificado, impuser sigilo, poderá ser negada certidão ou informação.\n\n§ 7º Ocorrendo a hipótese do parágrafo anterior, a ação poderá ser proposta desacompanhada das certidões ou informações negadas, cabendo ao juiz, após apreciar os motivos do indeferimento, e salvo em se tratando de razão de segurança nacional, requisitar umas e outras; feita a requisição, o processo correrá em segredo de justiça, que cessará com o trânsito em julgado de sentença condenatória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%201%C2%BA%20Qualquer%20cidad%C3%A3o%20ser%C3%A1%20parte%20leg%C3%ADtima%20para%20pleitear%20a%20anula%C3%A7%C3%A3o%20ou%20a%20declara%C3%A7%C3%A3o%20de%20nulidade%20de%20atos%20lesivos%20ao%20patrim%C3%B4nio%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º São nulos os atos lesivos ao patrimônio das entidades mencionadas no artigo anterior, nos casos de:\n\na) incompetência;\n\nb) vício de forma;\n\nc) ilegalidade do objeto;\n\nd) inexistência dos motivos;\n\ne) desvio de finalidade.\n\nParágrafo único. Para a conceituação dos casos de nulidade observar-se-ão as seguintes normas:\n\na) a incompetência fica caracterizada quando o ato não se incluir nas atribuições legais do agente que o praticou;\n\nb) o vício de forma consiste na omissão ou na observância incompleta ou irregular de formalidades indispensáveis à existência ou seriedade do ato;\n\nc) a ilegalidade do objeto ocorre quando o resultado do ato importa em violação de lei, regulamento ou outro ato normativo;\n\nd) a inexistência dos motivos se verifica quando a matéria de fato ou de direito, em que se fundamenta o ato, é materialmente inexistente ou juridicamente inadequada ao resultado obtido;\n\ne) o desvio de finalidade se verifica quando o agente pratica o ato visando a fim diverso daquele previsto, explícita ou implicitamente, na regra de competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%202%C2%BA%20S%C3%A3o%20nulos%20os%20atos%20lesivos%20ao%20patrim%C3%B4nio%20das%20entidades%20mencionadas%20no%20artigo%20anterior%2C%20nos%20casos%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Os atos lesivos ao patrimônio das pessoas de direito público ou privado, ou das entidades mencionadas no art. 1º, cujos vícios não se compreendam nas especificações do artigo anterior, serão anuláveis, segundo as prescrições legais, enquanto compatíveis com a natureza deles.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%203%C2%BA%20Os%20atos%20lesivos%20ao%20patrim%C3%B4nio%20das%20pessoas%20de%20direito%20p%C3%BAblico%20ou%20privado%2C%20ou%20das%20entidades%20mencionadas%20no%20art.%201%C2%BA%2C%20cujos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º São também nulos os seguintes atos ou contratos, praticados ou celebrados por quaisquer das pessoas ou entidades referidas no art. 1º.\n\nI - A admissão ao serviço público remunerado, com desobediência, quanto às condições de habilitação, das normas legais, regulamentares ou constantes de instruções gerais.\n\nII - A operação bancária ou de crédito real, quando:\n\na) for realizada com desobediência a normas legais, regulamentares, estatutárias, regimentais ou internas;\n\nb) o valor real do bem dado em hipoteca ou penhor for inferior ao constante de escritura, contrato ou avaliação.\n\nIII - A empreitada, a tarefa e a concessão do serviço público, quando:\n\na) o respectivo contrato houver sido celebrado sem prévia concorrência pública ou administrativa, sem que essa condição seja estabelecida em lei, regulamento ou norma geral;\n\nb) no edital de concorrência forem incluídas cláusulas ou condições, que comprometam o seu caráter competitivo;\n\nc) a concorrência administrativa for processada em condições que impliquem na limitação das possibilidades normais de competição.\n\nIV - As modificações ou vantagens, inclusive prorrogações que forem admitidas, em favor do adjudicatário, durante a execução dos contratos de empreitada, tarefa e concessão de serviço público, sem que estejam previstas em lei ou nos respectivos instrumentos.,\n\nV - A compra e venda de bens móveis ou imóveis, nos casos em que não cabível concorrência pública ou administrativa, quando:\n\na) for realizada com desobediência a normas legais, regulamentares, ou constantes de instruções gerais;\n\nb) o preço de compra dos bens for superior ao corrente no mercado, na época da operação;\n\nc) o preço de venda dos bens for inferior ao corrente no mercado, na época da operação.\n\nVI - A concessão de licença de exportação ou importação, qualquer que seja a sua modalidade, quando:\n\na) houver sido praticada com violação das normas legais e regulamentares ou de instruções e ordens de serviço;\n\nb) resultar em exceção ou privilégio, em favor de exportador ou importador.\n\nVII - A operação de redesconto quando sob qualquer aspecto, inclusive o limite de valor, desobedecer a normas legais, regulamentares ou constantes de instruções gerais.\n\nVIII - O empréstimo concedido pelo Banco Central da República, quando:\n\na) concedido com desobediência de quaisquer normas legais, regulamentares,, regimentais ou constantes de instruções gerias:\n\nb) o valor dos bens dados em garantia, na época da operação, for inferior ao da avaliação.\n\nIX - A emissão, quando efetuada sem observância das normas constitucionais, legais e regulamentadoras que regem a espécie.\n\nDA COMPETÊNCIA",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%204%C2%BA%20S%C3%A3o%20tamb%C3%A9m%20nulos%20os%20seguintes%20atos%20ou%20contratos%2C%20praticados%20ou%20celebrados%20por%20quaisquer%20das%20pessoas%20ou%20entidades%20referidas%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Conforme a origem do ato impugnado, é competente para conhecer da ação, processá-la e julgá-la o juiz que, de acordo com a organização judiciária de cada Estado, o for para as causas que interessem à União, ao Distrito Federal, ao Estado ou ao Município.\n\n§ 1º Para fins de competência, equiparam-se atos da União, do Distrito Federal, do Estado ou dos Municípios os atos das pessoas criadas ou mantidas por essas pessoas jurídicas de direito público, bem como os atos das sociedades de que elas sejam acionistas e os das pessoas ou entidades por elas subvencionadas ou em relação às quais tenham interesse patrimonial.\n\n§ 2º Quando o pleito interessar simultaneamente à União e a qualquer outra pessoas ou entidade, será competente o juiz das causas da União, se houver; quando interessar simultaneamente ao Estado e ao Município, será competente o juiz das causas do Estado, se houver.\n\n§ 3º A propositura da ação prevenirá a jurisdição do juízo para todas as ações, que forem posteriormente intentadas contra as mesmas partes e sob os mesmos fundamentos.\n\n§ 4º Na defesa do patrimônio público caberá a suspensão liminar do ato lesivo impugnado. (Incluído pela Lei nº 6.513, de 1977)\n\nDOS SUJEITOS PASSIVOS DA AÇÃO E DOS ASSISTENTES",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%205%C2%BA%20Conforme%20a%20origem%20do%20ato%20impugnado%2C%20%C3%A9%20competente%20para%20conhecer%20da%20a%C3%A7%C3%A3o%2C%20process%C3%A1-la%20e%20julg%C3%A1-la%20o%20juiz%20que%2C%20de%20acordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A ação será proposta contra as pessoas públicas ou privadas e as entidades referidas no art. 1º, contra as autoridades, funcionários ou administradores que houverem autorizado, aprovado, ratificado ou praticado o ato impugnado, ou que, por omissas, tiverem dado oportunidade à lesão, e contra os beneficiários diretos do mesmo.\n\n§ 1º Se não houver benefício direto do ato lesivo, ou se for ele indeterminado ou desconhecido, a ação será proposta somente contra as outras pessoas indicadas neste artigo.\n\n§ 2º No caso de que trata o inciso II, item \"b\", do art. 4º, quando o valor real do bem for inferior ao da avaliação, citar-se-ão como réus, além das pessoas públicas ou privadas e entidades referidas no art. 1º, apenas os responsáveis pela avaliação inexata e os beneficiários da mesma.\n\n§ 3º A pessoas jurídica de direito público ou de direito privado, cujo ato seja objeto de impugnação, poderá abster-se de contestar o pedido, ou poderá atuar ao lado do autor, desde que isso se afigure útil ao interesse público, a juízo do respectivo representante legal ou dirigente.\n\n§ 4º O Ministério Público acompanhará a ação, cabendo-lhe apressar a produção da prova e promover a responsabilidade, civil ou criminal, dos que nela incidirem, sendo-lhe vedado, em qualquer hipótese, assumir a defesa do ato impugnado ou dos seus autores.\n\n§ 5º É facultado a qualquer cidadão habilitar-se como litisconsorte ou assistente do autor da ação popular.\n\nDO PROCESSO",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%206%C2%BA%20A%20a%C3%A7%C3%A3o%20ser%C3%A1%20proposta%20contra%20as%20pessoas%20p%C3%BAblicas%20ou%20privadas%20e%20as%20entidades%20referidas%20no%20art.%201%C2%BA%2C%20contra%20as%20autoridades%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A ação obedecerá ao procedimento ordinário, previsto no Código de Processo Civil, observadas as seguintes normas modificativas:\n\nI - Ao despachar a inicial, o juiz ordenará:\n\na) além da citação dos réus, a intimação do representante do Ministério Público;\n\nb) a requisição, às entidades indicadas na petição inicial, dos documentos que tiverem sido referidos pelo autor (art. 1º, § 6º), bem como a de outros que se lhe afigurem necessários ao esclarecimento dos fatos, ficando prazos de 15 (quinze) a 30 (trinta) dias para o atendimento.\n\n§ 1º O representante do Ministério Público providenciará para que as requisições, a que se refere o inciso anterior, sejam atendidas dentro dos prazos fixados pelo juiz.\n\n§ 2º Se os documentos e informações não puderem ser oferecidos nos prazos assinalados, o juiz poderá autorizar prorrogação dos mesmos, por prazo razoável.\n\nII - Quando o autor o preferir, a citação dos beneficiários far-se-á por edital com o prazo de 30 (trinta) dias, afixado na sede do juízo e publicado três vezes no jornal oficial do Distrito Federal, ou da Capital do Estado ou Território em que seja ajuizada a ação. A publicação será gratuita e deverá iniciar-se no máximo 3 (três) dias após a entrega, na repartição competente, sob protocolo, de uma via autenticada do mandado.\n\nIII - Qualquer pessoa, beneficiada ou responsável pelo ato impugnado, cuja existência ou identidade se torne conhecida no curso do processo e antes de proferida a sentença final de primeira instância, deverá ser citada para a integração do contraditório, sendo-lhe restituído o prazo para contestação e produção de provas, Salvo, quanto a beneficiário, se a citação se houver feito na forma do inciso anterior.\n\nIV - O prazo de contestação é de 20 (vinte) dias, prorrogáveis por mais 20 (vinte), a requerimento do interessado, se particularmente difícil a produção de prova documental, e será comum a todos os interessados, correndo da entrega em cartório do mandado cumprido, ou, quando for o caso, do decurso do prazo assinado em edital.\n\nV - Caso não requerida, até o despacho saneador, a produção de prova testemunhal ou pericial, o juiz ordenará vista às partes por 10 (dez) dias, para alegações, sendo-lhe os autos conclusos, para sentença, 48 (quarenta e oito) horas após a expiração desse prazo; havendo requerimento de prova, o processo tomará o rito ordinário.\n\nVI - A sentença, quando não prolatada em audiência de instrução e julgamento, deverá ser proferida dentro de 15 (quinze) dias do recebimento dos autos pelo juiz.\n\nParágrafo único. O proferimento da sentença além do prazo estabelecido privará o juiz da inclusão em lista de merecimento para promoção, durante 2 (dois) anos, e acarretará a perda, para efeito de promoção por antigüidade, de tantos dias quantos forem os do retardamento, salvo motivo justo, declinado nos autos e comprovado perante o órgão disciplinar competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%207%C2%BA%20A%20a%C3%A7%C3%A3o%20obedecer%C3%A1%20ao%20procedimento%20ordin%C3%A1rio%2C%20previsto%20no%20C%C3%B3digo%20de%20Processo%20Civil%2C%20observadas%20as%20seguintes%20normas%20modificativas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Ficará sujeita à pena de desobediência, salvo motivo justo devidamente comprovado, a autoridade, o administrador ou o dirigente, que deixar de fornecer, no prazo fixado no art. 1º, § 5º, ou naquele que tiver sido estipulado pelo juiz (art. 7º, n. I, letra \"b\"), informações e certidão ou fotocópia de documento necessários à instrução da causa.\n\nParágrafo único. O prazo contar-se-á do dia em que entregue, sob recibo, o requerimento do interessado ou o ofício de requisição (art. 1º, § 5º, e art. 7º, n. I, letra \"b\").",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%208%C2%BA%20Ficar%C3%A1%20sujeita%20%C3%A0%20pena%20de%20desobedi%C3%AAncia%2C%20salvo%20motivo%20justo%20devidamente%20comprovado%2C%20a%20autoridade%2C%20o%20administrador%20ou%20o%20dirigente%2C%20que%20deixar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Se o autor desistir da ação ou der motiva à absolvição da instância, serão publicados editais nos prazos e condições previstos no art. 7º, inciso II, ficando assegurado a qualquer cidadão, bem como ao representante do Ministério Público, dentro do prazo de 90 (noventa) dias da última publicação feita, promover o prosseguimento da ação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%209%C2%BA%20Se%20o%20autor%20desistir%20da%20a%C3%A7%C3%A3o%20ou%20der%20motiva%20%C3%A0%20absolvi%C3%A7%C3%A3o%20da%20inst%C3%A2ncia%2C%20ser%C3%A3o%20publicados%20editais%20nos%20prazos%20e%20condi%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. As partes só pagarão custas e preparo a final.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2010.%20As%20partes%20s%C3%B3%20pagar%C3%A3o%20custas%20e%20preparo%20a%20final.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A sentença que, julgando procedente a ação popular, decretar a invalidade do ato impugnado, condenará ao pagamento de perdas e danos os responsáveis pela sua prática e os beneficiários dele, ressalvada a ação regressiva contra os funcionários causadores de dano, quando incorrerem em culpa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2011.%20A%20senten%C3%A7a%20que%2C%20julgando%20procedente%20a%20a%C3%A7%C3%A3o%20popular%2C%20decretar%20a%20invalidade%20do%20ato%20impugnado%2C%20condenar%C3%A1%20ao%20pagamento%20de%20perdas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A sentença incluirá sempre, na condenação dos réus, o pagamento, ao autor, das custas e demais despesas, judiciais e extrajudiciais, diretamente relacionadas com a ação e comprovadas, bem como o dos honorários de advogado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2012.%20A%20senten%C3%A7a%20incluir%C3%A1%20sempre%2C%20na%20condena%C3%A7%C3%A3o%20dos%20r%C3%A9us%2C%20o%20pagamento%2C%20ao%20autor%2C%20das%20custas%20e%20demais%20despesas%2C%20judiciais%20e%20extrajudiciais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A sentença que, apreciando o fundamento de direito do pedido, julgar a lide manifestamente temerária, condenará o autor ao pagamento do décuplo das custas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2013.%20A%20senten%C3%A7a%20que%2C%20apreciando%20o%20fundamento%20de%20direito%20do%20pedido%2C%20julgar%20a%20lide%20manifestamente%20temer%C3%A1ria%2C%20condenar%C3%A1%20o%20autor%20ao%20pagamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Se o valor da lesão ficar provado no curso da causa, será indicado na sentença; se depender de avaliação ou perícia, será apurado na execução.\n\n§ 1º Quando a lesão resultar da falta ou isenção de qualquer pagamento, a condenação imporá o pagamento devido, com acréscimo de juros de mora e multa legal ou contratual, se houver.\n\n§ 2º Quando a lesão resultar da execução fraudulenta, simulada ou irreal de contratos, a condenação versará sobre a reposição do débito, com juros de mora.\n\n§ 3º Quando o réu condenado perceber dos cofres públicos, a execução far-se-á por desconto em folha até o integral ressarcimento do dano causado, se assim mais convier ao interesse público.\n\n§ 4º A parte condenada a restituir bens ou valores ficará sujeita a seqüestro e penhora, desde a prolação da sentença condenatória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2014.%20Se%20o%20valor%20da%20les%C3%A3o%20ficar%20provado%20no%20curso%20da%20causa%2C%20ser%C3%A1%20indicado%20na%20senten%C3%A7a%3B%20se%20depender%20de%20avalia%C3%A7%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Se, no curso da ação, ficar provada a infringência da lei penal ou a prática de falta disciplinar a que a lei comine a pena de demissão ou a de rescisão de contrato de trabalho, o juiz, \"ex-officio\", determinará a remessa de cópia autenticada das peças necessárias às autoridades ou aos administradores a quem competir aplicar a sanção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2015.%20Se%2C%20no%20curso%20da%20a%C3%A7%C3%A3o%2C%20ficar%20provada%20a%20infring%C3%AAncia%20da%20lei%20penal%20ou%20a%20pr%C3%A1tica%20de%20falta%20disciplinar%20a%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Caso decorridos 60 (sessenta) dias da publicação da sentença condenatória de segunda instância, sem que o autor ou terceiro promova a respectiva execução. o representante do Ministério Público a promoverá nos 30 (trinta) dias seguintes, sob pena de falta grave.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2016.%20Caso%20decorridos%2060%20%28sessenta%29%20dias%20da%20publica%C3%A7%C3%A3o%20da%20senten%C3%A7a%20condenat%C3%B3ria%20de%20segunda%20inst%C3%A2ncia%2C%20sem%20que%20o%20autor%20ou%20terceiro%20promova",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. É sempre permitida às pessoas ou entidades referidas no art. 1º, ainda que hajam contestado a ação, promover, em qualquer tempo, e no que as beneficiar a execução da sentença contra os demais réus.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2017.%20%C3%89%20sempre%20permitida%20%C3%A0s%20pessoas%20ou%20entidades%20referidas%20no%20art.%201%C2%BA%2C%20ainda%20que%20hajam%20contestado%20a%20a%C3%A7%C3%A3o%2C%20promover%2C%20em%20qualquer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A sentença terá eficácia de coisa julgada oponível \"erga omnes\", exceto no caso de haver sido a ação julgada improcedente por deficiência de prova; neste caso, qualquer cidadão poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2018.%20A%20senten%C3%A7a%20ter%C3%A1%20efic%C3%A1cia%20de%20coisa%20julgada%20opon%C3%ADvel%20%22erga%20omnes%22%2C%20exceto%20no%20caso%20de%20haver%20sido%20a%20a%C3%A7%C3%A3o%20julgada%20improcedente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Da sentença que concluir pela improcedência ou pela carência da ação, recorrerá o juiz, ex officio, mediante simples declaração no seu texto, da sentença que julgar procedente o pedido caberá apelação voluntária, com efeito suspensivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2019.%20Da%20senten%C3%A7a%20que%20concluir%20pela%20improced%C3%AAncia%20ou%20pela%20car%C3%AAncia%20da%20a%C3%A7%C3%A3o%2C%20recorrer%C3%A1%20o%20juiz%2C%20ex%20officio%2C%20mediante%20simples%20declara%C3%A7%C3%A3o%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Para os fins desta lei, consideram-se entidades autárquicas:\n\na) o serviço estatal descentralizado com personalidade jurídica, custeado mediante orçamento próprio, independente do orçamento geral;\n\nb) as pessoas jurídicas especialmente instituídas por lei, para a execução de serviços de interesse público ou social, custeados por tributos de qualquer natureza ou por outros recursos oriundos do Tesouro Público;\n\nc) as entidades de direito público ou privado a que a lei tiver atribuído competência para receber e aplicar contribuições parafiscais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2020.%20Para%20os%20fins%20desta%20lei%2C%20consideram-se%20entidades%20aut%C3%A1rquicas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A ação prevista nesta lei prescreve em 5 (cinco) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2021.%20A%20a%C3%A7%C3%A3o%20prevista%20nesta%20lei%20prescreve%20em%205%20%28cinco%29%20anos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Aplicam-se à ação popular as regras do Código de Processo Civil, naquilo em que não contrariem os dispositivos desta lei, nem a natureza específica da ação.\n\nBrasília, 29 de junho de 1965; 144º da Independência e 77º da República.\n\nH. Castello Branco Milton Soares Campos\n\nEste texto não substitui o publicado no DOU de 5.7.1965 e republicado em 8.4.1974\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm#:~:text=Art.%2022.%20Aplicam-se%20%C3%A0%20a%C3%A7%C3%A3o%20popular%20as%20regras%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C%20naquilo%20em%20que%20n%C3%A3o%20contrariem%20os%20dispositivos%20desta%20lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": null
+    }
+  }
+}

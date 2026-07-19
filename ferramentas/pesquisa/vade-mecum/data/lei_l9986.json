@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "codigo": "L9986",
+    "nome": "Gestão de RH das Agências Reguladoras",
+    "lei": "Lei 9.986/2000",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm",
+    "total_artigos": 41,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o As Agências Reguladoras terão suas relações de trabalho regidas pela Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, e legislação trabalhista correlata, em regime de emprego público. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%201o%20As%20Ag%C3%AAncias%20Reguladoras%20ter%C3%A3o%20suas%20rela%C3%A7%C3%B5es%20de%20trabalho%20regidas%20pela%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%2C%20aprovada%20pelo%20Decreto-Lei%20no%205.452%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Ficam criados, para exercício exclusivo nas Agências Reguladoras, os empregos públicos de nível superior de Regulador, de Analista de Suporte à Regulação, os empregos de nível médio de Técnico em Regulação e de Técnico de Suporte à Regulação, os cargos efetivos de nível superior de Procurador, os Cargos Comissionados de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos Comissionados Técnicos – CCT, constantes do Anexo I. (Vide Lei nº 10.871, de 2004) (Eficácia suspensa por concessão de liminar até o julgamento final da ADIN 2310)\n\nParágrafo único. É vedado aos empregados, aos requisitados, aos ocupantes de cargos comissionados e aos dirigentes das Agências Reguladoras o exercício de outra atividade profissional, inclusive gestão operacional de empresa, ou direção político-partidária, excetuados os casos admitidos em lei. (Eficácia suspensa por concessão de liminar até o julgamento final da ADIN 2310)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%202o%20Ficam%20criados%2C%20para%20exerc%C3%ADcio%20exclusivo%20nas%20Ag%C3%AAncias%20Reguladoras%2C%20os%20empregos%20p%C3%BAblicos%20de%20n%C3%ADvel%20superior%20de%20Regulador%2C%20de%20Analista%20de%20Suporte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Os Cargos Comissionados de Gerência Executiva, de Assessoria e de Assistência são de livre nomeação e exoneração da instância de deliberação máxima da Agência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%203o%20Os%20Cargos%20Comissionados%20de%20Ger%C3%AAncia%20Executiva%2C%20de%20Assessoria%20e%20de%20Assist%C3%AAncia%20s%C3%A3o%20de%20livre%20nomea%C3%A7%C3%A3o%20e%20exonera%C3%A7%C3%A3o%20da%20inst%C3%A2ncia%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o As Agências serão dirigidas em regime de colegiado, por um Conselho Diretor ou Diretoria composta por Conselheiros ou Diretores, sendo um deles o seu Presidente ou o Diretor-Geral ou o Diretor-Presidente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%204o%20As%20Ag%C3%AAncias%20ser%C3%A3o%20dirigidas%20em%20regime%20de%20colegiado%2C%20por%20um%20Conselho%20Diretor%20ou%20Diretoria%20composta%20por%20Conselheiros%20ou%20Diretores%2C%20sendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O Presidente ou o Diretor-Geral ou o Diretor-Presidente (CD I) e os demais membros do Conselho Diretor ou da Diretoria (CD II) serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados, devendo ser escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.\n\nParágrafo único. O Presidente ou o Diretor-Geral ou o Diretor-Presidente será nomeado pelo Presidente da República dentre os integrantes do Conselho Diretor ou da Diretoria, respectivamente, e investido na função pelo prazo fixado no ato de nomeação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%205o%20O%20Presidente%20ou%20o%20Diretor-Geral%20ou%20o%20Diretor-Presidente%20%28CD%20I%29%20e%20os%20demais%20membros%20do%20Conselho%20Diretor%20ou%20da%20Diretoria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O mandato dos Conselheiros e dos Diretores terá o prazo fixado na lei de criação de cada Agência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%206o%20O%20mandato%20dos%20Conselheiros%20e%20dos%20Diretores%20ter%C3%A1%20o%20prazo%20fixado%20na%20lei%20de%20cria%C3%A7%C3%A3o%20de%20cada%20Ag%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o A lei de criação de cada Agência disporá sobre a forma da não-coincidência de mandato. (Revogado pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%207o%20A%20lei%20de%20cria%C3%A7%C3%A3o%20de%20cada%20Ag%C3%AAncia%20dispor%C3%A1%20sobre%20a%20forma%20da%20n%C3%A3o-coincid%C3%AAncia%20de%20mandato.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.848%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Terminado o mandato, o ex-dirigente ficará impedido, por um período de quatro meses, contado da data do término do seu mandato, de prestar qualquer tipo de serviço no setor público ou a empresa integrante do setor regulado pela Agência. (Vide Medida Provisória nº 2.049-24, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%208o%20Terminado%20o%20mandato%2C%20o%20ex-dirigente%20ficar%C3%A1%20impedido%2C%20por%20um%20per%C3%ADodo%20de%20quatro%20meses%2C%20contado%20da%20data%20do%20t%C3%A9rmino%20do%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "8-A"
+    },
+    "8-A": {
+      "numero": "8-A",
+      "texto": "Art. 8º-A. É vedada a indicação para o Conselho Diretor ou a Diretoria Colegiada: (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nI - de Ministro de Estado, Secretário de Estado, Secretário Municipal, dirigente estatutário de partido político e titular de mandato no Poder Legislativo de qualquer ente da federação, ainda que licenciados dos cargos; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nII - de pessoa que tenha atuado, nos últimos 36 (trinta e seis) meses, como participante de estrutura decisória de partido político ou em trabalho vinculado a organização, estruturação e realização de campanha eleitoral; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nIII - de pessoa que exerça cargo em organização sindical; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nIV - de pessoa que tenha participação, direta ou indireta, em empresa ou entidade que atue no setor sujeito à regulação exercida pela agência reguladora em que atuaria, ou que tenha matéria ou ato submetido à apreciação dessa agência reguladora; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nV - de pessoa que se enquadre nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nVI - (VETADO); (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nVII - de membro de conselho ou de diretoria de associação, regional ou nacional, representativa de interesses patronais ou trabalhistas ligados às atividades reguladas pela respectiva agência. (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nParágrafo único. A vedação prevista no inciso I do caput estende-se também aos parentes consanguíneos ou afins até o terceiro grau das pessoas nele mencionadas. (Incluído pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%208%C2%BA-A.%20%C3%89%20vedada%20a%20indica%C3%A7%C3%A3o%20para%20o%20Conselho%20Diretor%20ou%20a%20Diretoria%20Colegiada%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.848%2C%20de%202019%29%20Vig%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "8-B"
+    },
+    "8-B": {
+      "numero": "8-B",
+      "texto": "Art. 8º-B. Ao membro do Conselho Diretor ou da Diretoria Colegiada é vedado: (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nI - receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nII - exercer qualquer outra atividade profissional, ressalvado o exercício do magistério, havendo compatibilidade de horários; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nIII - participar de sociedade simples ou empresária ou de empresa de qualquer espécie, na forma de controlador, diretor, administrador, gerente, membro de conselho de administração ou conselho fiscal, preposto ou mandatário; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nIV - emitir parecer sobre matéria de sua especialização, ainda que em tese, ou atuar como consultor de qualquer tipo de empresa; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nV - exercer atividade sindical; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nVI - exercer atividade político-partidária; (Incluído pela Lei nº 13.848, de 2019) Vigência\n\nVII - estar em situação de conflito de interesse, nos termos da Lei nº 12.813, de 16 de maio de 2013. (Incluído pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%208%C2%BA-B.%20Ao%20membro%20do%20Conselho%20Diretor%20ou%20da%20Diretoria%20Colegiada%20%C3%A9%20vedado%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.848%2C%20de%202019%29%20Vig%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-A",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Os Conselheiros e os Diretores somente perderão o mandato em caso de renúncia, de condenação judicial transitada em julgado ou de processo administrativo disciplinar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%209o%20Os%20Conselheiros%20e%20os%20Diretores%20somente%20perder%C3%A3o%20o%20mandato%20em%20caso%20de%20ren%C3%BAncia%2C%20de%20condena%C3%A7%C3%A3o%20judicial%20transitada%20em%20julgado%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8-B",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O regulamento de cada Agência disciplinará a substituição dos Conselheiros e Diretores em seus impedimentos ou afastamentos regulamentares ou ainda no período de vacância que anteceder a nomeação de novo Conselheiro ou Diretor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2010.%20O%20regulamento%20de%20cada%20Ag%C3%AAncia%20disciplinar%C3%A1%20a%20substitui%C3%A7%C3%A3o%20dos%20Conselheiros%20e%20Diretores%20em%20seus%20impedimentos%20ou%20afastamentos%20regulamentares%20ou%20ainda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Na Agência em cuja estrutura esteja prevista a Ouvidoria, o seu titular ocupará o cargo comissionado de Gerência Executiva – CGE II.\n\nParágrafo único. A lei de criação da Agência definirá as atribuições do Ouvidor, assegurando-se-lhe autonomia e independência de atuação e condição plena para desempenho de suas atividades. (Revogado pela Lei nº 13.848, de 2019) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2011.%20Na%20Ag%C3%AAncia%20em%20cuja%20estrutura%20esteja%20prevista%20a%20Ouvidoria%2C%20o%20seu%20titular%20ocupar%C3%A1%20o%20cargo%20comissionado%20de%20Ger%C3%AAncia%20Executiva%20%E2%80%93",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A investidura nos empregos públicos do Quadro de Pessoal Efetivo das Agências dar-se-á por meio de concurso público de provas ou de provas e títulos, conforme disposto em regulamento próprio de cada Agência, com aprovação e autorização pela instância de deliberação máxima da organização. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 1o O concurso público poderá ser realizado para provimento efetivo de pessoal em classes distintas de um mesmo emprego público, conforme disponibilidade orçamentária e de vagas. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 2o O concurso público será estabelecido em edital de cada Agência, podendo ser constituído das seguintes etapas: (Vide Medida Provisória nº 155, de 23.12.2003) (Revogado pela Lei nº 10.871, de 2004)\n\nI – provas escritas; (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nII – provas orais; e (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nIII – provas de título. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 3o O edital de cada Agência definirá as características de cada etapa do concurso público, os requisitos de escolaridade, formação especializada e experiência profissional, critérios eliminatórios e classificatórios, bem como eventuais restrições e condicionantes. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 4o Regulamento próprio de cada Agência disporá sobre o detalhamento e as especificidades dos concursos públicos. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 5o Poderá ainda fazer parte do concurso, para efeito eliminatório e classificatório, curso de formação específica. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2012.%20A%20investidura%20nos%20empregos%20p%C3%BAblicos%20do%20Quadro%20de%20Pessoal%20Efetivo%20das%20Ag%C3%AAncias%20dar-se-%C3%A1%20por%20meio%20de%20concurso%20p%C3%BAblico%20de%20provas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os Cargos Comissionados Técnicos são de ocupação privativa de servidores e empregados do Quadro de Pessoal Efetivo, do Quadro de Pessoal Específico e do Quadro de Pessoal em Extinção de que trata o art. 19 e de requisitados de outros órgãos e entidades da Administração Pública. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nParágrafo único. Ao ocupante de Cargo Comissionado Técnico será pago um valor acrescido ao salário ou vencimento, conforme tabela constante do Anexo II. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2013.%20Os%20Cargos%20Comissionados%20T%C3%A9cnicos%20s%C3%A3o%20de%20ocupa%C3%A7%C3%A3o%20privativa%20de%20servidores%20e%20empregados%20do%20Quadro%20de%20Pessoal%20Efetivo%2C%20do%20Quadro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Os quantitativos dos empregos públicos e dos cargos comissionados de cada Agência serão estabelecidos em lei, ficando as Agências autorizadas a efetuar a alteração dos quantitativos e da distribuição dos Cargos Comissionados de Gerência Executiva, de Assessoria, de Assistência e dos Cargos Comissionados Técnicos, observados os valores de retribuição correspondentes e desde que não acarrete aumento de despesa.\n\nParágrafo único. É vedada a transferência entre Agências de ocupantes de emprego efetivo de Regulador e de Analista de Suporte à Regulação. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2014.%20Os%20quantitativos%20dos%20empregos%20p%C3%BAblicos%20e%20dos%20cargos%20comissionados%20de%20cada%20Ag%C3%AAncia%20ser%C3%A3o%20estabelecidos%20em%20lei%2C%20ficando%20as%20Ag%C3%AAncias%20autorizadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Regulamento próprio de cada Agência disporá sobre as atribuições específicas, a estruturação, a classificação e o respectivo salário dos empregos públicos de que trata o art. 2o, respeitados os limites remuneratórios definidos no Anexo III. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2015.%20Regulamento%20pr%C3%B3prio%20de%20cada%20Ag%C3%AAncia%20dispor%C3%A1%20sobre%20as%20atribui%C3%A7%C3%B5es%20espec%C3%ADficas%2C%20a%20estrutura%C3%A7%C3%A3o%2C%20a%20classifica%C3%A7%C3%A3o%20e%20o%20respectivo%20sal%C3%A1rio%20dos%20empregos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As Agências Reguladoras poderão requisitar, com ônus, servidores e empregados de órgãos e entidades integrantes da Administração Pública. (Vide Medida Provisória nº 269, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2016.%20As%20Ag%C3%AAncias%20Reguladoras%20poder%C3%A3o%20requisitar%2C%20com%20%C3%B4nus%2C%20servidores%20e%20empregados%20de%20%C3%B3rg%C3%A3os%20e%20entidades%20integrantes%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica.%20%28Vide%20Medida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os ocupantes de Cargo Comissionado, mesmo quando requisitados de outros órgãos e entidades da Administração Pública, poderão receber a remuneração do cargo na Agência ou a de seu cargo efetivo ou emprego permanente no órgão ou na entidade de origem, optando, neste caso, por receber valor remuneratório adicional correspondente a: (Revogado pela Medida Provisória nº 375, de 2007) (Revogado pela Lei nº 11.526, de 2007).\n\nI – parcela referente à diferença entre a remuneração de seu cargo efetivo ou emprego permanente de origem e o valor remuneratório do cargo exercido na Agência; ou (Revogado pela Medida Provisória nº 375, de 2007) (Revogado pela Lei nº 11.526, de 2007).\n\nII – vinte e cinco por cento da remuneração do cargo exercido na Agência, para os Cargos Comissionados de Direção, de Gerência Executiva e de Assessoria nos níveis CA I e CA II, e cinqüenta e cinco por cento da remuneração dos Cargos Comissionados de Assessoria, no nível CA III, e dos de Assistência.\n\nII - 40% (quarenta por cento) da remuneração do cargo exercido na Agência Reguladora, para os Cargos Comissionados de Direção, de Gerência Executiva e de Assessoria nos níveis CA I e II, e 65% (sessenta e cinco por cento) da remuneração dos Cargos Comissionados de Assessoria no nível III e dos de Assistência. (Redação dada pela Lei nº 10.470, de 2002) (Revogado pela Medida Provisória nº 375, de 2007) (Revogado pela Lei nº 11.526, de 2007).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2017.%20Os%20ocupantes%20de%20Cargo%20Comissionado%2C%20mesmo%20quando%20requisitados%20de%20outros%20%C3%B3rg%C3%A3os%20e%20entidades%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%2C%20poder%C3%A3o%20receber%20a%20remunera%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O Ministério do Planejamento, Orçamento e Gestão divulgará, no prazo de trinta dias a contar da publicação desta Lei, tabela estabelecendo as equivalências entre os Cargos Comissionados e Cargos Comissionados Técnicos previstos no Anexo II e os Cargos em Comissão do Grupo-Direção e Assessoramento Superiores – DAS, para efeito de aplicação de legislações específicas relativas à percepção de vantagens, de caráter remuneratório ou não, por servidores ou empregados públicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2018.%20O%20Minist%C3%A9rio%20do%20Planejamento%2C%20Or%C3%A7amento%20e%20Gest%C3%A3o%20divulgar%C3%A1%2C%20no%20prazo%20de%20trinta%20dias%20a%20contar%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20tabela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Mediante lei, poderão ser criados Quadro de Pessoal Específico, destinado, exclusivamente, à absorção de servidores públicos federais regidos pela Lei no 8.112, de 11 de dezembro de 1990, e Quadro de Pessoal em Extinção, destinado exclusivamente à absorção de empregados de empresas públicas federais liquidadas ou em processo de liquidação, regidos pelo regime celetista, que se encontrarem exercendo atividades a serem absorvidas pelas Agências.\n\n§ 1o A soma dos cargos ou empregos dos Quadros a que se refere este artigo não poderá exceder ao número de empregos que forem fixados para o Quadro de Pessoal Efetivo.\n\n§ 2o Os Quadros de que trata o caput deste artigo têm caráter temporário, extinguindo-se as vagas neles alocadas, à medida que ocorrerem vacâncias.\n\n§ 3o À medida que forem extintos os cargos ou empregos dos Quadros de que trata este artigo, é facultado à Agência o preenchimento de empregos de pessoal concursado para o Quadro de Pessoal Efetivo.\n\n§ 4o Se o quantitativo de cargos ou empregos dos Quadros de que trata este artigo for inferior ao Quadro de Pessoal Efetivo, é facultada à Agência a realização de concurso para preenchimento dos empregos excedentes.\n\n§ 5o O ingresso no Quadro de Pessoal Específico será efetuado por redistribuição.\n\n§ 6o A absorção de pessoal celetista no Quadro de Pessoal em Extinção não caracteriza rescisão contratual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2019.%20Mediante%20lei%2C%20poder%C3%A3o%20ser%20criados%20Quadro%20de%20Pessoal%20Espec%C3%ADfico%2C%20destinado%2C%20exclusivamente%2C%20%C3%A0%20absor%C3%A7%C3%A3o%20de%20servidores%20p%C3%BAblicos%20federais%20regidos%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A realização de serviços extraordinários por empregados das Agências Reguladoras subordina-se, exclusivamente, aos limites estabelecidos na legislação trabalhista aplicável ao regime celetista. (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nParágrafo único. A realização dos serviços de que trata o caput depende da disponibilidade de recursos orçamentários. (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2020.%20A%20realiza%C3%A7%C3%A3o%20de%20servi%C3%A7os%20extraordin%C3%A1rios%20por%20empregados%20das%20Ag%C3%AAncias%20Reguladoras%20subordina-se%2C%20exclusivamente%2C%20aos%20limites%20estabelecidos%20na%20legisla%C3%A7%C3%A3o%20trabalhista%20aplic%C3%A1vel%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. As Agências Reguladoras implementarão, no prazo máximo de dois anos, contado de sua instituição: (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nI – instrumento específico de avaliação de desempenho, estabelecendo critérios padronizados para mensuração do desempenho de seus empregados; (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nII – programa permanente de capacitação, treinamento e desenvolvimento; e (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nIII – regulamento próprio, dispondo sobre a estruturação, classificação, distribuição de vagas e requisitos dos empregos públicos, bem como sobre os critérios de progressão de seus empregados. (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 1o A progressão dos empregados nos respectivos empregos públicos terá por base os resultados obtidos nos processos de avaliação de desempenho, capacitação e qualificação funcionais, visando ao reconhecimento do mérito funcional e à otimização do potencial individual, conforme disposto em regulamento próprio de cada Agência. (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 2o É vedada a progressão do ocupante de emprego público das Agências antes de completado um ano de efetivo exercício no emprego. (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 3o Para as Agências já criadas, o prazo de que trata o caput deste artigo será contado a partir da publicação desta Lei. (Revogado pela Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2021.%20As%20Ag%C3%AAncias%20Reguladoras%20implementar%C3%A3o%2C%20no%20prazo%20m%C3%A1ximo%20de%20dois%20anos%2C%20contado%20de%20sua%20institui%C3%A7%C3%A3o%3A%20%28Revogado%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20155%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Ficam as Agências autorizadas a custear as despesas com remoção e estada para os profissionais que, em virtude de nomeação para Cargos Comissionados de Direção, de Gerência Executiva e de Assessoria dos níveis CD I e II, CGE I e II, CA I e II, e para os Cargos Comissionados Técnicos, nos níveis CCT V e IV, vierem a ter exercício em cidade diferente da de seu domicílio, conforme disposto em regulamento de cada Agência, observados os limites de valores estabelecidos para a Administração Pública Federal direta. (Vide Medida Provisória nº 2.048-28, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2022.%20Ficam%20as%20Ag%C3%AAncias%20autorizadas%20a%20custear%20as%20despesas%20com%20remo%C3%A7%C3%A3o%20e%20estada%20para%20os%20profissionais%20que%2C%20em%20virtude%20de%20nomea%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os regulamentos próprios das Agências referidos nesta Lei serão aprovados por decisão da instância de deliberação superior de cada Autarquia, com ampla divulgação interna e publicação no Diário Oficial da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2023.%20Os%20regulamentos%20pr%C3%B3prios%20das%20Ag%C3%AAncias%20referidos%20nesta%20Lei%20ser%C3%A3o%20aprovados%20por%20decis%C3%A3o%20da%20inst%C3%A2ncia%20de%20delibera%C3%A7%C3%A3o%20superior%20de%20cada%20Autarquia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Cabe às Agências, no âmbito de suas competências: (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nI – administrar os empregos públicos e os cargos comissionados de que trata esta Lei; e (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nII – editar e dar publicidade aos regulamentos e instruções necessários à aplicação desta Lei. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2024.%20Cabe%20%C3%A0s%20Ag%C3%AAncias%2C%20no%20%C3%A2mbito%20de%20suas%20compet%C3%AAncias%3A%20%28Vide%20ADIN%202310%29%20%28Vide%20Medida%20Provis%C3%B3ria%20n%C2%BA%20155%2C%20de%202003%29%20%28Revogado%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os Quadros de Pessoal Efetivo e os quantitativos de Cargos Comissionados da Agência Nacional de Energia Elétrica – ANEEL, da Agência Nacional de Telecomunicações – ANATEL, da Agência Nacional do Petróleo – ANP, da Agência Nacional de Vigilância Sanitária – ANVS e da Agência Nacional de Saúde Suplementar – ANS são os constantes do Anexo I desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2025.%20Os%20Quadros%20de%20Pessoal%20Efetivo%20e%20os%20quantitativos%20de%20Cargos%20Comissionados%20da%20Ag%C3%AAncia%20Nacional%20de%20Energia%20El%C3%A9trica%20%E2%80%93%20ANEEL%2C%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. As Agências Reguladoras já instaladas poderão, em caráter excepcional, prorrogar os contratos de trabalho temporários em vigor, por prazo máximo de vinte e quatro meses além daqueles previstos na legislação vigente, a partir do vencimento de cada contrato de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2026.%20As%20Ag%C3%AAncias%20Reguladoras%20j%C3%A1%20instaladas%20poder%C3%A3o%2C%20em%20car%C3%A1ter%20excepcional%2C%20prorrogar%20os%20contratos%20de%20trabalho%20tempor%C3%A1rios%20em%20vigor%2C%20por%20prazo%20m%C3%A1ximo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As Agências que vierem a absorver, no Quadro de Pessoal em Extinção de que trata o art. 19 desta Lei, empregados que sejam participantes de entidades fechadas de previdência privada poderão atuar como suas patrocinadoras na condição de sucessoras de entidades às quais esses empregados estavam vinculados, observada a exigência de paridade entre a contribuição da patrocinadora e a contribuição do participante, de acordo com os arts. 5o e 6o da Emenda Constitucional no 20, de 15 de dezembro de 1998. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\nParágrafo único. O conjunto de empregados de que trata o caput constituirá massa fechada. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2027.%20As%20Ag%C3%AAncias%20que%20vierem%20a%20absorver%2C%20no%20Quadro%20de%20Pessoal%20em%20Extin%C3%A7%C3%A3o%20de%20que%20trata%20o%20art.%2019%20desta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Fica criado o Quadro de Pessoal Específico, integrado pelos servidores regidos pela Lei no 8.112, de 1990, que tenham sido redistribuídos para a ANVS por força de lei.\n\n§ 1o O ingresso no Quadro de que trata o caput é restrito aos servidores que, em 31 de dezembro de 1998, estavam em exercício na extinta Secretaria de Vigilância Sanitária e nos postos portuários, aeroportuários e de fronteira, oriundos dos quadros de pessoal do Ministério da Saúde ou da Fundação Nacional de Saúde. (Vide Medida Provisória nº 304, de 2006) (Revogado pela Lei nº 11.357, de 2006).\n\n§ 2o É vedada a redistribuição de servidores para a ANVS, podendo os servidores do Quadro de Pessoal Específico ser redistribuídos para outros órgãos e entidades da Administração Pública Federal ou cedidos nos termos da legislação do Sistema Único de Saúde. (Vide Medida Provisória nº 304, de 2006) (Revogado pela Lei nº 11.357, de 2006).\n\n§ 3o Excepcionalmente, para efeito da aplicação do disposto no § 1o do art. 19 desta Lei, no caso da ANVS, serão considerados apenas os cargos efetivos de nível superior integrantes do Quadro de Pessoal Específico de que trata o caput deste artigo. (Vide Medida Provisória nº 304, de 2006) (Revogado pela Lei nº 11.357, de 2006).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2028.%20Fica%20criado%20o%20Quadro%20de%20Pessoal%20Espec%C3%ADfico%2C%20integrado%20pelos%20servidores%20regidos%20pela%20Lei%20no%208.112%2C%20de%201990%2C%20que%20tenham%20sido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Fica criado, dentro do limite quantitativo do Quadro Efetivo da ANATEL, ANEEL, ANP e ANS, Quadro de Pessoal Específico a que se refere o art. 19, composto por servidores que tenham sido redistribuídos para as Agências até a data da promulgação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2029.%20Fica%20criado%2C%20dentro%20do%20limite%20quantitativo%20do%20Quadro%20Efetivo%20da%20ANATEL%2C%20ANEEL%2C%20ANP%20e%20ANS%2C%20Quadro%20de%20Pessoal%20Espec%C3%ADfico%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Fica criado, no âmbito exclusivo da ANATEL, dentro do limite de cargos fixados no Anexo I, o Quadro Especial em Extinção, no regime da Consolidação das Leis do Trabalho, com a finalidade de absorver empregados da Telecomunicações Brasileiras S.A. - TELEBRÁS, que se encontrarem cedidos àquela Agência na data da publicação desta Lei. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 1o Os empregados da TELEBRÁS cedidos ao Ministério das Comunicações, na data da publicação desta Lei, poderão integrar o Quadro Especial em Extinção. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 2o As tabelas salariais a serem aplicadas aos empregados do Quadro Especial em Extinção de que trata o caput são as estabelecidas nos Anexos IV e V. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 3o Os valores remuneratórios percebidos pelos empregados que integrarem o Quadro Especial em Extinção, de que trata o caput, não sofrerão alteração, devendo ser mantido o desenvolvimento na carreira conforme previsão no Plano de Cargos e Salários em que estiver enquadrado. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 4o A diferença da remuneração a maior será considerada vantagem pessoal nominalmente identificada. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 5o A absorção de empregados estabelecida no caput será feita mediante sucessão trabalhista, não caracterizando rescisão contratual. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)\n\n§ 6o A absorção do pessoal no Quadro Especial em Extinção dar-se-á mediante manifestação formal de aceitação por parte do empregado, no prazo máximo de quarenta e cinco dias da publicação desta Lei. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2030.%20Fica%20criado%2C%20no%20%C3%A2mbito%20exclusivo%20da%20ANATEL%2C%20dentro%20do%20limite%20de%20cargos%20fixados%20no%20Anexo%20I%2C%20o%20Quadro%20Especial%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. As Agências Reguladoras, no exercício de sua autonomia, poderão desenvolver sistemas próprios de administração de recursos humanos, inclusive cadastro e pagamento, sendo obrigatória a alimentação dos sistemas de informações mantidos pelo órgão central do Sistema de Pessoal Civil – SIPEC.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2031.%20As%20Ag%C3%AAncias%20Reguladoras%2C%20no%20exerc%C3%ADcio%20de%20sua%20autonomia%2C%20poder%C3%A3o%20desenvolver%20sistemas%20pr%C3%B3prios%20de%20administra%C3%A7%C3%A3o%20de%20recursos%20humanos%2C%20inclusive%20cadastro%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. No prazo de até noventa dias, contado da publicação desta Lei, ficam extintos os Cargos de Natureza Especial e os Cargos do Grupo-Direção e Assessoramento Superiores – DAS ora alocados à ANEEL, ANATEL, ANP, ANVS e ANS, e os Cargos Comissionados de Telecomunicações, Petróleo, Energia Elétrica e Saúde Suplementar e as Funções Comissionadas de Vigilância Sanitária. (Revogado pela Medida Provisória nº 1.181, de 2023) (Revogado pela Lei nº 14.724, de 2023)\n\nParágrafo único. Os Cargos Comissionados e os Cargos Comissionados Técnicos de que trata esta Lei só poderão ser preenchidos após a extinção de que trata o caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2032.%20No%20prazo%20de%20at%C3%A9%20noventa%20dias%2C%20contado%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20ficam%20extintos%20os%20Cargos%20de%20Natureza%20Especial%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os Procuradores Autárquicos regidos pela Lei no 8.112, de 1990, poderão ser redistribuídos para as Agências, sem integrar o Quadro de Pessoal Específico, desde que respeitado o número de empregos públicos de Procurador correspondentes fixado no Anexo I. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2033.%20Os%20Procuradores%20Aut%C3%A1rquicos%20regidos%20pela%20Lei%20no%208.112%2C%20de%201990%2C%20poder%C3%A3o%20ser%20redistribu%C3%ADdos%20para%20as%20Ag%C3%AAncias%2C%20sem%20integrar%20o%20Quadro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Observado o disposto no art. 19, ficam as Agências referidas no art. 25 autorizadas a iniciar processo de concurso público para provimento de empregos de seu Quadro de Pessoal Efetivo. (Vide Medida Provisória nº 155, de 2003) (Revogado pela Lei nº 10.871, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2034.%20Observado%20o%20disposto%20no%20art.%2019%2C%20ficam%20as%20Ag%C3%AAncias%20referidas%20no%20art.%2025%20autorizadas%20a%20iniciar%20processo%20de%20concurso%20p%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2035.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O caput do art. 24 da Lei no 9.472, de 16 de julho de 1997, passa a vigorar com a seguinte redação:\n\n\"Art. 24. O mandato dos membros do Conselho Diretor será de cinco anos.\"(NR)\n\n\".................................................................................\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2036.%20O%20caput%20do%20art.%2024%20da%20Lei%20no%209.472%2C%20de%2016%20de%20julho%20de%201997%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A aquisição de bens e a contratação de serviços pelas Agências Reguladoras poderá se dar nas modalidades de consulta e pregão, observado o disposto nos arts. 55 a 58 da Lei no 9.472, de 1997, e nos termos de regulamento próprio.\n\nParágrafo único. O disposto no caput não se aplica às contratações referentes a obras e serviços de engenharia, cujos procedimentos deverão observar as normas gerais de licitação e contratação para a Administração Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2037.%20A%20aquisi%C3%A7%C3%A3o%20de%20bens%20e%20a%20contrata%C3%A7%C3%A3o%20de%20servi%C3%A7os%20pelas%20Ag%C3%AAncias%20Reguladoras%20poder%C3%A1%20se%20dar%20nas%20modalidades%20de%20consulta%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2038.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Ficam revogados o art. 8o da Lei no 9.427, de 26 de dezembro de 1996; os arts. 12, 13, 14, 26, 28 e 31 e os Anexos I e II da Lei no 9.472, de 16 de julho de 1997; o art. 13 da Lei no 9.478, de 6 de agosto de 1997; os arts. 35 e 36, o inciso II e os parágrafos do art. 37, e o art. 60 da Lei no 9.649, de 27 de maio de 1998; os arts. 18, 34 e 37 da Lei no 9.782, de 26 de janeiro de 1999; e os arts. 12 e 27 e o Anexo I da Lei no 9.961, de 28 de janeiro de 2000.\n\nBrasília, 18 de julho de 2000; 179o da Independência e 112o da República.\n\nMARCO ANTONIO DE OLIVEIRA MACIEL José Gregori Geraldo Magela da Cruz Quintão Edward Joaquim Amadeo Swaelen Alderico Jeferson da Silva Lima José Serra Rodolpho Tourinho Neto Martus Tavares Pedro Parente\n\nEste texto não substitui o publicado no DOU de 19.7.2000\n\nANEXO I (Vide Lei nº 10.871, de 2004)\n\nQUADROS DE PESSOAL EFETIVO E DE CARGOS COMISSIONADOS DAS AGÊNCIAS\n\nPESSOAL EFETIVO\n\nEMPREGO\n\nQUANTITATIVO\n\nANATEL\n\nANEEL\n\nANP\n\nANVS\n\nANS\n\nRegulador\n\n598\n\n230\n\n436\n\n510\n\n340\n\nAnalista de Suporte à Regulação\n\n207\n\n75\n\n114\n\n174\n\n95\n\nProcurador\n\n70\n\n20\n\n30\n\n40\n\n20\n\nTécnico em Regulação\n\n385\n\n0\n\n0\n\n0\n\n0\n\nTécnico de Suporte à Regulação\n\n236\n\n0\n\n77\n\n0\n\n60\n\nTOTAL\n\n1.496\n\n325\n\n657\n\n724\n\n515\n\ncargos comissionados\n\nDE DIREÇÃO\n\nCARGO\n\nQUANTITATIVO\n\nANATEL\n\nANEEL\n\nANP\n\nANVS\n\nANS\n\nCD I\n\n1\n\n1\n\n1\n\n1\n\n1\n\nCD II\n\n4\n\n4\n\n4\n\n4\n\n4\n\nDE GERÊNCIA EXECUTIVA\n\nCARGO\n\nQUANTITATIVO\n\nANATEL\n\nANEEL\n\nANP\n\nANVS\n\nANS\n\nCGE I\n\n6\n\n6\n\n6\n\n5\n\n2\n\nCGE II\n\n23\n\n23\n\n30\n\n21\n\n15\n\nCGE III\n\n52\n\n0\n\n0\n\n48\n\n33\n\nCGE IV\n\n0\n\n0\n\n0\n\n0\n\n0\n\nDE ASSESSORIA\n\nCARGO\n\nQUANTITATIVO\n\nANATEL\n\nANEEL\n\nANP\n\nANVS\n\nANS\n\nCA I\n\n7\n\n10\n\n26\n\n0\n\n7\n\nCA II\n\n12\n\n31\n\n39\n\n5\n\n5\n\nCA III\n\n42\n\n21\n\n10\n\n0\n\n0\n\nDE ASSISTÊNCIA\n\nCARGO\n\nQUANTITATIVO\n\nANATEL\n\nANEEL\n\nANP\n\nANVS\n\nANS\n\nCAS I\n\n10\n\n0\n\n20\n\n0\n\n0\n\nCAS II\n\n16\n\n0\n\n0\n\n4\n\n0\n\nDE TÉCNICO\n\nCARGO\n\nQUANTITATIVO\n\nANATEL\n\nANEEL\n\nANP\n\nANVS\n\nANS\n\nCCT V\n\n36\n\n32\n\n47\n\n42\n\n34\n\nCCT IV\n\n91\n\n33\n\n39\n\n58\n\n70\n\nCCT III\n\n96\n\n26\n\n34\n\n67\n\n12\n\nCCT II\n\n53\n\n20\n\n26\n\n80\n\n16\n\nCCT I\n\n63\n\n19\n\n20\n\n38\n\nANEXO II (Revogado pela Medida Provisória nº 375, de 2007) (Revogado pela Lei nº 11.526, de 2007).\n\nQUADROS DE REMUNERAÇÃO DOS CARGOS COMISSIONADOS DE DIREÇÃO, GERÊNCIA EXECUTIVA, ASSESSORIA, ASSISTÊNCIA E TÉCNICO\n\nCARGOS COMISSIONADOS\n\nVALOR REMUNERATÓRIO (R$)\n\nCD I\n\n8.000,00\n\nCD II\n\n7.600,00\n\nCGE I\n\n7.200,00\n\nCGE II\n\n6.400,00\n\nCGE III\n\n6.000,00\n\nCGE IV\n\n4.000,00\n\nCA I\n\n6.400,00\n\nCA II\n\n6.000,00\n\nCA III\n\n1.800,00\n\nCAS I\n\n1.500,00\n\nCAS II\n\n1.300,00\n\nCCT V\n\n1.521,00\n\nCCT IV\n\n1.111,50\n\nCCT III\n\n669,50\n\nCCT II\n\n590,20\n\nCCT I\n\n522,60\n\nANEXO III\n\nLIMITES DE SALÁRIO PARA OS EMPREGOS PÚBLICOS DAS AGÊNCIAS REGULADORAS\n\nNíveis\n\nValor mínimo (R$)\n\nValor máximo (R$)\n\nSuperior\n\n1.990,00\n\n7.100,00\n\nMédio\n\n514,00\n\n3.300,00\n\nANEXO IV\n\nTABELA SALARIAL – NÍVEL MÉDIO QUADRO ESPECIAL\n\nNÍVEL SALARIAL\n\nSALÁRIO (R$)\n\n1\n\n568,10\n\n2\n\n608,69\n\n3\n\n652,36\n\n4\n\n699,40\n\n5\n\n750,06\n\n6\n\n804,61\n\n7\n\n863,39\n\n8\n\n921,66\n\n9\n\n992,68\n\n10\n\n1.060,58\n\n11\n\n1.132,60\n\n12\n\n1.210,18\n\n13\n\n1.293,69\n\n14\n\n1.383,66\n\n15\n\n1.480,50\n\n16\n\n1.584,80\n\n17\n\n1.697,14\n\n18\n\n1.818,09\n\n19\n\n1.949,25\n\n20\n\n2.088,62\n\n21\n\n2.239,68\n\n22\n\n2.402,34\n\n23\n\n2.577,52\n\n24\n\n2.766,16\n\n25\n\n2.969,35\n\n26\n\n3.188,08\n\n27\n\n3.423,67\n\nANEXO V\n\nTABELA SALARIAL – NÍVEL SUPERIOR QUADRO ESPECIAL\n\nNÍVEL SALARIAL\n\nSALÁRIO (R$)\n\n1\n\n992,68\n\n2\n\n1.060,58\n\n3\n\n1.132,60\n\n4\n\n1.210,18\n\n5\n\n1.293,69\n\n6\n\n1.383,66\n\n7\n\n1.480,50\n\n8\n\n1.584,80\n\n9\n\n1.697,14\n\n10\n\n1.818,09\n\n11\n\n1.949,25\n\n12\n\n2.088,62\n\n13\n\n2.239,68\n\n14\n\n2.402,34\n\n15\n\n2.577,52\n\n16\n\n2.766,16\n\n17\n\n2.969,35\n\n18\n\n3.188,08\n\n19\n\n3.423,67\n\n20\n\n3.677,37\n\n21\n\n3.950,58\n\n22\n\n4.244,79\n\n23\n\n4.561,63\n\n24\n\n4.902,80\n\n25\n\n5.270,24\n\n26\n\n5.665,92\n\n27\n\n6.092,02\n\n28\n\n6.218,41\n\n29\n\n6.501,40\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm#:~:text=Art.%2039.%20Ficam%20revogados%20o%20art.%208o%20da%20Lei%20no%209.427%2C%20de%2026%20de%20dezembro%20de%201996%3B%20os%20arts.%2012%2C%2013%2C%2014%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "_meta": {
+    "codigo": "L11107",
+    "nome": "Consórcios Públicos",
+    "lei": "Lei 11.107/2005",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm",
+    "total_artigos": 22,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre normas gerais para a União, os Estados, o Distrito Federal e os Municípios contratarem consórcios públicos para a realização de objetivos de interesse comum e dá outras providências.\n\n§ 1º O consórcio público constituirá associação pública ou pessoa jurídica de direito privado.\n\n§ 2º A União somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.\n\n§ 3º Os consórcios públicos, na área de saúde, deverão obedecer aos princípios, diretrizes e normas que regulam o Sistema Único de Saúde – SUS.\n\n§ 4º Aplicam-se aos convênios de cooperação, no que couber, as disposições desta Lei relativas aos consórcios públicos. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%20normas%20gerais%20para%20a%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20contratarem%20cons%C3%B3rcios%20p%C3%BAblicos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os objetivos dos consórcios públicos serão determinados pelos entes da Federação que se consorciarem, observados os limites constitucionais.\n\n§ 1º Para o cumprimento de seus objetivos, o consórcio público poderá:\n\nI – firmar convênios, contratos, acordos de qualquer natureza, receber auxílios, contribuições e subvenções sociais ou econômicas de outras entidades e órgãos do governo;\n\nII – nos termos do contrato de consórcio de direito público, promover desapropriações e instituir servidões nos termos de declaração de utilidade ou necessidade pública, ou interesse social, realizada pelo Poder Público; e\n\nIII – ser contratado pela administração direta ou indireta dos entes da Federação consorciados, dispensada a licitação.\n\n§ 2º Os consórcios públicos poderão emitir documentos de cobrança e exercer atividades de arrecadação de tarifas e outros preços públicos pela prestação de serviços ou pelo uso ou outorga de uso de bens públicos por eles administrados ou, mediante autorização específica, pelo ente da Federação consorciado.\n\n§ 3º Os consórcios públicos poderão outorgar concessão, permissão ou autorização de obras ou serviços públicos mediante autorização prevista no contrato de consórcio público, que deverá indicar de forma específica o objeto da concessão, permissão ou autorização e as condições a que deverá atender, observada a legislação de normas gerais em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%202%C2%BA%20Os%20objetivos%20dos%20cons%C3%B3rcios%20p%C3%BAblicos%20ser%C3%A3o%20determinados%20pelos%20entes%20da%20Federa%C3%A7%C3%A3o%20que%20se%20consorciarem%2C%20observados%20os%20limites%20constitucionais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O consórcio público será constituído por contrato cuja celebração dependerá da prévia subscrição de protocolo de intenções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%203%C2%BA%20O%20cons%C3%B3rcio%20p%C3%BAblico%20ser%C3%A1%20constitu%C3%ADdo%20por%20contrato%20cuja%20celebra%C3%A7%C3%A3o%20depender%C3%A1%20da%20pr%C3%A9via%20subscri%C3%A7%C3%A3o%20de%20protocolo%20de%20inten%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º São cláusulas necessárias do protocolo de intenções as que estabeleçam:\n\nI – a denominação, a finalidade, o prazo de duração e a sede do consórcio;\n\nII – a identificação dos entes da Federação consorciados;\n\nIII – a indicação da área de atuação do consórcio;\n\nIV – a previsão de que o consórcio público é associação pública ou pessoa jurídica de direito privado sem fins econômicos;\n\nV – os critérios para, em assuntos de interesse comum, autorizar o consórcio público a representar os entes da Federação consorciados perante outras esferas de governo;\n\nVI – as normas de convocação e funcionamento da assembléia geral, inclusive para a elaboração, aprovação e modificação dos estatutos do consórcio público;\n\nVII – a previsão de que a assembléia geral é a instância máxima do consórcio público e o número de votos para as suas deliberações;\n\nVIII – a forma de eleição e a duração do mandato do representante legal do consórcio público que, obrigatoriamente, deverá ser Chefe do Poder Executivo de ente da Federação consorciado;\n\nIX – o número, as formas de provimento e a remuneração dos empregados públicos, bem como os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público;\n\nX – as condições para que o consórcio público celebre contrato de gestão ou termo de parceria;\n\nXI – a autorização para a gestão associada de serviços públicos, explicitando:\n\na) as competências cujo exercício se transferiu ao consórcio público;\n\nb) os serviços públicos objeto da gestão associada e a área em que serão prestados;\n\nc) a autorização para licitar ou outorgar concessão, permissão ou autorização da prestação dos serviços;\n\nd) as condições a que deve obedecer o contrato de programa, no caso de a gestão associada envolver também a prestação de serviços por órgão ou entidade de um dos entes da Federação consorciados;\n\ne) os critérios técnicos para cálculo do valor das tarifas e de outros preços públicos, bem como para seu reajuste ou revisão; e\n\nXII – o direito de qualquer dos contratantes, quando adimplente com suas obrigações, de exigir o pleno cumprimento das cláusulas do contrato de consórcio público.\n\n§ 1º Para os fins do inciso III do caput deste artigo, considera-se como área de atuação do consórcio público, independentemente de figurar a União como consorciada, a que corresponde à soma dos territórios:\n\nI – dos Municípios, quando o consórcio público for constituído somente por Municípios ou por um Estado e Municípios com territórios nele contidos;\n\nII – dos Estados ou dos Estados e do Distrito Federal, quando o consórcio público for, respectivamente, constituído por mais de 1 (um) Estado ou por 1 (um) ou mais Estados e o Distrito Federal;\n\nIII – (VETADO)\n\nIV – dos Municípios e do Distrito Federal, quando o consórcio for constituído pelo Distrito Federal e os Municípios; e\n\nV – (VETADO)\n\n§ 2º O protocolo de intenções deve definir o número de votos que cada ente da Federação consorciado possui na assembléia geral, sendo assegurado 1 (um) voto a cada ente consorciado.\n\n§ 3º É nula a cláusula do contrato de consórcio que preveja determinadas contribuições financeiras ou econômicas de ente da Federação ao consórcio público, salvo a doação, destinação ou cessão do uso de bens móveis ou imóveis e as transferências ou cessões de direitos operadas por força de gestão associada de serviços públicos.\n\n§ 4º Os entes da Federação consorciados, ou os com eles conveniados, poderão ceder-lhe servidores, na forma e condições da legislação de cada um.\n\n§ 5º O protocolo de intenções deverá ser publicado na imprensa oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%204%C2%BA%20S%C3%A3o%20cl%C3%A1usulas%20necess%C3%A1rias%20do%20protocolo%20de%20inten%C3%A7%C3%B5es%20as%20que%20estabele%C3%A7am%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O contrato de consórcio público será celebrado com a ratificação, mediante lei, do protocolo de intenções.\n\n§ 1º O contrato de consórcio público, caso assim preveja cláusula, pode ser celebrado por apenas 1 (uma) parcela dos entes da Federação que subscreveram o protocolo de intenções.\n\n§ 2º A ratificação pode ser realizada com reserva que, aceita pelos demais entes subscritores, implicará consorciamento parcial ou condicional.\n\n§ 3º A ratificação realizada após 2 (dois) anos da subscrição do protocolo de intenções dependerá de homologação da assembléia geral do consórcio público.\n\n§ 4º É dispensado da ratificação prevista no caput deste artigo o ente da Federação que, antes de subscrever o protocolo de intenções, disciplinar por lei a sua participação no consórcio público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%205%C2%BA%20O%20contrato%20de%20cons%C3%B3rcio%20p%C3%BAblico%20ser%C3%A1%20celebrado%20com%20a%20ratifica%C3%A7%C3%A3o%2C%20mediante%20lei%2C%20do%20protocolo%20de%20inten%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O consórcio público adquirirá personalidade jurídica:\n\nI – de direito público, no caso de constituir associação pública, mediante a vigência das leis de ratificação do protocolo de intenções;\n\nII – de direito privado, mediante o atendimento dos requisitos da legislação civil.\n\n§ 1º O consórcio público com personalidade jurídica de direito público integra a administração indireta de todos os entes da Federação consorciados.\n\n§ 2º No caso de se revestir de personalidade jurídica de direito privado, o consórcio público observará as normas de direito público no que concerne à realização de licitação, celebração de contratos, prestação de contas e admissão de pessoal, que será regido pela Consolidação das Leis do Trabalho - CLT.\n\n§ 2º O consórcio público, com personalidade jurídica de direito público ou privado, observará as normas de direito público no que concerne à realização de licitação, à celebração de contratos, à prestação de contas e à admissão de pessoal, que será regido pela Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. (Redação dada pela Lei nº 13.822, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%206%C2%BA%20O%20cons%C3%B3rcio%20p%C3%BAblico%20adquirir%C3%A1%20personalidade%20jur%C3%ADdica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os estatutos disporão sobre a organização e o funcionamento de cada um dos órgãos constitutivos do consórcio público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%207%C2%BA%20Os%20estatutos%20dispor%C3%A3o%20sobre%20a%20organiza%C3%A7%C3%A3o%20e%20o%20funcionamento%20de%20cada%20um%20dos%20%C3%B3rg%C3%A3os%20constitutivos%20do%20cons%C3%B3rcio%20p%C3%BAblico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Os entes consorciados somente entregarão recursos ao consórcio público mediante contrato de rateio.\n\n§ 1º O contrato de rateio será formalizado em cada exercício financeiro e seu prazo de vigência não será superior ao das dotações que o suportam, com exceção dos contratos que tenham por objeto exclusivamente projetos consistentes em programas e ações contemplados em plano plurianual ou a gestão associada de serviços públicos custeados por tarifas ou outros preços públicos.\n\n§ 1º O contrato de rateio será formalizado em cada exercício financeiro, e seu prazo de vigência não será superior ao das dotações que o suportam, com exceção dos contratos que tenham por objeto exclusivamente projetos consistentes em programas e ações contemplados em plano plurianual. (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 2º É vedada a aplicação dos recursos entregues por meio de contrato de rateio para o atendimento de despesas genéricas, inclusive transferências ou operações de crédito.\n\n§ 3º Os entes consorciados, isolados ou em conjunto, bem como o consórcio público, são partes legítimas para exigir o cumprimento das obrigações previstas no contrato de rateio.\n\n§ 4º Com o objetivo de permitir o atendimento dos dispositivos da Lei Complementar nº 101, de 4 de maio de 2000, o consórcio público deve fornecer as informações necessárias para que sejam consolidadas, nas contas dos entes consorciados, todas as despesas realizadas com os recursos entregues em virtude de contrato de rateio, de forma que possam ser contabilizadas nas contas de cada ente da Federação na conformidade dos elementos econômicos e das atividades ou projetos atendidos.\n\n§ 5º Poderá ser excluído do consórcio público, após prévia suspensão, o ente consorciado que não consignar, em sua lei orçamentária ou em créditos adicionais, as dotações suficientes para suportar as despesas assumidas por meio de contrato de rateio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%208%C2%BA%20Os%20entes%20consorciados%20somente%20entregar%C3%A3o%20recursos%20ao%20cons%C3%B3rcio%20p%C3%BAblico%20mediante%20contrato%20de%20rateio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A execução das receitas e despesas do consórcio público deverá obedecer às normas de direito financeiro aplicáveis às entidades públicas.\n\nParágrafo único. O consórcio público está sujeito à fiscalização contábil, operacional e patrimonial pelo Tribunal de Contas competente para apreciar as contas do Chefe do Poder Executivo representante legal do consórcio, inclusive quanto à legalidade, legitimidade e economicidade das despesas, atos, contratos e renúncia de receitas, sem prejuízo do controle externo a ser exercido em razão de cada um dos contratos de rateio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%209%C2%BA%20A%20execu%C3%A7%C3%A3o%20das%20receitas%20e%20despesas%20do%20cons%C3%B3rcio%20p%C3%BAblico%20dever%C3%A1%20obedecer%20%C3%A0s%20normas%20de%20direito%20financeiro%20aplic%C3%A1veis%20%C3%A0s%20entidades%20p%C3%BAblicas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. (VETADO)\n\nParágrafo único. Os agentes públicos incumbidos da gestão de consórcio não responderão pessoalmente pelas obrigações contraídas pelo consórcio público, mas responderão pelos atos praticados em desconformidade com a lei ou com as disposições dos respectivos estatutos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2010.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A retirada do ente da Federação do consórcio público dependerá de ato formal de seu representante na assembléia geral, na forma previamente disciplinada por lei.\n\n§ 1º Os bens destinados ao consórcio público pelo consorciado que se retira somente serão revertidos ou retrocedidos no caso de expressa previsão no contrato de consórcio público ou no instrumento de transferência ou de alienação.\n\n§ 2º A retirada ou a extinção do consórcio público não prejudicará as obrigações já constituídas, inclusive os contratos de programa, cuja extinção dependerá do prévio pagamento das indenizações eventualmente devidas.\n\n§ 2º A retirada ou a extinção de consórcio público ou convênio de cooperação não prejudicará as obrigações já constituídas, inclusive os contratos, cuja extinção dependerá do pagamento das indenizações eventualmente devidas. (Redação dada pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2011.%20A%20retirada%20do%20ente%20da%20Federa%C3%A7%C3%A3o%20do%20cons%C3%B3rcio%20p%C3%BAblico%20depender%C3%A1%20de%20ato%20formal%20de%20seu%20representante%20na%20assembl%C3%A9ia%20geral%2C%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A alteração ou a extinção de contrato de consórcio público dependerá de instrumento aprovado pela assembléia geral, ratificado mediante lei por todos os entes consorciados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2012.%20A%20altera%C3%A7%C3%A3o%20ou%20a%20extin%C3%A7%C3%A3o%20de%20contrato%20de%20cons%C3%B3rcio%20p%C3%BAblico%20depender%C3%A1%20de%20instrumento%20aprovado%20pela%20assembl%C3%A9ia%20geral%2C%20ratificado%20mediante%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12-A"
+    },
+    "12-A": {
+      "numero": "12-A",
+      "texto": "Art. 12-A. A alteração de contrato de consórcio público dependerá de instrumento aprovado pela assembleia geral, ratificado mediante lei pela maioria dos entes consorciados. (Incluído pela Lei nº 14.662, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2012-A.%20A%20altera%C3%A7%C3%A3o%20de%20contrato%20de%20cons%C3%B3rcio%20p%C3%BAblico%20depender%C3%A1%20de%20instrumento%20aprovado%20pela%20assembleia%20geral%2C%20ratificado%20mediante%20lei%20pela%20maioria%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Deverão ser constituídas e reguladas por contrato de programa, como condição de sua validade, as obrigações que um ente da Federação constituir para com outro ente da Federação ou para com consórcio público no âmbito de gestão associada em que haja a prestação de serviços públicos ou a transferência total ou parcial de encargos, serviços, pessoal ou de bens necessários à continuidade dos serviços transferidos.\n\n§ 1º O contrato de programa deverá:\n\nI – atender à legislação de concessões e permissões de serviços públicos e, especialmente no que se refere ao cálculo de tarifas e de outros preços públicos, à de regulação dos serviços a serem prestados; e\n\nII – prever procedimentos que garantam a transparência da gestão econômica e financeira de cada serviço em relação a cada um de seus titulares.\n\n§ 2º No caso de a gestão associada originar a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos, o contrato de programa, sob pena de nulidade, deverá conter cláusulas que estabeleçam:\n\nI – os encargos transferidos e a responsabilidade subsidiária da entidade que os transferiu;\n\nII – as penalidades no caso de inadimplência em relação aos encargos transferidos;\n\nIII – o momento de transferência dos serviços e os deveres relativos a sua continuidade;\n\nIV – a indicação de quem arcará com o ônus e os passivos do pessoal transferido;\n\nV – a identificação dos bens que terão apenas a sua gestão e administração transferidas e o preço dos que sejam efetivamente alienados ao contratado;\n\nVI – o procedimento para o levantamento, cadastro e avaliação dos bens reversíveis que vierem a ser amortizados mediante receitas de tarifas ou outras emergentes da prestação dos serviços.\n\n§ 3º É nula a cláusula de contrato de programa que atribuir ao contratado o exercício dos poderes de planejamento, regulação e fiscalização dos serviços por ele próprio prestados.\n\n§ 4º O contrato de programa continuará vigente mesmo quando extinto o consórcio público ou o convênio de cooperação que autorizou a gestão associada de serviços públicos.\n\n§ 5º Mediante previsão do contrato de consórcio público, ou de convênio de cooperação, o contrato de programa poderá ser celebrado por entidades de direito público ou privado que integrem a administração indireta de qualquer dos entes da Federação consorciados ou conveniados.\n\n§ 6º O contrato celebrado na forma prevista no § 5º deste artigo será automaticamente extinto no caso de o contratado não mais integrar a administração indireta do ente da Federação que autorizou a gestão associada de serviços públicos por meio de consórcio público ou de convênio de cooperação.\n\n§ 6º (Revogado). (Redação dada pela Lei nº 14.026, de 2020)\n\n§ 7º Excluem-se do previsto no caput deste artigo as obrigações cujo descumprimento não acarrete qualquer ônus, inclusive financeiro, a ente da Federação ou a consórcio público.\n\n§ 8º Os contratos de prestação de serviços públicos de saneamento básico deverão observar o art. 175 da Constituição Federal, vedada a formalização de novos contratos de programa para esse fim. (Incluído pela Lei nº 14.026, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2013.%20Dever%C3%A3o%20ser%20constitu%C3%ADdas%20e%20reguladas%20por%20contrato%20de%20programa%2C%20como%20condi%C3%A7%C3%A3o%20de%20sua%20validade%2C%20as%20obriga%C3%A7%C3%B5es%20que%20um%20ente%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-A",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A União poderá celebrar convênios com os consórcios públicos, com o objetivo de viabilizar a descentralização e a prestação de políticas públicas em escalas adequadas.\n\nParágrafo único. Para a celebração dos convênios de que trata o caput deste artigo, as exigências legais de regularidade aplicar-se-ão ao próprio consórcio público envolvido, e não aos entes federativos nele consorciados. (Incluído pela Lei nº 13.821, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2014.%20A%20Uni%C3%A3o%20poder%C3%A1%20celebrar%20conv%C3%AAnios%20com%20os%20cons%C3%B3rcios%20p%C3%BAblicos%2C%20com%20o%20objetivo%20de%20viabilizar%20a%20descentraliza%C3%A7%C3%A3o%20e%20a%20presta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. No que não contrariar esta Lei, a organização e funcionamento dos consórcios públicos serão disciplinados pela legislação que rege as associações civis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2015.%20No%20que%20n%C3%A3o%20contrariar%20esta%20Lei%2C%20a%20organiza%C3%A7%C3%A3o%20e%20funcionamento%20dos%20cons%C3%B3rcios%20p%C3%BAblicos%20ser%C3%A3o%20disciplinados%20pela%20legisla%C3%A7%C3%A3o%20que%20rege%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O inciso IV do art. 41 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, passa a vigorar com a seguinte redação:\n\n\"Art. 41. ...................................................................................\n\n................................................................................................\n\nIV – as autarquias, inclusive as associações públicas;\n\n........................................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2016.%20O%20inciso%20IV%20do%20art.%2041%20da%20Lei%20n%C2%BA%2010.406%2C%20de%2010%20de%20janeiro%20de%202002%20-%20C%C3%B3digo%20Civil%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os arts. 23, 24, 26 e 112 da Lei no 8.666, de 21 de junho de 1993, passam a vigorar com a seguinte redação:\n\n\"Art. 23. ...................................................................................\n\n................................................................................................\n\n§ 8º No caso de consórcios públicos, aplicar-se-á o dobro dos valores mencionados no caput deste artigo quando formado por até 3 (três) entes da Federação, e o triplo, quando formado por maior número.\" (NR)\n\n\"Art. 24. ...................................................................................\n\n................................................................................................\n\nXXVI – na celebração de contrato de programa com ente da Federação ou com entidade de sua administração indireta, para a prestação de serviços públicos de forma associada nos termos do autorizado em contrato de consórcio público ou em convênio de cooperação.\n\nParágrafo único. Os percentuais referidos nos incisos I e II do caput deste artigo serão 20% (vinte por cento) para compras, obras e serviços contratados por consórcios públicos, sociedade de economia mista, empresa pública e por autarquia ou fundação qualificadas, na forma da lei, como Agências Executivas.\" (NR)\n\n\"Art. 26. As dispensas previstas nos §§ 2º e 4º do art. 17 e no inciso III e seguintes do art. 24, as situações de inexigibilidade referidas no art. 25, necessariamente justificadas, e o retardamento previsto no final do parágrafo único do art. 8º desta Lei deverão ser comunicados, dentro de 3 (três) dias, à autoridade superior, para ratificação e publicação na imprensa oficial, no prazo de 5 (cinco) dias, como condição para a eficácia dos atos.\n\n......................................................................................\" (NR)\n\n\"Art. 112. ................................................................................\n\n§ 1º Os consórcios públicos poderão realizar licitação da qual, nos termos do edital, decorram contratos administrativos celebrados por órgãos ou entidades dos entes da Federação consorciados.\n\n§ 2º É facultado à entidade interessada o acompanhamento da licitação e da execução do contrato.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2017.%20Os%20arts.%2023%2C%2024%2C%2026%20e%20112%20da%20Lei%20no%208.666%2C%20de%2021%20de%20junho%20de%201993%2C%20passam%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O art. 10 da Lei no 8.429, de 2 de junho de 1992, passa a vigorar acrescido dos seguintes incisos:\n\n\"Art. 10. ...................................................................................\n\n................................................................................................\n\nXIV – celebrar contrato ou outro instrumento que tenha por objeto a prestação de serviços públicos por meio da gestão associada sem observar as formalidades previstas na lei;\n\nXV – celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2018.%20O%20art.%2010%20da%20Lei%20no%208.429%2C%20de%202%20de%20junho%20de%201992%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes%20incisos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O disposto nesta Lei não se aplica aos convênios de cooperação, contratos de programa para gestão associada de serviços públicos ou instrumentos congêneres, que tenham sido celebrados anteriormente a sua vigência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2019.%20O%20disposto%20nesta%20Lei%20n%C3%A3o%20se%20aplica%20aos%20conv%C3%AAnios%20de%20coopera%C3%A7%C3%A3o%2C%20contratos%20de%20programa%20para%20gest%C3%A3o%20associada%20de%20servi%C3%A7os%20p%C3%BAblicos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O Poder Executivo da União regulamentará o disposto nesta Lei, inclusive as normas gerais de contabilidade pública que serão observadas pelos consórcios públicos para que sua gestão financeira e orçamentária se realize na conformidade dos pressupostos da responsabilidade fiscal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2020.%20O%20Poder%20Executivo%20da%20Uni%C3%A3o%20regulamentar%C3%A1%20o%20disposto%20nesta%20Lei%2C%20inclusive%20as%20normas%20gerais%20de%20contabilidade%20p%C3%BAblica%20que%20ser%C3%A3o%20observadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 6 de abril de 2005; 184º da Independência e 117º da República.\n\nLUIZ INÁCIO LULA DA SILVA Márcio Thomaz Bastos Antonio Palocci Filho Humberto Sérgio Costa Lima Nelson Machado José Dirceu de Oliveira e Silva\n\nEste texto não substitui o publicado no DOU de 7.4.2005.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm#:~:text=Art.%2021.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": null
+    }
+  }
+}

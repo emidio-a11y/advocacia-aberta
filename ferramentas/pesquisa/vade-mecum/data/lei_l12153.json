@@ -1,0 +1,463 @@
+{
+  "_meta": {
+    "codigo": "L12153",
+    "nome": "Juizados da Fazenda Pública",
+    "lei": "Lei 12.153/2009",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm",
+    "total_artigos": 28,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Os Juizados Especiais da Fazenda Pública, órgãos da justiça comum e integrantes do Sistema dos Juizados Especiais, serão criados pela União, no Distrito Federal e nos Territórios, e pelos Estados, para conciliação, processo, julgamento e execução, nas causas de sua competência.\n\nParágrafo único. O sistema dos Juizados Especiais dos Estados e do Distrito Federal é formado pelos Juizados Especiais Cíveis, Juizados Especiais Criminais e Juizados Especiais da Fazenda Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%201o%20Os%20Juizados%20Especiais%20da%20Fazenda%20P%C3%BAblica%2C%20%C3%B3rg%C3%A3os%20da%20justi%C3%A7a%20comum%20e%20integrantes%20do%20Sistema%20dos%20Juizados%20Especiais%2C%20ser%C3%A3o%20criados%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o É de competência dos Juizados Especiais da Fazenda Pública processar, conciliar e julgar causas cíveis de interesse dos Estados, do Distrito Federal, dos Territórios e dos Municípios, até o valor de 60 (sessenta) salários mínimos.\n\n§ 1o Não se incluem na competência do Juizado Especial da Fazenda Pública:\n\nI – as ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, por improbidade administrativa, execuções fiscais e as demandas sobre direitos ou interesses difusos e coletivos;\n\nII – as causas sobre bens imóveis dos Estados, Distrito Federal, Territórios e Municípios, autarquias e fundações públicas a eles vinculadas;\n\nIII – as causas que tenham como objeto a impugnação da pena de demissão imposta a servidores públicos civis ou sanções disciplinares aplicadas a militares.\n\n§ 2o Quando a pretensão versar sobre obrigações vincendas, para fins de competência do Juizado Especial, a soma de 12 (doze) parcelas vincendas e de eventuais parcelas vencidas não poderá exceder o valor referido no caput deste artigo.\n\n§ 3o (VETADO)\n\n§ 4o No foro onde estiver instalado Juizado Especial da Fazenda Pública, a sua competência é absoluta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%202o%20%C3%89%20de%20compet%C3%AAncia%20dos%20Juizados%20Especiais%20da%20Fazenda%20P%C3%BAblica%20processar%2C%20conciliar%20e%20julgar%20causas%20c%C3%ADveis%20de%20interesse%20dos%20Estados%2C%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O juiz poderá, de ofício ou a requerimento das partes, deferir quaisquer providências cautelares e antecipatórias no curso do processo, para evitar dano de difícil ou de incerta reparação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%203o%20O%20juiz%20poder%C3%A1%2C%20de%20of%C3%ADcio%20ou%20a%20requerimento%20das%20partes%2C%20deferir%20quaisquer%20provid%C3%AAncias%20cautelares%20e%20antecipat%C3%B3rias%20no%20curso%20do%20processo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Exceto nos casos do art. 3o, somente será admitido recurso contra a sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%204o%20Exceto%20nos%20casos%20do%20art.%203o%2C%20somente%20ser%C3%A1%20admitido%20recurso%20contra%20a%20senten%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Podem ser partes no Juizado Especial da Fazenda Pública:\n\nI – como autores, as pessoas físicas e as microempresas e empresas de pequeno porte, assim definidas na Lei Complementar no 123, de 14 de dezembro de 2006;\n\nII – como réus, os Estados, o Distrito Federal, os Territórios e os Municípios, bem como autarquias, fundações e empresas públicas a eles vinculadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%205o%20Podem%20ser%20partes%20no%20Juizado%20Especial%20da%20Fazenda%20P%C3%BAblica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Quanto às citações e intimações, aplicam-se as disposições contidas na Lei no 5.869, de 11 de janeiro de 1973 – Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%206o%20Quanto%20%C3%A0s%20cita%C3%A7%C3%B5es%20e%20intima%C3%A7%C3%B5es%2C%20aplicam-se%20as%20disposi%C3%A7%C3%B5es%20contidas%20na%20Lei%20no%205.869%2C%20de%2011%20de%20janeiro%20de%201973%20%E2%80%93",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Não haverá prazo diferenciado para a prática de qualquer ato processual pelas pessoas jurídicas de direito público, inclusive a interposição de recursos, devendo a citação para a audiência de conciliação ser efetuada com antecedência mínima de 30 (trinta) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%207o%20N%C3%A3o%20haver%C3%A1%20prazo%20diferenciado%20para%20a%20pr%C3%A1tica%20de%20qualquer%20ato%20processual%20pelas%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%2C%20inclusive%20a%20interposi%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Os representantes judiciais dos réus presentes à audiência poderão conciliar, transigir ou desistir nos processos da competência dos Juizados Especiais, nos termos e nas hipóteses previstas na lei do respectivo ente da Federação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%208o%20Os%20representantes%20judiciais%20dos%20r%C3%A9us%20presentes%20%C3%A0%20audi%C3%AAncia%20poder%C3%A3o%20conciliar%2C%20transigir%20ou%20desistir%20nos%20processos%20da%20compet%C3%AAncia%20dos%20Juizados%20Especiais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o A entidade ré deverá fornecer ao Juizado a documentação de que disponha para o esclarecimento da causa, apresentando-a até a instalação da audiência de conciliação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%209o%20A%20entidade%20r%C3%A9%20dever%C3%A1%20fornecer%20ao%20Juizado%20a%20documenta%C3%A7%C3%A3o%20de%20que%20disponha%20para%20o%20esclarecimento%20da%20causa%2C%20apresentando-a%20at%C3%A9%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Para efetuar o exame técnico necessário à conciliação ou ao julgamento da causa, o juiz nomeará pessoa habilitada, que apresentará o laudo até 5 (cinco) dias antes da audiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2010.%20Para%20efetuar%20o%20exame%20t%C3%A9cnico%20necess%C3%A1rio%20%C3%A0%20concilia%C3%A7%C3%A3o%20ou%20ao%20julgamento%20da%20causa%2C%20o%20juiz%20nomear%C3%A1%20pessoa%20habilitada%2C%20que%20apresentar%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Nas causas de que trata esta Lei, não haverá reexame necessário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2011.%20Nas%20causas%20de%20que%20trata%20esta%20Lei%2C%20n%C3%A3o%20haver%C3%A1%20reexame%20necess%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O cumprimento do acordo ou da sentença, com trânsito em julgado, que imponham obrigação de fazer, não fazer ou entrega de coisa certa, será efetuado mediante ofício do juiz à autoridade citada para a causa, com cópia da sentença ou do acordo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2012.%20O%20cumprimento%20do%20acordo%20ou%20da%20senten%C3%A7a%2C%20com%20tr%C3%A2nsito%20em%20julgado%2C%20que%20imponham%20obriga%C3%A7%C3%A3o%20de%20fazer%2C%20n%C3%A3o%20fazer%20ou%20entrega",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento será efetuado:\n\nI – no prazo máximo de 60 (sessenta) dias, contado da entrega da requisição do juiz à autoridade citada para a causa, independentemente de precatório, na hipótese do § 3o do art. 100 da Constituição Federal; ou\n\nII – mediante precatório, caso o montante da condenação exceda o valor definido como obrigação de pequeno valor.\n\n§ 1o Desatendida a requisição judicial, o juiz, imediatamente, determinará o sequestro do numerário suficiente ao cumprimento da decisão, dispensada a audiência da Fazenda Pública.\n\n§ 2o As obrigações definidas como de pequeno valor a serem pagas independentemente de precatório terão como limite o que for estabelecido na lei do respectivo ente da Federação.\n\n§ 3o Até que se dê a publicação das leis de que trata o § 2o, os valores serão:\n\nI – 40 (quarenta) salários mínimos, quanto aos Estados e ao Distrito Federal;\n\nII – 30 (trinta) salários mínimos, quanto aos Municípios.\n\n§ 4o São vedados o fracionamento, a repartição ou a quebra do valor da execução, de modo que o pagamento se faça, em parte, na forma estabelecida no inciso I do caput e, em parte, mediante expedição de precatório, bem como a expedição de precatório complementar ou suplementar do valor pago.\n\n§ 5o Se o valor da execução ultrapassar o estabelecido para pagamento independentemente do precatório, o pagamento far-se-á, sempre, por meio do precatório, sendo facultada à parte exequente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório.\n\n§ 6o O saque do valor depositado poderá ser feito pela parte autora, pessoalmente, em qualquer agência do banco depositário, independentemente de alvará.\n\n§ 7o O saque por meio de procurador somente poderá ser feito na agência destinatária do depósito, mediante procuração específica, com firma reconhecida, da qual constem o valor originalmente depositado e sua procedência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2013.%20Tratando-se%20de%20obriga%C3%A7%C3%A3o%20de%20pagar%20quantia%20certa%2C%20ap%C3%B3s%20o%20tr%C3%A2nsito%20em%20julgado%20da%20decis%C3%A3o%2C%20o%20pagamento%20ser%C3%A1%20efetuado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Os Juizados Especiais da Fazenda Pública serão instalados pelos Tribunais de Justiça dos Estados e do Distrito Federal.\n\nParágrafo único. Poderão ser instalados Juizados Especiais Adjuntos, cabendo ao Tribunal designar a Vara onde funcionará.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2014.%20Os%20Juizados%20Especiais%20da%20Fazenda%20P%C3%BAblica%20ser%C3%A3o%20instalados%20pelos%20Tribunais%20de%20Justi%C3%A7a%20dos%20Estados%20e%20do%20Distrito%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Serão designados, na forma da legislação dos Estados e do Distrito Federal, conciliadores e juízes leigos dos Juizados Especiais da Fazenda Pública, observadas as atribuições previstas nos arts. 22, 37 e 40 da Lei no 9.099, de 26 de setembro de 1995.\n\n§ 1o Os conciliadores e juízes leigos são auxiliares da Justiça, recrutados, os primeiros, preferentemente, entre os bacharéis em Direito, e os segundos, entre advogados com mais de 2 (dois) anos de experiência.\n\n§ 2o Os juízes leigos ficarão impedidos de exercer a advocacia perante todos os Juizados Especiais da Fazenda Pública instalados em território nacional, enquanto no desempenho de suas funções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2015.%20Ser%C3%A3o%20designados%2C%20na%20forma%20da%20legisla%C3%A7%C3%A3o%20dos%20Estados%20e%20do%20Distrito%20Federal%2C%20conciliadores%20e%20ju%C3%ADzes%20leigos%20dos%20Juizados%20Especiais%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Cabe ao conciliador, sob a supervisão do juiz, conduzir a audiência de conciliação.\n\n§ 1o Poderá o conciliador, para fins de encaminhamento da composição amigável, ouvir as partes e testemunhas sobre os contornos fáticos da controvérsia.\n\n§ 2o Não obtida a conciliação, caberá ao juiz presidir a instrução do processo, podendo dispensar novos depoimentos, se entender suficientes para o julgamento da causa os esclarecimentos já constantes dos autos, e não houver impugnação das partes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2016.%20Cabe%20ao%20conciliador%2C%20sob%20a%20supervis%C3%A3o%20do%20juiz%2C%20conduzir%20a%20audi%C3%AAncia%20de%20concilia%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As Turmas Recursais do Sistema dos Juizados Especiais são compostas por juízes em exercício no primeiro grau de jurisdição, na forma da legislação dos Estados e do Distrito Federal, com mandato de 2 (dois) anos, e integradas, preferencialmente, por juízes do Sistema dos Juizados Especiais.\n\n§ 1o A designação dos juízes das Turmas Recursais obedecerá aos critérios de antiguidade e merecimento.\n\n§ 2o Não será permitida a recondução, salvo quando não houver outro juiz na sede da Turma Recursal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2017.%20As%20Turmas%20Recursais%20do%20Sistema%20dos%20Juizados%20Especiais%20s%C3%A3o%20compostas%20por%20ju%C3%ADzes%20em%20exerc%C3%ADcio%20no%20primeiro%20grau%20de%20jurisdi%C3%A7%C3%A3o%2C%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.\n\n§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.\n\n§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.\n\n§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2018.%20Caber%C3%A1%20pedido%20de%20uniformiza%C3%A7%C3%A3o%20de%20interpreta%C3%A7%C3%A3o%20de%20lei%20quando%20houver%20diverg%C3%AAncia%20entre%20decis%C3%B5es%20proferidas%20por%20Turmas%20Recursais%20sobre%20quest%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1o do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.\n\n§ 1o Eventuais pedidos de uniformização fundados em questões idênticas e recebidos subsequentemente em quaisquer das Turmas Recursais ficarão retidos nos autos, aguardando pronunciamento do Superior Tribunal de Justiça.\n\n§ 2o Nos casos do caput deste artigo e do § 3o do art. 18, presente a plausibilidade do direito invocado e havendo fundado receio de dano de difícil reparação, poderá o relator conceder, de ofício ou a requerimento do interessado, medida liminar determinando a suspensão dos processos nos quais a controvérsia esteja estabelecida.\n\n§ 3o Se necessário, o relator pedirá informações ao Presidente da Turma Recursal ou Presidente da Turma de Uniformização e, nos casos previstos em lei, ouvirá o Ministério Público, no prazo de 5 (cinco) dias.\n\n§ 4o (VETADO)\n\n§ 5o Decorridos os prazos referidos nos §§ 3o e 4o, o relator incluirá o pedido em pauta na sessão, com preferência sobre todos os demais feitos, ressalvados os processos com réus presos, os habeas corpus e os mandados de segurança.\n\n§ 6o Publicado o acórdão respectivo, os pedidos retidos referidos no § 1o serão apreciados pelas Turmas Recursais, que poderão exercer juízo de retratação ou os declararão prejudicados, se veicularem tese não acolhida pelo Superior Tribunal de Justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2019.%20Quando%20a%20orienta%C3%A7%C3%A3o%20acolhida%20pelas%20Turmas%20de%20Uniformiza%C3%A7%C3%A3o%20de%20que%20trata%20o%20%C2%A7%201o%20do%20art.%2018%20contrariar%20s%C3%BAmula%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os Tribunais de Justiça, o Superior Tribunal de Justiça e o Supremo Tribunal Federal, no âmbito de suas competências, expedirão normas regulamentando os procedimentos a serem adotados para o processamento e o julgamento do pedido de uniformização e do recurso extraordinário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2020.%20Os%20Tribunais%20de%20Justi%C3%A7a%2C%20o%20Superior%20Tribunal%20de%20Justi%C3%A7a%20e%20o%20Supremo%20Tribunal%20Federal%2C%20no%20%C3%A2mbito%20de%20suas%20compet%C3%AAncias%2C%20expedir%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O recurso extraordinário, para os efeitos desta Lei, será processado e julgado segundo o estabelecido no art. 19, além da observância das normas do Regimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2021.%20O%20recurso%20extraordin%C3%A1rio%2C%20para%20os%20efeitos%20desta%20Lei%2C%20ser%C3%A1%20processado%20e%20julgado%20segundo%20o%20estabelecido%20no%20art.%2019%2C%20al%C3%A9m%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os Juizados Especiais da Fazenda Pública serão instalados no prazo de até 2 (dois) anos da vigência desta Lei, podendo haver o aproveitamento total ou parcial das estruturas das atuais Varas da Fazenda Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2022.%20Os%20Juizados%20Especiais%20da%20Fazenda%20P%C3%BAblica%20ser%C3%A3o%20instalados%20no%20prazo%20de%20at%C3%A9%202%20%28dois%29%20anos%20da%20vig%C3%AAncia%20desta%20Lei%2C%20podendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os Tribunais de Justiça poderão limitar, por até 5 (cinco) anos, a partir da entrada em vigor desta Lei, a competência dos Juizados Especiais da Fazenda Pública, atendendo à necessidade da organização dos serviços judiciários e administrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2023.%20Os%20Tribunais%20de%20Justi%C3%A7a%20poder%C3%A3o%20limitar%2C%20por%20at%C3%A9%205%20%28cinco%29%20anos%2C%20a%20partir%20da%20entrada%20em%20vigor%20desta%20Lei%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Não serão remetidas aos Juizados Especiais da Fazenda Pública as demandas ajuizadas até a data de sua instalação, assim como as ajuizadas fora do Juizado Especial por força do disposto no art. 23.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2024.%20N%C3%A3o%20ser%C3%A3o%20remetidas%20aos%20Juizados%20Especiais%20da%20Fazenda%20P%C3%BAblica%20as%20demandas%20ajuizadas%20at%C3%A9%20a%20data%20de%20sua%20instala%C3%A7%C3%A3o%2C%20assim%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Competirá aos Tribunais de Justiça prestar o suporte administrativo necessário ao funcionamento dos Juizados Especiais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2025.%20Competir%C3%A1%20aos%20Tribunais%20de%20Justi%C3%A7a%20prestar%20o%20suporte%20administrativo%20necess%C3%A1rio%20ao%20funcionamento%20dos%20Juizados%20Especiais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O disposto no art. 16 aplica-se aos Juizados Especiais Federais instituídos pela Lei no 10.259, de 12 de julho de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2026.%20O%20disposto%20no%20art.%2016%20aplica-se%20aos%20Juizados%20Especiais%20Federais%20institu%C3%ADdos%20pela%20Lei%20no%2010.259%2C%20de%2012%20de%20julho%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Aplica-se subsidiariamente o disposto nas Leis nos 5.869, de 11 de janeiro de 1973 – Código de Processo Civil, 9.099, de 26 de setembro de 1995, e 10.259, de 12 de julho de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2027.%20Aplica-se%20subsidiariamente%20o%20disposto%20nas%20Leis%20nos%205.869%2C%20de%2011%20de%20janeiro%20de%201973%20%E2%80%93%20C%C3%B3digo%20de%20Processo%20Civil%2C%209.099%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Esta Lei entra em vigor após decorridos 6 (seis) meses de sua publicação oficial.\n\nBrasília, 22 de dezembro de 2009; 188o da Independência e 121o da República.\n\nLUIZ INÁCIO LULA DA SILVA Tarso Genro\n\nEste texto não substitui o publicado no DOU de 23.12.2009",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm#:~:text=Art.%2028.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%206%20%28seis%29%20meses%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": null
+    }
+  }
+}
