@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 271 | 21.989 registros | 271 diplomas |
+| Legislação | 272 | 22.046 registros | 272 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
-| Índices auxiliares | 273 exclusivos (2 de súmulas, 271 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 549 | — | 48.756.001 bytes, cerca de 49 MB |
+| Índices auxiliares | 274 exclusivos (2 de súmulas, 272 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
+| Total em JSON | 551 | — | 48.830.717 bytes, cerca de 49 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 21.989 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 22.046 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -136,9 +136,11 @@ protocolo comum. O inventário por diploma sai de
 | `esparsas_regulatorio_outros` | 19 | 1.261 | 2026-07-19 |
 | `decretos` | 1 | 23 | 2026-07-19 |
 | `codificadas_ccom` | 1 | 448 | 2026-07-19 |
+| `empresarial_d2044` | 1 | 57 | 2026-07-19 |
 
-Todos os grupos capturáveis do manifesto estão materializados e promovidos.
-O Código Comercial de 1850 (`CCOM`), antes retido em `pendentes_especiais`
+Todas as 253 normas do manifesto estão materializadas e promovidas; o grupo
+`pendentes_especiais` foi esvaziado em 2026-07-19. O Código Comercial de 1850
+(`CCOM`), antes retido
 porque a página compilada mistura duas numerações (o corpo do Código, arts. 1º
 a 913, e o Título Único da administração da justiça comercial, com arts. 1º a
 30 próprios), foi capturado com o marcador `fim_antes` ("TÍTULO ÚNICO"), que
@@ -147,11 +149,15 @@ encerra a extração no corpo do Código — 448 dispositivos entre os arts. 457
 Primeira, revogada pelo CC/2002) e os arts. 731 a 739 (Título IX do comércio
 marítimo, revogados pela Lei 7.542/1986); não há registros para essas faixas.
 Vigência: subsiste essencialmente a Segunda Parte (comércio marítimo) — a
-conferência é por dispositivo, como em todo o acervo. Resta somente o Decreto
-2.044/1908 (letra de câmbio) em `pendentes_especiais`: a URL da planilha
-corresponde ao Decreto 2.044/1996 (isenção de vistos) — divergência flagrada
-pela conferência de cabeçalho do revisor — e a página oficial do decreto de
-1908 não foi localizada no ccivil_03. Observações das
+conferência é por dispositivo, como em todo o acervo. O Decreto 2.044/1908
+(letra de câmbio e nota promissória, `D2044`), antes retido porque a URL da
+planilha servia o Decreto 2.044/1996 (isenção de vistos) — divergência
+flagrada pela conferência de cabeçalho do revisor —, foi capturado da página
+oficial localizada em `ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm`
+(cabeçalho conferido: "DECRETO Nº 2.044, DE 31 DE DEZEMBRO DE 1908"), com os
+57 artigos em sequência completa e a ortografia da época preservada; o
+adaptador passou a tolerar as formas "TITULO", "CAPITULO" e "SECÇÃO" sem
+acento, com teste. Observações das
 fatias promovidas: a página oficial confirma o nome atual "Estatuto da Pessoa
 Idosa" (Lei 14.423/2022), mantida a sigla `EI`; a linha da planilha rotulada
 "Estatuto do Estrangeiro" corresponde à Lei de Migração (`LMIG`); os arts. 4º
@@ -189,10 +195,10 @@ texto integral.
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 271 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), codificadas_ccom (1), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), empresarial (28), regulatório/outros (19) e decretos (1); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 271 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 271 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 271 códigos do registro central |
+| Arquivos disponíveis | 272 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), codificadas_ccom (1), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), empresarial (28), empresarial_d2044 (1), regulatório/outros (19) e decretos (1); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 272 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 272 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 272 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -219,7 +225,7 @@ tribunais.
 |---|---:|---:|---|
 | `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
-| `indices/lei_*_keywords.json` (271 arquivos) | 16.205 dispositivos fora dos índices curados; a união cobre os 21.989 em relação 1:1 | 2026-07-19 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
+| `indices/lei_*_keywords.json` (272 arquivos) | 16.262 dispositivos fora dos índices curados; a união cobre os 22.046 em relação 1:1 | 2026-07-19 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
 
 São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`
 (súmulas) e o `BASE-019` (legislação), o repositório contém gerador, manifesto,

@@ -1,0 +1,927 @@
+{
+  "_meta": {
+    "codigo": "D2044",
+    "nome": "Letra de Câmbio e Nota Promissória",
+    "lei": "Decreto 2.044/1908",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm",
+    "total_artigos": 57,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º A letra de cambio é uma ordem de pagamento e deve conter estes requisitos, lançados, por extenso, no contexto:\n\nI. A denominação «letra de cambio» ou a denominação equivalente na língua em que for emittida.\n\nII. A somma de dinheiro a pagar e a especie de moeda.\n\nIII. O nome da pessoa que deve pagal-a. Esta indicação pode ser inserida abaixo do contexto.\n\nIV. O nome da pessoa a quem deve ser paga. A letra póde ser ao portador e também pode ser emittida por ordem e conta de terceiro. O sacador póde designar-se como tomador.\n\nV. A assignatura do proprio punho do sacador ou do mandatario especial. A assignatura deve ser firmada abaixo do contexto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%201%C2%BA%20A%20letra%20de%20cambio%20%C3%A9%20uma%20ordem%20de%20pagamento%20e%20deve%20conter%20estes%20requisitos%2C%20lan%C3%A7ados%2C%20por%20extenso%2C%20no%20contexto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Não será letra de cambio o escripto a que faltar qualquer dos requisitos acima enumerados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%202%C2%BA%20N%C3%A3o%20ser%C3%A1%20letra%20de%20cambio%20o%20escripto%20a%20que%20faltar%20qualquer%20dos%20requisitos%20acima%20enumerados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Esses requisitos são considerados lançados, ao tempo da emissão da letra. A prova em contrario será admittida no caso de má fé do portador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%203%C2%BA%20Esses%20requisitos%20s%C3%A3o%20considerados%20lan%C3%A7ados%2C%20ao%20tempo%20da%20emiss%C3%A3o%20da%20letra.%20A%20prova%20em%20contrario%20ser%C3%A1%20admittida%20no%20caso%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Presume-se mandato ao portador para inserir a data e o logar do saque, na letra que não os contiver.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%204%C2%BA%20Presume-se%20mandato%20ao%20portador%20para%20inserir%20a%20data%20e%20o%20logar%20do%20saque%2C%20na%20letra%20que%20n%C3%A3o%20os%20contiver.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Havendo differença entre o valor lançado por algarismo e o que se achar por extenso no corpo da letra, este ultimo será sempre considerado verdadeiro e a differença não prejudicará a letra. Diversificando as indicações da somma de dinheiro no contexto, o título não será letra de cambio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%205%C2%BA%20Havendo%20differen%C3%A7a%20entre%20o%20valor%20lan%C3%A7ado%20por%20algarismo%20e%20o%20que%20se%20achar%20por%20extenso%20no%20corpo%20da%20letra%2C%20este",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A letra pode ser passada:\n\nI. Á vista.\n\nII. A dia certo.\n\nIII. A tempo certo da data.\n\nIV. A tempo certo da vista.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%206%C2%BA%20A%20letra%20pode%20ser%20passada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A época do pagamento deve ser precisa, uma e unica para a totalidade da somma cambial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%207%C2%BA%20A%20%C3%A9poca%20do%20pagamento%20deve%20ser%20precisa%2C%20uma%20e%20unica%20para%20a%20totalidade%20da%20somma%20cambial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "I",
+        "chapter_name": "CAPITULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O endosso transmitte a propriedade da letra de cambio.\n\nPara a validade do endosso, é sufficiente a simples assignatura do proprio punho do endossador ou do mandatario especial, no verso da letra. O endossatario póde completar este endosso.\n\n§ 1º A clausula «por procuração», lançada no endosso, indica o mandato com todos os poderes, salvo o caso de restricção, que deve ser expressa no mesmo endosso.\n\n§ 2º O endosso posterior ao vencimento da letra tem o effeito de cessão civil.\n\n§ 3º É vedado o endosso parcial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%208%C2%BA%20O%20endosso%20transmitte%20a%20propriedade%20da%20letra%20de%20cambio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "II",
+        "chapter_name": "CAPITULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A apresentação da letra ao acceite é facultativa, quando certa a data do vencimento. A letra a tempo certo da vista deve ser apresentada ao acceite do sacado, dentro do prazo nella marcado; na falta de designação, dentro de seis mezes contados da data da emissão do título, sob pena de perder o portador o direito regressivo contra o sacador, endossadores e avalistas.\n\nParagrapho unico. O acceite da letra, a tempo certo da vista, deve ser datado, presumindo-se, na falta de data, o mandato ao portador para inseril-a.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%209%C2%BA%20A%20apresenta%C3%A7%C3%A3o%20da%20letra%20ao%20acceite%20%C3%A9%20facultativa%2C%20quando%20certa%20a%20data%20do%20vencimento.%20A%20letra%20a%20tempo%20certo%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Sendo dous ou mais os sacados, o portador deve apresentar a letra ao primeiro nomeado; na falta ou recusa do acceite, ao segundo, si estiver domiciliado na mesma praça; assim, successivamente, sem embargo da fórma da indicaçao na letra dos nomes dos sacados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2010.%20Sendo%20dous%20ou%20mais%20os%20sacados%2C%20o%20portador%20deve%20apresentar%20a%20letra%20ao%20primeiro%20nomeado%3B%20na%20falta%20ou%20recusa%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Para a validade do acceite, é sufficiente a simples assignatura do proprio punho do sacado ou do mandatario especial, no anverso da letra.\n\nVale, como acceite puro, a declaração que não traduzir inequivocamente a recusa, limitação ou modificação.\n\nParagrapho unico. Para os effeitos cambiaes, a limitação ou modificação do acceite equivale á recusa, ficando, porém, o acceitante cambialmente vinculado, nos termos da limitação ou modificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2011.%20Para%20a%20validade%20do%20acceite%2C%20%C3%A9%20sufficiente%20a%20simples%20assignatura%20do%20proprio%20punho%20do%20sacado%20ou%20do%20mandatario%20especial%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O acceite, uma vez firmado, não póde ser cancellado nem retirado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2012.%20O%20acceite%2C%20uma%20vez%20firmado%2C%20n%C3%A3o%20p%C3%B3de%20ser%20cancellado%20nem%20retirado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A falta ou recusa do acceite prova-se pelo protesto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2013.%20A%20falta%20ou%20recusa%20do%20acceite%20prova-se%20pelo%20protesto.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O pagamento de uma letra de cambio, independente do acceite e do endosso, póde ser garantido por aval. Para a validade do aval, é sufficiente a simples assignatura do proprio punho do avalista ou do mandatario especial, no verso ou no anverso da letra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2014.%20O%20pagamento%20de%20uma%20letra%20de%20cambio%2C%20independente%20do%20acceite%20e%20do%20endosso%2C%20p%C3%B3de%20ser%20garantido%20por%20aval.%20Para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O avalista é equiparado áquelle cujo nome indicar; na falta de indicação, áquelle abaixo de cuja assignatura lançar a sua; fora destes casos, ao acceitante e, não estando acceita a letra, ao sacador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2015.%20O%20avalista%20%C3%A9%20equiparado%20%C3%A1quelle%20cujo%20nome%20indicar%3B%20na%20falta%20de%20indica%C3%A7%C3%A3o%2C%20%C3%A1quelle%20abaixo%20de%20cuja%20assignatura%20lan%C3%A7ar%20a%20sua%3B",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O sacador, sob pena de responder por perdas e interesses, é obrigado a dar, ao portador, as vias de letra que este reclamar antes do vencimento, differenciadas, no contexto, por numeros de ordem ou pela resalva, das que se extraviaram. Na falta da differenciação ou da resalva, que torne inequívoca a unicidade da obrigação, cada exemplar valerá como letra distincta.\n\n§ 1º O endossador e o avalista, sob pena de responderem por perdas e interesses, são obrigados a repetir, na duplicata, o endosso e o aval firmados no original.\n\n§ 2º O sacado fica cambialmente obrigado por cada um dos exemplares em que firmar o acceite.\n\n§ 3º O endossador de dous ou mais exemplares da mesma letra a pessoas differentes, e os successivos endossadores e avalistas ficam cambialmente obrigados.\n\n§ 4º O detentor da letra expedida para o acceite é obrigado a entregal-a ao legitimo portador da duplicata, sob pena de responder por perdas e interesses.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2016.%20O%20sacador%2C%20sob%20pena%20de%20responder%20por%20perdas%20e%20interesses%2C%20%C3%A9%20obrigado%20a%20dar%2C%20ao%20portador%2C%20as%20vias%20de%20letra",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SECÇÃO I"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A letra á vista vence-se no ato acto da apresentação ao sacado.\n\nA letra, a dia certo, vence-se nesse dia. A letra, a dias da data ou da vista, vence-se no ultimo dia do prazo; não se conta, para a primeira, o dia do saque, e, para a segunda, o dia do acceite.\n\nA letra a semanas, mezes ou annos da data ou da vista vence no dia da semana, mez ou anno do pagamento, correspondente ao dia do saque ou ao dia do acceite. Na falta do dia correspondente, vence-se no ultimo dia do mez do pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2017.%20A%20letra%20%C3%A1%20vista%20vence-se%20no%20ato%20acto%20da%20apresenta%C3%A7%C3%A3o%20ao%20sacado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Sacada a letra em paiz, onde vigorar outro calendario, sem a declaração do adoptado, verifica-se o termo do vencimento, contando-se do dia do calendario gregoriano, correspondente ao da emissão da letra pelo outro calendário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2018.%20Sacada%20a%20letra%20em%20paiz%2C%20onde%20vigorar%20outro%20calendario%2C%20sem%20a%20declara%C3%A7%C3%A3o%20do%20adoptado%2C%20verifica-se%20o%20termo%20do%20vencimento%2C%20contando-se",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A letra é considerada vencida, quando protestada:\n\nI. pela falta ou recusa do acceite;\n\nII. pela fallencia do acceitante.\n\nO pagamento, nestes casos, continúa differido até ao dia do vencimento ordinario da letra, occorrendo o acceite de outro sacado nomeado ou, na falta, a acquiescencia do portador, expressa no acto do protesto, ao acceite na letra, pelo interveniente voluntario.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2019.%20A%20letra%20%C3%A9%20considerada%20vencida%2C%20quando%20protestada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A letra deve ser apresentada ao sacado ou ao acceitante para o pagamento, no logar designado e no dia do vencimento ou, sendo este dia feriado por lei, no primeiro dia util immediato, sob pena de perder o portador o direito de regresso contra o sacador, endossadores e avalistas.\n\n§ 1º Será pagavel á vista a letra que não indicar a época do vencimento. Será pagavel, no logar mencionado ao pé do nome do sacado, a letra que não indicar o logar do pagamento.\n\nÉ facultada a indicação alternativa de logares de pagamento, tendo o portador direito de opção. A letra póde ser sacada sobre uma pessoa, para ser paga no domicílio de outra, indicada pelo sacador ou pelo acceitante\n\n§ 2º No caso de recusa ou falta de pagamento pelo acceitante, sendo dous ou mais os sacados, o portador deve apresentar a letra ao primeiro nomeado, si estiver domiciliado na mesma praça; assim successivamente, sem embargo da fórma da indicação na letra dos nomes dos sacados.\n\n§ 3º Sobrevindo caso fortuito ou força maior, a apresentação deve ser feita, logo que cessar o impedimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2020.%20A%20letra%20deve%20ser%20apresentada%20ao%20sacado%20ou%20ao%20acceitante%20para%20o%20pagamento%2C%20no%20logar%20designado%20e%20no%20dia%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A letra á vista deve ser apresentada ao pagamento dentro do prazo nella marcado; na falta desta designação, dentro de 12 mezes, contados da data da emissão do título, sob pena de perder o portador o direito de regresso contra o sacador, endossadores e avalistas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2021.%20A%20letra%20%C3%A1%20vista%20deve%20ser%20apresentada%20ao%20pagamento%20dentro%20do%20prazo%20nella%20marcado%3B%20na%20falta%20desta%20designa%C3%A7%C3%A3o%2C%20dentro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O portador não é obrigado a receber o pagamento antes do vencimento da letra. Aquelle que paga uma letra, antes do respectivo vencimento, fica responsável pela validade desse pagamento.\n\n§ 1º O portador é obrigado a receber o pagamento parcial, ao tempo do vencimento.\n\n§ 2º O portador é obrigado a entregar a letra com a quitação áquelle que effectua o pagamento; no caso do pagamento parcial, em que se não opera tradição do título, além da quitação em separado, outra deve ser firmada na própria letra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2022.%20O%20portador%20n%C3%A3o%20%C3%A9%20obrigado%20a%20receber%20o%20pagamento%20antes%20do%20vencimento%20da%20letra.%20Aquelle%20que%20paga%20uma%20letra%2C%20antes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Presume-se validamente desonerado aquelle que paga a letra no vencimento, sem opposição.\n\nParagrapho unico. A opposição ao pagamento é sómente admissível no caso de extravio da letra, de fallencia ou incapacidade do portador para recebel-o.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2023.%20Presume-se%20validamente%20desonerado%20aquelle%20que%20paga%20a%20letra%20no%20vencimento%2C%20sem%20opposi%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O pagamento feito pelo acceitante ou pelos respectivos avalistas desonera da responsabilidade cambial todos os co-obrigados.\n\nO pagamento feito pelo sacador, pelos endossadores ou respectivos avalistas desonera da responsabilidade cambial os co-obrigados posteriores.\n\nParagrapho unico. O endossador ou o avalista, que paga ao endossatario ou ao avalista posterior, póde riscar o próprio endosso ou aval e os dos endossadores ou avalistas posteriores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2024.%20O%20pagamento%20feito%20pelo%20acceitante%20ou%20pelos%20respectivos%20avalistas%20desonera%20da%20responsabilidade%20cambial%20todos%20os%20co-obrigados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A letra de cambio deve ser paga na moeda indicada. Designada moeda estrangeira, o pagamento, salvo determinação em contrario, expressa na letra, deve ser effectuado em moeda nacional, ao cambio á vista do dia do vencimento e do logar do pagamento; não havendo no logar curso de cambio, pelo da praça mais próxima.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2025.%20A%20letra%20de%20cambio%20deve%20ser%20paga%20na%20moeda%20indicada.%20Designada%20moeda%20estrangeira%2C%20o%20pagamento%2C%20salvo%20determina%C3%A7%C3%A3o%20em%20contrario%2C%20expressa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Si o pagamento de uma letra de cambio não for exigido no vencimento, o acceitante póde, depois de expirado o prazo para o protesto por falta de pagamento, depositar o valor da mesma, por conta e risco do portador, independente de qualquer citação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2026.%20Si%20o%20pagamento%20de%20uma%20letra%20de%20cambio%20n%C3%A3o%20for%20exigido%20no%20vencimento%2C%20o%20acceitante%20p%C3%B3de%2C%20depois%20de%20expirado%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A falta ou recusa, total ou parcial, de pagamento, prova-se pelo protesto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2027.%20A%20falta%20ou%20recusa%2C%20total%20ou%20parcial%2C%20de%20pagamento%2C%20prova-se%20pelo%20protesto.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A letra que houver de ser protestada por falta de acceite ou de pagamento deve ser entregue ao official competente, no primeiro dia util que se seguir ao da recusa do acceite ou ao do vencimento, e o respectivo protesto tirado dentro de três dias uteis.\n\nParagrapho unico. O protesto deve ser tirado do logar indicado, na letra para o acceite ou para o pagamento. Sacada ou acceita a letra para ser paga em outro domicílio que não o do sacado, naquelle domicílio deve ser tirado o protesto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2028.%20A%20letra%20que%20houver%20de%20ser%20protestada%20por%20falta%20de%20acceite%20ou%20de%20pagamento%20deve%20ser%20entregue%20ao%20official%20competente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O instrumento de protesto deve conter:\n\nI. a data;\n\nII, a transcripção litteral da letra e das declarações nella inseridas pela ordem respectiva;\n\nIII, a certidão da intimação ao sacado ou ao acceitante ou aos outros sacados, nomeados na letra para acceitar ou pagar, a resposta dada ou a declaração da falta da resposta;\n\nA intimação é dispensada no caso do sacado ou acceitante firmar na letra a declaração da recusa do acceite ou do pagamento e, na hypothese de protesto, por causa de fallencia do acceitante;\n\nIV, a certidão de não haver sido encontrada ou de ser desconhecida a pessoa, indicada para acceitar ou para pagar. Nesta hypothese, o official affixará a intimação nos logares de estylo e, si possível, a publicará pela imprensa;\n\nV, a indicação dos intervenientes voluntarios e das firmas por elles honradas;\n\nVI, a acquiescencia do portador ao acceite por honra;\n\nVII, a assignatura, com o signal publico, do official do protesto.\n\nParagrapho unico. Este instrumento, depois de registrado no livro de protestos, deverá ser entregue ao detentor ou portador da letra ou áquelle que houver effectuado o pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2029.%20O%20instrumento%20de%20protesto%20deve%20conter%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. O portador é obrigado a dar aviso do protesto ao ultimo endossador, dentro de dous dias, contados da data do instrumento do protesto e cada endossatario, dentro de dous dias, contados do recebimento do aviso, deve transmittil-o ao seu endossador sob pena de responder por perdas e interesses.\n\nNão constando do endosso o domicílio ou a residencia do endossador, o aviso deve ser transmittido ao endossador anterior, que houver satisfeito aquella formalidade.\n\nParagrapho unico. O aviso póde ser dado em carta registrada. Para esse fim, a carta será levada aberta ao Correio, onde, verificada a existência do aviso, se declarará o conteudo da carta registrada no conhecimento e talão respectivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2030.%20O%20portador%20%C3%A9%20obrigado%20a%20dar%20aviso%20do%20protesto%20ao%20ultimo%20endossador%2C%20dentro%20de%20dous%20dias%2C%20contados%20da%20data%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Recusada a entrega da letra por aquelle que a recebeu para firmar o acceite ou para effectuar o pagamento, o protesto póde ser tirado por outro exemplar ou, na falta, pelas indicações do protestante.\n\nParagrapho unico. Pela prova do facto, póde ser decretada a prisão do detentor da letra, salvo depositando este a somma cambial e a importancia das despezas feitas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2031.%20Recusada%20a%20entrega%20da%20letra%20por%20aquelle%20que%20a%20recebeu%20para%20firmar%20o%20acceite%20ou%20para%20effectuar%20o%20pagamento%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O portador que não tira, em tempo util e fórma regular, o instrumento do protesto da letra, perde o direito de regresso contra o sacador, endossadores e avalistas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2032.%20O%20portador%20que%20n%C3%A3o%20tira%2C%20em%20tempo%20util%20e%20f%C3%B3rma%20regular%2C%20o%20instrumento%20do%20protesto%20da%20letra%2C%20perde%20o%20direito",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O official que não lavra, em tempo util e fórma regular, o instrumento do protesto, além da pena em que incorrer, segundo o Codigo Penal, responde por perdas e interesses.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2033.%20O%20official%20que%20n%C3%A3o%20lavra%2C%20em%20tempo%20util%20e%20f%C3%B3rma%20regular%2C%20o%20instrumento%20do%20protesto%2C%20al%C3%A9m%20da%20pena%20em%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. No acto do protesto pela falta ou recusa do acceite, a letra póde ser acceita por terceiro, mediante a aquiescencia do detentor ou portador.\n\nA responsabilidade cambial deste interveniente é equiparada á do sacado que acceita.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2034.%20No%20acto%20do%20protesto%20pela%20falta%20ou%20recusa%20do%20acceite%2C%20a%20letra%20p%C3%B3de%20ser%20acceita%20por%20terceiro%2C%20mediante%20a%20aquiescencia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. No acto do protesto, exceptuada apenas a hypothese do artigo anterior, qualquer pessoa tem o direito de intervir para effectuar o pagamento da letra, por honra de qualquer das firmas.\n\n§ 1º O pagamento, por honra da firma do acceitante ou dos respectivos avalistas, desonera da responsabilidade cambial todos os co-obrigados.\n\nO pagamento, por honra da firma do sacador, do endossador ou dos respectivos avalistas, desonera da responsabilidade cambial todos os co-obrigados posteriores.\n\n§ 2º Não indicada a firma, entende-se ter sido honrada a do sacador; quando acceita a letra, a do acceitante.\n\n§ 3º Sendo multiplas as intervenções, concorram ou não co-obrigados, deve ser preferido o interveniente, que desonera maior numero de firmas.\n\nMultiplas as intervenções pela mesma firma, deve ser preferido o interveniente co-obrigado; na falta deste, o sacado; na falta de ambos, o detentor ou portador tem a opção. É vedada a intervenção ao acceitante ou ao respectivo avalista.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2035.%20No%20acto%20do%20protesto%2C%20exceptuada%20apenas%20a%20hypothese%20do%20artigo%20anterior%2C%20qualquer%20pessoa%20tem%20o%20direito%20de%20intervir%20para%20effectuar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Justificando a propriedade e o extravio ou a destruição total ou parcial da letra, descripta com clareza e precisão, o proprietario póde requerer ao juiz competente do logar do pagamento, na hypothese de extravio, a intimação do sacado ou do acceitante e dos co-obrigados, para não pagarem a alludida letra, e a citação do detentor para apresental-a em juízo, dentro do prazo de tres mezes, e, nos casos de extravio e de destruição, a citação dos co-obrigados para, dentro do referido prazo, opporem contestação, firmada em defeito de fórma do título ou, na falta de requisito essencial, ao exercício da acção cambial.\n\nEstas citações e intimações devem ser feitas pela imprensa, publicadas no jornal official do Estado e no Diario Official para o Districto Federal e nos periódicos indicados pelo juiz, além de affixadas nos logares do estylo e na bolsa da praça do pagamento.\n\n§ 1º O prazo de tres mezes corre da data do vencimento; estando vencida a letra, da data da publicação no jornal official.\n\n§ 2º Durante o curso desse prazo, munido da certidão do requerimento e do despacho favoravel do juiz, fica o proprietario autorizado a praticar todos os actos necessarios á garantia do direito creditorio, podendo, vencida a letra, reclamar do acceitante o deposito judicial da somma devida.\n\n§ 3º Decorrido o prazo, sem se apresentar o portador legitimado (art. 39) da letra, ou sem a contestação do co-obrigado (art. 36), o juiz decretará a nullidade do título extraviado ou destruído e ordenará, em benefício do proprietário, o levantamento do deposito da somma, caso tenha sido feito.\n\n§ 4º Por esta sentença fica o proprietario habilitado, para o exercício da acção executiva, contra o acceitante e os outros co-obrigados.\n\n§ 5º Apresentada a letra pelo portador legitimado (art. 39), ou offerecida a contestação (art. 36) pelo co-obrigado, o juiz julgará prejudicado o pedido de annullação da letra, deixando, salvo á parte, o recurso aos meios ordinarios.\n\n§ 6º Da sentença proferida no processo cabe o recurso de aggravo com effeito suspensivo.\n\n§ 7º Este processo não impede o recurso á duplicata e nem para os effeitos da responsabilidade civil do co-obrigado, dispensa o aviso immediato do extravio, por cartas registradas, endereçadas ao sacado, ao acceitante e aos outros co-obrigados, pela fórma endicada no paragrapho unico do artigo 30.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2036.%20Justificando%20a%20propriedade%20e%20o%20extravio%20ou%20a%20destrui%C3%A7%C3%A3o%20total%20ou%20parcial%20da%20letra%2C%20descripta%20com%20clareza%20e%20precis%C3%A3o%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O portador da letra protestada póde haver o embolso da somma devida, pelo resaque de nova letra de cambio, á vista, sobre qualquer dos obrigados.\n\nO resacado que paga póde, por seu turno, resacar sobre qualquer dos co-obrigados a elle anteriores.\n\nParagrapho unico. O resaque deve ser acompanhado da letra protestada, do instrumento do protesto e da conta de retorno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2037.%20O%20portador%20da%20letra%20protestada%20p%C3%B3de%20haver%20o%20embolso%20da%20somma%20devida%2C%20pelo%20resaque%20de%20nova%20letra%20de%20cambio%2C%20%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A conta de retorno deve indicar:\n\nI, a somma cambial e a dos juros legaes, desde o dia do vencimento;\n\nII, a somma das despezas legaes; protesto, commissão, porte de cartas, sellos, e dos juros legaes, desde o dia em que foram feitas;\n\nIII, o nome do resacado;\n\nIV, o preço do cambio, certificado por corretor ou, na falta, por dous commerciantes.\n\n§ 1º O recambio é regulado pelo curso do cambio da praça do pagamento, sobre a praça do domicílio ou da residencia do resacado; o recambio, devido ao endossador ou ao avalista que resaca, é regulado pelo curso do cambio da praça do resaque, sobre a praça da residencia ou do domicílio do resacado.\n\nNão havendo curso de cambio na praça do resaque, o recambio é regulado pelo curso do cambio da praça mais proxima.\n\n§ 2º É facultado o acúmulo dos recambios, nos successivos resaques.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2038.%20A%20conta%20de%20retorno%20deve%20indicar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O possuidor é considerado legítimo proprietario da letra ao portador e da letra endossada em branco.\n\nO ultimo endossatario é considerado legítimo proprietário da letra endossada em preto, si o primeiro endosso estiver assignado pelo tomador e cada um dos outros, pelo endossatario do endosso, immediatamente anterior.\n\nSeguindo-se, ao endosso em branco, outro endosso, presume-se haver o endossador deste adquirido por aquelle a propriedade da letra.\n\n§ 1º No caso de pluralidade de tomadores ou de endossatarios, conjunctos ou disjunctos, o tomador ou o endossatario possuidor da letra é considerado, para os effeitos cambiaes, o credor unico da obrigação.\n\n§ 2º O possuidor, legitimado de accôrdo com este artigo, sómente no caso de má fé na acquisição, póde ser obrigado a abrir mão da lettra de cambio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2039.%20O%20possuidor%20%C3%A9%20considerado%20leg%C3%ADtimo%20proprietario%20da%20letra%20ao%20portador%20e%20da%20letra%20endossada%20em%20branco.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "I",
+        "section_name": "SECÇÃO I"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Quem paga não está obrigado a verificar a authenticidade dos endossos.\n\nParagrapho unico. O interveniente voluntario que paga fica subrogado em todos os direitos daquelle, cuja firma foi por elle honrada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2040.%20Quem%20paga%20n%C3%A3o%20est%C3%A1%20obrigado%20a%20verificar%20a%20authenticidade%20dos%20endossos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "I",
+        "section_name": "SECÇÃO I"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O detentor, embora sem título algum, está autorizado a praticar as diligencias necessarias, á garantia do credito, a reclamar o acceite, a tirar os protestos, a exigir, ao tempo do vencimento, o deposito da somma cambial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2041.%20O%20detentor%2C%20embora%20sem%20t%C3%ADtulo%20algum%2C%20est%C3%A1%20autorizado%20a%20praticar%20as%20diligencias%20necessarias%2C%20%C3%A1%20garantia%20do%20credito%2C%20a%20reclamar%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "I",
+        "section_name": "SECÇÃO I"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Póde obrigar-se, por letra de cambio, quem tem a capacidade civil ou commercial.\n\nParagrapho unico. Tendo a capacidade pela lei brazileira, o estrangeiro fica obrigado pela declaração, que firmar, sem embargo da sua incapacidade, pela lei do Estado a que pertencer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2042.%20P%C3%B3de%20obrigar-se%2C%20por%20letra%20de%20cambio%2C%20quem%20tem%20a%20capacidade%20civil%20ou%20commercial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43 As obrigações cambiaes são autonomas e independentes umas das outras. O signatario da declaração cambial, fica, por ella, vinculado e solidariamente responsavel pelo acceite e pelo pagamento da letra, sem embargo da falsidade, da falsificação ou da nullidade de qualquer outra assignatura.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2043%20As%20obriga%C3%A7%C3%B5es%20cambiaes%20s%C3%A3o%20autonomas%20e%20independentes%20umas%20das%20outras.%20O%20signatario%20da%20declara%C3%A7%C3%A3o%20cambial%2C%20fica%2C%20por%20ella%2C%20vinculado%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Para os effeitos cambiaes, são consideradas não escriptas:\n\nl, a clausula de juros;\n\nII, a clausula prohibitiva do endosso ou do protesto, a excludente da responsabilidade pelas despezas e qualquer outra, dispensando a observancia dos termos ou das formalidades prescriptas por esta lei;\n\nIII, a clausula prohibitiva da apresentação da letra ao acceite do sacado;\n\nIV, a clausula excludente ou restrictiva da responsabilidade e qualquer outra beneficiando o devedor ou o credor, além dos limites fixados por esta lei.\n\n§ 1º Para os effeitos cambiaes, o endosso ou aval cancellado é considerado não escripto.\n\n§ 2º Não é letra de cambio o título em que o emittente exclue ou restringe a sua responsabilidade cambial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2044.%20Para%20os%20effeitos%20cambiaes%2C%20s%C3%A3o%20consideradas%20n%C3%A3o%20escriptas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Pelo acceite, o sacado fica cambialmente obrigado para com o sacador e respectivos avalistas.\n\n§ 1º A letra endossada ao acceitante, póde ser por este reendossada, antes do vencimento.\n\n§ 2º Pelo reendosso da letra, endossada ao sacador, ao endossado ou ao avalista, continuam cambialmente obrigados os co-devedores intermedios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2045.%20Pelo%20acceite%2C%20o%20sacado%20fica%20cambialmente%20obrigado%20para%20com%20o%20sacador%20e%20respectivos%20avalistas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Aquelle que assigna a declaração cambial, como mandatario, ou representante legal de outrem, sem estar devidamente autorizado, fica, por ella, pessoalmente obrigado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2046.%20Aquelle%20que%20assigna%20a%20declara%C3%A7%C3%A3o%20cambial%2C%20como%20mandatario%2C%20ou%20representante%20legal%20de%20outrem%2C%20sem%20estar%20devidamente%20autorizado%2C%20fica%2C%20por%20ella%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. A substancia, os effeitos, a fórma extrínseca e os meios de prova da obrigação cambial são regulados pela lei do logar, onde a obrigação foi firmada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2047.%20A%20substancia%2C%20os%20effeitos%2C%20a%20f%C3%B3rma%20extr%C3%ADnseca%20e%20os%20meios%20de%20prova%20da%20obriga%C3%A7%C3%A3o%20cambial%20s%C3%A3o%20regulados%20pela%20lei%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Sem embargo da desoneração da responsabilidade cambial, o sacador ou o acceitante fica obrigado a restituir ao portador, com os juros legaes, a somma com a qual se locupletou á custa deste.\n\nA acção do portador, para este fim, é a ordinaria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2048.%20Sem%20embargo%20da%20desonera%C3%A7%C3%A3o%20da%20responsabilidade%20cambial%2C%20o%20sacador%20ou%20o%20acceitante%20fica%20obrigado%20a%20restituir%20ao%20portador%2C%20com%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XII",
+        "chapter_name": "CAPITULO XII",
+        "section": "II",
+        "section_name": "SECÇÃO II"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A acção cambial é a executiva.\n\nPor ella, tem tambem o credor o direito de reclamar a importancia que receberia pelo resaque (art. 38).",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2049.%20A%20ac%C3%A7%C3%A3o%20cambial%20%C3%A9%20a%20executiva.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A acção cambial póde ser proposta contra um, alguns ou todos os co-obrigados, sem estar o credor adistricto á observancia da ordem dos endossos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2050.%20A%20ac%C3%A7%C3%A3o%20cambial%20p%C3%B3de%20ser%20proposta%20contra%20um%2C%20alguns%20ou%20todos%20os%20co-obrigados%2C%20sem%20estar%20o%20credor%20adistricto%20%C3%A1%20observancia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Na acção cambial, sómente é admissível defesa fundada no direito pessoal do réo contra o autor, em defeito de fórma do título e na falta de requisito necessario ao exercício da acção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2051.%20Na%20ac%C3%A7%C3%A3o%20cambial%2C%20s%C3%B3mente%20%C3%A9%20admiss%C3%ADvel%20defesa%20fundada%20no%20direito%20pessoal%20do%20r%C3%A9o%20contra%20o%20autor%2C%20em%20defeito%20de%20f%C3%B3rma",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A acção cambial, contra o sacador, acceitante e respectivos avalistas, prescreve em cinco annos.\n\nA acção cambial contra o endossador e respectivo avalista prescreve em 12 mezes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2052.%20A%20ac%C3%A7%C3%A3o%20cambial%2C%20contra%20o%20sacador%2C%20acceitante%20e%20respectivos%20avalistas%2C%20prescreve%20em%20cinco%20annos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O prazo da prescrição é contado do dia em que a acção póde ser proposta; para o endossador ou respectivo avalista que paga, do dia desse pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2053.%20O%20prazo%20da%20prescri%C3%A7%C3%A3o%20%C3%A9%20contado%20do%20dia%20em%20que%20a%20ac%C3%A7%C3%A3o%20p%C3%B3de%20ser%20proposta%3B%20para%20o%20endossador%20ou%20respectivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TITULO I",
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. A nota promissoria é uma promessa de pagamento e deve conter estes requisitos essenciaes, lançados, por extenso no contexto:\n\nI, a denominação de «Nota promissoria» ou termo correspondente, na língua, em que for emittida;\n\nII, a somma de dinheiro a pagar;\n\nIII, o nome da pessoa a quem deve ser paga;\n\nIV, a assignatura do próprio punho do emittente ou do mandatario especial.\n\n§ 1º Presume-se ter o portador o mandato para inserir a data e logar da emissão da nota promissoria, que não contiver estes requisitos.\n\n§ 2º Será pagável á vista a nota promissoria que não indicar a época do vencimento. Será pagável no domicílio do emittente, a nota promissoria que não indicar o logar do pagamento.\n\nÉ facultada a indicação alternativa de logar de pagamento, tendo o portador direito de opção.\n\n§ 3º Diversificando as indicações da somma do dinheiro, será considerada verdadeira a que se achar lançada por extenso no contexto.\n\nDiversificando no contexto as indicações da somma de dinheiro, o título não será nota promissoria.\n\n§ 4º Não será nota promissoria o escripto ao qual faltar qualquer dos requisitos acima enumerados. Os requisitos essenciaes são considerados lançados, ao tempo da emissão da nota promissoria. No caso de má fé do portador, será admittida prova em contrario.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2054.%20A%20nota%20promissoria%20%C3%A9%20uma%20promessa%20de%20pagamento%20e%20deve%20conter%20estes%20requisitos%20essenciaes%2C%20lan%C3%A7ados%2C%20por%20extenso%20no%20contexto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A nota promissoria póde ser passada:\n\nI, á vista;\n\nII, a dia certo;\n\nIII, a tempo certo da data.\n\nParagrapho unico. A época do pagamento deve ser precisa e unica para toda a somma devida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2055.%20A%20nota%20promissoria%20p%C3%B3de%20ser%20passada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. São applicaveis á nota promissoria, com as modificações necessarias, todos os dispositivos do título I desta lei, excepto os que se referem ao acceite e ás duplicatas.\n\nPara o effeito da applicação de taes dispositivos, o emittente da nota promissoria é equiparado ao acceitante da letra de cambio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2056.%20S%C3%A3o%20applicaveis%20%C3%A1%20nota%20promissoria%2C%20com%20as%20modifica%C3%A7%C3%B5es%20necessarias%2C%20todos%20os%20dispositivos%20do%20t%C3%ADtulo%20I%20desta%20lei%2C%20excepto%20os%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Ficam revogados todos os artigos do título XVI do Codigo Commercial e mais disposições em contrario.\n\nAFFONSO AUGUSTO MOREIRA PENNA David Campista\n\nEste texto não substitui o publicado no DOU de 6.1.1909\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm#:~:text=Art.%2057.%20Ficam%20revogados%20todos%20os%20artigos%20do%20t%C3%ADtulo%20XVI%20do%20Codigo%20Commercial%20e%20mais%20disposi%C3%A7%C3%B5es%20em%20contrario.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": null
+    }
+  }
+}

@@ -1378,6 +1378,39 @@
         "CCOM:567"
       ],
       "justificativa": "O art. 567 enumera o que a carta-partida deve enunciar; o art. 566 exige a prova por escrito do contrato de fretamento; o art. 569 confere à carta de fretamento o valor de instrumento público quando lavrada com corretor de navios ou tabelião. Julgado sobre o texto do snapshot. O art. 633 (empréstimo a risco) não trata de fretamento."
+    },
+    {
+      "id": "d2044-aval",
+      "grupo": "legislacao",
+      "consulta": "aval do avalista na letra de cambio",
+      "filtro": {
+        "codigo": "D2044"
+      },
+      "relevantes": [
+        "D2044:14",
+        "D2044:15"
+      ],
+      "obrigatorios": [
+        "D2044:14"
+      ],
+      "justificativa": "O art. 14 do Decreto 2.044/1908 disciplina o aval como garantia de pagamento da letra de câmbio e a suficiência da assinatura do avalista; o art. 15 fixa a equiparação do avalista. Julgado sobre o texto do snapshot (ortografia de 1908). Os arts. 9º (aceite), 16 (vias da letra), 20 e 21 (apresentação a pagamento) não tratam do aval."
+    },
+    {
+      "id": "d2044-nota-promissoria",
+      "grupo": "legislacao",
+      "consulta": "requisitos da nota promissoria promessa de pagamento",
+      "filtro": {
+        "codigo": "D2044"
+      },
+      "relevantes": [
+        "D2044:54",
+        "D2044:55",
+        "D2044:56"
+      ],
+      "obrigatorios": [
+        "D2044:54"
+      ],
+      "justificativa": "O art. 54 enumera os requisitos essenciais da nota promissória; o art. 55 fixa as formas de vencimento admitidas; o art. 56 manda aplicar subsidiariamente o regime da letra de câmbio. Julgado sobre o texto do snapshot. O art. 1º (requisitos da letra de câmbio) é o dispositivo paralelo de outro título e não trata da nota promissória; o art. 57 é cláusula revogatória."
     }
   ]
 }

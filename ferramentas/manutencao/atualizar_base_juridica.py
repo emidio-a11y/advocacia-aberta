@@ -623,9 +623,12 @@ def transformar_legislacao(
         for indice, paragrafo in enumerate(paragrafos):
             texto = texto_elemento(paragrafo, preservar_linhas=True)
             simples = texto_normalizado(texto)
-            match_titulo = re.match(r"^TÍTULO\s+([IVXLCDM]+|ÚNICO)\b", simples, re.I)
-            match_capitulo = re.match(r"^CAPÍTULO\s+([IVXLCDM]+|ÚNICO)\b", simples, re.I)
-            match_secao = re.match(r"^SEÇÃO\s+([IVXLCDM]+|ÚNICA)\b", simples, re.I)
+            # As formas sem acento (TITULO, CAPITULO) e a grafia antiga SECÇÃO
+            # aparecem em páginas com a ortografia da época (ex.: o Decreto
+            # 2.044/1908 usa "TITULO I", "CAPITULO XII" e "SECÇÃO I").
+            match_titulo = re.match(r"^T[ÍI]TULO\s+([IVXLCDM]+|ÚNICO)\b", simples, re.I)
+            match_capitulo = re.match(r"^CAP[ÍI]TULO\s+([IVXLCDM]+|ÚNICO)\b", simples, re.I)
+            match_secao = re.match(r"^SEC?ÇÃO\s+([IVXLCDM]+|ÚNICA)\b", simples, re.I)
             if match_titulo:
                 titulo = match_titulo.group(1)
                 titulo_nome = simples
@@ -668,7 +671,7 @@ def transformar_legislacao(
                 proximo = texto_normalizado(texto_elemento(seguinte, preservar_linhas=True))
                 if ARTIGO.match(proximo):
                     break
-                if re.match(r"^(TÍTULO|CAPÍTULO|SEÇÃO)\s+", proximo, re.I):
+                if re.match(r"^(T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO)\s+", proximo, re.I):
                     break
                 if proximo and not proximo.lower().startswith(("voltar", "presidência da república")):
                     blocos.append(proximo)

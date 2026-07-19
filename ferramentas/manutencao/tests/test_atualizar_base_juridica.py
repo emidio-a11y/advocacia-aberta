@@ -341,6 +341,52 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(set(objeto["artigos"]), {"1", "2", "2-A", "3"})
         self.assertIn("VETADO", objeto["artigos"]["2-A"]["texto"])
 
+    def test_hierarquia_tolera_ortografia_antiga_sem_acento(self) -> None:
+        # Padrão do Decreto 2.044/1908: a página usa "TITULO I", "CAPITULO
+        # XII" e "SECÇÃO I" na ortografia da época. Sem tolerância, essas
+        # linhas colariam no texto do artigo anterior em vez de marcar a
+        # hierarquia.
+        html = """
+        <html><body>
+        <p>TITULO I</p>
+        <p>Da letra de cambio</p>
+        <p>CAPITULO I</p>
+        <p>Art. 1º A letra de cambio é uma ordem de pagamento.</p>
+        <p>SECÇÃO I</p>
+        <p>Art. 2º Segundo artigo.</p>
+        </body></html>
+        """
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        self.assertEqual(set(objeto["artigos"]), {"1", "2"})
+        self.assertNotIn("SECÇÃO", objeto["artigos"]["1"]["texto"])
+        hierarquia = objeto["artigos"]["1"]["hierarchy"]
+        self.assertEqual(hierarquia["title"], "I")
+        self.assertEqual(hierarquia["chapter"], "I")
+        self.assertEqual(objeto["artigos"]["2"]["hierarchy"]["section"], "I")
+
     def test_fim_antes_encerra_extracao_antes_do_marcador(self) -> None:
         # Padrão do Código Comercial de 1850: depois do art. 913 do corpo, a
         # página traz o "TÍTULO ÚNICO" da administração da justiça comercial

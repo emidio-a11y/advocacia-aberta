@@ -1871,15 +1871,16 @@
       "sigla": "D2044",
       "nome": "Letra de Câmbio e Nota Promissória",
       "lei": "Decreto 2.044/1908",
-      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2044.htm",
-      "grupo": "pendentes_especiais",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm",
+      "grupo": "empresarial_d2044",
       "origens": [
         "Esparsas/Empresarial: Letra de Câmbio e Nota Promissória"
       ],
       "notas": [
         "planilha classificava como decreto-lei; é o Decreto 2.044/1908",
-        "planilha classificava como decreto-lei; é o Decreto 2.044/1908",
-        "pendente: a URL da planilha (e a candidata ccivil_03/decreto/d2044.htm) corresponde ao Decreto 2.044/1996 (acordo de isenção de vistos), não ao Decreto 2.044/1908 (letra de câmbio); a página oficial do decreto de 1908 não foi localizada no ccivil_03 — verificar caminho antes de capturar"
+        "a URL da planilha (ccivil_03/decreto/d2044.htm) serve o Decreto 2.044/1996 (isenção de vistos); a página oficial do decreto de 1908 é ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm, localizada e conferida pelo cabeçalho em 2026-07-19",
+        "a página usa a ortografia de 1908 (TITULO, CAPITULO, SECÇÃO); o adaptador tolera as formas sem acento, com teste",
+        "grupo próprio para capturar isoladamente sem recoletar a fatia empresarial já promovida"
       ]
     },
     {

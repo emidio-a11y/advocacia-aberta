@@ -157,6 +157,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_d11034.json",
     rotulo: "Serviço de Atendimento ao Consumidor (SAC) (Decreto 11.034/2022)",
   },
+  D2044: {
+    arquivo: "../../data/lei_d2044.json",
+    rotulo: "Letra de Câmbio e Nota Promissória (Decreto 2.044/1908)",
+  },
   D2181: {
     arquivo: "../../data/lei_d2181.json",
     rotulo: "Sistema Nacional de Defesa do Consumidor e Sanções Administrativas (Decreto 2.181/1997)",

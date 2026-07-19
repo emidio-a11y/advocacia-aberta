@@ -331,6 +331,20 @@
         }
       ]
     },
+    "legislacao_empresarial_d2044": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "d2044",
+          "codigo": "D2044",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2044-1908.htm",
+          "arquivo_bruto": "d2044.html",
+          "destino": "lei_d2044.json"
+        }
+      ]
+    },
     "legislacao_esparsas_administrativo": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

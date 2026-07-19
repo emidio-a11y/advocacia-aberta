@@ -8,11 +8,12 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 76 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
+contém 78 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
 acrescentadas em 19 de julho de 2026 pela expansão da legislação — dez casos do
 piloto, dois a três casos julgados por fatia promovida (estatutos,
-trabalhista, codificadas, penal, tributária, previdenciária, cível/família, eleitoral, imobiliário/agrário, administrativa, processual/constitucional, consumidor/bancária, empresarial e regulatória) e dois casos do Código
-Comercial de 1850, julgados na promoção do `CCOM`:
+trabalhista, codificadas, penal, tributária, previdenciária, cível/família, eleitoral, imobiliário/agrário, administrativa, processual/constitucional, consumidor/bancária, empresarial e regulatória), dois casos do Código
+Comercial de 1850 (`CCOM`) e dois do Decreto 2.044/1908 (`D2044`), julgados
+nas promoções respectivas:
 
 | Família | Consultas |
 |---|---:|
@@ -21,7 +22,7 @@ Comercial de 1850, julgados na promoção do `CCOM`:
 | Súmulas vinculantes | 3 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
-| Legislação | 59 |
+| Legislação | 61 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
 e resultados canônicos obrigatórios. Os julgamentos foram feitos sobre o conteúdo do
@@ -51,13 +52,13 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8083 | 0,9892 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,8017 | 0,9894 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Legislação | 0,8240 | 0,9955 | 1,0000 | 1,0000 | 1,0000 |
+| Legislação | 0,8152 | 0,9956 | 1,0000 | 1,0000 | 1,0000 |
 
 Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
 snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatias já
@@ -82,13 +83,15 @@ mudança funcional é que 314 dispositivos do núcleo antes invisíveis à busca
 textual passaram a ser recuperáveis, com teste de regressão próprio fora deste
 corpus.
 
-Na mesma data, a promoção do Código Comercial de 1850 (`CCOM`, 448 dispositivos
-do corpo do Código capturados com o marcador `fim_antes`) acrescentou dois casos
-julgados sobre o texto do snapshot (avaria grossa e carta-partida de
-fretamento), levando o corpus a 76 consultas. A tabela acima é a linha de base
-medida após essa incorporação; a pequena variação em relação à rodada anterior
-(global 0,8121 → 0,8083; legislação 0,8295 → 0,8240) decorre exclusivamente dos
-dois casos novos, cujos conjuntos julgados incluem dispositivos além do top-5
+Na mesma data, as promoções do Código Comercial de 1850 (`CCOM`, 448
+dispositivos do corpo do Código capturados com o marcador `fim_antes`) e do
+Decreto 2.044/1908 (`D2044`, 57 dispositivos da página oficial localizada em
+`historicos/dpl/dpl2044-1908.htm`) acrescentaram quatro casos julgados sobre o
+texto dos snapshots (avaria grossa, carta-partida de fretamento, aval e nota
+promissória), levando o corpus a 78 consultas. A tabela acima é a linha de base
+medida após essas incorporações; a variação em relação à rodada anterior
+(global 0,8121 → 0,8017; legislação 0,8295 → 0,8152) decorre exclusivamente dos
+casos novos, cujos conjuntos julgados incluem dispositivos além do top-5
 retornado — nenhum resultado dos 74 casos anteriores mudou.
 
 Os valores são uma linha de base operacional, não uma alegação de precisão geral para
