@@ -102,6 +102,76 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lmp.json",
     rotulo: "Lei Maria da Penha (Lei 11.340/2006)",
   },
+  // [expansao:inicio] entradas geradas por gerar_expansao_legislacao.py — não edite à mão
+  ECID: {
+    arquivo: "../../data/lei_ecid.json",
+    rotulo: "Estatuto da Cidade (Lei 10.257/2001)",
+  },
+  ED: {
+    arquivo: "../../data/lei_ed.json",
+    rotulo: "Estatuto do Desarmamento (Lei 10.826/2003)",
+  },
+  EDT: {
+    arquivo: "../../data/lei_edt.json",
+    rotulo: "Estatuto de Defesa do Torcedor (Lei 10.671/2003)",
+  },
+  EI: {
+    arquivo: "../../data/lei_ei.json",
+    rotulo: "Estatuto da Pessoa Idosa (Lei 10.741/2003)",
+  },
+  EIND: {
+    arquivo: "../../data/lei_eind.json",
+    rotulo: "Estatuto do Índio (Lei 6.001/1973)",
+  },
+  EIR: {
+    arquivo: "../../data/lei_eir.json",
+    rotulo: "Estatuto da Igualdade Racial (Lei 12.288/2010)",
+  },
+  EJUV: {
+    arquivo: "../../data/lei_ejuv.json",
+    rotulo: "Estatuto da Juventude (Lei 12.852/2013)",
+  },
+  EMET: {
+    arquivo: "../../data/lei_emet.json",
+    rotulo: "Estatuto da Metrópole (Lei 13.089/2015)",
+  },
+  EMIL: {
+    arquivo: "../../data/lei_emil.json",
+    rotulo: "Estatuto dos Militares (Lei 6.880/1980)",
+  },
+  EMUS: {
+    arquivo: "../../data/lei_emus.json",
+    rotulo: "Estatuto dos Museus (Lei 11.904/2009)",
+  },
+  EOAB: {
+    arquivo: "../../data/lei_eoab.json",
+    rotulo: "Estatuto da Advocacia e a Ordem dos Advogados do Brasil (Lei 8.906/1994)",
+  },
+  EPC: {
+    arquivo: "../../data/lei_epc.json",
+    rotulo: "Estatuto da Pessoa com Câncer (Lei 14.238/2021)",
+  },
+  EPD: {
+    arquivo: "../../data/lei_epd.json",
+    rotulo: "Estatuto da Pessoa com Deficiência (Lei 13.146/2015)",
+  },
+  EREF: {
+    arquivo: "../../data/lei_eref.json",
+    rotulo: "Estatuto dos Refugiados (Lei 9.474/1997)",
+  },
+  ET: {
+    arquivo: "../../data/lei_et.json",
+    rotulo: "Estatuto da Terra (Lei 4.504/1964)",
+  },
+  LC123: {
+    arquivo: "../../data/lei_lc123.json",
+    rotulo: "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar 123/2006)",
+  },
+  LMIG: {
+    arquivo: "../../data/lei_lmig.json",
+    rotulo: "Lei de Migração (Lei 13.445/2017)",
+  },
+  // [expansao:fim]
 } as const;
 
 export type CodigoCodigo = keyof typeof REGISTRO_CODIGOS;

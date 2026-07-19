@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "codigo": "EPC",
+    "nome": "Estatuto da Pessoa com Câncer",
+    "lei": "Lei 14.238/2021",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm",
+    "total_artigos": 15,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Fica instituído o Estatuto da Pessoa com Câncer, destinado a assegurar e a promover, em condições de igualdade, o acesso ao tratamento adequado e o exercício dos direitos e das liberdades fundamentais da pessoa com câncer, com vistas a garantir o respeito à dignidade, à cidadania e à sua inclusão social.\n\nParágrafo único. Esta Lei estabelece princípios e objetivos essenciais à proteção dos direitos da pessoa com câncer e à efetivação de políticas públicas de prevenção e combate ao câncer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%201%C2%BA%20Fica%20institu%C3%ADdo%20o%20Estatuto%20da%20Pessoa%20com%20C%C3%A2ncer%2C%20destinado%20a%20assegurar%20e%20a%20promover%2C%20em%20condi%C3%A7%C3%B5es%20de%20igualdade%2C%20o%20acesso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º São princípios essenciais deste Estatuto:\n\nI - respeito à dignidade da pessoa humana, à igualdade, à não discriminação e à autonomia individual;\n\nII - acesso universal e equânime ao tratamento adequado;\n\nIII - diagnóstico precoce;\n\nIV - estímulo à prevenção;\n\nV - informação clara e confiável sobre a doença e o seu tratamento;\n\nVI - transparência das informações dos órgãos e das entidades em seus processos, prazos e fluxos;\n\nVII - oferecimento de tratamento sistêmico referenciado em acordo com diretrizes preestabelecidas por órgãos competentes;\n\nVIII - fomento à formação e à especialização dos profissionais envolvidos;\n\nIX - estímulo à conscientização, à educação e ao apoio familiar;\n\nX - ampliação da rede de atendimento e de sua infraestrutura;\n\nXI - sustentabilidade dos tratamentos, garantida, inclusive, a tomada de decisão com vistas à prevenção de agravamentos e à socioeficiência;\n\nXII - humanização da atenção ao paciente e à sua família.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%202%C2%BA%20S%C3%A3o%20princ%C3%ADpios%20essenciais%20deste%20Estatuto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º São objetivos essenciais deste Estatuto:\n\nI - garantir e viabilizar o pleno exercício dos direitos sociais da pessoa com câncer;\n\nII - promover mecanismos adequados para o diagnóstico precoce da doença;\n\nIII - garantir o tratamento adequado, nos termos das Leis nos 8.080, de 19 de setembro de 1990, e 12.732, de 22 de novembro de 2012;\n\nIV - fomentar a comunicação, a publicidade e a conscientização sobre a doença, sua prevenção, seus tratamentos e os direitos da pessoa com câncer;\n\nV - garantir transparência das informações dos órgãos e das entidades em seus processos, prazos e fluxos e o acesso às informações imprescindíveis acerca da doença e do seu tratamento pelos pacientes e por seus familiares;\n\nVI - garantir o cumprimento da legislação vigente com vistas a reduzir as dificuldades da pessoa com câncer desde o diagnóstico até a realização do tratamento;\n\nVII - fomentar e promover instrumentos para viabilização da Política Nacional para a Prevenção e Controle do Câncer na Rede de Atenção à Saúde das Pessoas com Doenças Crônicas no âmbito do Sistema Único de Saúde (SUS);\n\nVIII - fomentar a criação e o fortalecimento de políticas públicas de prevenção e combate ao câncer;\n\nIX - promover a articulação entre países, órgãos e entidades sobre tecnologias, conhecimentos, métodos e práticas na prevenção e no tratamento da doença;\n\nX - promover a formação, a qualificação e a especialização dos recursos humanos envolvidos no processo de prevenção e tratamento do câncer;\n\nXI - viabilizar métodos e sistemas para aferição qualificada do número de pessoas acometidas pela doença;\n\nXII - combater a desinformação e o preconceito;\n\nXIII - contribuir para melhoria na qualidade de vida e no tratamento da pessoa com câncer e de seus familiares;\n\nXIV - reduzir a incidência da doença por meio de ações de prevenção;\n\nXV - reduzir a mortalidade e a incapacidade causadas pela doença;\n\nXVI - fomentar a educação e o apoio ao paciente e à sua família;\n\nXVII - incentivar a criação, a manutenção e a utilização de fundos especiais, nacionais, estaduais e municipais de prevenção e combate ao câncer;\n\nXVIII - garantir tratamento diferenciado, universal e integral às crianças e aos adolescentes, priorizando a prevenção e o diagnóstico precoce;\n\nXIX - estimular a expansão contínua, sustentável e responsável da rede de atendimento e de sua infraestrutura;\n\nXX - estimular a humanização do tratamento, prestando atenção diferenciada ao paciente e à sua família.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%203%C2%BA%20S%C3%A3o%20objetivos%20essenciais%20deste%20Estatuto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º São direitos fundamentais da pessoa com câncer:\n\nI - obtenção de diagnóstico precoce;\n\nII - acesso a tratamento universal, equânime, adequado e menos nocivo;\n\nIII - acesso a informações transparentes e objetivas relativas à doença e ao seu tratamento;\n\nIV - assistência social e jurídica;\n\nV - prioridade;\n\nVI - proteção do seu bem-estar pessoal, social e econômico;\n\nVII - presença de acompanhante durante o atendimento e o período de tratamento;\n\nVIII - acolhimento, preferencialmente, por sua própria família, em detrimento de abrigo ou de instituição de longa permanência, exceto da que careça de condições de manutenção da própria sobrevivência;\n\nIX - tratamento domiciliar priorizado;\n\nX - atendimento educacional em classe hospitalar ou regime domiciliar, conforme interesse da pessoa com câncer e de sua família, nos termos do respectivo sistema de ensino.\n\n§ 1º Para os efeitos desta Lei, considera-se pessoa com câncer aquela que tenha o regular diagnóstico, nos termos de relatório elaborado por médico devidamente inscrito no conselho profissional, acompanhado pelos laudos e exames diagnósticos complementares necessários para a correta caracterização da doença.\n\n§ 2º Entende-se por direito à prioridade, previsto no inciso V do caput deste artigo, as seguintes garantias concedidas à pessoa com câncer clinicamente ativo, respeitadas e conciliadas as normas que garantem o mesmo direito aos idosos, às gestantes e às pessoas com deficiência:\n\nI - assistência preferencial, respeitada a precedência dos casos mais graves e outras prioridades legais;\n\nII - atendimento nos serviços públicos nos órgãos públicos e privados prestadores de serviços à população, respeitada a precedência dos casos mais graves e de outras prioridades legais;\n\nIII - prioridade no acesso a mecanismos que favoreçam a divulgação de informações relativas à prevenção e ao tratamento da doença;\n\nIV - prioridade na tramitação dos processos judiciais e administrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%204%C2%BA%20S%C3%A3o%20direitos%20fundamentais%20da%20pessoa%20com%20c%C3%A2ncer%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º É dever da família, da comunidade, da sociedade e do poder público assegurar à pessoa com câncer, prioritariamente, a plena efetivação dos direitos referentes à vida, à saúde, à alimentação, à assistência social e jurídica, à convivência familiar e comunitária, entre outros decorrentes da Constituição Federal e das leis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%205%C2%BA%20%C3%89%20dever%20da%20fam%C3%ADlia%2C%20da%20comunidade%2C%20da%20sociedade%20e%20do%20poder%20p%C3%BAblico%20assegurar%20%C3%A0%20pessoa%20com%20c%C3%A2ncer%2C%20prioritariamente%2C%20a%20plena",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Nenhuma pessoa com câncer será objeto de qualquer tipo de negligência, discriminação ou violência, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei.\n\n§ 1º Considera-se discriminação qualquer distinção, restrição ou exclusão em razão da doença, mediante ação ou omissão, que tenha o propósito ou o efeito de prejudicar, de impedir ou de anular o reconhecimento dos direitos assegurados nesta Lei.\n\n§ 2º Todo cidadão tem o dever de comunicar à autoridade competente qualquer forma de violação a esta Lei que tenha testemunhado ou de que tenha conhecimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%206%C2%BA%20Nenhuma%20pessoa%20com%20c%C3%A2ncer%20ser%C3%A1%20objeto%20de%20qualquer%20tipo%20de%20neglig%C3%AAncia%2C%20discrimina%C3%A7%C3%A3o%20ou%20viol%C3%AAncia%2C%20e%20todo%20atentado%20aos%20seus%20direitos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º É dever do Estado desenvolver políticas públicas de saúde específicas direcionadas à pessoa com câncer, que incluam, entre outras medidas:\n\nI - promover ações e campanhas preventivas da doença;\n\nII - garantir acesso universal, igualitário e gratuito aos serviços de saúde;\n\nIII – (VETADO);\n\nIV - promover avaliação periódica do tratamento ofertado ao paciente com câncer na rede pública de saúde e adotar as medidas necessárias para diminuir as desigualdades existentes;\n\nV - estabelecer normas técnicas e padrões de conduta a serem observados pelos serviços públicos e privados de saúde no atendimento à pessoa com câncer;\n\nVI - estimular o desenvolvimento científico e tecnológico para promoção de avanços na prevenção, no diagnóstico e no combate à doença;\n\nVII - promover processos contínuos de capacitação dos profissionais que atuam diretamente nas fases de prevenção, de diagnóstico e de tratamento da pessoa com câncer;\n\nVIII - capacitar e orientar familiares, cuidadores, entidades assistenciais e grupos de autoajuda de pessoas com câncer;\n\nIX - organizar programa de rastreamento e diagnóstico que favoreça o início precoce do tratamento;\n\nX - promover campanhas de conscientização a respeito de direitos e de benefícios previdenciários, tributários, trabalhistas, processuais e de tratamentos de saúde, entre outros, da pessoa com câncer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%207%C2%BA%20%C3%89%20dever%20do%20Estado%20desenvolver%20pol%C3%ADticas%20p%C3%BAblicas%20de%20sa%C3%BAde%20espec%C3%ADficas%20direcionadas%20%C3%A0%20pessoa%20com%20c%C3%A2ncer%2C%20que%20incluam%2C%20entre%20outras%20medidas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O direito à assistência social, previsto no inciso IV do caput do art. 4º desta Lei, será prestado de forma articulada e com base nos princípios e diretrizes previstos na Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), de forma harmonizada com as demais políticas sociais, observadas as demais normas pertinentes.\n\n§ 1º O poder público deverá promover o acesso da pessoa com câncer ao Ministério Público, à Defensoria Pública e ao Poder Judiciário em todas suas instâncias.\n\n§ 2º O poder público estimulará, por meio de assistência jurídica, o conhecimento e o acesso aos incentivos fiscais e aos subsídios devidos à pessoa com câncer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%208%C2%BA%20O%20direito%20%C3%A0%20assist%C3%AAncia%20social%2C%20previsto%20no%20inciso%20IV%20do%20caput%20do%20art.%204%C2%BA%20desta%20Lei%2C%20ser%C3%A1%20prestado%20de%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O Estado deverá formular políticas direcionadas à pessoa com câncer que esteja em situação de vulnerabilidade social, de forma a facilitar o andamento dos procedimentos de diagnóstico e de tratamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%209%C2%BA%20O%20Estado%20dever%C3%A1%20formular%20pol%C3%ADticas%20direcionadas%20%C3%A0%20pessoa%20com%20c%C3%A2ncer%20que%20esteja%20em%20situa%C3%A7%C3%A3o%20de%20vulnerabilidade%20social%2C%20de%20forma%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O atendimento prestado às crianças e aos adolescentes com câncer, ou em suspeição, deverá ser especial em todas suas fases, devendo ser garantido tratamento universal e integral, priorizados a prevenção e o diagnóstico precoce.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%2010.%20O%20atendimento%20prestado%20%C3%A0s%20crian%C3%A7as%20e%20aos%20adolescentes%20com%20c%C3%A2ncer%2C%20ou%20em%20suspei%C3%A7%C3%A3o%2C%20dever%C3%A1%20ser%20especial%20em%20todas%20suas%20fases%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O direito à saúde da pessoa com câncer será assegurado mediante a efetivação de políticas sociais públicas, de modo a garantir seu bem-estar físico, psíquico, emocional e social com vistas à preservação ou à recuperação de sua saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%2011.%20O%20direito%20%C3%A0%20sa%C3%BAde%20da%20pessoa%20com%20c%C3%A2ncer%20ser%C3%A1%20assegurado%20mediante%20a%20efetiva%C3%A7%C3%A3o%20de%20pol%C3%ADticas%20sociais%20p%C3%BAblicas%2C%20de%20modo%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. É obrigatório o atendimento integral à saúde da pessoa com câncer por intermédio do SUS, na forma de regulamento.\n\n§ 1º Para efeitos desta Lei, entende-se por atendimento integral aquele realizado nos diversos níveis de complexidade e hierarquia, bem como nas diversas especialidades médicas, de acordo com as necessidades de saúde da pessoa com câncer, incluídos assistência médica e de fármacos, assistência psicológica, atendimentos especializados e, sempre que possível, atendimento e internação domiciliares.\n\n§ 2º O atendimento integral deverá garantir, ainda, tratamento adequado da dor, atendimento multidisciplinar e cuidados paliativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%2012.%20%C3%89%20obrigat%C3%B3rio%20o%20atendimento%20integral%20%C3%A0%20sa%C3%BAde%20da%20pessoa%20com%20c%C3%A2ncer%20por%20interm%C3%A9dio%20do%20SUS%2C%20na%20forma%20de%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A conscientização e o apoio à família da pessoa com câncer constituem compromissos fundamentais do Estado e fazem parte indispensáveis deste Estatuto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%2013.%20A%20conscientiza%C3%A7%C3%A3o%20e%20o%20apoio%20%C3%A0%20fam%C3%ADlia%20da%20pessoa%20com%20c%C3%A2ncer%20constituem%20compromissos%20fundamentais%20do%20Estado%20e%20fazem%20parte%20indispens%C3%A1veis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Os direitos e as garantias previstos nesta Lei não excluem os já resguardados em outras legislações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%2014.%20Os%20direitos%20e%20as%20garantias%20previstos%20nesta%20Lei%20n%C3%A3o%20excluem%20os%20j%C3%A1%20resguardados%20em%20outras%20legisla%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 19 de novembro de 2021; 200o da Independência e 133o da República.\n\nJAIR MESSIAS BOLSONARO\n\nMarcelo Antônio Cartaxo Queiroga Lopes\n\nDamares Regina Alves\n\nEste texto não substitui o publicado no DOU de 22.11.2021\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm#:~:text=Art.%2015.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": null
+    }
+  }
+}

@@ -487,7 +487,11 @@ def fonte_por_destino(config: dict[str, Any], destino: str) -> dict[str, Any]:
 
 
 ARTIGO = re.compile(
-    r"^Art\.\s*(\d+(?:\.\d{3})*)(?:-([A-Z]))?[ºo°]?(?:\s|\.|$)",
+    # Páginas antigas do Planalto trazem defeitos tipográficos no rótulo:
+    # "Art 4º" sem ponto (Lei 6.001) e "Art . 16." com espaço antes do ponto
+    # (Lei 6.880). O ponto é opcional e pode vir espaçado; "Artigo"/"Arts."
+    # continuam fora porque a letra seguinte interrompe o casamento.
+    r"^Art\s*\.?\s*(\d+(?:\.\d{3})*)(?:-([A-Z]))?[ºo°]?(?:\s|\.|$)",
     re.IGNORECASE,
 )
 

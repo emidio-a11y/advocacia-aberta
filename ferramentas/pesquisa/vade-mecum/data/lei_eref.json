@@ -1,0 +1,799 @@
+{
+  "_meta": {
+    "codigo": "EREF",
+    "nome": "Estatuto dos Refugiados",
+    "lei": "Lei 9.474/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm",
+    "total_artigos": 49,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Será reconhecido como refugiado todo indivíduo que:\n\nI - devido a fundados temores de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas encontre-se fora de seu país de nacionalidade e não possa ou não queira acolher-se à proteção de tal país;\n\nII - não tendo nacionalidade e estando fora do país onde antes teve sua residência habitual, não possa ou não queira regressar a ele, em função das circunstâncias descritas no inciso anterior;\n\nIII - devido a grave e generalizada violação de direitos humanos, é obrigado a deixar seu país de nacionalidade para buscar refúgio em outro país.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%201%C2%BA%20Ser%C3%A1%20reconhecido%20como%20refugiado%20todo%20indiv%C3%ADduo%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os efeitos da condição dos refugiados serão extensivos ao cônjuge, aos ascendentes e descendentes, assim como aos demais membros do grupo familiar que do refugiado dependerem economicamente, desde que se encontrem em território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%202%C2%BA%20Os%20efeitos%20da%20condi%C3%A7%C3%A3o%20dos%20refugiados%20ser%C3%A3o%20extensivos%20ao%20c%C3%B4njuge%2C%20aos%20ascendentes%20e%20descendentes%2C%20assim%20como%20aos%20demais%20membros%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Não se beneficiarão da condição de refugiado os indivíduos que:\n\nI - já desfrutem de proteção ou assistência por parte de organismo ou instituição das Nações Unidas que não o Alto Comissariado das Nações Unidas para os Refugiados - ACNUR;\n\nII - sejam residentes no território nacional e tenham direitos e obrigações relacionados com a condição de nacional brasileiro;\n\nIII - tenham cometido crime contra a paz, crime de guerra, crime contra a humanidade, crime hediondo, participado de atos terroristas ou tráfico de drogas;\n\nIV - sejam considerados culpados de atos contrários aos fins e princípios das Nações Unidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%203%C2%BA%20N%C3%A3o%20se%20beneficiar%C3%A3o%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%20os%20indiv%C3%ADduos%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O reconhecimento da condição de refugiado, nos termos das definições anteriores, sujeitará seu beneficiário ao preceituado nesta Lei, sem prejuízo do disposto em instrumentos internacionais de que o Governo brasileiro seja parte, ratifique ou venha a aderir.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%204%C2%BA%20O%20reconhecimento%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%2C%20nos%20termos%20das%20defini%C3%A7%C3%B5es%20anteriores%2C%20sujeitar%C3%A1%20seu%20benefici%C3%A1rio%20ao%20preceituado%20nesta%20Lei%2C%20sem%20preju%C3%ADzo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O refugiado gozará de direitos e estará sujeito aos deveres dos estrangeiros no Brasil, ao disposto nesta Lei, na Convenção sobre o Estatuto dos Refugiados de 1951 e no Protocolo sobre o Estatuto dos Refugiados de 1967, cabendo-lhe a obrigação de acatar as leis, regulamentos e providências destinados à manutenção da ordem pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%205%C2%BA%20O%20refugiado%20gozar%C3%A1%20de%20direitos%20e%20estar%C3%A1%20sujeito%20aos%20deveres%20dos%20estrangeiros%20no%20Brasil%2C%20ao%20disposto%20nesta%20Lei%2C%20na%20Conven%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O refugiado terá direito, nos termos da Convenção sobre o Estatuto dos Refugiados de 1951, a cédula de identidade comprobatória de sua condição jurídica, carteira de trabalho e documento de viagem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%206%C2%BA%20O%20refugiado%20ter%C3%A1%20direito%2C%20nos%20termos%20da%20Conven%C3%A7%C3%A3o%20sobre%20o%20Estatuto%20dos%20Refugiados%20de%201951%2C%20a%20c%C3%A9dula%20de%20identidade%20comprobat%C3%B3ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O estrangeiro que chegar ao território nacional poderá expressar sua vontade de solicitar reconhecimento como refugiado a qualquer autoridade migratória que se encontre na fronteira, a qual lhe proporcionará as informações necessárias quanto ao procedimento cabível.\n\n§ 1º Em hipótese alguma será efetuada sua deportação para fronteira de território em que sua vida ou liberdade esteja ameaçada, em virtude de raça, religião, nacionalidade, grupo social ou opinião política.\n\n§ 2º O benefício previsto neste artigo não poderá ser invocado por refugiado considerado perigoso para a segurança do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%207%C2%BA%20O%20estrangeiro%20que%20chegar%20ao%20territ%C3%B3rio%20nacional%20poder%C3%A1%20expressar%20sua%20vontade%20de%20solicitar%20reconhecimento%20como%20refugiado%20a%20qualquer%20autoridade%20migrat%C3%B3ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O ingresso irregular no território nacional não constitui impedimento para o estrangeiro solicitar refúgio às autoridades competentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%208%C2%BA%20O%20ingresso%20irregular%20no%20territ%C3%B3rio%20nacional%20n%C3%A3o%20constitui%20impedimento%20para%20o%20estrangeiro%20solicitar%20ref%C3%BAgio%20%C3%A0s%20autoridades%20competentes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A autoridade a quem for apresentada a solicitação deverá ouvir o interessado e preparar termo de declaração, que deverá conter as circunstâncias relativas à entrada no Brasil e às razões que o fizeram deixar o país de origem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%209%C2%BA%20A%20autoridade%20a%20quem%20for%20apresentada%20a%20solicita%C3%A7%C3%A3o%20dever%C3%A1%20ouvir%20o%20interessado%20e%20preparar%20termo%20de%20declara%C3%A7%C3%A3o%2C%20que%20dever%C3%A1%20conter",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A solicitação, apresentada nas condições previstas nos artigos anteriores, suspenderá qualquer procedimento administrativo ou criminal pela entrada irregular, instaurado contra o peticionário e pessoas de seu grupo familiar que o acompanhem.\n\n§ 1º Se a condição de refugiado for reconhecida, o procedimento será arquivado, desde que demonstrado que a infração correspondente foi determinada pelos mesmos fatos que justificaram o dito reconhecimento.\n\n§ 2º Para efeito do disposto no parágrafo anterior, a solicitação de refúgio e a decisão sobre a mesma deverão ser comunicadas à Polícia Federal, que as transmitirá ao órgão onde tramitar o procedimento administrativo ou criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2010.%20A%20solicita%C3%A7%C3%A3o%2C%20apresentada%20nas%20condi%C3%A7%C3%B5es%20previstas%20nos%20artigos%20anteriores%2C%20suspender%C3%A1%20qualquer%20procedimento%20administrativo%20ou%20criminal%20pela%20entrada%20irregular%2C%20instaurado%20contra",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Fica criado o Comitê Nacional para os Refugiados - CONARE, órgão de deliberação coletiva, no âmbito do Ministério da Justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2011.%20Fica%20criado%20o%20Comit%C3%AA%20Nacional%20para%20os%20Refugiados%20-%20CONARE%2C%20%C3%B3rg%C3%A3o%20de%20delibera%C3%A7%C3%A3o%20coletiva%2C%20no%20%C3%A2mbito%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Compete ao CONARE, em consonância com a Convenção sobre o Estatuto dos Refugiados de 1951, com o Protocolo sobre o Estatuto dos Refugiados de 1967 e com as demais fontes de direito internacional dos refugiados:\n\nI - analisar o pedido e declarar o reconhecimento, em primeira instância, da condição de refugiado;\n\nII - decidir a cessação, em primeira instância, ex officio ou mediante requerimento das autoridades competentes, da condição de refugiado;\n\nIII - determinar a perda, em primeira instância, da condição de refugiado;\n\nIV - orientar e coordenar as ações necessárias à eficácia da proteção, assistência e apoio jurídico aos refugiados;\n\nV - aprovar instruções normativas esclarecedoras à execução desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2012.%20Compete%20ao%20CONARE%2C%20em%20conson%C3%A2ncia%20com%20a%20Conven%C3%A7%C3%A3o%20sobre%20o%20Estatuto%20dos%20Refugiados%20de%201951%2C%20com%20o%20Protocolo%20sobre%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O regimento interno do CONARE será aprovado pelo Ministro de Estado da Justiça.\n\nParágrafo único. O regimento interno determinará a periodicidade das reuniões do CONARE.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2013.%20O%20regimento%20interno%20do%20CONARE%20ser%C3%A1%20aprovado%20pelo%20Ministro%20de%20Estado%20da%20Justi%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O CONARE será constituído por:\n\nI - um representante do Ministério da Justiça, que o presidirá;\n\nII - um representante do Ministério das Relações Exteriores;\n\nIII - um representante do Ministério do Trabalho;\n\nIV - um representante do Ministério da Saúde;\n\nV - um representante do Ministério da Educação e do Desporto;\n\nVI - um representante do Departamento de Polícia Federal;\n\nVII - um representante de organização não-governamental, que se dedique a atividades de assistência e proteção de refugiados no País.\n\n§ 1º O Alto Comissariado das Nações Unidas para Refugiados - ACNUR será sempre membro convidado para as reuniões do CONARE, com direito a voz, sem voto.\n\n§ 2º Os membros do CONARE serão designados pelo Presidente da República, mediante indicações dos órgãos e da entidade que o compõem.\n\n§ 3º O CONARE terá um Coordenador-Geral, com a atribuição de preparar os processos de requerimento de refúgio e a pauta de reunião.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2014.%20O%20CONARE%20ser%C3%A1%20constitu%C3%ADdo%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A participação no CONARE será considerada serviço relevante e não implicará remuneração de qualquer natureza ou espécie.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2015.%20A%20participa%C3%A7%C3%A3o%20no%20CONARE%20ser%C3%A1%20considerada%20servi%C3%A7o%20relevante%20e%20n%C3%A3o%20implicar%C3%A1%20remunera%C3%A7%C3%A3o%20de%20qualquer%20natureza%20ou%20esp%C3%A9cie.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O CONARE reunir-se-á com quorum de quatro membros com direito a voto, deliberando por maioria simples.\n\nParágrafo único. Em caso de empate, será considerado voto decisivo o do Presidente do CONARE.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2016.%20O%20CONARE%20reunir-se-%C3%A1%20com%20quorum%20de%20quatro%20membros%20com%20direito%20a%20voto%2C%20deliberando%20por%20maioria%20simples.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O estrangeiro deverá apresentar-se à autoridade competente e externar vontade de solicitar o reconhecimento da condição de refugiado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2017.%20O%20estrangeiro%20dever%C3%A1%20apresentar-se%20%C3%A0%20autoridade%20competente%20e%20externar%20vontade%20de%20solicitar%20o%20reconhecimento%20da%20condi%C3%A7%C3%A3o%20de%20refugiado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A autoridade competente notificará o solicitante para prestar declarações, ato que marcará a data de abertura dos procedimentos.\n\nParágrafo único. A autoridade competente informará o Alto Comissariado das Nações Unidas para Refugiados - ACNUR sobre a existência do processo de solicitação de refúgio e facultará a esse organismo a possibilidade de oferecer sugestões que facilitem seu andamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2018.%20A%20autoridade%20competente%20notificar%C3%A1%20o%20solicitante%20para%20prestar%20declara%C3%A7%C3%B5es%2C%20ato%20que%20marcar%C3%A1%20a%20data%20de%20abertura%20dos%20procedimentos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Além das declarações, prestadas se necessário com ajuda de intérprete, deverá o estrangeiro preencher a solicitação de reconhecimento como refugiado, a qual deverá conter identificação completa, qualificação profissional, grau de escolaridade do solicitante e membros do seu grupo familiar, bem como relato das circunstâncias e fatos que fundamentem o pedido de refúgio, indicando os elementos de prova pertinentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2019.%20Al%C3%A9m%20das%20declara%C3%A7%C3%B5es%2C%20prestadas%20se%20necess%C3%A1rio%20com%20ajuda%20de%20int%C3%A9rprete%2C%20dever%C3%A1%20o%20estrangeiro%20preencher%20a%20solicita%C3%A7%C3%A3o%20de%20reconhecimento%20como%20refugiado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O registro de declaração e a supervisão do preenchimento da solicitação do refúgio devem ser efetuados por funcionários qualificados e em condições que garantam o sigilo das informações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2020.%20O%20registro%20de%20declara%C3%A7%C3%A3o%20e%20a%20supervis%C3%A3o%20do%20preenchimento%20da%20solicita%C3%A7%C3%A3o%20do%20ref%C3%BAgio%20devem%20ser%20efetuados%20por%20funcion%C3%A1rios%20qualificados%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Recebida a solicitação de refúgio, o Departamento de Polícia Federal emitirá protocolo em favor do solicitante e de seu grupo familiar que se encontre no território nacional, o qual autorizará a estada até a decisão final do processo.\n\n§ 1º O protocolo permitirá ao Ministério do Trabalho expedir carteira de trabalho provisória, para o exercício de atividade remunerada no País.\n\n§ 2º No protocolo do solicitante de refúgio serão mencionados, por averbamento, os menores de quatorze anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2021.%20Recebida%20a%20solicita%C3%A7%C3%A3o%20de%20ref%C3%BAgio%2C%20o%20Departamento%20de%20Pol%C3%ADcia%20Federal%20emitir%C3%A1%20protocolo%20em%20favor%20do%20solicitante%20e%20de%20seu%20grupo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Enquanto estiver pendente o processo relativo à solicitação de refúgio, ao peticionário será aplicável a legislação sobre estrangeiros, respeitadas as disposições específicas contidas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2022.%20Enquanto%20estiver%20pendente%20o%20processo%20relativo%20%C3%A0%20solicita%C3%A7%C3%A3o%20de%20ref%C3%BAgio%2C%20ao%20peticion%C3%A1rio%20ser%C3%A1%20aplic%C3%A1vel%20a%20legisla%C3%A7%C3%A3o%20sobre%20estrangeiros%2C%20respeitadas%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A autoridade competente procederá a eventuais diligências requeridas pelo CONARE, devendo averiguar todos os fatos cujo conhecimento seja conveniente para uma justa e rápida decisão, respeitando sempre o princípio da confidencialidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2023.%20A%20autoridade%20competente%20proceder%C3%A1%20a%20eventuais%20dilig%C3%AAncias%20requeridas%20pelo%20CONARE%2C%20devendo%20averiguar%20todos%20os%20fatos%20cujo%20conhecimento%20seja%20conveniente%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Finda a instrução, a autoridade competente elaborará, de imediato, relatório, que será enviado ao Secretário do CONARE, para inclusão na pauta da próxima reunião daquele Colegiado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2024.%20Finda%20a%20instru%C3%A7%C3%A3o%2C%20a%20autoridade%20competente%20elaborar%C3%A1%2C%20de%20imediato%2C%20relat%C3%B3rio%2C%20que%20ser%C3%A1%20enviado%20ao%20Secret%C3%A1rio%20do%20CONARE%2C%20para%20inclus%C3%A3o%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os intervenientes nos processos relativos às solicitações de refúgio deverão guardar segredo profissional quanto às informações a que terão acesso no exercício de suas funções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2025.%20Os%20intervenientes%20nos%20processos%20relativos%20%C3%A0s%20solicita%C3%A7%C3%B5es%20de%20ref%C3%BAgio%20dever%C3%A3o%20guardar%20segredo%20profissional%20quanto%20%C3%A0s%20informa%C3%A7%C3%B5es%20a%20que%20ter%C3%A3o%20acesso",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A decisão pelo reconhecimento da condição de refugiado será considerada ato declaratório e deverá estar devidamente fundamentada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2026.%20A%20decis%C3%A3o%20pelo%20reconhecimento%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%20ser%C3%A1%20considerada%20ato%20declarat%C3%B3rio%20e%20dever%C3%A1%20estar%20devidamente%20fundamentada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Proferida a decisão, o CONARE notificará o solicitante e o Departamento de Polícia Federal, para as medidas administrativas cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2027.%20Proferida%20a%20decis%C3%A3o%2C%20o%20CONARE%20notificar%C3%A1%20o%20solicitante%20e%20o%20Departamento%20de%20Pol%C3%ADcia%20Federal%2C%20para%20as%20medidas%20administrativas%20cab%C3%ADveis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. No caso de decisão positiva, o refugiado será registrado junto ao Departamento de Polícia Federal, devendo assinar termo de responsabilidade e solicitar cédula de identidade pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2028.%20No%20caso%20de%20decis%C3%A3o%20positiva%2C%20o%20refugiado%20ser%C3%A1%20registrado%20junto%20ao%20Departamento%20de%20Pol%C3%ADcia%20Federal%2C%20devendo%20assinar%20termo%20de%20responsabilidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. No caso de decisão negativa, esta deverá ser fundamentada na notificação ao solicitante, cabendo direito de recurso ao Ministro de Estado da Justiça, no prazo de quinze dias, contados do recebimento da notificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2029.%20No%20caso%20de%20decis%C3%A3o%20negativa%2C%20esta%20dever%C3%A1%20ser%20fundamentada%20na%20notifica%C3%A7%C3%A3o%20ao%20solicitante%2C%20cabendo%20direito%20de%20recurso%20ao%20Ministro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Durante a avaliação do recurso, será permitido ao solicitante de refúgio e aos seus familiares permanecer no território nacional, sendo observado o disposto nos §§ 1º e 2º do art. 21 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2030.%20Durante%20a%20avalia%C3%A7%C3%A3o%20do%20recurso%2C%20ser%C3%A1%20permitido%20ao%20solicitante%20de%20ref%C3%BAgio%20e%20aos%20seus%20familiares%20permanecer%20no%20territ%C3%B3rio%20nacional%2C%20sendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A decisão do Ministro de Estado da Justiça não será passível de recurso, devendo ser notificada ao CONARE, para ciência do solicitante, e ao Departamento de Polícia Federal, para as providências devidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2031.%20A%20decis%C3%A3o%20do%20Ministro%20de%20Estado%20da%20Justi%C3%A7a%20n%C3%A3o%20ser%C3%A1%20pass%C3%ADvel%20de%20recurso%2C%20devendo%20ser%20notificada%20ao%20CONARE%2C%20para%20ci%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. No caso de recusa definitiva de refúgio, ficará o solicitante sujeito à legislação de estrangeiros, não devendo ocorrer sua transferência para o seu país de nacionalidade ou de residência habitual, enquanto permanecerem as circunstâncias que põem em risco sua vida, integridade física e liberdade, salvo nas situações determinadas nos incisos III e IV do art. 3º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2032.%20No%20caso%20de%20recusa%20definitiva%20de%20ref%C3%BAgio%2C%20ficar%C3%A1%20o%20solicitante%20sujeito%20%C3%A0%20legisla%C3%A7%C3%A3o%20de%20estrangeiros%2C%20n%C3%A3o%20devendo%20ocorrer%20sua%20transfer%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O reconhecimento da condição de refugiado obstará o seguimento de qualquer pedido de extradição baseado nos fatos que fundamentaram a concessão de refúgio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2033.%20O%20reconhecimento%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%20obstar%C3%A1%20o%20seguimento%20de%20qualquer%20pedido%20de%20extradi%C3%A7%C3%A3o%20baseado%20nos%20fatos%20que%20fundamentaram%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A solicitação de refúgio suspenderá, até decisão definitiva, qualquer processo de extradição pendente, em fase administrativa ou judicial, baseado nos fatos que fundamentaram a concessão de refúgio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2034.%20A%20solicita%C3%A7%C3%A3o%20de%20ref%C3%BAgio%20suspender%C3%A1%2C%20at%C3%A9%20decis%C3%A3o%20definitiva%2C%20qualquer%20processo%20de%20extradi%C3%A7%C3%A3o%20pendente%2C%20em%20fase%20administrativa%20ou%20judicial%2C%20baseado%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Para efeito do cumprimento do disposto nos arts. 33 e 34 desta Lei, a solicitação de reconhecimento como refugiado será comunicada ao órgão onde tramitar o processo de extradição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2035.%20Para%20efeito%20do%20cumprimento%20do%20disposto%20nos%20arts.%2033%20e%2034%20desta%20Lei%2C%20a%20solicita%C3%A7%C3%A3o%20de%20reconhecimento%20como%20refugiado%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Não será expulso do território nacional o refugiado que esteja regularmente registrado, salvo por motivos de segurança nacional ou de ordem pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2036.%20N%C3%A3o%20ser%C3%A1%20expulso%20do%20territ%C3%B3rio%20nacional%20o%20refugiado%20que%20esteja%20regularmente%20registrado%2C%20salvo%20por%20motivos%20de%20seguran%C3%A7a%20nacional%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A expulsão de refugiado do território nacional não resultará em sua retirada para país onde sua vida, liberdade ou integridade física possam estar em risco, e apenas será efetivada quando da certeza de sua admissão em país onde não haja riscos de perseguição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2037.%20A%20expuls%C3%A3o%20de%20refugiado%20do%20territ%C3%B3rio%20nacional%20n%C3%A3o%20resultar%C3%A1%20em%20sua%20retirada%20para%20pa%C3%ADs%20onde%20sua%20vida%2C%20liberdade%20ou%20integridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Cessará a condição de refugiado nas hipóteses em que o estrangeiro:\n\nI - voltar a valer-se da proteção do país de que é nacional;\n\nII - recuperar voluntariamente a nacionalidade outrora perdida;\n\nIII - adquirir nova nacionalidade e gozar da proteção do país cuja nacionalidade adquiriu;\n\nIV - estabelecer-se novamente, de maneira voluntária, no país que abandonou ou fora do qual permaneceu por medo de ser perseguido;\n\nV - não puder mais continuar a recusar a proteção do país de que é nacional por terem deixado de existir as circunstâncias em conseqüência das quais foi reconhecido como refugiado;\n\nVI - sendo apátrida, estiver em condições de voltar ao país no qual tinha sua residência habitual, uma vez que tenham deixado de existir as circunstâncias em conseqüência das quais foi reconhecido como refugiado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2038.%20Cessar%C3%A1%20a%20condi%C3%A7%C3%A3o%20de%20refugiado%20nas%20hip%C3%B3teses%20em%20que%20o%20estrangeiro%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Implicará perda da condição de refugiado:\n\nI - a renúncia;\n\nII - a prova da falsidade dos fundamentos invocados para o reconhecimento da condição de refugiado ou a existência de fatos que, se fossem conhecidos quando do reconhecimento, teriam ensejado uma decisão negativa;\n\nIII - o exercício de atividades contrárias à segurança nacional ou à ordem pública;\n\nIV - a saída do território nacional sem prévia autorização do Governo brasileiro.\n\nParágrafo único. Os refugiados que perderem essa condição com fundamento nos incisos I e IV deste artigo serão enquadrados no regime geral de permanência de estrangeiros no território nacional, e os que a perderem com fundamento nos incisos II e III estarão sujeitos às medidas compulsórias previstas na Lei nº 6.815, de 19 de agosto de 1980.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2039.%20Implicar%C3%A1%20perda%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Compete ao CONARE decidir em primeira instância sobre cessação ou perda da condição de refugiado, cabendo, dessa decisão, recurso ao Ministro de Estado da Justiça, no prazo de quinze dias, contados do recebimento da notificação.\n\n§ 1º A notificação conterá breve relato dos fatos e fundamentos que ensejaram a decisão e cientificará o refugiado do prazo para interposição do recurso.\n\n§ 2º Não sendo localizado o estrangeiro para a notificação prevista neste artigo, a decisão será publicada no Diário Oficial da União, para fins de contagem do prazo de interposição de recurso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2040.%20Compete%20ao%20CONARE%20decidir%20em%20primeira%20inst%C3%A2ncia%20sobre%20cessa%C3%A7%C3%A3o%20ou%20perda%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%2C%20cabendo%2C%20dessa%20decis%C3%A3o%2C%20recurso%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A decisão do Ministro de Estado da Justiça é irrecorrível e deverá ser notificada ao CONARE, que a informará ao estrangeiro e ao Departamento de Polícia Federal, para as providências cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2041.%20A%20decis%C3%A3o%20do%20Ministro%20de%20Estado%20da%20Justi%C3%A7a%20%C3%A9%20irrecorr%C3%ADvel%20e%20dever%C3%A1%20ser%20notificada%20ao%20CONARE%2C%20que%20a%20informar%C3%A1%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. A repatriação de refugiados aos seus países de origem deve ser caracterizada pelo caráter voluntário do retorno, salvo nos casos em que não possam recusar a proteção do país de que são nacionais, por não mais subsistirem as circunstâncias que determinaram o refúgio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2042.%20A%20repatria%C3%A7%C3%A3o%20de%20refugiados%20aos%20seus%20pa%C3%ADses%20de%20origem%20deve%20ser%20caracterizada%20pelo%20car%C3%A1ter%20volunt%C3%A1rio%20do%20retorno%2C%20salvo%20nos%20casos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. No exercício de seus direitos e deveres, a condição atípica dos refugiados deverá ser considerada quando da necessidade da apresentação de documentos emitidos por seus países de origem ou por suas representações diplomáticas e consulares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2043.%20No%20exerc%C3%ADcio%20de%20seus%20direitos%20e%20deveres%2C%20a%20condi%C3%A7%C3%A3o%20at%C3%ADpica%20dos%20refugiados%20dever%C3%A1%20ser%20considerada%20quando%20da%20necessidade%20da%20apresenta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O reconhecimento de certificados e diplomas, os requisitos para a obtenção da condição de residente e o ingresso em instituições acadêmicas de todos os níveis deverão ser facilitados, levando-se em consideração a situação desfavorável vivenciada pelos refugiados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2044.%20O%20reconhecimento%20de%20certificados%20e%20diplomas%2C%20os%20requisitos%20para%20a%20obten%C3%A7%C3%A3o%20da%20condi%C3%A7%C3%A3o%20de%20residente%20e%20o%20ingresso%20em%20institui%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O reassentamento de refugiados em outros países deve ser caracterizado, sempre que possível, pelo caráter voluntário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2045.%20O%20reassentamento%20de%20refugiados%20em%20outros%20pa%C3%ADses%20deve%20ser%20caracterizado%2C%20sempre%20que%20poss%C3%ADvel%2C%20pelo%20car%C3%A1ter%20volunt%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O reassentamento de refugiados no Brasil se efetuará de forma planificada e com a participação coordenada dos órgãos estatais e, quando possível, de organizações não-governamentais, identificando áreas de cooperação e de determinação de responsabilidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2046.%20O%20reassentamento%20de%20refugiados%20no%20Brasil%20se%20efetuar%C3%A1%20de%20forma%20planificada%20e%20com%20a%20participa%C3%A7%C3%A3o%20coordenada%20dos%20%C3%B3rg%C3%A3os%20estatais%20e%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Os processos de reconhecimento da condição de refugiado serão gratuitos e terão caráter urgente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2047.%20Os%20processos%20de%20reconhecimento%20da%20condi%C3%A7%C3%A3o%20de%20refugiado%20ser%C3%A3o%20gratuitos%20e%20ter%C3%A3o%20car%C3%A1ter%20urgente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os preceitos desta Lei deverão ser interpretados em harmonia com a Declaração Universal dos Direitos do Homem de 1948, com a Convenção sobre o Estatuto dos Refugiados de 1951, com o Protocolo sobre o Estatuto dos Refugiados de 1967 e com todo dispositivo pertinente de instrumento internacional de proteção de direitos humanos com o qual o Governo brasileiro estiver comprometido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2048.%20Os%20preceitos%20desta%20Lei%20dever%C3%A3o%20ser%20interpretados%20em%20harmonia%20com%20a%20Declara%C3%A7%C3%A3o%20Universal%20dos%20Direitos%20do%20Homem%20de%201948%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 22 de julho de 1997; 176º da Independência e 109º da República.\n\nFERNANDO HENRIQUE CARDOSO Iris Rezende\n\nEste texto não substitui o publicado no DOU de 23.7.1997\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm#:~:text=Art.%2049.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": null
+    }
+  }
+}

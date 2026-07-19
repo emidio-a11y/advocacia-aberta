@@ -23,12 +23,7 @@
       "197",
       "198",
       "401-A",
-      "401-B",
-      "554",
-      "555",
-      "571",
-      "572",
-      "575"
+      "401-B"
     ]
   },
   "artigos": {
@@ -13122,7 +13117,7 @@
     },
     "553": {
       "numero": "553",
-      "texto": "Art. 553 - As infrações ao disposto neste Capítulo serão punidas, segundo o seu caráter e a sua gravidade, com as seguintes penalidades:\n\na) multa de Cr$ 100 (cem cruzeiros) e 5.000 (cinco mil cruzeiros), dobrada na reincidência;\n\nb) suspensão de diretores por prazo não superior a 30 (trinta) dias;\n\nc) destituição de diretores ou de membros de conselho;\n\nd) fechamento de Sindicato, Federação ou Confederação por prazo nunca superior a 6 (seis) meses;\n\ne) cassação da carta de reconhecimento.\n\nf) multa de 1/30 (um trinta avos) do salário mínimo regional, aplicável ao associado que deixar de cumprir sem causa justificada, o disposto no parágrafo único do artigo 529. (Incluída pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 1º - A imposição de penalidades aos administradores não exclui a aplicação das que este artigo prevê para a associação. (Parágrafo único renumerado pelo Decreto-lei nº 925, de 10.10.1969)\n\n§ 2º - Poderá o Ministro do Trabalho e Previdência Social determinar o afastamento preventivo de cargo ou representação sindicais de seus exercentes, com fundamento em elementos constantes de denúncia formalizada que constituam indício veemente ou início de prova bastante do fato e da autoria denunciados. (Incluído pelo Decreto-lei nº 925, de 10.10.1969)\n\nArt 554. Destituida a administração na hipótese da alínea c do artigo anterior, o ministro do Trabalho, Indústria e Comércio nomeará um delegado para dirigir a associação e proceder, dentro do prazo de 90 dias, em assembléia geral por ele convocada e presidida; à eleição dos novos diretores e membros do Conselho Fiscal.\n\nArt 555. A pena de cassação da carta de reconhecimento será imposta à entidade sindical:\n\na) que deixar de satisfazer as condições de constituição e funcionamento estabelecidas nesta Lei;\n\nb) que se recusar ao cumprimento de ato do Presidente da República, no uso da faculdade conferida pelo art. 536; (Vide Decreto nº 229, de 1967)\n\nc) que criar obstáculos à execução da política econômica adotada pelo Governo. (Redação dada pelo Decreto-lei nº 8.080, 11.10.1945)",
+      "texto": "Art. 553 - As infrações ao disposto neste Capítulo serão punidas, segundo o seu caráter e a sua gravidade, com as seguintes penalidades:\n\na) multa de Cr$ 100 (cem cruzeiros) e 5.000 (cinco mil cruzeiros), dobrada na reincidência;\n\nb) suspensão de diretores por prazo não superior a 30 (trinta) dias;\n\nc) destituição de diretores ou de membros de conselho;\n\nd) fechamento de Sindicato, Federação ou Confederação por prazo nunca superior a 6 (seis) meses;\n\ne) cassação da carta de reconhecimento.\n\nf) multa de 1/30 (um trinta avos) do salário mínimo regional, aplicável ao associado que deixar de cumprir sem causa justificada, o disposto no parágrafo único do artigo 529. (Incluída pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 1º - A imposição de penalidades aos administradores não exclui a aplicação das que este artigo prevê para a associação. (Parágrafo único renumerado pelo Decreto-lei nº 925, de 10.10.1969)\n\n§ 2º - Poderá o Ministro do Trabalho e Previdência Social determinar o afastamento preventivo de cargo ou representação sindicais de seus exercentes, com fundamento em elementos constantes de denúncia formalizada que constituam indício veemente ou início de prova bastante do fato e da autoria denunciados. (Incluído pelo Decreto-lei nº 925, de 10.10.1969)",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art553",
       "keywords": [
         "penalidades sindicais",
@@ -13147,7 +13142,7 @@
     },
     "554": {
       "numero": "554",
-      "texto": "Destituída a administração na hipótese da alínea “c” do artigo anterior, o Ministro do Trabalho, Indústria e Comércio nomeará um delegado para dirigir a associação e proceder, dentro do prazo de 90 dias, em Assembléia Geral por ele convocada e presidida, à eleição dos novos diretores e membros do Conselho Fiscal.",
+      "texto": "Art 554. Destituida a administração na hipótese da alínea c do artigo anterior, o ministro do Trabalho, Indústria e Comércio nomeará um delegado para dirigir a associação e proceder, dentro do prazo de 90 dias, em assembléia geral por ele convocada e presidida; à eleição dos novos diretores e membros do Conselho Fiscal.",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art554",
       "keywords": [
         "destituicao administracao",
@@ -13160,20 +13155,19 @@
         "delegado sindical"
       ],
       "hierarchy": {
-        "titulo": "V",
-        "titulo_name": "DA ORGANIZAÇÃO SINDICAL",
-        "capitulo": "I",
-        "capitulo_name": "DA INSTITUIÇÃO SINDICAL",
-        "secao": null,
-        "secao_name": null
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
       },
       "prev": "553",
-      "next": "555",
-      "revogado": false
+      "next": "555"
     },
     "555": {
       "numero": "555",
-      "texto": "A pena de cassação da carta de reconhecimento será imposta à entidade sindical: a) que deixar de satisfazer as condições de constituição e funcionamento estabelecidas nesta Lei; b) que se recusar ao cumprimento de ato do Presidente da República, no uso da faculdade conferida pelo art. 536; c) que criar obstáculos à execução da política econômica adotada pelo Governo. (Alínea com redação dada pelo Decreto-Lei nº 8.080, de 11/10/1945)",
+      "texto": "Art 555. A pena de cassação da carta de reconhecimento será imposta à entidade sindical:\n\na) que deixar de satisfazer as condições de constituição e funcionamento estabelecidas nesta Lei;\n\nb) que se recusar ao cumprimento de ato do Presidente da República, no uso da faculdade conferida pelo art. 536; (Vide Decreto nº 229, de 1967)\n\nc) que criar obstáculos à execução da política econômica adotada pelo Governo. (Redação dada pelo Decreto-lei nº 8.080, 11.10.1945)",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art555",
       "keywords": [
         "cassacao carta reconhecimento",
@@ -13184,16 +13178,15 @@
         "politica economica governo"
       ],
       "hierarchy": {
-        "titulo": "V",
-        "titulo_name": "DA ORGANIZAÇÃO SINDICAL",
-        "capitulo": "I",
-        "capitulo_name": "DA INSTITUIÇÃO SINDICAL",
-        "secao": null,
-        "secao_name": null
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
       },
       "prev": "554",
-      "next": "556",
-      "revogado": false
+      "next": "556"
     },
     "556": {
       "numero": "556",
@@ -13486,7 +13479,7 @@
     },
     "570": {
       "numero": "570",
-      "texto": "Art. 570. Os sindicatos constituir-se-ão, normalmente, por categorias econômicas ou profissionais, específicas, na conformidade da discriminação do quadro das atividades e profissões a que se refere o art. 577 ou segundo as subdivisões que, sob proposta da Comissão do Enquadramento Sindical, de que trata o art. 576, forem criadas pelo ministro do Trabalho, Indústria e Comércio.\n\nParágrafo único - Quando os exercentes de quaisquer atividades ou profissões se constituírem, seja pelo número reduzido, seja pela natureza mesma dessas atividades ou profissões, seja pelas afinidades existentes entre elas, em condições tais que não se possam sindicalizar eficientemente pelo critério de especificidade de categoria, é-lhes permitido sindicalizar-se pelo critério de categorias similares ou conexas, entendendo-se como tais as que se acham compreendidas nos limites de cada grupo constante do Quadro de Atividades e Profissões.\n\nArt 571. Qualquer das atividades ou profissões concentradas na forma do parágrafo único do artigo anterior poderá dissociar-se do sindicato principal, formando um sindicato específico, desde que o novo sindicato, a juizo da Comissão do Enquadramento Sindical, ofereça possibilidade de vida associativa regular e de ação sindical eficiente.\n\nArt 572. Os sindicatos que se constituirem por categorias similares ou conexas, nos termos do parágrafo único do art. 570, adotarão denominação em que fiquem, tanto como possivel, explicitamente mencionadas as atividades ou profissões concentradas, de conformidade com o quadro das atividades e profissões, ou se se tratar de subdivisões, de acordo com o que determinar a Comissão do Enquadramento Sindical.\n\nParágrafo único - Ocorrendo a hipótese do artigo anterior, o Sindicato principal terá a denominação alterada, eliminando-se-lhe a designação relativa à atividade ou profissão dissociada.",
+      "texto": "Art. 570. Os sindicatos constituir-se-ão, normalmente, por categorias econômicas ou profissionais, específicas, na conformidade da discriminação do quadro das atividades e profissões a que se refere o art. 577 ou segundo as subdivisões que, sob proposta da Comissão do Enquadramento Sindical, de que trata o art. 576, forem criadas pelo ministro do Trabalho, Indústria e Comércio.\n\nParágrafo único - Quando os exercentes de quaisquer atividades ou profissões se constituírem, seja pelo número reduzido, seja pela natureza mesma dessas atividades ou profissões, seja pelas afinidades existentes entre elas, em condições tais que não se possam sindicalizar eficientemente pelo critério de especificidade de categoria, é-lhes permitido sindicalizar-se pelo critério de categorias similares ou conexas, entendendo-se como tais as que se acham compreendidas nos limites de cada grupo constante do Quadro de Atividades e Profissões.",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art570",
       "keywords": [
         "organizacao sindical",
@@ -13512,7 +13505,7 @@
     },
     "571": {
       "numero": "571",
-      "texto": "Qualquer das atividades ou profissões concentradas na forma do parágrafo único do artigo anterior poderá dissociar-se do sindicato principal, formando um sindicato específico, desde que o novo sindicato, a juízo da Comissão do Enquadramento Sindical, ofereça possibilidade de vida associativa regular e de ação sindical eficiente.",
+      "texto": "Art 571. Qualquer das atividades ou profissões concentradas na forma do parágrafo único do artigo anterior poderá dissociar-se do sindicato principal, formando um sindicato específico, desde que o novo sindicato, a juizo da Comissão do Enquadramento Sindical, ofereça possibilidade de vida associativa regular e de ação sindical eficiente.",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art571",
       "keywords": [
         "enquadramento sindical",
@@ -13522,20 +13515,19 @@
         "acao sindical"
       ],
       "hierarchy": {
-        "titulo": "V",
-        "titulo_name": "DA ORGANIZAÇÃO SINDICAL",
-        "capitulo": "II",
-        "capitulo_name": "DO ENQUADRAMENTO SINDICAL",
-        "secao": null,
-        "secao_name": null
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
       },
       "prev": "570",
-      "next": "572",
-      "revogado": false
+      "next": "572"
     },
     "572": {
       "numero": "572",
-      "texto": "Os Sindicatos que se constituírem por categorias similares ou conexas, nos termos do parágrafo único do art. 570, adotarão denominação em que fiquem, tanto quanto possível, explicitamente mencionadas as atividades ou profissões concentradas, de conformidade com o Quadro de Atividades e Profissões, ou se se tratar de subdivisões, de acordo com o que determinar a Comissão do Enquadramento Sindical. Parágrafo único. Ocorrendo a hipótese do artigo anterior, o Sindicato principal terá a denominação alterada, eliminando-se-lhe a designação relativa à atividade ou profissão dissociada.",
+      "texto": "Art 572. Os sindicatos que se constituirem por categorias similares ou conexas, nos termos do parágrafo único do art. 570, adotarão denominação em que fiquem, tanto como possivel, explicitamente mencionadas as atividades ou profissões concentradas, de conformidade com o quadro das atividades e profissões, ou se se tratar de subdivisões, de acordo com o que determinar a Comissão do Enquadramento Sindical.\n\nParágrafo único - Ocorrendo a hipótese do artigo anterior, o Sindicato principal terá a denominação alterada, eliminando-se-lhe a designação relativa à atividade ou profissão dissociada.",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art572",
       "keywords": [
         "sindicatos categorias",
@@ -13546,16 +13538,15 @@
         "organizacao sindical"
       ],
       "hierarchy": {
-        "titulo": "V",
-        "titulo_name": "DA ORGANIZAÇÃO SINDICAL",
-        "capitulo": "II",
-        "capitulo_name": "DO ENQUADRAMENTO SINDICAL",
-        "secao": null,
-        "secao_name": null
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
       },
       "prev": "571",
-      "next": "573",
-      "revogado": false
+      "next": "573"
     },
     "573": {
       "numero": "573",
@@ -13575,7 +13566,7 @@
     },
     "574": {
       "numero": "574",
-      "texto": "Art. 574 - Dentro da mesma base territorial, as empresas industriais do tipo artesanal poderão constituir entidades sindicais, de primeiro e segundo graus, distintas das associações sindicais das empresas congêneres, de tipo diferente.\n\nParágrafo único. Compete à Comissão de Enquadramento Sindical definir, de modo genérico, com a aprovação do ministro do Trabalho, Indústria e Comércio, a dimensão e os demais característicos das empresas industriais de tipo artesanal.\n\nArt 575. O quadro de atividades e profissões será revisto de dois em dois anos, por proposta da Comissão do Enquadramento Sindical, para o fim de ajustá-lo às condições da estrutura econômica e profissional do país.\n\n§ 1º - Antes de proceder à revisão do Quadro, a Comissão deverá solicitar sugestões às entidades sindicais e às associações profissionais.\n\n§ 2º - A proposta de revisão será submetida à aprovação do Ministro do Trabalho, Industria e Comercio.",
+      "texto": "Art. 574 - Dentro da mesma base territorial, as empresas industriais do tipo artesanal poderão constituir entidades sindicais, de primeiro e segundo graus, distintas das associações sindicais das empresas congêneres, de tipo diferente.\n\nParágrafo único. Compete à Comissão de Enquadramento Sindical definir, de modo genérico, com a aprovação do ministro do Trabalho, Indústria e Comércio, a dimensão e os demais característicos das empresas industriais de tipo artesanal.",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art574",
       "keywords": [
         "enquadramento sindical",
@@ -13600,7 +13591,7 @@
     },
     "575": {
       "numero": "575",
-      "texto": "O Quadro de Atividades e Profissões será revisto de dois em dois anos, por proposta da Comissão do Enquadramento Sindical, para o fim de ajustá-lo às condições da estrutura econômica e profissional do País. § 1º Antes de proceder à revisão do Quadro, a Comissão deverá solicitar sugestões às entidades sindicais e às associações profissionais. § 2º A proposta de revisão será submetida à aprovação do Ministro do Trabalho, Indústria e Comércio.",
+      "texto": "Art 575. O quadro de atividades e profissões será revisto de dois em dois anos, por proposta da Comissão do Enquadramento Sindical, para o fim de ajustá-lo às condições da estrutura econômica e profissional do país.\n\n§ 1º - Antes de proceder à revisão do Quadro, a Comissão deverá solicitar sugestões às entidades sindicais e às associações profissionais.\n\n§ 2º - A proposta de revisão será submetida à aprovação do Ministro do Trabalho, Industria e Comercio.",
       "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm#art575",
       "keywords": [
         "enquadramento sindical",
@@ -13611,16 +13602,15 @@
         "ministro trabalho"
       ],
       "hierarchy": {
-        "titulo": "V",
-        "titulo_name": "DA ORGANIZAÇÃO SINDICAL",
-        "capitulo": "II",
-        "capitulo_name": "DO ENQUADRAMENTO SINDICAL",
-        "secao": null,
-        "secao_name": null
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
       },
       "prev": "574",
-      "next": "576",
-      "revogado": false
+      "next": "576"
     },
     "576": {
       "numero": "576",

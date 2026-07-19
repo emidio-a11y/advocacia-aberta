@@ -24,31 +24,55 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "CTB",
   "CTN",
   "ECA",
+  "ECID",
+  "ED",
+  "EDT",
+  "EI",
+  "EIND",
+  "EIR",
+  "EJUV",
+  "EMET",
+  "EMIL",
+  "EMUS",
+  "EOAB",
+  "EPC",
+  "EPD",
+  "EREF",
+  "ET",
   "LBPS",
+  "LC123",
   "LD",
   "LEP",
   "LGPD",
   "LINDB",
   "LLC",
+  "LMIG",
   "LMP",
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 19 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 36 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
 
-  test("não aceita o código EI sem base correspondente", () => {
-    expect(normalizarCodigo("EI")).toBeNull();
-    expect(normalizarCodigo("ei")).toBeNull();
+  test("aceita EI agora que o Estatuto da Pessoa Idosa tem base", () => {
+    // Até a expansão de julho de 2026, EI era anunciado sem arquivo (BASE-003)
+    // e precisava ser recusado; hoje o código resolve para a base promovida.
+    expect(normalizarCodigo("EI")).toBe("EI");
+    expect(normalizarCodigo("ei")).toBe("EI");
+  });
+
+  test("código desconhecido continua produzindo null", () => {
+    expect(normalizarCodigo("XYZ")).toBeNull();
+    expect(normalizarCodigo("E I")).toBeNull();
   });
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(19);
+    expect(legislacoes).toHaveLength(36);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      8172,
+      9564,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

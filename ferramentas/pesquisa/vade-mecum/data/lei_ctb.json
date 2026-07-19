@@ -16,9 +16,7 @@
       }
     ],
     "transformacao": "planalto_html_v1",
-    "registros_retidos_sem_correspondencia": [
-      "67-B"
-    ]
+    "registros_retidos_sem_correspondencia": []
   },
   "artigos": {
     "1": {
@@ -1811,7 +1809,7 @@
     },
     "67-A": {
       "numero": "67-A",
-      "texto": "Art. 67-A. O disposto neste Capítulo aplica-se aos motoristas profissionais: (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\nI - de transporte rodoviário coletivo de passageiros; (Incluído pela Lei nº 13.103, de 2015) (Vigência)\n\nII - de transporte rodoviário de cargas. (Incluído pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 1o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 2o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 3o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 4o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 5o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 6o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 7o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 8o (VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)\n\nArt 67-B. VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)",
+      "texto": "Art. 67-A. O disposto neste Capítulo aplica-se aos motoristas profissionais: (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\nI - de transporte rodoviário coletivo de passageiros; (Incluído pela Lei nº 13.103, de 2015) (Vigência)\n\nII - de transporte rodoviário de cargas. (Incluído pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 1o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 2o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 3o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 4o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 5o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 6o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 7o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)\n\n§ 8o (VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%2067-A.",
       "keywords": [
         "motoristas profissionais",
@@ -1838,16 +1836,8 @@
     },
     "67-B": {
       "numero": "67-B",
-      "prev": "67-A",
-      "next": "67-C",
-      "texto": "Art. 67-B. (VETADO na Lei nº 12.619, de 30/4/2012)",
+      "texto": "Art 67-B. VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%2067-B.",
-      "hierarchy": {
-        "capitulo": "III",
-        "capitulo_name": "Das Normas Gerais de Circulação e Conduta",
-        "secao": null,
-        "secao_name": null
-      },
       "keywords": [
         "vetado",
         "lei 12619",
@@ -1858,7 +1848,17 @@
         "recurso multa",
         "defesa previa",
         "jurisprudencia transito"
-      ]
+      ],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III-A (Incluído Lei nº 12.619, de 2012) (Vigência)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67-A",
+      "next": "67-C"
     },
     "67-C": {
       "numero": "67-C",

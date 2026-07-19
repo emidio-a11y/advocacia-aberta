@@ -1,0 +1,1007 @@
+{
+  "_meta": {
+    "codigo": "ECID",
+    "nome": "Estatuto da Cidade",
+    "lei": "Lei 10.257/2001",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+    "total_artigos": 62,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Na execução da política urbana, de que tratam os arts. 182 e 183 da Constituição Federal, será aplicado o previsto nesta Lei.\n\nParágrafo único. Para todos os efeitos, esta Lei, denominada Estatuto da Cidade, estabelece normas de ordem pública e interesse social que regulam o uso da propriedade urbana em prol do bem coletivo, da segurança e do bem-estar dos cidadãos, bem como do equilíbrio ambiental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%201o%20Na%20execu%C3%A7%C3%A3o%20da%20pol%C3%ADtica%20urbana%2C%20de%20que%20tratam%20os%20arts.%20182%20e%20183%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20ser%C3%A1%20aplicado%20o%20previsto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o A política urbana tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e da propriedade urbana, mediante as seguintes diretrizes gerais:\n\nI – garantia do direito a cidades sustentáveis, entendido como o direito à terra urbana, à moradia, ao saneamento ambiental, à infra-estrutura urbana, ao transporte e aos serviços públicos, ao trabalho e ao lazer, para as presentes e futuras gerações;\n\nII – gestão democrática por meio da participação da população e de associações representativas dos vários segmentos da comunidade na formulação, execução e acompanhamento de planos, programas e projetos de desenvolvimento urbano;\n\nIII – cooperação entre os governos, a iniciativa privada e os demais setores da sociedade no processo de urbanização, em atendimento ao interesse social;\n\nIV – planejamento do desenvolvimento das cidades, da distribuição espacial da população e das atividades econômicas do Município e do território sob sua área de influência, de modo a evitar e corrigir as distorções do crescimento urbano e seus efeitos negativos sobre o meio ambiente;\n\nV – oferta de equipamentos urbanos e comunitários, transporte e serviços públicos adequados aos interesses e necessidades da população e às características locais;\n\nVI – ordenação e controle do uso do solo, de forma a evitar:\n\na) a utilização inadequada dos imóveis urbanos;\n\nb) a proximidade de usos incompatíveis ou inconvenientes;\n\nc) o parcelamento do solo, a edificação ou o uso excessivos ou inadequados em relação à infra-estrutura urbana;\n\nd) a instalação de empreendimentos ou atividades que possam funcionar como pólos geradores de tráfego, sem a previsão da infra-estrutura correspondente;\n\ne) a retenção especulativa de imóvel urbano, que resulte na sua subutilização ou não utilização;\n\nf) a deterioração das áreas urbanizadas;\n\ng) a poluição e a degradação ambiental;\n\nh) a exposição da população a riscos de desastres naturais; (Incluído pela Medida Provisória nº 547, de 2011).\n\nh) a exposição da população a riscos de desastres. (Incluído dada pela Lei nº 12.608, de 2012)\n\nVII – integração e complementaridade entre as atividades urbanas e rurais, tendo em vista o desenvolvimento socioeconômico do Município e do território sob sua área de influência;\n\nVIII – adoção de padrões de produção e consumo de bens e serviços e de expansão urbana compatíveis com os limites da sustentabilidade ambiental, social e econômica do Município e do território sob sua área de influência;\n\nIX – justa distribuição dos benefícios e ônus decorrentes do processo de urbanização;\n\nX – adequação dos instrumentos de política econômica, tributária e financeira e dos gastos públicos aos objetivos do desenvolvimento urbano, de modo a privilegiar os investimentos geradores de bem-estar geral e a fruição dos bens pelos diferentes segmentos sociais;\n\nXI – recuperação dos investimentos do Poder Público de que tenha resultado a valorização de imóveis urbanos;\n\nXII – proteção, preservação e recuperação do meio ambiente natural e construído, do patrimônio cultural, histórico, artístico, paisagístico e arqueológico;\n\nXIII – audiência do Poder Público municipal e da população interessada nos processos de implantação de empreendimentos ou atividades com efeitos potencialmente negativos sobre o meio ambiente natural ou construído, o conforto ou a segurança da população;\n\nXIV – regularização fundiária e urbanização de áreas ocupadas por população de baixa renda mediante o estabelecimento de normas especiais de urbanização, uso e ocupação do solo e edificação, consideradas a situação socioeconômica da população e as normas ambientais;\n\nXV – simplificação da legislação de parcelamento, uso e ocupação do solo e das normas edilícias, com vistas a permitir a redução dos custos e o aumento da oferta dos lotes e unidades habitacionais;\n\nXVI – isonomia de condições para os agentes públicos e privados na promoção de empreendimentos e atividades relativos ao processo de urbanização, atendido o interesse social.\n\nXVII - estímulo à utilização, nos parcelamentos do solo e nas edificações urbanas, de sistemas operacionais, padrões construtivos e aportes tecnológicos que objetivem a redução de impactos ambientais e a economia de recursos naturais. (Incluído pela Lei nº 12.836, de 2013)\n\nXVIII - tratamento prioritário às obras e edificações de infraestrutura de energia, telecomunicações, abastecimento de água e saneamento. (Incluído pela Lei nº 13.116, de 2015)\n\nXIX – garantia de condições condignas de acessibilidade, utilização e conforto nas dependências internas das edificações urbanas, inclusive nas destinadas à moradia e ao serviço dos trabalhadores domésticos, observados requisitos mínimos de dimensionamento, ventilação, iluminação, ergonomia, privacidade e qualidade dos materiais empregados. (Incluído pela Lei nº 13.699, de 2018)\n\nXX - promoção de conforto, abrigo, descanso, bem-estar e acessibilidade na fruição dos espaços livres de uso público, de seu mobiliário e de suas interfaces com os espaços de uso privado, vedado o emprego de materiais, estruturas, equipamentos e técnicas construtivas hostis que tenham como objetivo ou resultado o afastamento de pessoas em situação de rua, idosos, jovens e outros segmentos da população. (Redação dada pela Lei nº 14.489, de 2022) Regulamento\n\nXXI – adequada construção, instalação, sinalização, higienização e conservação dos equipamentos públicos e privados de uso coletivo, com vistas à prevenção de acidentes e à proteção da saúde dos usuários. (Incluído pela Lei nº 15.333, de 2026) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%202o%20A%20pol%C3%ADtica%20urbana%20tem%20por%20objetivo%20ordenar%20o%20pleno%20desenvolvimento%20das%20fun%C3%A7%C3%B5es%20sociais%20da%20cidade%20e%20da%20propriedade%20urbana%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Compete à União, entre outras atribuições de interesse da política urbana:\n\nI – legislar sobre normas gerais de direito urbanístico;\n\nII – legislar sobre normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios em relação à política urbana, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional;\n\nIII – promover, por iniciativa própria e em conjunto com os Estados, o Distrito Federal e os Municípios, programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico;\n\nIII - promover, por iniciativa própria e em conjunto com os Estados, o Distrito Federal e os Municípios, programas de construção de moradias e melhoria das condições habitacionais, de saneamento básico, das calçadas, dos passeios públicos, do mobiliário urbano e dos demais espaços de uso público; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)\n\nIV – instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos;\n\nIV - instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico, transportes urbanos e infraestrutura de energia e telecomunicações; (Redação dada pela Lei nº 13.116, de 2015)\n\nIV - instituir diretrizes para desenvolvimento urbano, inclusive habitação, saneamento básico, transporte e mobilidade urbana, que incluam regras de acessibilidade aos locais de uso público; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)\n\nV – elaborar e executar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%203o%20Compete%20%C3%A0%20Uni%C3%A3o%2C%20entre%20outras%20atribui%C3%A7%C3%B5es%20de%20interesse%20da%20pol%C3%ADtica%20urbana%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Para os fins desta Lei, serão utilizados, entre outros instrumentos:\n\nI – planos nacionais, regionais e estaduais de ordenação do território e de desenvolvimento econômico e social;\n\nII – planejamento das regiões metropolitanas, aglomerações urbanas e microrregiões;\n\nIII – planejamento municipal, em especial:\n\na) plano diretor;\n\nb) disciplina do parcelamento, do uso e da ocupação do solo;\n\nc) zoneamento ambiental;\n\nd) plano plurianual;\n\ne) diretrizes orçamentárias e orçamento anual;\n\nf) gestão orçamentária participativa;\n\ng) planos, programas e projetos setoriais;\n\nh) planos de desenvolvimento econômico e social;\n\nIV – institutos tributários e financeiros:\n\na) imposto sobre a propriedade predial e territorial urbana - IPTU;\n\nb) contribuição de melhoria;\n\nc) incentivos e benefícios fiscais e financeiros;\n\nV – institutos jurídicos e políticos:\n\na) desapropriação;\n\nb) servidão administrativa;\n\nc) limitações administrativas;\n\nd) tombamento de imóveis ou de mobiliário urbano;\n\ne) instituição de unidades de conservação;\n\nf) instituição de zonas especiais de interesse social;\n\ng) concessão de direito real de uso;\n\nh) concessão de uso especial para fins de moradia;\n\ni) parcelamento, edificação ou utilização compulsórios;\n\nj) usucapião especial de imóvel urbano;\n\nl) direito de superfície;\n\nm) direito de preempção;\n\nn) outorga onerosa do direito de construir e de alteração de uso;\n\no) transferência do direito de construir;\n\np) operações urbanas consorciadas;\n\nq) regularização fundiária;\n\nr) assistência técnica e jurídica gratuita para as comunidades e grupos sociais menos favorecidos;\n\ns) referendo popular e plebiscito;\n\nt) demarcação urbanística para fins de regularização fundiária; (Incluído pela Medida Provisória nº 459, de 2009)\n\nt) demarcação urbanística para fins de regularização fundiária; (Incluído pela Lei nº 11.977, de 2009)\n\nu) legitimação de posse. (Incluído pela Medida Provisória nº 459, de 2009)\n\nu) legitimação de posse. (Incluído pela Lei nº 11.977, de 2009)\n\nVI – estudo prévio de impacto ambiental (EIA) e estudo prévio de impacto de vizinhança (EIV).\n\n§ 1o Os instrumentos mencionados neste artigo regem-se pela legislação que lhes é própria, observado o disposto nesta Lei.\n\n§ 2o Nos casos de programas e projetos habitacionais de interesse social, desenvolvidos por órgãos ou entidades da Administração Pública com atuação específica nessa área, a concessão de direito real de uso de imóveis públicos poderá ser contratada coletivamente.\n\n§ 3o Os instrumentos previstos neste artigo que demandam dispêndio de recursos por parte do Poder Público municipal devem ser objeto de controle social, garantida a participação de comunidades, movimentos e entidades da sociedade civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%204o%20Para%20os%20fins%20desta%20Lei%2C%20ser%C3%A3o%20utilizados%2C%20entre%20outros%20instrumentos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Lei municipal específica para área incluída no plano diretor poderá determinar o parcelamento, a edificação ou a utilização compulsórios do solo urbano não edificado, subutilizado ou não utilizado, devendo fixar as condições e os prazos para implementação da referida obrigação.\n\n§ 1o Considera-se subutilizado o imóvel:\n\nI – cujo aproveitamento seja inferior ao mínimo definido no plano diretor ou em legislação dele decorrente;\n\nII – (VETADO)\n\n§ 2o O proprietário será notificado pelo Poder Executivo municipal para o cumprimento da obrigação, devendo a notificação ser averbada no cartório de registro de imóveis.\n\n§ 3o A notificação far-se-á:\n\nI – por funcionário do órgão competente do Poder Público municipal, ao proprietário do imóvel ou, no caso de este ser pessoa jurídica, a quem tenha poderes de gerência geral ou administração;\n\nII – por edital quando frustrada, por três vezes, a tentativa de notificação na forma prevista pelo inciso I.\n\n§ 4o Os prazos a que se refere o caput não poderão ser inferiores a:\n\nI - um ano, a partir da notificação, para que seja protocolado o projeto no órgão municipal competente;\n\nII - dois anos, a partir da aprovação do projeto, para iniciar as obras do empreendimento.\n\n§ 5o Em empreendimentos de grande porte, em caráter excepcional, a lei municipal específica a que se refere o caput poderá prever a conclusão em etapas, assegurando-se que o projeto aprovado compreenda o empreendimento como um todo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%205o%20Lei%20municipal%20espec%C3%ADfica%20para%20%C3%A1rea%20inclu%C3%ADda%20no%20plano%20diretor%20poder%C3%A1%20determinar%20o%20parcelamento%2C%20a%20edifica%C3%A7%C3%A3o%20ou%20a%20utiliza%C3%A7%C3%A3o%20compuls%C3%B3rios%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A transmissão do imóvel, por ato inter vivos ou causa mortis, posterior à data da notificação, transfere as obrigações de parcelamento, edificação ou utilização previstas no art. 5o desta Lei, sem interrupção de quaisquer prazos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%206o%20A%20transmiss%C3%A3o%20do%20im%C3%B3vel%2C%20por%20ato%20inter%20vivos%20ou%20causa%20mortis%2C%20posterior%20%C3%A0%20data%20da%20notifica%C3%A7%C3%A3o%2C%20transfere%20as%20obriga%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Em caso de descumprimento das condições e dos prazos previstos na forma do caput do art. 5o desta Lei, ou não sendo cumpridas as etapas previstas no § 5o do art. 5o desta Lei, o Município procederá à aplicação do imposto sobre a propriedade predial e territorial urbana (IPTU) progressivo no tempo, mediante a majoração da alíquota pelo prazo de cinco anos consecutivos.\n\n§ 1o O valor da alíquota a ser aplicado a cada ano será fixado na lei específica a que se refere o caput do art. 5o desta Lei e não excederá a duas vezes o valor referente ao ano anterior, respeitada a alíquota máxima de quinze por cento.\n\n§ 2o Caso a obrigação de parcelar, edificar ou utilizar não esteja atendida em cinco anos, o Município manterá a cobrança pela alíquota máxima, até que se cumpra a referida obrigação, garantida a prerrogativa prevista no art. 8o.\n\n§ 3o É vedada a concessão de isenções ou de anistia relativas à tributação progressiva de que trata este artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%207o%20Em%20caso%20de%20descumprimento%20das%20condi%C3%A7%C3%B5es%20e%20dos%20prazos%20previstos%20na%20forma%20do%20caput%20do%20art.%205o%20desta%20Lei%2C%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Decorridos cinco anos de cobrança do IPTU progressivo sem que o proprietário tenha cumprido a obrigação de parcelamento, edificação ou utilização, o Município poderá proceder à desapropriação do imóvel, com pagamento em títulos da dívida pública.\n\n§ 1o Os títulos da dívida pública terão prévia aprovação pelo Senado Federal e serão resgatados no prazo de até dez anos, em prestações anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros legais de seis por cento ao ano.\n\n§ 2o O valor real da indenização:\n\nI – refletirá o valor da base de cálculo do IPTU, descontado o montante incorporado em função de obras realizadas pelo Poder Público na área onde o mesmo se localiza após a notificação de que trata o § 2o do art. 5o desta Lei;\n\nII – não computará expectativas de ganhos, lucros cessantes e juros compensatórios.\n\n§ 3o Os títulos de que trata este artigo não terão poder liberatório para pagamento de tributos.\n\n§ 4o O Município procederá ao adequado aproveitamento do imóvel no prazo máximo de cinco anos, contado a partir da sua incorporação ao patrimônio público.\n\n§ 5o O aproveitamento do imóvel poderá ser efetivado diretamente pelo Poder Público ou por meio de alienação ou concessão a terceiros, observando-se, nesses casos, o devido procedimento licitatório.\n\n§ 6o Ficam mantidas para o adquirente de imóvel nos termos do § 5o as mesmas obrigações de parcelamento, edificação ou utilização previstas no art. 5o desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%208o%20Decorridos%20cinco%20anos%20de%20cobran%C3%A7a%20do%20IPTU%20progressivo%20sem%20que%20o%20propriet%C3%A1rio%20tenha%20cumprido%20a%20obriga%C3%A7%C3%A3o%20de%20parcelamento%2C%20edifica%C3%A7%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Aquele que possuir como sua área ou edificação urbana de até duzentos e cinqüenta metros quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural.\n\n§ 1o O título de domínio será conferido ao homem ou à mulher, ou a ambos, independentemente do estado civil.\n\n§ 2o O direito de que trata este artigo não será reconhecido ao mesmo possuidor mais de uma vez.\n\n§ 3o Para os efeitos deste artigo, o herdeiro legítimo continua, de pleno direito, a posse de seu antecessor, desde que já resida no imóvel por ocasião da abertura da sucessão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%209o%20Aquele%20que%20possuir%20como%20sua%20%C3%A1rea%20ou%20edifica%C3%A7%C3%A3o%20urbana%20de%20at%C3%A9%20duzentos%20e%20cinq%C3%BCenta%20metros%20quadrados%2C%20por%20cinco%20anos%2C%20ininterruptamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. As áreas urbanas com mais de duzentos e cinqüenta metros quadrados, ocupadas por população de baixa renda para sua moradia, por cinco anos, ininterruptamente e sem oposição, onde não for possível identificar os terrenos ocupados por cada possuidor, são susceptíveis de serem usucapidas coletivamente, desde que os possuidores não sejam proprietários de outro imóvel urbano ou rural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2010.%20As%20%C3%A1reas%20urbanas%20com%20mais%20de%20duzentos%20e%20cinq%C3%BCenta%20metros%20quadrados%2C%20ocupadas%20por%20popula%C3%A7%C3%A3o%20de%20baixa%20renda%20para%20sua%20moradia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Na pendência da ação de usucapião especial urbana, ficarão sobrestadas quaisquer outras ações, petitórias ou possessórias, que venham a ser propostas relativamente ao imóvel usucapiendo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2011.%20Na%20pend%C3%AAncia%20da%20a%C3%A7%C3%A3o%20de%20usucapi%C3%A3o%20especial%20urbana%2C%20ficar%C3%A3o%20sobrestadas%20quaisquer%20outras%20a%C3%A7%C3%B5es%2C%20petit%C3%B3rias%20ou%20possess%C3%B3rias%2C%20que%20venham%20a%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. São partes legítimas para a propositura da ação de usucapião especial urbana:\n\nI – o possuidor, isoladamente ou em litisconsórcio originário ou superveniente;\n\nII – os possuidores, em estado de composse;\n\nIII – como substituto processual, a associação de moradores da comunidade, regularmente constituída, com personalidade jurídica, desde que explicitamente autorizada pelos representados.\n\n§ 1o Na ação de usucapião especial urbana é obrigatória a intervenção do Ministério Público.\n\n§ 2o O autor terá os benefícios da justiça e da assistência judiciária gratuita, inclusive perante o cartório de registro de imóveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2012.%20S%C3%A3o%20partes%20leg%C3%ADtimas%20para%20a%20propositura%20da%20a%C3%A7%C3%A3o%20de%20usucapi%C3%A3o%20especial%20urbana%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A usucapião especial de imóvel urbano poderá ser invocada como matéria de defesa, valendo a sentença que a reconhecer como título para registro no cartório de registro de imóveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2013.%20A%20usucapi%C3%A3o%20especial%20de%20im%C3%B3vel%20urbano%20poder%C3%A1%20ser%20invocada%20como%20mat%C3%A9ria%20de%20defesa%2C%20valendo%20a%20senten%C3%A7a%20que%20a%20reconhecer%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Na ação judicial de usucapião especial de imóvel urbano, o rito processual a ser observado é o sumário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2014.%20Na%20a%C3%A7%C3%A3o%20judicial%20de%20usucapi%C3%A3o%20especial%20de%20im%C3%B3vel%20urbano%2C%20o%20rito%20processual%20a%20ser%20observado%20%C3%A9%20o%20sum%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2015.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2016.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2017.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2018.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2019.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2020.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O proprietário urbano poderá conceder a outrem o direito de superfície do seu terreno, por tempo determinado ou indeterminado, mediante escritura pública registrada no cartório de registro de imóveis.\n\n§ 1o O direito de superfície abrange o direito de utilizar o solo, o subsolo ou o espaço aéreo relativo ao terreno, na forma estabelecida no contrato respectivo, atendida a legislação urbanística.\n\n§ 2o A concessão do direito de superfície poderá ser gratuita ou onerosa.\n\n§ 3o O superficiário responderá integralmente pelos encargos e tributos que incidirem sobre a propriedade superficiária, arcando, ainda, proporcionalmente à sua parcela de ocupação efetiva, com os encargos e tributos sobre a área objeto da concessão do direito de superfície, salvo disposição em contrário do contrato respectivo.\n\n§ 4o O direito de superfície pode ser transferido a terceiros, obedecidos os termos do contrato respectivo.\n\n§ 5o Por morte do superficiário, os seus direitos transmitem-se a seus herdeiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2021.%20O%20propriet%C3%A1rio%20urbano%20poder%C3%A1%20conceder%20a%20outrem%20o%20direito%20de%20superf%C3%ADcie%20do%20seu%20terreno%2C%20por%20tempo%20determinado%20ou%20indeterminado%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Em caso de alienação do terreno, ou do direito de superfície, o superficiário e o proprietário, respectivamente, terão direito de preferência, em igualdade de condições à oferta de terceiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2022.%20Em%20caso%20de%20aliena%C3%A7%C3%A3o%20do%20terreno%2C%20ou%20do%20direito%20de%20superf%C3%ADcie%2C%20o%20superfici%C3%A1rio%20e%20o%20propriet%C3%A1rio%2C%20respectivamente%2C%20ter%C3%A3o%20direito%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Extingue-se o direito de superfície:\n\nI – pelo advento do termo;\n\nII – pelo descumprimento das obrigações contratuais assumidas pelo superficiário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2023.%20Extingue-se%20o%20direito%20de%20superf%C3%ADcie%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Extinto o direito de superfície, o proprietário recuperará o pleno domínio do terreno, bem como das acessões e benfeitorias introduzidas no imóvel, independentemente de indenização, se as partes não houverem estipulado o contrário no respectivo contrato.\n\n§ 1o Antes do termo final do contrato, extinguir-se-á o direito de superfície se o superficiário der ao terreno destinação diversa daquela para a qual for concedida.\n\n§ 2o A extinção do direito de superfície será averbada no cartório de registro de imóveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2024.%20Extinto%20o%20direito%20de%20superf%C3%ADcie%2C%20o%20propriet%C3%A1rio%20recuperar%C3%A1%20o%20pleno%20dom%C3%ADnio%20do%20terreno%2C%20bem%20como%20das%20acess%C3%B5es%20e%20benfeitorias%20introduzidas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O direito de preempção confere ao Poder Público municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.\n\n§ 1o Lei municipal, baseada no plano diretor, delimitará as áreas em que incidirá o direito de preempção e fixará prazo de vigência, não superior a cinco anos, renovável a partir de um ano após o decurso do prazo inicial de vigência.\n\n§ 2o O direito de preempção fica assegurado durante o prazo de vigência fixado na forma do § 1o, independentemente do número de alienações referentes ao mesmo imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2025.%20O%20direito%20de%20preemp%C3%A7%C3%A3o%20confere%20ao%20Poder%20P%C3%BAblico%20municipal%20prefer%C3%AAncia%20para%20aquisi%C3%A7%C3%A3o%20de%20im%C3%B3vel%20urbano%20objeto%20de%20aliena%C3%A7%C3%A3o%20onerosa%20entre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O direito de preempção será exercido sempre que o Poder Público necessitar de áreas para:\n\nI – regularização fundiária;\n\nII – execução de programas e projetos habitacionais de interesse social;\n\nIII – constituição de reserva fundiária;\n\nIV – ordenamento e direcionamento da expansão urbana;\n\nV – implantação de equipamentos urbanos e comunitários;\n\nVI – criação de espaços públicos de lazer e áreas verdes;\n\nVII – criação de unidades de conservação ou proteção de outras áreas de interesse ambiental;\n\nVIII – proteção de áreas de interesse histórico, cultural ou paisagístico;\n\nIX – (VETADO)\n\nParágrafo único. A lei municipal prevista no § 1o do art. 25 desta Lei deverá enquadrar cada área em que incidirá o direito de preempção em uma ou mais das finalidades enumeradas por este artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2026.%20O%20direito%20de%20preemp%C3%A7%C3%A3o%20ser%C3%A1%20exercido%20sempre%20que%20o%20Poder%20P%C3%BAblico%20necessitar%20de%20%C3%A1reas%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O proprietário deverá notificar sua intenção de alienar o imóvel, para que o Município, no prazo máximo de trinta dias, manifeste por escrito seu interesse em comprá-lo.\n\n§ 1o À notificação mencionada no caput será anexada proposta de compra assinada por terceiro interessado na aquisição do imóvel, da qual constarão preço, condições de pagamento e prazo de validade.\n\n§ 2o O Município fará publicar, em órgão oficial e em pelo menos um jornal local ou regional de grande circulação, edital de aviso da notificação recebida nos termos do caput e da intenção de aquisição do imóvel nas condições da proposta apresentada.\n\n§ 3o Transcorrido o prazo mencionado no caput sem manifestação, fica o proprietário autorizado a realizar a alienação para terceiros, nas condições da proposta apresentada.\n\n§ 4o Concretizada a venda a terceiro, o proprietário fica obrigado a apresentar ao Município, no prazo de trinta dias, cópia do instrumento público de alienação do imóvel.\n\n§ 5o A alienação processada em condições diversas da proposta apresentada é nula de pleno direito.\n\n§ 6o Ocorrida a hipótese prevista no § 5o o Município poderá adquirir o imóvel pelo valor da base de cálculo do IPTU ou pelo valor indicado na proposta apresentada, se este for inferior àquele.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2027.%20O%20propriet%C3%A1rio%20dever%C3%A1%20notificar%20sua%20inten%C3%A7%C3%A3o%20de%20alienar%20o%20im%C3%B3vel%2C%20para%20que%20o%20Munic%C3%ADpio%2C%20no%20prazo%20m%C3%A1ximo%20de%20trinta%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O plano diretor poderá fixar áreas nas quais o direito de construir poderá ser exercido acima do coeficiente de aproveitamento básico adotado, mediante contrapartida a ser prestada pelo beneficiário.\n\n§ 1o Para os efeitos desta Lei, coeficiente de aproveitamento é a relação entre a área edificável e a área do terreno.\n\n§ 2o O plano diretor poderá fixar coeficiente de aproveitamento básico único para toda a zona urbana ou diferenciado para áreas específicas dentro da zona urbana.\n\n§ 3o O plano diretor definirá os limites máximos a serem atingidos pelos coeficientes de aproveitamento, considerando a proporcionalidade entre a infra-estrutura existente e o aumento de densidade esperado em cada área.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2028.%20O%20plano%20diretor%20poder%C3%A1%20fixar%20%C3%A1reas%20nas%20quais%20o%20direito%20de%20construir%20poder%C3%A1%20ser%20exercido%20acima%20do%20coeficiente%20de%20aproveitamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O plano diretor poderá fixar áreas nas quais poderá ser permitida alteração de uso do solo, mediante contrapartida a ser prestada pelo beneficiário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2029.%20O%20plano%20diretor%20poder%C3%A1%20fixar%20%C3%A1reas%20nas%20quais%20poder%C3%A1%20ser%20permitida%20altera%C3%A7%C3%A3o%20de%20uso%20do%20solo%2C%20mediante%20contrapartida%20a%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Lei municipal específica estabelecerá as condições a serem observadas para a outorga onerosa do direito de construir e de alteração de uso, determinando:\n\nI – a fórmula de cálculo para a cobrança;\n\nII – os casos passíveis de isenção do pagamento da outorga;\n\nIII – a contrapartida do beneficiário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2030.%20Lei%20municipal%20espec%C3%ADfica%20estabelecer%C3%A1%20as%20condi%C3%A7%C3%B5es%20a%20serem%20observadas%20para%20a%20outorga%20onerosa%20do%20direito%20de%20construir%20e%20de%20altera%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os recursos auferidos com a adoção da outorga onerosa do direito de construir e de alteração de uso serão aplicados com as finalidades previstas nos incisos I a IX do art. 26 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2031.%20Os%20recursos%20auferidos%20com%20a%20ado%C3%A7%C3%A3o%20da%20outorga%20onerosa%20do%20direito%20de%20construir%20e%20de%20altera%C3%A7%C3%A3o%20de%20uso%20ser%C3%A3o%20aplicados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Lei municipal específica, baseada no plano diretor, poderá delimitar área para aplicação de operações consorciadas.\n\n§ 1o Considera-se operação urbana consorciada o conjunto de intervenções e medidas coordenadas pelo Poder Público municipal, com a participação dos proprietários, moradores, usuários permanentes e investidores privados, com o objetivo de alcançar em uma área transformações urbanísticas estruturais, melhorias sociais e a valorização ambiental.\n\n§ 2o Poderão ser previstas nas operações urbanas consorciadas, entre outras medidas:\n\nI – a modificação de índices e características de parcelamento, uso e ocupação do solo e subsolo, bem como alterações das normas edilícias, considerado o impacto ambiental delas decorrente;\n\nII – a regularização de construções, reformas ou ampliações executadas em desacordo com a legislação vigente.\n\nIII - a concessão de incentivos a operações urbanas que utilizam tecnologias visando a redução de impactos ambientais, e que comprovem a utilização, nas construções e uso de edificações urbanas, de tecnologias que reduzam os impactos ambientais e economizem recursos naturais, especificadas as modalidades de design e de obras a serem contempladas. (Incluído pela Lei nº 12.836, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2032.%20Lei%20municipal%20espec%C3%ADfica%2C%20baseada%20no%20plano%20diretor%2C%20poder%C3%A1%20delimitar%20%C3%A1rea%20para%20aplica%C3%A7%C3%A3o%20de%20opera%C3%A7%C3%B5es%20consorciadas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Da lei específica que aprovar a operação urbana consorciada constará o plano de operação urbana consorciada, contendo, no mínimo:\n\nI – definição da área a ser atingida;\n\nII – programa básico de ocupação da área;\n\nIII – programa de atendimento econômico e social para a população diretamente afetada pela operação;\n\nIV – finalidades da operação;\n\nV – estudo prévio de impacto de vizinhança;\n\nVI – contrapartida a ser exigida dos proprietários, usuários permanentes e investidores privados em função da utilização dos benefícios previstos nos incisos I e II do § 2o do art. 32 desta Lei;\n\nVI - contrapartida a ser exigida dos proprietários, usuários permanentes e investidores privados em função da utilização dos benefícios previstos nos incisos I, II e III do § 2o do art. 32 desta Lei; (Redação dada pela Lei nº 12.836, de 2013)\n\nVII – forma de controle da operação, obrigatoriamente compartilhado com representação da sociedade civil.\n\nVIII - natureza dos incentivos a serem concedidos aos proprietários, usuários permanentes e investidores privados, uma vez atendido o disposto no inciso III do § 2o do art. 32 desta Lei. (Incluído pela Lei nº 12.836, de 2013)\n\n§ 1o Os recursos obtidos pelo Poder Público municipal na forma do inciso VI deste artigo serão aplicados exclusivamente na própria operação urbana consorciada.\n\n§ 2o A partir da aprovação da lei específica de que trata o caput, são nulas as licenças e autorizações a cargo do Poder Público municipal expedidas em desacordo com o plano de operação urbana consorciada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2033.%20Da%20lei%20espec%C3%ADfica%20que%20aprovar%20a%20opera%C3%A7%C3%A3o%20urbana%20consorciada%20constar%C3%A1%20o%20plano%20de%20opera%C3%A7%C3%A3o%20urbana%20consorciada%2C%20contendo%2C%20no%20m%C3%ADnimo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A lei específica que aprovar a operação urbana consorciada poderá prever a emissão pelo Município de quantidade determinada de certificados de potencial adicional de construção, que serão alienados em leilão ou utilizados diretamente no pagamento das obras necessárias à própria operação.\n\n§ 1o Os certificados de potencial adicional de construção serão livremente negociados, mas conversíveis em direito de construir unicamente na área objeto da operação.\n\n§ 2o Apresentado pedido de licença para construir, o certificado de potencial adicional será utilizado no pagamento da área de construção que supere os padrões estabelecidos pela legislação de uso e ocupação do solo, até o limite fixado pela lei específica que aprovar a operação urbana consorciada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2034.%20A%20lei%20espec%C3%ADfica%20que%20aprovar%20a%20opera%C3%A7%C3%A3o%20urbana%20consorciada%20poder%C3%A1%20prever%20a%20emiss%C3%A3o%20pelo%20Munic%C3%ADpio%20de%20quantidade%20determinada%20de%20certificados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "33",
+      "next": "34-A"
+    },
+    "34-A": {
+      "numero": "34-A",
+      "texto": "Art. 34-A. Nas regiões metropolitanas ou nas aglomerações urbanas instituídas por lei complementar estadual, poderão ser realizadas operações urbanas consorciadas interfederativas, aprovadas por leis estaduais específicas. (Incluído pela Lei nº 13.089, de 2015)\n\nParágrafo único. As disposições dos arts. 32 a 34 desta Lei aplicam-se às operações urbanas consorciadas interfederativas previstas no caput deste artigo, no que couber. (Incluído pela Lei nº 13.089, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2034-A.%20Nas%20regi%C3%B5es%20metropolitanas%20ou%20nas%20aglomera%C3%A7%C3%B5es%20urbanas%20institu%C3%ADdas%20por%20lei%20complementar%20estadual%2C%20poder%C3%A3o%20ser%20realizadas%20opera%C3%A7%C3%B5es%20urbanas%20consorciadas%20interfederativas%2C%20aprovadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "34",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Lei municipal, baseada no plano diretor, poderá autorizar o proprietário de imóvel urbano, privado ou público, a exercer em outro local, ou alienar, mediante escritura pública, o direito de construir previsto no plano diretor ou em legislação urbanística dele decorrente, quando o referido imóvel for considerado necessário para fins de:\n\nI – implantação de equipamentos urbanos e comunitários;\n\nII – preservação, quando o imóvel for considerado de interesse histórico, ambiental, paisagístico, social ou cultural;\n\nIII – servir a programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e habitação de interesse social.\n\n§ 1o A mesma faculdade poderá ser concedida ao proprietário que doar ao Poder Público seu imóvel, ou parte dele, para os fins previstos nos incisos I a III do caput.\n\n§ 2o A lei municipal referida no caput estabelecerá as condições relativas à aplicação da transferência do direito de construir.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2035.%20Lei%20municipal%2C%20baseada%20no%20plano%20diretor%2C%20poder%C3%A1%20autorizar%20o%20propriet%C3%A1rio%20de%20im%C3%B3vel%20urbano%2C%20privado%20ou%20p%C3%BAblico%2C%20a%20exercer%20em%20outro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "34-A",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Lei municipal definirá os empreendimentos e atividades privados ou públicos em área urbana que dependerão de elaboração de estudo prévio de impacto de vizinhança (EIV) para obter as licenças ou autorizações de construção, ampliação ou funcionamento a cargo do Poder Público municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2036.%20Lei%20municipal%20definir%C3%A1%20os%20empreendimentos%20e%20atividades%20privados%20ou%20p%C3%BAblicos%20em%20%C3%A1rea%20urbana%20que%20depender%C3%A3o%20de%20elabora%C3%A7%C3%A3o%20de%20estudo%20pr%C3%A9vio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O EIV será executado de forma a contemplar os efeitos positivos e negativos do empreendimento ou atividade quanto à qualidade de vida da população residente na área e suas proximidades, incluindo a análise, no mínimo, das seguintes questões:\n\nI – adensamento populacional;\n\nII – equipamentos urbanos e comunitários;\n\nIII – uso e ocupação do solo;\n\nIV – valorização imobiliária;\n\nV – geração de tráfego e demanda por transporte público;\n\nV - mobilidade urbana, geração de tráfego e demanda por transporte público; (Redação dada pela Lei nº 14.849, de 2024)\n\nVI – ventilação e iluminação;\n\nVII – paisagem urbana e patrimônio natural e cultural.\n\nParágrafo único. Dar-se-á publicidade aos documentos integrantes do EIV, que ficarão disponíveis para consulta, no órgão competente do Poder Público municipal, por qualquer interessado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2037.%20O%20EIV%20ser%C3%A1%20executado%20de%20forma%20a%20contemplar%20os%20efeitos%20positivos%20e%20negativos%20do%20empreendimento%20ou%20atividade%20quanto%20%C3%A0%20qualidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A elaboração do EIV não substitui a elaboração e a aprovação de estudo prévio de impacto ambiental (EIA), requeridas nos termos da legislação ambiental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2038.%20A%20elabora%C3%A7%C3%A3o%20do%20EIV%20n%C3%A3o%20substitui%20a%20elabora%C3%A7%C3%A3o%20e%20a%20aprova%C3%A7%C3%A3o%20de%20estudo%20pr%C3%A9vio%20de%20impacto%20ambiental%20%28EIA%29%2C%20requeridas%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor, assegurando o atendimento das necessidades dos cidadãos quanto à qualidade de vida, à justiça social e ao desenvolvimento das atividades econômicas, respeitadas as diretrizes previstas no art. 2o desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2039.%20A%20propriedade%20urbana%20cumpre%20sua%20fun%C3%A7%C3%A3o%20social%20quando%20atende%20%C3%A0s%20exig%C3%AAncias%20fundamentais%20de%20ordena%C3%A7%C3%A3o%20da%20cidade%20expressas%20no%20plano%20diretor%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O plano diretor, aprovado por lei municipal, é o instrumento básico da política de desenvolvimento e expansão urbana.\n\n§ 1o O plano diretor é parte integrante do processo de planejamento municipal, devendo o plano plurianual, as diretrizes orçamentárias e o orçamento anual incorporar as diretrizes e as prioridades nele contidas.\n\n§ 2o O plano diretor deverá englobar o território do Município como um todo.\n\n§ 3o A lei que instituir o plano diretor deverá ser revista, pelo menos, a cada dez anos.\n\n§ 4o No processo de elaboração do plano diretor e na fiscalização de sua implementação, os Poderes Legislativo e Executivo municipais garantirão:\n\nI – a promoção de audiências públicas e debates com a participação da população e de associações representativas dos vários segmentos da comunidade;\n\nII – a publicidade quanto aos documentos e informações produzidos;\n\nIII – o acesso de qualquer interessado aos documentos e informações produzidos.\n\n§ 5o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2040.%20O%20plano%20diretor%2C%20aprovado%20por%20lei%20municipal%2C%20%C3%A9%20o%20instrumento%20b%C3%A1sico%20da%20pol%C3%ADtica%20de%20desenvolvimento%20e%20expans%C3%A3o%20urbana.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O plano diretor é obrigatório para cidades:\n\nI – com mais de vinte mil habitantes;\n\nII – integrantes de regiões metropolitanas e aglomerações urbanas;\n\nIII – onde o Poder Público municipal pretenda utilizar os instrumentos previstos no § 4o do art. 182 da Constituição Federal;\n\nIV – integrantes de áreas de especial interesse turístico;\n\nV – inseridas na área de influência de empreendimentos ou atividades com significativo impacto ambiental de âmbito regional ou nacional.\n\nVI - incluídas no cadastro nacional de Municípios com áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos. (Incluído pela Lei nº 12.608, de 2012)\n\n§ 1o No caso da realização de empreendimentos ou atividades enquadrados no inciso V do caput, os recursos técnicos e financeiros para a elaboração do plano diretor estarão inseridos entre as medidas de compensação adotadas.\n\n§ 2o No caso de cidades com mais de quinhentos mil habitantes, deverá ser elaborado um plano de transporte urbano integrado, compatível com o plano diretor ou nele inserido.\n\n§ 3o As cidades de que trata o caput deste artigo devem elaborar plano de rotas acessíveis, compatível com o plano diretor no qual está inserido, que disponha sobre os passeios públicos a serem implantados ou reformados pelo poder público, com vistas a garantir acessibilidade da pessoa com deficiência ou com mobilidade reduzida a todas as rotas e vias existentes, inclusive as que concentrem os focos geradores de maior circulação de pedestres, como os órgãos públicos e os locais de prestação de serviços públicos e privados de saúde, educação, assistência social, esporte, cultura, correios e telégrafos, bancos, entre outros, sempre que possível de maneira integrada com os sistemas de transporte coletivo de passageiros. (Incluído pela Lei nº 13.146, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2041.%20O%20plano%20diretor%20%C3%A9%20obrigat%C3%B3rio%20para%20cidades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O plano diretor deverá conter no mínimo:\n\nI – a delimitação das áreas urbanas onde poderá ser aplicado o parcelamento, edificação ou utilização compulsórios, considerando a existência de infra-estrutura e de demanda para utilização, na forma do art. 5o desta Lei;\n\nII – disposições requeridas pelos arts. 25, 28, 29, 32 e 35 desta Lei;\n\nIII – sistema de acompanhamento e controle.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2042.%20O%20plano%20diretor%20dever%C3%A1%20conter%20no%20m%C3%ADnimo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "42-A"
+    },
+    "42-A": {
+      "numero": "42-A",
+      "texto": "Art. 42-A. Os municípios que possuam áreas de expansão urbana deverão elaborar Plano de Expansão Urbana no qual constarão, no mínimo: (Incluído pela Medida Provisória nº 547, de 2011)\n\nI - demarcação da área de expansão urbana; (Incluído pela Medida Provisória nº 547, de 2011)\n\nII - delimitação dos trechos com restrições à urbanização e dos trechos sujeitos a controle especial em função de ameaça de desastres naturais; (Incluído pela Medida Provisória nº 547, de 2011)\n\nIII - definição de diretrizes específicas e de áreas que serão utilizadas para infraestrutura, sistema viário, equipamentos e instalações públicas, urbanas e sociais; (Incluído pela Medida Provisória nº 547, de 2011)\n\nIV - definição de parâmetros de parcelamento, uso e ocupação do solo, de modo a promover a diversidade de usos e contribuir para a geração de emprego e renda; (Incluído pela Medida Provisória nº 547, de 2011)\n\nV - a previsão de áreas para habitação de interesse social por meio da demarcação de zonas especiais de interesse social e de outros instrumentos de política urbana, quando o uso habitacional for permitido; (Incluído pela Medida Provisória nº 547, de 2011)\n\nVI - definição de diretrizes e instrumentos específicos para proteção ambiental e do patrimônio histórico e cultural; e (Incluído pela Medida Provisória nº 547, de 2011)\n\nVII - definição de mecanismos para garantir a justa distribuição dos ônus e benefícios decorrentes do processo de urbanização do território de expansão urbana e a recuperação para a coletividade da valorização imobiliária resultante da ação do Poder Público. (Incluído pela Medida Provisória nº 547, de 2011)\n\n§ 1o Consideram-se áreas de expansão urbana aquelas destinadas pelo Plano Diretor ou lei municipal ao crescimento ordenado das cidades, vilas e demais núcleos urbanos, bem como aquelas que forem incluídas no perímetro urbano a partir da publicação desta Medida Provisória. (Incluído pela Medida Provisória nº 547, de 2011)\n\n§ 2o O Plano de Expansão Urbana deverá atender às diretrizes do Plano Diretor, quando houver. (Incluído pela Medida Provisória nº 547, de 2011)\n\n§ 3o § 3o A aprovação de projetos de parcelamento do solo urbano em áreas de expansão urbana ficará condicionada à existência do Plano de Expansão Urbana. (Vide Medida Provisória nº 547, de 2011) Vigência)\n\n§ 4o Quando o Plano Diretor contemplar as exigências estabelecidas no caput, o Município ficará dispensado da elaboração do Plano de Expansão Urbana. (Incluído pela Medida Provisória nº 547, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2042-A.%20Os%20munic%C3%ADpios%20que%20possuam%20%C3%A1reas%20de%20expans%C3%A3o%20urbana%20dever%C3%A3o%20elaborar%20Plano%20de%20Expans%C3%A3o%20Urbana%20no%20qual%20constar%C3%A3o%2C%20no%20m%C3%ADnimo%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "42-B"
+    },
+    "42-B": {
+      "numero": "42-B",
+      "texto": "Art. 42-B. Os Municípios que pretendam ampliar o seu perímetro urbano após a data de publicação desta Lei deverão elaborar projeto específico que contenha, no mínimo: (Incluído pela Lei nº 12.608, de 2012)\n\nI - demarcação do novo perímetro urbano; (Incluído pela Lei nº 12.608, de 2012)\n\nII - delimitação dos trechos com restrições à urbanização e dos trechos sujeitos a controle especial em função de ameaça de desastres naturais; (Incluído pela Lei nº 12.608, de 2012)\n\nIII - definição de diretrizes específicas e de áreas que serão utilizadas para infraestrutura, sistema viário, equipamentos e instalações públicas, urbanas e sociais; (Incluído pela Lei nº 12.608, de 2012)\n\nIV - definição de parâmetros de parcelamento, uso e ocupação do solo, de modo a promover a diversidade de usos e contribuir para a geração de emprego e renda; (Incluído pela Lei nº 12.608, de 2012)\n\nV - a previsão de áreas para habitação de interesse social por meio da demarcação de zonas especiais de interesse social e de outros instrumentos de política urbana, quando o uso habitacional for permitido; (Incluído pela Lei nº 12.608, de 2012)\n\nVI - definição de diretrizes e instrumentos específicos para proteção ambiental e do patrimônio histórico e cultural; e (Incluído pela Lei nº 12.608, de 2012)\n\nVII - definição de mecanismos para garantir a justa distribuição dos ônus e benefícios decorrentes do processo de urbanização do território de expansão urbana e a recuperação para a coletividade da valorização imobiliária resultante da ação do poder público.\n\nVIII - planejamento integrado de transporte urbano, inclusive por meio de veículos não motorizados, com vistas a melhorar a mobilidade. (Incluído pela Lei nº 14.729, de 2023) Vigência\n\n§ 1o O projeto específico de que trata o caput deste artigo deverá ser instituído por lei municipal e atender às diretrizes do plano diretor, quando houver. (Incluído pela Lei nº 12.608, de 2012)\n\n§ 2o Quando o plano diretor contemplar as exigências estabelecidas no caput, o Município ficará dispensado da elaboração do projeto específico de que trata o caput deste artigo. (Incluído pela Lei nº 12.608, de 2012)\n\n§ 3o A aprovação de projetos de parcelamento do solo no novo perímetro urbano ficará condicionada à existência do projeto específico e deverá obedecer às suas disposições. (Incluído pela Lei nº 12.608, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2042-B.%20Os%20Munic%C3%ADpios%20que%20pretendam%20ampliar%20o%20seu%20per%C3%ADmetro%20urbano%20ap%C3%B3s%20a%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%20dever%C3%A3o%20elaborar%20projeto%20espec%C3%ADfico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42-A",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Para garantir a gestão democrática da cidade, deverão ser utilizados, entre outros, os seguintes instrumentos:\n\nI – órgãos colegiados de política urbana, nos níveis nacional, estadual e municipal;\n\nII – debates, audiências e consultas públicas;\n\nIII – conferências sobre assuntos de interesse urbano, nos níveis nacional, estadual e municipal;\n\nIV – iniciativa popular de projeto de lei e de planos, programas e projetos de desenvolvimento urbano;\n\nV – (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2043.%20Para%20garantir%20a%20gest%C3%A3o%20democr%C3%A1tica%20da%20cidade%2C%20dever%C3%A3o%20ser%20utilizados%2C%20entre%20outros%2C%20os%20seguintes%20instrumentos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42-B",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. No âmbito municipal, a gestão orçamentária participativa de que trata a alínea f do inciso III do art. 4o desta Lei incluirá a realização de debates, audiências e consultas públicas sobre as propostas do plano plurianual, da lei de diretrizes orçamentárias e do orçamento anual, como condição obrigatória para sua aprovação pela Câmara Municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2044.%20No%20%C3%A2mbito%20municipal%2C%20a%20gest%C3%A3o%20or%C3%A7ament%C3%A1ria%20participativa%20de%20que%20trata%20a%20al%C3%ADnea%20f%20do%20inciso%20III%20do%20art.%204o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os organismos gestores das regiões metropolitanas e aglomerações urbanas incluirão obrigatória e significativa participação da população e de associações representativas dos vários segmentos da comunidade, de modo a garantir o controle direto de suas atividades e o pleno exercício da cidadania.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2045.%20Os%20organismos%20gestores%20das%20regi%C3%B5es%20metropolitanas%20e%20aglomera%C3%A7%C3%B5es%20urbanas%20incluir%C3%A3o%20obrigat%C3%B3ria%20e%20significativa%20participa%C3%A7%C3%A3o%20da%20popula%C3%A7%C3%A3o%20e%20de%20associa%C3%A7%C3%B5es%20representativas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O Poder Público municipal poderá facultar ao proprietário de área atingida pela obrigação de que trata o caput do art. 5o desta Lei, a requerimento deste, o estabelecimento de consórcio imobiliário como forma de viabilização financeira do aproveitamento do imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2046.%20O%20Poder%20P%C3%BAblico%20municipal%20poder%C3%A1%20facultar%20ao%20propriet%C3%A1rio%20de%20%C3%A1rea%20atingida%20pela%20obriga%C3%A7%C3%A3o%20de%20que%20trata%20o%20caput%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Os tributos sobre imóveis urbanos, assim como as tarifas relativas a serviços públicos urbanos, serão diferenciados em função do interesse social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2047.%20Os%20tributos%20sobre%20im%C3%B3veis%20urbanos%2C%20assim%20como%20as%20tarifas%20relativas%20a%20servi%C3%A7os%20p%C3%BAblicos%20urbanos%2C%20ser%C3%A3o%20diferenciados%20em%20fun%C3%A7%C3%A3o%20do%20interesse",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Nos casos de programas e projetos habitacionais de interesse social, desenvolvidos por órgãos ou entidades da Administração Pública com atuação específica nessa área, os contratos de concessão de direito real de uso de imóveis públicos:\n\nI – terão, para todos os fins de direito, caráter de escritura pública, não se aplicando o disposto no inciso II do art. 134 do Código Civil;\n\nII – constituirão título de aceitação obrigatória em garantia de contratos de financiamentos habitacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2048.%20Nos%20casos%20de%20programas%20e%20projetos%20habitacionais%20de%20interesse%20social%2C%20desenvolvidos%20por%20%C3%B3rg%C3%A3os%20ou%20entidades%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20com%20atua%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os Estados e Municípios terão o prazo de noventa dias, a partir da entrada em vigor desta Lei, para fixar prazos, por lei, para a expedição de diretrizes de empreendimentos urbanísticos, aprovação de projetos de parcelamento e de edificação, realização de vistorias e expedição de termo de verificação e conclusão de obras.\n\nParágrafo único. Não sendo cumprida a determinação do caput, fica estabelecido o prazo de sessenta dias para a realização de cada um dos referidos atos administrativos, que valerá até que os Estados e Municípios disponham em lei de forma diversa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2049.%20Os%20Estados%20e%20Munic%C3%ADpios%20ter%C3%A3o%20o%20prazo%20de%20noventa%20dias%2C%20a%20partir%20da%20entrada%20em%20vigor%20desta%20Lei%2C%20para%20fixar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Os Municípios que estejam enquadrados na obrigação prevista nos incisos I e II do art. 41 desta Lei que não tenham plano diretor aprovado na data de entrada em vigor desta Lei, deverão aprová-lo no prazo de cinco anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2050.%20Os%20Munic%C3%ADpios%20que%20estejam%20enquadrados%20na%20obriga%C3%A7%C3%A3o%20prevista%20nos%20incisos%20I%20e%20II%20do%20art.%2041%20desta%20Lei%20que%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Para os efeitos desta Lei, aplicam-se ao Distrito Federal e ao Governador do Distrito Federal as disposições relativas, respectivamente, a Município e a Prefeito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2051.%20Para%20os%20efeitos%20desta%20Lei%2C%20aplicam-se%20ao%20Distrito%20Federal%20e%20ao%20Governador%20do%20Distrito%20Federal%20as%20disposi%C3%A7%C3%B5es%20relativas%2C%20respectivamente%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Sem prejuízo da punição de outros agentes públicos envolvidos e da aplicação de outras sanções cabíveis, o Prefeito incorre em improbidade administrativa, nos termos da Lei no 8.429, de 2 de junho de 1992, quando:\n\nI – (VETADO)\n\nII – deixar de proceder, no prazo de cinco anos, o adequado aproveitamento do imóvel incorporado ao patrimônio público, conforme o disposto no § 4o do art. 8o desta Lei;\n\nIII – utilizar áreas obtidas por meio do direito de preempção em desacordo com o disposto no art. 26 desta Lei;\n\nIV – aplicar os recursos auferidos com a outorga onerosa do direito de construir e de alteração de uso em desacordo com o previsto no art. 31 desta Lei;\n\nV – aplicar os recursos auferidos com operações consorciadas em desacordo com o previsto no § 1o do art. 33 desta Lei;\n\nVI – impedir ou deixar de garantir os requisitos contidos nos incisos I a III do § 4o do art. 40 desta Lei;\n\nVII – deixar de tomar as providências necessárias para garantir a observância do disposto no § 3o do art. 40 e no art. 50 desta Lei;\n\nVIII – adquirir imóvel objeto de direito de preempção, nos termos dos arts. 25 a 27 desta Lei, pelo valor da proposta apresentada, se este for, comprovadamente, superior ao de mercado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2052.%20Sem%20preju%C3%ADzo%20da%20puni%C3%A7%C3%A3o%20de%20outros%20agentes%20p%C3%BAblicos%20envolvidos%20e%20da%20aplica%C3%A7%C3%A3o%20de%20outras%20san%C3%A7%C3%B5es%20cab%C3%ADveis%2C%20o%20Prefeito%20incorre%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O art. 1o da Lei nº 7.347, de 24 de julho de 1985, passa a vigorar acrescido de novo inciso III, renumerando o atual inciso III e os subseqüentes: (Revogado pela Medida Provisória nº 2.180-35, de 24.8.2001)\n\n\"Art. 1o .......................................................\n\n...................................................................\n\nIII – à ordem urbanística;\n\n..........................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2053.%20O%20art.%201o%20da%20Lei%20n%C2%BA%207.347%2C%20de%2024%20de%20julho%20de%201985%2C%20passa%20a%20vigorar%20acrescido%20de%20novo%20inciso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. O art. 4o da Lei nº 7.347, de 1985, passa a vigorar com a seguinte redação:\n\n\"Art. 4o Poderá ser ajuizada ação cautelar para os fins desta Lei, objetivando, inclusive, evitar o dano ao meio ambiente, ao consumidor, à ordem urbanística ou aos bens e direitos de valor artístico, estético, histórico, turístico e paisagístico (VETADO).\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2054.%20O%20art.%204o%20da%20Lei%20n%C2%BA%207.347%2C%20de%201985%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O art. 167, inciso I, item 28, da Lei no 6.015, de 31 de dezembro de 1973, alterado pela Lei no 6.216, de 30 de junho de 1975, passa a vigorar com a seguinte redação:\n\n\"Art. 167. ...................................................\n\nI - ..............................................................\n\n..................................................................\n\n28) das sentenças declaratórias de usucapião, independente da regularidade do parcelamento do solo ou da edificação;\n\n.........................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2055.%20O%20art.%20167%2C%20inciso%20I%2C%20item%2028%2C%20da%20Lei%20no%206.015%2C%20de%2031%20de%20dezembro%20de%201973%2C%20alterado%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. O art. 167, inciso I, da Lei no 6.015, de 1973, passa a vigorar acrescido dos seguintes itens 37, 38 e 39:\n\n\"Art. 167. ....................................................\n\nI – ..............................................................\n\n37) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial para fins de moradia, independente da regularidade do parcelamento do solo ou da edificação;\n\n38) (VETADO)\n\n39) da constituição do direito de superfície de imóvel urbano;\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2056.%20O%20art.%20167%2C%20inciso%20I%2C%20da%20Lei%20no%206.015%2C%20de%201973%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes%20itens%2037%2C%2038",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O art. 167, inciso II, da Lei no 6.015, de 1973, passa a vigorar acrescido dos seguintes itens 18, 19 e 20:\n\n\"Art. 167. ....................................................\n\nII – ..............................................................\n\n18) da notificação para parcelamento, edificação ou utilização compulsórios de imóvel urbano;\n\n19) da extinção da concessão de uso especial para fins de moradia;\n\n20) da extinção do direito de superfície do imóvel urbano.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2057.%20O%20art.%20167%2C%20inciso%20II%2C%20da%20Lei%20no%206.015%2C%20de%201973%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes%20itens%2018%2C%2019",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "57-A"
+    },
+    "57-A": {
+      "numero": "57-A",
+      "texto": "Art. 57-A. A administradora ferroviária, inclusive metroferroviária, poderá constituir o direito real de laje de que trata a Lei nº 10.406, de 10 de janeiro de 2002, e de superfície de que trata esta Lei, sobre ou sob a faixa de domínio de sua via férrea, observado o Plano Diretor e o procedimento a ser delineado em ato do Poder Executivo Federal. (Incluído pela Medida Provisória nº 1.065, de 2021) Vigência encerrada\n\nParágrafo único. A constituição do direito real de laje ou de superfície de que trata o caput é condicionada a licenciamento urbanístico municipal, que estabelecerá os ônus urbanísticos a serem observados e o direito de construir incorporado a cada unidade imobiliária. (Incluído pela Medida Provisória nº 1.065, de 2021) Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2057-A.%20A%20administradora%20ferrovi%C3%A1ria%2C%20inclusive%20metroferrovi%C3%A1ria%2C%20poder%C3%A1%20constituir%20o%20direito%20real%20de%20laje%20de%20que%20trata%20a%20Lei%20n%C2%BA%2010.406%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Esta Lei entra em vigor após decorridos noventa dias de sua publicação.\n\nBrasília, 10 de julho de 2001; 180o da Independência e 113o da República.\n\nFERNANDO HENRIQUE CARDOSO Paulo de Tarso Ramos Ribeiro Geraldo Magela da Cruz Quintão Pedro Malan Benjamin Benzaquen Sicsú Martus Tavares José Sarney Filho Alberto Mendes Cardoso\n\nEste texto não substitui o publicado no DOU de 11.7.2001 e retificado em 17.7.2001\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm#:~:text=Art.%2058.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20noventa%20dias%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57-A",
+      "next": null
+    }
+  }
+}

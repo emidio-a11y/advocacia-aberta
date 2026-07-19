@@ -1,0 +1,1903 @@
+{
+  "_meta": {
+    "codigo": "EI",
+    "nome": "Estatuto da Pessoa Idosa",
+    "lei": "Lei 10.741/2003",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+    "total_artigos": 118,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º É instituído o Estatuto da Pessoa Idosa, destinado a regular os direitos assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%201%C2%BA%20%C3%89%20institu%C3%ADdo%20o%20Estatuto%20da%20Pessoa%20Idosa%2C%20destinado%20a%20regular%20os%20direitos%20assegurados%20%C3%A0s%20pessoas%20com%20idade%20igual%20ou%20superior",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A pessoa idosa goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhe, por lei ou por outros meios, todas as oportunidades e facilidades, para preservação de sua saúde física e mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de liberdade e dignidade. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%202%C2%BA%20A%20pessoa%20idosa%20goza%20de%20todos%20os%20direitos%20fundamentais%20inerentes%20%C3%A0%20pessoa%20humana%2C%20sem%20preju%C3%ADzo%20da%20prote%C3%A7%C3%A3o%20integral%20de%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º É obrigação da família, da comunidade, da sociedade e do poder público assegurar à pessoa idosa, com absoluta prioridade, a efetivação do direito à vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1º A garantia de prioridade compreende: (Redação dada pela Lei nº 13.466, de 2017)\n\nI – atendimento preferencial imediato e individualizado junto aos órgãos públicos e privados prestadores de serviços à população;\n\nII – preferência na formulação e na execução de políticas sociais públicas específicas;\n\nIII – destinação privilegiada de recursos públicos nas áreas relacionadas com a proteção à pessoa idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nIV – viabilização de formas alternativas de participação, ocupação e convívio da pessoa idosa com as demais gerações; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – priorização do atendimento da pessoa idosa por sua própria família, em detrimento do atendimento asilar, exceto dos que não a possuam ou careçam de condições de manutenção da própria sobrevivência; (Redação dada pela Lei nº 14.423, de 2022)\n\nVI – capacitação e reciclagem dos recursos humanos nas áreas de geriatria e gerontologia e na prestação de serviços às pessoas idosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nVII – estabelecimento de mecanismos que favoreçam a divulgação de informações de caráter educativo sobre os aspectos biopsicossociais de envelhecimento;\n\nVIII – garantia de acesso à rede de serviços de saúde e de assistência social locais.\n\nIX – prioridade no recebimento da restituição do Imposto de Renda. (Incluído pela Lei nº 11.765, de 2008).\n\n§ 2º Entre as pessoas idosas, é assegurada prioridade especial aos maiores de 80 (oitenta) anos, atendendo-se suas necessidades sempre preferencialmente em relação às demais pessoas idosas. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%203%C2%BA%20%C3%89%20obriga%C3%A7%C3%A3o%20da%20fam%C3%ADlia%2C%20da%20comunidade%2C%20da%20sociedade%20e%20do%20poder%20p%C3%BAblico%20assegurar%20%C3%A0%20pessoa%20idosa%2C%20com%20absoluta%20prioridade%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Nenhuma pessoa idosa será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1º É dever de todos prevenir a ameaça ou violação aos direitos da pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 2o As obrigações previstas nesta Lei não excluem da prevenção outras decorrentes dos princípios por ela adotados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%204%C2%BA%20Nenhuma%20pessoa%20idosa%20ser%C3%A1%20objeto%20de%20qualquer%20tipo%20de%20neglig%C3%AAncia%2C%20discrimina%C3%A7%C3%A3o%2C%20viol%C3%AAncia%2C%20crueldade%20ou%20opress%C3%A3o%2C%20e%20todo%20atentado%20aos%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o A inobservância das normas de prevenção importará em responsabilidade à pessoa física ou jurídica nos termos da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%205o%20A%20inobserv%C3%A2ncia%20das%20normas%20de%20preven%C3%A7%C3%A3o%20importar%C3%A1%20em%20responsabilidade%20%C3%A0%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%20nos%20termos%20da%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Todo cidadão tem o dever de comunicar à autoridade competente qualquer forma de violação a esta Lei que tenha testemunhado ou de que tenha conhecimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%206o%20Todo%20cidad%C3%A3o%20tem%20o%20dever%20de%20comunicar%20%C3%A0%20autoridade%20competente%20qualquer%20forma%20de%20viola%C3%A7%C3%A3o%20a%20esta%20Lei%20que%20tenha%20testemunhado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os Conselhos Nacional, Estaduais, do Distrito Federal e Municipais da Pessoa Idosa, previstos na Lei nº 8.842, de 4 de janeiro de 1994, zelarão pelo cumprimento dos direitos da pessoa idosa, definidos nesta Lei. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%207%C2%BA%20Os%20Conselhos%20Nacional%2C%20Estaduais%2C%20do%20Distrito%20Federal%20e%20Municipais%20da%20Pessoa%20Idosa%2C%20previstos%20na%20Lei%20n%C2%BA%208.842%2C%20de%204%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Disposições Preliminares",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o O envelhecimento é um direito personalíssimo e a sua proteção um direito social, nos termos desta Lei e da legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%208o%20O%20envelhecimento%20%C3%A9%20um%20direito%20personal%C3%ADssimo%20e%20a%20sua%20prote%C3%A7%C3%A3o%20um%20direito%20social%2C%20nos%20termos%20desta%20Lei%20e%20da%20legisla%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Direito à Vida",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o É obrigação do Estado, garantir à pessoa idosa a proteção à vida e à saúde, mediante efetivação de políticas sociais públicas que permitam um envelhecimento saudável e em condições de dignidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%209o%20%C3%89%20obriga%C3%A7%C3%A3o%20do%20Estado%2C%20garantir%20%C3%A0%20pessoa%20idosa%20a%20prote%C3%A7%C3%A3o%20%C3%A0%20vida%20e%20%C3%A0%20sa%C3%BAde%2C%20mediante%20efetiva%C3%A7%C3%A3o%20de%20pol%C3%ADticas%20sociais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Do Direito à Vida",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É obrigação do Estado e da sociedade assegurar à pessoa idosa a liberdade, o respeito e a dignidade, como pessoa humana e sujeito de direitos civis, políticos, individuais e sociais, garantidos na Constituição e nas leis. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1o O direito à liberdade compreende, entre outros, os seguintes aspectos:\n\nI – faculdade de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais;\n\nII – opinião e expressão;\n\nIII – crença e culto religioso;\n\nIV – prática de esportes e de diversões;\n\nV – participação na vida familiar e comunitária;\n\nVI – participação na vida política, na forma da lei;\n\nVII – faculdade de buscar refúgio, auxílio e orientação.\n\n§ 2o O direito ao respeito consiste na inviolabilidade da integridade física, psíquica e moral, abrangendo a preservação da imagem, da identidade, da autonomia, de valores, idéias e crenças, dos espaços e dos objetos pessoais.\n\n§ 3º É dever de todos zelar pela dignidade da pessoa idosa, colocando-a a salvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou constrangedor. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2010.%20%C3%89%20obriga%C3%A7%C3%A3o%20do%20Estado%20e%20da%20sociedade%20assegurar%20%C3%A0%20pessoa%20idosa%20a%20liberdade%2C%20o%20respeito%20e%20a%20dignidade%2C%20como%20pessoa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os alimentos serão prestados à pessoa idosa na forma da lei civil. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2011.%20Os%20alimentos%20ser%C3%A3o%20prestados%20%C3%A0%20pessoa%20idosa%20na%20forma%20da%20lei%20civil.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.423%2C%20de%202022%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Dos Alimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A obrigação alimentar é solidária, podendo a pessoa idosa optar entre os prestadores. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2012.%20A%20obriga%C3%A7%C3%A3o%20alimentar%20%C3%A9%20solid%C3%A1ria%2C%20podendo%20a%20pessoa%20idosa%20optar%20entre%20os%20prestadores.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.423%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Dos Alimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As transações relativas a alimentos poderão ser celebradas perante o Promotor de Justiça ou Defensor Público, que as referendará, e passarão a ter efeito de título executivo extrajudicial nos termos da lei processual civil. (Redação dada pela Lei nº 11.737, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2013.%20As%20transa%C3%A7%C3%B5es%20relativas%20a%20alimentos%20poder%C3%A3o%20ser%20celebradas%20perante%20o%20Promotor%20de%20Justi%C3%A7a%20ou%20Defensor%20P%C3%BAblico%2C%20que%20as%20referendar%C3%A1%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Dos Alimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Se a pessoa idosa ou seus familiares não possuírem condições econômicas de prover o seu sustento, impõe-se ao poder público esse provimento, no âmbito da assistência social. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2014.%20Se%20a%20pessoa%20idosa%20ou%20seus%20familiares%20n%C3%A3o%20possu%C3%ADrem%20condi%C3%A7%C3%B5es%20econ%C3%B4micas%20de%20prover%20o%20seu%20sustento%2C%20imp%C3%B5e-se%20ao%20poder%20p%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Dos Alimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. É assegurada a atenção integral à saúde da pessoa idosa, por intermédio do Sistema Único de Saúde (SUS), garantindo-lhe o acesso universal e igualitário, em conjunto articulado e contínuo das ações e serviços, para a prevenção, promoção, proteção e recuperação da saúde, incluindo a atenção especial às doenças que afetam preferencialmente as pessoas idosas. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1º A prevenção e a manutenção da saúde da pessoa idosa serão efetivadas por meio de: (Redação dada pela Lei nº 14.423, de 2022)\n\nI – cadastramento da população idosa em base territorial;\n\nII – atendimento geriátrico e gerontológico em ambulatórios;\n\nIII – unidades geriátricas de referência, com pessoal especializado nas áreas de geriatria e gerontologia social;\n\nIV – atendimento domiciliar, incluindo a internação, para a população que dele necessitar e esteja impossibilitada de se locomover, inclusive para as pessoas idosas abrigadas e acolhidas por instituições públicas, filantrópicas ou sem fins lucrativos e eventualmente conveniadas com o poder público, nos meios urbano e rural; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – reabilitação orientada pela geriatria e gerontologia, para redução das seqüelas decorrentes do agravo da saúde.\n\n§ 2º Incumbe ao poder público fornecer às pessoas idosas, gratuitamente, medicamentos, especialmente os de uso continuado, assim como próteses, órteses e outros recursos relativos ao tratamento, habilitação ou reabilitação. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 3º É vedada a discriminação da pessoa idosa nos planos de saúde pela cobrança de valores diferenciados em razão da idade. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 4º As pessoas idosas com deficiência ou com limitação incapacitante terão atendimento especializado, nos termos da lei. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 5º É vedado exigir o comparecimento da pessoa idosa enferma perante os órgãos públicos, hipótese na qual será admitido o seguinte procedimento: (Redação dada pela Lei nº 14.423, de 2022)\n\nI - quando de interesse do poder público, o agente promoverá o contato necessário com a pessoa idosa em sua residência; ou (Redação dada pela Lei nº 14.423, de 2022)\n\nII - quando de interesse da própria pessoa idosa, esta se fará representar por procurador legalmente constituído. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 6º É assegurado à pessoa idosa enferma o atendimento domiciliar pela perícia médica do Instituto Nacional do Seguro Social (INSS), pelo serviço público de saúde ou pelo serviço privado de saúde, contratado ou conveniado, que integre o SUS, para expedição do laudo de saúde necessário ao exercício de seus direitos sociais e de isenção tributária. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 7º Em todo atendimento de saúde, os maiores de 80 (oitenta) anos terão preferência especial sobre as demais pessoas idosas, exceto em caso de emergência. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2015.%20%C3%89%20assegurada%20a%20aten%C3%A7%C3%A3o%20integral%20%C3%A0%20sa%C3%BAde%20da%20pessoa%20idosa%2C%20por%20interm%C3%A9dio%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%20%28SUS%29%2C%20garantindo-lhe%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Do Direito à Saúde",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. À pessoa idosa internada ou em observação é assegurado o direito a acompanhante, devendo o órgão de saúde proporcionar as condições adequadas para a sua permanência em tempo integral, segundo o critério médico. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. Caberá ao profissional de saúde responsável pelo tratamento conceder autorização para o acompanhamento da pessoa idosa ou, no caso de impossibilidade, justificá-la por escrito. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2016.%20%C3%80%20pessoa%20idosa%20internada%20ou%20em%20observa%C3%A7%C3%A3o%20%C3%A9%20assegurado%20o%20direito%20a%20acompanhante%2C%20devendo%20o%20%C3%B3rg%C3%A3o%20de%20sa%C3%BAde%20proporcionar%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Do Direito à Saúde",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. À pessoa idosa que esteja no domínio de suas faculdades mentais é assegurado o direito de optar pelo tratamento de saúde que lhe for reputado mais favorável. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. Não estando a pessoa idosa em condições de proceder à opção, esta será feita: (Redação dada pela Lei nº 14.423, de 2022)\n\nI – pelo curador, quando a pessoa idosa for interditada; (Redação dada pela Lei nº 14.423, de 2022)\n\nII – pelos familiares, quando a pessoa idosa não tiver curador ou este não puder ser contactado em tempo hábil; (Redação dada pela Lei nº 14.423, de 2022)\n\nIII – pelo médico, quando ocorrer iminente risco de vida e não houver tempo hábil para consulta a curador ou familiar;\n\nIV – pelo próprio médico, quando não houver curador ou familiar conhecido, caso em que deverá comunicar o fato ao Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2017.%20%C3%80%20pessoa%20idosa%20que%20esteja%20no%20dom%C3%ADnio%20de%20suas%20faculdades%20mentais%20%C3%A9%20assegurado%20o%20direito%20de%20optar%20pelo%20tratamento%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Do Direito à Saúde",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As instituições de saúde devem atender aos critérios mínimos para o atendimento às necessidades da pessoa idosa, promovendo o treinamento e a capacitação dos profissionais, assim como orientação a cuidadores familiares e grupos de autoajuda. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2018.%20As%20institui%C3%A7%C3%B5es%20de%20sa%C3%BAde%20devem%20atender%20aos%20crit%C3%A9rios%20m%C3%ADnimos%20para%20o%20atendimento%20%C3%A0s%20necessidades%20da%20pessoa%20idosa%2C%20promovendo%20o%20treinamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Do Direito à Saúde",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Os casos de suspeita ou confirmação de violência praticada contra pessoas idosas serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, bem como serão obrigatoriamente comunicados por eles a quaisquer dos seguintes órgãos: (Redação dada pela Lei nº 14.423, de 2022)\n\nI – autoridade policial;\n\nII – Ministério Público;\n\nIII – Conselho Municipal da Pessoa Idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nIV – Conselho Estadual da Pessoa Idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – Conselho Nacional da Pessoa Idosa. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1º Para os efeitos desta Lei, considera-se violência contra a pessoa idosa qualquer ação ou omissão praticada em local público ou privado que lhe cause morte, dano ou sofrimento físico ou psicológico. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 2o Aplica-se, no que couber, à notificação compulsória prevista no caput deste artigo, o disposto na Lei no 6.259, de 30 de outubro de 1975. (Incluído pela Lei nº 12.461, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2019.%20Os%20casos%20de%20suspeita%20ou%20confirma%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20praticada%20contra%20pessoas%20idosas%20ser%C3%A3o%20objeto%20de%20notifica%C3%A7%C3%A3o%20compuls%C3%B3ria%20pelos%20servi%C3%A7os%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Do Direito à Saúde",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A pessoa idosa tem direito a educação, cultura, esporte, lazer, diversões, espetáculos, produtos e serviços que respeitem sua peculiar condição de idade. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2020.%20A%20pessoa%20idosa%20tem%20direito%20a%20educa%C3%A7%C3%A3o%2C%20cultura%2C%20esporte%2C%20lazer%2C%20divers%C3%B5es%2C%20espet%C3%A1culos%2C%20produtos%20e%20servi%C3%A7os%20que%20respeitem%20sua%20peculiar%20condi%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Educação, Cultura, Esporte e Lazer",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O poder público criará oportunidades de acesso da pessoa idosa à educação, adequando currículos, metodologias e material didático aos programas educacionais a ela destinados. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1º Os cursos especiais para pessoas idosas incluirão conteúdo relativo às técnicas de comunicação, computação e demais avanços tecnológicos, para sua integração à vida moderna. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 2º As pessoas idosas participarão das comemorações de caráter cívico ou cultural, para transmissão de conhecimentos e vivências às demais gerações, no sentido da preservação da memória e da identidade culturais. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2021.%20O%20poder%20p%C3%BAblico%20criar%C3%A1%20oportunidades%20de%20acesso%20da%20pessoa%20idosa%20%C3%A0%20educa%C3%A7%C3%A3o%2C%20adequando%20curr%C3%ADculos%2C%20metodologias%20e%20material%20did%C3%A1tico%20aos%20programas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Educação, Cultura, Esporte e Lazer",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Nos currículos mínimos dos diversos níveis de ensino formal serão inseridos conteúdos voltados ao processo de envelhecimento, ao respeito e à valorização da pessoa idosa, de forma a eliminar o preconceito e a produzir conhecimentos sobre a matéria. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2022.%20Nos%20curr%C3%ADculos%20m%C3%ADnimos%20dos%20diversos%20n%C3%ADveis%20de%20ensino%20formal%20ser%C3%A3o%20inseridos%20conte%C3%BAdos%20voltados%20ao%20processo%20de%20envelhecimento%2C%20ao%20respeito%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Educação, Cultura, Esporte e Lazer",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A participação das pessoas idosas em atividades culturais e de lazer será proporcionada mediante descontos de pelo menos 50% (cinquenta por cento) nos ingressos para eventos artísticos, culturais, esportivos e de lazer, bem como o acesso preferencial aos respectivos locais. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2023.%20A%20participa%C3%A7%C3%A3o%20das%20pessoas%20idosas%20em%20atividades%20culturais%20e%20de%20lazer%20ser%C3%A1%20proporcionada%20mediante%20descontos%20de%20pelo%20menos%2050%25%20%28cinquenta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Educação, Cultura, Esporte e Lazer",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os meios de comunicação manterão espaços ou horários especiais voltados às pessoas idosas, com finalidade informativa, educativa, artística e cultural, e ao público sobre o processo de envelhecimento. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2024.%20Os%20meios%20de%20comunica%C3%A7%C3%A3o%20manter%C3%A3o%20espa%C3%A7os%20ou%20hor%C3%A1rios%20especiais%20voltados%20%C3%A0s%20pessoas%20idosas%2C%20com%20finalidade%20informativa%2C%20educativa%2C%20art%C3%ADstica%20e%20cultural%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Educação, Cultura, Esporte e Lazer",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As instituições de educação superior ofertarão às pessoas idosas, na perspectiva da educação ao longo da vida, cursos e programas de extensão, presenciais ou a distância, constituídos por atividades formais e não formais. (Redação dada pela lei nº 13.535, de 2017)\n\nParágrafo único. O poder público apoiará a criação de universidade aberta para as pessoas idosas e incentivará a publicação de livros e periódicos, de conteúdo e padrão editorial adequados à pessoa idosa, que facilitem a leitura, considerada a natural redução da capacidade visual. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2025.%20As%20institui%C3%A7%C3%B5es%20de%20educa%C3%A7%C3%A3o%20superior%20ofertar%C3%A3o%20%C3%A0s%20pessoas%20idosas%2C%20na%20perspectiva%20da%20educa%C3%A7%C3%A3o%20ao%20longo%20da%20vida%2C%20cursos%20e%20programas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Educação, Cultura, Esporte e Lazer",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A pessoa idosa tem direito ao exercício de atividade profissional, respeitadas suas condições físicas, intelectuais e psíquicas. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2026.%20A%20pessoa%20idosa%20tem%20direito%20ao%20exerc%C3%ADcio%20de%20atividade%20profissional%2C%20respeitadas%20suas%20condi%C3%A7%C3%B5es%20f%C3%ADsicas%2C%20intelectuais%20e%20ps%C3%ADquicas.%20%28Reda%C3%A7%C3%A3o%20dada%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Profissionalização e do Trabalho",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Na admissão da pessoa idosa em qualquer trabalho ou emprego, são vedadas a discriminação e a fixação de limite máximo de idade, inclusive para concursos, ressalvados os casos em que a natureza do cargo o exigir. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. O primeiro critério de desempate em concurso público será a idade, dando-se preferência ao de idade mais elevada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2027.%20Na%20admiss%C3%A3o%20da%20pessoa%20idosa%20em%20qualquer%20trabalho%20ou%20emprego%2C%20s%C3%A3o%20vedadas%20a%20discrimina%C3%A7%C3%A3o%20e%20a%20fixa%C3%A7%C3%A3o%20de%20limite%20m%C3%A1ximo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Profissionalização e do Trabalho",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O Poder Público criará e estimulará programas de:\n\nI – profissionalização especializada para as pessoas idosas, aproveitando seus potenciais e habilidades para atividades regulares e remuneradas; (Redação dada pela Lei nº 14.423, de 2022)\n\nII – preparação dos trabalhadores para a aposentadoria, com antecedência mínima de 1 (um) ano, por meio de estímulo a novos projetos sociais, conforme seus interesses, e de esclarecimento sobre os direitos sociais e de cidadania;\n\nIII – estímulo às empresas privadas para admissão de pessoas idosas ao trabalho. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2028.%20O%20Poder%20P%C3%BAblico%20criar%C3%A1%20e%20estimular%C3%A1%20programas%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Profissionalização e do Trabalho",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os benefícios de aposentadoria e pensão do Regime Geral da Previdência Social observarão, na sua concessão, critérios de cálculo que preservem o valor real dos salários sobre os quais incidiram contribuição, nos termos da legislação vigente.\n\nParágrafo único. Os valores dos benefícios em manutenção serão reajustados na mesma data de reajuste do salário-mínimo, pro rata, de acordo com suas respectivas datas de início ou do seu último reajustamento, com base em percentual definido em regulamento, observados os critérios estabelecidos pela Lei no 8.213, de 24 de julho de 1991.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2029.%20Os%20benef%C3%ADcios%20de%20aposentadoria%20e%20pens%C3%A3o%20do%20Regime%20Geral%20da%20Previd%C3%AAncia%20Social%20observar%C3%A3o%2C%20na%20sua%20concess%C3%A3o%2C%20crit%C3%A9rios%20de%20c%C3%A1lculo%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Previdência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A perda da condição de segurado não será considerada para a concessão da aposentadoria por idade, desde que a pessoa conte com, no mínimo, o tempo de contribuição correspondente ao exigido para efeito de carência na data de requerimento do benefício.\n\nParágrafo único. O cálculo do valor do benefício previsto no caput observará o disposto no caput e § 2o do art. 3o da Lei no 9.876, de 26 de novembro de 1999, ou, não havendo salários-de-contribuição recolhidos a partir da competência de julho de 1994, o disposto no art. 35 da Lei no 8.213, de 1991.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2030.%20A%20perda%20da%20condi%C3%A7%C3%A3o%20de%20segurado%20n%C3%A3o%20ser%C3%A1%20considerada%20para%20a%20concess%C3%A3o%20da%20aposentadoria%20por%20idade%2C%20desde%20que%20a%20pessoa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Previdência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O pagamento de parcelas relativas a benefícios, efetuado com atraso por responsabilidade da Previdência Social, será atualizado pelo mesmo índice utilizado para os reajustamentos dos benefícios do Regime Geral de Previdência Social, verificado no período compreendido entre o mês que deveria ter sido pago e o mês do efetivo pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2031.%20O%20pagamento%20de%20parcelas%20relativas%20a%20benef%C3%ADcios%2C%20efetuado%20com%20atraso%20por%20responsabilidade%20da%20Previd%C3%AAncia%20Social%2C%20ser%C3%A1%20atualizado%20pelo%20mesmo%20%C3%ADndice",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Previdência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O Dia Mundial do Trabalho, 1o de Maio, é a data-base dos aposentados e pensionistas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2032.%20O%20Dia%20Mundial%20do%20Trabalho%2C%201o%20de%20Maio%2C%20%C3%A9%20a%20data-base%20dos%20aposentados%20e%20pensionistas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Previdência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A assistência social às pessoas idosas será prestada, de forma articulada, conforme os princípios e diretrizes previstos na Lei Orgânica da Assistência Social (Loas), na Política Nacional da Pessoa Idosa, no SUS e nas demais normas pertinentes (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2033.%20A%20assist%C3%AAncia%20social%20%C3%A0s%20pessoas%20idosas%20ser%C3%A1%20prestada%2C%20de%20forma%20articulada%2C%20conforme%20os%20princ%C3%ADpios%20e%20diretrizes%20previstos%20na%20Lei%20Org%C3%A2nica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Assistência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Às pessoas idosas, a partir de 65 (sessenta e cinco) anos, que não possuam meios para prover sua subsistência, nem de tê-la provida por sua família, é assegurado o benefício mensal de 1 (um) salário mínimo, nos termos da Loas. (Vide Decreto nº 6.214, de 2007) (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. O benefício já concedido a qualquer membro da família nos termos do caput não será computado para os fins do cálculo da renda familiar per capita a que se refere a Loas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2034.%20%C3%80s%20pessoas%20idosas%2C%20a%20partir%20de%2065%20%28sessenta%20e%20cinco%29%20anos%2C%20que%20n%C3%A3o%20possuam%20meios%20para%20prover%20sua%20subsist%C3%AAncia%2C%20nem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Assistência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Todas as entidades de longa permanência, ou casa-lar, são obrigadas a firmar contrato de prestação de serviços com a pessoa idosa abrigada.\n\n§ 1º No caso de entidade filantrópica, ou casa-lar, é facultada a cobrança de participação da pessoa idosa no custeio da entidade. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 2º O Conselho Municipal da Pessoa Idosa ou o Conselho Municipal da Assistência Social estabelecerá a forma de participação prevista no § 1º deste artigo, que não poderá exceder a 70% (setenta por cento) de qualquer benefício previdenciário ou de assistência social percebido pela pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 3o Se a pessoa idosa for incapaz, caberá a seu representante legal firmar o contrato a que se refere o caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2035.%20Todas%20as%20entidades%20de%20longa%20perman%C3%AAncia%2C%20ou%20casa-lar%2C%20s%C3%A3o%20obrigadas%20a%20firmar%20contrato%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20com%20a%20pessoa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Assistência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O acolhimento de pessoas idosas em situação de risco social, por adulto ou núcleo familiar, caracteriza a dependência econômica, para os efeitos legais. (Vigência) (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2036.%20O%20acolhimento%20de%20pessoas%20idosas%20em%20situa%C3%A7%C3%A3o%20de%20risco%20social%2C%20por%20adulto%20ou%20n%C3%BAcleo%20familiar%2C%20caracteriza%20a%20depend%C3%AAncia%20econ%C3%B4mica%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Assistência Social",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A pessoa idosa tem direito a moradia digna, no seio da família natural ou substituta, ou desacompanhada de seus familiares, quando assim o desejar, ou, ainda, em instituição pública ou privada. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1o A assistência integral na modalidade de entidade de longa permanência será prestada quando verificada inexistência de grupo familiar, casa-lar, abandono ou carência de recursos financeiros próprios ou da família.\n\n§ 2º Toda instituição dedicada ao atendimento à pessoa idosa fica obrigada a manter identificação externa visível, sob pena de interdição, além de atender toda a legislação pertinente. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 3º As instituições que abrigarem pessoas idosas são obrigadas a manter padrões de habitação compatíveis com as necessidades delas, bem como provê-las com alimentação regular e higiene indispensáveis às normas sanitárias e com estas condizentes, sob as penas da lei. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2037.%20A%20pessoa%20idosa%20tem%20direito%20a%20moradia%20digna%2C%20no%20seio%20da%20fam%C3%ADlia%20natural%20ou%20substituta%2C%20ou%20desacompanhada%20de%20seus%20familiares%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX Da Habitação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Nos programas habitacionais, públicos ou subsidiados com recursos públicos, a pessoa idosa goza de prioridade na aquisição de imóvel para moradia própria, observado o seguinte: (Redação dada pela Lei nº 14.423, de 2022)\n\nI - reserva de pelo menos 3% (três por cento) das unidades habitacionais residenciais para atendimento às pessoas idosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nII – implantação de equipamentos urbanos comunitários voltados à pessoa idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nIII – eliminação de barreiras arquitetônicas e urbanísticas, para garantia de acessibilidade à pessoa idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nIV – critérios de financiamento compatíveis com os rendimentos de aposentadoria e pensão.\n\nParágrafo único. As unidades residenciais reservadas para atendimento a pessoas idosas devem situar-se, preferencialmente, no pavimento térreo. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2038.%20Nos%20programas%20habitacionais%2C%20p%C3%BAblicos%20ou%20subsidiados%20com%20recursos%20p%C3%BAblicos%2C%20a%20pessoa%20idosa%20goza%20de%20prioridade%20na%20aquisi%C3%A7%C3%A3o%20de%20im%C3%B3vel%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX Da Habitação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Aos maiores de 65 (sessenta e cinco) anos fica assegurada a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos, exceto nos serviços seletivos e especiais, quando prestados paralelamente aos serviços regulares.\n\n§ 1º Para ter acesso à gratuidade, basta que a pessoa idosa apresente qualquer documento pessoal que faça prova de sua idade. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 2º Nos veículos de transporte coletivo de que trata este artigo, serão reservados 10% (dez por cento) dos assentos para as pessoas idosas, devidamente identificados com a placa de reservado preferencialmente para pessoas idosas. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 3o No caso das pessoas compreendidas na faixa etária entre 60 (sessenta) e 65 (sessenta e cinco) anos, ficará a critério da legislação local dispor sobre as condições para exercício da gratuidade nos meios de transporte previstos no caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2039.%20Aos%20maiores%20de%2065%20%28sessenta%20e%20cinco%29%20anos%20fica%20assegurada%20a%20gratuidade%20dos%20transportes%20coletivos%20p%C3%BAblicos%20urbanos%20e%20semi-urbanos%2C%20exceto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Do Transporte",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. No sistema de transporte coletivo interestadual observar-se-á, nos termos da legislação específica: (Regulamento) (Vide Decreto nº 5.934, de 2006)\n\nI – a reserva de 2 (duas) vagas gratuitas por veículo para pessoas idosas com renda igual ou inferior a 2 (dois) salários mínimos; (Redação dada pela Lei nº 14.423, de 2022)\n\nII – desconto de 50% (cinquenta por cento), no mínimo, no valor das passagens, para as pessoas idosas que excederem as vagas gratuitas, com renda igual ou inferior a 2 (dois) salários mínimos. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. Caberá aos órgãos competentes definir os mecanismos e os critérios para o exercício dos direitos previstos nos incisos I e II.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2040.%20No%20sistema%20de%20transporte%20coletivo%20interestadual%20observar-se-%C3%A1%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20espec%C3%ADfica%3A%20%28Regulamento%29%20%28Vide%20Decreto%20n%C2%BA%205.934%2C%20de%202006%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Do Transporte",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. É assegurada a reserva para as pessoas idosas, nos termos da lei local, de 5% (cinco por cento) das vagas nos estacionamentos públicos e privados, as quais deverão ser posicionadas de forma a garantir a melhor comodidade à pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2041.%20%C3%89%20assegurada%20a%20reserva%20para%20as%20pessoas%20idosas%2C%20nos%20termos%20da%20lei%20local%2C%20de%205%25%20%28cinco%20por%20cento%29%20das%20vagas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Do Transporte",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. São asseguradas a prioridade e a segurança da pessoa idosa nos procedimentos de embarque e desembarque nos veículos do sistema de transporte coletivo. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2042.%20S%C3%A3o%20asseguradas%20a%20prioridade%20e%20a%20seguran%C3%A7a%20da%20pessoa%20idosa%20nos%20procedimentos%20de%20embarque%20e%20desembarque%20nos%20ve%C3%ADculos%20do%20sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Dos Direitos Fundamentais",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Do Transporte",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. As medidas de proteção à pessoa idosa são aplicáveis sempre que os direitos reconhecidos nesta Lei forem ameaçados ou violados: (Redação dada pela Lei nº 14.423, de 2022)\n\nI – por ação ou omissão da sociedade ou do Estado;\n\nII – por falta, omissão ou abuso da família, curador ou entidade de atendimento;\n\nIII – em razão de sua condição pessoal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2043.%20As%20medidas%20de%20prote%C3%A7%C3%A3o%20%C3%A0%20pessoa%20idosa%20s%C3%A3o%20aplic%C3%A1veis%20sempre%20que%20os%20direitos%20reconhecidos%20nesta%20Lei%20forem%20amea%C3%A7ados%20ou%20violados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Medidas de Proteção",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As medidas de proteção à pessoa idosa previstas nesta Lei poderão ser aplicadas, isolada ou cumulativamente, e levarão em conta os fins sociais a que se destinam e o fortalecimento dos vínculos familiares e comunitários. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2044.%20As%20medidas%20de%20prote%C3%A7%C3%A3o%20%C3%A0%20pessoa%20idosa%20previstas%20nesta%20Lei%20poder%C3%A3o%20ser%20aplicadas%2C%20isolada%20ou%20cumulativamente%2C%20e%20levar%C3%A3o%20em%20conta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Medidas de Proteção",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Medidas Específicas de Proteção",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Verificada qualquer das hipóteses previstas no art. 43, o Ministério Público ou o Poder Judiciário, a requerimento daquele, poderá determinar, dentre outras, as seguintes medidas:\n\nI – encaminhamento à família ou curador, mediante termo de responsabilidade;\n\nII – orientação, apoio e acompanhamento temporários;\n\nIII – requisição para tratamento de sua saúde, em regime ambulatorial, hospitalar ou domiciliar;\n\nIV – inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a usuários dependentes de drogas lícitas ou ilícitas, à própria pessoa idosa ou à pessoa de sua convivência que lhe cause perturbação; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – abrigo em entidade;\n\nV – abrigo em entidade;\n\nVI – abrigo temporário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2045.%20Verificada%20qualquer%20das%20hip%C3%B3teses%20previstas%20no%20art.%2043%2C%20o%20Minist%C3%A9rio%20P%C3%BAblico%20ou%20o%20Poder%20Judici%C3%A1rio%2C%20a%20requerimento%20daquele%2C%20poder%C3%A1%20determinar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Medidas de Proteção",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Medidas Específicas de Proteção",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A política de atendimento à pessoa idosa far-se-á por meio do conjunto articulado de ações governamentais e não governamentais da União, dos Estados, do Distrito Federal e dos Municípios. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2046.%20A%20pol%C3%ADtica%20de%20atendimento%20%C3%A0%20pessoa%20idosa%20far-se-%C3%A1%20por%20meio%20do%20conjunto%20articulado%20de%20a%C3%A7%C3%B5es%20governamentais%20e%20n%C3%A3o%20governamentais%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. São linhas de ação da política de atendimento:\n\nI – políticas sociais básicas, previstas na Lei no 8.842, de 4 de janeiro de 1994;\n\nII – políticas e programas de assistência social, em caráter supletivo, para aqueles que necessitarem;\n\nIII – serviços especiais de prevenção e atendimento às vítimas de negligência, maus-tratos, exploração, abuso, crueldade e opressão;\n\nIV – serviço de identificação e localização de parentes ou responsáveis por pessoas idosas abandonados em hospitais e instituições de longa permanência; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – proteção jurídico-social por entidades de defesa dos direitos das pessoas idosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nVI – mobilização da opinião pública no sentido da participação dos diversos segmentos da sociedade no atendimento da pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2047.%20S%C3%A3o%20linhas%20de%20a%C3%A7%C3%A3o%20da%20pol%C3%ADtica%20de%20atendimento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. As entidades de atendimento são responsáveis pela manutenção das próprias unidades, observadas as normas de planejamento e execução emanadas do órgão competente da Política Nacional da Pessoa Idosa, conforme a Lei nº 8.842, de 4 de janeiro de 1994. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. As entidades governamentais e não governamentais de assistência à pessoa idosa ficam sujeitas à inscrição de seus programas perante o órgão competente da Vigilância Sanitária e o Conselho Municipal da Pessoa Idosa e, em sua falta, perante o Conselho Estadual ou Nacional da Pessoa Idosa, especificando os regimes de atendimento, observados os seguintes requisitos: (Redação dada pela Lei nº 14.423, de 2022)\n\nI – oferecer instalações físicas em condições adequadas de habitabilidade, higiene, salubridade e segurança;\n\nII – apresentar objetivos estatutários e plano de trabalho compatíveis com os princípios desta Lei;\n\nIII – estar regularmente constituída;\n\nIV – demonstrar a idoneidade de seus dirigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2048.%20As%20entidades%20de%20atendimento%20s%C3%A3o%20respons%C3%A1veis%20pela%20manuten%C3%A7%C3%A3o%20das%20pr%C3%B3prias%20unidades%2C%20observadas%20as%20normas%20de%20planejamento%20e%20execu%C3%A7%C3%A3o%20emanadas%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Entidades de Atendimento ao Idoso",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. As entidades que desenvolvam programas de institucionalização de longa permanência adotarão os seguintes princípios:\n\nI – preservação dos vínculos familiares;\n\nII – atendimento personalizado e em pequenos grupos;\n\nIII – manutenção da pessoa idosa na mesma instituição, salvo em caso de força maior; (Redação dada pela Lei nº 14.423, de 2022)\n\nIV – participação da pessoa idosa nas atividades comunitárias, de caráter interno e externo; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – observância dos direitos e garantias das pessoas idosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nVI – preservação da identidade da pessoa idosa e oferecimento de ambiente de respeito e dignidade. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. O dirigente de instituição prestadora de atendimento à pessoa idosa responderá civil e criminalmente pelos atos que praticar em detrimento da pessoa idosa, sem prejuízo das sanções administrativas. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2049.%20As%20entidades%20que%20desenvolvam%20programas%20de%20institucionaliza%C3%A7%C3%A3o%20de%20longa%20perman%C3%AAncia%20adotar%C3%A3o%20os%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Entidades de Atendimento ao Idoso",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Constituem obrigações das entidades de atendimento:\n\nI – celebrar contrato escrito de prestação de serviço com a pessoa idosa, especificando o tipo de atendimento, as obrigações da entidade e prestações decorrentes do contrato, com os respectivos preços, se for o caso; (Redação dada pela Lei nº 14.423, de 2022)\n\nII – observar os direitos e as garantias de que são titulares as pessoas idosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nIII – fornecer vestuário adequado, se for pública, e alimentação suficiente;\n\nIV – oferecer instalações físicas em condições adequadas de habitabilidade;\n\nV – oferecer atendimento personalizado;\n\nVI – diligenciar no sentido da preservação dos vínculos familiares;\n\nVII – oferecer acomodações apropriadas para recebimento de visitas;\n\nVIII – proporcionar cuidados à saúde, conforme a necessidade da pessoa idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nIX – promover atividades educacionais, esportivas, culturais e de lazer;\n\nX – propiciar assistência religiosa àqueles que desejarem, de acordo com suas crenças;\n\nXI – proceder a estudo social e pessoal de cada caso;\n\nXII – comunicar à autoridade competente de saúde toda ocorrência de pessoa idosa com doenças infectocontagiosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nXIII – providenciar ou solicitar que o Ministério Público requisite os documentos necessários ao exercício da cidadania àqueles que não os tiverem, na forma da lei;\n\nXIV – fornecer comprovante de depósito dos bens móveis que receberem das pessoas idosas; (Redação dada pela Lei nº 14.423, de 2022)\n\nXV – manter arquivo de anotações no qual constem data e circunstâncias do atendimento, nome da pessoa idosa, responsável, parentes, endereços, cidade, relação de seus pertences, bem como o valor de contribuições, e suas alterações, se houver, e demais dados que possibilitem sua identificação e a individualização do atendimento; (Redação dada pela Lei nº 14.423, de 2022)\n\nXVI – comunicar ao Ministério Público, para as providências cabíveis, a situação de abandono moral ou material por parte dos familiares;\n\nXVII – manter no quadro de pessoal profissionais com formação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2050.%20Constituem%20obriga%C3%A7%C3%B5es%20das%20entidades%20de%20atendimento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Entidades de Atendimento ao Idoso",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. As instituições filantrópicas ou sem fins lucrativos prestadoras de serviço às pessoas idosas terão direito à assistência judiciária gratuita. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2051.%20As%20institui%C3%A7%C3%B5es%20filantr%C3%B3picas%20ou%20sem%20fins%20lucrativos%20prestadoras%20de%20servi%C3%A7o%20%C3%A0s%20pessoas%20idosas%20ter%C3%A3o%20direito%20%C3%A0%20assist%C3%AAncia%20judici%C3%A1ria%20gratuita.%20%28Reda%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Entidades de Atendimento ao Idoso",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. As entidades governamentais e não governamentais de atendimento à pessoa idosa serão fiscalizadas pelos Conselhos da Pessoa Idosa, Ministério Público, Vigilância Sanitária e outros previstos em lei. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2052.%20As%20entidades%20governamentais%20e%20n%C3%A3o%20governamentais%20de%20atendimento%20%C3%A0%20pessoa%20idosa%20ser%C3%A3o%20fiscalizadas%20pelos%20Conselhos%20da%20Pessoa%20Idosa%2C%20Minist%C3%A9rio%20P%C3%BAblico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Fiscalização das Entidades de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O art. 7o da Lei no 8.842, de 1994, passa a vigorar com a seguinte redação:\n\n\"Art. 7o Compete aos Conselhos de que trata o art. 6o desta Lei a supervisão, o acompanhamento, a fiscalização e a avaliação da política nacional do idoso, no âmbito das respectivas instâncias político-administrativas.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2053.%20O%20art.%207o%20da%20Lei%20no%208.842%2C%20de%201994%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Fiscalização das Entidades de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Será dada publicidade das prestações de contas dos recursos públicos e privados recebidos pelas entidades de atendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2054.%20Ser%C3%A1%20dada%20publicidade%20das%20presta%C3%A7%C3%B5es%20de%20contas%20dos%20recursos%20p%C3%BAblicos%20e%20privados%20recebidos%20pelas%20entidades%20de%20atendimento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Fiscalização das Entidades de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. As entidades de atendimento que descumprirem as determinações desta Lei ficarão sujeitas, sem prejuízo da responsabilidade civil e criminal de seus dirigentes ou prepostos, às seguintes penalidades, observado o devido processo legal:\n\nI – as entidades governamentais:\n\na) advertência;\n\nb) afastamento provisório de seus dirigentes;\n\nc) afastamento definitivo de seus dirigentes;\n\nd) fechamento de unidade ou interdição de programa;\n\nII – as entidades não-governamentais:\n\na) advertência;\n\nb) multa;\n\nc) suspensão parcial ou total do repasse de verbas públicas;\n\nd) interdição de unidade ou suspensão de programa;\n\ne) proibição de atendimento a pessoas idosas a bem do interesse público. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1º Havendo danos às pessoas idosas abrigadas ou qualquer tipo de fraude em relação ao programa, caberá o afastamento provisório dos dirigentes ou a interdição da unidade e a suspensão do programa. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 2o A suspensão parcial ou total do repasse de verbas públicas ocorrerá quando verificada a má aplicação ou desvio de finalidade dos recursos.\n\n§ 3º Na ocorrência de infração por entidade de atendimento que coloque em risco os direitos assegurados nesta Lei, será o fato comunicado ao Ministério Público, para as providências cabíveis, inclusive para promover a suspensão das atividades ou dissolução da entidade, com a proibição de atendimento a pessoas idosas a bem do interesse público, sem prejuízo das providências a serem tomadas pela Vigilância Sanitária. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 4º Na aplicação das penalidades, serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a pessoa idosa, as circunstâncias agravantes ou atenuantes e os antecedentes da entidade. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2055.%20As%20entidades%20de%20atendimento%20que%20descumprirem%20as%20determina%C3%A7%C3%B5es%20desta%20Lei%20ficar%C3%A3o%20sujeitas%2C%20sem%20preju%C3%ADzo%20da%20responsabilidade%20civil%20e%20criminal%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Fiscalização das Entidades de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Deixar a entidade de atendimento de cumprir as determinações do art. 50 desta Lei:\n\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 3.000,00 (três mil reais), se o fato não for caracterizado como crime, podendo haver a interdição do estabelecimento até que sejam cumpridas as exigências legais.\n\nParágrafo único. No caso de interdição do estabelecimento de longa permanência, as pessoas idosas abrigadas serão transferidas para outra instituição, a expensas do estabelecimento interditado, enquanto durar a interdição. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2056.%20Deixar%20a%20entidade%20de%20atendimento%20de%20cumprir%20as%20determina%C3%A7%C3%B5es%20do%20art.%2050%20desta%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Infrações Administrativas",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Deixar o profissional de saúde ou o responsável por estabelecimento de saúde ou instituição de longa permanência de comunicar à autoridade competente os casos de crimes contra pessoa idosa de que tiver conhecimento: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 3.000,00 (três mil reais), aplicada em dobro no caso de reincidência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2057.%20Deixar%20o%20profissional%20de%20sa%C3%BAde%20ou%20o%20respons%C3%A1vel%20por%20estabelecimento%20de%20sa%C3%BAde%20ou%20institui%C3%A7%C3%A3o%20de%20longa%20perman%C3%AAncia%20de%20comunicar%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Infrações Administrativas",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Deixar de cumprir as determinações desta Lei sobre a prioridade no atendimento à pessoa idosa: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 1.000,00 (mil reais) e multa civil a ser estipulada pelo juiz, conforme o dano sofrido pela pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2058.%20Deixar%20de%20cumprir%20as%20determina%C3%A7%C3%B5es%20desta%20Lei%20sobre%20a%20prioridade%20no%20atendimento%20%C3%A0%20pessoa%20idosa%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Das Infrações Administrativas",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Os valores monetários expressos no Capítulo IV serão atualizados anualmente, na forma da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2059.%20Os%20valores%20monet%C3%A1rios%20expressos%20no%20Cap%C3%ADtulo%20IV%20ser%C3%A3o%20atualizados%20anualmente%2C%20na%20forma%20da%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O procedimento para a imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa terá início com requisição do Ministério Público ou auto de infração elaborado por servidor efetivo e assinado, se possível, por 2 (duas) testemunhas. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1o No procedimento iniciado com o auto de infração poderão ser usadas fórmulas impressas, especificando-se a natureza e as circunstâncias da infração.\n\n§ 2o Sempre que possível, à verificação da infração seguir-se-á a lavratura do auto, ou este será lavrado dentro de 24 (vinte e quatro) horas, por motivo justificado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2060.%20O%20procedimento%20para%20a%20imposi%C3%A7%C3%A3o%20de%20penalidade%20administrativa%20por%20infra%C3%A7%C3%A3o%20%C3%A0s%20normas%20de%20prote%C3%A7%C3%A3o%20%C3%A0%20pessoa%20idosa%20ter%C3%A1%20in%C3%ADcio%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. O autuado terá prazo de 10 (dez) dias para a apresentação da defesa, contado da data da intimação, que será feita:\n\nI – pelo autuante, no instrumento de autuação, quando for lavrado na presença do infrator;\n\nII – por via postal, com aviso de recebimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2061.%20O%20autuado%20ter%C3%A1%20prazo%20de%2010%20%28dez%29%20dias%20para%20a%20apresenta%C3%A7%C3%A3o%20da%20defesa%2C%20contado%20da%20data%20da%20intima%C3%A7%C3%A3o%2C%20que%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Havendo risco para a vida ou à saúde da pessoa idosa, a autoridade competente aplicará à entidade de atendimento as sanções regulamentares, sem prejuízo da iniciativa e das providências que vierem a ser adotadas pelo Ministério Público ou pelas demais instituições legitimadas para a fiscalização. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2062.%20Havendo%20risco%20para%20a%20vida%20ou%20%C3%A0%20sa%C3%BAde%20da%20pessoa%20idosa%2C%20a%20autoridade%20competente%20aplicar%C3%A1%20%C3%A0%20entidade%20de%20atendimento%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Nos casos em que não houver risco para a vida ou a saúde da pessoa idosa abrigada, a autoridade competente aplicará à entidade de atendimento as sanções regulamentares, sem prejuízo da iniciativa e das providências que vierem a ser adotadas pelo Ministério Público ou pelas demais instituições legitimadas para a fiscalização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2063.%20Nos%20casos%20em%20que%20n%C3%A3o%20houver%20risco%20para%20a%20vida%20ou%20a%20sa%C3%BAde%20da%20pessoa%20idosa%20abrigada%2C%20a%20autoridade%20competente",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Aplicam-se, subsidiariamente, ao procedimento administrativo de que trata este Capítulo as disposições das Leis nos 6.437, de 20 de agosto de 1977, e 9.784, de 29 de janeiro de 1999.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2064.%20Aplicam-se%2C%20subsidiariamente%2C%20ao%20procedimento%20administrativo%20de%20que%20trata%20este%20Cap%C3%ADtulo%20as%20disposi%C3%A7%C3%B5es%20das%20Leis%20nos%206.437%2C%20de%2020%20de%20agosto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Apuração Judicial de Irregularidades em Entidade de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. O procedimento de apuração de irregularidade em entidade governamental e não governamental de atendimento à pessoa idosa terá início mediante petição fundamentada de pessoa interessada ou iniciativa do Ministério Público. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2065.%20O%20procedimento%20de%20apura%C3%A7%C3%A3o%20de%20irregularidade%20em%20entidade%20governamental%20e%20n%C3%A3o%20governamental%20de%20atendimento%20%C3%A0%20pessoa%20idosa%20ter%C3%A1%20in%C3%ADcio%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Apuração Judicial de Irregularidades em Entidade de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Havendo motivo grave, poderá a autoridade judiciária, ouvido o Ministério Público, decretar liminarmente o afastamento provisório do dirigente da entidade ou outras medidas que julgar adequadas, para evitar lesão aos direitos da pessoa idosa, mediante decisão fundamentada. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2066.%20Havendo%20motivo%20grave%2C%20poder%C3%A1%20a%20autoridade%20judici%C3%A1ria%2C%20ouvido%20o%20Minist%C3%A9rio%20P%C3%BAblico%2C%20decretar%20liminarmente%20o%20afastamento%20provis%C3%B3rio%20do%20dirigente%20da%20entidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Apuração Judicial de Irregularidades em Entidade de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. O dirigente da entidade será citado para, no prazo de 10 (dez) dias, oferecer resposta escrita, podendo juntar documentos e indicar as provas a produzir.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2067.%20O%20dirigente%20da%20entidade%20ser%C3%A1%20citado%20para%2C%20no%20prazo%20de%2010%20%28dez%29%20dias%2C%20oferecer%20resposta%20escrita%2C%20podendo%20juntar%20documentos%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Apuração Judicial de Irregularidades em Entidade de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Apresentada a defesa, o juiz procederá na conformidade do art. 69 ou, se necessário, designará audiência de instrução e julgamento, deliberando sobre a necessidade de produção de outras provas.\n\n§ 1o Salvo manifestação em audiência, as partes e o Ministério Público terão 5 (cinco) dias para oferecer alegações finais, decidindo a autoridade judiciária em igual prazo.\n\n§ 2o Em se tratando de afastamento provisório ou definitivo de dirigente de entidade governamental, a autoridade judiciária oficiará a autoridade administrativa imediatamente superior ao afastado, fixando-lhe prazo de 24 (vinte e quatro) horas para proceder à substituição.\n\n§ 3o Antes de aplicar qualquer das medidas, a autoridade judiciária poderá fixar prazo para a remoção das irregularidades verificadas. Satisfeitas as exigências, o processo será extinto, sem julgamento do mérito.\n\n§ 4o A multa e a advertência serão impostas ao dirigente da entidade ou ao responsável pelo programa de atendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2068.%20Apresentada%20a%20defesa%2C%20o%20juiz%20proceder%C3%A1%20na%20conformidade%20do%20art.%2069%20ou%2C%20se%20necess%C3%A1rio%2C%20designar%C3%A1%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Da Política de Atendimento ao Idoso",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Apuração Judicial de Irregularidades em Entidade de Atendimento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Aplica-se, subsidiariamente, às disposições deste Capítulo, o procedimento sumário previsto no Código de Processo Civil, naquilo que não contrarie os prazos previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2069.%20Aplica-se%2C%20subsidiariamente%2C%20%C3%A0s%20disposi%C3%A7%C3%B5es%20deste%20Cap%C3%ADtulo%2C%20o%20procedimento%20sum%C3%A1rio%20previsto%20no%20C%C3%B3digo%20de%20Processo%20Civil%2C%20naquilo%20que%20n%C3%A3o%20contrarie%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. O poder público poderá criar varas especializadas e exclusivas da pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2070.%20O%20poder%20p%C3%BAblico%20poder%C3%A1%20criar%20varas%20especializadas%20e%20exclusivas%20da%20pessoa%20idosa.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.423%2C%20de%202022%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. É assegurada prioridade na tramitação dos processos e procedimentos e na execução dos atos e diligências judiciais em que figure como parte ou interveniente pessoa com idade igual ou superior a 60 (sessenta) anos, em qualquer instância.\n\n§ 1o O interessado na obtenção da prioridade a que alude este artigo, fazendo prova de sua idade, requererá o benefício à autoridade judiciária competente para decidir o feito, que determinará as providências a serem cumpridas, anotando-se essa circunstância em local visível nos autos do processo.\n\n§ 2o A prioridade não cessará com a morte do beneficiado, estendendo-se em favor do cônjuge supérstite, companheiro ou companheira, com união estável, maior de 60 (sessenta) anos.\n\n§ 3o A prioridade se estende aos processos e procedimentos na Administração Pública, empresas prestadoras de serviços públicos e instituições financeiras, ao atendimento preferencial junto à Defensoria Publica da União, dos Estados e do Distrito Federal em relação aos Serviços de Assistência Judiciária.\n\n§ 4º Para o atendimento prioritário, será garantido à pessoa idosa o fácil acesso aos assentos e caixas, identificados com a destinação a pessoas idosas em local visível e caracteres legíveis. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 5º Dentre os processos de pessoas idosas, dar-se-á prioridade especial aos das maiores de 80 (oitenta) anos. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2071.%20%C3%89%20assegurada%20prioridade%20na%20tramita%C3%A7%C3%A3o%20dos%20processos%20e%20procedimentos%20e%20na%20execu%C3%A7%C3%A3o%20dos%20atos%20e%20dilig%C3%AAncias%20judiciais%20em%20que%20figure",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2072.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Ministério Público",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. As funções do Ministério Público, previstas nesta Lei, serão exercidas nos termos da respectiva Lei Orgânica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2073.%20As%20fun%C3%A7%C3%B5es%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20previstas%20nesta%20Lei%2C%20ser%C3%A3o%20exercidas%20nos%20termos%20da%20respectiva%20Lei%20Org%C3%A2nica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Ministério Público",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Compete ao Ministério Público:\n\nI – instaurar o inquérito civil e a ação civil pública para a proteção dos direitos e interesses difusos ou coletivos, individuais indisponíveis e individuais homogêneos da pessoa idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nII – promover e acompanhar as ações de alimentos, de interdição total ou parcial, de designação de curador especial, em circunstâncias que justifiquem a medida e oficiar em todos os feitos em que se discutam os direitos das pessoas idosas em condições de risco; (Redação dada pela Lei nº 14.423, de 2022)\n\nIII – atuar como substituto processual da pessoa idosa em situação de risco, conforme o disposto no art. 43 desta Lei; (Redação dada pela Lei nº 14.423, de 2022)\n\nIV – promover a revogação de instrumento procuratório da pessoa idosa, nas hipóteses previstas no art. 43 desta Lei, quando necessário ou o interesse público justificar; (Redação dada pela Lei nº 14.423, de 2022)\n\nV – instaurar procedimento administrativo e, para instruí-lo:\n\na) expedir notificações, colher depoimentos ou esclarecimentos e, em caso de não comparecimento injustificado da pessoa notificada, requisitar condução coercitiva, inclusive pela Polícia Civil ou Militar;\n\nb) requisitar informações, exames, perícias e documentos de autoridades municipais, estaduais e federais, da administração direta e indireta, bem como promover inspeções e diligências investigatórias;\n\nc) requisitar informações e documentos particulares de instituições privadas;\n\nVI – instaurar sindicâncias, requisitar diligências investigatórias e a instauração de inquérito policial, para a apuração de ilícitos ou infrações às normas de proteção à pessoa idosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nVII – zelar pelo efetivo respeito aos direitos e garantias legais assegurados à pessoa idosa, promovendo as medidas judiciais e extrajudiciais cabíveis; (Redação dada pela Lei nº 14.423, de 2022)\n\nVIII – inspecionar as entidades públicas e particulares de atendimento e os programas de que trata esta Lei, adotando de pronto as medidas administrativas ou judiciais necessárias à remoção de irregularidades porventura verificadas;\n\nIX – requisitar força policial, bem como a colaboração dos serviços de saúde, educacionais e de assistência social, públicos, para o desempenho de suas atribuições;\n\nX – referendar transações envolvendo interesses e direitos das pessoas idosas previstos nesta Lei. (Redação dada pela Lei nº 14.423, de 2022)\n\n§ 1o A legitimação do Ministério Público para as ações cíveis previstas neste artigo não impede a de terceiros, nas mesmas hipóteses, segundo dispuser a lei.\n\n§ 2o As atribuições constantes deste artigo não excluem outras, desde que compatíveis com a finalidade e atribuições do Ministério Público.\n\n§ 3º O representante do Ministério Público, no exercício de suas funções, terá livre acesso a toda entidade de atendimento à pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2074.%20Compete%20ao%20Minist%C3%A9rio%20P%C3%BAblico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Ministério Público",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Nos processos e procedimentos em que não for parte, atuará obrigatoriamente o Ministério Público na defesa dos direitos e interesses de que cuida esta Lei, hipóteses em que terá vista dos autos depois das partes, podendo juntar documentos, requerer diligências e produção de outras provas, usando os recursos cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2075.%20Nos%20processos%20e%20procedimentos%20em%20que%20n%C3%A3o%20for%20parte%2C%20atuar%C3%A1%20obrigatoriamente%20o%20Minist%C3%A9rio%20P%C3%BAblico%20na%20defesa%20dos%20direitos%20e%20interesses",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Ministério Público",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. A intimação do Ministério Público, em qualquer caso, será feita pessoalmente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2076.%20A%20intima%C3%A7%C3%A3o%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20em%20qualquer%20caso%2C%20ser%C3%A1%20feita%20pessoalmente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Ministério Público",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. A falta de intervenção do Ministério Público acarreta a nulidade do feito, que será declarada de ofício pelo juiz ou a requerimento de qualquer interessado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2077.%20A%20falta%20de%20interven%C3%A7%C3%A3o%20do%20Minist%C3%A9rio%20P%C3%BAblico%20acarreta%20a%20nulidade%20do%20feito%2C%20que%20ser%C3%A1%20declarada%20de%20of%C3%ADcio%20pelo%20juiz%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Ministério Público",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. As manifestações processuais do representante do Ministério Público deverão ser fundamentadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2078.%20As%20manifesta%C3%A7%C3%B5es%20processuais%20do%20representante%20do%20Minist%C3%A9rio%20P%C3%BAblico%20dever%C3%A3o%20ser%20fundamentadas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. Regem-se pelas disposições desta Lei as ações de responsabilidade por ofensa aos direitos assegurados à pessoa idosa, referentes à omissão ou ao oferecimento insatisfatório de: (Redação dada pela Lei nº 14.423, de 2022)\n\nI – acesso às ações e serviços de saúde;\n\nII – atendimento especializado à pessoa idosa com deficiência ou com limitação incapacitante; (Redação dada pela Lei nº 14.423, de 2022)\n\nIII – atendimento especializado à pessoa idosa com doença infectocontagiosa; (Redação dada pela Lei nº 14.423, de 2022)\n\nIV – serviço de assistência social visando ao amparo da pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. As hipóteses previstas neste artigo não excluem da proteção judicial outros interesses difusos, coletivos, individuais indisponíveis ou homogêneos, próprios da pessoa idosa, protegidos em lei. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2079.%20Regem-se%20pelas%20disposi%C3%A7%C3%B5es%20desta%20Lei%20as%20a%C3%A7%C3%B5es%20de%20responsabilidade%20por%20ofensa%20aos%20direitos%20assegurados%20%C3%A0%20pessoa%20idosa%2C%20referentes%20%C3%A0%20omiss%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. As ações previstas neste Capítulo serão propostas no foro do domicílio da pessoa idosa, cujo juízo terá competência absoluta para processar a causa, ressalvadas as competências da Justiça Federal e a competência originária dos Tribunais Superiores. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2080.%20As%20a%C3%A7%C3%B5es%20previstas%20neste%20Cap%C3%ADtulo%20ser%C3%A3o%20propostas%20no%20foro%20do%20domic%C3%ADlio%20da%20pessoa%20idosa%2C%20cujo%20ju%C3%ADzo%20ter%C3%A1%20compet%C3%AAncia%20absoluta%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Para as ações cíveis fundadas em interesses difusos, coletivos, individuais indisponíveis ou homogêneos, consideram-se legitimados, concorrentemente:\n\nI – o Ministério Público;\n\nII – a União, os Estados, o Distrito Federal e os Municípios;\n\nIII – a Ordem dos Advogados do Brasil;\n\nIV – as associações legalmente constituídas há pelo menos 1 (um) ano e que incluam entre os fins institucionais a defesa dos interesses e direitos da pessoa idosa, dispensada a autorização da assembléia, se houver prévia autorização estatutária.\n\n§ 1o Admitir-se-á litisconsórcio facultativo entre os Ministérios Públicos da União e dos Estados na defesa dos interesses e direitos de que cuida esta Lei.\n\n§ 2o Em caso de desistência ou abandono da ação por associação legitimada, o Ministério Público ou outro legitimado deverá assumir a titularidade ativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2081.%20Para%20as%20a%C3%A7%C3%B5es%20c%C3%ADveis%20fundadas%20em%20interesses%20difusos%2C%20coletivos%2C%20individuais%20indispon%C3%ADveis%20ou%20homog%C3%AAneos%2C%20consideram-se%20legitimados%2C%20concorrentemente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Para defesa dos interesses e direitos protegidos por esta Lei, são admissíveis todas as espécies de ação pertinentes.\n\nParágrafo único. Contra atos ilegais ou abusivos de autoridade pública ou agente de pessoa jurídica no exercício de atribuições de Poder Público, que lesem direito líquido e certo previsto nesta Lei, caberá ação mandamental, que se regerá pelas normas da lei do mandado de segurança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2082.%20Para%20defesa%20dos%20interesses%20e%20direitos%20protegidos%20por%20esta%20Lei%2C%20s%C3%A3o%20admiss%C3%ADveis%20todas%20as%20esp%C3%A9cies%20de%20a%C3%A7%C3%A3o%20pertinentes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Na ação que tenha por objeto o cumprimento de obrigação de fazer ou não-fazer, o juiz concederá a tutela específica da obrigação ou determinará providências que assegurem o resultado prático equivalente ao adimplemento.\n\n§ 1o Sendo relevante o fundamento da demanda e havendo justificado receio de ineficácia do provimento final, é lícito ao juiz conceder a tutela liminarmente ou após justificação prévia, na forma do art. 273 do Código de Processo Civil.\n\n§ 2o O juiz poderá, na hipótese do § 1o ou na sentença, impor multa diária ao réu, independentemente do pedido do autor, se for suficiente ou compatível com a obrigação, fixando prazo razoável para o cumprimento do preceito.\n\n§ 3o A multa só será exigível do réu após o trânsito em julgado da sentença favorável ao autor, mas será devida desde o dia em que se houver configurado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2083.%20Na%20a%C3%A7%C3%A3o%20que%20tenha%20por%20objeto%20o%20cumprimento%20de%20obriga%C3%A7%C3%A3o%20de%20fazer%20ou%20n%C3%A3o-fazer%2C%20o%20juiz%20conceder%C3%A1%20a%20tutela%20espec%C3%ADfica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Os valores das multas previstas nesta Lei reverterão ao Fundo da Pessoa Idosa, onde houver, ou na falta deste, ao Fundo Municipal de Assistência Social, ficando vinculados ao atendimento à pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)\n\nParágrafo único. As multas não recolhidas até 30 (trinta) dias após o trânsito em julgado da decisão serão exigidas por meio de execução promovida pelo Ministério Público, nos mesmos autos, facultada igual iniciativa aos demais legitimados em caso de inércia daquele.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2084.%20Os%20valores%20das%20multas%20previstas%20nesta%20Lei%20reverter%C3%A3o%20ao%20Fundo%20da%20Pessoa%20Idosa%2C%20onde%20houver%2C%20ou%20na%20falta%20deste%2C%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. O juiz poderá conferir efeito suspensivo aos recursos, para evitar dano irreparável à parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2085.%20O%20juiz%20poder%C3%A1%20conferir%20efeito%20suspensivo%20aos%20recursos%2C%20para%20evitar%20dano%20irrepar%C3%A1vel%20%C3%A0%20parte.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. Transitada em julgado a sentença que impuser condenação ao Poder Público, o juiz determinará a remessa de peças à autoridade competente, para apuração da responsabilidade civil e administrativa do agente a que se atribua a ação ou omissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2086.%20Transitada%20em%20julgado%20a%20senten%C3%A7a%20que%20impuser%20condena%C3%A7%C3%A3o%20ao%20Poder%20P%C3%BAblico%2C%20o%20juiz%20determinar%C3%A1%20a%20remessa%20de%20pe%C3%A7as%20%C3%A0%20autoridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. Decorridos 60 (sessenta) dias do trânsito em julgado da sentença condenatória favorável à pessoa idosa sem que o autor lhe promova a execução, deverá fazê-lo o Ministério Público, facultada igual iniciativa aos demais legitimados, como assistentes ou assumindo o polo ativo, em caso de inércia desse órgão. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2087.%20Decorridos%2060%20%28sessenta%29%20dias%20do%20tr%C3%A2nsito%20em%20julgado%20da%20senten%C3%A7a%20condenat%C3%B3ria%20favor%C3%A1vel%20%C3%A0%20pessoa%20idosa%20sem%20que%20o%20autor%20lhe",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Nas ações de que trata este Capítulo, não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas.\n\nParágrafo único. Não se imporá sucumbência ao Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2088.%20Nas%20a%C3%A7%C3%B5es%20de%20que%20trata%20este%20Cap%C3%ADtulo%2C%20n%C3%A3o%20haver%C3%A1%20adiantamento%20de%20custas%2C%20emolumentos%2C%20honor%C3%A1rios%20periciais%20e%20quaisquer%20outras%20despesas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. Qualquer pessoa poderá, e o servidor deverá, provocar a iniciativa do Ministério Público, prestando-lhe informações sobre os fatos que constituam objeto de ação civil e indicando-lhe os elementos de convicção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2089.%20Qualquer%20pessoa%20poder%C3%A1%2C%20e%20o%20servidor%20dever%C3%A1%2C%20provocar%20a%20iniciativa%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20prestando-lhe%20informa%C3%A7%C3%B5es%20sobre%20os%20fatos%20que%20constituam",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. Os agentes públicos em geral, os juízes e tribunais, no exercício de suas funções, quando tiverem conhecimento de fatos que possam configurar crime de ação pública contra a pessoa idosa ou ensejar a propositura de ação para sua defesa, devem encaminhar as peças pertinentes ao Ministério Público, para as providências cabíveis. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2090.%20Os%20agentes%20p%C3%BAblicos%20em%20geral%2C%20os%20ju%C3%ADzes%20e%20tribunais%2C%20no%20exerc%C3%ADcio%20de%20suas%20fun%C3%A7%C3%B5es%2C%20quando%20tiverem%20conhecimento%20de%20fatos%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. Para instruir a petição inicial, o interessado poderá requerer às autoridades competentes as certidões e informações que julgar necessárias, que serão fornecidas no prazo de 10 (dez) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2091.%20Para%20instruir%20a%20peti%C3%A7%C3%A3o%20inicial%2C%20o%20interessado%20poder%C3%A1%20requerer%20%C3%A0s%20autoridades%20competentes%20as%20certid%C3%B5es%20e%20informa%C3%A7%C3%B5es%20que%20julgar%20necess%C3%A1rias%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. O Ministério Público poderá instaurar sob sua presidência, inquérito civil, ou requisitar, de qualquer pessoa, organismo público ou particular, certidões, informações, exames ou perícias, no prazo que assinalar, o qual não poderá ser inferior a 10 (dez) dias.\n\n§ 1o Se o órgão do Ministério Público, esgotadas todas as diligências, se convencer da inexistência de fundamento para a propositura da ação civil ou de peças informativas, determinará o seu arquivamento, fazendo-o fundamentadamente.\n\n§ 2o Os autos do inquérito civil ou as peças de informação arquivados serão remetidos, sob pena de se incorrer em falta grave, no prazo de 3 (três) dias, ao Conselho Superior do Ministério Público ou à Câmara de Coordenação e Revisão do Ministério Público.\n\n§ 3o Até que seja homologado ou rejeitado o arquivamento, pelo Conselho Superior do Ministério Público ou por Câmara de Coordenação e Revisão do Ministério Público, as associações legitimadas poderão apresentar razões escritas ou documentos, que serão juntados ou anexados às peças de informação.\n\n§ 4o Deixando o Conselho Superior ou a Câmara de Coordenação e Revisão do Ministério Público de homologar a promoção de arquivamento, será designado outro membro do Ministério Público para o ajuizamento da ação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2092.%20O%20Minist%C3%A9rio%20P%C3%BAblico%20poder%C3%A1%20instaurar%20sob%20sua%20presid%C3%AAncia%2C%20inqu%C3%A9rito%20civil%2C%20ou%20requisitar%2C%20de%20qualquer%20pessoa%2C%20organismo%20p%C3%BAblico%20ou%20particular%2C%20certid%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "91",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. Aplicam-se subsidiariamente, no que couber, as disposições da Lei no 7.347, de 24 de julho de 1985.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2093.%20Aplicam-se%20subsidiariamente%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20da%20Lei%20no%207.347%2C%20de%2024%20de%20julho%20de%201985.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art. 94. Aos crimes previstos nesta Lei aplicam-se, no que couber, as disposições do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal). (Redação dada pela Lei nº 15.163, de 2025)\n\nParágrafo único. Aos crimes previstos nesta Lei e aos crimes praticados com violência contra a pessoa idosa, independentemente da pena prevista, não se aplica a Lei nº 9.099, de 26 de setembro de 1995. (Incluído pela Lei nº 15.163, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2094.%20Aos%20crimes%20previstos%20nesta%20Lei%20aplicam-se%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20do%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art. 95. Os crimes definidos nesta Lei são de ação penal pública incondicionada, não se lhes aplicando os arts. 181 e 182 do Código Penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2095.%20Os%20crimes%20definidos%20nesta%20Lei%20s%C3%A3o%20de%20a%C3%A7%C3%A3o%20penal%20p%C3%BAblica%20incondicionada%2C%20n%C3%A3o%20se%20lhes%20aplicando%20os%20arts.%20181%20e%20182",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. Discriminar pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, aos meios de transporte, ao direito de contratar ou por qualquer outro meio ou instrumento necessário ao exercício da cidadania, por motivo de idade:\n\nPena – reclusão de 6 (seis) meses a 1 (um) ano e multa.\n\n§ 1o Na mesma pena incorre quem desdenhar, humilhar, menosprezar ou discriminar pessoa idosa, por qualquer motivo.\n\n§ 2o A pena será aumentada de 1/3 (um terço) se a vítima se encontrar sob os cuidados ou responsabilidade do agente.\n\n§ 3º Não constitui crime a negativa de crédito motivada por superendividamento da pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2096.%20Discriminar%20pessoa%20idosa%2C%20impedindo%20ou%20dificultando%20seu%20acesso%20a%20opera%C3%A7%C3%B5es%20banc%C3%A1rias%2C%20aos%20meios%20de%20transporte%2C%20ao%20direito%20de%20contratar%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. Deixar de prestar assistência à pessoa idosa, quando possível fazê-lo sem risco pessoal, em situação de iminente perigo, ou recusar, retardar ou dificultar sua assistência à saúde, sem justa causa, ou não pedir, nesses casos, o socorro de autoridade pública: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – detenção de 6 (seis) meses a 1 (um) ano e multa.\n\nParágrafo único. A pena é aumentada de metade, se da omissão resulta lesão corporal de natureza grave, e triplicada, se resulta a morte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2097.%20Deixar%20de%20prestar%20assist%C3%AAncia%20%C3%A0%20pessoa%20idosa%2C%20quando%20poss%C3%ADvel%20faz%C3%AA-lo%20sem%20risco%20pessoal%2C%20em%20situa%C3%A7%C3%A3o%20de%20iminente%20perigo%2C%20ou%20recusar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "96",
+      "next": "98"
+    },
+    "98": {
+      "numero": "98",
+      "texto": "Art. 98. Abandonar a pessoa idosa em hospitais, casas de saúde, entidades de longa permanência, ou congêneres, ou não prover suas necessidades básicas, quando obrigado por lei ou mandado: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – detenção de 6 (seis) meses a 3 (três) anos e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2098.%20Abandonar%20a%20pessoa%20idosa%20em%20hospitais%2C%20casas%20de%20sa%C3%BAde%2C%20entidades%20de%20longa%20perman%C3%AAncia%2C%20ou%20cong%C3%AAneres%2C%20ou%20n%C3%A3o%20prover%20suas%20necessidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "97",
+      "next": "99"
+    },
+    "99": {
+      "numero": "99",
+      "texto": "Art. 99. Expor a perigo a integridade e a saúde, física ou psíquica, da pessoa idosa, submetendo-a a condições desumanas ou degradantes ou privando-a de alimentos e cuidados indispensáveis, quando obrigado a fazê-lo, ou sujeitando-a a trabalho excessivo ou inadequado: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena - reclusão, de 2 (dois) a 5 (cinco) anos. (Redação dada pela Lei nº 15.163, de 2025)\n\n§ 1o Se do fato resulta lesão corporal de natureza grave:\n\nPena - reclusão, de 3 (três) a 7 (sete) anos. (Redação dada pela Lei nº 15.163, de 2025)\n\n§ 2o Se resulta a morte:\n\nPena - reclusão, de 8 (oito) a 14 (quatorze) anos. (Redação dada pela Lei nº 15.163, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%2099.%20Expor%20a%20perigo%20a%20integridade%20e%20a%20sa%C3%BAde%2C%20f%C3%ADsica%20ou%20ps%C3%ADquica%2C%20da%20pessoa%20idosa%2C%20submetendo-a%20a%20condi%C3%A7%C3%B5es%20desumanas%20ou%20degradantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "98",
+      "next": "100"
+    },
+    "100": {
+      "numero": "100",
+      "texto": "Art. 100. Constitui crime punível com reclusão de 6 (seis) meses a 1 (um) ano e multa:\n\nI – obstar o acesso de alguém a qualquer cargo público por motivo de idade;\n\nII – negar a alguém, por motivo de idade, emprego ou trabalho;\n\nIII – recusar, retardar ou dificultar atendimento ou deixar de prestar assistência à saúde, sem justa causa, a pessoa idosa;\n\nIV – deixar de cumprir, retardar ou frustrar, sem justo motivo, a execução de ordem judicial expedida na ação civil a que alude esta Lei;\n\nV – recusar, retardar ou omitir dados técnicos indispensáveis à propositura da ação civil objeto desta Lei, quando requisitados pelo Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20100.%20Constitui%20crime%20pun%C3%ADvel%20com%20reclus%C3%A3o%20de%206%20%28seis%29%20meses%20a%201%20%28um%29%20ano%20e%20multa%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "99",
+      "next": "101"
+    },
+    "101": {
+      "numero": "101",
+      "texto": "Art. 101. Deixar de cumprir, retardar ou frustrar, sem justo motivo, a execução de ordem judicial expedida nas ações em que for parte ou interveniente a pessoa idosa: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – detenção de 6 (seis) meses a 1 (um) ano e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20101.%20Deixar%20de%20cumprir%2C%20retardar%20ou%20frustrar%2C%20sem%20justo%20motivo%2C%20a%20execu%C3%A7%C3%A3o%20de%20ordem%20judicial%20expedida%20nas%20a%C3%A7%C3%B5es%20em%20que%20for",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "100",
+      "next": "102"
+    },
+    "102": {
+      "numero": "102",
+      "texto": "Art. 102. Apropriar-se de ou desviar bens, proventos, pensão ou qualquer outro rendimento da pessoa idosa, dando-lhes aplicação diversa da de sua finalidade: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – reclusão de 1 (um) a 4 (quatro) anos e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20102.%20Apropriar-se%20de%20ou%20desviar%20bens%2C%20proventos%2C%20pens%C3%A3o%20ou%20qualquer%20outro%20rendimento%20da%20pessoa%20idosa%2C%20dando-lhes%20aplica%C3%A7%C3%A3o%20diversa%20da%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "101",
+      "next": "103"
+    },
+    "103": {
+      "numero": "103",
+      "texto": "Art. 103. Negar o acolhimento ou a permanência da pessoa idosa, como abrigada, por recusa desta em outorgar procuração à entidade de atendimento: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – detenção de 6 (seis) meses a 1 (um) ano e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20103.%20Negar%20o%20acolhimento%20ou%20a%20perman%C3%AAncia%20da%20pessoa%20idosa%2C%20como%20abrigada%2C%20por%20recusa%20desta%20em%20outorgar%20procura%C3%A7%C3%A3o%20%C3%A0%20entidade%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "102",
+      "next": "104"
+    },
+    "104": {
+      "numero": "104",
+      "texto": "Art. 104. Reter o cartão magnético de conta bancária relativa a benefícios, proventos ou pensão da pessoa idosa, bem como qualquer outro documento com objetivo de assegurar recebimento ou ressarcimento de dívida: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – detenção de 6 (seis) meses a 2 (dois) anos e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20104.%20Reter%20o%20cart%C3%A3o%20magn%C3%A9tico%20de%20conta%20banc%C3%A1ria%20relativa%20a%20benef%C3%ADcios%2C%20proventos%20ou%20pens%C3%A3o%20da%20pessoa%20idosa%2C%20bem%20como%20qualquer%20outro",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "103",
+      "next": "105"
+    },
+    "105": {
+      "numero": "105",
+      "texto": "Art. 105. Exibir ou veicular, por qualquer meio de comunicação, informações ou imagens depreciativas ou injuriosas à pessoa idosa: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – detenção de 1 (um) a 3 (três) anos e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20105.%20Exibir%20ou%20veicular%2C%20por%20qualquer%20meio%20de%20comunica%C3%A7%C3%A3o%2C%20informa%C3%A7%C3%B5es%20ou%20imagens%20depreciativas%20ou%20injuriosas%20%C3%A0%20pessoa%20idosa%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "104",
+      "next": "106"
+    },
+    "106": {
+      "numero": "106",
+      "texto": "Art. 106. Induzir pessoa idosa sem discernimento de seus atos a outorgar procuração para fins de administração de bens ou deles dispor livremente:\n\nPena – reclusão de 2 (dois) a 4 (quatro) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20106.%20Induzir%20pessoa%20idosa%20sem%20discernimento%20de%20seus%20atos%20a%20outorgar%20procura%C3%A7%C3%A3o%20para%20fins%20de%20administra%C3%A7%C3%A3o%20de%20bens%20ou%20deles%20dispor",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "105",
+      "next": "107"
+    },
+    "107": {
+      "numero": "107",
+      "texto": "Art. 107. Coagir, de qualquer modo, a pessoa idosa a doar, contratar, testar ou outorgar procuração: (Redação dada pela Lei nº 14.423, de 2022)\n\nPena – reclusão de 2 (dois) a 5 (cinco) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20107.%20Coagir%2C%20de%20qualquer%20modo%2C%20a%20pessoa%20idosa%20a%20doar%2C%20contratar%2C%20testar%20ou%20outorgar%20procura%C3%A7%C3%A3o%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.423%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "106",
+      "next": "108"
+    },
+    "108": {
+      "numero": "108",
+      "texto": "Art. 108. Lavrar ato notarial que envolva pessoa idosa sem discernimento de seus atos, sem a devida representação legal:\n\nPena – reclusão de 2 (dois) a 4 (quatro) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20108.%20Lavrar%20ato%20notarial%20que%20envolva%20pessoa%20idosa%20sem%20discernimento%20de%20seus%20atos%2C%20sem%20a%20devida%20representa%C3%A7%C3%A3o%20legal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Dos Crimes",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Dos Crimes em Espécie",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "107",
+      "next": "109"
+    },
+    "109": {
+      "numero": "109",
+      "texto": "Art. 109. Impedir ou embaraçar ato do representante do Ministério Público ou de qualquer outro agente fiscalizador:\n\nPena – reclusão de 6 (seis) meses a 1 (um) ano e multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20109.%20Impedir%20ou%20embara%C3%A7ar%20ato%20do%20representante%20do%20Minist%C3%A9rio%20P%C3%BAblico%20ou%20de%20qualquer%20outro%20agente%20fiscalizador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "108",
+      "next": "110"
+    },
+    "110": {
+      "numero": "110",
+      "texto": "Art. 110. O Decreto-Lei no 2.848, de 7 de dezembro de 1940, Código Penal, passa a vigorar com as seguintes alterações:\n\n\"Art. 61. ............................................................................\n\n............................................................................\n\nII - ............................................................................\n\n............................................................................\n\nh) contra criança, maior de 60 (sessenta) anos, enfermo ou mulher grávida;\n\n.............................................................................\" (NR)\n\n\"Art. 121. ............................................................................\n\n............................................................................\n\n§ 4o No homicídio culposo, a pena é aumentada de 1/3 (um terço), se o crime resulta de inobservância de regra técnica de profissão, arte ou ofício, ou se o agente deixa de prestar imediato socorro à vítima, não procura diminuir as conseqüências do seu ato, ou foge para evitar prisão em flagrante. Sendo doloso o homicídio, a pena é aumentada de 1/3 (um terço) se o crime é praticado contra pessoa menor de 14 (quatorze) ou maior de 60 (sessenta) anos.\n\n.............................................................................\" (NR)\n\n\"Art. 133. ............................................................................\n\n............................................................................\n\n§ 3o ............................................................................\n\n............................................................................\n\nIII – se a vítima é maior de 60 (sessenta) anos.\" (NR)\n\n\"Art. 140. ............................................................................\n\n............................................................................\n\n§ 3o Se a injúria consiste na utilização de elementos referentes a raça, cor, etnia, religião, origem ou a condição de pessoa idosa ou portadora de deficiência:\n\n............................................................................ (NR)\n\n\"Art. 141. ............................................................................\n\n............................................................................\n\nIV – contra pessoa maior de 60 (sessenta) anos ou portadora de deficiência, exceto no caso de injúria.\n\n.............................................................................\" (NR)\n\n\"Art. 148. ............................................................................\n\n............................................................................\n\n§ 1o............................................................................\n\nI – se a vítima é ascendente, descendente, cônjuge do agente ou maior de 60 (sessenta) anos.\n\n............................................................................\" (NR)\n\n\"Art. 159............................................................................\n\n............................................................................\n\n§ 1o Se o seqüestro dura mais de 24 (vinte e quatro) horas, se o seqüestrado é menor de 18 (dezoito) ou maior de 60 (sessenta) anos, ou se o crime é cometido por bando ou quadrilha.\n\n............................................................................\" (NR)\n\n\"Art. 183............................................................................\n\n............................................................................\n\nIII – se o crime é praticado contra pessoa com idade igual ou superior a 60 (sessenta) anos.\" (NR)\n\n\"Art. 244. Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor de 18 (dezoito) anos ou inapto para o trabalho, ou de ascendente inválido ou maior de 60 (sessenta) anos, não lhes proporcionando os recursos necessários ou faltando ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada; deixar, sem justa causa, de socorrer descendente ou ascendente, gravemente enfermo:\n\n............................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20110.%20O%20Decreto-Lei%20no%202.848%2C%20de%207%20de%20dezembro%20de%201940%2C%20C%C3%B3digo%20Penal%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "109",
+      "next": "111"
+    },
+    "111": {
+      "numero": "111",
+      "texto": "Art. 111. O O art. 21 do Decreto-Lei no 3.688, de 3 de outubro de 1941, Lei das Contravenções Penais, passa a vigorar acrescido do seguinte parágrafo único:\n\n\"Art. 21............................................................................\n\n............................................................................\n\nParágrafo único. Aumenta-se a pena de 1/3 (um terço) até a metade se a vítima é maior de 60 (sessenta) anos.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20111.%20O%20O%20art.%2021%20do%20Decreto-Lei%20no%203.688%2C%20de%203%20de%20outubro%20de%201941%2C%20Lei%20das%20Contraven%C3%A7%C3%B5es%20Penais%2C%20passa%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "110",
+      "next": "112"
+    },
+    "112": {
+      "numero": "112",
+      "texto": "Art. 112. O inciso II do § 4o do art. 1o da Lei no 9.455, de 7 de abril de 1997, passa a vigorar com a seguinte redação:\n\n\"Art. 1o ............................................................................\n\n............................................................................\n\n§ 4o ............................................................................\n\nII – se o crime é cometido contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos;\n\n............................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20112.%20O%20inciso%20II%20do%20%C2%A7%204o%20do%20art.%201o%20da%20Lei%20no%209.455%2C%20de%207%20de%20abril%20de%201997%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "111",
+      "next": "113"
+    },
+    "113": {
+      "numero": "113",
+      "texto": "Art. 113. O inciso III do art. 18 da Lei no 6.368, de 21 de outubro de 1976, passa a vigorar com a seguinte redação:\n\n\"Art. 18............................................................................\n\n............................................................................\n\nIII – se qualquer deles decorrer de associação ou visar a menores de 21 (vinte e um) anos ou a pessoa com idade igual ou superior a 60 (sessenta) anos ou a quem tenha, por qualquer causa, diminuída ou suprimida a capacidade de discernimento ou de autodeterminação:\n\n............................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20113.%20O%20inciso%20III%20do%20art.%2018%20da%20Lei%20no%206.368%2C%20de%2021%20de%20outubro%20de%201976%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "112",
+      "next": "114"
+    },
+    "114": {
+      "numero": "114",
+      "texto": "Art. 114. O art 1º da Lei no 10.048, de 8 de novembro de 2000, passa a vigorar com a seguinte redação:\n\n\"Art. 1o As pessoas portadoras de deficiência, os idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo terão atendimento prioritário, nos termos desta Lei.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20114.%20O%20art%201%C2%BA%20da%20Lei%20no%2010.048%2C%20de%208%20de%20novembro%20de%202000%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "113",
+      "next": "115"
+    },
+    "115": {
+      "numero": "115",
+      "texto": "Art. 115. O Orçamento da Seguridade Social destinará ao Fundo Nacional de Assistência Social, até que o Fundo Nacional da Pessoa Idosa seja criado, os recursos necessários, em cada exercício financeiro, para aplicação em programas e ações relativos à pessoa idosa. (Redação dada pela Lei nº 14.423, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20115.%20O%20Or%C3%A7amento%20da%20Seguridade%20Social%20destinar%C3%A1%20ao%20Fundo%20Nacional%20de%20Assist%C3%AAncia%20Social%2C%20at%C3%A9%20que%20o%20Fundo%20Nacional%20da%20Pessoa%20Idosa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "114",
+      "next": "116"
+    },
+    "116": {
+      "numero": "116",
+      "texto": "Art. 116. Serão incluídos nos censos demográficos dados relativos à população idosa do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20116.%20Ser%C3%A3o%20inclu%C3%ADdos%20nos%20censos%20demogr%C3%A1ficos%20dados%20relativos%20%C3%A0%20popula%C3%A7%C3%A3o%20idosa%20do%20Pa%C3%ADs.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "115",
+      "next": "117"
+    },
+    "117": {
+      "numero": "117",
+      "texto": "Art. 117. O Poder Executivo encaminhará ao Congresso Nacional projeto de lei revendo os critérios de concessão do Benefício de Prestação Continuada previsto na Lei Orgânica da Assistência Social, de forma a garantir que o acesso ao direito seja condizente com o estágio de desenvolvimento sócio-econômico alcançado pelo País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20117.%20O%20Poder%20Executivo%20encaminhar%C3%A1%20ao%20Congresso%20Nacional%20projeto%20de%20lei%20revendo%20os%20crit%C3%A9rios%20de%20concess%C3%A3o%20do%20Benef%C3%ADcio%20de%20Presta%C3%A7%C3%A3o%20Continuada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "116",
+      "next": "118"
+    },
+    "118": {
+      "numero": "118",
+      "texto": "Art. 118. Esta Lei entra em vigor decorridos 90 (noventa) dias da sua publicação, ressalvado o disposto no caput do art. 36, que vigorará a partir de 1o de janeiro de 2004.\n\nBrasília, 1o de outubro de 2003; 182o da Independência e 115o da República.\n\nLUIZ INÁCIO LULA DA SILVA Márcio Thomaz Bastos Antonio Palocci Filho Rubem Fonseca Filho Humberto Sérgio Costa LIma Guido Mantega Ricardo José Ribeiro Berzoini Benedita Souza da Silva Sampaio Álvaro Augusto Ribeiro Costa\n\nEste texto não substitui o publicado no DOU de 3.10.2003\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm#:~:text=Art.%20118.%20Esta%20Lei%20entra%20em%20vigor%20decorridos%2090%20%28noventa%29%20dias%20da%20sua%20publica%C3%A7%C3%A3o%2C%20ressalvado%20o%20disposto%20no%20caput%20do%20art.%2036%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "117",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,1103 @@
+{
+  "_meta": {
+    "codigo": "EIND",
+    "nome": "Estatuto do Índio",
+    "lei": "Lei 6.001/1973",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+    "total_artigos": 68,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei regula a situação jurídica dos índios ou silvícolas e das comunidades indígenas, com o propósito de preservar a sua cultura e integrá-los, progressiva e harmoniosamente, à comunhão nacional.\n\nParágrafo único. Aos índios e às comunidades indígenas se estende a proteção das leis do País, nos mesmos termos em que se aplicam aos demais brasileiros, resguardados os usos, costumes e tradições indígenas, bem como as condições peculiares reconhecidas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20regula%20a%20situa%C3%A7%C3%A3o%20jur%C3%ADdica%20dos%20%C3%ADndios%20ou%20silv%C3%ADcolas%20e%20das%20comunidades%20ind%C3%ADgenas%2C%20com%20o%20prop%C3%B3sito%20de%20preservar%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° Cumpre à União, aos Estados e aos Municípios, bem como aos órgãos das respectivas administrações indiretas, nos limites de sua competência, para a proteção das comunidades indígenas e a preservação dos seus direitos:\n\nI - estender aos índios os benefícios da legislação comum, sempre que possível a sua aplicação;\n\nII - prestar assistência aos índios e às comunidades indígenas ainda não integrados à comunhão nacional;\n\nIII - respeitar, ao proporcionar aos índios meios para o seu desenvolvimento, as peculiaridades inerentes à sua condição;\n\nIV - assegurar aos índios a possibilidade de livre escolha dos seus meios de vida e subsistência;\n\nV - garantir aos índios a permanência voluntária no seu habitat , proporcionando-lhes ali recursos para seu desenvolvimento e progresso;\n\nVI - respeitar, no processo de integração do índio à comunhão nacional, a coesão das comunidades indígenas, os seus valores culturais, tradições, usos e costumes;\n\nVII - executar, sempre que possível mediante a colaboração dos índios, os programas e projetos tendentes a beneficiar as comunidades indígenas;\n\nVIII - utilizar a cooperação, o espírito de iniciativa e as qualidades pessoais do índio, tendo em vista a melhoria de suas condições de vida e a sua integração no processo de desenvolvimento;\n\nIX - garantir aos índios e comunidades indígenas, nos termos da Constituição, a posse permanente das terras que habitam, reconhecendo-lhes o direito ao usufruto exclusivo das riquezas naturais e de todas as utilidades naquelas terras existentes;\n\nIX - garantir aos índios e comunidades indígenas, nos termos da Constituição Federal, a posse permanente das terras tradicionalmente ocupadas em 5 de outubro de 1988, reconhecendo-lhes o direito ao usufruto exclusivo das riquezas naturais e de todas as utilidades naquelas terras existentes; (Redação dada pela Lei nº 14.701, de 2023)\n\nX - garantir aos índios o pleno exercício dos direitos civis e políticos que em face da legislação lhes couberem.\n\nParágrafo único. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%202%C2%B0%20Cumpre%20%C3%A0%20Uni%C3%A3o%2C%20aos%20Estados%20e%20aos%20Munic%C3%ADpios%2C%20bem%20como%20aos%20%C3%B3rg%C3%A3os%20das%20respectivas%20administra%C3%A7%C3%B5es%20indiretas%2C%20nos%20limites%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Para os efeitos de lei, ficam estabelecidas as definições a seguir discriminadas:\n\nI - Índio ou Silvícola - É todo indivíduo de origem e ascendência pré-colombiana que se identifica e é identificado como pertencente a um grupo étnico cujas características culturais o distinguem da sociedade nacional;\n\nII - Comunidade Indígena ou Grupo Tribal - É um conjunto de famílias ou comunidades índias, quer vivendo em estado de completo isolamento em relação aos outros setores da comunhão nacional, quer em contatos intermitentes ou permanentes, sem contudo estarem neles integrados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%203%C2%BA%20Para%20os%20efeitos%20de%20lei%2C%20ficam%20estabelecidas%20as%20defini%C3%A7%C3%B5es%20a%20seguir%20discriminadas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art 4º Os índios são considerados:\n\nI - Isolados - Quando vivem em grupos desconhecidos ou de que se possuem poucos e vagos informes através de contatos eventuais com elementos da comunhão nacional;\n\nII - Em vias de integração - Quando, em contato intermitente ou permanente com grupos estranhos, conservam menor ou maior parte das condições de sua vida nativa, mas aceitam algumas práticas e modos de existência comuns aos demais setores da comunhão nacional, da qual vão necessitando cada vez mais para o próprio sustento;\n\nIII - Integrados - Quando incorporados à comunhão nacional e reconhecidos no pleno exercício dos direitos civis, ainda que conservem usos, costumes e tradições característicos da sua cultura.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art%204%C2%BA%20Os%20%C3%ADndios%20s%C3%A3o%20considerados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Aplicam-se aos índios ou silvícolas as normas dos artigos 145 e 146, da Constituição Federal, relativas à nacionalidade e à cidadania.\n\nParágrafo único. O exercício dos direitos civis e políticos pelo índio depende da verificação das condições especiais estabelecidas nesta Lei e na legislação pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%205%C2%BA%20Aplicam-se%20aos%20%C3%ADndios%20ou%20silv%C3%ADcolas%20as%20normas%20dos%20artigos%20145%20e%20146%2C%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20relativas%20%C3%A0%20nacionalidade%20e%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Serão respeitados os usos, costumes e tradições das comunidades indígenas e seus efeitos, nas relações de família, na ordem de sucessão, no regime de propriedade e nos atos ou negócios realizados entre índios, salvo se optarem pela aplicação do direito comum.\n\nParágrafo único. Aplicam-se as normas de direito comum às relações entre índios não integrados e pessoas estranhas à comunidade indígena, excetuados os que forem menos favoráveis a eles e ressalvado o disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%206%C2%BA%20Ser%C3%A3o%20respeitados%20os%20usos%2C%20costumes%20e%20tradi%C3%A7%C3%B5es%20das%20comunidades%20ind%C3%ADgenas%20e%20seus%20efeitos%2C%20nas%20rela%C3%A7%C3%B5es%20de%20fam%C3%ADlia%2C%20na%20ordem%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os índios e as comunidades indígenas ainda não integrados à comunhão nacional ficam sujeito ao regime tutelar estabelecido nesta Lei.\n\n§ 1º Ao regime tutelar estabelecido nesta Lei aplicam-se no que couber, os princípios e normas da tutela de direito comum, independendo, todavia, o exercício da tutela da especialização de bens imóveis em hipoteca legal, bem como da prestação de caução real ou fidejussória.\n\n§ 2º Incumbe a tutela à União, que a exercerá através do competente órgão federal de assistência aos silvícolas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%207%C2%BA%20Os%20%C3%ADndios%20e%20as%20comunidades%20ind%C3%ADgenas%20ainda%20n%C3%A3o%20integrados%20%C3%A0%20comunh%C3%A3o%20nacional%20ficam%20sujeito%20ao%20regime%20tutelar%20estabelecido%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º São nulos os atos praticados entre o índio não integrado e qualquer pessoa estranha à comunidade indígena quando não tenha havido assistência do órgão tutelar competente.\n\nParágrafo único. Não se aplica a regra deste artigo no caso em que o índio revele consciência e conhecimento do ato praticado, desde que não lhe seja prejudicial, e da extensão dos seus efeitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%208%C2%BA%20S%C3%A3o%20nulos%20os%20atos%20praticados%20entre%20o%20%C3%ADndio%20n%C3%A3o%20integrado%20e%20qualquer%20pessoa%20estranha%20%C3%A0%20comunidade%20ind%C3%ADgena%20quando%20n%C3%A3o%20tenha",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Qualquer índio poderá requerer ao Juiz competente a sua liberação do regime tutelar previsto nesta Lei, investindo-se na plenitude da capacidade civil, desde que preencha os requisitos seguintes:\n\nI - idade mínima de 21 anos;\n\nII - conhecimento da língua portuguesa;\n\nIII - habilitação para o exercício de atividade útil, na comunhão nacional;\n\nIV - razoável compreensão dos usos e costumes da comunhão nacional.\n\nParágrafo único. O Juiz decidirá após instrução sumária, ouvidos o órgão de assistência ao índio e o Ministério Público, transcrita a sentença concessiva no registro civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%209%C2%BA%20Qualquer%20%C3%ADndio%20poder%C3%A1%20requerer%20ao%20Juiz%20competente%20a%20sua%20libera%C3%A7%C3%A3o%20do%20regime%20tutelar%20previsto%20nesta%20Lei%2C%20investindo-se%20na%20plenitude%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Satisfeitos os requisitos do artigo anterior e a pedido escrito do interessado, o órgão de assistência poderá reconhecer ao índio, mediante declaração formal, a condição de integrado, cessando toda restrição à capacidade, desde que, homologado judicialmente o ato, seja inscrito no registro civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2010.%20Satisfeitos%20os%20requisitos%20do%20artigo%20anterior%20e%20a%20pedido%20escrito%20do%20interessado%2C%20o%20%C3%B3rg%C3%A3o%20de%20assist%C3%AAncia%20poder%C3%A1%20reconhecer%20ao%20%C3%ADndio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Mediante decreto do Presidente da República, poderá ser declarada a emancipação da comunidade indígena e de seus membros, quanto ao regime tutelar estabelecido em lei, desde que requerida pela maioria dos membros do grupo e comprovada, em inquérito realizado pelo órgão federal competente, a sua plena integração na comunhão nacional.\n\nParágrafo único. Para os efeitos do disposto neste artigo, exigir-se-á o preenchimento, pelos requerentes, dos requisitos estabelecidos no artigo 9º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2011.%20Mediante%20decreto%20do%20Presidente%20da%20Rep%C3%BAblica%2C%20poder%C3%A1%20ser%20declarada%20a%20emancipa%C3%A7%C3%A3o%20da%20comunidade%20ind%C3%ADgena%20e%20de%20seus%20membros%2C%20quanto%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os nascimentos e óbitos, e os casamentos civis dos índios não integrados, serão registrados de acordo com a legislação comum, atendidas as peculiaridades de sua condição quanto à qualificação do nome, prenome e filiação.\n\nParágrafo único. O registro civil será feito a pedido do interessado ou da autoridade administrativa competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2012.%20Os%20nascimentos%20e%20%C3%B3bitos%2C%20e%20os%20casamentos%20civis%20dos%20%C3%ADndios%20n%C3%A3o%20integrados%2C%20ser%C3%A3o%20registrados%20de%20acordo%20com%20a%20legisla%C3%A7%C3%A3o%20comum%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Haverá livros próprios, no órgão competente de assistência, para o registro administrativo de nascimentos e óbitos dos índios, da cessação de sua incapacidade e dos casamentos contraídos segundo os costumes tribais.\n\nParágrafo único. O registro administrativo constituirá, quando couber documento hábil para proceder ao registro civil do ato correspondente, admitido, na falta deste, como meio subsidiário de prova.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2013.%20Haver%C3%A1%20livros%20pr%C3%B3prios%2C%20no%20%C3%B3rg%C3%A3o%20competente%20de%20assist%C3%AAncia%2C%20para%20o%20registro%20administrativo%20de%20nascimentos%20e%20%C3%B3bitos%20dos%20%C3%ADndios%2C%20da%20cessa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Não haverá discriminação entre trabalhadores indígenas e os demais trabalhadores, aplicando-se-lhes todos os direitos e garantias das leis trabalhistas e de previdência social.\n\nParágrafo único. É permitida a adaptação de condições de trabalho aos usos e costumes da comunidade a que pertencer o índio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2014.%20N%C3%A3o%20haver%C3%A1%20discrimina%C3%A7%C3%A3o%20entre%20trabalhadores%20ind%C3%ADgenas%20e%20os%20demais%20trabalhadores%2C%20aplicando-se-lhes%20todos%20os%20direitos%20e%20garantias%20das%20leis%20trabalhistas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Será nulo o contrato de trabalho ou de locação de serviços realizado com os índios de que trata o artigo 4°, I.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2015.%20Ser%C3%A1%20nulo%20o%20contrato%20de%20trabalho%20ou%20de%20loca%C3%A7%C3%A3o%20de%20servi%C3%A7os%20realizado%20com%20os%20%C3%ADndios%20de%20que%20trata%20o%20artigo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os contratos de trabalho ou de locação de serviços realizados com indígenas em processo de integração ou habitantes de parques ou colônias agrícolas dependerão de prévia aprovação do órgão de proteção ao índio, obedecendo, quando necessário, a normas próprias.\n\n§ 1º Será estimulada a realização de contratos por equipe, ou a domicílio, sob a orientação do órgão competente, de modo a favorecer a continuidade da via comunitária.\n\n§ 2º Em qualquer caso de prestação de serviços por indígenas não integrados, o órgão de proteção ao índio exercerá permanente fiscalização das condições de trabalho, denunciando os abusos e providenciando a aplicação das sanções cabíveis.\n\n§ 3º O órgão de assistência ao indígena propiciará o acesso, aos seus quadros, de índios integrados, estimulando a sua especialização indigenista.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2016.%20Os%20contratos%20de%20trabalho%20ou%20de%20loca%C3%A7%C3%A3o%20de%20servi%C3%A7os%20realizados%20com%20ind%C3%ADgenas%20em%20processo%20de%20integra%C3%A7%C3%A3o%20ou%20habitantes%20de%20parques",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Reputam-se terras indígenas:\n\nI - as terras ocupadas ou habitadas pelos silvícolas, a que se referem os artigos 4º, IV, e 198, da Constituição; (Regulamento) (Vide Decreto nº 22, de 1991) (Vide Decreto nº 1.775, de 1996)\n\nII - as áreas reservadas de que trata o Capítulo III deste Título;\n\nIII - as terras de domínio das comunidades indígenas ou de silvícolas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2017.%20Reputam-se%20terras%20ind%C3%ADgenas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As terras indígenas não poderão ser objeto de arrendamento ou de qualquer ato ou negócio jurídico que restrinja o pleno exercício da posse direta pela comunidade indígena ou pelos silvícolas.\n\n§ 1º Nessas áreas, é vedada a qualquer pessoa estranha aos grupos tribais ou comunidades indígenas a prática da caça, pesca ou coleta de frutos, assim como de atividade agropecuária ou extrativa.\n\n§ 2º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2018.%20As%20terras%20ind%C3%ADgenas%20n%C3%A3o%20poder%C3%A3o%20ser%20objeto%20de%20arrendamento%20ou%20de%20qualquer%20ato%20ou%20neg%C3%B3cio%20jur%C3%ADdico%20que%20restrinja%20o%20pleno",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As terras indígenas, por iniciativa e sob orientação do órgão federal de assistência ao índio, serão administrativamente demarcadas, de acordo com o processo estabelecido em decreto do Poder Executivo.\n\n§ 1º A demarcação promovida nos termos deste artigo, homologada pelo Presidente da República, será registrada em livro próprio do Serviço do Patrimônio da União (SPU) e do registro imobiliário da comarca da situação das terras.\n\n§ 2º Contra a demarcação processada nos termos deste artigo não caberá a concessão de interdito possessório, facultado aos interessados contra ela recorrer à ação petitória ou à demarcatória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2019.%20As%20terras%20ind%C3%ADgenas%2C%20por%20iniciativa%20e%20sob%20orienta%C3%A7%C3%A3o%20do%20%C3%B3rg%C3%A3o%20federal%20de%20assist%C3%AAncia%20ao%20%C3%ADndio%2C%20ser%C3%A3o%20administrativamente%20demarcadas%2C%20de%20acordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Em caráter excepcional e por qualquer dos motivos adiante enumerados, poderá a União intervir, se não houver solução alternativa, em área indígena, determinada a providência por decreto do Presidente da República.\n\n1º A intervenção poderá ser decretada:\n\na) para pôr termo à luta entre grupos tribais;\n\nb) para combater graves surtos epidêmicos, que possam acarretar o extermínio da comunidade indígena, ou qualquer mal que ponha em risco a integridade do silvícola ou do grupo tribal;\n\nc) por imposição da segurança nacional;\n\nd) para a realização de obras públicas que interessem ao desenvolvimento nacional;\n\ne) para reprimir a turbação ou esbulho em larga escala;\n\nf) para a exploração de riquezas do subsolo de relevante interesse para a segurança e o desenvolvimento nacional.\n\n2º A intervenção executar-se-á nas condições estipuladas no decreto e sempre por meios suasórios, dela podendo resultar, segundo a gravidade do fato, uma ou algumas das medidas seguintes:\n\na) contenção de hostilidades, evitando-se o emprego de força contra os índios;\n\nb) deslocamento temporário de grupos tribais de uma para outra área;\n\nc) remoção de grupos tribais de uma para outra área.\n\n3º Somente caberá a remoção de grupo tribal quando de todo impossível ou desaconselhável a sua permanência na área sob intervenção, destinando-se à comunidade indígena removida área equivalente à anterior, inclusive quanto às condições ecológicas.\n\n4º A comunidade indígena removida será integralmente ressarcida dos prejuízos decorrentes da remoção.\n\n5º O ato de intervenção terá a assistência direta do órgão federal que exercita a tutela do índio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2020.%20Em%20car%C3%A1ter%20excepcional%20e%20por%20qualquer%20dos%20motivos%20adiante%20enumerados%2C%20poder%C3%A1%20a%20Uni%C3%A3o%20intervir%2C%20se%20n%C3%A3o%20houver%20solu%C3%A7%C3%A3o%20alternativa%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. As terras espontânea e definitivamente abandonadas por comunidade indígena ou grupo tribal reverterão, por proposta do órgão federal de assistência ao índio e mediante ato declaratório do Poder Executivo, à posse e ao domínio pleno da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2021.%20As%20terras%20espont%C3%A2nea%20e%20definitivamente%20abandonadas%20por%20comunidade%20ind%C3%ADgena%20ou%20grupo%20tribal%20reverter%C3%A3o%2C%20por%20proposta%20do%20%C3%B3rg%C3%A3o%20federal%20de%20assist%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Cabe aos índios ou silvícolas a posse permanente das terras que habitam e o direito ao usufruto exclusivo das riquezas naturais e de todas as utilidades naquelas terras existentes.\n\nParágrafo único. As terras ocupadas pelos índios, nos termos deste artigo, serão bens inalienáveis da União (artigo 4º, IV, e 198, da Constituição Federal).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2022.%20Cabe%20aos%20%C3%ADndios%20ou%20silv%C3%ADcolas%20a%20posse%20permanente%20das%20terras%20que%20habitam%20e%20o%20direito%20ao%20usufruto%20exclusivo%20das%20riquezas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Considera-se posse do índio ou silvícola a ocupação efetiva da terra que, de acordo com os usos, costumes e tradições tribais, detém e onde habita ou exerce atividade indispensável à sua subsistência ou economicamente útil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2023.%20Considera-se%20posse%20do%20%C3%ADndio%20ou%20silv%C3%ADcola%20a%20ocupa%C3%A7%C3%A3o%20efetiva%20da%20terra%20que%2C%20de%20acordo%20com%20os%20usos%2C%20costumes%20e%20tradi%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O usufruto assegurado aos índios ou silvícolas compreende o direito à posse, uso e percepção das riquezas naturais e de todas as utilidades existentes nas terras ocupadas, bem assim ao produto da exploração econômica de tais riquezas naturais e utilidades.\n\n§ 1° Incluem-se, no usufruto, que se estende aos acessórios e seus acrescidos, o uso dos mananciais e das águas dos trechos das vias fluviais compreendidos nas terras ocupadas.\n\n§ 2° É garantido ao índio o exclusivo exercício da caça e pesca nas áreas por ele ocupadas, devendo ser executadas por forma suasória as medidas de polícia que em relação a ele eventualmente tiverem de ser aplicadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2024.%20O%20usufruto%20assegurado%20aos%20%C3%ADndios%20ou%20silv%C3%ADcolas%20compreende%20o%20direito%20%C3%A0%20posse%2C%20uso%20e%20percep%C3%A7%C3%A3o%20das%20riquezas%20naturais%20e%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O reconhecimento do direito dos índios e grupos tribais à posse permanente das terras por eles habitadas, nos termos do artigo 198, da Constituição Federal, independerá de sua demarcação, e será assegurado pelo órgão federal de assistência aos silvícolas, atendendo à situação atual e ao consenso histórico sobre a antigüidade da ocupação, sem prejuízo das medidas cabíveis que, na omissão ou erro do referido órgão, tomar qualquer dos Poderes da República.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2025.%20O%20reconhecimento%20do%20direito%20dos%20%C3%ADndios%20e%20grupos%20tribais%20%C3%A0%20posse%20permanente%20das%20terras%20por%20eles%20habitadas%2C%20nos%20termos%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A União poderá estabelecer, em qualquer parte do território nacional, áreas destinadas à posse e ocupação pelos índios, onde possam viver e obter meios de subsistência, com direito ao usufruto e utilização das riquezas naturais e dos bens nelas existentes, respeitadas as restrições legais.\n\nParágrafo único. As áreas reservadas na forma deste artigo não se confundem com as de posse imemorial das tribos indígenas, podendo organizar-se sob uma das seguintes modalidades:\n\na) reserva indígena;\n\nb) parque indígena;\n\nc) colônia agrícola indígena.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2026.%20A%20Uni%C3%A3o%20poder%C3%A1%20estabelecer%2C%20em%20qualquer%20parte%20do%20territ%C3%B3rio%20nacional%2C%20%C3%A1reas%20destinadas%20%C3%A0%20posse%20e%20ocupa%C3%A7%C3%A3o%20pelos%20%C3%ADndios%2C%20onde%20possam",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Reserva indígena é uma área destinada a servidor de habitat a grupo indígena, com os meios suficientes à sua subsistência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2027.%20Reserva%20ind%C3%ADgena%20%C3%A9%20uma%20%C3%A1rea%20destinada%20a%20servidor%20de%20habitat%20a%20grupo%20ind%C3%ADgena%2C%20com%20os%20meios%20suficientes%20%C3%A0%20sua%20subsist%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Parque indígena é a área contida em terra na posse de índios, cujo grau de integração permita assistência econômica, educacional e sanitária dos órgãos da União, em que se preservem as reservas de flora e fauna e as belezas naturais da região.\n\n§ 1º Na administração dos parques serão respeitados a liberdade, usos, costumes e tradições dos índios.\n\n§ 2° As medidas de polícia, necessárias à ordem interna e à preservação das riquezas existentes na área do parque, deverão ser tomadas por meios suasórios e de acordo com o interesse dos índios que nela habitem.\n\n§ 3º O loteamento das terras dos parques indígenas obedecerá ao regime de propriedade, usos e costumes tribais, bem como às normas administrativas nacionais, que deverão ajustar-se aos interesses das comunidades indígenas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2028.%20Parque%20ind%C3%ADgena%20%C3%A9%20a%20%C3%A1rea%20contida%20em%20terra%20na%20posse%20de%20%C3%ADndios%2C%20cujo%20grau%20de%20integra%C3%A7%C3%A3o%20permita%20assist%C3%AAncia%20econ%C3%B4mica%2C%20educacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Colônia agrícola indígena é a área destinada à exploração agropecuária, administrada pelo órgão de assistência ao índio, onde convivam tribos aculturadas e membros da comunidade nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2029.%20Col%C3%B4nia%20agr%C3%ADcola%20ind%C3%ADgena%20%C3%A9%20a%20%C3%A1rea%20destinada%20%C3%A0%20explora%C3%A7%C3%A3o%20agropecu%C3%A1ria%2C%20administrada%20pelo%20%C3%B3rg%C3%A3o%20de%20assist%C3%AAncia%20ao%20%C3%ADndio%2C%20onde%20convivam%20tribos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Território federal indígena é a unidade administrativa subordinada à União, instituída em região na qual pelo menos um terço da população seja formado por índios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2030.%20Territ%C3%B3rio%20federal%20ind%C3%ADgena%20%C3%A9%20a%20unidade%20administrativa%20subordinada%20%C3%A0%20Uni%C3%A3o%2C%20institu%C3%ADda%20em%20regi%C3%A3o%20na%20qual%20pelo%20menos%20um%20ter%C3%A7o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. As disposições deste Capítulo serão aplicadas, no que couber, às áreas em que a posse decorra da aplicação do artigo 198, da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2031.%20As%20disposi%C3%A7%C3%B5es%20deste%20Cap%C3%ADtulo%20ser%C3%A3o%20aplicadas%2C%20no%20que%20couber%2C%20%C3%A0s%20%C3%A1reas%20em%20que%20a%20posse%20decorra%20da%20aplica%C3%A7%C3%A3o%20do%20artigo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. São de propriedade plena do índio ou da comunidade indígena, conforme o caso, as terras havidas por qualquer das formas de aquisição do domínio, nos termos da legislação civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2032.%20S%C3%A3o%20de%20propriedade%20plena%20do%20%C3%ADndio%20ou%20da%20comunidade%20ind%C3%ADgena%2C%20conforme%20o%20caso%2C%20as%20terras%20havidas%20por%20qualquer%20das%20formas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O índio, integrado ou não, que ocupe como próprio, por dez anos consecutivos, trecho de terra inferior a cinqüenta hectares, adquirir-lhe-á a propriedade plena.\n\nParágrafo único. O disposto neste artigo não se aplica às terras do domínio da União, ocupadas por grupos tribais, às áreas reservadas de que trata esta Lei, nem às terras de propriedade coletiva de grupo tribal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2033.%20O%20%C3%ADndio%2C%20integrado%20ou%20n%C3%A3o%2C%20que%20ocupe%20como%20pr%C3%B3prio%2C%20por%20dez%20anos%20consecutivos%2C%20trecho%20de%20terra%20inferior%20a%20cinq%C3%BCenta%20hectares%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O órgão federal de assistência ao índio poderá solicitar a colaboração das Forças Armadas e Auxiliares e da Polícia Federal, para assegurar a proteção das terras ocupadas pelos índios e pelas comunidades indígenas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2034.%20O%20%C3%B3rg%C3%A3o%20federal%20de%20assist%C3%AAncia%20ao%20%C3%ADndio%20poder%C3%A1%20solicitar%20a%20colabora%C3%A7%C3%A3o%20das%20For%C3%A7as%20Armadas%20e%20Auxiliares%20e%20da%20Pol%C3%ADcia%20Federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Cabe ao órgão federal de assistência ao índio a defesa judicial ou extrajudicial dos direitos dos silvícolas e das comunidades indígenas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2035.%20Cabe%20ao%20%C3%B3rg%C3%A3o%20federal%20de%20assist%C3%AAncia%20ao%20%C3%ADndio%20a%20defesa%20judicial%20ou%20extrajudicial%20dos%20direitos%20dos%20silv%C3%ADcolas%20e%20das%20comunidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Sem prejuízo do disposto no artigo anterior, compete à União adotar as medidas administrativas ou propor, por intermédio do Ministério Público Federal, as medidas judiciais adequadas à proteção da posse dos silvícolas sobre as terras que habitem.\n\nParágrafo único. Quando as medidas judiciais previstas neste artigo forem propostas pelo órgão federal de assistência, ou contra ele, a União será litisconsorte ativa ou passiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2036.%20Sem%20preju%C3%ADzo%20do%20disposto%20no%20artigo%20anterior%2C%20compete%20%C3%A0%20Uni%C3%A3o%20adotar%20as%20medidas%20administrativas%20ou%20propor%2C%20por%20interm%C3%A9dio%20do%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os grupos tribais ou comunidades indígenas são partes legítimas para a defesa dos seus direitos em juízo, cabendo-lhes, no caso, a assistência do Ministério Público Federal ou do órgão de proteção ao índio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2037.%20Os%20grupos%20tribais%20ou%20comunidades%20ind%C3%ADgenas%20s%C3%A3o%20partes%20leg%C3%ADtimas%20para%20a%20defesa%20dos%20seus%20direitos%20em%20ju%C3%ADzo%2C%20cabendo-lhes%2C%20no%20caso%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. As terras indígenas são inusucapíveis e sobre elas não poderá recair desapropriação, salvo o previsto no artigo 20.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2038.%20As%20terras%20ind%C3%ADgenas%20s%C3%A3o%20inusucap%C3%ADveis%20e%20sobre%20elas%20n%C3%A3o%20poder%C3%A1%20recair%20desapropria%C3%A7%C3%A3o%2C%20salvo%20o%20previsto%20no%20artigo%2020.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art 39. Constituem bens do Patrimônio Indígena:\n\nI - as terras pertencentes ao domínio dos grupos tribais ou comunidades indígenas;\n\nII - o usufruto exclusivo das riquezas naturais e de todas as utilidades existentes nas terras ocupadas por grupos tribais ou comunidades indígenas e nas áreas a eles reservadas;\n\nIII - os bens móveis ou imóveis, adquiridos a qualquer título.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art%2039.%20Constituem%20bens%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. São titulares do Patrimônio Indígena:\n\nI - a população indígena do País, no tocante a bens ou rendas pertencentes ou destinadas aos silvícolas, sem discriminação de pessoas ou grupos tribais;\n\nII - o grupo tribal ou comunidade indígena determinada, quanto à posse e usufruto das terras por ele exclusivamente ocupadas, ou a ele reservadas;\n\nIII - a comunidade indígena ou grupo tribal nomeado no título aquisitivo da propriedade, em relação aos respectivos imóveis ou móveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2040.%20S%C3%A3o%20titulares%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Não integram o Patrimônio Indígena:\n\nI - as terras de exclusiva posse ou domínio do índio ou silvícola, individualmente considerado, e o usufruto das respectivas riquezas naturais e utilidades;\n\nII - a habitação, os móveis e utensílios domésticos, os objetos de uso pessoal, os instrumentos de trabalho e os produtos da lavoura, caça, pesca e coleta ou do trabalho em geral dos silvícolas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2041.%20N%C3%A3o%20integram%20o%20Patrim%C3%B4nio%20Ind%C3%ADgena%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Cabe ao órgão de assistência a gestão do Patrimônio Indígena, propiciando-se, porém, a participação dos silvícolas e dos grupos tribais na administração dos próprios bens, sendo-lhes totalmente confiado o encargo, quando demonstrem capacidade efetiva para o seu exercício.\n\nParágrafo único. O arrolamento dos bens do Patrimônio Indígena será permanentemente atualizado, procedendo-se à fiscalização rigorosa de sua gestão, mediante controle interno e externo, a fim de tornar efetiva a responsabilidade dos seus administradores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2042.%20Cabe%20ao%20%C3%B3rg%C3%A3o%20de%20assist%C3%AAncia%20a%20gest%C3%A3o%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%2C%20propiciando-se%2C%20por%C3%A9m%2C%20a%20participa%C3%A7%C3%A3o%20dos%20silv%C3%ADcolas%20e%20dos%20grupos%20tribais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A renda indígena é a resultante da aplicação de bens e utilidades integrantes do Patrimônio Indígena, sob a responsabilidade do órgão de assistência ao índio.\n\n§ 1º A renda indígena será preferencialmente reaplicada em atividades rentáveis ou utilizada em programas de assistência ao índio.\n\n§ 2° A reaplicação prevista no parágrafo anterior reverterá principalmente em benefício da comunidade que produziu os primeiros resultados econômicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2043.%20A%20renda%20ind%C3%ADgena%20%C3%A9%20a%20resultante%20da%20aplica%C3%A7%C3%A3o%20de%20bens%20e%20utilidades%20integrantes%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%2C%20sob%20a%20responsabilidade%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As riquezas do solo, nas áreas indígenas, somente pelos silvícolas podem ser exploradas, cabendo-lhes com exclusividade o exercício da garimpagem, faiscação e cata das áreas referidas. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2044.%20As%20riquezas%20do%20solo%2C%20nas%20%C3%A1reas%20ind%C3%ADgenas%2C%20somente%20pelos%20silv%C3%ADcolas%20podem%20ser%20exploradas%2C%20cabendo-lhes%20com%20exclusividade%20o%20exerc%C3%ADcio%20da%20garimpagem%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A exploração das riquezas do subsolo nas áreas pertencentes aos índios, ou do domínio da União, mas na posse de comunidades indígenas, far-se-á nos termos da legislação vigente, observado o disposto nesta Lei. (Regulamento)\n\n§ 1º O Ministério do Interior, através do órgão competente de assistência aos índios, representará os interesses da União, como proprietária do solo, mas a participação no resultado da exploração, as indenizações e a renda devida pela ocupação do terreno, reverterão em benefício dos índios e constituirão fontes de renda indígena.\n\n§ 2º Na salvaguarda dos interesses do Patrimônio Indígena e do bem-estar dos silvícolas, a autorização de pesquisa ou lavra, a terceiros, nas posses tribais, estará condicionada a prévio entendimento com o órgão de assistência ao índio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2045.%20A%20explora%C3%A7%C3%A3o%20das%20riquezas%20do%20subsolo%20nas%20%C3%A1reas%20pertencentes%20aos%20%C3%ADndios%2C%20ou%20do%20dom%C3%ADnio%20da%20Uni%C3%A3o%2C%20mas%20na%20posse%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O corte de madeira nas florestas indígenas, consideradas em regime de preservação permanente, de acordo com a letra g e § 2º, do artigo 3°, do Código Florestal, está condicionado à existência de programas ou projetos para o aproveitamento das terras respectivas na exploração agropecuária, na indústria ou no reflorestamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2046.%20O%20corte%20de%20madeira%20nas%20florestas%20ind%C3%ADgenas%2C%20consideradas%20em%20regime%20de%20preserva%C3%A7%C3%A3o%20permanente%2C%20de%20acordo%20com%20a%20letra%20g%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. É assegurado o respeito ao patrimônio cultural das comunidades indígenas, seus valores artísticos e meios de expressão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2047.%20%C3%89%20assegurado%20o%20respeito%20ao%20patrim%C3%B4nio%20cultural%20das%20comunidades%20ind%C3%ADgenas%2C%20seus%20valores%20art%C3%ADsticos%20e%20meios%20de%20express%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Estende-se à população indígena, com as necessárias adaptações, o sistema de ensino em vigor no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2048.%20Estende-se%20%C3%A0%20popula%C3%A7%C3%A3o%20ind%C3%ADgena%2C%20com%20as%20necess%C3%A1rias%20adapta%C3%A7%C3%B5es%2C%20o%20sistema%20de%20ensino%20em%20vigor%20no%20Pa%C3%ADs.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A alfabetização dos índios far-se-á na língua do grupo a que pertençam, e em português, salvaguardado o uso da primeira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2049.%20A%20alfabetiza%C3%A7%C3%A3o%20dos%20%C3%ADndios%20far-se-%C3%A1%20na%20l%C3%ADngua%20do%20grupo%20a%20que%20perten%C3%A7am%2C%20e%20em%20portugu%C3%AAs%2C%20salvaguardado%20o%20uso%20da%20primeira.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A educação do índio será orientada para a integração na comunhão nacional mediante processo de gradativa compreensão dos problemas gerais e valores da sociedade nacional, bem como do aproveitamento das suas aptidões individuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2050.%20A%20educa%C3%A7%C3%A3o%20do%20%C3%ADndio%20ser%C3%A1%20orientada%20para%20a%20integra%C3%A7%C3%A3o%20na%20comunh%C3%A3o%20nacional%20mediante%20processo%20de%20gradativa%20compreens%C3%A3o%20dos%20problemas%20gerais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. A assistência aos menores, para fins educacionais, será prestada, quanto possível, sem afastá-los do convívio familiar ou tribal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2051.%20A%20assist%C3%AAncia%20aos%20menores%2C%20para%20fins%20educacionais%2C%20ser%C3%A1%20prestada%2C%20quanto%20poss%C3%ADvel%2C%20sem%20afast%C3%A1-los%20do%20conv%C3%ADvio%20familiar%20ou%20tribal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Será proporcionada ao índio a formação profissional adequada, de acordo com o seu grau de aculturação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2052.%20Ser%C3%A1%20proporcionada%20ao%20%C3%ADndio%20a%20forma%C3%A7%C3%A3o%20profissional%20adequada%2C%20de%20acordo%20com%20o%20seu%20grau%20de%20acultura%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O artesanato e as indústrias rurais serão estimulados, no sentido de elevar o padrão de vida do índio com a conveniente adaptação às condições técnicas modernas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2053.%20O%20artesanato%20e%20as%20ind%C3%BAstrias%20rurais%20ser%C3%A3o%20estimulados%2C%20no%20sentido%20de%20elevar%20o%20padr%C3%A3o%20de%20vida%20do%20%C3%ADndio%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Os índios têm direito aos meios de proteção à saúde facultados à comunhão nacional.\n\nParágrafo único. Na infância, na maternidade, na doença e na velhice, deve ser assegurada ao silvícola, especial assistência dos poderes públicos, em estabelecimentos a esse fim destinados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2054.%20Os%20%C3%ADndios%20t%C3%AAm%20direito%20aos%20meios%20de%20prote%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20facultados%20%C3%A0%20comunh%C3%A3o%20nacional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O regime geral da previdência social será extensivo aos índios, atendidas as condições sociais, econômicas e culturais das comunidades beneficiadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2055.%20O%20regime%20geral%20da%20previd%C3%AAncia%20social%20ser%C3%A1%20extensivo%20aos%20%C3%ADndios%2C%20atendidas%20as%20condi%C3%A7%C3%B5es%20sociais%2C%20econ%C3%B4micas%20e%20culturais%20das%20comunidades%20beneficiadas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. No caso de condenação de índio por infração penal, a pena deverá ser atenuada e na sua aplicação o Juiz atenderá também ao grau de integração do silvícola.\n\nParágrafo único. As penas de reclusão e de detenção serão cumpridas, se possível, em regime especial de semiliberdade, no local de funcionamento do órgão federal de assistência aos índios mais próximos da habitação do condenado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2056.%20No%20caso%20de%20condena%C3%A7%C3%A3o%20de%20%C3%ADndio%20por%20infra%C3%A7%C3%A3o%20penal%2C%20a%20pena%20dever%C3%A1%20ser%20atenuada%20e%20na%20sua%20aplica%C3%A7%C3%A3o%20o%20Juiz",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Será tolerada a aplicação, pelos grupos tribais, de acordo com as instituições próprias, de sanções penais ou disciplinares contra os seus membros, desde que não revistam caráter cruel ou infamante, proibida em qualquer caso a pena de morte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2057.%20Ser%C3%A1%20tolerada%20a%20aplica%C3%A7%C3%A3o%2C%20pelos%20grupos%20tribais%2C%20de%20acordo%20com%20as%20institui%C3%A7%C3%B5es%20pr%C3%B3prias%2C%20de%20san%C3%A7%C3%B5es%20penais%20ou%20disciplinares%20contra%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Constituem crimes contra os índios e a cultura indígena:\n\nI - escarnecer de cerimônia, rito, uso, costume ou tradição culturais indígenas, vilipendiá-los ou perturbar, de qualquer modo, a sua prática. Pena - detenção de um a três meses;\n\nII - utilizar o índio ou comunidade indígena como objeto de propaganda turística ou de exibição para fins lucrativos. Pena - detenção de dois a seis meses;\n\nIII - propiciar, por qualquer meio, a aquisição, o uso e a disseminação de bebidas alcoólicas, nos grupos tribais ou entre índios não integrados. Pena - detenção de seis meses a dois anos.\n\nParágrafo único. As penas estatuídas neste artigo são agravadas de um terço, quando o crime for praticado por funcionário ou empregado do órgão de assistência ao índio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2058.%20Constituem%20crimes%20contra%20os%20%C3%ADndios%20e%20a%20cultura%20ind%C3%ADgena%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. No caso de crime contra a pessoa, o patrimônio ou os costumes, em que o ofendido seja índio não integrado ou comunidade indígena, a pena será agravada de um terço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2059.%20No%20caso%20de%20crime%20contra%20a%20pessoa%2C%20o%20patrim%C3%B4nio%20ou%20os%20costumes%2C%20em%20que%20o%20ofendido%20seja%20%C3%ADndio%20n%C3%A3o%20integrado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Os bens e rendas do Patrimônio Indígena gozam de plena isenção tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2060.%20Os%20bens%20e%20rendas%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%20gozam%20de%20plena%20isen%C3%A7%C3%A3o%20tribut%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. São extensivos aos interesses do Patrimônio Indígena os privilégios da Fazenda Pública, quanto à impenhorabilidade de bens, rendas e serviços, ações especiais, prazos processuais, juros e custas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2061.%20S%C3%A3o%20extensivos%20aos%20interesses%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%20os%20privil%C3%A9gios%20da%20Fazenda%20P%C3%BAblica%2C%20quanto%20%C3%A0%20impenhorabilidade%20de%20bens%2C%20rendas%20e%20servi%C3%A7os%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Ficam declaradas a nulidade e a extinção dos efeitos jurídicos dos atos de qualquer natureza que tenham por objeto o domínio, a posse ou a ocupação das terras habitadas pelos índios ou comunidades indígenas.\n\n§ 1° Aplica-se o disposto deste artigo às terras que tenham sido desocupadas pelos índios ou comunidades indígenas em virtude de ato ilegítimo de autoridade e particular.\n\n§ 2º Ninguém terá direito a ação ou indenização contra a União, o órgão de assistência ao índio ou os silvícolas em virtude da nulidade e extinção de que trata este artigo, ou de suas conseqüências econômicas.\n\n§ 3º Em caráter excepcional e a juízo exclusivo do dirigente do órgão de assistência ao índio, será permitida a continuação, por prazo razoável dos efeitos dos contratos de arrendamento em vigor na data desta Lei, desde que a sua extinção acarrete graves conseqüências sociais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2062.%20Ficam%20declaradas%20a%20nulidade%20e%20a%20extin%C3%A7%C3%A3o%20dos%20efeitos%20jur%C3%ADdicos%20dos%20atos%20de%20qualquer%20natureza%20que%20tenham%20por%20objeto%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Nenhuma medida judicial será concedida liminarmente em causas que envolvam interesse de silvícolas ou do Patrimônio Indígena, sem prévia audiência da União e do órgão de proteção ao índio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2063.%20Nenhuma%20medida%20judicial%20ser%C3%A1%20concedida%20liminarmente%20em%20causas%20que%20envolvam%20interesse%20de%20silv%C3%ADcolas%20ou%20do%20Patrim%C3%B4nio%20Ind%C3%ADgena%2C%20sem%20pr%C3%A9via%20audi%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64 (Vetado).\n\nParágrafo único. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2064%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. O Poder Executivo fará, no prazo de cinco anos, a demarcação das terras indígenas, ainda não demarcadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2065.%20O%20Poder%20Executivo%20far%C3%A1%2C%20no%20prazo%20de%20cinco%20anos%2C%20a%20demarca%C3%A7%C3%A3o%20das%20terras%20ind%C3%ADgenas%2C%20ainda%20n%C3%A3o%20demarcadas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. O órgão de proteção ao silvícola fará divulgar e respeitar as normas da Convenção 107, promulgada pelo Decreto nº 58.824, de 14 julho de 1966.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2066.%20O%20%C3%B3rg%C3%A3o%20de%20prote%C3%A7%C3%A3o%20ao%20silv%C3%ADcola%20far%C3%A1%20divulgar%20e%20respeitar%20as%20normas%20da%20Conven%C3%A7%C3%A3o%20107%2C%20promulgada%20pelo%20Decreto%20n%C2%BA%2058.824%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. É mantida a Lei nº 5.371, de 5 de dezembro de 1967.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2067.%20%C3%89%20mantida%20a%20Lei%20n%C2%BA%205.371%2C%20de%205%20de%20dezembro%20de%201967.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nEMÍLIO G. MEDICI Alfredo Buzaid Antônio Delfim Netto José Costa Cavalcanti\n\nEste texto não substitui o publicado no DOU de 21.12.1973\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm#:~:text=Art.%2068.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": null
+    }
+  }
+}

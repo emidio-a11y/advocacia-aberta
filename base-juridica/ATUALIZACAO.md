@@ -71,6 +71,33 @@ Cada saída registra o SHA-256 da fonte, o total de registros, a versão do gera
 parâmetros. Alterar o algoritmo exige nova versão no manifesto e revisão das diferenças
 antes da promoção.
 
+## Expansão da legislação
+
+Diplomas novos entram pela expansão dirigida pelo manifesto
+[`expansao/normas.json`](expansao/normas.json), em fatias por grupo:
+
+```bash
+python3 ferramentas/manutencao/gerar_expansao_legislacao.py --listar
+python3 ferramentas/manutencao/gerar_expansao_legislacao.py --materializar <grupo>
+python3 ferramentas/manutencao/atualizar_base_juridica.py executar \
+  --execucao <data>-<grupo> --conjunto legislacao_<grupo>
+python3 ferramentas/manutencao/revisar_expansao.py \
+  --execucao <data>-<grupo> --conjunto legislacao_<grupo>
+python3 ferramentas/manutencao/atualizar_base_juridica.py promover \
+  --execucao <data>-<grupo> --conjunto legislacao_<grupo> --confirmar PROMOVER
+```
+
+Materializar cria o conjunto em `fontes.json`, stubs vazios em `data/` e as
+entradas geradas do registro do motor; como o diploma novo parte de coleção
+vazia, o diff da execução mostra somente adições e o gate volumétrico exige
+`--aceitar-mudanca-volumosa` depois da revisão. O relatório de revisão confere
+contagens, sequência de numeração, cabeçalho oficial contra o manifesto e os
+dispositivos excluídos por pertencerem a outra norma.
+`gerar_expansao_legislacao.py --verificar` confere a sincronia
+(manifesto ↔ `fontes.json` ↔ registro do motor ↔ `data/`) e roda nos testes.
+Depois da promoção de cada fatia, atualize os fixtures de cobertura, acrescente
+consultas julgadas à avaliação e registre a fatia no catálogo.
+
 ## Monitoramento de mudanças
 
 O subcomando `monitorar` responde, sem preparar candidatos nem tocar nos dados

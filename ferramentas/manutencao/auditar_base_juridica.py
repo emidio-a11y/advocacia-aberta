@@ -193,7 +193,7 @@ def auditar() -> dict[str, Any]:
     )
     declarados = dict(
         re.findall(
-            r'^\s{2}([A-Z]+):\s*\{\s*arquivo:\s*"\.\./\.\./data/(lei_[^"]+\.json)"',
+            r'^\s{2}([A-Z][A-Z0-9]*):\s*\{\s*arquivo:\s*"\.\./\.\./data/(lei_[^"]+\.json)"',
             legislacao_ts,
             re.MULTILINE,
         )
@@ -202,7 +202,7 @@ def auditar() -> dict[str, Any]:
         # Compatibilidade com o registro simples usado antes da centralização.
         declarados = dict(
             re.findall(
-                r'^\s{2}([A-Z]+):\s+"\.\./\.\./data/(lei_[^"]+\.json)"',
+                r'^\s{2}([A-Z][A-Z0-9]*):\s+"\.\./\.\./data/(lei_[^"]+\.json)"',
                 legislacao_ts,
                 re.MULTILINE,
             )

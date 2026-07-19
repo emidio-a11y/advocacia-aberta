@@ -1,0 +1,1487 @@
+{
+  "_meta": {
+    "codigo": "EOAB",
+    "nome": "Estatuto da Advocacia e a Ordem dos Advogados do Brasil",
+    "lei": "Lei 8.906/1994",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+    "total_artigos": 92,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º São atividades privativas de advocacia:\n\nI - a postulação a qualquer órgão do Poder Judiciário e aos juizados especiais; (Vide ADIN 1.127-8)\n\nII - as atividades de consultoria, assessoria e direção jurídicas.\n\n§ 1º Não se inclui na atividade privativa de advocacia a impetração de habeas corpus em qualquer instância ou tribunal.\n\n§ 2º Os atos e contratos constitutivos de pessoas jurídicas, sob pena de nulidade, só podem ser admitidos a registro, nos órgãos competentes, quando visados por advogados.\n\n§ 3º É vedada a divulgação de advocacia em conjunto com outra atividade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%201%C2%BA%20S%C3%A3o%20atividades%20privativas%20de%20advocacia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O advogado é indispensável à administração da justiça.\n\n§ 1º No seu ministério privado, o advogado presta serviço público e exerce função social.\n\n§ 2º No processo judicial, o advogado contribui, na postulação de decisão favorável ao seu constituinte, ao convencimento do julgador, e seus atos constituem múnus público.\n\n§ 2º-A. No processo administrativo, o advogado contribui com a postulação de decisão favorável ao seu constituinte, e os seus atos constituem múnus público. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 3º No exercício da profissão, o advogado é inviolável por seus atos e manifestações, nos limites desta lei.\n\nArt. 2º-A. O advogado pode contribuir com o processo legislativo e com a elaboração de normas jurídicas, no âmbito dos Poderes da República. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%202%C2%BA%20O%20advogado%20%C3%A9%20indispens%C3%A1vel%20%C3%A0%20administra%C3%A7%C3%A3o%20da%20justi%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são privativos dos inscritos na Ordem dos Advogados do Brasil (OAB),\n\n§ 1º Exercem atividade de advocacia, sujeitando-se ao regime desta lei, além do regime próprio a que se subordinem, os integrantes da Advocacia-Geral da União, da Procuradoria da Fazenda Nacional, da Defensoria Pública e das Procuradorias e Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios e das respectivas entidades de administração indireta e fundacional. (Vide ADIN 4636) (Vide ADIN 6021)\n\n§ 2º O estagiário de advocacia, regularmente inscrito, pode praticar os atos previstos no art. 1º, na forma do regimento geral, em conjunto com advogado e sob responsabilidade deste.\n\nArt. 3º-A. Os serviços profissionais de advogado são, por sua natureza, técnicos e singulares, quando comprovada sua notória especialização, nos termos da lei. (Incluído pela Lei nº 14.039, de 2020)\n\nParágrafo único. Considera-se notória especialização o profissional ou a sociedade de advogados cujo conceito no campo de sua especialidade, decorrente de desempenho anterior, estudos, experiências, publicações, organização, aparelhamento, equipe técnica ou de outros requisitos relacionados com suas atividades, permita inferir que o seu trabalho é essencial e indiscutivelmente o mais adequado à plena satisfação do objeto do contrato. (Incluído pela Lei nº 14.039, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%203%C2%BA%20O%20exerc%C3%ADcio%20da%20atividade%20de%20advocacia%20no%20territ%C3%B3rio%20brasileiro%20e%20a%20denomina%C3%A7%C3%A3o%20de%20advogado%20s%C3%A3o%20privativos%20dos%20inscritos%20na%20Ordem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º São nulos os atos privativos de advogado praticados por pessoa não inscrita na OAB, sem prejuízo das sanções civis, penais e administrativas.\n\nParágrafo único. São também nulos os atos praticados por advogado impedido - no âmbito do impedimento - suspenso, licenciado ou que passar a exercer atividade incompatível com a advocacia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%204%C2%BA%20S%C3%A3o%20nulos%20os%20atos%20privativos%20de%20advogado%20praticados%20por%20pessoa%20n%C3%A3o%20inscrita%20na%20OAB%2C%20sem%20preju%C3%ADzo%20das%20san%C3%A7%C3%B5es%20civis%2C%20penais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O advogado postula, em juízo ou fora dele, fazendo prova do mandato.\n\n§ 1º O advogado, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período.\n\n§ 2º A procuração para o foro em geral habilita o advogado a praticar todos os atos judiciais, em qualquer juízo ou instância, salvo os que exijam poderes especiais.\n\n§ 3º O advogado que renunciar ao mandato continuará, durante os dez dias seguintes à notificação da renúncia, a representar o mandante, salvo se for substituído antes do término desse prazo.\n\n§ 4º As atividades de consultoria e assessoria jurídicas podem ser exercidas de modo verbal ou por escrito, a critério do advogado e do cliente, e independem de outorga de mandato ou de formalização por contrato de honorários. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%205%C2%BA%20O%20advogado%20postula%2C%20em%20ju%C3%ADzo%20ou%20fora%20dele%2C%20fazendo%20prova%20do%20mandato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Não há hierarquia nem subordinação entre advogados, magistrados e membros do Ministério Público, devendo todos tratar-se com consideração e respeito recíprocos.\n\nParágrafo único. As autoridades, os servidores públicos e os serventuários da justiça devem dispensar ao advogado, no exercício da profissão, tratamento compatível com a dignidade da advocacia e condições adequadas a seu desempenho.\n\n§ 1º As autoridades e os servidores públicos dos Poderes da República, os serventuários da Justiça e os membros do Ministério Público devem dispensar ao advogado, no exercício da profissão, tratamento compatível com a dignidade da advocacia e condições adequadas a seu desempenho, preservando e resguardando, de ofício, a imagem, a reputação e a integridade do advogado nos termos desta Lei. (Redação dada pela Lei nº 14.365, de 2022) (Renumerado do parágrafo único pela Lei nº 14.508, de 2022)\n\n§ 2º Durante as audiências de instrução e julgamento realizadas no Poder Judiciário, nos procedimentos de jurisdição contenciosa ou voluntária, os advogados do autor e do requerido devem permanecer no mesmo plano topográfico e em posição equidistante em relação ao magistrado que as presidir. (Incluído pela Lei nº 14.508, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%206%C2%BA%20N%C3%A3o%20h%C3%A1%20hierarquia%20nem%20subordina%C3%A7%C3%A3o%20entre%20advogados%2C%20magistrados%20e%20membros%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20devendo%20todos%20tratar-se%20com%20considera%C3%A7%C3%A3o%20e%20respeito",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º São direitos do advogado:\n\nI - exercer, com liberdade, a profissão em todo o território nacional;\n\nII - ter respeitada, em nome da liberdade de defesa e do sigilo profissional, a inviolabilidade de seu escritório ou local de trabalho, de seus arquivos e dados, de sua correspondência e de suas comunicações, inclusive telefônicas ou afins, salvo caso de busca ou apreensão determinada por magistrado e acompanhada de representante da OAB;\n\nII – a inviolabilidade de seu escritório ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondência escrita, eletrônica, telefônica e telemática, desde que relativas ao exercício da advocacia; (Redação dada pela Lei nº 11.767, de 2008)\n\nIII - comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procuração, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicáveis;\n\nIV - ter a presença de representante da OAB, quando preso em flagrante, por motivo ligado ao exercício da advocacia, para lavratura do auto respectivo, sob pena de nulidade e, nos demais casos, a comunicação expressa à seccional da OAB;\n\nV - não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, assim reconhecidas pela OAB, e, na sua falta, em prisão domiciliar; (Vide ADIN 1.127-8)\n\nVI - ingressar livremente:\n\na) nas salas de sessões dos tribunais, mesmo além dos cancelos que separam a parte reservada aos magistrados;\n\nb) nas salas e dependências de audiências, secretarias, cartórios, ofícios de justiça, serviços notariais e de registro, e, no caso de delegacias e prisões, mesmo fora da hora de expediente e independentemente da presença de seus titulares;\n\nc) em qualquer edifício ou recinto em que funcione repartição judicial ou outro serviço público onde o advogado deva praticar ato ou colher prova ou informação útil ao exercício da atividade profissional, dentro do expediente ou fora dele, e ser atendido, desde que se ache presente qualquer servidor ou empregado;\n\nd) em qualquer assembléia ou reunião de que participe ou possa participar o seu cliente, ou perante a qual este deva comparecer, desde que munido de poderes especiais;\n\nVII - permanecer sentado ou em pé e retirar-se de quaisquer locais indicados no inciso anterior, independentemente de licença;\n\nVIII - dirigir-se diretamente aos magistrados nas salas e gabinetes de trabalho, independentemente de horário previamente marcado ou outra condição, observando-se a ordem de chegada;\n\nIX - sustentar oralmente as razões de qualquer recurso ou processo, nas sessões de julgamento, após o voto do relator, em instância judicial ou administrativa, pelo prazo de quinze minutos, salvo se prazo maior for concedido; (Vide ADIN 1.127-8) (Vide ADIN 1.105-7)\n\nIX-A - (VETADO); (Incluído pela Lei nº 14.365, de 2022)\n\nX - usar da palavra, pela ordem, em qualquer juízo ou tribunal, mediante intervenção sumária, para esclarecer equívoco ou dúvida surgida em relação a fatos, documentos ou afirmações que influam no julgamento, bem como para replicar acusação ou censura que lhe forem feitas;\n\nX - usar da palavra, pela ordem, em qualquer tribunal judicial ou administrativo, órgão de deliberação coletiva da administração pública ou comissão parlamentar de inquérito, mediante intervenção pontual e sumária, para esclarecer equívoco ou dúvida surgida em relação a fatos, a documentos ou a afirmações que influam na decisão; (Redação dada pela Lei nº 14.365, de 2022)\n\nXI - reclamar, verbalmente ou por escrito, perante qualquer juízo, tribunal ou autoridade, contra a inobservância de preceito de lei, regulamento ou regimento;\n\nXII - falar, sentado ou em pé, em juízo, tribunal ou órgão de deliberação coletiva da Administração Pública ou do Poder Legislativo;\n\nXIII - examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estejam sujeitos a sigilo, assegurada a obtenção de cópias, podendo tomar apontamentos;\n\nXIII - examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estiverem sujeitos a sigilo ou segredo de justiça, assegurada a obtenção de cópias, com possibilidade de tomar apontamentos; (Redação dada pela Lei nº 13.793, de 2019)\n\nXIV - examinar em qualquer repartição policial, mesmo sem procuração, autos de flagrante e de inquérito, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos;\n\nXIV - examinar, em qualquer instituição responsável por conduzir investigação, mesmo sem procuração, autos de flagrante e de investigações de qualquer natureza, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos, em meio físico ou digital; (Redação dada pela Lei nº 13.245, de 2016)\n\nXV - ter vista dos processos judiciais ou administrativos de qualquer natureza, em cartório ou na repartição competente, ou retirá-los pelos prazos legais;\n\nXVI - retirar autos de processos findos, mesmo sem procuração, pelo prazo de dez dias;\n\nXVII - ser publicamente desagravado, quando ofendido no exercício da profissão ou em razão dela;\n\nXVIII - usar os símbolos privativos da profissão de advogado;\n\nXIX - recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou foi advogado, mesmo quando autorizado ou solicitado pelo constituinte, bem como sobre fato que constitua sigilo profissional;\n\nXX - retirar-se do recinto onde se encontre aguardando pregão para ato judicial, após trinta minutos do horário designado e ao qual ainda não tenha comparecido a autoridade que deva presidir a ele, mediante comunicação protocolizada em juízo.\n\nXXI - assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento e, subsequentemente, de todos os elementos investigatórios e probatórios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apuração: (Incluído pela Lei nº 13.245, de 2016)\n\na) apresentar razões e quesitos; (Incluído pela Lei nº 13.245, de 2016)\n\nb) (VETADO). (Incluído pela Lei nº 13.245, de 2016)\n\n§ 1º Não se aplica o disposto nos incisos XV e XVI:\n\n1) aos processos sob regime de segredo de justiça;\n\n2) quando existirem nos autos documentos originais de difícil restauração ou ocorrer circunstância relevante que justifique a permanência dos autos no cartório, secretaria ou repartição, reconhecida pela autoridade em despacho motivado, proferido de ofício, mediante representação ou a requerimento da parte interessada;\n\n3) até o encerramento do processo, ao advogado que houver deixado de devolver os respectivos autos no prazo legal, e só o fizer depois de intimado.\n\n§ 1º (Revogado). (Redação dada pela Lei nº 14.365, de 2022) (Vide ADI 7231)\n\n1) (revogado); (Redação dada pela Lei nº 14.365, de 2022)\n\n2) (revogado); (Redação dada pela Lei nº 14.365, de 2022)\n\n3) (revogado). (Redação dada pela Lei nº 14.365, de 2022)\n\n§ 2º O advogado tem imunidade profissional, não constituindo injúria, difamação ou desacato puníveis qualquer manifestação de sua parte, no exercício de sua atividade, em juízo ou fora dele, sem prejuízo das sanções disciplinares perante a OAB, pelos excessos que cometer. (Vide ADIN 1.127-8)\n\n§ 2º (Revogado). (Redação dada pela Lei nº 14.365, de 2022) (Vide ADI 7231)\n\n§ 2º-A. (VETADO). (Incluído pela Lei nº 14.365, de 2022)\n\n§ 2º-B. Poderá o advogado realizar a sustentação oral no recurso interposto contra a decisão monocrática de relator que julgar o mérito ou não conhecer dos seguintes recursos ou ações: (Incluído pela Lei nº 14.365, de 2022)\n\nI - recurso de apelação; (Incluído pela Lei nº 14.365, de 2022)\n\nII - recurso ordinário; (Incluído pela Lei nº 14.365, de 2022)\n\nIII - recurso especial; (Incluído pela Lei nº 14.365, de 2022)\n\nIV - recurso extraordinário; (Incluído pela Lei nº 14.365, de 2022)\n\nV - embargos de divergência; (Incluído pela Lei nº 14.365, de 2022)\n\nVI - ação rescisória, mandado de segurança, reclamação, habeas corpus e outras ações de competência originária. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 3º O advogado somente poderá ser preso em flagrante, por motivo de exercício da profissão, em caso de crime inafiançável, observado o disposto no inciso IV deste artigo.\n\n§ 4º O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso e controle assegurados à OAB. (Vide ADIN 1.127-8)\n\n§ 5º No caso de ofensa a inscrito na OAB, no exercício da profissão ou de cargo ou função de órgão da OAB, o conselho competente deve promover o desagravo público do ofendido, sem prejuízo da responsabilidade criminal em que incorrer o infrator.\n\n§ 6o Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes. (Incluído pela Lei nº 11.767, de 2008)\n\n§ 6º-A. A medida judicial cautelar que importe na violação do escritório ou do local de trabalho do advogado será determinada em hipótese excepcional, desde que exista fundamento em indício, pelo órgão acusatório. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-B. É vedada a determinação da medida cautelar prevista no § 6º-A deste artigo se fundada exclusivamente em elementos produzidos em declarações do colaborador sem confirmação por outros meios de prova. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-C. O representante da OAB referido no § 6º deste artigo tem o direito a ser respeitado pelos agentes responsáveis pelo cumprimento do mandado de busca e apreensão, sob pena de abuso de autoridade, e o dever de zelar pelo fiel cumprimento do objeto da investigação, bem como de impedir que documentos, mídias e objetos não relacionados à investigação, especialmente de outros processos do mesmo cliente ou de outros clientes que não sejam pertinentes à persecução penal, sejam analisados, fotografados, filmados, retirados ou apreendidos do escritório de advocacia. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-D. No caso de inviabilidade técnica quanto à segregação da documentação, da mídia ou dos objetos não relacionados à investigação, em razão da sua natureza ou volume, no momento da execução da decisão judicial de apreensão ou de retirada do material, a cadeia de custódia preservará o sigilo do seu conteúdo, assegurada a presença do representante da OAB, nos termos dos §§ 6º-F e 6º-G deste artigo. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-E. Na hipótese de inobservância do § 6º-D deste artigo pelo agente público responsável pelo cumprimento do mandado de busca e apreensão, o representante da OAB fará o relatório do fato ocorrido, com a inclusão dos nomes dos servidores, dará conhecimento à autoridade judiciária e o encaminhará à OAB para a elaboração de notícia-crime. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-F. É garantido o direito de acompanhamento por representante da OAB e pelo profissional investigado durante a análise dos documentos e dos dispositivos de armazenamento de informação pertencentes a advogado, apreendidos ou interceptados, em todos os atos, para assegurar o cumprimento do disposto no inciso II do caput deste artigo. (Promulgação partes vetadas). (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-G. A autoridade responsável informará, com antecedência mínima de 24 (vinte e quatro) horas, à seccional da OAB a data, o horário e o local em que serão analisados os documentos e os equipamentos apreendidos, garantido o direito de acompanhamento, em todos os atos, pelo representante da OAB e pelo profissional investigado para assegurar o disposto no § 6º-C deste artigo. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-H. Em casos de urgência devidamente fundamentada pelo juiz, a análise dos documentos e dos equipamentos apreendidos poderá acontecer em prazo inferior a 24 (vinte e quatro) horas, garantido o direito de acompanhamento, em todos os atos, pelo representante da OAB e pelo profissional investigado para assegurar o disposto no § 6º-C deste artigo. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º-I. É vedado ao advogado efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância disso importará em processo disciplinar, que poderá culminar com a aplicação do disposto no inciso III do caput do art. 35 desta Lei, sem prejuízo das penas previstas no art. 154 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal). (Incluído pela Lei nº 14.365, de 2022)\n\n§ 7o A ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade. (Incluído pela Lei nº 11.767, de 2008)\n\n§ 8o (VETADO) (Incluído pela Lei nº 11.767, de 2008)\n\n§ 9o (VETADO) (Incluído pela Lei nº 11.767, de 2008)\n\n§ 10. Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV. (Incluído pela Lei nº 13.245, de 2016)\n\n§ 11. No caso previsto no inciso XIV, a autoridade competente poderá delimitar o acesso do advogado aos elementos de prova relacionados a diligências em andamento e ainda não documentados nos autos, quando houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências. (Incluído pela Lei nº 13.245, de 2016)\n\n§ 12. A inobservância aos direitos estabelecidos no inciso XIV, o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças já incluídas no caderno investigativo implicará responsabilização criminal e funcional por abuso de autoridade do responsável que impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa, sem prejuízo do direito subjetivo do advogado de requerer acesso aos autos ao juiz competente. (Incluído pela Lei nº 13.245, de 2016)\n\n§ 13. O disposto nos incisos XIII e XIV do caput deste artigo aplica-se integralmente a processos e a procedimentos eletrônicos, ressalvado o disposto nos §§ 10 e 11 deste artigo. (Incluído pela Lei nº 13.793, de 2019)\n\n§ 14. Cabe, privativamente, ao Conselho Federal da OAB, em processo disciplinar próprio, dispor, analisar e decidir sobre a prestação efetiva do serviço jurídico realizado pelo advogado. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 15. Cabe ao Conselho Federal da OAB dispor, analisar e decidir sobre os honorários advocatícios dos serviços jurídicos realizados pelo advogado, resguardado o sigilo, nos termos do Capítulo VI desta Lei, e observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 16. É nulo, em qualquer esfera de responsabilização, o ato praticado com violação da competência privativa do Conselho Federal da OAB prevista no § 14 deste artigo. (Incluído pela Lei nº 14.365, de 2022)\n\nArt. 7o-A. São direitos da advogada: (Incluído pela Lei nº 13.363, de 2016)\n\nI - gestante: (Incluído pela Lei nº 13.363, de 2016)\n\na) entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X; (Incluído pela Lei nº 13.363, de 2016)\n\nb) reserva de vaga em garagens dos fóruns dos tribunais; (Incluído pela Lei nº 13.363, de 2016)\n\nII - lactante, adotante ou que der à luz, acesso a creche, onde houver, ou a local adequado ao atendimento das necessidades do bebê; (Incluído pela Lei nº 13.363, de 2016)\n\nIII - gestante, lactante, adotante ou que der à luz, preferência na ordem das sustentações orais e das audiências a serem realizadas a cada dia, mediante comprovação de sua condição; (Incluído pela Lei nº 13.363, de 2016)\n\nIV - adotante ou que der à luz, suspensão de prazos processuais quando for a única patrona da causa, desde que haja notificação por escrito ao cliente. (Incluído pela Lei nº 13.363, de 2016)\n\n§ 1o Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação. (Incluído pela Lei nº 13.363, de 2016)\n\n§ 2o Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943 (Consolidação das Leis do Trabalho). (Incluído pela Lei nº 13.363, de 2016)\n\n§ 3o O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no § 6o do art. 313 da Lei no 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 13.363, de 2016)\n\nArt. 7º-B Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei: (Incluído pela Lei nº 13.869. de 2019)\n\nPena - detenção, de 3 (três) meses a 1 (um) ano, e multa. (Incluído pela Lei nº 13.869. de 2019)\n\nPena - detenção, de 2 (dois) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%207%C2%BA%20S%C3%A3o%20direitos%20do%20advogado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Para inscrição como advogado é necessário:\n\nI - capacidade civil;\n\nII - diploma ou certidão de graduação em direito, obtido em instituição de ensino oficialmente autorizada e credenciada;\n\nIII - título de eleitor e quitação do serviço militar, se brasileiro;\n\nIV - aprovação em Exame de Ordem;\n\nV - não exercer atividade incompatível com a advocacia;\n\nVI - idoneidade moral;\n\nVII - prestar compromisso perante o conselho.\n\n§ 1º O Exame da Ordem é regulamentado em provimento do Conselho Federal da OAB.\n\n§ 2º O estrangeiro ou brasileiro, quando não graduado em direito no Brasil, deve fazer prova do título de graduação, obtido em instituição estrangeira, devidamente revalidado, além de atender aos demais requisitos previstos neste artigo.\n\n§ 3º A inidoneidade moral, suscitada por qualquer pessoa, deve ser declarada mediante decisão que obtenha no mínimo dois terços dos votos de todos os membros do conselho competente, em procedimento que observe os termos do processo disciplinar.\n\n§ 4º Não atende ao requisito de idoneidade moral aquele que tiver sido condenado por crime infamante, salvo reabilitação judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%208%C2%BA%20Para%20inscri%C3%A7%C3%A3o%20como%20advogado%20%C3%A9%20necess%C3%A1rio%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Para inscrição como estagiário é necessário:\n\nI - preencher os requisitos mencionados nos incisos I, III, V, VI e VII do art. 8º;\n\nII - ter sido admitido em estágio profissional de advocacia.\n\n§ 1º O estágio profissional de advocacia, com duração de dois anos, realizado nos últimos anos do curso jurídico, pode ser mantido pelas respectivas instituições de ensino superior pelos Conselhos da OAB, ou por setores, órgãos jurídicos e escritórios de advocacia credenciados pela OAB, sendo obrigatório o estudo deste Estatuto e do Código de Ética e Disciplina.\n\n§ 2º A inscrição do estagiário é feita no Conselho Seccional em cujo território se localize seu curso jurídico.\n\n§ 3º O aluno de curso jurídico que exerça atividade incompatível com a advocacia pode freqüentar o estágio ministrado pela respectiva instituição de ensino superior, para fins de aprendizagem, vedada a inscrição na OAB.\n\n§ 4º O estágio profissional poderá ser cumprido por bacharel em Direito que queira se inscrever na Ordem.\n\n§ 5º Em caso de pandemia ou em outras situações excepcionais que impossibilitem as atividades presenciais, declaradas pelo poder público, o estágio profissional poderá ser realizado no regime de teletrabalho ou de trabalho a distância em sistema remoto ou não, por qualquer meio telemático, sem configurar vínculo de emprego a adoção de qualquer uma dessas modalidades. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º Se houver concessão, pela parte contratante ou conveniada, de equipamentos, sistemas e materiais ou reembolso de despesas de infraestrutura ou instalação, todos destinados a viabilizar a realização da atividade de estágio prevista no § 5º deste artigo, essa informação deverá constar, expressamente, do convênio de estágio e do termo de estágio. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%209%C2%BA%20Para%20inscri%C3%A7%C3%A3o%20como%20estagi%C3%A1rio%20%C3%A9%20necess%C3%A1rio%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A inscrição principal do advogado deve ser feita no Conselho Seccional em cujo território pretende estabelecer o seu domicílio profissional, na forma do regulamento geral.\n\n§ 1º Considera-se domicílio profissional a sede principal da atividade de advocacia, prevalecendo, na dúvida, o domicílio da pessoa física do advogado.\n\n§ 2º Além da principal, o advogado deve promover a inscrição suplementar nos Conselhos Seccionais em cujos territórios passar a exercer habitualmente a profissão considerando-se habitualidade a intervenção judicial que exceder de cinco causas por ano.\n\n§ 3º No caso de mudança efetiva de domicílio profissional para outra unidade federativa, deve o advogado requerer a transferência de sua inscrição para o Conselho Seccional correspondente.\n\n§ 4º O Conselho Seccional deve suspender o pedido de transferência ou de inscrição suplementar, ao verificar a existência de vício ou ilegalidade na inscrição principal, contra ela representando ao Conselho Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2010.%20A%20inscri%C3%A7%C3%A3o%20principal%20do%20advogado%20deve%20ser%20feita%20no%20Conselho%20Seccional%20em%20cujo%20territ%C3%B3rio%20pretende%20estabelecer%20o%20seu%20domic%C3%ADlio%20profissional%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Cancela-se a inscrição do profissional que:\n\nI - assim o requerer;\n\nII - sofrer penalidade de exclusão;\n\nIII - falecer;\n\nIV - passar a exercer, em caráter definitivo, atividade incompatível com a advocacia;\n\nV - perder qualquer um dos requisitos necessários para inscrição.\n\n§ 1º Ocorrendo uma das hipóteses dos incisos II, III e IV, o cancelamento deve ser promovido, de ofício, pelo conselho competente ou em virtude de comunicação por qualquer pessoa.\n\n§ 2º Na hipótese de novo pedido de inscrição - que não restaura o número de inscrição anterior - deve o interessado fazer prova dos requisitos dos incisos I, V, VI e VII do art. 8º.\n\n§ 3º Na hipótese do inciso II deste artigo, o novo pedido de inscrição também deve ser acompanhado de provas de reabilitação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2011.%20Cancela-se%20a%20inscri%C3%A7%C3%A3o%20do%20profissional%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Licencia-se o profissional que:\n\nI - assim o requerer, por motivo justificado;\n\nII - passar a exercer, em caráter temporário, atividade incompatível com o exercício da advocacia;\n\nIII - sofrer doença mental considerada curável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2012.%20Licencia-se%20o%20profissional%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O documento de identidade profissional, na forma prevista no regulamento geral, é de uso obrigatório no exercício da atividade de advogado ou de estagiário e constitui prova de identidade civil para todos os fins legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2013.%20O%20documento%20de%20identidade%20profissional%2C%20na%20forma%20prevista%20no%20regulamento%20geral%2C%20%C3%A9%20de%20uso%20obrigat%C3%B3rio%20no%20exerc%C3%ADcio%20da%20atividade%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. É obrigatória a indicação do nome e do número de inscrição em todos os documentos assinados pelo advogado, no exercício de sua atividade.\n\nParágrafo único. É vedado anunciar ou divulgar qualquer atividade relacionada com o exercício da advocacia ou o uso da expressão escritório de advocacia, sem indicação expressa do nome e do número de inscrição dos advogados que o integrem ou o número de registro da sociedade de advogados na OAB.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2014.%20%C3%89%20obrigat%C3%B3ria%20a%20indica%C3%A7%C3%A3o%20do%20nome%20e%20do%20n%C3%BAmero%20de%20inscri%C3%A7%C3%A3o%20em%20todos%20os%20documentos%20assinados%20pelo%20advogado%2C%20no%20exerc%C3%ADcio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os advogados podem reunir-se em sociedade civil de prestação de serviço de advocacia, na forma disciplinada nesta lei e no regulamento geral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2015.%20Os%20advogados%20podem%20reunir-se%20em%20sociedade%20civil%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7o%20de%20advocacia%2C%20na%20forma%20disciplinada%20nesta%20lei%20e%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Não são admitidas a registro, nem podem funcionar, as sociedades de advogados que apresentem forma ou características mercantis, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam sócio não inscrito como advogado ou totalmente proibido de advogar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2016.%20N%C3%A3o%20s%C3%A3o%20admitidas%20a%20registro%2C%20nem%20podem%20funcionar%2C%20as%20sociedades%20de%20advogados%20que%20apresentem%20forma%20ou%20caracter%C3%ADsticas%20mercantis%2C%20que%20adotem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Além da sociedade, o sócio responde subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possa incorrer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2017.%20Al%C3%A9m%20da%20sociedade%2C%20o%20s%C3%B3cio%20responde%20subsidi%C3%A1ria%20e%20ilimitadamente%20pelos%20danos%20causados%20aos%20clientes%20por%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20no%20exerc%C3%ADcio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17-A"
+    },
+    "17-A": {
+      "numero": "17-A",
+      "texto": "Art. 17-A. O advogado poderá associar-se a uma ou mais sociedades de advogados ou sociedades unipessoais de advocacia, sem que estejam presentes os requisitos legais de vínculo empregatício, para prestação de serviços e participação nos resultados, na forma do Regulamento Geral e de Provimentos do Conselho Federal da OAB. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2017-A.%20O%20advogado%20poder%C3%A1%20associar-se%20a%20uma%20ou%20mais%20sociedades%20de%20advogados%20ou%20sociedades%20unipessoais%20de%20advocacia%2C%20sem%20que%20estejam%20presentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "17-B"
+    },
+    "17-B": {
+      "numero": "17-B",
+      "texto": "Art. 17-B. A associação de que trata o art. 17-A desta Lei dar-se-á por meio de pactuação de contrato próprio, que poderá ser de caráter geral ou restringir-se a determinada causa ou trabalho e que deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados que dele tomar parte. (Incluído pela Lei nº 14.365, de 2022)\n\nParágrafo único. No contrato de associação, o advogado sócio ou associado e a sociedade pactuarão as condições para o desempenho da atividade advocatícia e estipularão livremente os critérios para a partilha dos resultados dela decorrentes, devendo o contrato conter, no mínimo: (Incluído pela Lei nº 14.365, de 2022)\n\nI - qualificação das partes, com referência expressa à inscrição no Conselho Seccional da OAB competente; (Incluído pela Lei nº 14.365, de 2022)\n\nII - especificação e delimitação do serviço a ser prestado; (Incluído pela Lei nº 14.365, de 2022)\n\nIII - forma de repartição dos riscos e das receitas entre as partes, vedada a atribuição da totalidade dos riscos ou das receitas exclusivamente a uma delas; (Incluído pela Lei nº 14.365, de 2022)\n\nIV - responsabilidade pelo fornecimento de condições materiais e pelo custeio das despesas necessárias à execução dos serviços; (Incluído pela Lei nº 14.365, de 2022)\n\nV - prazo de duração do contrato. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2017-B.%20A%20associa%C3%A7%C3%A3o%20de%20que%20trata%20o%20art.%2017-A%20desta%20Lei%20dar-se-%C3%A1%20por%20meio%20de%20pactua%C3%A7%C3%A3o%20de%20contrato%20pr%C3%B3prio%2C%20que%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-A",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A relação de emprego, na qualidade de advogado, não retira a isenção técnica nem reduz a independência profissional inerentes à advocacia.\n\nParágrafo único. O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego.\n\n§ 1º O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 2º As atividades do advogado empregado poderão ser realizadas, a critério do empregador, em qualquer um dos seguintes regimes: (Incluído pela Lei nº 14.365, de 2022)\n\nI - exclusivamente presencial: modalidade na qual o advogado empregado, desde o início da contratação, realizará o trabalho nas dependências ou locais indicados pelo empregador; (Incluído pela Lei nº 14.365, de 2022)\n\nII - não presencial, teletrabalho ou trabalho a distância: modalidade na qual, desde o início da contratação, o trabalho será preponderantemente realizado fora das dependências do empregador, observado que o comparecimento nas dependências de forma não permanente, variável ou para participação em reuniões ou em eventos presenciais não descaracterizará o regime não presencial; (Incluído pela Lei nº 14.365, de 2022)\n\nIII - misto: modalidade na qual as atividades do advogado poderão ser presenciais, no estabelecimento do contratante ou onde este indicar, ou não presenciais, conforme as condições definidas pelo empregador em seu regulamento empresarial, independentemente de preponderância ou não. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 3º Na vigência da relação de emprego, as partes poderão pactuar, por acordo individual simples, a alteração de um regime para outro. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2018.%20A%20rela%C3%A7%C3%A3o%20de%20emprego%2C%20na%20qualidade%20de%20advogado%2C%20n%C3%A3o%20retira%20a%20isen%C3%A7%C3%A3o%20t%C3%A9cnica%20nem%20reduz%20a%20independ%C3%AAncia%20profissional%20inerentes%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-B",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O salário mínimo profissional do advogado será fixado em sentença normativa, salvo se ajustado em acordo ou convenção coletiva de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2019.%20O%20sal%C3%A1rio%20m%C3%ADnimo%20profissional%20do%20advogado%20ser%C3%A1%20fixado%20em%20senten%C3%A7a%20normativa%2C%20salvo%20se%20ajustado%20em%20acordo%20ou%20conven%C3%A7%C3%A3o%20coletiva%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A jornada de trabalho do advogado empregado, no exercício da profissão, não poderá exceder a duração diária de quatro horas contínuas e a de vinte horas semanais, salvo acordo ou convenção coletiva ou em caso de dedicação exclusiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2020.%20A%20jornada%20de%20trabalho%20do%20advogado%20empregado%2C%20no%20exerc%C3%ADcio%20da%20profiss%C3%A3o%2C%20n%C3%A3o%20poder%C3%A1%20exceder%20a%20dura%C3%A7%C3%A3o%20di%C3%A1ria%20de%20quatro%20horas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Nas causas em que for parte o empregador, ou pessoa por este representada, os honorários de sucumbência são devidos aos advogados empregados.\n\nParágrafo único. Os honorários de sucumbência, percebidos por advogado empregado de sociedade de advogados são partilhados entre ele e a empregadora, na forma estabelecida em acordo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2021.%20Nas%20causas%20em%20que%20for%20parte%20o%20empregador%2C%20ou%20pessoa%20por%20este%20representada%2C%20os%20honor%C3%A1rios%20de%20sucumb%C3%AAncia%20s%C3%A3o%20devidos%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.\n\n§ 1º O advogado, quando indicado para patrocinar causa de juridicamente necessitado, no caso de impossibilidade da Defensoria Pública no local da prestação de serviço, tem direito aos honorários fixados pelo juiz, segundo tabela organizada pelo Conselho Seccional da OAB, e pagos pelo Estado.\n\n§ 2º Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, não podendo ser inferiores aos estabelecidos na tabela organizada pelo Conselho Seccional da OAB.\n\n§ 2º Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 do art. 85 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Redação dada pela Lei nº 14.365, de 2022)\n\n§ 3º Salvo estipulação em contrário, um terço dos honorários é devido no início do serviço, outro terço até a decisão de primeira instância e o restante no final.\n\n§ 4º Se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.\n\n§ 5º O disposto neste artigo não se aplica quando se tratar de mandato outorgado por advogado para defesa em processo oriundo de ato ou omissão praticada no exercício da profissão.\n\n§ 6º O disposto neste artigo aplica-se aos honorários assistenciais, compreendidos como os fixados em ações coletivas propostas por entidades de classe em substituição processual, sem prejuízo aos honorários convencionais. (Incluído pela Lei nº 13.725, de 2018)\n\n§ 7º Os honorários convencionados com entidades de classe para atuação em substituição processual poderão prever a faculdade de indicar os beneficiários que, ao optarem por adquirir os direitos, assumirão as obrigações decorrentes do contrato originário a partir do momento em que este foi celebrado, sem a necessidade de mais formalidades. (Incluído pela Lei nº 13.725, de 2018)\n\n§ 8º Consideram-se também honorários convencionados aqueles decorrentes da indicação de cliente entre advogados ou sociedade de advogados, aplicada a regra prevista no § 9º do art. 15 desta Lei. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2022.%20A%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7o%20profissional%20assegura%20aos%20inscritos%20na%20OAB%20o%20direito%20aos%20honor%C3%A1rios%20convencionados%2C%20aos%20fixados%20por%20arbitramento%20judicial",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. Fica permitida a dedução de honorários advocatícios contratuais dos valores acrescidos, a título de juros de mora, ao montante repassado aos Estados e aos Municípios na forma de precatórios, como complementação de fundos constitucionais. (Incluído pela Lei nº 14.365, de 2022)\n\nParágrafo único. A dedução a que se refere o caput deste artigo não será permitida aos advogados nas causas que decorram da execução de título judicial constituído em ação civil pública ajuizada pelo Ministério Público Federal. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2022-A.%20Fica%20permitida%20a%20dedu%C3%A7%C3%A3o%20de%20honor%C3%A1rios%20advocat%C3%ADcios%20contratuais%20dos%20valores%20acrescidos%2C%20a%20t%C3%ADtulo%20de%20juros%20de%20mora%2C%20ao%20montante%20repassado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor. (Vide ADI 6053)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2023.%20Os%20honor%C3%A1rios%20inclu%C3%ADdos%20na%20condena%C3%A7%C3%A3o%2C%20por%20arbitramento%20ou%20sucumb%C3%AAncia%2C%20pertencem%20ao%20advogado%2C%20tendo%20este%20direito%20aut%C3%B4nomo%20para%20executar%20a%20senten%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-A",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, concordata, concurso de credores, insolvência civil e liquidação extrajudicial.\n\n§ 1º A execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier.\n\n§ 2º Na hipótese de falecimento ou incapacidade civil do advogado, os honorários de sucumbência, proporcionais ao trabalho realizado, são recebidos por seus sucessores ou representantes legais.\n\n§ 3º É nula qualquer disposição, cláusula, regulamento ou convenção individual ou coletiva que retire do advogado o direito ao recebimento dos honorários de sucumbência. (Vide ADIN 1.194-4)\n\n§ 3º-A. Nos casos judiciais e administrativos, as disposições, as cláusulas, os regulamentos ou as convenções individuais ou coletivas que retirem do sócio o direito ao recebimento dos honorários de sucumbência serão válidos somente após o protocolo de petição que revogue os poderes que lhe foram outorgados ou que noticie a renúncia a eles, e os honorários serão devidos proporcionalmente ao trabalho realizado nos processos. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 4º O acordo feito pelo cliente do advogado e a parte contrária, salvo aquiescência do profissional, não lhe prejudica os honorários, quer os convencionados, quer os concedidos por sentença.\n\n§ 5º Salvo renúncia expressa do advogado aos honorários pactuados na hipótese de encerramento da relação contratual com o cliente, o advogado mantém o direito aos honorários proporcionais ao trabalho realizado nos processos judiciais e administrativos em que tenha atuado, nos exatos termos do contrato celebrado, inclusive em relação aos eventos de sucesso que porventura venham a ocorrer após o encerramento da relação contratual. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 6º O distrato e a rescisão do contrato de prestação de serviços advocatícios, mesmo que formalmente celebrados, não configuram renúncia expressa aos honorários pactuados. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 7º Na ausência do contrato referido no § 6º deste artigo, os honorários advocatícios serão arbitrados conforme o disposto no art. 22 desta Lei. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2024.%20A%20decis%C3%A3o%20judicial%20que%20fixar%20ou%20arbitrar%20honor%C3%A1rios%20e%20o%20contrato%20escrito%20que%20os%20estipular%20s%C3%A3o%20t%C3%ADtulos%20executivos%20e%20constituem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "24-A"
+    },
+    "24-A": {
+      "numero": "24-A",
+      "texto": "Art. 24-A. No caso de bloqueio universal do patrimônio do cliente por decisão judicial, garantir-se-á ao advogado a liberação de até 20% (vinte por cento) dos bens bloqueados para fins de recebimento de honorários e reembolso de gastos com a defesa, ressalvadas as causas relacionadas aos crimes previstos na Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), e observado o disposto no parágrafo único do art. 243 da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 1º O pedido de desbloqueio de bens será feito em autos apartados, que permanecerão em sigilo, mediante a apresentação do respectivo contrato. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 2º O desbloqueio de bens observará, preferencialmente, a ordem estabelecida no art. 835 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.365, de 2022)\n\n§ 3º Quando se tratar de dinheiro em espécie, de depósito ou de aplicação em instituição financeira, os valores serão transferidos diretamente para a conta do advogado ou do escritório de advocacia responsável pela defesa. (Incluído pela Lei nº 14.365, de 2022)\n\n§ 4º Nos demais casos, o advogado poderá optar pela adjudicação do próprio bem ou por sua venda em hasta pública para satisfação dos honorários devidos, nos termos do art. 879 e seguintes da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.365, de 2022)\n\n§ 5º O valor excedente deverá ser depositado em conta vinculada ao processo judicial. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2024-A.%20No%20caso%20de%20bloqueio%20universal%20do%20patrim%C3%B4nio%20do%20cliente%20por%20decis%C3%A3o%20judicial%2C%20garantir-se-%C3%A1%20ao%20advogado%20a%20libera%C3%A7%C3%A3o%20de%20at%C3%A9%2020%25",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Prescreve em cinco anos a ação de cobrança de honorários de advogado, contado o prazo:\n\nI - do vencimento do contrato, se houver;\n\nII - do trânsito em julgado da decisão que os fixar;\n\nIII - da ultimação do serviço extrajudicial;\n\nIV - da desistência ou transação;\n\nV - da renúncia ou revogação do mandato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2025.%20Prescreve%20em%20cinco%20anos%20a%20a%C3%A7%C3%A3o%20de%20cobran%C3%A7a%20de%20honor%C3%A1rios%20de%20advogado%2C%20contado%20o%20prazo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24-A",
+      "next": "25-A"
+    },
+    "25-A": {
+      "numero": "25-A",
+      "texto": "Art. 25-A. Prescreve em cinco anos a ação de prestação de contas pelas quantias recebidas pelo advogado de seu cliente, ou de terceiros por conta dele (art. 34, XXI). (Incluído pela Lei nº 11.902, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2025-A.%20Prescreve%20em%20cinco%20anos%20a%20a%C3%A7%C3%A3o%20de%20presta%C3%A7%C3%A3o%20de%20contas%20pelas%20quantias%20recebidas%20pelo%20advogado%20de%20seu%20cliente%2C%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento.\n\nParágrafo único. O disposto no caput deste artigo não se aplica na hipótese de o advogado substabelecido, com reservas de poderes, possuir contrato celebrado com o cliente. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2026.%20O%20advogado%20substabelecido%2C%20com%20reserva%20de%20poderes%2C%20n%C3%A3o%20pode%20cobrar%20honor%C3%A1rios%20sem%20a%20interven%C3%A7%C3%A3o%20daquele%20que%20lhe%20conferiu%20o%20substabelecimento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25-A",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A incompatibilidade determina a proibição total, e o impedimento, a proibição parcial do exercício da advocacia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2027.%20A%20incompatibilidade%20determina%20a%20proibi%C3%A7%C3%A3o%20total%2C%20e%20o%20impedimento%2C%20a%20proibi%C3%A7%C3%A3o%20parcial%20do%20exerc%C3%ADcio%20da%20advocacia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A advocacia é incompatível, mesmo em causa própria, com as seguintes atividades:\n\nI - chefe do Poder Executivo e membros da Mesa do Poder Legislativo e seus substitutos legais;\n\nII - membros de órgãos do Poder Judiciário, do Ministério Público, dos tribunais e conselhos de contas, dos juizados especiais, da justiça de paz, juízes classistas, bem como de todos os que exerçam função de julgamento em órgãos de deliberação coletiva da administração pública direta e indireta; (Vide ADIN 1.127-8)\n\nIII - ocupantes de cargos ou funções de direção em Órgãos da Administração Pública direta ou indireta, em suas fundações e em suas empresas controladas ou concessionárias de serviço público;\n\nIV - ocupantes de cargos ou funções vinculados direta ou indiretamente a qualquer órgão do Poder Judiciário e os que exercem serviços notariais e de registro;\n\nV - ocupantes de cargos ou funções vinculados direta ou indiretamente a atividade policial de qualquer natureza;\n\nVI - militares de qualquer natureza, na ativa;\n\nVII - ocupantes de cargos ou funções que tenham competência de lançamento, arrecadação ou fiscalização de tributos e contribuições parafiscais;\n\nVIII - ocupantes de funções de direção e gerência em instituições financeiras, inclusive privadas.\n\n§ 1º A incompatibilidade permanece mesmo que o ocupante do cargo ou função deixe de exercê-lo temporariamente.\n\n§ 2º Não se incluem nas hipóteses do inciso III os que não detenham poder de decisão relevante sobre interesses de terceiro, a juízo do conselho competente da OAB, bem como a administração acadêmica diretamente relacionada ao magistério jurídico.\n\n§ 3º As causas de incompatibilidade previstas nas hipóteses dos incisos V e VI do caput deste artigo não se aplicam ao exercício da advocacia em causa própria, estritamente para fins de defesa e tutela de direitos pessoais, desde que mediante inscrição especial na OAB, vedada a participação em sociedade de advogados. (Incluído pela Lei nº 14.365, de 2022) (Vide ADI 7227)\n\n§ 4º A inscrição especial a que se refere o § 3º deste artigo deverá constar do documento profissional de registro na OAB e não isenta o profissional do pagamento da contribuição anual, de multas e de preços de serviços devidos à OAB, na forma por ela estabelecida, vedada cobrança em valor superior ao exigido para os demais membros inscritos. (Incluído pela Lei nº 14.365, de 2022) (Vide ADI 7227)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2028.%20A%20advocacia%20%C3%A9%20incompat%C3%ADvel%2C%20mesmo%20em%20causa%20pr%C3%B3pria%2C%20com%20as%20seguintes%20atividades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os Procuradores Gerais, Advogados Gerais, Defensores Gerais e dirigentes de órgãos jurídicos da Administração Pública direta, indireta e fundacional são exclusivamente legitimados para o exercício da advocacia vinculada à função que exerçam, durante o período da investidura.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2029.%20Os%20Procuradores%20Gerais%2C%20Advogados%20Gerais%2C%20Defensores%20Gerais%20e%20dirigentes%20de%20%C3%B3rg%C3%A3os%20jur%C3%ADdicos%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20direta%2C%20indireta%20e%20fundacional%20s%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. São impedidos de exercer a advocacia:\n\nI - os servidores da administração direta, indireta e fundacional, contra a Fazenda Pública que os remunere ou à qual seja vinculada a entidade empregadora;\n\nII - os membros do Poder Legislativo, em seus diferentes níveis, contra ou a favor das pessoas jurídicas de direito público, empresas públicas, sociedades de economia mista, fundações públicas, entidades paraestatais ou empresas concessionárias ou permissionárias de serviço público.\n\nParágrafo único. Não se incluem nas hipóteses do inciso I os docentes dos cursos jurídicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2030.%20S%C3%A3o%20impedidos%20de%20exercer%20a%20advocacia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O advogado deve proceder de forma que o torne merecedor de respeito e que contribua para o prestígio da classe e da advocacia.\n\n§ 1º O advogado, no exercício da profissão, deve manter independência em qualquer circunstância.\n\n§ 2º Nenhum receio de desagradar a magistrado ou a qualquer autoridade, nem de incorrer em impopularidade, deve deter o advogado no exercício da profissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2031.%20O%20advogado%20deve%20proceder%20de%20forma%20que%20o%20torne%20merecedor%20de%20respeito%20e%20que%20contribua%20para%20o%20prest%C3%ADgio%20da%20classe",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O advogado é responsável pelos atos que, no exercício profissional, praticar com dolo ou culpa.\n\nParágrafo único. Em caso de lide temerária, o advogado será solidariamente responsável com seu cliente, desde que coligado com este para lesar a parte contrária, o que será apurado em ação própria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2032.%20O%20advogado%20%C3%A9%20respons%C3%A1vel%20pelos%20atos%20que%2C%20no%20exerc%C3%ADcio%20profissional%2C%20praticar%20com%20dolo%20ou%20culpa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O advogado obriga-se a cumprir rigorosamente os deveres consignados no Código de Ética e Disciplina.\n\nParágrafo único. O Código de Ética e Disciplina regula os deveres do advogado para com a comunidade, o cliente, o outro profissional e, ainda, a publicidade, a recusa do patrocínio, o dever de assistência jurídica, o dever geral de urbanidade e os respectivos procedimentos disciplinares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2033.%20O%20advogado%20obriga-se%20a%20cumprir%20rigorosamente%20os%20deveres%20consignados%20no%20C%C3%B3digo%20de%20%C3%89tica%20e%20Disciplina.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Constitui infração disciplinar:\n\nI - exercer a profissão, quando impedido de fazê-lo, ou facilitar, por qualquer meio, o seu exercício aos não inscritos, proibidos ou impedidos;\n\nII - manter sociedade profissional fora das normas e preceitos estabelecidos nesta lei;\n\nIII - valer-se de agenciador de causas, mediante participação nos honorários a receber;\n\nIV - angariar ou captar causas, com ou sem a intervenção de terceiros;\n\nV - assinar qualquer escrito destinado a processo judicial ou para fim extrajudicial que não tenha feito, ou em que não tenha colaborado;\n\nVI - advogar contra literal disposição de lei, presumindo-se a boa-fé quando fundamentado na inconstitucionalidade, na injustiça da lei ou em pronunciamento judicial anterior;\n\nVII - violar, sem justa causa, sigilo profissional;\n\nVIII - estabelecer entendimento com a parte adversa sem autorização do cliente ou ciência do advogado contrário;\n\nIX - prejudicar, por culpa grave, interesse confiado ao seu patrocínio;\n\nX - acarretar, conscientemente, por ato próprio, a anulação ou a nulidade do processo em que funcione;\n\nXI - abandonar a causa sem justo motivo ou antes de decorridos dez dias da comunicação da renúncia;\n\nXII - recusar-se a prestar, sem justo motivo, assistência jurídica, quando nomeado em virtude de impossibilidade da Defensoria Pública;\n\nXIII - fazer publicar na imprensa, desnecessária e habitualmente, alegações forenses ou relativas a causas pendentes;\n\nXIV - deturpar o teor de dispositivo de lei, de citação doutrinária ou de julgado, bem como de depoimentos, documentos e alegações da parte contrária, para confundir o adversário ou iludir o juiz da causa;\n\nXV - fazer, em nome do constituinte, sem autorização escrita deste, imputação a terceiro de fato definido como crime;\n\nXVI - deixar de cumprir, no prazo estabelecido, determinação emanada do órgão ou de autoridade da Ordem, em matéria da competência desta, depois de regularmente notificado;\n\nXVII - prestar concurso a clientes ou a terceiros para realização de ato contrário à lei ou destinado a fraudá-la;\n\nXVIII - solicitar ou receber de constituinte qualquer importância para aplicação ilícita ou desonesta;\n\nXIX - receber valores, da parte contrária ou de terceiro, relacionados com o objeto do mandato, sem expressa autorização do constituinte;\n\nXX - locupletar-se, por qualquer forma, à custa do cliente ou da parte adversa, por si ou interposta pessoa;\n\nXXI - recusar-se, injustificadamente, a prestar contas ao cliente de quantias recebidas dele ou de terceiros por conta dele;\n\nXXII - reter, abusivamente, ou extraviar autos recebidos com vista ou em confiança;\n\nXXIII - deixar de pagar as contribuições, multas e preços de serviços devidos à OAB, depois de regularmente notificado a fazê-lo; (Vide ADI 7020)\n\nXXIV - incidir em erros reiterados que evidenciem inépcia profissional;\n\nXXV - manter conduta incompatível com a advocacia;\n\nXXVI - fazer falsa prova de qualquer dos requisitos para inscrição na OAB;\n\nXXVII - tornar-se moralmente inidôneo para o exercício da advocacia;\n\nXXVIII - praticar crime infamante;\n\nXXIX - praticar, o estagiário, ato excedente de sua habilitação.\n\nXXX - praticar assédio moral, assédio sexual ou discriminação. (Incluído pela Lei nº 14.612, de 2023)\n\n§1º Inclui-se na conduta incompatível: (Renumerado do parágrafo único pela Lei nº 14.612, de 2023)\n\na) prática reiterada de jogo de azar, não autorizado por lei;\n\nb) incontinência pública e escandalosa;\n\nc) embriaguez ou toxicomania habituais.\n\n§ 2º Para os fins desta Lei, considera-se: (Incluído pela Lei nº 14.612, de 2023)\n\nI - assédio moral: a conduta praticada no exercício profissional ou em razão dele, por meio da repetição deliberada de gestos, palavras faladas ou escritas ou comportamentos que exponham o estagiário, o advogado ou qualquer outro profissional que esteja prestando seus serviços a situações humilhantes e constrangedoras, capazes de lhes causar ofensa à personalidade, à dignidade e à integridade psíquica ou física, com o objetivo de excluí-los das suas funções ou de desestabilizá-los emocionalmente, deteriorando o ambiente profissional; (Incluído pela Lei nº 14.612, de 2023)\n\nII - assédio sexual: a conduta de conotação sexual praticada no exercício profissional ou em razão dele, manifestada fisicamente ou por palavras, gestos ou outros meios, proposta ou imposta à pessoa contra sua vontade, causando-lhe constrangimento e violando a sua liberdade sexual; (Incluído pela Lei nº 14.612, de 2023)\n\nIII - discriminação: a conduta comissiva ou omissiva que dispense tratamento constrangedor ou humilhante a pessoa ou grupo de pessoas, em razão de sua deficiência, pertença a determinada raça, cor ou sexo, procedência nacional ou regional, origem étnica, condição de gestante, lactante ou nutriz, faixa etária, religião ou outro fator. (Incluído pela Lei nº 14.612, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2034.%20Constitui%20infra%C3%A7%C3%A3o%20disciplinar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As sanções disciplinares consistem em:\n\nI - censura;\n\nII - suspensão;\n\nIII - exclusão;\n\nIV - multa.\n\nParágrafo único. As sanções devem constar dos assentamentos do inscrito, após o trânsito em julgado da decisão, não podendo ser objeto de publicidade a de censura.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2035.%20As%20san%C3%A7%C3%B5es%20disciplinares%20consistem%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A censura é aplicável nos casos de:\n\nI - infrações definidas nos incisos I a XVI e XXIX do art. 34;\n\nII - violação a preceito do Código de Ética e Disciplina;\n\nIII - violação a preceito desta lei, quando para a infração não se tenha estabelecido sanção mais grave.\n\nParágrafo único. A censura pode ser convertida em advertência, em ofício reservado, sem registro nos assentamentos do inscrito, quando presente circunstância atenuante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2036.%20A%20censura%20%C3%A9%20aplic%C3%A1vel%20nos%20casos%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A suspensão é aplicável nos casos de: (Vide ADI 7020)\n\nI - infrações definidas nos incisos XVII a XXV do art. 34;\n\nI - infrações definidas nos incisos XVII a XXV e XXX do caput do art. 34 desta Lei; (Redação dada pela Lei nº 14.612, de 2023)\n\nII - reincidência em infração disciplinar.\n\n§ 1º A suspensão acarreta ao infrator a interdição do exercício profissional, em todo o território nacional, pelo prazo de trinta dias a doze meses, de acordo com os critérios de individualização previstos neste capítulo.\n\n§ 2º Nas hipóteses dos incisos XXI e XXIII do art. 34, a suspensão perdura até que satisfaça integralmente a dívida, inclusive com correção monetária. (Vide RE 647885)\n\n§ 3º Na hipótese do inciso XXIV do art. 34, a suspensão perdura até que preste novas provas de habilitação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2037.%20A%20suspens%C3%A3o%20%C3%A9%20aplic%C3%A1vel%20nos%20casos%20de%3A%20%28Vide%20ADI%207020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A exclusão é aplicável nos casos de:\n\nI - aplicação, por três vezes, de suspensão;\n\nII - infrações definidas nos incisos XXVI a XXVIII do art. 34.\n\nParágrafo único. Para a aplicação da sanção disciplinar de exclusão, é necessária a manifestação favorável de dois terços dos membros do Conselho Seccional competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2038.%20A%20exclus%C3%A3o%20%C3%A9%20aplic%C3%A1vel%20nos%20casos%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A multa, variável entre o mínimo correspondente ao valor de uma anuidade e o máximo de seu décuplo, é aplicável cumulativamente com a censura ou suspensão, em havendo circunstâncias agravantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2039.%20A%20multa%2C%20vari%C3%A1vel%20entre%20o%20m%C3%ADnimo%20correspondente%20ao%20valor%20de%20uma%20anuidade%20e%20o%20m%C3%A1ximo%20de%20seu%20d%C3%A9cuplo%2C%20%C3%A9%20aplic%C3%A1vel",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Na aplicação das sanções disciplinares, são consideradas, para fins de atenuação, as seguintes circunstâncias, entre outras:\n\nI - falta cometida na defesa de prerrogativa profissional;\n\nII - ausência de punição disciplinar anterior;\n\nIII - exercício assíduo e proficiente de mandato ou cargo em qualquer órgão da OAB;\n\nIV - prestação de relevantes serviços à advocacia ou à causa pública.\n\nParágrafo único. Os antecedentes profissionais do inscrito, as atenuantes, o grau de culpa por ele revelada, as circunstâncias e as conseqüências da infração são considerados para o fim de decidir:\n\na) sobre a conveniência da aplicação cumulativa da multa e de outra sanção disciplinar;\n\nb) sobre o tempo de suspensão e o valor da multa aplicáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2040.%20Na%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20disciplinares%2C%20s%C3%A3o%20consideradas%2C%20para%20fins%20de%20atenua%C3%A7%C3%A3o%2C%20as%20seguintes%20circunst%C3%A2ncias%2C%20entre%20outras%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. É permitido ao que tenha sofrido qualquer sanção disciplinar requerer, um ano após seu cumprimento, a reabilitação, em face de provas efetivas de bom comportamento.\n\nParágrafo único. Quando a sanção disciplinar resultar da prática de crime, o pedido de reabilitação depende também da correspondente reabilitação criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2041.%20%C3%89%20permitido%20ao%20que%20tenha%20sofrido%20qualquer%20san%C3%A7%C3%A3o%20disciplinar%20requerer%2C%20um%20ano%20ap%C3%B3s%20seu%20cumprimento%2C%20a%20reabilita%C3%A7%C3%A3o%2C%20em%20face%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Fica impedido de exercer o mandato o profissional a quem forem aplicadas as sanções disciplinares de suspensão ou exclusão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2042.%20Fica%20impedido%20de%20exercer%20o%20mandato%20o%20profissional%20a%20quem%20forem%20aplicadas%20as%20san%C3%A7%C3%B5es%20disciplinares%20de%20suspens%C3%A3o%20ou%20exclus%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A pretensão à punibilidade das infrações disciplinares prescreve em cinco anos, contados da data da constatação oficial do fato.\n\n§ 1º Aplica-se a prescrição a todo processo disciplinar paralisado por mais de três anos, pendente de despacho ou julgamento, devendo ser arquivado de ofício, ou a requerimento da parte interessada, sem prejuízo de serem apuradas as responsabilidades pela paralisação.\n\n§ 2º A prescrição interrompe-se:\n\nI - pela instauração de processo disciplinar ou pela notificação válida feita diretamente ao representado;\n\nII - pela decisão condenatória recorrível de qualquer órgão julgador da OAB.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2043.%20A%20pretens%C3%A3o%20%C3%A0%20punibilidade%20das%20infra%C3%A7%C3%B5es%20disciplinares%20prescreve%20em%20cinco%20anos%2C%20contados%20da%20data%20da%20constata%C3%A7%C3%A3o%20oficial%20do%20fato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. A Ordem dos Advogados do Brasil (OAB), serviço público, dotada de personalidade jurídica e forma federativa, tem por finalidade:\n\nI - defender a Constituição, a ordem jurídica do Estado democrático de direito, os direitos humanos, a justiça social, e pugnar pela boa aplicação das leis, pela rápida administração da justiça e pelo aperfeiçoamento da cultura e das instituições jurídicas;\n\nII - promover, com exclusividade, a representação, a defesa, a seleção e a disciplina dos advogados em toda a República Federativa do Brasil.\n\n§ 1º A OAB não mantém com órgãos da Administração Pública qualquer vínculo funcional ou hierárquico.\n\n§ 2º O uso da sigla OAB é privativo da Ordem dos Advogados do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2044.%20A%20Ordem%20dos%20Advogados%20do%20Brasil%20%28OAB%29%2C%20servi%C3%A7o%20p%C3%BAblico%2C%20dotada%20de%20personalidade%20jur%C3%ADdica%20e%20forma%20federativa%2C%20tem%20por%20finalidade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. São órgãos da OAB:\n\nI - o Conselho Federal;\n\nII - os Conselhos Seccionais;\n\nIII - as Subseções;\n\nIV - as Caixas de Assistência dos Advogados.\n\n§ 1º O Conselho Federal, dotado de personalidade jurídica própria, com sede na capital da República, é o órgão supremo da OAB.\n\n§ 2º Os Conselhos Seccionais, dotados de personalidade jurídica própria, têm jurisdição sobre os respectivos territórios dos Estados-membros, do Distrito Federal e dos Territórios.\n\n§ 3º As Subseções são partes autônomas do Conselho Seccional, na forma desta lei e de seu ato constitutivo.\n\n§ 4º As Caixas de Assistência dos Advogados, dotadas de personalidade jurídica própria, são criadas pelos Conselhos Seccionais, quando estes contarem com mais de mil e quinhentos inscritos.\n\n§ 5º A OAB, por constituir serviço público, goza de imunidade tributária total em relação a seus bens, rendas e serviços.\n\n§ 6º Os atos conclusivos dos órgãos da OAB, salvo quando reservados ou de administração interna, devem ser publicados na imprensa oficial ou afixados no fórum, na íntegra ou em resumo.\n\n§ 6º Os atos, as notificações e as decisões dos órgãos da OAB, salvo quando reservados ou de administração interna, serão publicados no Diário Eletrônico da Ordem dos Advogados do Brasil, a ser disponibilizado na internet, podendo ser afixados no fórum local, na íntegra ou em resumo. (Redação dada Lei nº 13.688, de 2018) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2045.%20S%C3%A3o%20%C3%B3rg%C3%A3os%20da%20OAB%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Compete à OAB fixar e cobrar, de seus inscritos, contribuições, preços de serviços e multas.\n\nParágrafo único. Constitui título executivo extrajudicial a certidão passada pela diretoria do Conselho competente, relativa a crédito previsto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2046.%20Compete%20%C3%A0%20OAB%20fixar%20e%20cobrar%2C%20de%20seus%20inscritos%2C%20contribui%C3%A7%C3%B5es%2C%20pre%C3%A7os%20de%20servi%C3%A7os%20e%20multas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O pagamento da contribuição anual à OAB isenta os inscritos nos seus quadros do pagamento obrigatório da contribuição sindical.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2047.%20O%20pagamento%20da%20contribui%C3%A7%C3%A3o%20anual%20%C3%A0%20OAB%20isenta%20os%20inscritos%20nos%20seus%20quadros%20do%20pagamento%20obrigat%C3%B3rio%20da%20contribui%C3%A7%C3%A3o%20sindical.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. O cargo de conselheiro ou de membro de diretoria de órgão da OAB é de exercício gratuito e obrigatório, considerado serviço público relevante, inclusive para fins de disponibilidade e aposentadoria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2048.%20O%20cargo%20de%20conselheiro%20ou%20de%20membro%20de%20diretoria%20de%20%C3%B3rg%C3%A3o%20da%20OAB%20%C3%A9%20de%20exerc%C3%ADcio%20gratuito%20e%20obrigat%C3%B3rio%2C%20considerado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os Presidentes dos Conselhos e das Subseções da OAB têm legitimidade para agir, judicial e extrajudicialmente, contra qualquer pessoa que infringir as disposições ou os fins desta lei.\n\nParágrafo único. As autoridades mencionadas no caput deste artigo têm, ainda, legitimidade para intervir, inclusive como assistentes, nos inquéritos e processos em que sejam indiciados, acusados ou ofendidos os inscritos na OAB.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2049.%20Os%20Presidentes%20dos%20Conselhos%20e%20das%20Subse%C3%A7%C3%B5es%20da%20OAB%20t%C3%AAm%20legitimidade%20para%20agir%2C%20judicial%20e%20extrajudicialmente%2C%20contra%20qualquer%20pessoa%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Para os fins desta lei, os Presidentes dos Conselhos da OAB e das Subseções podem requisitar cópias de peças de autos e documentos a qualquer tribunal, magistrado, cartório e órgão da Administração Pública direta, indireta e fundacional. (Vide ADIN 1.127-8)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2050.%20Para%20os%20fins%20desta%20lei%2C%20os%20Presidentes%20dos%20Conselhos%20da%20OAB%20e%20das%20Subse%C3%A7%C3%B5es%20podem%20requisitar%20c%C3%B3pias%20de%20pe%C3%A7as%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O Conselho Federal compõe-se:\n\nI - dos conselheiros federais, integrantes das delegações de cada unidade federativa;\n\nII - dos seus ex-presidentes, na qualidade de membros honorários vitalícios.\n\n§ 1º Cada delegação é formada por três conselheiros federais.\n\n§ 2º Os ex-presidentes têm direito apenas a voz nas sessões.\n\n§ 3º O Instituto dos Advogados Brasileiros e a Federação Nacional dos Institutos dos Advogados do Brasil são membros honorários, somente com direito a voz nas sessões do Conselho Federal.’ (NR)” (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2051.%20O%20Conselho%20Federal%20comp%C3%B5e-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Os presidentes dos Conselhos Seccionais, nas sessões do Conselho Federal, têm lugar reservado junto à delegação respectiva e direito somente a voz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2052.%20Os%20presidentes%20dos%20Conselhos%20Seccionais%2C%20nas%20sess%C3%B5es%20do%20Conselho%20Federal%2C%20t%C3%AAm%20lugar%20reservado%20junto%20%C3%A0%20delega%C3%A7%C3%A3o%20respectiva%20e%20direito%20somente",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O Conselho Federal tem sua estrutura e funcionamento definidos no Regulamento Geral da OAB.\n\n§ 1º O Presidente, nas deliberações do Conselho, tem apenas o voto de qualidade.\n\n§ 2º O voto é tomado por delegação, e não pode ser exercido nas matérias de interesse da unidade que represente.\n\n§ 3o Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios. (Incluído pela Lei nº 11.179, de 2005)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2053.%20O%20Conselho%20Federal%20tem%20sua%20estrutura%20e%20funcionamento%20definidos%20no%20Regulamento%20Geral%20da%20OAB.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Compete ao Conselho Federal:\n\nI - dar cumprimento efetivo às finalidades da OAB;\n\nII - representar, em juízo ou fora dele, os interesses coletivos ou individuais dos advogados;\n\nIII - velar pela dignidade, independência, prerrogativas e valorização da advocacia;\n\nIV - representar, com exclusividade, os advogados brasileiros nos órgãos e eventos internacionais da advocacia;\n\nV - editar e alterar o Regulamento Geral, o Código de Ética e Disciplina, e os Provimentos que julgar necessários;\n\nVI - adotar medidas para assegurar o regular funcionamento dos Conselhos Seccionais;\n\nVII - intervir nos Conselhos Seccionais, onde e quando constatar grave violação desta lei ou do regulamento geral;\n\nVIII - cassar ou modificar, de ofício ou mediante representação, qualquer ato, de órgão ou autoridade da OAB, contrário a esta lei, ao regulamento geral, ao Código de Ética e Disciplina, e aos Provimentos, ouvida a autoridade ou o órgão em causa;\n\nIX - julgar, em grau de recurso, as questões decididas pelos Conselhos Seccionais, nos casos previstos neste estatuto e no regulamento geral;\n\nX - dispor sobre a identificação dos inscritos na OAB e sobre os respectivos símbolos privativos;\n\nXI - apreciar o relatório anual e deliberar sobre o balanço e as contas de sua diretoria;\n\nXII - homologar ou mandar suprir relatório anual, o balanço e as contas dos Conselhos Seccionais;\n\nXIII - elaborar as listas constitucionalmente previstas, para o preenchimento dos cargos nos tribunais judiciários de âmbito nacional ou interestadual, com advogados que estejam em pleno exercício da profissão, vedada a inclusão de nome de membro do próprio Conselho ou de outro órgão da OAB;\n\nXIV - ajuizar ação direta de inconstitucionalidade de normas legais e atos normativos, ação civil pública, mandado de segurança coletivo, mandado de injunção e demais ações cuja legitimação lhe seja outorgada por lei;\n\nXV - colaborar com o aperfeiçoamento dos cursos jurídicos, e opinar, previamente, nos pedidos apresentados aos órgãos competentes para criação, reconhecimento ou credenciamento desses cursos;\n\nXVI - autorizar, pela maioria absoluta das delegações, a oneração ou alienação de seus bens imóveis;\n\nXVII - participar de concursos públicos, nos casos previstos na Constituição e na lei, em todas as suas fases, quando tiverem abrangência nacional ou interestadual;\n\nXVIII - resolver os casos omissos neste estatuto.\n\nXIX - fiscalizar, acompanhar e definir parâmetros e diretrizes da relação jurídica mantida entre advogados e sociedades de advogados ou entre escritório de advogados sócios e advogado associado, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício; (Incluído pela Lei nº 14.365, de 2022)\n\nXX - promover, por intermédio da Câmara de Mediação e Arbitragem, a solução sobre questões atinentes à relação entre advogados sócios ou associados e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)\n\nParágrafo único. A intervenção referida no inciso VII deste artigo depende de prévia aprovação por dois terços das delegações, garantido o amplo direito de defesa do Conselho Seccional respectivo, nomeando-se diretoria provisória para o prazo que se fixar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2054.%20Compete%20ao%20Conselho%20Federal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A diretoria do Conselho Federal é composta de um Presidente, de um Vice-Presidente, de um Secretário-Geral, de um Secretário-Geral Adjunto e de um Tesoureiro.\n\n§ 1º O Presidente exerce a representação nacional e internacional da OAB, competindo-lhe convocar o Conselho Federal, presidi-lo, representá-lo ativa e passivamente, em juízo ou fora dele, promover-lhe a administração patrimonial e dar execução às suas decisões.\n\n§ 2º O regulamento geral define as atribuições dos membros da diretoria e a ordem de substituição em caso de vacância, licença, falta ou impedimento.\n\n§ 3º Nas deliberações do Conselho Federal, os membros da diretoria votam como membros de suas delegações, cabendo ao Presidente, apenas, o voto de qualidade e o direito de embargar a decisão, se esta não for unânime.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2055.%20A%20diretoria%20do%20Conselho%20Federal%20%C3%A9%20composta%20de%20um%20Presidente%2C%20de%20um%20Vice-Presidente%2C%20de%20um%20Secret%C3%A1rio-Geral%2C%20de%20um%20Secret%C3%A1rio-Geral%20Adjunto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. O Conselho Seccional compõe-se de conselheiros em número proporcional ao de seus inscritos, segundo critérios estabelecidos no regulamento geral.\n\n§ 1º São membros honorários vitalícios os seus ex-presidentes, somente com direito a voz em suas sessões.\n\n§ 2º O Presidente do Instituto dos Advogados local é membro honorário, somente com direito a voz nas sessões do Conselho.\n\n§ 3º Quando presentes às sessões do Conselho Seccional, o Presidente do Conselho Federal, os Conselheiros Federais integrantes da respectiva delegação, o Presidente da Caixa de Assistência dos Advogados e os Presidentes das Subseções, têm direito a voz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2056.%20O%20Conselho%20Seccional%20comp%C3%B5e-se%20de%20conselheiros%20em%20n%C3%BAmero%20proporcional%20ao%20de%20seus%20inscritos%2C%20segundo%20crit%C3%A9rios%20estabelecidos%20no%20regulamento%20geral.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O Conselho Seccional exerce e observa, no respectivo território, as competências, vedações e funções atribuídas ao Conselho Federal, no que couber e no âmbito de sua competência material e territorial, e as normas gerais estabelecidas nesta lei, no regulamento geral, no Código de Ética e Disciplina, e nos Provimentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2057.%20O%20Conselho%20Seccional%20exerce%20e%20observa%2C%20no%20respectivo%20territ%C3%B3rio%2C%20as%20compet%C3%AAncias%2C%20veda%C3%A7%C3%B5es%20e%20fun%C3%A7%C3%B5es%20atribu%C3%ADdas%20ao%20Conselho%20Federal%2C%20no%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Compete privativamente ao Conselho Seccional:\n\nI - editar seu regimento interno e resoluções;\n\nII - criar as Subseções e a Caixa de Assistência dos Advogados;\n\nIII - julgar, em grau de recurso, as questões decididas por seu Presidente, por sua diretoria, pelo Tribunal de Ética e Disciplina, pelas diretorias das Subseções e da Caixa de Assistência dos Advogados;\n\nIV - fiscalizar a aplicação da receita, apreciar o relatório anual e deliberar sobre o balanço e as contas de sua diretoria, das diretorias das Subseções e da Caixa de Assistência dos Advogados;\n\nV - fixar a tabela de honorários, válida para todo o território estadual;\n\nVI - realizar o Exame de Ordem;\n\nVII - decidir os pedidos de inscrição nos quadros de advogados e estagiários;\n\nVIII - manter cadastro de seus inscritos;\n\nIX - fixar, alterar e receber contribuições obrigatórias, preços de serviços e multas;\n\nX - participar da elaboração dos concursos públicos, em todas as suas fases, nos casos previstos na Constituição e nas leis, no âmbito do seu território;\n\nXI - determinar, com exclusividade, critérios para o traje dos advogados, no exercício profissional;\n\nXII - aprovar e modificar seu orçamento anual;\n\nXIII - definir a composição e o funcionamento do Tribunal de Ética e Disciplina, e escolher seus membros;\n\nXIV - eleger as listas, constitucionalmente previstas, para preenchimento dos cargos nos tribunais judiciários, no âmbito de sua competência e na forma do Provimento do Conselho Federal, vedada a inclusão de membros do próprio Conselho e de qualquer órgão da OAB;\n\nXV - intervir nas Subseções e na Caixa de Assistência dos Advogados;\n\nXVI - desempenhar outras atribuições previstas no regulamento geral.\n\nXVII - fiscalizar, por designação expressa do Conselho Federal da OAB, a relação jurídica mantida entre advogados e sociedades de advogados e o advogado associado em atividade na circunscrição territorial de cada seccional, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício; (Incluído pela Lei nº 14.365, de 2022)\n\nXVIII - promover, por intermédio da Câmara de Mediação e Arbitragem, por designação do Conselho Federal da OAB, a solução sobre questões atinentes à relação entre advogados sócios ou associados e os escritórios de advocacia sediados na base da seccional e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2058.%20Compete%20privativamente%20ao%20Conselho%20Seccional%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. A diretoria do Conselho Seccional tem composição idêntica e atribuições equivalentes às do Conselho Federal, na forma do regimento interno daquele.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2059.%20A%20diretoria%20do%20Conselho%20Seccional%20tem%20composi%C3%A7%C3%A3o%20id%C3%AAntica%20e%20atribui%C3%A7%C3%B5es%20equivalentes%20%C3%A0s%20do%20Conselho%20Federal%2C%20na%20forma%20do%20regimento%20interno",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. A Subseção pode ser criada pelo Conselho Seccional, que fixa sua área territorial e seus limites de competência e autonomia.\n\n§ 1º A área territorial da Subseção pode abranger um ou mais municípios, ou parte de município, inclusive da capital do Estado, contando com um mínimo de quinze advogados, nela profissionalmente domiciliados.\n\n§ 2º A Subseção é administrada por uma diretoria, com atribuições e composição equivalentes às da diretoria do Conselho Seccional.\n\n§ 3º Havendo mais de cem advogados, a Subseção pode ser integrada, também, por um conselho em número de membros fixado pelo Conselho Seccional.\n\n§ 4º Os quantitativos referidos nos §§ 1º e 3º deste artigo podem ser ampliados, na forma do regimento interno do Conselho Seccional.\n\n§ 5º Cabe ao Conselho Seccional fixar, em seu orçamento, dotações específicas destinadas à manutenção das Subseções.\n\n§ 6º O Conselho Seccional, mediante o voto de dois terços de seus membros, pode intervir nas Subseções, onde constatar grave violação desta lei ou do regimento interno daquele.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2060.%20A%20Subse%C3%A7%C3%A3o%20pode%20ser%20criada%20pelo%20Conselho%20Seccional%2C%20que%20fixa%20sua%20%C3%A1rea%20territorial%20e%20seus%20limites%20de%20compet%C3%AAncia%20e%20autonomia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Compete à Subseção, no âmbito de seu território:\n\nI - dar cumprimento efetivo às finalidades da OAB;\n\nII - velar pela dignidade, independência e valorização da advocacia, e fazer valer as prerrogativas do advogado;\n\nIII - representar a OAB perante os poderes constituídos;\n\nIV - desempenhar as atribuições previstas no regulamento geral ou por delegação de competência do Conselho Seccional.\n\nParágrafo único. Ao Conselho da Subseção, quando houver, compete exercer as funções e atribuições do Conselho Seccional, na forma do regimento interno deste, e ainda:\n\na) editar seu regimento interno, a ser referendado pelo Conselho Seccional;\n\nb) editar resoluções, no âmbito de sua competência;\n\nc) instaurar e instruir processos disciplinares, para julgamento pelo Tribunal de Ética e Disciplina;\n\nd) receber pedido de inscrição nos quadros de advogado e estagiário, instruindo e emitindo parecer prévio, para decisão do Conselho Seccional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2061.%20Compete%20%C3%A0%20Subse%C3%A7%C3%A3o%2C%20no%20%C3%A2mbito%20de%20seu%20territ%C3%B3rio%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. A Caixa de Assistência dos Advogados, com personalidade jurídica própria, destina-se a prestar assistência aos inscritos no Conselho Seccional a que se vincule.\n\n§ 1º A Caixa é criada e adquire personalidade jurídica com a aprovação e registro de seu estatuto pelo respectivo Conselho Seccional da OAB, na forma do regulamento geral.\n\n§ 2º A Caixa pode, em benefício dos advogados, promover a seguridade complementar.\n\n§ 3º Compete ao Conselho Seccional fixar contribuição obrigatória devida por seus inscritos, destinada à manutenção do disposto no parágrafo anterior, incidente sobre atos decorrentes do efetivo exercício da advocacia.\n\n§ 4º A diretoria da Caixa é composta de cinco membros, com atribuições definidas no seu regimento interno.\n\n§ 5º Cabe à Caixa a metade da receita das anuidades recebidas pelo Conselho Seccional, considerado o valor resultante após as deduções regulamentares obrigatórias.\n\n§ 6º Em caso de extinção ou desativação da Caixa, seu patrimônio se incorpora ao do Conselho Seccional respectivo.\n\n§ 7º O Conselho Seccional, mediante voto de dois terços de seus membros, pode intervir na Caixa de Assistência dos Advogados, no caso de descumprimento de suas finalidades, designando diretoria provisória, enquanto durar a intervenção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2062.%20A%20Caixa%20de%20Assist%C3%AAncia%20dos%20Advogados%2C%20com%20personalidade%20jur%C3%ADdica%20pr%C3%B3pria%2C%20destina-se%20a%20prestar%20assist%C3%AAncia%20aos%20inscritos%20no%20Conselho%20Seccional%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. A eleição dos membros de todos os órgãos da OAB será realizada na segunda quinzena do mês de novembro, do último ano do mandato, mediante cédula única e votação direta dos advogados regularmente inscritos.\n\n§ 1º A eleição, na forma e segundo os critérios e procedimentos estabelecidos no regulamento geral, é de comparecimento obrigatório para todos os advogados inscritos na OAB.\n\n§ 2º O candidato deve comprovar situação regular junto à OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de cinco anos.\n\n§ 2º O candidato deve comprovar situação regular perante a OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de 3 (três) anos, nas eleições para os cargos de Conselheiro Seccional e das Subseções, quando houver, e há mais de 5 (cinco) anos, nas eleições para os demais cargos. (Redação dada pela Lei nº 13.875, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2063.%20A%20elei%C3%A7%C3%A3o%20dos%20membros%20de%20todos%20os%20%C3%B3rg%C3%A3os%20da%20OAB%20ser%C3%A1%20realizada%20na%20segunda%20quinzena%20do%20m%C3%AAs%20de%20novembro%2C%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Consideram-se eleitos os candidatos integrantes da chapa que obtiver a maioria dos votos válidos.\n\n§ 1º A chapa para o Conselho Seccional deve ser composta dos candidatos ao conselho e à sua diretoria e, ainda, à delegação ao Conselho Federal e à Diretoria da Caixa de Assistência dos Advogados para eleição conjunta.\n\n§ 2º A chapa para a Subseção deve ser composta com os candidatos à diretoria, e de seu conselho quando houver.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2064.%20Consideram-se%20eleitos%20os%20candidatos%20integrantes%20da%20chapa%20que%20obtiver%20a%20maioria%20dos%20votos%20v%C3%A1lidos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. O mandato em qualquer órgão da OAB é de três anos, iniciando-se em primeiro de janeiro do ano seguinte ao da eleição, salvo o Conselho Federal.\n\nParágrafo único. Os conselheiros federais eleitos iniciam seus mandatos em primeiro de fevereiro do ano seguinte ao da eleição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2065.%20O%20mandato%20em%20qualquer%20%C3%B3rg%C3%A3o%20da%20OAB%20%C3%A9%20de%20tr%C3%AAs%20anos%2C%20iniciando-se%20em%20primeiro%20de%20janeiro%20do%20ano%20seguinte%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Extingue-se o mandato automaticamente, antes do seu término, quando:\n\nI - ocorrer qualquer hipótese de cancelamento de inscrição ou de licenciamento do profissional;\n\nII - o titular sofrer condenação disciplinar;\n\nIII - o titular faltar, sem motivo justificado, a três reuniões ordinárias consecutivas de cada órgão deliberativo do conselho ou da diretoria da Subseção ou da Caixa de Assistência dos Advogados, não podendo ser reconduzido no mesmo período de mandato.\n\nParágrafo único. Extinto qualquer mandato, nas hipóteses deste artigo, cabe ao Conselho Seccional escolher o substituto, caso não haja suplente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2066.%20Extingue-se%20o%20mandato%20automaticamente%2C%20antes%20do%20seu%20t%C3%A9rmino%2C%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. A eleição da Diretoria do Conselho Federal, que tomará posse no dia 1º de fevereiro, obedecerá às seguintes regras:\n\nI - será admitido registro, junto ao Conselho Federal, de candidatura à presidência, desde seis meses até um mês antes da eleição;\n\nII - o requerimento de registro deverá vir acompanhado do apoiamento de, no mínimo, seis Conselhos Seccionais;\n\nIII - até um mês antes das eleições, deverá ser requerido o registro da chapa completa, sob pena de cancelamento da candidatura respectiva;\n\nIV - no dia 25 de janeiro, proceder-se-á, em todos os Conselhos Seccionais, à eleição da Diretoria do Conselho Federal, devendo o Presidente do Conselho Seccional comunicar, em três dias, à Diretoria do Conselho Federal, o resultado do pleito;\n\nIV – no dia 31 de janeiro do ano seguinte ao da eleição, o Conselho Federal elegerá, em reunião presidida pelo conselheiro mais antigo, por voto secreto e para mandato de 3 (três) anos, sua diretoria, que tomará posse no dia seguinte; (Redação dada pela Lei nº 11.179, de 2005)\n\nV - de posse dos resultados das Seccionais, a Diretoria do Conselho Federal procederá à contagem dos votos, correspondendo a cada Conselho Seccional um voto, e proclamará o resultado.\n\nV – será considerada eleita a chapa que obtiver maioria simples dos votos dos Conselheiros Federais, presente a metade mais 1 (um) de seus membros. (Redação dada pela Lei nº 11.179, de 2005)\n\nParágrafo único. Com exceção do candidato a Presidente, os demais integrantes da chapa deverão ser conselheiros federais eleitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2067.%20A%20elei%C3%A7%C3%A3o%20da%20Diretoria%20do%20Conselho%20Federal%2C%20que%20tomar%C3%A1%20posse%20no%20dia%201%C2%BA%20de%20fevereiro%2C%20obedecer%C3%A1%20%C3%A0s%20seguintes%20regras%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Salvo disposição em contrário, aplicam-se subsidiariamente ao processo disciplinar as regras da legislação processual penal comum e, aos demais processos, as regras gerais do procedimento administrativo comum e da legislação processual civil, nessa ordem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2068.%20Salvo%20disposi%C3%A7%C3%A3o%20em%20contr%C3%A1rio%2C%20aplicam-se%20subsidiariamente%20ao%20processo%20disciplinar%20as%20regras%20da%20legisla%C3%A7%C3%A3o%20processual%20penal%20comum%20e%2C%20aos%20demais%20processos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Todos os prazos necessários à manifestação de advogados, estagiários e terceiros, nos processos em geral da OAB, são de quinze dias, inclusive para interposição de recursos.\n\n§ 1º Nos casos de comunicação por ofício reservado, ou de notificação pessoal, o prazo se conta a partir do dia útil imediato ao da notificação do recebimento.\n\n§ 1º Nos casos de comunicação por ofício reservado ou de notificação pessoal, considera-se dia do começo do prazo o primeiro dia útil imediato ao da juntada aos autos do respectivo aviso de recebimento. (Redação dada pela Lei nº 14.365, de 2022)\n\n§ 2º Nos casos de publicação na imprensa oficial do ato ou da decisão, o prazo inicia-se no primeiro dia útil seguinte.\n\n§ 2º No caso de atos, notificações e decisões divulgados por meio do Diário Eletrônico da Ordem dos Advogados do Brasil, o prazo terá início no primeiro dia útil seguinte à publicação, assim considerada o primeiro dia útil seguinte ao da disponibilização da informação no Diário. (Redação dada Lei nº 13.688, de 2018) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2069.%20Todos%20os%20prazos%20necess%C3%A1rios%20%C3%A0%20manifesta%C3%A7%C3%A3o%20de%20advogados%2C%20estagi%C3%A1rios%20e%20terceiros%2C%20nos%20processos%20em%20geral%20da%20OAB%2C%20s%C3%A3o%20de%20quinze",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. O poder de punir disciplinarmente os inscritos na OAB compete exclusivamente ao Conselho Seccional em cuja base territorial tenha ocorrido a infração, salvo se a falta for cometida perante o Conselho Federal.\n\n§ 1º Cabe ao Tribunal de Ética e Disciplina, do Conselho Seccional competente, julgar os processos disciplinares, instruídos pelas Subseções ou por relatores do próprio conselho.\n\n§ 2º A decisão condenatória irrecorrível deve ser imediatamente comunicada ao Conselho Seccional onde o representado tenha inscrição principal, para constar dos respectivos assentamentos.\n\n§ 3º O Tribunal de Ética e Disciplina do Conselho onde o acusado tenha inscrição principal pode suspendê-lo preventivamente, em caso de repercussão prejudicial à dignidade da advocacia, depois de ouvi-lo em sessão especial para a qual deve ser notificado a comparecer, salvo se não atender à notificação. Neste caso, o processo disciplinar deve ser concluído no prazo máximo de noventa dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2070.%20O%20poder%20de%20punir%20disciplinarmente%20os%20inscritos%20na%20OAB%20compete%20exclusivamente%20ao%20Conselho%20Seccional%20em%20cuja%20base%20territorial%20tenha%20ocorrido",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. A jurisdição disciplinar não exclui a comum e, quando o fato constituir crime ou contravenção, deve ser comunicado às autoridades competentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2071.%20A%20jurisdi%C3%A7%C3%A3o%20disciplinar%20n%C3%A3o%20exclui%20a%20comum%20e%2C%20quando%20o%20fato%20constituir%20crime%20ou%20contraven%C3%A7%C3%A3o%2C%20deve%20ser%20comunicado%20%C3%A0s%20autoridades",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. O processo disciplinar instaura-se de ofício ou mediante representação de qualquer autoridade ou pessoa interessada.\n\n§ 1º O Código de Ética e Disciplina estabelece os critérios de admissibilidade da representação e os procedimentos disciplinares.\n\n§ 2º O processo disciplinar tramita em sigilo, até o seu término, só tendo acesso às suas informações as partes, seus defensores e a autoridade judiciária competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2072.%20O%20processo%20disciplinar%20instaura-se%20de%20of%C3%ADcio%20ou%20mediante%20representa%C3%A7%C3%A3o%20de%20qualquer%20autoridade%20ou%20pessoa%20interessada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Recebida a representação, o Presidente deve designar relator, a quem compete a instrução do processo e o oferecimento de parecer preliminar a ser submetido ao Tribunal de Ética e Disciplina.\n\n§ 1º Ao representado deve ser assegurado amplo direito de defesa, podendo acompanhar o processo em todos os termos, pessoalmente ou por intermédio de procurador, oferecendo defesa prévia após ser notificado, razões finais após a instrução e defesa oral perante o Tribunal de Ética e Disciplina, por ocasião do julgamento.\n\n§ 2º Se, após a defesa prévia, o relator se manifestar pelo indeferimento liminar da representação, este deve ser decidido pelo Presidente do Conselho Seccional, para determinar seu arquivamento.\n\n§ 3º O prazo para defesa prévia pode ser prorrogado por motivo relevante, a juízo do relator.\n\n§ 4º Se o representado não for encontrado, ou for revel, o Presidente do Conselho ou da Subseção deve designar-lhe defensor dativo;\n\n§ 5º É também permitida a revisão do processo disciplinar, por erro de julgamento ou por condenação baseada em falsa prova.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2073.%20Recebida%20a%20representa%C3%A7%C3%A3o%2C%20o%20Presidente%20deve%20designar%20relator%2C%20a%20quem%20compete%20a%20instru%C3%A7%C3%A3o%20do%20processo%20e%20o%20oferecimento%20de%20parecer",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. O Conselho Seccional pode adotar as medidas administrativas e judiciais pertinentes, objetivando a que o profissional suspenso ou excluído devolva os documentos de identificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2074.%20O%20Conselho%20Seccional%20pode%20adotar%20as%20medidas%20administrativas%20e%20judiciais%20pertinentes%2C%20objetivando%20a%20que%20o%20profissional%20suspenso%20ou%20exclu%C3%ADdo%20devolva",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Cabe recurso ao Conselho Federal de todas as decisões definitivas proferidas pelo Conselho Seccional, quando não tenham sido unânimes ou, sendo unânimes, contrariem esta lei, decisão do Conselho Federal ou de outro Conselho Seccional e, ainda, o regulamento geral, o Código de Ética e Disciplina e os Provimentos.\n\nParágrafo único. Além dos interessados, o Presidente do Conselho Seccional é legitimado a interpor o recurso referido neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2075.%20Cabe%20recurso%20ao%20Conselho%20Federal%20de%20todas%20as%20decis%C3%B5es%20definitivas%20proferidas%20pelo%20Conselho%20Seccional%2C%20quando%20n%C3%A3o%20tenham%20sido%20un%C3%A2nimes%20ou%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. Cabe recurso ao Conselho Seccional de todas as decisões proferidas por seu Presidente, pelo Tribunal de Ética e Disciplina, ou pela diretoria da Subseção ou da Caixa de Assistência dos Advogados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2076.%20Cabe%20recurso%20ao%20Conselho%20Seccional%20de%20todas%20as%20decis%C3%B5es%20proferidas%20por%20seu%20Presidente%2C%20pelo%20Tribunal%20de%20%C3%89tica%20e%20Disciplina%2C%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. Todos os recursos têm efeito suspensivo, exceto quando tratarem de eleições (arts. 63 e seguintes), de suspensão preventiva decidida pelo Tribunal de Ética e Disciplina, e de cancelamento da inscrição obtida com falsa prova.\n\nParágrafo único. O regulamento geral disciplina o cabimento de recursos específicos, no âmbito de cada órgão julgador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2077.%20Todos%20os%20recursos%20t%C3%AAm%20efeito%20suspensivo%2C%20exceto%20quando%20tratarem%20de%20elei%C3%A7%C3%B5es%20%28arts.%2063%20e%20seguintes%29%2C%20de%20suspens%C3%A3o%20preventiva%20decidida%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Cabe ao Conselho Federal da OAB, por deliberação de dois terços, pelo menos, das delegações, editar o regulamento geral deste estatuto, no prazo de seis meses, contados da publicação desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2078.%20Cabe%20ao%20Conselho%20Federal%20da%20OAB%2C%20por%20delibera%C3%A7%C3%A3o%20de%20dois%20ter%C3%A7os%2C%20pelo%20menos%2C%20das%20delega%C3%A7%C3%B5es%2C%20editar%20o%20regulamento%20geral%20deste",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. Aos servidores da OAB, aplica-se o regime trabalhista. (Vide ADIN 3026-4)\n\n§ 1º Aos servidores da OAB, sujeitos ao regime da Lei nº 8.112, de 11 de dezembro de 1990, é concedido o direito de opção pelo regime trabalhista, no prazo de noventa dias a partir da vigência desta lei, sendo assegurado aos optantes o pagamento de indenização, quando da aposentadoria, correspondente a cinco vezes o valor da última remuneração.\n\n§ 2º Os servidores que não optarem pelo regime trabalhista serão posicionados no quadro em extinção, assegurado o direito adquirido ao regime legal anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2079.%20Aos%20servidores%20da%20OAB%2C%20aplica-se%20o%20regime%20trabalhista.%20%28Vide%20ADIN%203026-4%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. Os Conselhos Federal e Seccionais devem promover trienalmente as respectivas Conferências, em data não coincidente com o ano eleitoral, e, periodicamente, reunião do colégio de presidentes a eles vinculados, com finalidade consultiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2080.%20Os%20Conselhos%20Federal%20e%20Seccionais%20devem%20promover%20trienalmente%20as%20respectivas%20Confer%C3%AAncias%2C%20em%20data%20n%C3%A3o%20coincidente%20com%20o%20ano%20eleitoral%2C%20e%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Não se aplicam aos que tenham assumido originariamente o cargo de Presidente do Conselho Federal ou dos Conselhos Seccionais, até a data da publicação desta lei, as normas contidas no Título II, acerca da composição desses Conselhos, ficando assegurado o pleno direito de voz e voto em suas sessões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2081.%20N%C3%A3o%20se%20aplicam%20aos%20que%20tenham%20assumido%20originariamente%20o%20cargo%20de%20Presidente%20do%20Conselho%20Federal%20ou%20dos%20Conselhos%20Seccionais%2C%20at%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Aplicam-se as alterações previstas nesta lei, quanto a mandatos, eleições, composição e atribuições dos órgãos da OAB, a partir do término do mandato dos atuais membros, devendo os Conselhos Federal e Seccionais disciplinarem os respectivos procedimentos de adaptação.\n\nParágrafo único. Os mandatos dos membros dos órgãos da OAB, eleitos na primeira eleição sob a vigência desta lei, e na forma do Capítulo VI do Título II, terão início no dia seguinte ao término dos atuais mandatos, encerrando-se em 31 de dezembro do terceiro ano do mandato e em 31 de janeiro do terceiro ano do mandato, neste caso com relação ao Conselho Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2082.%20Aplicam-se%20as%20altera%C3%A7%C3%B5es%20previstas%20nesta%20lei%2C%20quanto%20a%20mandatos%2C%20elei%C3%A7%C3%B5es%2C%20composi%C3%A7%C3%A3o%20e%20atribui%C3%A7%C3%B5es%20dos%20%C3%B3rg%C3%A3os%20da%20OAB%2C%20a%20partir%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Não se aplica o disposto no art. 28, inciso II, desta lei, aos membros do Ministério Público que, na data de promulgação da Constituição, se incluam na previsão do art. 29, § 3º, do seu Ato das Disposições Constitucionais Transitórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2083.%20N%C3%A3o%20se%20aplica%20o%20disposto%20no%20art.%2028%2C%20inciso%20II%2C%20desta%20lei%2C%20aos%20membros%20do%20Minist%C3%A9rio%20P%C3%BAblico%20que%2C%20na%20data",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. O estagiário, inscrito no respectivo quadro, fica dispensado do Exame de Ordem, desde que comprove, em até dois anos da promulgação desta lei, o exercício e resultado do estágio profissional ou a conclusão, com aproveitamento, do estágio de Prática Forense e Organização Judiciária, realizado junto à respectiva faculdade, na forma da legislação em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2084.%20O%20estagi%C3%A1rio%2C%20inscrito%20no%20respectivo%20quadro%2C%20fica%20dispensado%20do%20Exame%20de%20Ordem%2C%20desde%20que%20comprove%2C%20em%20at%C3%A9%20dois%20anos%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. O Instituto dos Advogados Brasileiros e as instituições a ele filiadas têm qualidade para promover perante a OAB o que julgarem do interesse dos advogados em geral ou de qualquer dos seus membros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2085.%20O%20Instituto%20dos%20Advogados%20Brasileiros%20e%20as%20institui%C3%A7%C3%B5es%20a%20ele%20filiadas%20t%C3%AAm%20qualidade%20para%20promover%20perante%20a%20OAB%20o%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2086.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. Revogam-se as disposições em contrário, especialmente a Lei nº 4.215, de 27 de abril de 1963, a Lei nº 5.390, de 23 de fevereiro de 1968, o Decreto-Lei nº 505, de 18 de março de 1969, a Lei nº 5.681, de 20 de julho de 1971, a Lei nº 5.842, de 6 de dezembro de 1972, a Lei nº 5.960, de 10 de dezembro de 1973, a Lei nº 6.743, de 5 de dezembro de 1979, a Lei nº 6.884, de 9 de dezembro de 1980, a Lei nº 6.994, de 26 de maio de 1982, mantidos os efeitos da Lei nº 7.346, de 22 de julho de 1985.\n\nBrasília, 4 de julho de 1994; 173º da Independência e 106º da República.\n\nITAMAR FRANCO Alexandre de Paula Dupeyrat Martins\n\nEste texto não substitui o publicado no DOU de 5.7.1994.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm#:~:text=Art.%2087.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20especialmente%20a%20Lei%20n%C2%BA%204.215%2C%20de%2027%20de%20abril%20de%201963%2C%20a%20Lei%20n%C2%BA%205.390%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": null
+    }
+  }
+}

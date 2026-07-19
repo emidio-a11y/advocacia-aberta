@@ -1,0 +1,2015 @@
+{
+  "_meta": {
+    "codigo": "LMIG",
+    "nome": "Lei de Migração",
+    "lei": "Lei 13.445/2017",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+    "total_artigos": 125,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre os direitos e os deveres do migrante e do visitante, regula a sua entrada e estada no País e estabelece princípios e diretrizes para as políticas públicas para o emigrante.\n\n§ 1º Para os fins desta Lei, considera-se:\n\nI - (VETADO);\n\nII - imigrante: pessoa nacional de outro país ou apátrida que trabalha ou reside e se estabelece temporária ou definitivamente no Brasil;\n\nIII - emigrante: brasileiro que se estabelece temporária ou definitivamente no exterior;\n\nIV - residente fronteiriço: pessoa nacional de país limítrofe ou apátrida que conserva a sua residência habitual em município fronteiriço de país vizinho;\n\nV - visitante: pessoa nacional de outro país ou apátrida que vem ao Brasil para estadas de curta duração, sem pretensão de se estabelecer temporária ou definitivamente no território nacional;\n\nVI - apátrida: pessoa que não seja considerada como nacional por nenhum Estado, segundo a sua legislação, nos termos da Convenção sobre o Estatuto dos Apátridas, de 1954, promulgada pelo Decreto nº 4.246, de 22 de maio de 2002 , ou assim reconhecida pelo Estado brasileiro.\n\n§ 2º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%20os%20direitos%20e%20os%20deveres%20do%20migrante%20e%20do%20visitante%2C%20regula%20a%20sua%20entrada%20e%20estada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Esta Lei não prejudica a aplicação de normas internas e internacionais específicas sobre refugiados, asilados, agentes e pessoal diplomático ou consular, funcionários de organização internacional e seus familiares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%202%C2%BA%20Esta%20Lei%20n%C3%A3o%20prejudica%20a%20aplica%C3%A7%C3%A3o%20de%20normas%20internas%20e%20internacionais%20espec%C3%ADficas%20sobre%20refugiados%2C%20asilados%2C%20agentes%20e%20pessoal%20diplom%C3%A1tico%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A política migratória brasileira rege-se pelos seguintes princípios e diretrizes:\n\nI - universalidade, indivisibilidade e interdependência dos direitos humanos;\n\nII - repúdio e prevenção à xenofobia, ao racismo e a quaisquer formas de discriminação;\n\nIII - não criminalização da migração;\n\nIV - não discriminação em razão dos critérios ou dos procedimentos pelos quais a pessoa foi admitida em território nacional;\n\nV - promoção de entrada regular e de regularização documental;\n\nVI - acolhida humanitária;\n\nVII - desenvolvimento econômico, turístico, social, cultural, esportivo, científico e tecnológico do Brasil;\n\nVIII - garantia do direito à reunião familiar;\n\nIX - igualdade de tratamento e de oportunidade ao migrante e a seus familiares;\n\nX - inclusão social, laboral e produtiva do migrante por meio de políticas públicas;\n\nXI - acesso igualitário e livre do migrante a serviços, programas e benefícios sociais, bens públicos, educação, assistência jurídica integral pública, trabalho, moradia, serviço bancário e seguridade social;\n\nXII - promoção e difusão de direitos, liberdades, garantias e obrigações do migrante;\n\nXIII - diálogo social na formulação, na execução e na avaliação de políticas migratórias e promoção da participação cidadã do migrante;\n\nXIV - fortalecimento da integração econômica, política, social e cultural dos povos da América Latina, mediante constituição de espaços de cidadania e de livre circulação de pessoas;\n\nXV - cooperação internacional com Estados de origem, de trânsito e de destino de movimentos migratórios, a fim de garantir efetiva proteção aos direitos humanos do migrante;\n\nXVI - integração e desenvolvimento das regiões de fronteira e articulação de políticas públicas regionais capazes de garantir efetividade aos direitos do residente fronteiriço;\n\nXVII - proteção integral e atenção ao superior interesse da criança e do adolescente migrante;\n\nXVIII - observância ao disposto em tratado;\n\nXIX - proteção ao brasileiro no exterior;\n\nXX - migração e desenvolvimento humano no local de origem, como direitos inalienáveis de todas as pessoas;\n\nXXI - promoção do reconhecimento acadêmico e do exercício profissional no Brasil, nos termos da lei; e\n\nXXII - repúdio a práticas de expulsão ou de deportação coletivas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%203%C2%BA%20A%20pol%C3%ADtica%20migrat%C3%B3ria%20brasileira%20rege-se%20pelos%20seguintes%20princ%C3%ADpios%20e%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Ao migrante é garantida no território nacional, em condição de igualdade com os nacionais, a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, bem como são assegurados:\n\nI - direitos e liberdades civis, sociais, culturais e econômicos;\n\nII - direito à liberdade de circulação em território nacional;\n\nIII - direito à reunião familiar do migrante com seu cônjuge ou companheiro e seus filhos, familiares e dependentes;\n\nIV - medidas de proteção a vítimas e testemunhas de crimes e de violações de direitos;\n\nV - direito de transferir recursos decorrentes de sua renda e economias pessoais a outro país, observada a legislação aplicável;\n\nVI - direito de reunião para fins pacíficos;\n\nVII - direito de associação, inclusive sindical, para fins lícitos;\n\nVIII - acesso a serviços públicos de saúde e de assistência social e à previdência social, nos termos da lei, sem discriminação em razão da nacionalidade e da condição migratória;\n\nIX - amplo acesso à justiça e à assistência jurídica integral gratuita aos que comprovarem insuficiência de recursos;\n\nX - direito à educação pública, vedada a discriminação em razão da nacionalidade e da condição migratória;\n\nXI - garantia de cumprimento de obrigações legais e contratuais trabalhistas e de aplicação das normas de proteção ao trabalhador, sem discriminação em razão da nacionalidade e da condição migratória;\n\nXII - isenção das taxas de que trata esta Lei, mediante declaração de hipossuficiência econômica, na forma de regulamento;\n\nXIII - direito de acesso à informação e garantia de confidencialidade quanto aos dados pessoais do migrante, nos termos da Lei nº 12.527, de 18 de novembro de 2011 ;\n\nXIV - direito a abertura de conta bancária;\n\nXV - direito de sair, de permanecer e de reingressar em território nacional, mesmo enquanto pendente pedido de autorização de residência, de prorrogação de estada ou de transformação de visto em autorização de residência; e\n\nXVI - direito do imigrante de ser informado sobre as garantias que lhe são asseguradas para fins de regularização migratória.\n\n§ 1º Os direitos e as garantias previstos nesta Lei serão exercidos em observância ao disposto na Constituição Federal, independentemente da situação migratória, observado o disposto no § 4º deste artigo, e não excluem outros decorrentes de tratado de que o Brasil seja parte.\n\n§ 2º (VETADO).\n\n§ 3º (VETADO).\n\n§ 4º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%204%C2%BA%20Ao%20migrante%20%C3%A9%20garantida%20no%20territ%C3%B3rio%20nacional%2C%20em%20condi%C3%A7%C3%A3o%20de%20igualdade%20com%20os%20nacionais%2C%20a%20inviolabilidade%20do%20direito%20%C3%A0%20vida%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º São documentos de viagem:\n\nI - passaporte;\n\nII - laissez-passer ;\n\nIII - autorização de retorno;\n\nIV - salvo-conduto;\n\nV - carteira de identidade de marítimo;\n\nVI - carteira de matrícula consular;\n\nVII - documento de identidade civil ou documento estrangeiro equivalente, quando admitidos em tratado;\n\nVIII - certificado de membro de tripulação de transporte aéreo; e\n\nIX - outros que vierem a ser reconhecidos pelo Estado brasileiro em regulamento.\n\n§ 1º Os documentos previstos nos incisos I, II, III, IV, V, VI e IX, quando emitidos pelo Estado brasileiro, são de propriedade da União, cabendo a seu titular a posse direta e o uso regular.\n\n§ 2º As condições para a concessão dos documentos de que trata o § 1º serão previstas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%205%C2%BA%20S%C3%A3o%20documentos%20de%20viagem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O visto é o documento que dá a seu titular expectativa de ingresso em território nacional.\n\nParágrafo único. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%206%C2%BA%20O%20visto%20%C3%A9%20o%20documento%20que%20d%C3%A1%20a%20seu%20titular%20expectativa%20de%20ingresso%20em%20territ%C3%B3rio%20nacional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O visto será concedido por embaixadas, consulados-gerais, consulados, vice-consulados e, quando habilitados pelo órgão competente do Poder Executivo, por escritórios comerciais e de representação do Brasil no exterior.\n\nParágrafo único. Excepcionalmente, os vistos diplomático, oficial e de cortesia poderão ser concedidos no Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%207%C2%BA%20O%20visto%20ser%C3%A1%20concedido%20por%20embaixadas%2C%20consulados-gerais%2C%20consulados%2C%20vice-consulados%20e%2C%20quando%20habilitados%20pelo%20%C3%B3rg%C3%A3o%20competente%20do%20Poder%20Executivo%2C%20por%20escrit%C3%B3rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Poderão ser cobrados taxas e emolumentos consulares pelo processamento do visto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%208%C2%BA%20Poder%C3%A3o%20ser%20cobrados%20taxas%20e%20emolumentos%20consulares%20pelo%20processamento%20do%20visto.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Regulamento disporá sobre:\n\nI - requisitos de concessão de visto, bem como de sua simplificação, inclusive por reciprocidade;\n\nII - prazo de validade do visto e sua forma de contagem;\n\nIII - prazo máximo para a primeira entrada e para a estada do imigrante e do visitante no País;\n\nIV - hipóteses e condições de dispensa recíproca ou unilateral de visto e de taxas e emolumentos consulares por seu processamento; e\n\nV - solicitação e emissão de visto por meio eletrônico.\n\nParágrafo único. A simplificação e a dispensa recíproca de visto ou de cobrança de taxas e emolumentos consulares por seu processamento poderão ser definidas por comunicação diplomática.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%209%C2%BA%20Regulamento%20dispor%C3%A1%20sobre%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Não se concederá visto:\n\nI - a quem não preencher os requisitos para o tipo de visto pleiteado;\n\nII - a quem comprovadamente ocultar condição impeditiva de concessão de visto ou de ingresso no País; ou\n\nIII - a menor de 18 (dezoito) anos desacompanhado ou sem autorização de viagem por escrito dos responsáveis legais ou de autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2010.%20N%C3%A3o%20se%20conceder%C3%A1%20visto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Poderá ser denegado visto a quem se enquadrar em pelo menos um dos casos de impedimento definidos nos incisos I, II, III, IV e IX do art. 45.\n\nParágrafo único. A pessoa que tiver visto brasileiro denegado será impedida de ingressar no País enquanto permanecerem as condições que ensejaram a denegação.\n\nSubseção II Dos Tipos de Visto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2011.%20Poder%C3%A1%20ser%20denegado%20visto%20a%20quem%20se%20enquadrar%20em%20pelo%20menos%20um%20dos%20casos%20de%20impedimento%20definidos%20nos%20incisos%20I%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Ao solicitante que pretenda ingressar ou permanecer em território nacional poderá ser concedido visto:\n\nI - de visita;\n\nII - temporário;\n\nIII - diplomático;\n\nIV - oficial;\n\nV - de cortesia.\n\nSubseção III Do Visto de Visita",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2012.%20Ao%20solicitante%20que%20pretenda%20ingressar%20ou%20permanecer%20em%20territ%C3%B3rio%20nacional%20poder%C3%A1%20ser%20concedido%20visto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O visto de visita poderá ser concedido ao visitante que venha ao Brasil para estada de curta duração, sem intenção de estabelecer residência, nos seguintes casos:\n\nI - turismo;\n\nII - negócios;\n\nIII - trânsito;\n\nIV - atividades artísticas ou desportivas; e\n\nV - outras hipóteses definidas em regulamento.\n\n§ 1º É vedado ao beneficiário de visto de visita exercer atividade remunerada no Brasil.\n\n§ 2º O beneficiário de visto de visita poderá receber pagamento do governo, de empregador brasileiro ou de entidade privada a título de diária, ajuda de custo, cachê, pró-labore ou outras despesas com a viagem, bem como concorrer a prêmios, inclusive em dinheiro, em competições desportivas ou em concursos artísticos ou culturais.\n\n§ 3º O visto de visita não será exigido em caso de escala ou conexão em território nacional, desde que o visitante não deixe a área de trânsito internacional.\n\nSubseção IV Do Visto Temporário",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2013.%20O%20visto%20de%20visita%20poder%C3%A1%20ser%20concedido%20ao%20visitante%20que%20venha%20ao%20Brasil%20para%20estada%20de%20curta%20dura%C3%A7%C3%A3o%2C%20sem%20inten%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O visto temporário poderá ser concedido ao imigrante que venha ao Brasil com o intuito de estabelecer residência por tempo determinado e que se enquadre em pelo menos uma das seguintes hipóteses:\n\nI - o visto temporário tenha como finalidade:\n\na) pesquisa, ensino ou extensão acadêmica;\n\nb) tratamento de saúde;\n\nc) acolhida humanitária;\n\nd) estudo;\n\ne) trabalho;\n\nf) férias-trabalho;\n\ng) prática de atividade religiosa ou serviço voluntário;\n\nh) realização de investimento ou de atividade com relevância econômica, social, científica, tecnológica ou cultural;\n\ni) reunião familiar;\n\nj) atividades artísticas ou desportivas com contrato por prazo determinado;\n\nII - o imigrante seja beneficiário de tratado em matéria de vistos;\n\nIII - outras hipóteses definidas em regulamento.\n\n§ 1º O visto temporário para pesquisa, ensino ou extensão acadêmica poderá ser concedido ao imigrante com ou sem vínculo empregatício com a instituição de pesquisa ou de ensino brasileira, exigida, na hipótese de vínculo, a comprovação de formação superior compatível ou equivalente reconhecimento científico.\n\n§ 2º O visto temporário para tratamento de saúde poderá ser concedido ao imigrante e a seu acompanhante, desde que o imigrante comprove possuir meios de subsistência suficientes.\n\n§ 3º O visto temporário para acolhida humanitária poderá ser concedido ao apátrida ou ao nacional de qualquer país em situação de grave ou iminente instabilidade institucional, de conflito armado, de calamidade de grande proporção, de desastre ambiental ou de grave violação de direitos humanos ou de direito internacional humanitário, ou em outras hipóteses, na forma de regulamento.\n\n§ 4º O visto temporário para estudo poderá ser concedido ao imigrante que pretenda vir ao Brasil para frequentar curso regular ou realizar estágio ou intercâmbio de estudo ou de pesquisa.\n\n§ 5º Observadas as hipóteses previstas em regulamento, o visto temporário para trabalho poderá ser concedido ao imigrante que venha exercer atividade laboral, com ou sem vínculo empregatício no Brasil, desde que comprove oferta de trabalho formalizada por pessoa jurídica em atividade no País, dispensada esta exigência se o imigrante comprovar titulação em curso de ensino superior ou equivalente.\n\n§ 6º O visto temporário para férias-trabalho poderá ser concedido ao imigrante maior de 16 (dezesseis) anos que seja nacional de país que conceda idêntico benefício ao nacional brasileiro, em termos definidos por comunicação diplomática.\n\n§ 7º Não se exigirá do marítimo que ingressar no Brasil em viagem de longo curso ou em cruzeiros marítimos pela costa brasileira o visto temporário de que trata a alínea “e” do inciso I do caput , bastando a apresentação da carteira internacional de marítimo, nos termos de regulamento.\n\n§ 8º É reconhecida ao imigrante a quem se tenha concedido visto temporário para trabalho a possibilidade de modificação do local de exercício de sua atividade laboral.\n\n§ 9º O visto para realização de investimento poderá ser concedido ao imigrante que aporte recursos em projeto com potencial para geração de empregos ou de renda no País.\n\n§ 10. (VETADO).\n\nSubseção V Dos Vistos Diplomático, Oficial e de Cortesia",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2014.%20O%20visto%20tempor%C3%A1rio%20poder%C3%A1%20ser%20concedido%20ao%20imigrante%20que%20venha%20ao%20Brasil%20com%20o%20intuito%20de%20estabelecer%20resid%C3%AAncia%20por%20tempo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os vistos diplomático, oficial e de cortesia serão concedidos, prorrogados ou dispensados na forma desta Lei e de regulamento.\n\nParágrafo único. Os vistos diplomático e oficial poderão ser transformados em autorização de residência, o que importará cessação de todas as prerrogativas, privilégios e imunidades decorrentes do respectivo visto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2015.%20Os%20vistos%20diplom%C3%A1tico%2C%20oficial%20e%20de%20cortesia%20ser%C3%A3o%20concedidos%2C%20prorrogados%20ou%20dispensados%20na%20forma%20desta%20Lei%20e%20de%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os vistos diplomático e oficial poderão ser concedidos a autoridades e funcionários estrangeiros que viajem ao Brasil em missão oficial de caráter transitório ou permanente, representando Estado estrangeiro ou organismo internacional reconhecido.\n\n§ 1º Não se aplica ao titular dos vistos referidos no caput o disposto na legislação trabalhista brasileira.\n\n§ 2º Os vistos diplomático e oficial poderão ser estendidos aos dependentes das autoridades referidas no caput .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2016.%20Os%20vistos%20diplom%C3%A1tico%20e%20oficial%20poder%C3%A3o%20ser%20concedidos%20a%20autoridades%20e%20funcion%C3%A1rios%20estrangeiros%20que%20viajem%20ao%20Brasil%20em%20miss%C3%A3o%20oficial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O titular de visto diplomático ou oficial somente poderá ser remunerado por Estado estrangeiro ou organismo internacional, ressalvado o disposto em tratado que contenha cláusula específica sobre o assunto.\n\nParágrafo único. O dependente de titular de visto diplomático ou oficial poderá exercer atividade remunerada no Brasil, sob o amparo da legislação trabalhista brasileira, desde que seja nacional de país que assegure reciprocidade de tratamento ao nacional brasileiro, por comunicação diplomática.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2017.%20O%20titular%20de%20visto%20diplom%C3%A1tico%20ou%20oficial%20somente%20poder%C3%A1%20ser%20remunerado%20por%20Estado%20estrangeiro%20ou%20organismo%20internacional%2C%20ressalvado%20o%20disposto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O empregado particular titular de visto de cortesia somente poderá exercer atividade remunerada para o titular de visto diplomático, oficial ou de cortesia ao qual esteja vinculado, sob o amparo da legislação trabalhista brasileira.\n\nParágrafo único. O titular de visto diplomático, oficial ou de cortesia será responsável pela saída de seu empregado do território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2018.%20O%20empregado%20particular%20titular%20de%20visto%20de%20cortesia%20somente%20poder%C3%A1%20exercer%20atividade%20remunerada%20para%20o%20titular%20de%20visto%20diplom%C3%A1tico%2C%20oficial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II Dos Vistos"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O registro consiste na identificação civil por dados biográficos e biométricos, e é obrigatório a todo imigrante detentor de visto temporário ou de autorização de residência.\n\n§ 1º O registro gerará número único de identificação que garantirá o pleno exercício dos atos da vida civil.\n\n§ 2º O documento de identidade do imigrante será expedido com base no número único de identificação.\n\n§ 3º Enquanto não for expedida identificação civil, o documento comprobatório de que o imigrante a solicitou à autoridade competente garantirá ao titular o acesso aos direitos disciplinados nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2019.%20O%20registro%20consiste%20na%20identifica%C3%A7%C3%A3o%20civil%20por%20dados%20biogr%C3%A1ficos%20e%20biom%C3%A9tricos%2C%20e%20%C3%A9%20obrigat%C3%B3rio%20a%20todo%20imigrante%20detentor%20de%20visto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III Do Registro e da Identificação Civil do Imigrante e dos Detentores de Vistos Diplomático, Oficial e de Cortesia"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A identificação civil de solicitante de refúgio, de asilo, de reconhecimento de apatridia e de acolhimento humanitário poderá ser realizada com a apresentação dos documentos de que o imigrante dispuser.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2020.%20A%20identifica%C3%A7%C3%A3o%20civil%20de%20solicitante%20de%20ref%C3%BAgio%2C%20de%20asilo%2C%20de%20reconhecimento%20de%20apatridia%20e%20de%20acolhimento%20humanit%C3%A1rio%20poder%C3%A1%20ser%20realizada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III Do Registro e da Identificação Civil do Imigrante e dos Detentores de Vistos Diplomático, Oficial e de Cortesia"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os documentos de identidade emitidos até a data de publicação desta Lei continuarão válidos até sua total substituição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2021.%20Os%20documentos%20de%20identidade%20emitidos%20at%C3%A9%20a%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%20continuar%C3%A3o%20v%C3%A1lidos%20at%C3%A9%20sua%20total%20substitui%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III Do Registro e da Identificação Civil do Imigrante e dos Detentores de Vistos Diplomático, Oficial e de Cortesia"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A identificação civil, o documento de identidade e as formas de gestão da base cadastral dos detentores de vistos diplomático, oficial e de cortesia atenderão a disposições específicas previstas em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2022.%20A%20identifica%C3%A7%C3%A3o%20civil%2C%20o%20documento%20de%20identidade%20e%20as%20formas%20de%20gest%C3%A3o%20da%20base%20cadastral%20dos%20detentores%20de%20vistos%20diplom%C3%A1tico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III Do Registro e da Identificação Civil do Imigrante e dos Detentores de Vistos Diplomático, Oficial e de Cortesia"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A fim de facilitar a sua livre circulação, poderá ser concedida ao residente fronteiriço, mediante requerimento, autorização para a realização de atos da vida civil.\n\nParágrafo único. Condições específicas poderão ser estabelecidas em regulamento ou tratado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2023.%20A%20fim%20de%20facilitar%20a%20sua%20livre%20circula%C3%A7%C3%A3o%2C%20poder%C3%A1%20ser%20concedida%20ao%20residente%20fronteiri%C3%A7o%2C%20mediante%20requerimento%2C%20autoriza%C3%A7%C3%A3o%20para%20a%20realiza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "I",
+        "section_name": "Seção I Do Residente Fronteiriço"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A autorização referida no caput do art. 23 indicará o Município fronteiriço no qual o residente estará autorizado a exercer os direitos a ele atribuídos por esta Lei.\n\n§ 1º O residente fronteiriço detentor da autorização gozará das garantias e dos direitos assegurados pelo regime geral de migração desta Lei, conforme especificado em regulamento.\n\n§ 2º O espaço geográfico de abrangência e de validade da autorização será especificado no documento de residente fronteiriço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2024.%20A%20autoriza%C3%A7%C3%A3o%20referida%20no%20caput%20do%20art.%2023%20indicar%C3%A1%20o%20Munic%C3%ADpio%20fronteiri%C3%A7o%20no%20qual%20o%20residente%20estar%C3%A1%20autorizado%20a%20exercer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "I",
+        "section_name": "Seção I Do Residente Fronteiriço"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O documento de residente fronteiriço será cancelado, a qualquer tempo, se o titular:\n\nI - tiver fraudado documento ou utilizado documento falso para obtê-lo;\n\nII - obtiver outra condição migratória;\n\nIII - sofrer condenação penal; ou\n\nIV - exercer direito fora dos limites previstos na autorização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2025.%20O%20documento%20de%20residente%20fronteiri%C3%A7o%20ser%C3%A1%20cancelado%2C%20a%20qualquer%20tempo%2C%20se%20o%20titular%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "I",
+        "section_name": "Seção I Do Residente Fronteiriço"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Regulamento disporá sobre instituto protetivo especial do apátrida, consolidado em processo simplificado de naturalização.\n\n§ 1º O processo de que trata o caput será iniciado tão logo seja reconhecida a situação de apatridia.\n\n§ 2º Durante a tramitação do processo de reconhecimento da condição de apátrida, incidem todas as garantias e mecanismos protetivos e de facilitação da inclusão social relativos à Convenção sobre o Estatuto dos Apátridas de 1954, promulgada pelo Decreto nº 4.246, de 22 de maio de 2002 , à Convenção relativa ao Estatuto dos Refugiados, promulgada pelo Decreto nº 50.215, de 28 de janeiro de 1961 , e à Lei nº 9.474, de 22 de julho de 1997 .\n\n§ 3º Aplicam-se ao apátrida residente todos os direitos atribuídos ao migrante relacionados no art. 4º.\n\n§ 4º O reconhecimento da condição de apátrida assegura os direitos e garantias previstos na Convenção sobre o Estatuto dos Apátridas, de 1954, promulgada pelo Decreto nº 4.246, de 22 de maio de 2002 , bem como outros direitos e garantias reconhecidos pelo Brasil.\n\n§ 5º O processo de reconhecimento da condição de apátrida tem como objetivo verificar se o solicitante é considerado nacional pela legislação de algum Estado e poderá considerar informações, documentos e declarações prestadas pelo próprio solicitante e por órgãos e organismos nacionais e internacionais.\n\n§ 6º Reconhecida a condição de apátrida, nos termos do inciso VI do § 1º do art. 1º, o solicitante será consultado sobre o desejo de adquirir a nacionalidade brasileira.\n\n§ 7º Caso o apátrida opte pela naturalização, a decisão sobre o reconhecimento será encaminhada ao órgão competente do Poder Executivo para publicação dos atos necessários à efetivação da naturalização no prazo de 30 (trinta) dias, observado o art. 65.\n\n§ 8º O apátrida reconhecido que não opte pela naturalização imediata terá a autorização de residência outorgada em caráter definitivo.\n\n§ 9º Caberá recurso contra decisão negativa de reconhecimento da condição de apátrida.\n\n§ 10. Subsistindo a denegação do reconhecimento da condição de apátrida, é vedada a devolução do indivíduo para país onde sua vida, integridade pessoal ou liberdade estejam em risco.\n\n§ 11. Será reconhecido o direito de reunião familiar a partir do reconhecimento da condição de apátrida.\n\n§ 12. Implica perda da proteção conferida por esta Lei:\n\nI - a renúncia;\n\nII - a prova da falsidade dos fundamentos invocados para o reconhecimento da condição de apátrida; ou\n\nIII - a existência de fatos que, se fossem conhecidos por ocasião do reconhecimento, teriam ensejado decisão negativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2026.%20Regulamento%20dispor%C3%A1%20sobre%20instituto%20protetivo%20especial%20do%20ap%C3%A1trida%2C%20consolidado%20em%20processo%20simplificado%20de%20naturaliza%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "II",
+        "section_name": "Seção II Da Proteção do Apátrida e da Redução da Apatridia"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O asilo político, que constitui ato discricionário do Estado, poderá ser diplomático ou territorial e será outorgado como instrumento de proteção à pessoa.\n\nParágrafo único. Regulamento disporá sobre as condições para a concessão e a manutenção de asilo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2027.%20O%20asilo%20pol%C3%ADtico%2C%20que%20constitui%20ato%20discricion%C3%A1rio%20do%20Estado%2C%20poder%C3%A1%20ser%20diplom%C3%A1tico%20ou%20territorial%20e%20ser%C3%A1%20outorgado%20como%20instrumento%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "III",
+        "section_name": "Seção III Do Asilado"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Não se concederá asilo a quem tenha cometido crime de genocídio, crime contra a humanidade, crime de guerra ou crime de agressão, nos termos do Estatuto de Roma do Tribunal Penal Internacional, de 1998, promulgado pelo Decreto nº 4.388, de 25 de setembro de 2002 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2028.%20N%C3%A3o%20se%20conceder%C3%A1%20asilo%20a%20quem%20tenha%20cometido%20crime%20de%20genoc%C3%ADdio%2C%20crime%20contra%20a%20humanidade%2C%20crime%20de%20guerra%20ou%20crime",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "III",
+        "section_name": "Seção III Do Asilado"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. A saída do asilado do País sem prévia comunicação implica renúncia ao asilo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2029.%20A%20sa%C3%ADda%20do%20asilado%20do%20Pa%C3%ADs%20sem%20pr%C3%A9via%20comunica%C3%A7%C3%A3o%20implica%20ren%C3%BAncia%20ao%20asilo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "III",
+        "section_name": "Seção III Do Asilado"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A residência poderá ser autorizada, mediante registro, ao imigrante, ao residente fronteiriço ou ao visitante que se enquadre em uma das seguintes hipóteses:\n\nI - a residência tenha como finalidade:\n\na) pesquisa, ensino ou extensão acadêmica;\n\nb) tratamento de saúde;\n\nc) acolhida humanitária;\n\nd) estudo;\n\ne) trabalho;\n\nf) férias-trabalho;\n\ng) prática de atividade religiosa ou serviço voluntário;\n\nh) realização de investimento ou de atividade com relevância econômica, social, científica, tecnológica ou cultural;\n\ni) reunião familiar;\n\nII - a pessoa:\n\na) seja beneficiária de tratado em matéria de residência e livre circulação;\n\nb) seja detentora de oferta de trabalho;\n\nc) já tenha possuído a nacionalidade brasileira e não deseje ou não reúna os requisitos para readquiri-la;\n\nd) (VETADO);\n\ne) seja beneficiária de refúgio, de asilo ou de proteção ao apátrida;\n\nf) seja menor nacional de outro país ou apátrida, desacompanhado ou abandonado, que se encontre nas fronteiras brasileiras ou em território nacional;\n\ng) tenha sido vítima de tráfico de pessoas, de trabalho escravo ou de violação de direito agravada por sua condição migratória;\n\nh) esteja em liberdade provisória ou em cumprimento de pena no Brasil;\n\nIII - outras hipóteses definidas em regulamento.\n\n§ 1º Não se concederá a autorização de residência a pessoa condenada criminalmente no Brasil ou no exterior por sentença transitada em julgado, desde que a conduta esteja tipificada na legislação penal brasileira, ressalvados os casos em que:\n\nI - a conduta caracterize infração de menor potencial ofensivo;\n\nII - (VETADO); ou\n\nIII - a pessoa se enquadre nas hipóteses previstas nas alíneas “b”, “c” e “i” do inciso I e na alínea “a” do inciso II do caput deste artigo.\n\n§ 2º O disposto no § 1º não obsta progressão de regime de cumprimento de pena, nos termos da Lei nº 7.210, de 11 de julho de 1984 , ficando a pessoa autorizada a trabalhar quando assim exigido pelo novo regime de cumprimento de pena.\n\n§ 3º Nos procedimentos conducentes ao cancelamento de autorização de residência e no recurso contra a negativa de concessão de autorização de residência devem ser respeitados o contraditório e a ampla defesa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2030.%20A%20resid%C3%AAncia%20poder%C3%A1%20ser%20autorizada%2C%20mediante%20registro%2C%20ao%20imigrante%2C%20ao%20residente%20fronteiri%C3%A7o%20ou%20ao%20visitante%20que%20se%20enquadre%20em%20uma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os prazos e o procedimento da autorização de residência de que trata o art. 30 serão dispostos em regulamento, observado o disposto nesta Lei.\n\n§ 1º Será facilitada a autorização de residência nas hipóteses das alíneas “a” e “e” do inciso I do art. 30 desta Lei, devendo a deliberação sobre a autorização ocorrer em prazo não superior a 60 (sessenta) dias, a contar de sua solicitação.\n\n§ 2º Nova autorização de residência poderá ser concedida, nos termos do art. 30, mediante requerimento.\n\n§ 3º O requerimento de nova autorização de residência após o vencimento do prazo da autorização anterior implicará aplicação da sanção prevista no inciso II do art. 109.\n\n§ 4º O solicitante de refúgio, de asilo ou de proteção ao apátrida fará jus a autorização provisória de residência até a obtenção de resposta ao seu pedido.\n\n§ 5º Poderá ser concedida autorização de residência independentemente da situação migratória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2031.%20Os%20prazos%20e%20o%20procedimento%20da%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia%20de%20que%20trata%20o%20art.%2030%20ser%C3%A3o%20dispostos%20em%20regulamento%2C%20observado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Poderão ser cobradas taxas pela autorização de residência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2032.%20Poder%C3%A3o%20ser%20cobradas%20taxas%20pela%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Regulamento disporá sobre a perda e o cancelamento da autorização de residência em razão de fraude ou de ocultação de condição impeditiva de concessão de visto, de ingresso ou de permanência no País, observado procedimento administrativo que garanta o contraditório e a ampla defesa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2033.%20Regulamento%20dispor%C3%A1%20sobre%20a%20perda%20e%20o%20cancelamento%20da%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia%20em%20raz%C3%A3o%20de%20fraude%20ou%20de%20oculta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Poderá ser negada autorização de residência com fundamento nas hipóteses previstas nos incisos I, II, III, IV e IX do art. 45.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2034.%20Poder%C3%A1%20ser%20negada%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia%20com%20fundamento%20nas%20hip%C3%B3teses%20previstas%20nos%20incisos%20I%2C%20II%2C%20III%2C%20IV%20e%20IX%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. A posse ou a propriedade de bem no Brasil não confere o direito de obter visto ou autorização de residência em território nacional, sem prejuízo do disposto sobre visto para realização de investimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2035.%20A%20posse%20ou%20a%20propriedade%20de%20bem%20no%20Brasil%20n%C3%A3o%20confere%20o%20direito%20de%20obter%20visto%20ou%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O visto de visita ou de cortesia poderá ser transformado em autorização de residência, mediante requerimento e registro, desde que satisfeitos os requisitos previstos em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2036.%20O%20visto%20de%20visita%20ou%20de%20cortesia%20poder%C3%A1%20ser%20transformado%20em%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia%2C%20mediante%20requerimento%20e%20registro%2C%20desde%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "IV",
+        "section_name": "Seção IV Da Autorização de Residência"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O visto ou a autorização de residência para fins de reunião familiar será concedido ao imigrante:\n\nI - cônjuge ou companheiro, sem discriminação alguma;\n\nII - filho de imigrante beneficiário de autorização de residência, ou que tenha filho brasileiro ou imigrante beneficiário de autorização de residência;\n\nIII - ascendente, descendente até o segundo grau ou irmão de brasileiro ou de imigrante beneficiário de autorização de residência; ou\n\nIV - que tenha brasileiro sob sua tutela ou guarda.\n\nParágrafo único. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2037.%20O%20visto%20ou%20a%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia%20para%20fins%20de%20reuni%C3%A3o%20familiar%20ser%C3%A1%20concedido%20ao%20imigrante%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA CONDIÇÃO JURÍDICA DO MIGRANTE E DO VISITANTE",
+        "section": "V",
+        "section_name": "Seção V Da Reunião Familiar"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. As funções de polícia marítima, aeroportuária e de fronteira serão realizadas pela Polícia Federal nos pontos de entrada e de saída do território nacional.\n\nParágrafo único. É dispensável a fiscalização de passageiro, tripulante e estafe de navio em passagem inocente, exceto quando houver necessidade de descida de pessoa a terra ou de subida a bordo do navio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2038.%20As%20fun%C3%A7%C3%B5es%20de%20pol%C3%ADcia%20mar%C3%ADtima%2C%20aeroportu%C3%A1ria%20e%20de%20fronteira%20ser%C3%A3o%20realizadas%20pela%20Pol%C3%ADcia%20Federal%20nos%20pontos%20de%20entrada%20e%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "I",
+        "section_name": "Seção I Da Fiscalização Marítima, Aeroportuária e de Fronteira"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O viajante deverá permanecer em área de fiscalização até que seu documento de viagem tenha sido verificado, salvo os casos previstos em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2039.%20O%20viajante%20dever%C3%A1%20permanecer%20em%20%C3%A1rea%20de%20fiscaliza%C3%A7%C3%A3o%20at%C3%A9%20que%20seu%20documento%20de%20viagem%20tenha%20sido%20verificado%2C%20salvo%20os%20casos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "I",
+        "section_name": "Seção I Da Fiscalização Marítima, Aeroportuária e de Fronteira"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Poderá ser autorizada a admissão excepcional no País de pessoa que se encontre em uma das seguintes condições, desde que esteja de posse de documento de viagem válido:\n\nI - não possua visto;\n\nII - seja titular de visto emitido com erro ou omissão;\n\nIII - tenha perdido a condição de residente por ter permanecido ausente do País na forma especificada em regulamento e detenha as condições objetivas para a concessão de nova autorização de residência;\n\nIV - (VETADO); ou\n\nV - seja criança ou adolescente desacompanhado de responsável legal e sem autorização expressa para viajar desacompanhado, independentemente do documento de viagem que portar, hipótese em que haverá imediato encaminhamento ao Conselho Tutelar ou, em caso de necessidade, a instituição indicada pela autoridade competente.\n\nParágrafo único. Regulamento poderá dispor sobre outras hipóteses excepcionais de admissão, observados os princípios e as diretrizes desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2040.%20Poder%C3%A1%20ser%20autorizada%20a%20admiss%C3%A3o%20excepcional%20no%20Pa%C3%ADs%20de%20pessoa%20que%20se%20encontre%20em%20uma%20das%20seguintes%20condi%C3%A7%C3%B5es%2C%20desde%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "I",
+        "section_name": "Seção I Da Fiscalização Marítima, Aeroportuária e de Fronteira"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A entrada condicional, em território nacional, de pessoa que não preencha os requisitos de admissão poderá ser autorizada mediante a assinatura, pelo transportador ou por seu agente, de termo de compromisso de custear as despesas com a permanência e com as providências para a repatriação do viajante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2041.%20A%20entrada%20condicional%2C%20em%20territ%C3%B3rio%20nacional%2C%20de%20pessoa%20que%20n%C3%A3o%20preencha%20os%20requisitos%20de%20admiss%C3%A3o%20poder%C3%A1%20ser%20autorizada%20mediante%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "I",
+        "section_name": "Seção I Da Fiscalização Marítima, Aeroportuária e de Fronteira"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O tripulante ou o passageiro que, por motivo de força maior, for obrigado a interromper a viagem em território nacional poderá ter seu desembarque permitido mediante termo de responsabilidade pelas despesas decorrentes do transbordo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2042.%20O%20tripulante%20ou%20o%20passageiro%20que%2C%20por%20motivo%20de%20for%C3%A7a%20maior%2C%20for%20obrigado%20a%20interromper%20a%20viagem%20em%20territ%C3%B3rio%20nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "I",
+        "section_name": "Seção I Da Fiscalização Marítima, Aeroportuária e de Fronteira"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A autoridade responsável pela fiscalização contribuirá para a aplicação de medidas sanitárias em consonância com o Regulamento Sanitário Internacional e com outras disposições pertinentes",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2043.%20A%20autoridade%20respons%C3%A1vel%20pela%20fiscaliza%C3%A7%C3%A3o%20contribuir%C3%A1%20para%20a%20aplica%C3%A7%C3%A3o%20de%20medidas%20sanit%C3%A1rias%20em%20conson%C3%A2ncia%20com%20o%20Regulamento%20Sanit%C3%A1rio%20Internacional%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "I",
+        "section_name": "Seção I Da Fiscalização Marítima, Aeroportuária e de Fronteira"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2044.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "II",
+        "section_name": "Seção II Do Impedimento de Ingresso"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Poderá ser impedida de ingressar no País, após entrevista individual e mediante ato fundamentado, a pessoa:\n\nI - anteriormente expulsa do País, enquanto os efeitos da expulsão vigorarem;\n\nII - condenada ou respondendo a processo por ato de terrorismo ou por crime de genocídio, crime contra a humanidade, crime de guerra ou crime de agressão, nos termos definidos pelo Estatuto de Roma do Tribunal Penal Internacional, de 1998, promulgado pelo Decreto nº 4.388, de 25 de setembro de 2002 ;\n\nIII - condenada ou respondendo a processo em outro país por crime doloso passível de extradição segundo a lei brasileira;\n\nIV - que tenha o nome incluído em lista de restrições por ordem judicial ou por compromisso assumido pelo Brasil perante organismo internacional;\n\nV - que apresente documento de viagem que:\n\na) não seja válido para o Brasil;\n\nb) esteja com o prazo de validade vencido; ou\n\nc) esteja com rasura ou indício de falsificação;\n\nVI - que não apresente documento de viagem ou documento de identidade, quando admitido;\n\nVII - cuja razão da viagem não seja condizente com o visto ou com o motivo alegado para a isenção de visto;\n\nVIII - que tenha, comprovadamente, fraudado documentação ou prestado informação falsa por ocasião da solicitação de visto; ou\n\nIX - que tenha praticado ato contrário aos princípios e objetivos dispostos na Constituição Federal.\n\nParágrafo único. Ninguém será impedido de ingressar no País por motivo de raça, religião, nacionalidade, pertinência a grupo social ou opinião política.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2045.%20Poder%C3%A1%20ser%20impedida%20de%20ingressar%20no%20Pa%C3%ADs%2C%20ap%C3%B3s%20entrevista%20individual%20e%20mediante%20ato%20fundamentado%2C%20a%20pessoa%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA ENTRADA E DA SAÍDA DO TERRITÓRIO NACIONAL",
+        "section": "II",
+        "section_name": "Seção II Do Impedimento de Ingresso"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A aplicação deste Capítulo observará o disposto na Lei nº 9.474, de 22 de julho de 1997 , e nas disposições legais, tratados, instrumentos e mecanismos que tratem da proteção aos apátridas ou de outras situações humanitárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2046.%20A%20aplica%C3%A7%C3%A3o%20deste%20Cap%C3%ADtulo%20observar%C3%A1%20o%20disposto%20na%20Lei%20n%C2%BA%209.474%2C%20de%2022%20de%20julho%20de%201997%20%2C%20e%20nas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "I",
+        "section_name": "Seção I Disposições Gerais"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. A repatriação, a deportação e a expulsão serão feitas para o país de nacionalidade ou de procedência do migrante ou do visitante, ou para outro que o aceite, em observância aos tratados dos quais o Brasil seja parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2047.%20A%20repatria%C3%A7%C3%A3o%2C%20a%20deporta%C3%A7%C3%A3o%20e%20a%20expuls%C3%A3o%20ser%C3%A3o%20feitas%20para%20o%20pa%C3%ADs%20de%20nacionalidade%20ou%20de%20proced%C3%AAncia%20do%20migrante%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "I",
+        "section_name": "Seção I Disposições Gerais"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Nos casos de deportação ou expulsão, o chefe da unidade da Polícia Federal poderá representar perante o juízo federal, respeitados, nos procedimentos judiciais, os direitos à ampla defesa e ao devido processo legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2048.%20Nos%20casos%20de%20deporta%C3%A7%C3%A3o%20ou%20expuls%C3%A3o%2C%20o%20chefe%20da%20unidade%20da%20Pol%C3%ADcia%20Federal%20poder%C3%A1%20representar%20perante%20o%20ju%C3%ADzo%20federal%2C%20respeitados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "I",
+        "section_name": "Seção I Disposições Gerais"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A repatriação consiste em medida administrativa de devolução de pessoa em situação de impedimento ao país de procedência ou de nacionalidade.\n\n§ 1º Será feita imediata comunicação do ato fundamentado de repatriação à empresa transportadora e à autoridade consular do país de procedência ou de nacionalidade do migrante ou do visitante, ou a quem o representa.\n\n§ 2º A Defensoria Pública da União será notificada, preferencialmente por via eletrônica, no caso do § 4º deste artigo ou quando a repatriação imediata não seja possível.\n\n§ 3º Condições específicas de repatriação podem ser definidas por regulamento ou tratado, observados os princípios e as garantias previstos nesta Lei.\n\n§ 4º Não será aplicada medida de repatriação à pessoa em situação de refúgio ou de apatridia, de fato ou de direito, ao menor de 18 (dezoito) anos desacompanhado ou separado de sua família, exceto nos casos em que se demonstrar favorável para a garantia de seus direitos ou para a reintegração a sua família de origem, ou a quem necessite de acolhimento humanitário, nem, em qualquer caso, medida de devolução para país ou região que possa apresentar risco à vida, à integridade pessoal ou à liberdade da pessoa.\n\n§ 5º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2049.%20A%20repatria%C3%A7%C3%A3o%20consiste%20em%20medida%20administrativa%20de%20devolu%C3%A7%C3%A3o%20de%20pessoa%20em%20situa%C3%A7%C3%A3o%20de%20impedimento%20ao%20pa%C3%ADs%20de%20proced%C3%AAncia%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "II",
+        "section_name": "Seção II Da Repatriação"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A deportação é medida decorrente de procedimento administrativo que consiste na retirada compulsória de pessoa que se encontre em situação migratória irregular em território nacional.\n\n§ 1º A deportação será precedida de notificação pessoal ao deportando, da qual constem, expressamente, as irregularidades verificadas e prazo para a regularização não inferior a 60 (sessenta) dias, podendo ser prorrogado, por igual período, por despacho fundamentado e mediante compromisso de a pessoa manter atualizadas suas informações domiciliares.\n\n§ 2º A notificação prevista no § 1º não impede a livre circulação em território nacional, devendo o deportando informar seu domicílio e suas atividades.\n\n§ 3º Vencido o prazo do § 1º sem que se regularize a situação migratória, a deportação poderá ser executada.\n\n§ 4º A deportação não exclui eventuais direitos adquiridos em relações contratuais ou decorrentes da lei brasileira.\n\n§ 5º A saída voluntária de pessoa notificada para deixar o País equivale ao cumprimento da notificação de deportação para todos os fins.\n\n§ 6º O prazo previsto no § 1º poderá ser reduzido nos casos que se enquadrem no inciso IX do art. 45.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2050.%20A%20deporta%C3%A7%C3%A3o%20%C3%A9%20medida%20decorrente%20de%20procedimento%20administrativo%20que%20consiste%20na%20retirada%20compuls%C3%B3ria%20de%20pessoa%20que%20se%20encontre%20em%20situa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "III",
+        "section_name": "Seção III Da Deportação"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Os procedimentos conducentes à deportação devem respeitar o contraditório e a ampla defesa e a garantia de recurso com efeito suspensivo.\n\n§ 1º A Defensoria Pública da União deverá ser notificada, preferencialmente por meio eletrônico, para prestação de assistência ao deportando em todos os procedimentos administrativos de deportação.\n\n§ 2º A ausência de manifestação da Defensoria Pública da União, desde que prévia e devidamente notificada, não impedirá a efetivação da medida de deportação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2051.%20Os%20procedimentos%20conducentes%20%C3%A0%20deporta%C3%A7%C3%A3o%20devem%20respeitar%20o%20contradit%C3%B3rio%20e%20a%20ampla%20defesa%20e%20a%20garantia%20de%20recurso%20com%20efeito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "III",
+        "section_name": "Seção III Da Deportação"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Em se tratando de apátrida, o procedimento de deportação dependerá de prévia autorização da autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2052.%20Em%20se%20tratando%20de%20ap%C3%A1trida%2C%20o%20procedimento%20de%20deporta%C3%A7%C3%A3o%20depender%C3%A1%20de%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%20da%20autoridade%20competente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "III",
+        "section_name": "Seção III Da Deportação"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Não se procederá à deportação se a medida configurar extradição não admitida pela legislação brasileira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2053.%20N%C3%A3o%20se%20proceder%C3%A1%20%C3%A0%20deporta%C3%A7%C3%A3o%20se%20a%20medida%20configurar%20extradi%C3%A7%C3%A3o%20n%C3%A3o%20admitida%20pela%20legisla%C3%A7%C3%A3o%20brasileira.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "III",
+        "section_name": "Seção III Da Deportação"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. A expulsão consiste em medida administrativa de retirada compulsória de migrante ou visitante do território nacional, conjugada com o impedimento de reingresso por prazo determinado.\n\n§ 1º Poderá dar causa à expulsão a condenação com sentença transitada em julgado relativa à prática de:\n\nI - crime de genocídio, crime contra a humanidade, crime de guerra ou crime de agressão, nos termos definidos pelo Estatuto de Roma do Tribunal Penal Internacional, de 1998, promulgado pelo Decreto nº 4.388, de 25 de setembro de 2002 ; ou\n\nII - crime comum doloso passível de pena privativa de liberdade, consideradas a gravidade e as possibilidades de ressocialização em território nacional.\n\n§ 2º Caberá à autoridade competente resolver sobre a expulsão, a duração do impedimento de reingresso e a suspensão ou a revogação dos efeitos da expulsão, observado o disposto nesta Lei.\n\n§ 3º O processamento da expulsão em caso de crime comum não prejudicará a progressão de regime, o cumprimento da pena, a suspensão condicional do processo, a comutação da pena ou a concessão de pena alternativa, de indulto coletivo ou individual, de anistia ou de quaisquer benefícios concedidos em igualdade de condições ao nacional brasileiro.\n\n§ 4º O prazo de vigência da medida de impedimento vinculada aos efeitos da expulsão será proporcional ao prazo total da pena aplicada e nunca será superior ao dobro de seu tempo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2054.%20A%20expuls%C3%A3o%20consiste%20em%20medida%20administrativa%20de%20retirada%20compuls%C3%B3ria%20de%20migrante%20ou%20visitante%20do%20territ%C3%B3rio%20nacional%2C%20conjugada%20com%20o%20impedimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Não se procederá à expulsão quando:\n\nI - a medida configurar extradição inadmitida pela legislação brasileira;\n\nII - o expulsando:\n\na) tiver filho brasileiro que esteja sob sua guarda ou dependência econômica ou socioafetiva ou tiver pessoa brasileira sob sua tutela;\n\nb) tiver cônjuge ou companheiro residente no Brasil, sem discriminação alguma, reconhecido judicial ou legalmente;\n\nc) tiver ingressado no Brasil até os 12 (doze) anos de idade, residindo desde então no País;\n\nd) for pessoa com mais de 70 (setenta) anos que resida no País há mais de 10 (dez) anos, considerados a gravidade e o fundamento da expulsão; ou\n\ne) (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2055.%20N%C3%A3o%20se%20proceder%C3%A1%20%C3%A0%20expuls%C3%A3o%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Regulamento definirá procedimentos para apresentação e processamento de pedidos de suspensão e de revogação dos efeitos das medidas de expulsão e de impedimento de ingresso e permanência em território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2056.%20Regulamento%20definir%C3%A1%20procedimentos%20para%20apresenta%C3%A7%C3%A3o%20e%20processamento%20de%20pedidos%20de%20suspens%C3%A3o%20e%20de%20revoga%C3%A7%C3%A3o%20dos%20efeitos%20das%20medidas%20de%20expuls%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Regulamento disporá sobre condições especiais de autorização de residência para viabilizar medidas de ressocialização a migrante e a visitante em cumprimento de penas aplicadas ou executadas em território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2057.%20Regulamento%20dispor%C3%A1%20sobre%20condi%C3%A7%C3%B5es%20especiais%20de%20autoriza%C3%A7%C3%A3o%20de%20resid%C3%AAncia%20para%20viabilizar%20medidas%20de%20ressocializa%C3%A7%C3%A3o%20a%20migrante%20e%20a%20visitante%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. No processo de expulsão serão garantidos o contraditório e a ampla defesa.\n\n§ 1º A Defensoria Pública da União será notificada da instauração de processo de expulsão, se não houver defensor constituído.\n\n§ 2º Caberá pedido de reconsideração da decisão sobre a expulsão no prazo de 10 (dez) dias, a contar da notificação pessoal do expulsando.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2058.%20No%20processo%20de%20expuls%C3%A3o%20ser%C3%A3o%20garantidos%20o%20contradit%C3%B3rio%20e%20a%20ampla%20defesa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Será considerada regular a situação migratória do expulsando cujo processo esteja pendente de decisão, nas condições previstas no art. 55.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2059.%20Ser%C3%A1%20considerada%20regular%20a%20situa%C3%A7%C3%A3o%20migrat%C3%B3ria%20do%20expulsando%20cujo%20processo%20esteja%20pendente%20de%20decis%C3%A3o%2C%20nas%20condi%C3%A7%C3%B5es%20previstas%20no%20art.%2055.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. A existência de processo de expulsão não impede a saída voluntária do expulsando do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2060.%20A%20exist%C3%AAncia%20de%20processo%20de%20expuls%C3%A3o%20n%C3%A3o%20impede%20a%20sa%C3%ADda%20volunt%C3%A1ria%20do%20expulsando%20do%20Pa%C3%ADs.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "IV",
+        "section_name": "Seção IV Da Expulsão"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Não se procederá à repatriação, à deportação ou à expulsão coletivas.\n\nParágrafo único. Entende-se por repatriação, deportação ou expulsão coletiva aquela que não individualiza a situação migratória irregular de cada pessoa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2061.%20N%C3%A3o%20se%20proceder%C3%A1%20%C3%A0%20repatria%C3%A7%C3%A3o%2C%20%C3%A0%20deporta%C3%A7%C3%A3o%20ou%20%C3%A0%20expuls%C3%A3o%20coletivas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "V",
+        "section_name": "Seção V Das Vedações"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Não se procederá à repatriação, à deportação ou à expulsão de nenhum indivíduo quando subsistirem razões para acreditar que a medida poderá colocar em risco a vida ou a integridade pessoal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2062.%20N%C3%A3o%20se%20proceder%C3%A1%20%C3%A0%20repatria%C3%A7%C3%A3o%2C%20%C3%A0%20deporta%C3%A7%C3%A3o%20ou%20%C3%A0%20expuls%C3%A3o%20de%20nenhum%20indiv%C3%ADduo%20quando%20subsistirem%20raz%C3%B5es%20para%20acreditar%20que%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS MEDIDAS DE RETIRADA COMPULSÓRIA",
+        "section": "V",
+        "section_name": "Seção V Das Vedações"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. O filho de pai ou de mãe brasileiro nascido no exterior e que não tenha sido registrado em repartição consular poderá, a qualquer tempo, promover ação de opção de nacionalidade.\n\nParágrafo único. O órgão de registro deve informar periodicamente à autoridade competente os dados relativos à opção de nacionalidade, conforme regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2063.%20O%20filho%20de%20pai%20ou%20de%20m%C3%A3e%20brasileiro%20nascido%20no%20exterior%20e%20que%20n%C3%A3o%20tenha%20sido%20registrado%20em%20reparti%C3%A7%C3%A3o%20consular",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Opção de Nacionalidade"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A naturalização pode ser:\n\nI - ordinária;\n\nII - extraordinária;\n\nIII - especial; ou\n\nIV - provisória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2064.%20A%20naturaliza%C3%A7%C3%A3o%20pode%20ser%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Será concedida a naturalização ordinária àquele que preencher as seguintes condições:\n\nI - ter capacidade civil, segundo a lei brasileira;\n\nII - ter residência em território nacional, pelo prazo mínimo de 4 (quatro) anos;\n\nIII - comunicar-se em língua portuguesa, consideradas as condições do naturalizando; e\n\nIV - não possuir condenação penal ou estiver reabilitado, nos termos da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2065.%20Ser%C3%A1%20concedida%20a%20naturaliza%C3%A7%C3%A3o%20ordin%C3%A1ria%20%C3%A0quele%20que%20preencher%20as%20seguintes%20condi%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. O prazo de residência fixado no inciso II do caput do art. 65 será reduzido para, no mínimo, 1 (um) ano se o naturalizando preencher quaisquer das seguintes condições:\n\nI - (VETADO);\n\nII - ter filho brasileiro;\n\nIII - ter cônjuge ou companheiro brasileiro e não estar dele separado legalmente ou de fato no momento de concessão da naturalização;\n\nIV - (VETADO);\n\nV - haver prestado ou poder prestar serviço relevante ao Brasil; ou\n\nVI - recomendar-se por sua capacidade profissional, científica ou artística.\n\nParágrafo único. O preenchimento das condições previstas nos incisos V e VI do caput será avaliado na forma disposta em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2066.%20O%20prazo%20de%20resid%C3%AAncia%20fixado%20no%20inciso%20II%20do%20caput%20do%20art.%2065%20ser%C3%A1%20reduzido%20para%2C%20no%20m%C3%ADnimo%2C%201%20%28um%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. A naturalização extraordinária será concedida a pessoa de qualquer nacionalidade fixada no Brasil há mais de 15 (quinze) anos ininterruptos e sem condenação penal, desde que requeira a nacionalidade brasileira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2067.%20A%20naturaliza%C3%A7%C3%A3o%20extraordin%C3%A1ria%20ser%C3%A1%20concedida%20a%20pessoa%20de%20qualquer%20nacionalidade%20fixada%20no%20Brasil%20h%C3%A1%20mais%20de%2015%20%28quinze%29%20anos%20ininterruptos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. A naturalização especial poderá ser concedida ao estrangeiro que se encontre em uma das seguintes situações:\n\nI - seja cônjuge ou companheiro, há mais de 5 (cinco) anos, de integrante do Serviço Exterior Brasileiro em atividade ou de pessoa a serviço do Estado brasileiro no exterior; ou\n\nII - seja ou tenha sido empregado em missão diplomática ou em repartição consular do Brasil por mais de 10 (dez) anos ininterruptos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2068.%20A%20naturaliza%C3%A7%C3%A3o%20especial%20poder%C3%A1%20ser%20concedida%20ao%20estrangeiro%20que%20se%20encontre%20em%20uma%20das%20seguintes%20situa%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. São requisitos para a concessão da naturalização especial:\n\nI - ter capacidade civil, segundo a lei brasileira;\n\nII - comunicar-se em língua portuguesa, consideradas as condições do naturalizando; e\n\nIII - não possuir condenação penal ou estiver reabilitado, nos termos da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2069.%20S%C3%A3o%20requisitos%20para%20a%20concess%C3%A3o%20da%20naturaliza%C3%A7%C3%A3o%20especial%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. A naturalização provisória poderá ser concedida ao migrante criança ou adolescente que tenha fixado residência em território nacional antes de completar 10 (dez) anos de idade e deverá ser requerida por intermédio de seu representante legal.\n\nParágrafo único. A naturalização prevista no caput será convertida em definitiva se o naturalizando expressamente assim o requerer no prazo de 2 (dois) anos após atingir a maioridade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2070.%20A%20naturaliza%C3%A7%C3%A3o%20provis%C3%B3ria%20poder%C3%A1%20ser%20concedida%20ao%20migrante%20crian%C3%A7a%20ou%20adolescente%20que%20tenha%20fixado%20resid%C3%AAncia%20em%20territ%C3%B3rio%20nacional%20antes%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. O pedido de naturalização será apresentado e processado na forma prevista pelo órgão competente do Poder Executivo, sendo cabível recurso em caso de denegação.\n\n§ 1º No curso do processo de naturalização, o naturalizando poderá requerer a tradução ou a adaptação de seu nome à língua portuguesa.\n\n§ 2º Será mantido cadastro com o nome traduzido ou adaptado associado ao nome anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2071.%20O%20pedido%20de%20naturaliza%C3%A7%C3%A3o%20ser%C3%A1%20apresentado%20e%20processado%20na%20forma%20prevista%20pelo%20%C3%B3rg%C3%A3o%20competente%20do%20Poder%20Executivo%2C%20sendo%20cab%C3%ADvel%20recurso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. No prazo de até 1 (um) ano após a concessão da naturalização, deverá o naturalizado comparecer perante a Justiça Eleitoral para o devido cadastramento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2072.%20No%20prazo%20de%20at%C3%A9%201%20%28um%29%20ano%20ap%C3%B3s%20a%20concess%C3%A3o%20da%20naturaliza%C3%A7%C3%A3o%2C%20dever%C3%A1%20o%20naturalizado%20comparecer%20perante%20a%20Justi%C3%A7a%20Eleitoral",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Das Condições da Naturalização"
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. A naturalização produz efeitos após a publicação no Diário Oficial do ato de naturalização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2073.%20A%20naturaliza%C3%A7%C3%A3o%20produz%20efeitos%20ap%C3%B3s%20a%20publica%C3%A7%C3%A3o%20no%20Di%C3%A1rio%20Oficial%20do%20ato%20de%20naturaliza%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "III",
+        "section_name": "Seção III Dos Efeitos da Naturalização"
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2074.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "III",
+        "section_name": "Seção III Dos Efeitos da Naturalização"
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. O naturalizado perderá a nacionalidade em razão de condenação transitada em julgado por atividade nociva ao interesse nacional, nos termos do inciso I do § 4º do art. 12 da Constituição Federal .\n\nParágrafo único. O risco de geração de situação de apatridia será levado em consideração antes da efetivação da perda da nacionalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2075.%20O%20naturalizado%20perder%C3%A1%20a%20nacionalidade%20em%20raz%C3%A3o%20de%20condena%C3%A7%C3%A3o%20transitada%20em%20julgado%20por%20atividade%20nociva%20ao%20interesse%20nacional%2C%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "IV",
+        "section_name": "Seção IV Da Perda da Nacionalidade"
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. O brasileiro que, em razão do previsto no inciso II do § 4º do art. 12 da Constituição Federal , houver perdido a nacionalidade, uma vez cessada a causa, poderá readquiri-la ou ter o ato que declarou a perda revogado, na forma definida pelo órgão competente do Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2076.%20O%20brasileiro%20que%2C%20em%20raz%C3%A3o%20do%20previsto%20no%20inciso%20II%20do%20%C2%A7%204%C2%BA%20do%20art.%2012%20da%20Constitui%C3%A7%C3%A3o%20Federal%20%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA OPÇÃO DE NACIONALIDADE E DA NATURALIZAÇÃO",
+        "section": "V",
+        "section_name": "Seção V Da Reaquisição da Nacionalidade"
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. As políticas públicas para os emigrantes observarão os seguintes princípios e diretrizes:\n\nI - proteção e prestação de assistência consular por meio das representações do Brasil no exterior;\n\nII - promoção de condições de vida digna, por meio, entre outros, da facilitação do registro consular e da prestação de serviços consulares relativos às áreas de educação, saúde, trabalho, previdência social e cultura;\n\nIII - promoção de estudos e pesquisas sobre os emigrantes e as comunidades de brasileiros no exterior, a fim de subsidiar a formulação de políticas públicas;\n\nIV - atuação diplomática, nos âmbitos bilateral, regional e multilateral, em defesa dos direitos do emigrante brasileiro, conforme o direito internacional\n\nV - ação governamental integrada, com a participação de órgãos do governo com atuação nas áreas temáticas mencionadas nos incisos I, II, III e IV, visando a assistir as comunidades brasileiras no exterior; e\n\nVI - esforço permanente de desburocratização, atualização e modernização do sistema de atendimento, com o objetivo de aprimorar a assistência ao emigrante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2077.%20As%20pol%C3%ADticas%20p%C3%BAblicas%20para%20os%20emigrantes%20observar%C3%A3o%20os%20seguintes%20princ%C3%ADpios%20e%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DO EMIGRANTE",
+        "section": "I",
+        "section_name": "Seção I Das Políticas Públicas para os Emigrantes"
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Todo emigrante que decida retornar ao Brasil com ânimo de residência poderá introduzir no País, com isenção de direitos de importação e de taxas aduaneiras, os bens novos ou usados que um viajante, em compatibilidade com as circunstâncias de sua viagem, puder destinar para seu uso ou consumo pessoal e profissional, sempre que, por sua quantidade, natureza ou variedade, não permitam presumir importação ou exportação com fins comerciais ou industriais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2078.%20Todo%20emigrante%20que%20decida%20retornar%20ao%20Brasil%20com%20%C3%A2nimo%20de%20resid%C3%AAncia%20poder%C3%A1%20introduzir%20no%20Pa%C3%ADs%2C%20com%20isen%C3%A7%C3%A3o%20de%20direitos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DO EMIGRANTE",
+        "section": "II",
+        "section_name": "Seção II Dos Direitos do Emigrante"
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. Em caso de ameaça à paz social e à ordem pública por grave ou iminente instabilidade institucional ou de calamidade de grande proporção na natureza, deverá ser prestada especial assistência ao emigrante pelas representações brasileiras no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2079.%20Em%20caso%20de%20amea%C3%A7a%20%C3%A0%20paz%20social%20e%20%C3%A0%20ordem%20p%C3%BAblica%20por%20grave%20ou%20iminente%20instabilidade%20institucional%20ou%20de%20calamidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DO EMIGRANTE",
+        "section": "II",
+        "section_name": "Seção II Dos Direitos do Emigrante"
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. O tripulante brasileiro contratado por embarcação ou armadora estrangeira, de cabotagem ou a longo curso e com sede ou filial no Brasil, que explore economicamente o mar territorial e a costa brasileira terá direito a seguro a cargo do contratante, válido para todo o período da contratação, conforme o disposto no Registro de Embarcações Brasileiras (REB), contra acidente de trabalho, invalidez total ou parcial e morte, sem prejuízo de benefícios de apólice mais favorável vigente no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2080.%20O%20tripulante%20brasileiro%20contratado%20por%20embarca%C3%A7%C3%A3o%20ou%20armadora%20estrangeira%2C%20de%20cabotagem%20ou%20a%20longo%20curso%20e%20com%20sede%20ou%20filial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DO EMIGRANTE",
+        "section": "II",
+        "section_name": "Seção II Dos Direitos do Emigrante"
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. A extradição é a medida de cooperação internacional entre o Estado brasileiro e outro Estado pela qual se concede ou solicita a entrega de pessoa sobre quem recaia condenação criminal definitiva ou para fins de instrução de processo penal em curso.\n\n§ 1º A extradição será requerida por via diplomática ou pelas autoridades centrais designadas para esse fim.\n\n§ 2º A extradição e sua rotina de comunicação serão realizadas pelo órgão competente do Poder Executivo em coordenação com as autoridades judiciárias e policiais competentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2081.%20A%20extradi%C3%A7%C3%A3o%20%C3%A9%20a%20medida%20de%20coopera%C3%A7%C3%A3o%20internacional%20entre%20o%20Estado%20brasileiro%20e%20outro%20Estado%20pela%20qual%20se%20concede%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Não se concederá a extradição quando:\n\nI - o indivíduo cuja extradição é solicitada ao Brasil for brasileiro nato;\n\nII - o fato que motivar o pedido não for considerado crime no Brasil ou no Estado requerente;\n\nIII - o Brasil for competente, segundo suas leis, para julgar o crime imputado ao extraditando;\n\nIV - a lei brasileira impuser ao crime pena de prisão inferior a 2 (dois) anos;\n\nV - o extraditando estiver respondendo a processo ou já houver sido condenado ou absolvido no Brasil pelo mesmo fato em que se fundar o pedido;\n\nVI - a punibilidade estiver extinta pela prescrição, segundo a lei brasileira ou a do Estado requerente;\n\nVII - o fato constituir crime político ou de opinião;\n\nVIII - o extraditando tiver de responder, no Estado requerente, perante tribunal ou juízo de exceção; ou\n\nIX - o extraditando for beneficiário de refúgio, nos termos da Lei nº 9.474, de 22 de julho de 1997 , ou de asilo territorial.\n\n§ 1º A previsão constante do inciso VII do caput não impedirá a extradição quando o fato constituir, principalmente, infração à lei penal comum ou quando o crime comum, conexo ao delito político, constituir o fato principal.\n\n§ 2º Caberá à autoridade judiciária competente a apreciação do caráter da infração.\n\n§ 3º Para determinação da incidência do disposto no inciso I, será observada, nos casos de aquisição de outra nacionalidade por naturalização, a anterioridade do fato gerador da extradição.\n\n§ 4º O Supremo Tribunal Federal poderá deixar de considerar crime político o atentado contra chefe de Estado ou quaisquer autoridades, bem como crime contra a humanidade, crime de guerra, crime de genocídio e terrorismo.\n\n§ 5º Admite-se a extradição de brasileiro naturalizado, nas hipóteses previstas na Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2082.%20N%C3%A3o%20se%20conceder%C3%A1%20a%20extradi%C3%A7%C3%A3o%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. São condições para concessão da extradição:\n\nI - ter sido o crime cometido no território do Estado requerente ou serem aplicáveis ao extraditando as leis penais desse Estado; e\n\nII - estar o extraditando respondendo a processo investigatório ou a processo penal ou ter sido condenado pelas autoridades judiciárias do Estado requerente a pena privativa de liberdade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2083.%20S%C3%A3o%20condi%C3%A7%C3%B5es%20para%20concess%C3%A3o%20da%20extradi%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Em caso de urgência, o Estado interessado na extradição poderá, previamente ou conjuntamente com a formalização do pedido extradicional, requerer, por via diplomática ou por meio de autoridade central do Poder Executivo, prisão cautelar com o objetivo de assegurar a executoriedade da medida de extradição que, após exame da presença dos pressupostos formais de admissibilidade exigidos nesta Lei ou em tratado, deverá representar à autoridade judicial competente, ouvido previamente o Ministério Público Federal.\n\n§ 1º O pedido de prisão cautelar deverá conter informação sobre o crime cometido e deverá ser fundamentado, podendo ser apresentado por correio, fax, mensagem eletrônica ou qualquer outro meio que assegure a comunicação por escrito.\n\n§ 2º O pedido de prisão cautelar poderá ser transmitido à autoridade competente para extradição no Brasil por meio de canal estabelecido com o ponto focal da Organização Internacional de Polícia Criminal (Interpol) no País, devidamente instruído com a documentação comprobatória da existência de ordem de prisão proferida por Estado estrangeiro, e, em caso de ausência de tratado, com a promessa de reciprocidade recebida por via diplomática.\n\n§ 3º Efetivada a prisão do extraditando, o pedido de extradição será encaminhado à autoridade judiciária competente.\n\n§ 4º Na ausência de disposição específica em tratado, o Estado estrangeiro deverá formalizar o pedido de extradição no prazo de 60 (sessenta) dias, contado da data em que tiver sido cientificado da prisão do extraditando.\n\n§ 5º Caso o pedido de extradição não seja apresentado no prazo previsto no § 4º, o extraditando deverá ser posto em liberdade, não se admitindo novo pedido de prisão cautelar pelo mesmo fato sem que a extradição tenha sido devidamente requerida.\n\n§ 6º A prisão cautelar poderá ser prorrogada até o julgamento final da autoridade judiciária competente quanto à legalidade do pedido de extradição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2084.%20Em%20caso%20de%20urg%C3%AAncia%2C%20o%20Estado%20interessado%20na%20extradi%C3%A7%C3%A3o%20poder%C3%A1%2C%20previamente%20ou%20conjuntamente%20com%20a%20formaliza%C3%A7%C3%A3o%20do%20pedido%20extradicional%2C%20requerer%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. Quando mais de um Estado requerer a extradição da mesma pessoa, pelo mesmo fato, terá preferência o pedido daquele em cujo território a infração foi cometida.\n\n§ 1º Em caso de crimes diversos, terá preferência, sucessivamente:\n\nI - o Estado requerente em cujo território tenha sido cometido o crime mais grave, segundo a lei brasileira;\n\nII - o Estado que em primeiro lugar tenha pedido a entrega do extraditando, se a gravidade dos crimes for idêntica;\n\nIII - o Estado de origem, ou, em sua falta, o domiciliar do extraditando, se os pedidos forem simultâneos.\n\n§ 2º Nos casos não previstos nesta Lei, o órgão competente do Poder Executivo decidirá sobre a preferência do pedido, priorizando o Estado requerente que mantiver tratado de extradição com o Brasil.\n\n§ 3º Havendo tratado com algum dos Estados requerentes, prevalecerão suas normas no que diz respeito à preferência de que trata este artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2085.%20Quando%20mais%20de%20um%20Estado%20requerer%20a%20extradi%C3%A7%C3%A3o%20da%20mesma%20pessoa%2C%20pelo%20mesmo%20fato%2C%20ter%C3%A1%20prefer%C3%AAncia%20o%20pedido%20daquele%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. O Supremo Tribunal Federal, ouvido o Ministério Público, poderá autorizar prisão albergue ou domiciliar ou determinar que o extraditando responda ao processo de extradição em liberdade, com retenção do documento de viagem ou outras medidas cautelares necessárias, até o julgamento da extradição ou a entrega do extraditando, se pertinente, considerando a situação administrativa migratória, os antecedentes do extraditando e as circunstâncias do caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2086.%20O%20Supremo%20Tribunal%20Federal%2C%20ouvido%20o%20Minist%C3%A9rio%20P%C3%BAblico%2C%20poder%C3%A1%20autorizar%20pris%C3%A3o%20albergue%20ou%20domiciliar%20ou%20determinar%20que%20o%20extraditando%20responda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. O extraditando poderá entregar-se voluntariamente ao Estado requerente, desde que o declare expressamente, esteja assistido por advogado e seja advertido de que tem direito ao processo judicial de extradição e à proteção que tal direito encerra, caso em que o pedido será decidido pelo Supremo Tribunal Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2087.%20O%20extraditando%20poder%C3%A1%20entregar-se%20voluntariamente%20ao%20Estado%20requerente%2C%20desde%20que%20o%20declare%20expressamente%2C%20esteja%20assistido%20por%20advogado%20e%20seja%20advertido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Todo pedido que possa originar processo de extradição em face de Estado estrangeiro deverá ser encaminhado ao órgão competente do Poder Executivo diretamente pelo órgão do Poder Judiciário responsável pela decisão ou pelo processo penal que a fundamenta.\n\n§ 1º Compete a órgão do Poder Executivo o papel de orientação, de informação e de avaliação dos elementos formais de admissibilidade dos processos preparatórios para encaminhamento ao Estado requerido.\n\n§ 2º Compete aos órgãos do sistema de Justiça vinculados ao processo penal gerador de pedido de extradição a apresentação de todos os documentos, manifestações e demais elementos necessários para o processamento do pedido, inclusive suas traduções oficiais.\n\n§ 3º O pedido deverá ser instruído com cópia autêntica ou com o original da sentença condenatória ou da decisão penal proferida, conterá indicações precisas sobre o local, a data, a natureza e as circunstâncias do fato criminoso e a identidade do extraditando e será acompanhado de cópia dos textos legais sobre o crime, a competência, a pena e a prescrição.\n\n§ 4º O encaminhamento do pedido de extradição ao órgão competente do Poder Executivo confere autenticidade aos documentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2088.%20Todo%20pedido%20que%20possa%20originar%20processo%20de%20extradi%C3%A7%C3%A3o%20em%20face%20de%20Estado%20estrangeiro%20dever%C3%A1%20ser%20encaminhado%20ao%20%C3%B3rg%C3%A3o%20competente%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. O pedido de extradição originado de Estado estrangeiro será recebido pelo órgão competente do Poder Executivo e, após exame da presença dos pressupostos formais de admissibilidade exigidos nesta Lei ou em tratado, encaminhado à autoridade judiciária competente.\n\nParágrafo único. Não preenchidos os pressupostos referidos no caput , o pedido será arquivado mediante decisão fundamentada, sem prejuízo da possibilidade de renovação do pedido, devidamente instruído, uma vez superado o óbice apontado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2089.%20O%20pedido%20de%20extradi%C3%A7%C3%A3o%20originado%20de%20Estado%20estrangeiro%20ser%C3%A1%20recebido%20pelo%20%C3%B3rg%C3%A3o%20competente%20do%20Poder%20Executivo%20e%2C%20ap%C3%B3s%20exame%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. Nenhuma extradição será concedida sem prévio pronunciamento do Supremo Tribunal Federal sobre sua legalidade e procedência, não cabendo recurso da decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2090.%20Nenhuma%20extradi%C3%A7%C3%A3o%20ser%C3%A1%20concedida%20sem%20pr%C3%A9vio%20pronunciamento%20do%20Supremo%20Tribunal%20Federal%20sobre%20sua%20legalidade%20e%20proced%C3%AAncia%2C%20n%C3%A3o%20cabendo%20recurso%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "89",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. Ao receber o pedido, o relator designará dia e hora para o interrogatório do extraditando e, conforme o caso, nomear-lhe-á curador ou advogado, se não o tiver.\n\n§ 1º A defesa, a ser apresentada no prazo de 10 (dez) dias contado da data do interrogatório, versará sobre a identidade da pessoa reclamada, defeito de forma de documento apresentado ou ilegalidade da extradição.\n\n§ 2º Não estando o processo devidamente instruído, o Tribunal, a requerimento do órgão do Ministério Público Federal correspondente, poderá converter o julgamento em diligência para suprir a falta.\n\n§ 3º Para suprir a falta referida no § 2º, o Ministério Público Federal terá prazo improrrogável de 60 (sessenta) dias, após o qual o pedido será julgado independentemente da diligência.\n\n§ 4º O prazo referido no § 3º será contado da data de notificação à missão diplomática do Estado requerente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2091.%20Ao%20receber%20o%20pedido%2C%20o%20relator%20designar%C3%A1%20dia%20e%20hora%20para%20o%20interrogat%C3%B3rio%20do%20extraditando%20e%2C%20conforme%20o%20caso%2C%20nomear-lhe-%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "90",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. Julgada procedente a extradição e autorizada a entrega pelo órgão competente do Poder Executivo, será o ato comunicado por via diplomática ao Estado requerente, que, no prazo de 60 (sessenta) dias da comunicação, deverá retirar o extraditando do território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2092.%20Julgada%20procedente%20a%20extradi%C3%A7%C3%A3o%20e%20autorizada%20a%20entrega%20pelo%20%C3%B3rg%C3%A3o%20competente%20do%20Poder%20Executivo%2C%20ser%C3%A1%20o%20ato%20comunicado%20por%20via",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "91",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. Se o Estado requerente não retirar o extraditando do território nacional no prazo previsto no art. 92, será ele posto em liberdade, sem prejuízo de outras medidas aplicáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2093.%20Se%20o%20Estado%20requerente%20n%C3%A3o%20retirar%20o%20extraditando%20do%20territ%C3%B3rio%20nacional%20no%20prazo%20previsto%20no%20art.%2092%2C%20ser%C3%A1%20ele%20posto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "92",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art. 94. Negada a extradição em fase judicial, não se admitirá novo pedido baseado no mesmo fato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2094.%20Negada%20a%20extradi%C3%A7%C3%A3o%20em%20fase%20judicial%2C%20n%C3%A3o%20se%20admitir%C3%A1%20novo%20pedido%20baseado%20no%20mesmo%20fato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art. 95. Quando o extraditando estiver sendo processado ou tiver sido condenado, no Brasil, por crime punível com pena privativa de liberdade, a extradição será executada somente depois da conclusão do processo ou do cumprimento da pena, ressalvadas as hipóteses de liberação antecipada pelo Poder Judiciário e de determinação da transferência da pessoa condenada.\n\n§ 1º A entrega do extraditando será igualmente adiada se a efetivação da medida puser em risco sua vida em virtude de enfermidade grave comprovada por laudo médico oficial.\n\n§ 2º Quando o extraditando estiver sendo processado ou tiver sido condenado, no Brasil, por infração de menor potencial ofensivo, a entrega poderá ser imediatamente efetivada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2095.%20Quando%20o%20extraditando%20estiver%20sendo%20processado%20ou%20tiver%20sido%20condenado%2C%20no%20Brasil%2C%20por%20crime%20pun%C3%ADvel%20com%20pena%20privativa%20de%20liberdade%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. Não será efetivada a entrega do extraditando sem que o Estado requerente assuma o compromisso de:\n\nI - não submeter o extraditando a prisão ou processo por fato anterior ao pedido de extradição;\n\nII - computar o tempo da prisão que, no Brasil, foi imposta por força da extradição;\n\nIII - comutar a pena corporal, perpétua ou de morte em pena privativa de liberdade, respeitado o limite máximo de cumprimento de 30 (trinta) anos;\n\nIV - não entregar o extraditando, sem consentimento do Brasil, a outro Estado que o reclame;\n\nV - não considerar qualquer motivo político para agravar a pena; e\n\nVI - não submeter o extraditando a tortura ou a outros tratamentos ou penas cruéis, desumanos ou degradantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2096.%20N%C3%A3o%20ser%C3%A1%20efetivada%20a%20entrega%20do%20extraditando%20sem%20que%20o%20Estado%20requerente%20assuma%20o%20compromisso%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. A entrega do extraditando, de acordo com as leis brasileiras e respeitado o direito de terceiro, será feita com os objetos e instrumentos do crime encontrados em seu poder.\n\nParágrafo único. Os objetos e instrumentos referidos neste artigo poderão ser entregues independentemente da entrega do extraditando.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2097.%20A%20entrega%20do%20extraditando%2C%20de%20acordo%20com%20as%20leis%20brasileiras%20e%20respeitado%20o%20direito%20de%20terceiro%2C%20ser%C3%A1%20feita%20com%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "96",
+      "next": "98"
+    },
+    "98": {
+      "numero": "98",
+      "texto": "Art. 98. O extraditando que, depois de entregue ao Estado requerente, escapar à ação da Justiça e homiziar-se no Brasil, ou por ele transitar, será detido mediante pedido feito diretamente por via diplomática ou pela Interpol e novamente entregue, sem outras formalidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2098.%20O%20extraditando%20que%2C%20depois%20de%20entregue%20ao%20Estado%20requerente%2C%20escapar%20%C3%A0%20a%C3%A7%C3%A3o%20da%20Justi%C3%A7a%20e%20homiziar-se%20no%20Brasil%2C%20ou%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "97",
+      "next": "99"
+    },
+    "99": {
+      "numero": "99",
+      "texto": "Art. 99. Salvo motivo de ordem pública, poderá ser permitido, pelo órgão competente do Poder Executivo, o trânsito no território nacional de pessoa extraditada por Estado estrangeiro, bem como o da respectiva guarda, mediante apresentação de documento comprobatório de concessão da medida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%2099.%20Salvo%20motivo%20de%20ordem%20p%C3%BAblica%2C%20poder%C3%A1%20ser%20permitido%2C%20pelo%20%C3%B3rg%C3%A3o%20competente%20do%20Poder%20Executivo%2C%20o%20tr%C3%A2nsito%20no%20territ%C3%B3rio%20nacional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "I",
+        "section_name": "Seção I Da Extradição"
+      },
+      "prev": "98",
+      "next": "100"
+    },
+    "100": {
+      "numero": "100",
+      "texto": "Art. 100. Nas hipóteses em que couber solicitação de extradição executória, a autoridade competente poderá solicitar ou autorizar a transferência de execução da pena, desde que observado o princípio do non bis in idem .\n\nParágrafo único. Sem prejuízo do disposto no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) , a transferência de execução da pena será possível quando preenchidos os seguintes requisitos:\n\nI - o condenado em território estrangeiro for nacional ou tiver residência habitual ou vínculo pessoal no Brasil;\n\nII - a sentença tiver transitado em julgado;\n\nIII - a duração da condenação a cumprir ou que restar para cumprir for de, pelo menos, 1 (um) ano, na data de apresentação do pedido ao Estado da condenação;\n\nIV - o fato que originou a condenação constituir infração penal perante a lei de ambas as partes; e\n\nV - houver tratado ou promessa de reciprocidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20100.%20Nas%20hip%C3%B3teses%20em%20que%20couber%20solicita%C3%A7%C3%A3o%20de%20extradi%C3%A7%C3%A3o%20execut%C3%B3ria%2C%20a%20autoridade%20competente%20poder%C3%A1%20solicitar%20ou%20autorizar%20a%20transfer%C3%AAncia%20de%20execu%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Da Transferência de Execução da Pena"
+      },
+      "prev": "99",
+      "next": "101"
+    },
+    "101": {
+      "numero": "101",
+      "texto": "Art. 101. O pedido de transferência de execução da pena de Estado estrangeiro será requerido por via diplomática ou por via de autoridades centrais.\n\n§ 1º O pedido será recebido pelo órgão competente do Poder Executivo e, após exame da presença dos pressupostos formais de admissibilidade exigidos nesta Lei ou em tratado, encaminhado ao Superior Tribunal de Justiça para decisão quanto à homologação.\n\n§ 2º Não preenchidos os pressupostos referidos no § 1º, o pedido será arquivado mediante decisão fundamentada, sem prejuízo da possibilidade de renovação do pedido, devidamente instruído, uma vez superado o óbice apontado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20101.%20O%20pedido%20de%20transfer%C3%AAncia%20de%20execu%C3%A7%C3%A3o%20da%20pena%20de%20Estado%20estrangeiro%20ser%C3%A1%20requerido%20por%20via%20diplom%C3%A1tica%20ou%20por%20via%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Da Transferência de Execução da Pena"
+      },
+      "prev": "100",
+      "next": "102"
+    },
+    "102": {
+      "numero": "102",
+      "texto": "Art. 102. A forma do pedido de transferência de execução da pena e seu processamento serão definidos em regulamento.\n\nParágrafo único. Nos casos previstos nesta Seção, a execução penal será de competência da Justiça Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20102.%20A%20forma%20do%20pedido%20de%20transfer%C3%AAncia%20de%20execu%C3%A7%C3%A3o%20da%20pena%20e%20seu%20processamento%20ser%C3%A3o%20definidos%20em%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "II",
+        "section_name": "Seção II Da Transferência de Execução da Pena"
+      },
+      "prev": "101",
+      "next": "103"
+    },
+    "103": {
+      "numero": "103",
+      "texto": "Art. 103. A transferência de pessoa condenada poderá ser concedida quando o pedido se fundamentar em tratado ou houver promessa de reciprocidade.\n\n§ 1º O condenado no território nacional poderá ser transferido para seu país de nacionalidade ou país em que tiver residência habitual ou vínculo pessoal, desde que expresse interesse nesse sentido, a fim de cumprir pena a ele imposta pelo Estado brasileiro por sentença transitada em julgado.\n\n§ 2º A transferência de pessoa condenada no Brasil pode ser concedida juntamente com a aplicação de medida de impedimento de reingresso em território nacional, na forma de regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20103.%20A%20transfer%C3%AAncia%20de%20pessoa%20condenada%20poder%C3%A1%20ser%20concedida%20quando%20o%20pedido%20se%20fundamentar%20em%20tratado%20ou%20houver%20promessa%20de%20reciprocidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "III",
+        "section_name": "Seção III Da Transferência de Pessoa Condenada"
+      },
+      "prev": "102",
+      "next": "104"
+    },
+    "104": {
+      "numero": "104",
+      "texto": "Art. 104. A transferência de pessoa condenada será possível quando preenchidos os seguintes requisitos:\n\nI - o condenado no território de uma das partes for nacional ou tiver residência habitual ou vínculo pessoal no território da outra parte que justifique a transferência;\n\nII - a sentença tiver transitado em julgado;\n\nIII - a duração da condenação a cumprir ou que restar para cumprir for de, pelo menos, 1 (um) ano, na data de apresentação do pedido ao Estado da condenação;\n\nIV - o fato que originou a condenação constituir infração penal perante a lei de ambos os Estados;\n\nV - houver manifestação de vontade do condenado ou, quando for o caso, de seu representante; e\n\nVI - houver concordância de ambos os Estados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20104.%20A%20transfer%C3%AAncia%20de%20pessoa%20condenada%20ser%C3%A1%20poss%C3%ADvel%20quando%20preenchidos%20os%20seguintes%20requisitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "III",
+        "section_name": "Seção III Da Transferência de Pessoa Condenada"
+      },
+      "prev": "103",
+      "next": "105"
+    },
+    "105": {
+      "numero": "105",
+      "texto": "Art. 105. A forma do pedido de transferência de pessoa condenada e seu processamento serão definidos em regulamento.\n\n§ 1º Nos casos previstos nesta Seção, a execução penal será de competência da Justiça Federal.\n\n§ 2º Não se procederá à transferência quando inadmitida a extradição.\n\n§ 3º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20105.%20A%20forma%20do%20pedido%20de%20transfer%C3%AAncia%20de%20pessoa%20condenada%20e%20seu%20processamento%20ser%C3%A3o%20definidos%20em%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS MEDIDAS DE COOPERAÇÃO",
+        "section": "III",
+        "section_name": "Seção III Da Transferência de Pessoa Condenada"
+      },
+      "prev": "104",
+      "next": "106"
+    },
+    "106": {
+      "numero": "106",
+      "texto": "Art. 106. Regulamento disporá sobre o procedimento de apuração das infrações administrativas e seu processamento e sobre a fixação e a atualização das multas, em observância ao disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20106.%20Regulamento%20dispor%C3%A1%20sobre%20o%20procedimento%20de%20apura%C3%A7%C3%A3o%20das%20infra%C3%A7%C3%B5es%20administrativas%20e%20seu%20processamento%20e%20sobre%20a%20fixa%C3%A7%C3%A3o%20e%20a%20atualiza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DAS INFRAÇÕES E DAS PENALIDADES ADMINISTRATIVAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "105",
+      "next": "107"
+    },
+    "107": {
+      "numero": "107",
+      "texto": "Art. 107. As infrações administrativas previstas neste Capítulo serão apuradas em processo administrativo próprio, assegurados o contraditório e a ampla defesa e observadas as disposições desta Lei.\n\n§ 1º O cometimento simultâneo de duas ou mais infrações importará cumulação das sanções cabíveis, respeitados os limites estabelecidos nos incisos V e VI do art. 108.\n\n§ 2º A multa atribuída por dia de atraso ou por excesso de permanência poderá ser convertida em redução equivalente do período de autorização de estada para o visto de visita, em caso de nova entrada no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20107.%20As%20infra%C3%A7%C3%B5es%20administrativas%20previstas%20neste%20Cap%C3%ADtulo%20ser%C3%A3o%20apuradas%20em%20processo%20administrativo%20pr%C3%B3prio%2C%20assegurados%20o%20contradit%C3%B3rio%20e%20a%20ampla%20defesa%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DAS INFRAÇÕES E DAS PENALIDADES ADMINISTRATIVAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "106",
+      "next": "108"
+    },
+    "108": {
+      "numero": "108",
+      "texto": "Art. 108. O valor das multas tratadas neste Capítulo considerará:\n\nI - as hipóteses individualizadas nesta Lei;\n\nII - a condição econômica do infrator, a reincidência e a gravidade da infração;\n\nIII - a atualização periódica conforme estabelecido em regulamento;\n\nIV - o valor mínimo individualizável de R$ 100,00 (cem reais);\n\nV - o valor mínimo de R$ 100,00 (cem reais) e o máximo de R$ 10.000,00 (dez mil reais) para infrações cometidas por pessoa física;\n\nVI - o valor mínimo de R$ 1.000,00 (mil reais) e o máximo de R$ 1.000.000,00 (um milhão de reais) para infrações cometidas por pessoa jurídica, por ato infracional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20108.%20O%20valor%20das%20multas%20tratadas%20neste%20Cap%C3%ADtulo%20considerar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DAS INFRAÇÕES E DAS PENALIDADES ADMINISTRATIVAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "107",
+      "next": "109"
+    },
+    "109": {
+      "numero": "109",
+      "texto": "Art. 109. Constitui infração, sujeitando o infrator às seguintes sanções:\n\nI - entrar em território nacional sem estar autorizado:\n\nSanção: deportação, caso não saia do País ou não regularize a situação migratória no prazo fixado;\n\nII - permanecer em território nacional depois de esgotado o prazo legal da documentação migratória:\n\nSanção: multa por dia de excesso e deportação, caso não saia do País ou não regularize a situação migratória no prazo fixado;\n\nIII - deixar de se registrar, dentro do prazo de 90 (noventa) dias do ingresso no País, quando for obrigatória a identificação civil:\n\nSanção: multa;\n\nIV - deixar o imigrante de se registrar, para efeito de autorização de residência, dentro do prazo de 30 (trinta) dias, quando orientado a fazê-lo pelo órgão competente:\n\nSanção: multa por dia de atraso;\n\nV - transportar para o Brasil pessoa que esteja sem documentação migratória regular:\n\nSanção: multa por pessoa transportada;\n\nVI - deixar a empresa transportadora de atender a compromisso de manutenção da estada ou de promoção da saída do território nacional de quem tenha sido autorizado a ingresso condicional no Brasil por não possuir a devida documentação migratória:\n\nSanção: multa;\n\nVII - furtar-se ao controle migratório, na entrada ou saída do território nacional:\n\nSanção: multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20109.%20Constitui%20infra%C3%A7%C3%A3o%2C%20sujeitando%20o%20infrator%20%C3%A0s%20seguintes%20san%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DAS INFRAÇÕES E DAS PENALIDADES ADMINISTRATIVAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "108",
+      "next": "110"
+    },
+    "110": {
+      "numero": "110",
+      "texto": "Art. 110. As penalidades aplicadas serão objeto de pedido de reconsideração e de recurso, nos termos de regulamento.\n\nParágrafo único. Serão respeitados o contraditório, a ampla defesa e a garantia de recurso, assim como a situação de hipossuficiência do migrante ou do visitante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20110.%20As%20penalidades%20aplicadas%20ser%C3%A3o%20objeto%20de%20pedido%20de%20reconsidera%C3%A7%C3%A3o%20e%20de%20recurso%2C%20nos%20termos%20de%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX DAS INFRAÇÕES E DAS PENALIDADES ADMINISTRATIVAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "109",
+      "next": "111"
+    },
+    "111": {
+      "numero": "111",
+      "texto": "Art. 111. Esta Lei não prejudica direitos e obrigações estabelecidos por tratados vigentes no Brasil e que sejam mais benéficos ao migrante e ao visitante, em particular os tratados firmados no âmbito do Mercosul.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20111.%20Esta%20Lei%20n%C3%A3o%20prejudica%20direitos%20e%20obriga%C3%A7%C3%B5es%20estabelecidos%20por%20tratados%20vigentes%20no%20Brasil%20e%20que%20sejam%20mais%20ben%C3%A9ficos%20ao%20migrante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "110",
+      "next": "112"
+    },
+    "112": {
+      "numero": "112",
+      "texto": "Art. 112. As autoridades brasileiras serão tolerantes quanto ao uso do idioma do residente fronteiriço e do imigrante quando eles se dirigirem a órgãos ou repartições públicas para reclamar ou reivindicar os direitos decorrentes desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20112.%20As%20autoridades%20brasileiras%20ser%C3%A3o%20tolerantes%20quanto%20ao%20uso%20do%20idioma%20do%20residente%20fronteiri%C3%A7o%20e%20do%20imigrante%20quando%20eles%20se%20dirigirem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "111",
+      "next": "113"
+    },
+    "113": {
+      "numero": "113",
+      "texto": "Art. 113. As taxas e emolumentos consulares são fixados em conformidade com a tabela anexa a esta Lei.\n\n§ 1º Os valores das taxas e emolumentos consulares poderão ser ajustados pelo órgão competente da administração pública federal, de forma a preservar o interesse nacional ou a assegurar a reciprocidade de tratamento.\n\n§ 2º Não serão cobrados emolumentos consulares pela concessão de:\n\nI - vistos diplomáticos, oficiais e de cortesia; e\n\nII - vistos em passaportes diplomáticos, oficiais ou de serviço, ou equivalentes, mediante reciprocidade de tratamento a titulares de documento de viagem similar brasileiro.\n\n§ 3º Não serão cobrados taxas e emolumentos consulares pela concessão de vistos ou para a obtenção de documentos para regularização migratória aos integrantes de grupos vulneráveis e indivíduos em condição de hipossuficiência econômica.\n\n§ 4º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20113.%20As%20taxas%20e%20emolumentos%20consulares%20s%C3%A3o%20fixados%20em%20conformidade%20com%20a%20tabela%20anexa%20a%20esta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "112",
+      "next": "114"
+    },
+    "114": {
+      "numero": "114",
+      "texto": "Art. 114. Regulamento poderá estabelecer competência para órgãos do Poder Executivo disciplinarem aspectos específicos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20114.%20Regulamento%20poder%C3%A1%20estabelecer%20compet%C3%AAncia%20para%20%C3%B3rg%C3%A3os%20do%20Poder%20Executivo%20disciplinarem%20aspectos%20espec%C3%ADficos%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "113",
+      "next": "115"
+    },
+    "115": {
+      "numero": "115",
+      "texto": "Art. 115. O Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) , passa a vigorar acrescido do seguinte art. 232-A:\n\n“ Promoção de migração ilegal",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20115.%20O%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de%201940%20%28C%C3%B3digo%20Penal%29%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "114",
+      "next": "116"
+    },
+    "116": {
+      "numero": "116",
+      "texto": "Art. 116. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20116.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "115",
+      "next": "117"
+    },
+    "117": {
+      "numero": "117",
+      "texto": "Art. 117. O documento conhecido por Registro Nacional de Estrangeiro passa a ser denominado Registro Nacional Migratório.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20117.%20O%20documento%20conhecido%20por%20Registro%20Nacional%20de%20Estrangeiro%20passa%20a%20ser%20denominado%20Registro%20Nacional%20Migrat%C3%B3rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "116",
+      "next": "118"
+    },
+    "118": {
+      "numero": "118",
+      "texto": "Art. 118. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20118.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "117",
+      "next": "119"
+    },
+    "119": {
+      "numero": "119",
+      "texto": "Art. 119. O visto emitido até a data de entrada em vigor desta Lei poderá ser utilizado até a data prevista de expiração de sua validade, podendo ser transformado ou ter seu prazo de estada prorrogado, nos termos de regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20119.%20O%20visto%20emitido%20at%C3%A9%20a%20data%20de%20entrada%20em%20vigor%20desta%20Lei%20poder%C3%A1%20ser%20utilizado%20at%C3%A9%20a%20data%20prevista%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "118",
+      "next": "120"
+    },
+    "120": {
+      "numero": "120",
+      "texto": "Art. 120. A Política Nacional de Migrações, Refúgio e Apatridia terá a finalidade de coordenar e articular ações setoriais implementadas pelo Poder Executivo federal em regime de cooperação com os Estados, o Distrito Federal e os Municípios, com participação de organizações da sociedade civil, organismos internacionais e entidades privadas, conforme regulamento.\n\n§ 1º Ato normativo do Poder Executivo federal poderá definir os objetivos, a organização e a estratégia de coordenação da Política Nacional de Migrações, Refúgio e Apatridia.\n\n§ 2º Ato normativo do Poder Executivo federal poderá estabelecer planos nacionais e outros instrumentos para a efetivação dos objetivos desta Lei e a coordenação entre órgãos e colegiados setoriais.\n\n§ 3º Com vistas à formulação de políticas públicas, deverá ser produzida informação quantitativa e qualitativa, de forma sistemática, sobre os migrantes, com a criação de banco de dados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20120.%20A%20Pol%C3%ADtica%20Nacional%20de%20Migra%C3%A7%C3%B5es%2C%20Ref%C3%BAgio%20e%20Apatridia%20ter%C3%A1%20a%20finalidade%20de%20coordenar%20e%20articular%20a%C3%A7%C3%B5es%20setoriais%20implementadas%20pelo%20Poder",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "119",
+      "next": "121"
+    },
+    "121": {
+      "numero": "121",
+      "texto": "Art. 121. Na aplicação desta Lei, devem ser observadas as disposições da Lei nº 9.474, de 22 de julho de 1997 , nas situações que envolvam refugiados e solicitantes de refúgio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20121.%20Na%20aplica%C3%A7%C3%A3o%20desta%20Lei%2C%20devem%20ser%20observadas%20as%20disposi%C3%A7%C3%B5es%20da%20Lei%20n%C2%BA%209.474%2C%20de%2022%20de%20julho%20de%201997%20%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "120",
+      "next": "122"
+    },
+    "122": {
+      "numero": "122",
+      "texto": "Art. 122. A aplicação desta Lei não impede o tratamento mais favorável assegurado por tratado em que a República Federativa do Brasil seja parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20122.%20A%20aplica%C3%A7%C3%A3o%20desta%20Lei%20n%C3%A3o%20impede%20o%20tratamento%20mais%20favor%C3%A1vel%20assegurado%20por%20tratado%20em%20que%20a%20Rep%C3%BAblica%20Federativa%20do%20Brasil",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "121",
+      "next": "123"
+    },
+    "123": {
+      "numero": "123",
+      "texto": "Art. 123. Ninguém será privado de sua liberdade por razões migratórias, exceto nos casos previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20123.%20Ningu%C3%A9m%20ser%C3%A1%20privado%20de%20sua%20liberdade%20por%20raz%C3%B5es%20migrat%C3%B3rias%2C%20exceto%20nos%20casos%20previstos%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "122",
+      "next": "124"
+    },
+    "124": {
+      "numero": "124",
+      "texto": "Art. 124. Revogam-se:\n\nI - a Lei nº 818, de 18 de setembro de 1949 ; e\n\nII - a Lei nº 6.815, de 19 de agosto de 1980 (Estatuto do Estrangeiro) .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20124.%20Revogam-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "123",
+      "next": "125"
+    },
+    "125": {
+      "numero": "125",
+      "texto": "Art. 125. Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial.\n\nBrasília, 24 de maio de 2017; 196º da Independência e 129º da República.\n\nMICHEL TEMER\n\nOsmar Serraglio\n\nAloysio Nunes Ferreira Filho\n\nHenrique Meirelles\n\nEliseu Padilha\n\nSergio Westphalen Etchegoyen26/05/2017\n\nGrace Maria Fernandes Mendonça\n\nEste texto não substitui o publicado no DOU de 25.5.2017\n\nANEXO\n\nTabela de Taxas e Emolumentos Consulares (art. 113)\n\nGrupo\n\nSubgrupo\n\nNúmero do Emolumento\n\nNatureza do Emolumento\n\nValor\n\n100 - Documentos de viagem\n\n110 - Passaporte comum\n\n110.3\n\nConcessão de passaporte biométrico\n\nR$ - Ouro 80,00\n\n100 - Documentos de viagem\n\n110 - Passaporte comum\n\n110.4\n\nConcessão de passaporte biométrico sem apresentação do documento anterior\n\nR$ - Ouro 160,00\n\n100 - Documentos de viagem\n\n120 - Passaporte diplomático\n\n120.1\n\nConcessão\n\nGratuito\n\n100 - Documentos de viagem\n\n130 - Passaporte oficial\n\n130.1\n\nConcessão\n\nGratuito\n\n100 - Documentos de viagem\n\n140 - Passaporte de emergência\n\n140.1\n\nConcessão em situação excepcional (art. 13 do Decreto nº 5.978/2006 - RDV)\n\nGratuito\n\n100 - Documentos de viagem\n\n150 - Passaporte para estrangeiro\n\n150.3\n\nConcessão de passaporte biométrico\n\nR$ - Ouro 80,00\n\n100 - Documentos de viagem\n\n150 - Passaporte para estrangeiro\n\n150.4\n\nConcessão de passaporte biométrico sem apresentação do documento anterior\n\nR$ - Ouro 160,00\n\n100 - Documentos de viagem\n\n160 - Laissez-passer\n\n160.3\n\nConcessão de laissez-passer biométrico\n\nR$ - Ouro 80,00\n\n100 - Documentos de viagem\n\n160 - Laissez-passer\n\n160.4\n\nConcessão de laissez-passer biométrico sem apresentação do documento anterior\n\nR$ - Ouro 160,00\n\n100 - Documentos de viagem\n\n170 - Autorização de retorno ao Brasil\n\n170.1\n\nConcessão\n\nGratuito\n\n100 - Documentos de viagem\n\n180 - Carteira de matrícula consular\n\n180.1\n\nConcessão\n\nGratuito\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n220 - Visto de visita\n\n220.1\n\nConcessão ou renovação do prazo de entrada\n\nR$ - Ouro 80,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário\n\n(de 0 a R$ ouro 1.000,00)\n\n211.1\n\nConcessão ou renovação do prazo de entrada\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n220 - Visto de visita (de 0 a R$ ouro 1.000,00)\n\n220.2\n\nConcessão ou renovação do prazo de entrada (reciprocidade - Austrália)\n\nR$ - Ouro 120,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n220 - Visto de visita (de 0 a R$ ouro 1.000,00)\n\n220.3\n\nConcessão ou renovação do prazo de entrada (reciprocidade - Angola)\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.1\n\nVITEM I - Concessão ou renovação do prazo de entrada - Pesquisa, ensino ou extensão acadêmica\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.2\n\nVITEM II - Concessão ou renovação do prazo de estada - Tratamento de saúde\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.3\n\nVITEM III - Concessão ou renovação do prazo de estada - Acolhida humanitária\n\nGratuito\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.4\n\nVITEM IV - Concessão ou renovação do prazo de estada - Estudo\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.5\n\nVITEM V - Concessão ou renovação do prazo de estada - Trabalho\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.6\n\nVITEM VI - Concessão ou renovação do prazo de estada –\n\nFérias-trabalho - Nova Zelândia\n\nR$ - Ouro 80,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.7\n\nVITEM VII - Concessão ou prorrogação do prazo de estada - Atividades religiosas e serviço voluntário\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.8\n\nVITEM VIII - Concessão ou prorrogação do prazo de estada - Investimentos ou atividade de relevância econômica, científica, tecnológica ou cultural\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.9\n\nVITEM IX - Concessão ou prorrogação do prazo de estada - Reunião familiar\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.10\n\nVITEM X - Concessão ou prorrogação do prazo de estada - Tratados\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.11\n\nVITEM XI - Concessão ou prorrogação do prazo de estada - Casos definidos em regulamento\n\nR$ - Ouro 100,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.65\n\nVICAM - Visto temporário de capacitação médica\n\nR$ - Ouro 0,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.66\n\nVICAM - Visto temporário para dependente de titular de VICAM\n\nR$ - Ouro 0,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n220 - Visto de visita (de 0 a R$ ouro 1.000,00)\n\n220.4\n\nVIVIS - Concessão (reciprocidade - Argélia)\n\nR$ - Ouro 85,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n220 - Visto de visita (de 0 a R$ ouro 1.000,00)\n\n220.5\n\nVIVIS - Concessão (reciprocidade - Estados Unidos)\n\nR$ - Ouro 160,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.12\n\nVITEM IV - Concessão (reciprocidade - Estados Unidos)\n\nR$ - Ouro 160,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.13\n\nVITEM I e VII\n\n(reciprocidade - Estados Unidos)\n\nR$ - Ouro 250,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.14\n\nVITEM II, V, VIII, IX e XI (reciprocidade - Estados Unidos)\n\nR$ - Ouro 290,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.15\n\nVITEM IV - Concessão (reciprocidade - Reino Unido)\n\nR$ - Ouro 465,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n220 - Visto de visita (de 0 a R$ ouro 1.000,00)\n\n220.6\n\nVIVIS - Concessão (reciprocidade - China)\n\nR$ - Ouro 115,00\n\n200 - Visto em documento de viagem estrangeiro ou laissez-passer brasileiro\n\n230 - Visto temporário (de 0 a R$ ouro 1.000,00)\n\n230.16\n\nVisto temporário - Validade superior a 180 dias (reciprocidade - Reino Unido)\n\nR$ - Ouro 215,00\n\n300 - Atos de registro civil\n\n310 - Registro de nascimento e expedição da respectiva certidão\n\nGratuito\n\n300 - Atos de registro civil\n\n320 - Celebração de casamento\n\n320.1\n\nRegistro de casamento realizado fora da repartição consular e expedição da respectiva certidão\n\nR$ - Ouro 20,00\n\n300 - Atos de registro civil\n\n320 - Celebração de casamento\n\n320.2\n\nCelebração de casamento na repartição consular e expedição da respectiva certidão\n\nGratuito\n\n300 - Atos de registro civil\n\n330 - Registro de óbito e expedição da respectiva certidão\n\nGratuito\n\n300 - Atos de registro civil\n\n340 - Outros atos de registro civil e expedição da respectiva certidão\n\nGratuito\n\n300 - Atos de registro civil\n\n350 - Certidões adicionais de atos de registro civil\n\nR$ - Ouro 5,00\n\n400 - Atos notariais\n\n410 - Reconhecimento de assinatura ou legalização de documento não passado na repartição consular\n\n410.1\n\nQuando destinado à cobrança de pensões do Estado, vencimentos de serviço público, para efeitos de saque do Fundo de Garantia do Tempo de Serviço (FGTS) mediante termo de compromisso com a Caixa Econômica Federal, por aposentadoria ou, ainda, por reforma\n\nGratuito\n\n400 - Atos notariais\n\n410 - Reconhecimento de assinatura ou de legalização de documento não passado na repartição consular\n\n410.2\n\nQuando destinado a documentos escolares, para cada documento e até o máximo de 3 (três) documentos relativos à mesma pessoa\n\nR$ - Ouro 5,00\n\n400 - Atos notariais\n\n410 - Reconhecimento de assinatura ou de legalização de documento não passado na repartição consular\n\n410.3\n\nQuando destinado a documentos escolares, havendo mais de 3 (três) documentos relativos à mesma pessoa, os documentos poderão ser reunidos em maço e feita uma única legalização\n\nR$ - Ouro 15,00\n\n400 - Atos notariais\n\n410 - Reconhecimento de assinatura ou de legalização de documento não passado na repartição consular\n\n410.4\n\nQuando destinado a outros documentos não mencionados anteriormente, do nº 410.1 ao nº 410.3: para cada documento, na assinatura que não seja repetida, ou pela legalização do reconhecimento notarial\n\nR$ - Ouro 20,00\n\n400 - Atos notariais\n\n410 - Reconhecimento de assinatura ou de legalização de documento não passado na repartição consular\n\n410.5\n\nQuando destinado a outros documentos não mencionados anteriormente, do nº 410.1 ao nº 410.4, e se houver mais de 3 (três) documentos, do interesse da mesma pessoa física ou jurídica, já reunidos em maço e com reconhecimento notarial, a legalização será feita mediante o reconhecimento da firma do notário\n\nR$ - Ouro 60,00\n\n400 - Atos\n\n420 - Pública-forma\n\n420.1\n\nPública-forma:\n\npela primeira folha:\n\nR$ - Ouro 10,00\n\nNotariais\n\ndocumento escrito em idioma nacional\n\npor folha adicional:\n\nR$ - Ouro 5,00\n\n400 - Atos\n\n420 - Pública-forma\n\n420.2\n\nPública-forma:\n\npela primeira folha:\n\nR$ - Ouro 15,00\n\nnotariais\n\ndocumento escrito em idioma estrangeiro\n\npor folha adicional:\n\nR$ - Ouro 10,00\n\n400 - Atos notariais\n\n430 - Autenticação de cópias de documentos\n\n430.1\n\nPara cada documento copiado na repartição (se o documento for escrito em idioma nacional)\n\nR$ - Ouro 10,00\n\n400 - Atos notariais\n\n430 - Autenticação de cópias de documentos\n\n430.2\n\nPara cada documento copiado fora da repartição (se o documento for escrito em idioma nacional)\n\nR$ - Ouro 5,00\n\n400 - Atos notariais\n\n430 - Autenticação de cópias de documentos\n\n430.3\n\nPara cada documento copiado na repartição (se o documento for escrito em idioma estrangeiro)\n\nR$ - Ouro 15,00\n\n400 - Atos notariais\n\n430 - Autenticação de cópias de documentos\n\n430.4\n\nPara cada documento copiado fora da repartição (se o documento for escrito em idioma estrangeiro)\n\nR$ - Ouro 10,00\n\n400 - Atos notariais\n\n440 - Procurações ou substabelecimentos, lavrados nos livros da repartição consular, incluído o primeiro traslado\n\n440.1\n\nPara cobrança ou cessação do pagamento de pensões do Estado, vencimentos de serviço público, aposentadoria ou reforma\n\nR$ - Ouro 5,00\n\n400 - Atos notariais\n\n440 - Procurações ou substabelecimentos, lavrados nos livros da repartição consular, incluído o primeiro traslado\n\n440.2\n\nPara os demais efeitos que não os mencionados no nº 440.1, por outorgante (cobrado apenas um emolumento quando os outorgantes forem: marido e mulher; irmãos e co-herdeiros para o inventário e herança comum; ou representantes de universidades, cabido, conselho, irmandade, confraria, sociedade comercial, científica, literária ou artística)\n\nR$ - Ouro 20,00\n\n400 - Atos notariais\n\n440 - Procurações ou substabelecimentos, lavrados nos livros da repartição consular, incluído o primeiro traslado\n\n440.3\n\nNo caso do nº 440.1 (por segundo traslado de procuração ou substabelecimento)\n\nR$ - Ouro 5,00\n\n400 - Atos notariais\n\n440 - Procurações ou substabelecimentos, lavrados nos livros da repartição consular, incluído o primeiro traslado\n\n440.4\n\nNo caso do nº 440.2 (por segundo traslado de procuração ou substabelecimento)\n\nR$ - Ouro 10,00\n\n400 - Atos notariais\n\n450 - Sucessão\n\n450.1\n\nLavratura de testamento público\n\nR$ - Ouro 30,00\n\n400 - Atos notariais\n\n450 - Sucessão\n\n450.2\n\nTermo de aprovação de testamento cerrado e respectiva certidão\n\nR$ - Ouro 20,00\n\n400 - Atos notariais\n\n460 - Escrituras e registros de títulos e documentos\n\n460.1\n\nEscritura tomada por termo no livro de escrituras e registros de títulos e documentos da repartição e expedição da respectiva certidão\n\nR$ - Ouro 15,00\n\naté R$ ouro 2.000: 3%\n\n400 - Atos notariais\n\n460 - Escrituras e registros de títulos e documentos\n\n460.2\n\nEscritura e registro de qualquer contrato e expedição da respectiva certidão\n\npelo que exceder de R$ ouro 2.000 até R$ ouro 400.000: 2%\n\npelo que exceder de R$ ouro 400.000: 1%\n\n400 - Atos\n\n460 - Escrituras e\n\nRegistro de quaisquer outros documentos no livro de escrituras e registros de títulos\n\npela primeira página:\n\nR$ - Ouro 20,00\n\nnotariais\n\nregistros de títulos e documentos\n\n460.3\n\ne documentos da repartição e expedição da respectiva certidão\n\npor página adicional:\n\nR$ - Ouro 10,00\n\n400 - Atos\n\n460 - Escrituras e\n\n460.4\n\nRegistro de quaisquer outros documentos, em idioma estrangeiro, no livro de\n\npela primeira página:\n\nR$ - Ouro 25,00\n\nnotariais\n\nregistros de títulos e documentos\n\nescrituras e registros de títulos e documentos da repartição e expedição da respectiva certidão\n\npor página adicional:\n\nR$ - Ouro 15,00\n\n400 - Atos notariais\n\n470 - Certidões adicionais\n\n470.1\n\nPor certidões adicionais dos documentos previstos nos grupos 450 e 460\n\nR$ - Ouro 10,00\n\n500 - Atestados ou certificados consulares\n\n510 - Certificado de vida\n\nR$ - Ouro 5,00\n\n500 - Atestados ou certificados consulares\n\n520 - Quaisquer outros atestados, certificados ou declarações consulares, inclusive o certificado de residência\n\nR$ - Ouro 15,00\n\n500 - Atestados ou certificados consulares\n\n530 - Legalização de documento expedido por autoridade brasileira\n\nR$ - Ouro 5,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.1\n\nRegistro de nomeação de capitão, por mudança de comando, e expedição da respectiva certidão\n\nR$ - Ouro 20,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.10\n\nRegistro provisório de embarcação, nomeação de capitão, legalização da lista de tripulantes e expedição do respectivo passaporte extraordinário de autoridade consular brasileira\n\nR$ - Ouro 100,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.11\n\nIsenção quando se tratar de: (a) navio com menos de 5 (cinco) anos de construção; ou (b) navio mandado construir por empresa de navegação legalmente organizada e funcionando no Brasil; ou (c) embarcação montada ou desmontada que se destine à navegação de cabotagem\n\nGratuito\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.12\n\nVisto em diário de bordo\n\nR$ - Ouro 10,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.13\n\nIsenção quando se tratar de embarcação brasileira procedente da Argentina e destinada aos portos nacionais do Rio Uruguai, ou de abertura de diário de bordo quando do registro provisório da embarcação\n\nGratuito\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.2\n\nRatificação de movimentação havida na lista de tripulantes, para cada tripulante embarcado ou desembarcado\n\nR$ - Ouro 10,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.3\n\nAverbação na lista de tripulantes de alterações de função havidas na tripulação\n\nR$ - Ouro 10,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.4\n\nRegistro de contrato de afretamento no livro de escrituras e registros de títulos e documentos e expedição da respectiva certidão\n\nR$ - Ouro 50,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.5\n\nRegistro de protesto marítimo no livro de escrituras e registros de títulos e documentos e expedição da respectiva certidão\n\nR$ - Ouro 30,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.6\n\nInterrogatório de testemunha e expedição do respectivo traslado, por testemunha\n\nR$ - Ouro 30,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.7\n\nNomeação de perito e expedição do respectivo registro de nomeação, por perito nomeado\n\nR$ - Ouro 20,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.8\n\nRegistro de vistoria da embarcação no livro de escrituras e registros de títulos e documentos e expedição da respectiva certidão\n\nR$ - Ouro 30,00\n\n600 - Atos referentes à navegação\n\n610 - Atos de navegação - Diversos\n\n610.9\n\nRegistro provisório de embarcação e expedição de certificado provisório de propriedade\n\nR$ - Ouro 20,00\n\n600 - Atos referentes à navegação\n\n620 - Inventário de embarcação\n\n620.1\n\nDe até 200 (duzentas) toneladas\n\nR$ - Ouro 30,00\n\n600 - Atos referentes à navegação\n\n620 - Inventário de embarcação\n\n620.2\n\nDe mais de 200 (duzentas) toneladas\n\nR$ - Ouro 60,00\n\n600 - Atos referentes à navegação\n\n630 - Assistência da autoridade consular a vistorias de mercadorias\n\n630.1\n\nA bordo\n\nR$ - Ouro 100,00\n\n600 - Atos referentes à navegação\n\n630 - Assistência da autoridade consular a vistorias de mercadorias\n\n630.2\n\nEm terra (quando permitida essa assistência pela lei local)\n\nR$ - Ouro 60,00\n\n600 - Atos referentes à navegação\n\n630 - Assistência da autoridade consular a vistorias de mercadorias\n\n630.3\n\nAssistência da autoridade consular em venda ou leilão de mercadoria com avaria pertencente à carga de embarcação (sobre o preço de venda)\n\n2.0%\n\n600 - Atos referentes à navegação\n\n630 - Assistência da autoridade consular a vistorias de mercadorias\n\n630.4\n\nAssistência da autoridade consular na arrecadação ou venda de objetos pertencentes a navio ou casco naufragado (sobre a avaliação ou venda)\n\n3.0%\n\n600 - Atos referentes à navegação\n\n640 - Mudanças de bandeira\n\n640.1\n\nNacional para estrangeira, inclusive o registro e a recepção em depósito dos papéis da embarcação, em caso de venda da embarcação: sobre o preço de venda\n\n0.2%\n\n600 - Atos referentes à navegação\n\n640 - Mudanças de bandeira\n\n640.2\n\nDe bandeira estrangeira para nacional em caso de compra de embarcação (título de inscrição)\n\n0.2%\n\n600 - Atos referentes à navegação\n\n640 - Mudanças de bandeira\n\n640.3\n\nMudança de bandeira nacional para estrangeira, inclusive o registro e a recepção em depósito dos papéis da embarcação, em caso de arrendamento: sobre o preço do arrendamento anual\n\n0.2%\n\n600 - Atos referentes à navegação\n\n640 - Mudanças de bandeira\n\n640.4\n\nPela mesma operação do item 630.3, mas de bandeira estrangeira para nacional: sobre o preço de arrendamento anual\n\n0.2%\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n710.1\n\nDiplomáticos\n\nGratuito\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n710.13\n\nVICOR JO - Membros da família olímpica e paralímpica, atletas e voluntários credenciados para o Rio 2016\n\nGratuito\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n710.2\n\nOficiais\n\nGratuito\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n710.3\n\nDe cortesia\n\nGratuito\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n710.4\n\nDe visita ou temporário, se concedidos a titulares de passaporte diplomático ou de serviço\n\nGratuito\n\n700 - Isenções de emolumentos\n\n710 - São isentos de emolumentos, inclusive aqueles relativos à consulta, os vistos em documento de viagem estrangeiro ou de organização de que o Brasil faça parte\n\n710.5\n\nRegulados por tratado que conceda a gratuidade\n\nGratuito\n\n700 - Isenções de emolumentos\n\n720 - São isentas de emolumentos as legalizações de cartas de doação a entidades científicas, educacionais ou de assistência social que não tenham fins lucrativos ou quando a isenção for prevista em tratado\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.1\n\nA União, os Estados, o Distrito Federal e os Municípios, ou quando determinado por mandado judicial\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.2\n\nOs governos dos Estados estrangeiros\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.3\n\nAs missões diplomáticas e repartições consulares estrangeiras\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.4\n\nOs funcionários das missões diplomáticas e repartições consulares estrangeiras, nos documentos em que intervenham em caráter oficial\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.5\n\nA Organização das Nações Unidas (ONU) e suas agências\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.6\n\nA Organização dos Estados Americanos (OEA) e suas agências\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.7\n\nOs representantes das Organizações e agências mencionadas nos itens 730.5 e 730.6, nos documentos em que intervenham em caráter oficial\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.8\n\nO Fundo Monetário Internacional (FMI) e o Banco Internacional para Reconstrução e Desenvolvimento (Bird) e sua agência\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730 - São isentos de pagamento de emolumentos nos documentos em que forem parte\n\n730.9\n\nO Instituto de Assuntos Interamericanos\n\nGratuito\n\n700 - Isenções de emolumentos\n\n730.1 - São isentos de pagamento de emolumentos nos documentos em que forem parte: A União, os Estados, o Distrito Federal e os Municípios, ou quando determinado por mandado judicial\n\nGratuito\n\n700 - Isenções de emolumentos\n\n740 - É isento de pagamento de emolumentos o alistamento militar\n\nGratuito\n\n700 - Isenções de emolumentos\n\n750 - É isento de pagamento o reconhecimento de firma em autorização de viagem para menor\n\nGratuito\n\n700 - Isenções de emolumentos\n\n760 - Atos notariais relativos ao processamento de documentação para solicitação do saque do FGTS no exterior\n\nGratuito\n\n700 - Isenções de emolumentos\n\n770 - Legalização feita gratuitamente, mediante consulta e autorização expressa da Sere\n\nGratuito\n\n700 - Isenções de emolumentos\n\n770 - Legalização feita gratuitamente, mediante consulta e autorização expressa da Sere\n\n770\n\nGratuito\n\n800 - Geração de CPF\n\n800 - Geração de CPF\n\n800\n\nGeração de CPF\n\nGratuito\n\n800 - Geração de CPF\n\n800 - Geração de CPF\n\n800.1\n\nCorreção de CPF\n\nGratuito\n\nVETADO\n\nVETADO\n\nVETADO\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm#:~:text=Art.%20125.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20180%20%28cento%20e%20oitenta%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "124",
+      "next": null
+    }
+  }
+}

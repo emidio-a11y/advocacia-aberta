@@ -1,0 +1,2835 @@
+{
+ "schema_version": 1,
+ "descricao": "Manifesto da expansão da base legislativa: normas da planilha de legislação com sigla, URL oficial validada e grupo de materialização. Um grupo só passa a existir no motor depois de materializado em fontes.json, capturado pelo pipeline e promovido com revisão.",
+ "origem": {
+  "planilha": "Legislação Google Planilhas.xlsx (5 abas: Codificadas, Estatutos, Esparsas, Decretos, Resoluções)",
+  "extraida_em": "2026-07-18",
+  "urls_validadas_em": "2026-07-19",
+  "criterios": [
+   "URLs normalizadas para o caminho minúsculo canônico do Planalto (301 testado antes da gravação)",
+   "18 normas da planilha já presentes na base foram excluídas",
+   "5 duplicatas internas da planilha foram consolidadas (LC 123 aparecia 3x; Leis 13.445, 10.820, 10.931 e 4.591 apareciam 2x)",
+   "siglas mnemônicas apenas onde consagradas; caso contrário, numéricas (L/LC/DL/D + número)"
+  ]
+ },
+ "normas": [
+  {
+   "sigla": "CFLO",
+   "nome": "Código Florestal",
+   "lei": "Lei 12.651/2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código Florestal"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "CAG",
+   "nome": "Código de Águas",
+   "lei": "Decreto 24.643/1934",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código de Águas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "CMIN",
+   "nome": "Código de Minas",
+   "lei": "Decreto-Lei 227/1967",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código de Minas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "CPM",
+   "nome": "Código Penal Militar",
+   "lei": "Decreto-Lei 1.001/1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código Penal Militar"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "CPPM",
+   "nome": "Código de Processo Penal Militar",
+   "lei": "Decreto-Lei 1.002/1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código de Processo Penal Militar"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "CBA",
+   "nome": "Código Brasileiro de Aeronáutica",
+   "lei": "Lei 7.565/1986",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7565compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código Brasileiro de Aeronáutica"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "CBT",
+   "nome": "Código Brasileiro de Telecomunicações",
+   "lei": "Lei 4.117/1962",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4117compilada.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código Brasileiro de Telecomunicações"
+   ],
+   "notas": [
+    "revogado em grande parte pela Lei 9.472/1997 (LGT), permanecendo matéria de radiodifusão"
+   ]
+  },
+  {
+   "sigla": "CCOM",
+   "nome": "Código Comercial",
+   "lei": "Lei 556/1850",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim556compilado.htm",
+   "grupo": "codificadas",
+   "origens": [
+    "Codificadas/: Código Comercial"
+   ],
+   "notas": [
+    "parcialmente revogado: subsiste essencialmente a Segunda Parte (comércio marítimo); conferir vigência por dispositivo"
+   ]
+  },
+  {
+   "sigla": "EOAB",
+   "nome": "Estatuto da Advocacia e a Ordem dos Advogados do Brasil",
+   "lei": "Lei 8.906/1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Advocacia e a Ordem dos Advogados do Brasil"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "ECID",
+   "nome": "Estatuto da Cidade",
+   "lei": "Lei 10.257/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Cidade"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EDT",
+   "nome": "Estatuto de Defesa do Torcedor",
+   "lei": "Lei 10.671/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto de Defesa do Torcedor"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "ED",
+   "nome": "Estatuto do Desarmamento",
+   "lei": "Lei 10.826/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto do Desarmamento"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LMIG",
+   "nome": "Lei de Migração",
+   "lei": "Lei 13.445/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto do Estrangeiro",
+    "Esparsas/Administrativo/Internacional: Migração"
+   ],
+   "notas": [
+    "planilha rotulava como \"Estatuto do Estrangeiro\"; a Lei 13.445/2017 é a Lei de Migração"
+   ]
+  },
+  {
+   "sigla": "EI",
+   "nome": "Estatuto da Pessoa Idosa",
+   "lei": "Lei 10.741/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto do Idoso"
+   ],
+   "notas": [
+    "planilha usava o nome anterior \"Estatuto do Idoso\"; a Lei 14.423/2022 renomeou para Estatuto da Pessoa Idosa"
+   ]
+  },
+  {
+   "sigla": "EIR",
+   "nome": "Estatuto da Igualdade Racial",
+   "lei": "Lei 12.288/2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Igualdade Racial"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EIND",
+   "nome": "Estatuto do Índio",
+   "lei": "Lei 6.001/1973",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto do Índio"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EJUV",
+   "nome": "Estatuto da Juventude",
+   "lei": "Lei 12.852/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Juventude"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EMET",
+   "nome": "Estatuto da Metrópole",
+   "lei": "Lei 13.089/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13089.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Metrópole"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EMIL",
+   "nome": "Estatuto dos Militares",
+   "lei": "Lei 6.880/1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6880compilada.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto dos Militares"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EMUS",
+   "nome": "Estatuto dos Museus",
+   "lei": "Lei 11.904/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto dos Museus"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC123",
+   "nome": "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte",
+   "lei": "Lei Complementar 123/2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte",
+    "Esparsas/Tributário: Simples Nacional (ME/EPP/MEI)",
+    "Esparsas/Empresarial: Estatuto da ME e EPP (Simples Nacional)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EPC",
+   "nome": "Estatuto da Pessoa com Câncer",
+   "lei": "Lei 14.238/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Pessoa com Câncer"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EPD",
+   "nome": "Estatuto da Pessoa com Deficiência",
+   "lei": "Lei 13.146/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Pessoa com Deficiência"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "EREF",
+   "nome": "Estatuto dos Refugiados",
+   "lei": "Lei 9.474/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto dos Refugiados"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "ET",
+   "nome": "Estatuto da Terra",
+   "lei": "Lei 4.504/1964",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4504.htm",
+   "grupo": "estatutos",
+   "origens": [
+    "Estatutos/: Estatuto da Terra"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7960",
+   "nome": "Prisão Temporária",
+   "lei": "Lei 7.960/1989",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7960.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Prisão Temporária"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8072",
+   "nome": "Crimes Hediondos",
+   "lei": "Lei 8.072/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Crimes Hediondos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12850",
+   "nome": "Organização Criminosa",
+   "lei": "Lei 12.850/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Organização Criminosa"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9605",
+   "nome": "Crimes Ambientais",
+   "lei": "Lei 9.605/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Crimes Ambientais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LJE",
+   "nome": "Juizados Especiais",
+   "lei": "Lei 9.099/95",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual / Penal / Civil: Juizados Especiais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9296",
+   "nome": "Interceptação Telefônica",
+   "lei": "Lei 9.296/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Interceptação Telefônica"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9613",
+   "nome": "Lavagem de Dinheiro",
+   "lei": "Lei 9.613/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9613compilado.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Lavagem de Dinheiro"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8137",
+   "nome": "Crimes contra Ordem Tributária",
+   "lei": "Lei 8.137/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Crimes contra Ordem Tributária"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9455",
+   "nome": "Tortura",
+   "lei": "Lei 9.455/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Tortura"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13260",
+   "nome": "Antiterrorismo",
+   "lei": "Lei 13.260/2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Antiterrorismo"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LCP",
+   "nome": "Contravenções Penais",
+   "lei": "Decreto-Lei 3.688/1941",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Contravenções Penais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13869",
+   "nome": "Abuso de Autoridade",
+   "lei": "Lei 13.869/2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869compilado.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Abuso de Autoridade"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L1521",
+   "nome": "Crimes contra Economia Popular",
+   "lei": "Lei 1.521/1951",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Crimes contra Economia Popular"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7716",
+   "nome": "Racismo",
+   "lei": "Lei 7.716/1989",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Racismo"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14344",
+   "nome": "Violência Contra Crianças e Adolescentes",
+   "lei": "Lei 14.344/2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Violência Contra Crianças e Adolescentes"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7492",
+   "nome": "Crimes contra o Sistema Financeiro",
+   "lei": "Lei 7.492/1986",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Crimes contra o Sistema Financeiro"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9807",
+   "nome": "Proteção Testemunhas",
+   "lei": "Lei 9.807/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9807.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Proteção Testemunhas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC105",
+   "nome": "Quebra Sigilo Bancário",
+   "lei": "Lei Complementar 105/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm",
+   "grupo": "esparsas_penal",
+   "origens": [
+    "Esparsas/Penal: Quebra Sigilo Bancário"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12318",
+   "nome": "Alienação Parental",
+   "lei": "Lei 12.318/2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Alienação Parental"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13058",
+   "nome": "Guarda Compartilhada",
+   "lei": "Lei 13.058/2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13058.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Guarda Compartilhada"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12010",
+   "nome": "Adoção",
+   "lei": "Lei 12.010/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12010.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Adoção"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L5478",
+   "nome": "Alimentos",
+   "lei": "Lei 5.478/1968",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Alimentos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8971",
+   "nome": "Companheiros Alimentos e Sucessão",
+   "lei": "Lei 8.971/1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8971.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Companheiros Alimentos e Sucessão"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LRP",
+   "nome": "Registros Públicos",
+   "lei": "Lei 6.015/1973",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Registros Públicos: Registros Públicos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6766",
+   "nome": "Parcelamento Solo",
+   "lei": "Lei 6.766/1979",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6766compilado.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário: Parcelamento Solo"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13465",
+   "nome": "Regularização Fundiária",
+   "lei": "Lei 13.465/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário / Agrário: Regularização Fundiária"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8629",
+   "nome": "Reforma Agrária",
+   "lei": "Lei 8.629/1993",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário / Agrário: Reforma Agrária"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13777",
+   "nome": "Multipropriedade",
+   "lei": "Lei 13.777/2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13777.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário: Multipropriedade"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8245",
+   "nome": "Inquilinato",
+   "lei": "Lei 8.245/1991",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário: Inquilinato"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4591",
+   "nome": "Incorporação Imobiliária",
+   "lei": "Lei 4.591/1964",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário: Incorporação Imobiliária",
+    "Esparsas/Imobiliário: Condomínio"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13786",
+   "nome": "Distrato Imobiliário",
+   "lei": "Lei 13.786/2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário: Distrato Imobiliário"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11441",
+   "nome": "Inventários Extrajudiciais",
+   "lei": "Lei 11.441/2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11441.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Sucessões: Inventários Extrajudiciais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8935",
+   "nome": "Cartórios",
+   "lei": "Lei 8.935/1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Sucessões: Cartórios"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4595",
+   "nome": "Sistema Financeiro Nacional",
+   "lei": "Lei 4.595/1964",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário: Sistema Financeiro Nacional"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10820",
+   "nome": "Consignado",
+   "lei": "Lei 10.820/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.820compilado.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário: Consignado",
+    "Esparsas/Previdenciário/Consumidor: Consignação em Folha (inclui beneficiários RGPS)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7357",
+   "nome": "Cheque",
+   "lei": "Lei 7.357/1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário: Cheque"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10931",
+   "nome": "Cédula de Crédito Bancário",
+   "lei": "Lei 10.931/2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931compilado.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário: Cédula de Crédito Bancário",
+    "Esparsas/Imobiliário: Patrimônio de Afetação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12414",
+   "nome": "SPC/SERASA",
+   "lei": "Lei 12.414/2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário: SPC/SERASA"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6360",
+   "nome": "Vigilância de Medicamentos",
+   "lei": "Lei 6.360/1976",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6360.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde: Vigilância de Medicamentos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9787",
+   "nome": "Genéricos",
+   "lei": "Lei 9.787/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9787.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde: Genéricos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9961",
+   "nome": "Agência Nacional de Saúde (ANS)",
+   "lei": "Lei 9.961/2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde: Agência Nacional de Saúde (ANS)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9434",
+   "nome": "Transplantes",
+   "lei": "Lei 9.434/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9434compilado.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde: Transplantes"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11977",
+   "nome": "Minha Casa Minha Vida",
+   "lei": "Lei 11.977/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11977compilado.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário: Minha Casa Minha Vida"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "DL73",
+   "nome": "Seguros Privados",
+   "lei": "Decreto-Lei 73/1966",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0073compilado.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Seguros: Seguros Privados"
+   ],
+   "notas": [
+    "recebeu alterações amplas da Lei 15.040/2024 (marco dos seguros); conferir vigência por dispositivo"
+   ]
+  },
+  {
+   "sigla": "L10185",
+   "nome": "Seguro Saúde",
+   "lei": "Lei 10.185/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Seguros: Seguro Saúde"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "MCI",
+   "nome": "Marco Civil da Internet",
+   "lei": "Lei 12.965/2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Digital: Marco Civil da Internet"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D7962",
+   "nome": "Regulamentação da contratação no comércio eletrônico",
+   "lei": "Decreto 7.962/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Digital: e-Commerce"
+   ],
+   "notas": [
+    "planilha classificava como lei ordinária; é decreto regulamentar do CDC"
+   ]
+  },
+  {
+   "sigla": "L14181",
+   "nome": "Superendividamento",
+   "lei": "Lei 14.181/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14181.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Superendividamento"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9427",
+   "nome": "Agência Nacional de Energia Elétrica (ANEEL)",
+   "lei": "Lei 9.427/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9427compilada.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Agência Nacional de Energia Elétrica (ANEEL)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L5764",
+   "nome": "Cooperativismo",
+   "lei": "Lei 5.764/1971",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Cooperativo: Cooperativismo"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9790",
+   "nome": "OSCIPs",
+   "lei": "Lei 9.790/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9790.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Cooperativo: OSCIPs"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9307",
+   "nome": "Arbitragem",
+   "lei": "Lei 9.307/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Cooperativo: Arbitragem"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13140",
+   "nome": "Lei da Mediação",
+   "lei": "Lei 13.140/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Cooperativo: Lei da Mediação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LSA",
+   "nome": "Lei das S.A.",
+   "lei": "Lei 6.404/1976",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Cooperativo: Lei das S.A."
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L605",
+   "nome": "Repouso Semanal Remunerado e Feriados (DSR)",
+   "lei": "Lei 605/1949",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Repouso Semanal Remunerado e Feriados (DSR)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4090",
+   "nome": "Gratificação de Natal (13º salário)",
+   "lei": "Lei 4.090/1962",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Gratificação de Natal (13º salário)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4749",
+   "nome": "Pagamento do 13º salário (prazos e forma)",
+   "lei": "Lei 4.749/1965",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Pagamento do 13º salário (prazos e forma)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4950A",
+   "nome": "Pisos Profissionais (Eng., Arq., Agr., Vet., Quím.)",
+   "lei": "Lei 4.950-A/1966",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Pisos Profissionais (Eng., Arq., Agr., Vet., Quím.)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6019",
+   "nome": "Trabalho Temporário",
+   "lei": "Lei 6.019/1974",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Trabalho Temporário"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6321",
+   "nome": "Programa de Alimentação do Trabalhador (PAT)",
+   "lei": "Lei 6.321/1976",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Programa de Alimentação do Trabalhador (PAT)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7064",
+   "nome": "Trabalho no Exterior (brasileiros)",
+   "lei": "Lei 7.064/1982",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Trabalho no Exterior (brasileiros)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7418",
+   "nome": "Vale-Transporte",
+   "lei": "Lei 7.418/1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Vale-Transporte"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7783",
+   "nome": "Direito de Greve",
+   "lei": "Lei 7.783/1989",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Direito de Greve"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7998",
+   "nome": "Seguro‑Desemprego, Abono e FAT",
+   "lei": "Lei 7.998/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Seguro‑Desemprego, Abono e FAT"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "FGTS",
+   "nome": "FGTS",
+   "lei": "Lei 8.036/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: FGTS"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9029",
+   "nome": "Antidiscriminação nas Relações de Trabalho",
+   "lei": "Lei 9.029/1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Antidiscriminação nas Relações de Trabalho"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9601",
+   "nome": "Contrato por Prazo Determinado (via ACT/CCT)",
+   "lei": "Lei 9.601/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Contrato por Prazo Determinado (via ACT/CCT)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10101",
+   "nome": "Participação nos Lucros ou Resultados (PLR)",
+   "lei": "Lei 10.101/2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l10101compilado.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Participação nos Lucros ou Resultados (PLR)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11770",
+   "nome": "Programa Empresa Cidadã (licenças)",
+   "lei": "Lei 11.770/2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11770.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Programa Empresa Cidadã (licenças)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11788",
+   "nome": "Lei do Estágio",
+   "lei": "Lei 11.788/2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Lei do Estágio"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC150",
+   "nome": "Empregado Doméstico",
+   "lei": "Lei Complementar 150/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Empregado Doméstico"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13103",
+   "nome": "Motorista Profissional",
+   "lei": "Lei 13.103/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Motorista Profissional"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14442",
+   "nome": "Auxílio‑Alimentação (regras e vedações)",
+   "lei": "Lei 14.442/2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14442.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Auxílio‑Alimentação (regras e vedações)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14611",
+   "nome": "Igualdade Salarial por Gênero",
+   "lei": "Lei 14.611/2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Igualdade Salarial por Gênero"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12815",
+   "nome": "Setor Portuário – Relações de Trabalho",
+   "lei": "Lei 12.815/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Setor Portuário – Relações de Trabalho"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12506",
+   "nome": "Aviso Prévio Proporcional",
+   "lei": "Lei 12.506/2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Aviso Prévio Proporcional"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L5584",
+   "nome": "Normas do Processo do Trabalho",
+   "lei": "Lei 5.584/1970",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Normas do Processo do Trabalho"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L3207",
+   "nome": "Vendedores Viajantes ou Pracistas",
+   "lei": "Lei 3.207/1957",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Vendedores Viajantes ou Pracistas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L5889",
+   "nome": "Trabalho Rural",
+   "lei": "Lei 5.889/1973",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5889.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Trabalho Rural"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6533",
+   "nome": "Profissão de Artista e de Técnico em Espetáculos",
+   "lei": "Lei 6.533/1978",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Profissão de Artista e de Técnico em Espetáculos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6615",
+   "nome": "Profissão de Radialista",
+   "lei": "Lei 6.615/1978",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6615.htm",
+   "grupo": "esparsas_trabalhista",
+   "origens": [
+    "Esparsas/Trabalhista: Profissão de Radialista"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8212",
+   "nome": "Plano de Custeio da Seguridade Social",
+   "lei": "Lei 8.212/1991",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8212compilado.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário: Plano de Custeio da Seguridade Social"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LOAS",
+   "nome": "Lei Orgânica da Assistência Social (LOAS)",
+   "lei": "Lei 8.742/1993",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / Assistência Social: Lei Orgânica da Assistência Social (LOAS)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9717",
+   "nome": "Normas Gerais dos RPPS",
+   "lei": "Lei 9.717/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / RPPS: Normas Gerais dos RPPS"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9796",
+   "nome": "Compensação Financeira RGPS × RPPS (COMPREV)",
+   "lei": "Lei 9.796/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / RPPS: Compensação Financeira RGPS × RPPS (COMPREV)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10887",
+   "nome": "Cálculo/Contribuição de Servidor Federal (RPPS União)",
+   "lei": "Lei 10.887/2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.887compilado.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / RPPS: Cálculo/Contribuição de Servidor Federal (RPPS União)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC109",
+   "nome": "Previdência Complementar (regras gerais)",
+   "lei": "Lei Complementar 109/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / Complementar: Previdência Complementar (regras gerais)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC108",
+   "nome": "Previdência Complementar com Patrocinador Público",
+   "lei": "Lei Complementar 108/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / Complementar: Previdência Complementar com Patrocinador Público"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12618",
+   "nome": "Funpresp / Regime de Previdência Complementar do Servidor",
+   "lei": "Lei 12.618/2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12618.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário / RPPS / Complementar: Funpresp / Regime de Previdência Complementar do Servidor"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10666",
+   "nome": "Disposições Previdenciárias Diversas (inclui cooperados)",
+   "lei": "Lei 10.666/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.666compilado.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário: Disposições Previdenciárias Diversas (inclui cooperados)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10259",
+   "nome": "Juizados Especiais Federais (JEFs)",
+   "lei": "Lei 10.259/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário/Processual: Juizados Especiais Federais (JEFs)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC142",
+   "nome": "Aposentadoria da Pessoa com Deficiência (RGPS)",
+   "lei": "Lei Complementar 142/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário: Aposentadoria da Pessoa com Deficiência (RGPS)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10779",
+   "nome": "Seguro-Defeso do Pescador Artesanal",
+   "lei": "Lei 10.779/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.779compilado.htm",
+   "grupo": "esparsas_previdenciario",
+   "origens": [
+    "Esparsas/Previdenciário/Setorial: Seguro-Defeso do Pescador Artesanal"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LEF",
+   "nome": "Execução Fiscal (LEF)",
+   "lei": "Lei 6.830/1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: Execução Fiscal (LEF)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9430",
+   "nome": "Legislação Tributária Federal (IRPJ, compensação etc.)",
+   "lei": "Lei 9.430/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430compilada.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: Legislação Tributária Federal (IRPJ, compensação etc.)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7713",
+   "nome": "Imposto de Renda da Pessoa Física (IRPF)",
+   "lei": "Lei 7.713/1988",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: Imposto de Renda da Pessoa Física (IRPF)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9249",
+   "nome": "IRPJ/CSLL – Regras centrais (JCP, bases e limites)",
+   "lei": "Lei 9.249/1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: IRPJ/CSLL – Regras centrais (JCP, bases e limites)"
+   ],
+   "notas": [
+    "compilado 404; página única vigente"
+   ]
+  },
+  {
+   "sigla": "L7689",
+   "nome": "CSLL – Contribuição Social sobre o Lucro Líquido (instituidora)",
+   "lei": "Lei 7.689/1988",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: CSLL – Contribuição Social sobre o Lucro Líquido (instituidora)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10637",
+   "nome": "PIS (não cumulativo)",
+   "lei": "Lei 10.637/2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: PIS (não cumulativo)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10833",
+   "nome": "COFINS (não cumulativa)",
+   "lei": "Lei 10.833/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: COFINS (não cumulativa)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10865",
+   "nome": "PIS/COFINS na Importação",
+   "lei": "Lei 10.865/2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: PIS/COFINS na Importação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10684",
+   "nome": "Parcelamento Especial – PAES",
+   "lei": "Lei 10.684/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: Parcelamento Especial – PAES"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13988",
+   "nome": "Transação no Contencioso Tributário Federal",
+   "lei": "Lei 13.988/2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: Transação no Contencioso Tributário Federal"
+   ],
+   "notas": [
+    "compilado 404; página única vigente"
+   ]
+  },
+  {
+   "sigla": "L10522",
+   "nome": "CADIN – Cadastro Informativo de Créditos não Quitados",
+   "lei": "Lei 10.522/2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: CADIN – Cadastro Informativo de Créditos não Quitados"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC87",
+   "nome": "ICMS – Normas Gerais (Lei Kandir)",
+   "lei": "Lei Complementar 87/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: ICMS – Normas Gerais (Lei Kandir)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC116",
+   "nome": "ISS – Normas Gerais e Lista de Serviços",
+   "lei": "Lei Complementar 116/2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: ISS – Normas Gerais e Lista de Serviços"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8989",
+   "nome": "IPI – Isenção para PcD (automóveis)",
+   "lei": "Lei 8.989/1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8989compilado.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário: IPI – Isenção para PcD (automóveis)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8112",
+   "nome": "Regime Jurídico dos Servidores Federais (RJU)",
+   "lei": "Lei 8.112/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112compilado.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Regime Jurídico dos Servidores Federais (RJU)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LIA",
+   "nome": "Improbidade Administrativa",
+   "lei": "Lei 8.429/1992",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Improbidade Administrativa"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9784",
+   "nome": "Processo Administrativo Federal (PAF)",
+   "lei": "Lei 9.784/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Processo Administrativo Federal (PAF)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LAI",
+   "nome": "Acesso à Informação (LAI)",
+   "lei": "Lei 12.527/2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Constitucional: Acesso à Informação (LAI)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LRF",
+   "nome": "Responsabilidade Fiscal (LRF)",
+   "lei": "Lei Complementar 101/2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Direito Financeiro: Responsabilidade Fiscal (LRF)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LMS",
+   "nome": "Mandado de Segurança",
+   "lei": "Lei 12.016/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Constitucional: Mandado de Segurança"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4717",
+   "nome": "Ação Popular",
+   "lei": "Lei 4.717/1965",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Constitucional: Ação Popular"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LACP",
+   "nome": "Ação Civil Pública (ACP)",
+   "lei": "Lei 7.347/1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Processual: Ação Civil Pública (ACP)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9507",
+   "nome": "Habeas Data",
+   "lei": "Lei 9.507/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Constitucional: Habeas Data"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8987",
+   "nome": "Concessões e Permissões de Serviços Públicos",
+   "lei": "Lei 8.987/1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987compilada.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Concessões e Permissões de Serviços Públicos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11079",
+   "nome": "Parcerias Público-Privadas (PPPs)",
+   "lei": "Lei 11.079/2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079compilado.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Parcerias Público-Privadas (PPPs)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11107",
+   "nome": "Consórcios Públicos",
+   "lei": "Lei 11.107/2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Consórcios Públicos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "DL3365",
+   "nome": "Desapropriação por utilidade pública",
+   "lei": "Decreto-Lei 3.365/1941",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365compilado.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Desapropriação por utilidade pública"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4320",
+   "nome": "Normas Gerais de Direito Financeiro",
+   "lei": "Lei 4.320/1964",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Financeiro/Administrativo: Normas Gerais de Direito Financeiro"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13303",
+   "nome": "Estatais",
+   "lei": "Lei 13.303/2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Estatais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13019",
+   "nome": "Marco Regulatório das OSCs (MROSC)",
+   "lei": "Lei 13.019/2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019compilado.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Marco Regulatório das OSCs (MROSC)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13460",
+   "nome": "Direitos do Usuário do Serviço Público",
+   "lei": "Lei 13.460/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13460.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Direitos do Usuário do Serviço Público"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14129",
+   "nome": "Governo Digital e Eficiência Pública",
+   "lei": "Lei 14.129/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Governo Digital e Eficiência Pública"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13848",
+   "nome": "Agências Reguladoras",
+   "lei": "Lei 13.848/2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Agências Reguladoras"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9986",
+   "nome": "Gestão de RH das Agências Reguladoras",
+   "lei": "Lei 9.986/2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9986.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo: Gestão de RH das Agências Reguladoras"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6385",
+   "nome": "Mercado de Valores Mobiliários (CVM)",
+   "lei": "Lei 6.385/1976",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Mercado de Valores Mobiliários (CVM)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4728",
+   "nome": "Mercado de Capitais",
+   "lei": "Lei 4.728/1965",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Mercado de Capitais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LREF",
+   "nome": "Recuperação e Falência",
+   "lei": "Lei 11.101/2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101compilado.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Recuperação e Falência"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8934",
+   "nome": "Registro Público de Empresas Mercantis",
+   "lei": "Lei 8.934/1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Registro Público de Empresas Mercantis"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11598",
+   "nome": "REDESIM (registro e legalização)",
+   "lei": "Lei 11.598/2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: REDESIM (registro e legalização)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12529",
+   "nome": "Defesa da Concorrência (CADE)",
+   "lei": "Lei 12.529/2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Defesa da Concorrência (CADE)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13874",
+   "nome": "Declaração de Direitos de Liberdade Econômica",
+   "lei": "Lei 13.874/2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Declaração de Direitos de Liberdade Econômica"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13966",
+   "nome": "Franquia Empresarial (Lei de Franquias)",
+   "lei": "Lei 13.966/2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13966.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Franquia Empresarial (Lei de Franquias)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9279",
+   "nome": "Propriedade Industrial",
+   "lei": "Lei 9.279/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Propriedade Industrial"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9609",
+   "nome": "Propriedade Intelecutal sobre Software (programa de computador)",
+   "lei": "Lei 9.609/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Propriedade Intelecutal sobre Software (programa de computador)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9610",
+   "nome": "Direitos Autorais",
+   "lei": "Lei 9.610/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Direitos Autorais"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L5474",
+   "nome": "Duplicatas",
+   "lei": "Lei 5.474/1968",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Duplicatas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D2044",
+   "nome": "Letra de Câmbio e Nota Promissória",
+   "lei": "Decreto 2.044/1908",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2044.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Letra de Câmbio e Nota Promissória"
+   ],
+   "notas": [
+    "planilha classificava como decreto-lei; é o Decreto 2.044/1908",
+    "planilha classificava como decreto-lei; é o Decreto 2.044/1908"
+   ]
+  },
+  {
+   "sigla": "L13775",
+   "nome": "Duplicata Escritural",
+   "lei": "Lei 13.775/2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13775.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Duplicata Escritural"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8929",
+   "nome": "Cédula de Produto Rural (CPR)",
+   "lei": "Lei 8.929/1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Cédula de Produto Rural (CPR)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L4886",
+   "nome": "Representação Comercial",
+   "lei": "Lei 4.886/1965",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Representação Comercial"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6729",
+   "nome": "Concessão Comercial de Veículos",
+   "lei": "Lei 6.729/1979",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Concessão Comercial de Veículos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14195",
+   "nome": "Melhoria do Ambiente de Negócios (extinção EIRELI)",
+   "lei": "Lei 14.195/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14195.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Melhoria do Ambiente de Negócios (extinção EIRELI)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14286",
+   "nome": "Marco Legal do Câmbio",
+   "lei": "Lei 14.286/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14286.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Marco Legal do Câmbio"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11638",
+   "nome": "Alterações Contábeis (S.A. e grandes empresas)",
+   "lei": "Lei 11.638/2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11638.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Alterações Contábeis (S.A. e grandes empresas)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC182",
+   "nome": "Marco Legal das Startups",
+   "lei": "Lei Complementar 182/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial: Marco Legal das Startups"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D2181",
+   "nome": "Sistema Nacional de Defesa do Consumidor e Sanções Administrativas",
+   "lei": "Decreto 2.181/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Sistema Nacional de Defesa do Consumidor e Sanções Administrativas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9656",
+   "nome": "Planos e Seguros Privados de Assistência à Saúde",
+   "lei": "Lei 9.656/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9656.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor/Saúde Suplementar: Planos e Seguros Privados de Assistência à Saúde"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D11034",
+   "nome": "Serviço de Atendimento ao Consumidor (SAC)",
+   "lei": "Decreto 11.034/2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Serviço de Atendimento ao Consumidor (SAC)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10962",
+   "nome": "Exibição de Preços de Produtos e Serviços",
+   "lei": "Lei 10.962/2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Exibição de Preços de Produtos e Serviços"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12741",
+   "nome": "Transparência de Tributos na Nota Fiscal",
+   "lei": "Lei 12.741/2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Transparência de Tributos na Nota Fiscal"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11795",
+   "nome": "Consórcios",
+   "lei": "Lei 11.795/2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor/Empresarial: Consórcios"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13455",
+   "nome": "Preço Diferenciado por Forma de Pagamento",
+   "lei": "Lei 13.455/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Consumidor: Preço Diferenciado por Forma de Pagamento"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9278",
+   "nome": "União Estável (regime jurídico)",
+   "lei": "Lei 9.278/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9278.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: União Estável (regime jurídico)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8560",
+   "nome": "Investigação de Paternidade (filho havido fora do casamento)",
+   "lei": "Lei 8.560/1992",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8560.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Investigação de Paternidade (filho havido fora do casamento)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11804",
+   "nome": "Alimentos Gravídicos",
+   "lei": "Lei 11.804/2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Alimentos Gravídicos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6515",
+   "nome": "Lei do Divórcio",
+   "lei": "Lei 6.515/1977",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6515.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família: Lei do Divórcio"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13431",
+   "nome": "Sistema de Garantia – Escuta e Depoimento Especial",
+   "lei": "Lei 13.431/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família/Infantojuvenil: Sistema de Garantia – Escuta e Depoimento Especial"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13257",
+   "nome": "Marco Legal da Primeira Infância",
+   "lei": "Lei 13.257/2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família/Infantojuvenil: Marco Legal da Primeira Infância"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14382",
+   "nome": "Modernização dos Registros Públicos (SERP)",
+   "lei": "Lei 14.382/2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14382.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família/Registral: Modernização dos Registros Públicos (SERP)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8009",
+   "nome": "Bem de Família (impenhorabilidade do imóvel residencial)",
+   "lei": "Lei 8.009/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8009.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família/Civil: Bem de Família (impenhorabilidade do imóvel residencial)"
+   ],
+   "notas": [
+    "compilado 404; página única vigente"
+   ]
+  },
+  {
+   "sigla": "DL911",
+   "nome": "Busca e Apreensão Fiduciária (veículos)",
+   "lei": "Decreto-Lei 911/1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário/Cível: Busca e Apreensão Fiduciária (veículos)"
+   ],
+   "notas": [
+    "subdiretório por período"
+   ]
+  },
+  {
+   "sigla": "L9492",
+   "nome": "Protesto de Títulos",
+   "lei": "Lei 9.492/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial/Cível: Protesto de Títulos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9514",
+   "nome": "Alienação Fiduciária de Imóveis (SFI)",
+   "lei": "Lei 9.514/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Imobiliário/Bancário: Alienação Fiduciária de Imóveis (SFI)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11419",
+   "nome": "Processo Judicial Eletrônico (PJe) e atos eletrônicos",
+   "lei": "Lei 11.419/2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Cível: Processo Judicial Eletrônico (PJe) e atos eletrônicos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12153",
+   "nome": "Juizados da Fazenda Pública",
+   "lei": "Lei 12.153/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Cível: Juizados da Fazenda Pública"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8080",
+   "nome": "Lei Orgânica da Saúde (SUS)",
+   "lei": "Lei 8.080/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde/Administrativo: Lei Orgânica da Saúde (SUS)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8142",
+   "nome": "Participação da Comunidade no SUS",
+   "lei": "Lei 8.142/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde/Administrativo: Participação da Comunidade no SUS"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11445",
+   "nome": "Saneamento Básico (marco setorial)",
+   "lei": "Lei 11.445/2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Ambiental: Saneamento Básico (marco setorial)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14026",
+   "nome": "Novo Marco do Saneamento",
+   "lei": "Lei 14.026/2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14026.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Ambiental: Novo Marco do Saneamento"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LGT",
+   "nome": "Lei Geral de Telecomunicações (LGT)",
+   "lei": "Lei 9.472/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Telecom/Administrativo: Lei Geral de Telecomunicações (LGT)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13116",
+   "nome": "Marco das Antenas",
+   "lei": "Lei 13.116/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13116.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Telecom/Administrativo: Marco das Antenas"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12846",
+   "nome": "Lei Anticorrupção (responsabilização de pessoas jurídicas)",
+   "lei": "Lei 12.846/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial/Administrativo: Lei Anticorrupção (responsabilização de pessoas jurídicas)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D10278",
+   "nome": "Digitalização de Documentos – Requisitos de Integridade",
+   "lei": "Decreto 10.278/2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial/Cível: Digitalização de Documentos – Requisitos de Integridade"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14063",
+   "nome": "Assinaturas Eletrônicas na Administração Pública",
+   "lei": "Lei 14.063/2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm",
+   "grupo": "esparsas_administrativo",
+   "origens": [
+    "Esparsas/Administrativo/Tecnologia: Assinaturas Eletrônicas na Administração Pública"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6938",
+   "nome": "Política Nacional do Meio Ambiente (PNMA)",
+   "lei": "Lei 6.938/1981",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6938.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Ambiental/Administrativo: Política Nacional do Meio Ambiente (PNMA)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9985",
+   "nome": "Sistema Nacional de Unidades de Conservação (SNUC)",
+   "lei": "Lei 9.985/2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Ambiental/Administrativo: Sistema Nacional de Unidades de Conservação (SNUC)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12305",
+   "nome": "Política Nacional de Resíduos Sólidos (PNRS)",
+   "lei": "Lei 12.305/2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Ambiental/Administrativo: Política Nacional de Resíduos Sólidos (PNRS)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6099",
+   "nome": "Arrendamento Mercantil (Leasing)",
+   "lei": "Lei 6.099/1974",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Bancário/Empresarial: Arrendamento Mercantil (Leasing)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "DL167",
+   "nome": "Cédulas de Crédito Rural",
+   "lei": "Decreto-Lei 167/1967",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0167.htm",
+   "grupo": "esparsas_imobiliario_agrario",
+   "origens": [
+    "Esparsas/Agronegócio/Bancário: Cédulas de Crédito Rural"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D70235",
+   "nome": "Processo Administrativo Fiscal (PAF) Federal",
+   "lei": "Decreto 70.235/1972",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/d70235compilado.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário/Administrativo: Processo Administrativo Fiscal (PAF) Federal"
+   ],
+   "notas": [
+    "caminho compilado correto"
+   ]
+  },
+  {
+   "sigla": "DL1598",
+   "nome": "IRPJ – Normas Gerais (conceitos e apuração)",
+   "lei": "Decreto-Lei 1.598/1977",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1598.htm",
+   "grupo": "esparsas_tributario",
+   "origens": [
+    "Esparsas/Tributário/Empresarial: IRPJ – Normas Gerais (conceitos e apuração)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14711",
+   "nome": "Marco Legal das Garantias",
+   "lei": "Lei 14.711/2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm",
+   "grupo": "esparsas_consumidor_bancario",
+   "origens": [
+    "Esparsas/Cível/Bancário: Marco Legal das Garantias"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14478",
+   "nome": "Marco dos Criptoativos",
+   "lei": "Lei 14.478/2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14478.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Financeiro/Empresarial: Marco dos Criptoativos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12865",
+   "nome": "Arranjos e Instituições de Pagamento",
+   "lei": "Lei 12.865/2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12865.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Financeiro/Empresarial: Arranjos e Instituições de Pagamento"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D3413",
+   "nome": "Convenção de Haia – Sequestro Internacional de Crianças (promulgação)",
+   "lei": "Decreto 3.413/2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3413.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Família/Internacional: Convenção de Haia – Sequestro Internacional de Crianças (promulgação)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13300",
+   "nome": "Mandado de Injunção",
+   "lei": "Lei 13.300/2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Constitucional/Administrativo: Mandado de Injunção"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9504",
+   "nome": "Lei das Eleições",
+   "lei": "Lei 9.504/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504compilado.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Processual: Lei das Eleições"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9096",
+   "nome": "Lei dos Partidos Políticos",
+   "lei": "Lei 9.096/1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Administrativo: Lei dos Partidos Políticos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC64",
+   "nome": "Inelegibilidades (Lei Complementar das Inelegibilidades)",
+   "lei": "Lei Complementar 64/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Constitucional: Inelegibilidades (Lei Complementar das Inelegibilidades)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6091",
+   "nome": "Transporte de Eleitores em Zona Rural",
+   "lei": "Lei 6.091/1974",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Administrativo: Transporte de Eleitores em Zona Rural"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6996",
+   "nome": "Apoio Logístico Postal a Alistamento e Eleições",
+   "lei": "Lei 6.996/1982",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Administrativo: Apoio Logístico Postal a Alistamento e Eleições"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L7444",
+   "nome": "Revisão do Eleitorado",
+   "lei": "Lei 7.444/1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Administrativo: Revisão do Eleitorado"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9709",
+   "nome": "Plebiscito, Referendo e Iniciativa Popular",
+   "lei": "Lei 9.709/1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Constitucional/Eleitoral: Plebiscito, Referendo e Iniciativa Popular"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC135",
+   "nome": "Lei da Ficha Limpa (altera LC 64/1990)",
+   "lei": "Lei Complementar 135/2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Constitucional: Lei da Ficha Limpa (altera LC 64/1990)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13165",
+   "nome": "Minirreforma Eleitoral 2015",
+   "lei": "Lei 13.165/2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13165.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Processual: Minirreforma Eleitoral 2015"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13487",
+   "nome": "Fundo Especial de Financiamento de Campanha (FEFC)",
+   "lei": "Lei 13.487/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13487.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Financeiro: Fundo Especial de Financiamento de Campanha (FEFC)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13488",
+   "nome": "Reforma Eleitoral 2017 (ajustes adicionais)",
+   "lei": "Lei 13.488/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13488.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Processual: Reforma Eleitoral 2017 (ajustes adicionais)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14208",
+   "nome": "Federações Partidárias",
+   "lei": "Lei 14.208/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14208.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Partidário: Federações Partidárias"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14211",
+   "nome": "Sobras e Quociente (distribuição de vagas)",
+   "lei": "Lei 14.211/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14211.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Processual: Sobras e Quociente (distribuição de vagas)"
+   ],
+   "notas": [
+    "planilha trazia URL da Câmara; candidata do Planalto construída"
+   ]
+  },
+  {
+   "sigla": "L14192",
+   "nome": "Violência Política contra a Mulher",
+   "lei": "Lei 14.192/2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14192.htm",
+   "grupo": "esparsas_eleitoral",
+   "origens": [
+    "Esparsas/Eleitoral/Direitos Políticos: Violência Política contra a Mulher"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9289",
+   "nome": "Custas na Justiça Federal",
+   "lei": "Lei 9.289/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Tributário: Custas na Justiça Federal"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LC80",
+   "nome": "Organização da Defensoria Pública (LC 80)",
+   "lei": "Lei Complementar 80/1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Constitucional: Organização da Defensoria Pública (LC 80)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12037",
+   "nome": "Identificação Criminal",
+   "lei": "Lei 12.037/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Penal: Identificação Criminal"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9868",
+   "nome": "ADI e ADC no STF (processo e julgamento)",
+   "lei": "Lei 9.868/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Constitucional/Processual: ADI e ADC no STF (processo e julgamento)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9882",
+   "nome": "ADPF no STF (processo e julgamento)",
+   "lei": "Lei 9.882/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Constitucional/Processual: ADPF no STF (processo e julgamento)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L11417",
+   "nome": "Súmula Vinculante (procedimento e efeitos)",
+   "lei": "Lei 11.417/2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11417.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Constitucional/Processual: Súmula Vinculante (procedimento e efeitos)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8038",
+   "nome": "Procedimentos no STF e STJ (ações originárias/recursos)",
+   "lei": "Lei 8.038/1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Geral: Procedimentos no STF e STJ (ações originárias/recursos)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L8437",
+   "nome": "Suspensão de Liminar e Sentença (Fazenda Pública)",
+   "lei": "Lei 8.437/1992",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Administrativo: Suspensão de Liminar e Sentença (Fazenda Pública)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9494",
+   "nome": "Efeitos Processuais contra a Fazenda Pública",
+   "lei": "Lei 9.494/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Administrativo: Efeitos Processuais contra a Fazenda Pública"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L13726",
+   "nome": "Desburocratização — Atos e Documentos Públicos",
+   "lei": "Lei 13.726/2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13726.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Administrativo: Desburocratização — Atos e Documentos Públicos"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L12030",
+   "nome": "Perícia Oficial de Natureza Criminal",
+   "lei": "Lei 12.030/2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Processual/Penal: Perícia Oficial de Natureza Criminal"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9782",
+   "nome": "ANVISA — Sistema Nacional de Vigilância Sanitária",
+   "lei": "Lei 9.782/1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Saúde/Regulatório: ANVISA — Sistema Nacional de Vigilância Sanitária"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9478",
+   "nome": "Petróleo",
+   "lei": "Lei 9.478/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9478.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Regulatório/Empresarial: Petróleo"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L10233",
+   "nome": "ANTT/ANTAQ — Reestruturação dos Transportes",
+   "lei": "Lei 10.233/2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10233.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Regulatório/Transporte: ANTT/ANTAQ — Reestruturação dos Transportes"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "LDB",
+   "nome": "LDB — Lei de Diretrizes e Bases da Educação",
+   "lei": "Lei 9.394/1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Educacional/Administrativo: LDB — Lei de Diretrizes e Bases da Educação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14113",
+   "nome": "FUNDEB (permanente)",
+   "lei": "Lei 14.113/2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Educacional/Financeiro: FUNDEB (permanente)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L9537",
+   "nome": "Segurança do Tráfego Aquaviário",
+   "lei": "Lei 9.537/1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9537.htm",
+   "grupo": "esparsas_regulatorio_outros",
+   "origens": [
+    "Esparsas/Marítimo/Regulatório: Segurança do Tráfego Aquaviário"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D8660",
+   "nome": "Apostila da Haia (1961) — promulgação",
+   "lei": "Decreto 8.660/2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8660.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Internacional/Notarial: Apostila da Haia (1961) — promulgação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D9734",
+   "nome": "Haia — Citação/Intimação no Exterior (1965) — promulgação",
+   "lei": "Decreto 9.734/2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9734.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Internacional/Processual: Haia — Citação/Intimação no Exterior (1965) — promulgação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D9039",
+   "nome": "Haia — Obtenção de Provas no Exterior (1970) — promulgação",
+   "lei": "Decreto 9.039/2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9039.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Internacional/Processual: Haia — Obtenção de Provas no Exterior (1970) — promulgação"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D4311",
+   "nome": "Convenção de Nova York (1958) — sentenças arbitrais — promulgação",
+   "lei": "Decreto 4.311/2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4311.htm",
+   "grupo": "esparsas_processual_constitucional",
+   "origens": [
+    "Esparsas/Internacional/Arbitragem: Convenção de Nova York (1958) — sentenças arbitrais — promulgação"
+   ],
+   "notas": [
+    "subdiretório por ano"
+   ]
+  },
+  {
+   "sigla": "L11076",
+   "nome": "Títulos do Agronegócio (LCA/CRA e correlatos)",
+   "lei": "Lei 11.076/2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11076compilado.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial/Financeiro: Títulos do Agronegócio (LCA/CRA e correlatos)"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L14430",
+   "nome": "Marco das Securitizadoras e Securitização",
+   "lei": "Lei 14.430/2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm",
+   "grupo": "esparsas_empresarial",
+   "origens": [
+    "Esparsas/Empresarial/Financeiro: Marco das Securitizadoras e Securitização"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "L6858",
+   "nome": "Pagamento a Dependentes sem Inventário",
+   "lei": "Lei 6.858/1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6858.htm",
+   "grupo": "esparsas_civel_familia",
+   "origens": [
+    "Esparsas/Sucessões/Cível: Pagamento a Dependentes sem Inventário"
+   ],
+   "notas": []
+  },
+  {
+   "sigla": "D9936",
+   "nome": "Decreto 9.936/2019 - Regulamenta Base de Dados para Score de Crédito",
+   "lei": "Decreto 9.936/2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9936.htm",
+   "grupo": "decretos",
+   "origens": [
+    "Decretos/: Decreto 9.936/2019 - Regulamenta Base de Dados para Score de Crédito"
+   ],
+   "notas": []
+  }
+ ]
+}

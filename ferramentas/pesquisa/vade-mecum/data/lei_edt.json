@@ -1,0 +1,927 @@
+{
+  "_meta": {
+    "codigo": "EDT",
+    "nome": "Estatuto de Defesa do Torcedor",
+    "lei": "Lei 10.671/2003",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm",
+    "total_artigos": 57,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Este Estatuto estabelece normas de proteção e defesa do torcedor.\n\nArt. 1o-A. A prevenção da violência nos esportes é de responsabilidade do poder público, das confederações, federações, ligas, clubes, associações ou entidades esportivas, entidades recreativas e associações de torcedores, inclusive de seus respectivos dirigentes, bem como daqueles que, de qualquer forma, promovem, organizam, coordenam ou participam dos eventos esportivos. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%201o%20Este%20Estatuto%20estabelece%20normas%20de%20prote%C3%A7%C3%A3o%20e%20defesa%20do%20torcedor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Torcedor é toda pessoa que aprecie, apóie ou se associe a qualquer entidade de prática desportiva do País e acompanhe a prática de determinada modalidade esportiva.\n\nParágrafo único. Salvo prova em contrário, presumem-se a apreciação, o apoio ou o acompanhamento de que trata o caput deste artigo.\n\nArt. 2o-A. Considera-se torcida organizada, para os efeitos desta Lei, a pessoa jurídica de direito privado ou existente de fato, que se organize para o fim de torcer e apoiar entidade de prática esportiva de qualquer natureza ou modalidade. (Incluído pela Lei nº 12.299, de 2010).\n\nParágrafo único. A torcida organizada deverá manter cadastro atualizado de seus associados ou membros, o qual deverá conter, pelo menos, as seguintes informações: (Incluído pela Lei nº 12.299, de 2010).\n\nI - nome completo; (Incluído pela Lei nº 12.299, de 2010).\n\nII - fotografia; (Incluído pela Lei nº 12.299, de 2010).\n\nIII - filiação; (Incluído pela Lei nº 12.299, de 2010).\n\nIV - número do registro civil; (Incluído pela Lei nº 12.299, de 2010).\n\nV - número do CPF; (Incluído pela Lei nº 12.299, de 2010).\n\nVI - data de nascimento; (Incluído pela Lei nº 12.299, de 2010).\n\nVII - estado civil; (Incluído pela Lei nº 12.299, de 2010).\n\nVIII - profissão; (Incluído pela Lei nº 12.299, de 2010).\n\nIX - endereço completo; e (Incluído pela Lei nº 12.299, de 2010).\n\nX - escolaridade. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%202o%20Torcedor%20%C3%A9%20toda%20pessoa%20que%20aprecie%2C%20ap%C3%B3ie%20ou%20se%20associe%20a%20qualquer%20entidade%20de%20pr%C3%A1tica%20desportiva%20do%20Pa%C3%ADs%20e%20acompanhe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Para todos os efeitos legais, equiparam-se a fornecedor, nos termos da Lei no 8.078, de 11 de setembro de 1990, a entidade responsável pela organização da competição, bem como a entidade de prática desportiva detentora do mando de jogo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%203o%20Para%20todos%20os%20efeitos%20legais%2C%20equiparam-se%20a%20fornecedor%2C%20nos%20termos%20da%20Lei%20no%208.078%2C%20de%2011%20de%20setembro%20de%201990%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%204o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o São asseguradas ao torcedor a publicidade e transparência na organização das competições administradas pelas entidades de administração do desporto, bem como pelas ligas de que trata o art. 20 da Lei no 9.615, de 24 de março de 1998.\n\n§ 1o As entidades de que trata o caput farão publicar na internet, em sítio da entidade responsável pela organização do evento: (Incluído pela Lei nº 12.299, de 2010).\n\nI - a íntegra do regulamento da competição; (Incluído pela Lei nº 12.299, de 2010).\n\nII - as tabelas da competição, contendo as partidas que serão realizadas, com especificação de sua data, local e horário; (Incluído pela Lei nº 12.299, de 2010).\n\nIII - o nome e as formas de contato do Ouvidor da Competição de que trata o art. 6o; (Incluído pela Lei nº 12.299, de 2010).\n\nIV - os borderôs completos das partidas; (Incluído pela Lei nº 12.299, de 2010).\n\nV - a escalação dos árbitros imediatamente após sua definição; e (Incluído pela Lei nº 12.299, de 2010).\n\nVI - a relação dos nomes dos torcedores impedidos de comparecer ao local do evento desportivo. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 2o Os dados contidos nos itens V e VI também deverão ser afixados ostensivamente em local visível, em caracteres facilmente legíveis, do lado externo de todas as entradas do local onde se realiza o evento esportivo. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 3o O juiz deve comunicar às entidades de que trata o caput decisão judicial ou aceitação de proposta de transação penal ou suspensão do processo que implique o impedimento do torcedor de frequentar estádios desportivos. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%205o%20S%C3%A3o%20asseguradas%20ao%20torcedor%20a%20publicidade%20e%20transpar%C3%AAncia%20na%20organiza%C3%A7%C3%A3o%20das%20competi%C3%A7%C3%B5es%20administradas%20pelas%20entidades%20de%20administra%C3%A7%C3%A3o%20do%20desporto%2C%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A entidade responsável pela organização da competição, previamente ao seu início, designará o Ouvidor da Competição, fornecendo-lhe os meios de comunicação necessários ao amplo acesso dos torcedores.\n\n§ 1o São deveres do Ouvidor da Competição recolher as sugestões, propostas e reclamações que receber dos torcedores, examiná-las e propor à respectiva entidade medidas necessárias ao aperfeiçoamento da competição e ao benefício do torcedor.\n\n§ 2o É assegurado ao torcedor:\n\nI - o amplo acesso ao Ouvidor da Competição, mediante comunicação postal ou mensagem eletrônica; e\n\nII - o direito de receber do Ouvidor da Competição as respostas às sugestões, propostas e reclamações, que encaminhou, no prazo de trinta dias.\n\n§ 3o Na hipótese de que trata o inciso II do § 2o, o Ouvidor da Competição utilizará, prioritariamente, o mesmo meio de comunicação utilizado pelo torcedor para o encaminhamento de sua mensagem.\n\n§ 4o O sítio da internet em que forem publicadas as informações de que trata o § 1o do art. 5o conterá, também, as manifestações e propostas do Ouvidor da Competição. (Redação dada pela Lei nº 12.299, de 2010).\n\n§ 5o A função de Ouvidor da Competição poderá ser remunerada pelas entidades de prática desportiva participantes da competição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%206o%20A%20entidade%20respons%C3%A1vel%20pela%20organiza%C3%A7%C3%A3o%20da%20competi%C3%A7%C3%A3o%2C%20previamente%20ao%20seu%20in%C3%ADcio%2C%20designar%C3%A1%20o%20Ouvidor%20da%20Competi%C3%A7%C3%A3o%2C%20fornecendo-lhe%20os%20meios%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o É direito do torcedor a divulgação, durante a realização da partida, da renda obtida pelo pagamento de ingressos e do número de espectadores pagantes e não-pagantes, por intermédio dos serviços de som e imagem instalados no estádio em que se realiza a partida, pela entidade responsável pela organização da competição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%207o%20%C3%89%20direito%20do%20torcedor%20a%20divulga%C3%A7%C3%A3o%2C%20durante%20a%20realiza%C3%A7%C3%A3o%20da%20partida%2C%20da%20renda%20obtida%20pelo%20pagamento%20de%20ingressos%20e%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o As competições de atletas profissionais de que participem entidades integrantes da organização desportiva do País deverão ser promovidas de acordo com calendário anual de eventos oficiais que:\n\nI - garanta às entidades de prática desportiva participação em competições durante pelo menos dez meses do ano;\n\nII - adote, em pelo menos uma competição de âmbito nacional, sistema de disputa em que as equipes participantes conheçam, previamente ao seu início, a quantidade de partidas que disputarão, bem como seus adversários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%208o%20As%20competi%C3%A7%C3%B5es%20de%20atletas%20profissionais%20de%20que%20participem%20entidades%20integrantes%20da%20organiza%C3%A7%C3%A3o%20desportiva%20do%20Pa%C3%ADs%20dever%C3%A3o%20ser%20promovidas%20de%20acordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o É direito do torcedor que o regulamento, as tabelas da competição e o nome do Ouvidor da Competição sejam divulgados até 60 (sessenta) dias antes de seu início, na forma do § 1o do art. 5o. (Redação dada pela Lei nº 12.299, de 2010).\n\n§ 1o Nos dez dias subseqüentes à divulgação de que trata o caput, qualquer interessado poderá manifestar-se sobre o regulamento diretamente ao Ouvidor da Competição.\n\n§ 2o O Ouvidor da Competição elaborará, em setenta e duas horas, relatório contendo as principais propostas e sugestões encaminhadas.\n\n§ 3o Após o exame do relatório, a entidade responsável pela organização da competição decidirá, em quarenta e oito horas, motivadamente, sobre a conveniência da aceitação das propostas e sugestões relatadas.\n\n§ 4o O regulamento definitivo da competição será divulgado, na forma do § 1o do art. 5o, 45 (quarenta e cinco) dias antes de seu início. (Redação dada pela Lei nº 12.299, de 2010).\n\n§ 5o É vedado proceder alterações no regulamento da competição desde sua divulgação definitiva, salvo nas hipóteses de:\n\nI - apresentação de novo calendário anual de eventos oficiais para o ano subseqüente, desde que aprovado pelo Conselho Nacional do Esporte – CNE;\n\nII - após dois anos de vigência do mesmo regulamento, observado o procedimento de que trata este artigo.\n\nIII - interrupção das competições por motivo de surtos, epidemias e pandemias que possam comprometer a integridade física e o bem-estar dos atletas, desde que aprovada pela maioria das agremiações partícipes do evento. (Incluído pela Lei nº 14.117, de 2021)\n\n§ 6o A competição que vier a substituir outra, segundo o novo calendário anual de eventos oficiais apresentado para o ano subseqüente, deverá ter âmbito territorial diverso da competição a ser substituída.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%209o%20%C3%89%20direito%20do%20torcedor%20que%20o%20regulamento%2C%20as%20tabelas%20da%20competi%C3%A7%C3%A3o%20e%20o%20nome%20do%20Ouvidor%20da%20Competi%C3%A7%C3%A3o%20sejam%20divulgados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É direito do torcedor que a participação das entidades de prática desportiva em competições organizadas pelas entidades de que trata o art. 5o seja exclusivamente em virtude de critério técnico previamente definido.\n\n§ 1o Para os fins do disposto neste artigo, considera-se critério técnico a habilitação de entidade de prática desportiva em razão de: (Redação dada pela Lei nº 13.155, de 2015)\n\nI - colocação obtida em competição anterior; e (Incluído pela Lei nº 13.155, de 2015)\n\nII - cumprimento dos seguintes requisitos: (Incluído pela Lei nº 13.155, de 2015)\n\na) regularidade fiscal, atestada por meio de apresentação de Certidão Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União - CND; (Incluído pela Lei nº 13.155, de 2015)\n\nb) apresentação de certificado de regularidade do Fundo de Garantia do Tempo de Serviço - FGTS; e (Incluído pela Lei nº 13.155, de 2015)\n\nc) comprovação de pagamento dos vencimentos acertados em contratos de trabalho e dos contratos de imagem dos atletas. (Incluído pela Lei nº 13.155, de 2015)\n\n§ 2o Fica vedada a adoção de qualquer outro critério, especialmente o convite, observado o disposto no art. 89 da Lei nº 9.615, de 24 de março de 1998.\n\n§ 3o Em campeonatos ou torneios regulares com mais de uma divisão, serão observados o princípio do acesso e do descenso e as seguintes determinações, sem prejuízo da perda de pontos, na forma do regulamento: (Redação dada pela Lei nº 13.155, de 2015)\n\nI - a entidade de prática desportiva que não cumprir todos os requisitos estabelecidos no inciso II do § 1o deste artigo participará da divisão imediatamente inferior à que se encontra classificada; (Incluído pela Lei nº 13.155, de 2015)\n\nII - a vaga desocupada pela entidade de prática desportiva rebaixada nos termos do inciso I deste parágrafo será ocupada por entidade de prática desportiva participante da divisão que receberá a entidade rebaixada nos termos do inciso I deste parágrafo, obedecida a ordem de classificação do campeonato do ano anterior e desde que cumpridos os requisitos exigidos no inciso II do § 1o deste artigo. (Incluído pela Lei nº 13.155, de 2015)\n\n§ 4o Serão desconsideradas as partidas disputadas pela entidade de prática desportiva que não tenham atendido ao critério técnico previamente definido, inclusive para efeito de pontuação na competição.\n\n§ 5o A comprovação da regularidade fiscal de que trata a alínea a do inciso II do § 1o deste artigo poderá ser feita mediante a apresentação de Certidão Positiva com Efeitos de Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União - CPEND. (Incluído pela Lei nº 13.155, de 2015)\n\n§ 6o (VETADO). (Incluído pela Lei nº 13.155, de 2015)\n\n§ 7o (VETADO). (Incluído pela Lei nº 13.155, de 2015)\n\n§ 8o (VETADO). (Incluído pela Lei nº 13.155, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2010.%20%C3%89%20direito%20do%20torcedor%20que%20a%20participa%C3%A7%C3%A3o%20das%20entidades%20de%20pr%C3%A1tica%20desportiva%20em%20competi%C3%A7%C3%B5es%20organizadas%20pelas%20entidades%20de%20que%20trata",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. É direito do torcedor que o árbitro e seus auxiliares entreguem, em até quatro horas contadas do término da partida, a súmula e os relatórios da partida ao representante da entidade responsável pela organização da competição.\n\n§ 1o Em casos excepcionais, de grave tumulto ou necessidade de laudo médico, os relatórios da partida poderão ser complementados em até vinte e quatro horas após o seu término.\n\n§ 2o A súmula e os relatórios da partida serão elaborados em três vias, de igual teor e forma, devidamente assinadas pelo árbitro, auxiliares e pelo representante da entidade responsável pela organização da competição.\n\n§ 3o A primeira via será acondicionada em envelope lacrado e ficará na posse de representante da entidade responsável pela organização da competição, que a encaminhará ao setor competente da respectiva entidade até as treze horas do primeiro dia útil subseqüente.\n\n§ 4o O lacre de que trata o § 3o será assinado pelo árbitro e seus auxiliares.\n\n§ 5o A segunda via ficará na posse do árbitro da partida, servindo-lhe como recibo.\n\n§ 6o A terceira via ficará na posse do representante da entidade responsável pela organização da competição, que a encaminhará ao Ouvidor da Competição até as treze horas do primeiro dia útil subseqüente, para imediata divulgação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2011.%20%C3%89%20direito%20do%20torcedor%20que%20o%20%C3%A1rbitro%20e%20seus%20auxiliares%20entreguem%2C%20em%20at%C3%A9%20quatro%20horas%20contadas%20do%20t%C3%A9rmino%20da%20partida%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A entidade responsável pela organização da competição dará publicidade à súmula e aos relatórios da partida no sítio de que trata o § 1o do art. 5o até as 14 (quatorze) horas do 3o (terceiro) dia útil subsequente ao da realização da partida. (Redação dada pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2012.%20A%20entidade%20respons%C3%A1vel%20pela%20organiza%C3%A7%C3%A3o%20da%20competi%C3%A7%C3%A3o%20dar%C3%A1%20publicidade%20%C3%A0%20s%C3%BAmula%20e%20aos%20relat%C3%B3rios%20da%20partida%20no%20s%C3%ADtio%20de%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O torcedor tem direito a segurança nos locais onde são realizados os eventos esportivos antes, durante e após a realização das partidas. (Vigência)\n\nParágrafo único. Será assegurado acessibilidade ao torcedor portador de deficiência ou com mobilidade reduzida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2013.%20O%20torcedor%20tem%20direito%20a%20seguran%C3%A7a%20nos%20locais%20onde%20s%C3%A3o%20realizados%20os%20eventos%20esportivos%20antes%2C%20durante%20e%20ap%C3%B3s%20a%20realiza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "13-A"
+    },
+    "13-A": {
+      "numero": "13-A",
+      "texto": "Art. 13-A. São condições de acesso e permanência do torcedor no recinto esportivo, sem prejuízo de outras condições previstas em lei: (Incluído pela Lei nº 12.299, de 2010).\n\nI - estar na posse de ingresso válido; (Incluído pela Lei nº 12.299, de 2010).\n\nII - não portar objetos, bebidas ou substâncias proibidas ou suscetíveis de gerar ou possibilitar a prática de atos de violência; (Incluído pela Lei nº 12.299, de 2010).\n\nIII - consentir com a revista pessoal de prevenção e segurança; (Incluído pela Lei nº 12.299, de 2010).\n\nIV - não portar ou ostentar cartazes, bandeiras, símbolos ou outros sinais com mensagens ofensivas, inclusive de caráter racista ou xenófobo; (Incluído pela Lei nº 12.299, de 2010).\n\nV - não entoar cânticos discriminatórios, racistas ou xenófobos; (Incluído pela Lei nº 12.299, de 2010).\n\nVI - não arremessar objetos, de qualquer natureza, no interior do recinto esportivo; (Incluído pela Lei nº 12.299, de 2010).\n\nVII - não portar ou utilizar fogos de artifício ou quaisquer outros engenhos pirotécnicos ou produtores de efeitos análogos; (Incluído pela Lei nº 12.299, de 2010).\n\nVIII - não incitar e não praticar atos de violência no estádio, qualquer que seja a sua natureza; e (Incluído pela Lei nº 12.299, de 2010).\n\nIX - não invadir e não incitar a invasão, de qualquer forma, da área restrita aos competidores. (Incluído pela Lei nº 12.299, de 2010).\n\nX - não utilizar bandeiras, inclusive com mastro de bambu ou similares, para outros fins que não o da manifestação festiva e amigável. (Incluído pela Lei nº 12.663, de 2012).\n\nParágrafo único. O não cumprimento das condições estabelecidas neste artigo implicará a impossibilidade de ingresso do torcedor ao recinto esportivo, ou, se for o caso, o seu afastamento imediato do recinto, sem prejuízo de outras sanções administrativas, civis ou penais eventualmente cabíveis. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2013-A.%20S%C3%A3o%20condi%C3%A7%C3%B5es%20de%20acesso%20e%20perman%C3%AAncia%20do%20torcedor%20no%20recinto%20esportivo%2C%20sem%20preju%C3%ADzo%20de%20outras%20condi%C3%A7%C3%B5es%20previstas%20em%20lei%3A%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Sem prejuízo do disposto nos arts. 12 a 14 da Lei nº 8.078, de 11 de setembro de 1990, a responsabilidade pela segurança do torcedor em evento esportivo é da entidade de prática desportiva detentora do mando de jogo e de seus dirigentes, que deverão:\n\nI – solicitar ao Poder Público competente a presença de agentes públicos de segurança, devidamente identificados, responsáveis pela segurança dos torcedores dentro e fora dos estádios e demais locais de realização de eventos esportivos;\n\nII - informar imediatamente após a decisão acerca da realização da partida, dentre outros, aos órgãos públicos de segurança, transporte e higiene, os dados necessários à segurança da partida, especialmente:\n\na) o local;\n\nb) o horário de abertura do estádio;\n\nc) a capacidade de público do estádio; e\n\nd) a expectativa de público;\n\nIII - colocar à disposição do torcedor orientadores e serviço de atendimento para que aquele encaminhe suas reclamações no momento da partida, em local:\n\na) amplamente divulgado e de fácil acesso; e\n\nb) situado no estádio.\n\n§ 1o É dever da entidade de prática desportiva detentora do mando de jogo solucionar imediatamente, sempre que possível, as reclamações dirigidas ao serviço de atendimento referido no inciso III, bem como reportá-las ao Ouvidor da Competição e, nos casos relacionados à violação de direitos e interesses de consumidores, aos órgãos de defesa e proteção do consumidor.\n\n§ 2o (Revogado pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2014.%20Sem%20preju%C3%ADzo%20do%20disposto%20nos%20arts.%2012%20a%2014%20da%20Lei%20n%C2%BA%208.078%2C%20de%2011%20de%20setembro%20de%201990%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13-A",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O detentor do mando de jogo será uma das entidades de prática desportiva envolvidas na partida, de acordo com os critérios definidos no regulamento da competição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2015.%20O%20detentor%20do%20mando%20de%20jogo%20ser%C3%A1%20uma%20das%20entidades%20de%20pr%C3%A1tica%20desportiva%20envolvidas%20na%20partida%2C%20de%20acordo%20com%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. É dever da entidade responsável pela organização da competição:\n\nI - confirmar, com até quarenta e oito horas de antecedência, o horário e o local da realização das partidas em que a definição das equipes dependa de resultado anterior;\n\nII - contratar seguro de acidentes pessoais, tendo como beneficiário o torcedor portador de ingresso, válido a partir do momento em que ingressar no estádio;\n\nIII – disponibilizar um médico e dois enfermeiros-padrão para cada dez mil torcedores presentes à partida;\n\nIV – disponibilizar uma ambulância para cada dez mil torcedores presentes à partida; e\n\nV – comunicar previamente à autoridade de saúde a realização do evento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2016.%20%C3%89%20dever%20da%20entidade%20respons%C3%A1vel%20pela%20organiza%C3%A7%C3%A3o%20da%20competi%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. É direito do torcedor a implementação de planos de ação referentes a segurança, transporte e contingências que possam ocorrer durante a realização de eventos esportivos.\n\n§ 1o Os planos de ação de que trata o caput serão elaborados pela entidade responsável pela organização da competição, com a participação das entidades de prática desportiva que a disputarão e dos órgãos responsáveis pela segurança pública, transporte e demais contingências que possam ocorrer, das localidades em que se realizarão as partidas da competição. (Redação dada pela Lei nº 12.299, de 2010).\n\n§ 2o Planos de ação especiais poderão ser apresentados em relação a eventos esportivos com excepcional expectativa de público.\n\n§ 3o Os planos de ação serão divulgados no sítio dedicado à competição de que trata o parágrafo único do art. 5o no mesmo prazo de publicação do regulamento definitivo da competição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2017.%20%C3%89%20direito%20do%20torcedor%20a%20implementa%C3%A7%C3%A3o%20de%20planos%20de%20a%C3%A7%C3%A3o%20referentes%20a%20seguran%C3%A7a%2C%20transporte%20e%20conting%C3%AAncias%20que%20possam%20ocorrer%20durante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Os estádios com capacidade superior a 10.000 (dez mil) pessoas deverão manter central técnica de informações, com infraestrutura suficiente para viabilizar o monitoramento por imagem do público presente. (Redação dada pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2018.%20Os%20est%C3%A1dios%20com%20capacidade%20superior%20a%2010.000%20%28dez%20mil%29%20pessoas%20dever%C3%A3o%20manter%20central%20t%C3%A9cnica%20de%20informa%C3%A7%C3%B5es%2C%20com%20infraestrutura%20suficiente%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As entidades responsáveis pela organização da competição, bem como seus dirigentes respondem solidariamente com as entidades de que trata o art. 15 e seus dirigentes, independentemente da existência de culpa, pelos prejuízos causados a torcedor que decorram de falhas de segurança nos estádios ou da inobservância do disposto neste capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2019.%20As%20entidades%20respons%C3%A1veis%20pela%20organiza%C3%A7%C3%A3o%20da%20competi%C3%A7%C3%A3o%2C%20bem%20como%20seus%20dirigentes%20respondem%20solidariamente%20com%20as%20entidades%20de%20que%20trata%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. É direito do torcedor partícipe que os ingressos para as partidas integrantes de competições profissionais sejam colocados à venda até setenta e duas horas antes do início da partida correspondente.\n\n§ 1o O prazo referido no caput será de quarenta e oito horas nas partidas em que:\n\nI - as equipes sejam definidas a partir de jogos eliminatórios; e\n\nII - a realização não seja possível prever com antecedência de quatro dias.\n\n§ 2o A venda deverá ser realizada por sistema que assegure a sua agilidade e amplo acesso à informação.\n\n§ 3o É assegurado ao torcedor partícipe o fornecimento de comprovante de pagamento, logo após a aquisição dos ingressos.\n\n§ 4o Não será exigida, em qualquer hipótese, a devolução do comprovante de que trata o § 3o.\n\n§ 5o Nas partidas que compõem as competições de âmbito nacional ou regional de primeira e segunda divisão, a venda de ingressos será realizada em, pelo menos, cinco postos de venda localizados em distritos diferentes da cidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2020.%20%C3%89%20direito%20do%20torcedor%20part%C3%ADcipe%20que%20os%20ingressos%20para%20as%20partidas%20integrantes%20de%20competi%C3%A7%C3%B5es%20profissionais%20sejam%20colocados%20%C3%A0%20venda%20at%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A entidade detentora do mando de jogo implementará, na organização da emissão e venda de ingressos, sistema de segurança contra falsificações, fraudes e outras práticas que contribuam para a evasão da receita decorrente do evento esportivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2021.%20A%20entidade%20detentora%20do%20mando%20de%20jogo%20implementar%C3%A1%2C%20na%20organiza%C3%A7%C3%A3o%20da%20emiss%C3%A3o%20e%20venda%20de%20ingressos%2C%20sistema%20de%20seguran%C3%A7a%20contra",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. São direitos do torcedor partícipe: (Vigência)\n\nI - que todos os ingressos emitidos sejam numerados; e\n\nII - ocupar o local correspondente ao número constante do ingresso.\n\n§ 1o O disposto no inciso II não se aplica aos locais já existentes para assistência em pé, nas competições que o permitirem, limitando-se, nesses locais, o número de pessoas, de acordo com critérios de saúde, segurança e bem-estar.\n\n§ 2o A emissão de ingressos e o acesso ao estádio nas primeira e segunda divisões da principal competição nacional e nas partidas finais das competições eliminatórias de âmbito nacional deverão ser realizados por meio de sistema eletrônico que viabilize a fiscalização e o controle da quantidade de público e do movimento financeiro da partida. (Redação dada pela Lei nº 12.299, de 2010).\n\n§ 3o O disposto no § 2o não se aplica aos eventos esportivos realizados em estádios com capacidade inferior a 10.000 (dez mil) pessoas. (Redação dada pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2022.%20S%C3%A3o%20direitos%20do%20torcedor%20part%C3%ADcipe%3A%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A entidade responsável pela organização da competição apresentará ao Ministério Público dos Estados e do Distrito Federal, previamente à sua realização, os laudos técnicos expedidos pelos órgãos e autoridades competentes pela vistoria das condições de segurança dos estádios a serem utilizados na competição. (Regulamento)\n\n§ 1o Os laudos atestarão a real capacidade de público dos estádios, bem como suas condições de segurança.\n\n§ 2o Perderá o mando de jogo por, no mínimo, seis meses, sem prejuízo das demais sanções cabíveis, a entidade de prática desportiva detentora do mando do jogo em que:\n\nI - tenha sido colocado à venda número de ingressos maior do que a capacidade de público do estádio; ou\n\nII - tenham entrado pessoas em número maior do que a capacidade de público do estádio.\n\nIII - tenham sido disponibilizados portões de acesso ao estádio em número inferior ao recomendado pela autoridade pública. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2023.%20A%20entidade%20respons%C3%A1vel%20pela%20organiza%C3%A7%C3%A3o%20da%20competi%C3%A7%C3%A3o%20apresentar%C3%A1%20ao%20Minist%C3%A9rio%20P%C3%BAblico%20dos%20Estados%20e%20do%20Distrito%20Federal%2C%20previamente%20%C3%A0%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. É direito do torcedor partícipe que conste no ingresso o preço pago por ele.\n\n§ 1o Os valores estampados nos ingressos destinados a um mesmo setor do estádio não poderão ser diferentes entre si, nem daqueles divulgados antes da partida pela entidade detentora do mando de jogo.\n\n§ 2o O disposto no § 1o não se aplica aos casos de venda antecipada de carnê para um conjunto de, no mínimo, três partidas de uma mesma equipe, bem como na venda de ingresso com redução de preço decorrente de previsão legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2024.%20%C3%89%20direito%20do%20torcedor%20part%C3%ADcipe%20que%20conste%20no%20ingresso%20o%20pre%C3%A7o%20pago%20por%20ele.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O controle e a fiscalização do acesso do público ao estádio com capacidade para mais de 10.000 (dez mil) pessoas deverão contar com meio de monitoramento por imagem das catracas, sem prejuízo do disposto no art. 18 desta Lei. (Redação dada pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2025.%20O%20controle%20e%20a%20fiscaliza%C3%A7%C3%A3o%20do%20acesso%20do%20p%C3%BAblico%20ao%20est%C3%A1dio%20com%20capacidade%20para%20mais%20de%2010.000%20%28dez%20mil%29%20pessoas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Em relação ao transporte de torcedores para eventos esportivos, fica assegurado ao torcedor partícipe:\n\nI - o acesso a transporte seguro e organizado;\n\nII - a ampla divulgação das providências tomadas em relação ao acesso ao local da partida, seja em transporte público ou privado; e\n\nIII - a organização das imediações do estádio em que será disputada a partida, bem como suas entradas e saídas, de modo a viabilizar, sempre que possível, o acesso seguro e rápido ao evento, na entrada, e aos meios de transporte, na saída.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2026.%20Em%20rela%C3%A7%C3%A3o%20ao%20transporte%20de%20torcedores%20para%20eventos%20esportivos%2C%20fica%20assegurado%20ao%20torcedor%20part%C3%ADcipe%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A entidade responsável pela organização da competição e a entidade de prática desportiva detentora do mando de jogo solicitarão formalmente, direto ou mediante convênio, ao Poder Público competente:\n\nI - serviços de estacionamento para uso por torcedores partícipes durante a realização de eventos esportivos, assegurando a estes acesso a serviço organizado de transporte para o estádio, ainda que oneroso; e\n\nII - meio de transporte, ainda que oneroso, para condução de idosos, crianças e pessoas portadoras de deficiência física aos estádios, partindo de locais de fácil acesso, previamente determinados.\n\nParágrafo único. O cumprimento do disposto neste artigo fica dispensado na hipótese de evento esportivo realizado em estádio com capacidade inferior a 10.000 (dez mil) pessoas. (Redação dada pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2027.%20A%20entidade%20respons%C3%A1vel%20pela%20organiza%C3%A7%C3%A3o%20da%20competi%C3%A7%C3%A3o%20e%20a%20entidade%20de%20pr%C3%A1tica%20desportiva%20detentora%20do%20mando%20de%20jogo%20solicitar%C3%A3o%20formalmente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O torcedor partícipe tem direito à higiene e à qualidade das instalações físicas dos estádios e dos produtos alimentícios vendidos no local.\n\n§ 1o O Poder Público, por meio de seus órgãos de vigilância sanitária, verificará o cumprimento do disposto neste artigo, na forma da legislação em vigor.\n\n§ 2o É vedado impor preços excessivos ou aumentar sem justa causa os preços dos produtos alimentícios comercializados no local de realização do evento esportivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2028.%20O%20torcedor%20part%C3%ADcipe%20tem%20direito%20%C3%A0%20higiene%20e%20%C3%A0%20qualidade%20das%20instala%C3%A7%C3%B5es%20f%C3%ADsicas%20dos%20est%C3%A1dios%20e%20dos%20produtos%20aliment%C3%ADcios%20vendidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. É direito do torcedor partícipe que os estádios possuam sanitários em número compatível com sua capacidade de público, em plenas condições de limpeza e funcionamento.\n\nParágrafo único. Os laudos de que trata o art. 23 deverão aferir o número de sanitários em condições de uso e emitir parecer sobre a sua compatibilidade com a capacidade de público do estádio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2029.%20%C3%89%20direito%20do%20torcedor%20part%C3%ADcipe%20que%20os%20est%C3%A1dios%20possuam%20sanit%C3%A1rios%20em%20n%C3%BAmero%20compat%C3%ADvel%20com%20sua%20capacidade%20de%20p%C3%BAblico%2C%20em%20plenas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. É direito do torcedor que a arbitragem das competições desportivas seja independente, imparcial, previamente remunerada e isenta de pressões.\n\nParágrafo único. A remuneração do árbitro e de seus auxiliares será de responsabilidade da entidade de administração do desporto ou da liga organizadora do evento esportivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2030.%20%C3%89%20direito%20do%20torcedor%20que%20a%20arbitragem%20das%20competi%C3%A7%C3%B5es%20desportivas%20seja%20independente%2C%20imparcial%2C%20previamente%20remunerada%20e%20isenta%20de%20press%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A entidade detentora do mando do jogo e seus dirigentes deverão convocar os agentes públicos de segurança visando a garantia da integridade física do árbitro e de seus auxiliares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2031.%20A%20entidade%20detentora%20do%20mando%20do%20jogo%20e%20seus%20dirigentes%20dever%C3%A3o%20convocar%20os%20agentes%20p%C3%BAblicos%20de%20seguran%C3%A7a%20visando%20a%20garantia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "31-A"
+    },
+    "31-A": {
+      "numero": "31-A",
+      "texto": "Art. 31-A. É dever das entidades de administração do desporto contratar seguro de vida e acidentes pessoais, tendo como beneficiária a equipe de arbitragem, quando exclusivamente no exercício dessa atividade. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2031-A.%20%C3%89%20dever%20das%20entidades%20de%20administra%C3%A7%C3%A3o%20do%20desporto%20contratar%20seguro%20de%20vida%20e%20acidentes%20pessoais%2C%20tendo%20como%20benefici%C3%A1ria%20a%20equipe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. É direito do torcedor que os árbitros de cada partida sejam escolhidos mediante sorteio, dentre aqueles previamente selecionados, ou audiência pública transmitida ao vivo pela rede mundial de computadores, sob pena de nulidade. (Redação dada pela Lei nº 13.155, de 2015)\n\n§ 1o O sorteio ou audiência pública serão realizados no mínimo quarenta e oito horas antes de cada rodada, em local e data previamente definidos. (Redação dada pela Lei nº 13.155, de 2015)\n\n§ 2o O sorteio será aberto ao público, garantida sua ampla divulgação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2032.%20%C3%89%20direito%20do%20torcedor%20que%20os%20%C3%A1rbitros%20de%20cada%20partida%20sejam%20escolhidos%20mediante%20sorteio%2C%20dentre%20aqueles%20previamente%20selecionados%2C%20ou%20audi%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-A",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Sem prejuízo do disposto nesta Lei, cada entidade de prática desportiva fará publicar documento que contemple as diretrizes básicas de seu relacionamento com os torcedores, disciplinando, obrigatoriamente: (Vigência)\n\nI - o acesso ao estádio e aos locais de venda dos ingressos;\n\nII - mecanismos de transparência financeira da entidade, inclusive com disposições relativas à realização de auditorias independentes, observado o disposto no art. 46-A da Lei nº 9.615, de 24 de março de 1998; e\n\nIII - a comunicação entre o torcedor e a entidade de prática desportiva.\n\nParágrafo único. A comunicação entre o torcedor e a entidade de prática desportiva de que trata o inciso III do caput poderá, dentre outras medidas, ocorrer mediante:\n\nI - a instalação de uma ouvidoria estável;\n\nII - a constituição de um órgão consultivo formado por torcedores não-sócios; ou\n\nIII - reconhecimento da figura do sócio-torcedor, com direitos mais restritos que os dos demais sócios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2033.%20Sem%20preju%C3%ADzo%20do%20disposto%20nesta%20Lei%2C%20cada%20entidade%20de%20pr%C3%A1tica%20desportiva%20far%C3%A1%20publicar%20documento%20que%20contemple%20as%20diretrizes%20b%C3%A1sicas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. É direito do torcedor que os órgãos da Justiça Desportiva, no exercício de suas funções, observem os princípios da impessoalidade, da moralidade, da celeridade, da publicidade e da independência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2034.%20%C3%89%20direito%20do%20torcedor%20que%20os%20%C3%B3rg%C3%A3os%20da%20Justi%C3%A7a%20Desportiva%2C%20no%20exerc%C3%ADcio%20de%20suas%20fun%C3%A7%C3%B5es%2C%20observem%20os%20princ%C3%ADpios%20da%20impessoalidade%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As decisões proferidas pelos órgãos da Justiça Desportiva devem ser, em qualquer hipótese, motivadas e ter a mesma publicidade que as decisões dos tribunais federais.\n\n§ 1o Não correm em segredo de justiça os processos em curso perante a Justiça Desportiva.\n\n§ 2o As decisões de que trata o caput serão disponibilizadas no sítio de que trata o § 1o do art. 5o. (Redação dada pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2035.%20As%20decis%C3%B5es%20proferidas%20pelos%20%C3%B3rg%C3%A3os%20da%20Justi%C3%A7a%20Desportiva%20devem%20ser%2C%20em%20qualquer%20hip%C3%B3tese%2C%20motivadas%20e%20ter%20a%20mesma%20publicidade%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. São nulas as decisões proferidas que não observarem o disposto nos arts. 34 e 35.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2036.%20S%C3%A3o%20nulas%20as%20decis%C3%B5es%20proferidas%20que%20n%C3%A3o%20observarem%20o%20disposto%20nos%20arts.%2034%20e%2035.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Sem prejuízo das demais sanções cabíveis, a entidade de administração do desporto, a liga ou a entidade de prática desportiva que violar ou de qualquer forma concorrer para a violação do disposto nesta Lei, observado o devido processo legal, incidirá nas seguintes sanções:\n\nI – destituição de seus dirigentes, na hipótese de violação das regras de que tratam os Capítulos II, IV e V desta Lei;\n\nII - suspensão por seis meses dos seus dirigentes, por violação dos dispositivos desta Lei não referidos no inciso I;\n\nIII - impedimento de gozar de qualquer benefício fiscal em âmbito federal; e\n\nIV - suspensão por seis meses dos repasses de recursos públicos federais da administração direta e indireta, sem prejuízo do disposto no art. 18 da Lei no 9.615, de 24 de março de 1998.\n\n§ 1o Os dirigentes de que tratam os incisos I e II do caput deste artigo serão sempre:\n\nI - o presidente da entidade, ou aquele que lhe faça as vezes; e\n\nII - o dirigente que praticou a infração, ainda que por omissão.\n\n§ 2o A União, os Estados, o Distrito Federal e os Municípios poderão instituir, no âmbito de suas competências, multas em razão do descumprimento do disposto nesta Lei, observado o valor mínimo de R$ 100,00 (cem reais) e o valor máximo de R$ 2.000.000,00 (dois milhões de reais). (Redação dada pela Lei nº 13.155, de 2015)\n\n§ 3o A instauração do processo apuratório acarretará adoção cautelar do afastamento compulsório dos dirigentes e demais pessoas que, de forma direta ou indiretamente, puderem interferir prejudicialmente na completa elucidação dos fatos, além da suspensão dos repasses de verbas públicas, até a decisão final.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2037.%20Sem%20preju%C3%ADzo%20das%20demais%20san%C3%A7%C3%B5es%20cab%C3%ADveis%2C%20a%20entidade%20de%20administra%C3%A7%C3%A3o%20do%20desporto%2C%20a%20liga%20ou%20a%20entidade%20de%20pr%C3%A1tica%20desportiva",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2038.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. (Revogado pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2039.%20%28Revogado%20pela%20Lei%20n%C2%BA%2012.299%2C%20de%202010%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "39-A"
+    },
+    "39-A": {
+      "numero": "39-A",
+      "texto": "Art. 39-A. A torcida organizada que, em evento esportivo, promover tumulto, praticar ou incitar a violência ou invadir local restrito aos competidores, árbitros, fiscais, dirigentes, organizadores ou jornalistas será impedida, assim como seus associados ou membros, de comparecer a eventos esportivos pelo prazo de até 5 (cinco) anos. (Redação dada pela Lei nº 13.912, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2039-A.%20A%20torcida%20organizada%20que%2C%20em%20evento%20esportivo%2C%20promover%20tumulto%2C%20praticar%20ou%20incitar%20a%20viol%C3%AAncia%20ou%20invadir%20local%20restrito%20aos%20competidores%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "39-B"
+    },
+    "39-B": {
+      "numero": "39-B",
+      "texto": "Art. 39-B. A torcida organizada responde civilmente, de forma objetiva e solidária, pelos danos causados por qualquer dos seus associados ou membros no local do evento esportivo, em suas imediações ou no trajeto de ida e volta para o evento. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2039-B.%20A%20torcida%20organizada%20responde%20civilmente%2C%20de%20forma%20objetiva%20e%20solid%C3%A1ria%2C%20pelos%20danos%20causados%20por%20qualquer%20dos%20seus%20associados%20ou%20membros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39-A",
+      "next": "39-C"
+    },
+    "39-C": {
+      "numero": "39-C",
+      "texto": "Art. 39-C. Aplica-se o disposto nos arts. 39-A e 39-B à torcida organizada e a seus associados ou membros envolvidos, mesmo que em local ou data distintos dos relativos à competição esportiva, nos casos de: (Incluído pela Lei nº 13.912, de 2019)\n\nI - invasão de local de treinamento;\n\nII - confronto, ou induzimento ou auxílio a confronto, entre torcedores;\n\nIII - ilícitos praticados contra esportistas, competidores, árbitros, fiscais ou organizadores de eventos esportivos e jornalistas voltados principal ou exclusivamente à cobertura de competições esportivas, mesmo que, no momento, não estejam atuando na competição ou diretamente envolvidos com o evento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2039-C.%20Aplica-se%20o%20disposto%20nos%20arts.%2039-A%20e%2039-B%20%C3%A0%20torcida%20organizada%20e%20a%20seus%20associados%20ou%20membros%20envolvidos%2C%20mesmo%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39-B",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A defesa dos interesses e direitos dos torcedores em juízo observará, no que couber, a mesma disciplina da defesa dos consumidores em juízo de que trata o Título III da Lei no 8.078, de 11 de setembro de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2040.%20A%20defesa%20dos%20interesses%20e%20direitos%20dos%20torcedores%20em%20ju%C3%ADzo%20observar%C3%A1%2C%20no%20que%20couber%2C%20a%20mesma%20disciplina%20da%20defesa%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39-C",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A União, os Estados, o Distrito Federal e os Municípios promoverão a defesa do torcedor, e, com a finalidade de fiscalizar o cumprimento do disposto nesta Lei, poderão:\n\nI - constituir órgão especializado de defesa do torcedor; ou\n\nII - atribuir a promoção e defesa do torcedor aos órgãos de defesa do consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20promover%C3%A3o%20a%20defesa%20do%20torcedor%2C%20e%2C%20com%20a%20finalidade%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41-A"
+    },
+    "41-A": {
+      "numero": "41-A",
+      "texto": "Art. 41-A. Os juizados do torcedor, órgãos da Justiça Ordinária com competência cível e criminal, poderão ser criados pelos Estados e pelo Distrito Federal para o processo, o julgamento e a execução das causas decorrentes das atividades reguladas nesta Lei. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-A.%20Os%20juizados%20do%20torcedor%2C%20%C3%B3rg%C3%A3os%20da%20Justi%C3%A7a%20Ordin%C3%A1ria%20com%20compet%C3%AAncia%20c%C3%ADvel%20e%20criminal%2C%20poder%C3%A3o%20ser%20criados%20pelos%20Estados%20e%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "41-B"
+    },
+    "41-B": {
+      "numero": "41-B",
+      "texto": "Art. 41-B. Promover tumulto, praticar ou incitar a violência, ou invadir local restrito aos competidores em eventos esportivos: (Incluído pela Lei nº 12.299, de 2010).\n\nPena - reclusão de 1 (um) a 2 (dois) anos e multa. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 1o Incorrerá nas mesmas penas o torcedor que: (Incluído pela Lei nº 12.299, de 2010).\n\nI - promover tumulto, praticar ou incitar a violência num raio de 5.000 (cinco mil) metros ao redor do local de realização do evento esportivo, ou durante o trajeto de ida e volta do local da realização do evento; (Incluído pela Lei nº 12.299, de 2010).\n\nII - portar, deter ou transportar, no interior do estádio, em suas imediações ou no seu trajeto, em dia de realização de evento esportivo, quaisquer instrumentos que possam servir para a prática de violência. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 2o Na sentença penal condenatória, o juiz deverá converter a pena de reclusão em pena impeditiva de comparecimento às proximidades do estádio, bem como a qualquer local em que se realize evento esportivo, pelo prazo de 3 (três) meses a 3 (três) anos, de acordo com a gravidade da conduta, na hipótese de o agente ser primário, ter bons antecedentes e não ter sido punido anteriormente pela prática de condutas previstas neste artigo. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 3o A pena impeditiva de comparecimento às proximidades do estádio, bem como a qualquer local em que se realize evento esportivo, converter-se-á em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 4o Na conversão de pena prevista no § 2o, a sentença deverá determinar, ainda, a obrigatoriedade suplementar de o agente permanecer em estabelecimento indicado pelo juiz, no período compreendido entre as 2 (duas) horas antecedentes e as 2 (duas) horas posteriores à realização de partidas de entidade de prática desportiva ou de competição determinada. (Incluído pela Lei nº 12.299, de 2010).\n\n§ 5o Na hipótese de o representante do Ministério Público propor aplicação da pena restritiva de direito prevista no art. 76 da Lei no 9.099, de 26 de setembro de 1995, o juiz aplicará a sanção prevista no § 2o. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-B.%20Promover%20tumulto%2C%20praticar%20ou%20incitar%20a%20viol%C3%AAncia%2C%20ou%20invadir%20local%20restrito%20aos%20competidores%20em%20eventos%20esportivos%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-A",
+      "next": "41-C"
+    },
+    "41-C": {
+      "numero": "41-C",
+      "texto": "Art. 41-C. Solicitar ou aceitar, para si ou para outrem, vantagem ou promessa de vantagem patrimonial ou não patrimonial para qualquer ato ou omissão destinado a alterar ou falsear o resultado de competição esportiva ou evento a ela associado: (Redação dada pela Lei nº 13.155, de 2015)\n\nPena - reclusão de 2 (dois) a 6 (seis) anos e multa. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-C.%20Solicitar%20ou%20aceitar%2C%20para%20si%20ou%20para%20outrem%2C%20vantagem%20ou%20promessa%20de%20vantagem%20patrimonial%20ou%20n%C3%A3o%20patrimonial%20para%20qualquer%20ato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-B",
+      "next": "41-D"
+    },
+    "41-D": {
+      "numero": "41-D",
+      "texto": "Art. 41-D. Dar ou prometer vantagem patrimonial ou não patrimonial com o fim de alterar ou falsear o resultado de uma competição desportiva ou evento a ela associado: (Redação dada pela Lei nº 13.155, de 2015)\n\nPena - reclusão de 2 (dois) a 6 (seis) anos e multa. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-D.%20Dar%20ou%20prometer%20vantagem%20patrimonial%20ou%20n%C3%A3o%20patrimonial%20com%20o%20fim%20de%20alterar%20ou%20falsear%20o%20resultado%20de%20uma%20competi%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-C",
+      "next": "41-E"
+    },
+    "41-E": {
+      "numero": "41-E",
+      "texto": "Art. 41-E. Fraudar, por qualquer meio, ou contribuir para que se fraude, de qualquer forma, o resultado de competição esportiva ou evento a ela associado: (Redação dada pela Lei nº 13.155, de 2015)\n\nPena - reclusão de 2 (dois) a 6 (seis) anos e multa. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-E.%20Fraudar%2C%20por%20qualquer%20meio%2C%20ou%20contribuir%20para%20que%20se%20fraude%2C%20de%20qualquer%20forma%2C%20o%20resultado%20de%20competi%C3%A7%C3%A3o%20esportiva%20ou%20evento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-D",
+      "next": "41-F"
+    },
+    "41-F": {
+      "numero": "41-F",
+      "texto": "Art. 41-F. Vender ingressos de evento esportivo, por preço superior ao estampado no bilhete: (Incluído pela Lei nº 12.299, de 2010).\n\nPena - reclusão de 1 (um) a 2 (dois) anos e multa. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-F.%20Vender%20ingressos%20de%20evento%20esportivo%2C%20por%20pre%C3%A7o%20superior%20ao%20estampado%20no%20bilhete%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.299%2C%20de%202010%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-E",
+      "next": "41-G"
+    },
+    "41-G": {
+      "numero": "41-G",
+      "texto": "Art. 41-G. Fornecer, desviar ou facilitar a distribuição de ingressos para venda por preço superior ao estampado no bilhete: (Incluído pela Lei nº 12.299, de 2010).\n\nPena - reclusão de 2 (dois) a 4 (quatro) anos e multa. (Incluído pela Lei nº 12.299, de 2010).\n\nParágrafo único. A pena será aumentada de 1/3 (um terço) até a metade se o agente for servidor público, dirigente ou funcionário de entidade de prática desportiva, entidade responsável pela organização da competição, empresa contratada para o processo de emissão, distribuição e venda de ingressos ou torcida organizada e se utilizar desta condição para os fins previstos neste artigo. (Incluído pela Lei nº 12.299, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2041-G.%20Fornecer%2C%20desviar%20ou%20facilitar%20a%20distribui%C3%A7%C3%A3o%20de%20ingressos%20para%20venda%20por%20pre%C3%A7o%20superior%20ao%20estampado%20no%20bilhete%3A%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-F",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O Conselho Nacional de Esportes – CNE promoverá, no prazo de seis meses, contado da publicação desta Lei, a adequação do Código de Justiça Desportiva ao disposto na Lei no 9.615, de 24 de março de 1998, nesta Lei e em seus respectivos regulamentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2042.%20O%20Conselho%20Nacional%20de%20Esportes%20%E2%80%93%20CNE%20promover%C3%A1%2C%20no%20prazo%20de%20seis%20meses%2C%20contado%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20a%20adequa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-G",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Esta Lei aplica-se apenas ao desporto profissional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2043.%20Esta%20Lei%20aplica-se%20apenas%20ao%20desporto%20profissional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O disposto no parágrafo único do art. 13, e nos arts. 18, 22, 25 e 33 entrará em vigor após seis meses da publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2044.%20O%20disposto%20no%20par%C3%A1grafo%20%C3%BAnico%20do%20art.%2013%2C%20e%20nos%20arts.%2018%2C%2022%2C%2025%20e%2033%20entrar%C3%A1%20em%20vigor%20ap%C3%B3s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 15 de maio de 2003; 182o da Independência e 115o da República.\n\nLUIZ INÁCIO LULA DA SILVA Agnelo Santos Queiroz Filho Álvaro Augusto Ribeiro Costa\n\nEste texto não substitui o publicado no DOU de 16.5.2003\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm#:~:text=Art.%2045.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": null
+    }
+  }
+}

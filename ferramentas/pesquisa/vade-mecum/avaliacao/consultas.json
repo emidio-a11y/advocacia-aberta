@@ -619,6 +619,64 @@
     "LLC:6"
    ],
    "justificativa": "O art. 6º, LVI e LVII, define sobrepreço e superfaturamento; o art. 11, III, põe entre os objetivos do processo licitatório evitar contratações com sobrepreço; o art. 59 disciplina a desclassificação de propostas e a avaliação de sobrepreço em obras."
+  },
+  {
+   "id": "epd-acessibilidade",
+   "grupo": "legislacao",
+   "consulta": "barreiras acessibilidade tecnologia assistiva",
+   "filtro": {
+    "codigo": "EPD"
+   },
+   "relevantes": [
+    "EPD:3",
+    "EPD:16",
+    "EPD:28",
+    "EPD:37",
+    "EPD:112"
+   ],
+   "obrigatorios": [
+    "EPD:3"
+   ],
+   "justificativa": "O art. 3º define acessibilidade, barreiras e tecnologia assistiva; o art. 16 garante tecnologia assistiva na habilitação e reabilitação; o art. 28 lista incumbências do poder público na educação inclusiva; o art. 37 trata da inclusão no trabalho em ambiente acessível; o art. 112 altera a Lei 10.098/2000, núcleo legal da acessibilidade."
+  },
+  {
+   "id": "ei-prioridade",
+   "grupo": "legislacao",
+   "consulta": "prioridade pessoa idosa atendimento preferencial",
+   "filtro": {
+    "codigo": "EI"
+   },
+   "relevantes": [
+    "EI:3",
+    "EI:71",
+    "EI:15",
+    "EI:38",
+    "EI:58"
+   ],
+   "obrigatorios": [
+    "EI:3",
+    "EI:71"
+   ],
+   "justificativa": "O art. 3º institui a garantia de prioridade e seu § 1º a detalha; o art. 71 assegura a prioridade na tramitação processual; o art. 15 garante atenção preferencial na saúde; o art. 38 a prioridade habitacional; o art. 58 tipifica a infração por descumprir a prioridade no atendimento."
+  },
+  {
+   "id": "eoab-honorarios",
+   "grupo": "legislacao",
+   "consulta": "honorários advocatícios sucumbência",
+   "filtro": {
+    "codigo": "EOAB"
+   },
+   "relevantes": [
+    "EOAB:22",
+    "EOAB:23",
+    "EOAB:24",
+    "EOAB:21"
+   ],
+   "obrigatorios": [
+    "EOAB:22",
+    "EOAB:23"
+   ],
+   "justificativa": "Os arts. 22 a 24 são o regime dos honorários no Estatuto da OAB (espécies, titularidade da sucumbência e força executiva); o art. 21 disciplina a sucumbência nas causas do empregador. O art. 7º, também recuperado, é rol geral de direitos do advogado e não foi julgado relevante."
   }
  ]
 }

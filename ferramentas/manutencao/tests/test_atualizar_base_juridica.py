@@ -65,7 +65,20 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             for chave, config in dados["conjuntos"].items()
             if config.get("adaptador")
         }
-        self.assertEqual(len(ativos), 6)
+        nucleo = {
+            "legislacao",
+            "sumulas_stj",
+            "sumulas_stf",
+            "sumulas_vinculantes",
+            "jurisprudencia_teses_stj",
+            "temas_repetitivos_stj",
+        }
+        self.assertLessEqual(nucleo, set(ativos))
+        extras = set(ativos) - nucleo
+        # Além do núcleo, só são esperados conjuntos da expansão legislativa.
+        self.assertEqual(
+            extras, {chave for chave in extras if chave.startswith("legislacao_")}
+        )
         for config in ativos.values():
             self.assertIn(config["adaptador"], pipeline.ADAPTADORES)
             for nome in pipeline.arquivos_do_conjunto(config):
@@ -259,6 +272,16 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             impar = Path(temp) / "impar.html"
             impar.write_bytes(b"\xff\xfe" + html.encode("utf-16-le") + b" ")
             self.assertEqual(pipeline.decodificar_html(impar), html)
+
+    def test_rotulo_de_artigo_tolera_defeitos_tipograficos_do_planalto(self) -> None:
+        # "Art 4º" sem ponto ocorre na Lei 6.001; "Art . 16." com espaço antes
+        # do ponto ocorre na Lei 6.880. "Artigo 1º" (texto de tratados) e
+        # "Arts. 5º e 6º" não são rótulos de artigo próprios.
+        self.assertEqual(pipeline.ARTIGO.match("Art 4º Os índios...").group(1), "4")
+        self.assertEqual(pipeline.ARTIGO.match("Art . 16. Os círculos...").group(1), "16")
+        self.assertEqual(pipeline.ARTIGO.match("Art. 1.001. Texto.").group(1), "1.001")
+        self.assertIsNone(pipeline.ARTIGO.match("Artigo 1º do tratado."))
+        self.assertIsNone(pipeline.ARTIGO.match("Arts. 5º e 6º aplicam-se."))
 
     def test_transformacao_ignora_artigo_citado_de_outra_norma(self) -> None:
         # Padrão da Lei 14.133: o art. 178 insere dispositivos no Código

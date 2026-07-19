@@ -1,0 +1,783 @@
+{
+  "_meta": {
+    "codigo": "EJUV",
+    "nome": "Estatuto da Juventude",
+    "lei": "Lei 12.852/2013",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm",
+    "total_artigos": 48,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei institui o Estatuto da Juventude e dispõe sobre os direitos dos jovens, os princípios e diretrizes das políticas públicas de juventude e o Sistema Nacional de Juventude - SINAJUVE.\n\n§ 1º Para os efeitos desta Lei, são consideradas jovens as pessoas com idade entre 15 (quinze) e 29 (vinte e nove) anos de idade.\n\n§ 2º Aos adolescentes com idade entre 15 (quinze) e 18 (dezoito) anos aplica-se a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, e, excepcionalmente, este Estatuto, quando não conflitar com as normas de proteção integral do adolescente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20institui%20o%20Estatuto%20da%20Juventude%20e%20disp%C3%B5e%20sobre%20os%20direitos%20dos%20jovens%2C%20os%20princ%C3%ADpios%20e%20diretrizes%20das%20pol%C3%ADticas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O disposto nesta Lei e as políticas públicas de juventude são regidos pelos seguintes princípios:\n\nI - promoção da autonomia e emancipação dos jovens;\n\nII - valorização e promoção da participação social e política, de forma direta e por meio de suas representações;\n\nIII - promoção da criatividade e da participação no desenvolvimento do País;\n\nIV - reconhecimento do jovem como sujeito de direitos universais, geracionais e singulares;\n\nV - promoção do bem-estar, da experimentação e do desenvolvimento integral do jovem;\n\nVI - respeito à identidade e à diversidade individual e coletiva da juventude;\n\nVII - promoção da vida segura, da cultura da paz, da solidariedade e da não discriminação; e\n\nVIII - valorização do diálogo e convívio do jovem com as demais gerações.\n\nParágrafo único. A emancipação dos jovens a que se refere o inciso I do caput refere-se à trajetória de inclusão, liberdade e participação do jovem na vida em sociedade, e não ao instituto da emancipação disciplinado pela Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%202%C2%BA%20O%20disposto%20nesta%20Lei%20e%20as%20pol%C3%ADticas%20p%C3%BAblicas%20de%20juventude%20s%C3%A3o%20regidos%20pelos%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Os agentes públicos ou privados envolvidos com políticas públicas de juventude devem observar as seguintes diretrizes:\n\nI - desenvolver a intersetorialidade das políticas estruturais, programas e ações;\n\nII - incentivar a ampla participação juvenil em sua formulação, implementação e avaliação;\n\nIII - ampliar as alternativas de inserção social do jovem, promovendo programas que priorizem o seu desenvolvimento integral e participação ativa nos espaços decisórios;\n\nIV - proporcionar atendimento de acordo com suas especificidades perante os órgãos públicos e privados prestadores de serviços à população, visando ao gozo de direitos simultaneamente nos campos da saúde, educacional, político, econômico, social, cultural e ambiental;\n\nV - garantir meios e equipamentos públicos que promovam o acesso à produção cultural, à prática esportiva, à mobilidade territorial e à fruição do tempo livre;\n\nVI - promover o território como espaço de integração;\n\nVII - fortalecer as relações institucionais com os entes federados e as redes de órgãos, gestores e conselhos de juventude;\n\nVIII - estabelecer mecanismos que ampliem a gestão de informação e produção de conhecimento sobre juventude;\n\nIX - promover a integração internacional entre os jovens, preferencialmente no âmbito da América Latina e da África, e a cooperação internacional;\n\nX - garantir a integração das políticas de juventude com os Poderes Legislativo e Judiciário, com o Ministério Público e com a Defensoria Pública; e\n\nXI - zelar pelos direitos dos jovens com idade entre 18 (dezoito) e 29 (vinte e nove) anos privados de liberdade e egressos do sistema prisional, formulando políticas de educação e trabalho, incluindo estímulos à sua reinserção social e laboral, bem como criando e estimulando oportunidades de estudo e trabalho que favoreçam o cumprimento do regime semiaberto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%203%C2%BA%20Os%20agentes%20p%C3%BAblicos%20ou%20privados%20envolvidos%20com%20pol%C3%ADticas%20p%C3%BAblicas%20de%20juventude%20devem%20observar%20as%20seguintes%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O jovem tem direito à participação social e política e na formulação, execução e avaliação das políticas públicas de juventude.\n\nParágrafo único. Entende-se por participação juvenil:\n\nI - a inclusão do jovem nos espaços públicos e comunitários a partir da sua concepção como pessoa ativa, livre, responsável e digna de ocupar uma posição central nos processos políticos e sociais;\n\nII - o envolvimento ativo dos jovens em ações de políticas públicas que tenham por objetivo o próprio benefício, o de suas comunidades, cidades e regiões e o do País;\n\nIII - a participação individual e coletiva do jovem em ações que contemplem a defesa dos direitos da juventude ou de temas afetos aos jovens; e\n\nIV - a efetiva inclusão dos jovens nos espaços públicos de decisão com direito a voz e voto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%204%C2%BA%20O%20jovem%20tem%20direito%20%C3%A0%20participa%C3%A7%C3%A3o%20social%20e%20pol%C3%ADtica%20e%20na%20formula%C3%A7%C3%A3o%2C%20execu%C3%A7%C3%A3o%20e%20avalia%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20p%C3%BAblicas%20de%20juventude.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A interlocução da juventude com o poder público pode realizar-se por intermédio de associações, redes, movimentos e organizações juvenis.\n\nParágrafo único. É dever do poder público incentivar a livre associação dos jovens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%205%C2%BA%20A%20interlocu%C3%A7%C3%A3o%20da%20juventude%20com%20o%20poder%20p%C3%BAblico%20pode%20realizar-se%20por%20interm%C3%A9dio%20de%20associa%C3%A7%C3%B5es%2C%20redes%2C%20movimentos%20e%20organiza%C3%A7%C3%B5es%20juvenis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º São diretrizes da interlocução institucional juvenil:\n\nI - a definição de órgão governamental específico para a gestão das políticas públicas de juventude;\n\nII - o incentivo à criação de conselhos de juventude em todos os entes da Federação.\n\nParágrafo único. Sem prejuízo das atribuições do órgão governamental específico para a gestão das políticas públicas de juventude e dos conselhos de juventude com relação aos direitos previstos neste Estatuto, cabe ao órgão governamental de gestão e aos conselhos dos direitos da criança e do adolescente a interlocução institucional com adolescentes de idade entre 15 (quinze) e 18 (dezoito) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%206%C2%BA%20S%C3%A3o%20diretrizes%20da%20interlocu%C3%A7%C3%A3o%20institucional%20juvenil%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O jovem tem direito à educação de qualidade, com a garantia de educação básica, obrigatória e gratuita, inclusive para os que a ela não tiveram acesso na idade adequada.\n\n§ 1º A educação básica será ministrada em língua portuguesa, assegurada aos jovens indígenas e de povos e comunidades tradicionais a utilização de suas línguas maternas e de processos próprios de aprendizagem.\n\n§ 2º É dever do Estado oferecer aos jovens que não concluíram a educação básica programas na modalidade da educação de jovens e adultos, adaptados às necessidades e especificidades da juventude, inclusive no período noturno, ressalvada a legislação educacional específica.\n\n§ 3º São assegurados aos jovens com surdez o uso e o ensino da Língua Brasileira de Sinais - LIBRAS, em todas as etapas e modalidades educacionais.\n\n§ 4º É assegurada aos jovens com deficiência a inclusão no ensino regular em todos os níveis e modalidades educacionais, incluindo o atendimento educacional especializado, observada a acessibilidade a edificações, transportes, espaços, mobiliários, equipamentos, sistemas e meios de comunicação e assegurados os recursos de tecnologia assistiva e adaptações necessárias a cada pessoa.\n\n§ 5º A Política Nacional de Educação no Campo contemplará a ampliação da oferta de educação para os jovens do campo, em todos os níveis e modalidades educacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%207%C2%BA%20O%20jovem%20tem%20direito%20%C3%A0%20educa%C3%A7%C3%A3o%20de%20qualidade%2C%20com%20a%20garantia%20de%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20obrigat%C3%B3ria%20e%20gratuita%2C%20inclusive%20para%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O jovem tem direito à educação superior, em instituições públicas ou privadas, com variados graus de abrangência do saber ou especialização do conhecimento, observadas as regras de acesso de cada instituição.\n\n§ 1º É assegurado aos jovens negros, indígenas e alunos oriundos da escola pública o acesso ao ensino superior nas instituições públicas por meio de políticas afirmativas, nos termos da lei.\n\n§ 2º O poder público promoverá programas de expansão da oferta de educação superior nas instituições públicas, de financiamento estudantil e de bolsas de estudos nas instituições privadas, em especial para jovens com deficiência, negros, indígenas e alunos oriundos da escola pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%208%C2%BA%20O%20jovem%20tem%20direito%20%C3%A0%20educa%C3%A7%C3%A3o%20superior%2C%20em%20institui%C3%A7%C3%B5es%20p%C3%BAblicas%20ou%20privadas%2C%20com%20variados%20graus%20de%20abrang%C3%AAncia%20do%20saber%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O jovem tem direito à educação profissional e tecnológica, articulada com os diferentes níveis e modalidades de educação, ao trabalho, à ciência e à tecnologia, observada a legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%209%C2%BA%20O%20jovem%20tem%20direito%20%C3%A0%20educa%C3%A7%C3%A3o%20profissional%20e%20tecnol%C3%B3gica%2C%20articulada%20com%20os%20diferentes%20n%C3%ADveis%20e%20modalidades%20de%20educa%C3%A7%C3%A3o%2C%20ao%20trabalho%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É dever do Estado assegurar ao jovem com deficiência o atendimento educacional especializado gratuito, preferencialmente, na rede regular de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2010.%20%C3%89%20dever%20do%20Estado%20assegurar%20ao%20jovem%20com%20defici%C3%AAncia%20o%20atendimento%20educacional%20especializado%20gratuito%2C%20preferencialmente%2C%20na%20rede%20regular%20de%20ensino.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O direito ao programa suplementar de transporte escolar de que trata o art. 4º da Lei nº 9.394, de 20 de dezembro de 1996, será progressivamente estendido ao jovem estudante do ensino fundamental, do ensino médio e da educação superior, no campo e na cidade.\n\n§ 1º (VETADO).\n\n§ 2º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2011.%20O%20direito%20ao%20programa%20suplementar%20de%20transporte%20escolar%20de%20que%20trata%20o%20art.%204%C2%BA%20da%20Lei%20n%C2%BA%209.394%2C%20de%2020",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. É garantida a participação efetiva do segmento juvenil, respeitada sua liberdade de organização, nos conselhos e instâncias deliberativas de gestão democrática das escolas e universidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2012.%20%C3%89%20garantida%20a%20participa%C3%A7%C3%A3o%20efetiva%20do%20segmento%20juvenil%2C%20respeitada%20sua%20liberdade%20de%20organiza%C3%A7%C3%A3o%2C%20nos%20conselhos%20e%20inst%C3%A2ncias%20deliberativas%20de%20gest%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As escolas e as universidades deverão formular e implantar medidas de democratização do acesso e permanência, inclusive programas de assistência estudantil, ação afirmativa e inclusão social para os jovens estudantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2013.%20As%20escolas%20e%20as%20universidades%20dever%C3%A3o%20formular%20e%20implantar%20medidas%20de%20democratiza%C3%A7%C3%A3o%20do%20acesso%20e%20perman%C3%AAncia%2C%20inclusive%20programas%20de%20assist%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O jovem tem direito à profissionalização, ao trabalho e à renda, exercido em condições de liberdade, equidade e segurança, adequadamente remunerado e com proteção social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2014.%20O%20jovem%20tem%20direito%20%C3%A0%20profissionaliza%C3%A7%C3%A3o%2C%20ao%20trabalho%20e%20%C3%A0%20renda%2C%20exercido%20em%20condi%C3%A7%C3%B5es%20de%20liberdade%2C%20equidade%20e%20seguran%C3%A7a%2C%20adequadamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A ação do poder público na efetivação do direito do jovem à profissionalização, ao trabalho e à renda contempla a adoção das seguintes medidas:\n\nI - promoção de formas coletivas de organização para o trabalho, de redes de economia solidária e da livre associação;\n\nII - oferta de condições especiais de jornada de trabalho por meio de:\n\na) compatibilização entre os horários de trabalho e de estudo;\n\nb) oferta dos níveis, formas e modalidades de ensino em horários que permitam a compatibilização da frequência escolar com o trabalho regular;\n\nIII - criação de linha de crédito especial destinada aos jovens empreendedores;\n\nIV - atuação estatal preventiva e repressiva quanto à exploração e precarização do trabalho juvenil;\n\nV - adoção de políticas públicas voltadas para a promoção do estágio, aprendizagem e trabalho para a juventude;\n\nVI - apoio ao jovem trabalhador rural na organização da produção da agricultura familiar e dos empreendimentos familiares rurais, por meio das seguintes ações:\n\na) estímulo à produção e à diversificação de produtos;\n\nb) fomento à produção sustentável baseada na agroecologia, nas agroindústrias familiares, na integração entre lavoura, pecuária e floresta e no extrativismo sustentável;\n\nc) investimento em pesquisa de tecnologias apropriadas à agricultura familiar e aos empreendimentos familiares rurais;\n\nd) estímulo à comercialização direta da produção da agricultura familiar, aos empreendimentos familiares rurais e à formação de cooperativas;\n\ne) garantia de projetos de infraestrutura básica de acesso e escoamento de produção, priorizando a melhoria das estradas e do transporte;\n\nf) promoção de programas que favoreçam o acesso ao crédito, à terra e à assistência técnica rural;\n\nVII - apoio ao jovem trabalhador com deficiência, por meio das seguintes ações:\n\na) estímulo à formação e à qualificação profissional em ambiente inclusivo;\n\nb) oferta de condições especiais de jornada de trabalho;\n\nc) estímulo à inserção no mercado de trabalho por meio da condição de aprendiz.\n\nVIII – fomento a atividades econômicas no campo vinculadas aos setores da cultura e do turismo; (Incluído pela Lei nº 15.178, de 2025)\n\nIX – promoção de programas que favoreçam a formação e a profissionalização de agentes culturais no campo. (Incluído pela Lei nº 15.178, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2015.%20A%20a%C3%A7%C3%A3o%20do%20poder%20p%C3%BAblico%20na%20efetiva%C3%A7%C3%A3o%20do%20direito%20do%20jovem%20%C3%A0%20profissionaliza%C3%A7%C3%A3o%2C%20ao%20trabalho%20e%20%C3%A0%20renda%20contempla%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O direito à profissionalização e à proteção no trabalho dos adolescentes com idade entre 15 (quinze) e 18 (dezoito) anos de idade será regido pelo disposto na Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, e em leis específicas, não se aplicando o previsto nesta Seção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2016.%20O%20direito%20%C3%A0%20profissionaliza%C3%A7%C3%A3o%20e%20%C3%A0%20prote%C3%A7%C3%A3o%20no%20trabalho%20dos%20adolescentes%20com%20idade%20entre%2015%20%28quinze%29%20e%2018%20%28dezoito%29%20anos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O jovem tem direito à diversidade e à igualdade de direitos e de oportunidades e não será discriminado por motivo de:\n\nI - etnia, raça, cor da pele, cultura, origem, idade e sexo;\n\nII - orientação sexual, idioma ou religião;\n\nIII - opinião, deficiência e condição social ou econômica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2017.%20O%20jovem%20tem%20direito%20%C3%A0%20diversidade%20e%20%C3%A0%20igualdade%20de%20direitos%20e%20de%20oportunidades%20e%20n%C3%A3o%20ser%C3%A1%20discriminado%20por%20motivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A ação do poder público na efetivação do direito do jovem à diversidade e à igualdade contempla a adoção das seguintes medidas:\n\nI - adoção, nos âmbitos federal, estadual, municipal e do Distrito Federal, de programas governamentais destinados a assegurar a igualdade de direitos aos jovens de todas as raças e etnias, independentemente de sua origem, relativamente à educação, à profissionalização, ao trabalho e renda, à cultura, à saúde, à segurança, à cidadania e ao acesso à justiça;\n\nII - capacitação dos professores dos ensinos fundamental e médio para a aplicação das diretrizes curriculares nacionais no que se refere ao enfrentamento de todas as formas de discriminação;\n\nIII - inclusão de temas sobre questões étnicas, raciais, de deficiência, de orientação sexual, de gênero e de violência doméstica e sexual praticada contra a mulher na formação dos profissionais de educação, de saúde e de segurança pública e dos operadores do direito;\n\nIV - observância das diretrizes curriculares para a educação indígena como forma de preservação dessa cultura;\n\nV - inclusão, nos conteúdos curriculares, de informações sobre a discriminação na sociedade brasileira e sobre o direito de todos os grupos e indivíduos a tratamento igualitário perante a lei; e\n\nVI - inclusão, nos conteúdos curriculares, de temas relacionados à sexualidade, respeitando a diversidade de valores e crenças.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2018.%20A%20a%C3%A7%C3%A3o%20do%20poder%20p%C3%BAblico%20na%20efetiva%C3%A7%C3%A3o%20do%20direito%20do%20jovem%20%C3%A0%20diversidade%20e%20%C3%A0%20igualdade%20contempla%20a%20ado%C3%A7%C3%A3o%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O jovem tem direito à saúde e à qualidade de vida, considerando suas especificidades na dimensão da prevenção, promoção, proteção e recuperação da saúde de forma integral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2019.%20O%20jovem%20tem%20direito%20%C3%A0%20sa%C3%BAde%20e%20%C3%A0%20qualidade%20de%20vida%2C%20considerando%20suas%20especificidades%20na%20dimens%C3%A3o%20da%20preven%C3%A7%C3%A3o%2C%20promo%C3%A7%C3%A3o%2C%20prote%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A política pública de atenção à saúde do jovem será desenvolvida em consonância com as seguintes diretrizes:\n\nI - acesso universal e gratuito ao Sistema Único de Saúde - SUS e a serviços de saúde humanizados e de qualidade, que respeitem as especificidades do jovem;\n\nII - atenção integral à saúde, com especial ênfase ao atendimento e à prevenção dos agravos mais prevalentes nos jovens;\n\nIII - desenvolvimento de ações articuladas entre os serviços de saúde e os estabelecimentos de ensino, a sociedade e a família, com vistas à prevenção de agravos;\n\nIV - garantia da inclusão de temas relativos ao consumo de álcool, tabaco e outras drogas, à saúde sexual e reprodutiva, com enfoque de gênero e dos direitos sexuais e reprodutivos nos projetos pedagógicos dos diversos níveis de ensino;\n\nV - reconhecimento do impacto da gravidez planejada ou não, sob os aspectos médico, psicológico, social e econômico;\n\nVI - capacitação dos profissionais de saúde, em uma perspectiva multiprofissional, para lidar com temas relativos à saúde sexual e reprodutiva dos jovens, inclusive com deficiência, e ao abuso de álcool, tabaco e outras drogas pelos jovens;\n\nVII - habilitação dos professores e profissionais de saúde e de assistência social para a identificação dos problemas relacionados ao uso abusivo e à dependência de álcool, tabaco e outras drogas e o devido encaminhamento aos serviços assistenciais e de saúde;\n\nVIII - valorização das parcerias com instituições da sociedade civil na abordagem das questões de prevenção, tratamento e reinserção social dos usuários e dependentes de álcool, tabaco e outras drogas;\n\nIX - proibição de propagandas de bebidas contendo qualquer teor alcoólico com a participação de pessoa com menos de 18 (dezoito) anos de idade;\n\nX - veiculação de campanhas educativas relativas ao álcool, ao tabaco e a outras drogas como causadores de dependência; e\n\nXI - articulação das instâncias de saúde e justiça na prevenção do uso e abuso de álcool, tabaco e outras drogas, inclusive esteróides anabolizantes e, especialmente, crack .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2020.%20A%20pol%C3%ADtica%20p%C3%BAblica%20de%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20do%20jovem%20ser%C3%A1%20desenvolvida%20em%20conson%C3%A2ncia%20com%20as%20seguintes%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O jovem tem direito à cultura, incluindo a livre criação, o acesso aos bens e serviços culturais e a participação nas decisões de política cultural, à identidade e diversidade cultural e à memória social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2021.%20O%20jovem%20tem%20direito%20%C3%A0%20cultura%2C%20incluindo%20a%20livre%20cria%C3%A7%C3%A3o%2C%20o%20acesso%20aos%20bens%20e%20servi%C3%A7os%20culturais%20e%20a%20participa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Na consecução dos direitos culturais da juventude, compete ao poder público:\n\nI - garantir ao jovem a participação no processo de produção, reelaboração e fruição dos bens culturais;\n\nII - propiciar ao jovem o acesso aos locais e eventos culturais, mediante preços reduzidos, em âmbito nacional;\n\nIII - incentivar os movimentos de jovens a desenvolver atividades artístico-culturais e ações voltadas à preservação do patrimônio histórico;\n\nIV - valorizar a capacidade criativa do jovem, mediante o desenvolvimento de programas e projetos culturais;\n\nV - propiciar ao jovem o conhecimento da diversidade cultural, regional e étnica do País;\n\nVI - promover programas educativos e culturais voltados para a problemática do jovem nas emissoras de rádio e televisão e nos demais meios de comunicação de massa;\n\nVII - promover a inclusão digital dos jovens, por meio do acesso às novas tecnologias da informação e comunicação;\n\nVIII - assegurar ao jovem do campo o direito à produção e à fruição cultural e aos equipamentos públicos que valorizem a cultura camponesa; e\n\nIX - garantir ao jovem com deficiência acessibilidade e adaptações razoáveis.\n\nParágrafo único. A aplicação dos incisos I, III e VIII do caput deve observar a legislação específica sobre o direito à profissionalização e à proteção no trabalho dos adolescentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2022.%20Na%20consecu%C3%A7%C3%A3o%20dos%20direitos%20culturais%20da%20juventude%2C%20compete%20ao%20poder%20p%C3%BAblico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. É assegurado aos jovens de até 29 (vinte e nove) anos pertencentes a famílias de baixa renda e aos estudantes, na forma do regulamento, o acesso a salas de cinema, cineclubes, teatros, espetáculos musicais e circenses, eventos educativos, esportivos, de lazer e entretenimento, em todo o território nacional, promovidos por quaisquer entidades e realizados em estabelecimentos públicos ou particulares, mediante pagamento da metade do preço do ingresso cobrado do público em geral. (Regulamento) (Vigência)\n\n§ 1º Terão direito ao benefício previsto no caput os estudantes regularmente matriculados nos níveis e modalidades de educação e ensino previstos no Título V da Lei nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional, que comprovem sua condição de discente, mediante apresentação, no momento da aquisição do ingresso e na portaria do local de realização do evento, da Carteira de Identificação Estudantil - CIE.\n\n§ 2º A CIE será expedida preferencialmente pela Associação Nacional de Pós-Graduandos, pela União Nacional dos Estudantes, pela União Brasileira dos Estudantes Secundaristas e por entidades estudantis estaduais e municipais a elas filiadas.\n\n§ 3º É garantida a gratuidade na expedição da CIE para estudantes pertencentes a famílias de baixa renda, nos termos do regulamento.\n\n§ 4º As entidades mencionadas no § 2º deste artigo deverão tornar disponível, para eventuais consultas pelo poder público e pelos estabelecimentos referidos no caput , banco de dados com o nome e o número de registro dos estudantes portadores da Carteira de Identificação Estudantil, expedida nos termos do § 3º deste artigo.\n\n§ 5º A CIE terá validade até o dia 31 de março do ano subsequente à data de sua expedição.\n\n§ 6º As entidades mencionadas no § 2º deste artigo são obrigadas a manter o documento comprobatório do vínculo do aluno com o estabelecimento escolar, pelo mesmo prazo de validade da respectiva Carteira de Identificação Estudantil.\n\n§ 7º Caberá aos órgãos públicos competentes federais, estaduais, municipais e do Distrito Federal a fiscalização do cumprimento do disposto neste artigo e a aplicação das sanções cabíveis, nos termos do regulamento.\n\n§ 8º Os benefícios previstos neste artigo não incidirão sobre os eventos esportivos de que tratam as Leis nºs 12.663, de 5 de junho de 2012, e 12.780, de 9 de janeiro de 201 3.\n\n§ 9º Considera-se de baixa renda, para os fins do disposto no caput , a família inscrita no Cadastro Único para Programas Sociais do Governo Federal - CadÚnico cuja renda mensal seja de até 2 (dois) salários mínimos.\n\n§ 10. A concessão do benefício da meia-entrada de que trata o caput é limitada a 40% (quarenta por cento) do total de ingressos disponíveis para cada evento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2023.%20%C3%89%20assegurado%20aos%20jovens%20de%20at%C3%A9%2029%20%28vinte%20e%20nove%29%20anos%20pertencentes%20a%20fam%C3%ADlias%20de%20baixa%20renda%20e%20aos%20estudantes%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O poder público destinará, no âmbito dos respectivos orçamentos, recursos financeiros para o fomento dos projetos culturais destinados aos jovens e por eles produzidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2024.%20O%20poder%20p%C3%BAblico%20destinar%C3%A1%2C%20no%20%C3%A2mbito%20dos%20respectivos%20or%C3%A7amentos%2C%20recursos%20financeiros%20para%20o%20fomento%20dos%20projetos%20culturais%20destinados%20aos%20jovens",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Na destinação dos recursos do Fundo Nacional da Cultura - FNC, de que trata a Lei nº 8.313, de 23 de dezembro de 1991, serão consideradas as necessidades específicas dos jovens em relação à ampliação do acesso à cultura e à melhoria das condições para o exercício do protagonismo no campo da produção cultural.\n\nParágrafo único. As pessoas físicas ou jurídicas poderão optar pela aplicação de parcelas do imposto sobre a renda a título de doações ou patrocínios, de que trata a Lei nº 8.313, de 23 de dezembro de 1991, no apoio a projetos culturais apresentados por entidades juvenis legalmente constituídas há, pelo menos, 1 (um) ano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2025.%20Na%20destina%C3%A7%C3%A3o%20dos%20recursos%20do%20Fundo%20Nacional%20da%20Cultura%20-%20FNC%2C%20de%20que%20trata%20a%20Lei%20n%C2%BA%208.313%2C%20de%2023",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O jovem tem direito à comunicação e à livre expressão, à produção de conteúdo, individual e colaborativo, e ao acesso às tecnologias de informação e comunicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2026.%20O%20jovem%20tem%20direito%20%C3%A0%20comunica%C3%A7%C3%A3o%20e%20%C3%A0%20livre%20express%C3%A3o%2C%20%C3%A0%20produ%C3%A7%C3%A3o%20de%20conte%C3%BAdo%2C%20individual%20e%20colaborativo%2C%20e%20ao%20acesso",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A ação do poder público na efetivação do direito do jovem à comunicação e à liberdade de expressão contempla a adoção das seguintes medidas:\n\nI - incentivar programas educativos e culturais voltados para os jovens nas emissoras de rádio e televisão e nos demais meios de comunicação de massa;\n\nII - promover a inclusão digital dos jovens, por meio do acesso às novas tecnologias de informação e comunicação;\n\nIII - promover as redes e plataformas de comunicação dos jovens, considerando a acessibilidade para os jovens com deficiência;\n\nIV - incentivar a criação e manutenção de equipamentos públicos voltados para a promoção do direito do jovem à comunicação; e\n\nV - garantir a acessibilidade à comunicação por meio de tecnologias assistivas e adaptações razoáveis para os jovens com deficiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2027.%20A%20a%C3%A7%C3%A3o%20do%20poder%20p%C3%BAblico%20na%20efetiva%C3%A7%C3%A3o%20do%20direito%20do%20jovem%20%C3%A0%20comunica%C3%A7%C3%A3o%20e%20%C3%A0%20liberdade%20de%20express%C3%A3o%20contempla%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O jovem tem direito à prática desportiva destinada a seu pleno desenvolvimento, com prioridade para o desporto de participação.\n\nParágrafo único. O direito à prática desportiva dos adolescentes deverá considerar sua condição peculiar de pessoa em desenvolvimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2028.%20O%20jovem%20tem%20direito%20%C3%A0%20pr%C3%A1tica%20desportiva%20destinada%20a%20seu%20pleno%20desenvolvimento%2C%20com%20prioridade%20para%20o%20desporto%20de%20participa%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. A política pública de desporto e lazer destinada ao jovem deverá considerar:\n\nI - a realização de diagnóstico e estudos estatísticos oficiais acerca da educação física e dos desportos e dos equipamentos de lazer no Brasil;\n\nII - a adoção de lei de incentivo fiscal para o esporte, com critérios que priorizem a juventude e promovam a equidade;\n\nIII - a valorização do desporto e do paradesporto educacional;\n\nIV - a oferta de equipamentos comunitários que permitam a prática desportiva, cultural e de lazer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2029.%20A%20pol%C3%ADtica%20p%C3%BAblica%20de%20desporto%20e%20lazer%20destinada%20ao%20jovem%20dever%C3%A1%20considerar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Todas as escolas deverão buscar pelo menos um local apropriado para a prática de atividades poliesportivas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2030.%20Todas%20as%20escolas%20dever%C3%A3o%20buscar%20pelo%20menos%20um%20local%20apropriado%20para%20a%20pr%C3%A1tica%20de%20atividades%20poliesportivas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O jovem tem direito ao território e à mobilidade, incluindo a promoção de políticas públicas de moradia, circulação e equipamentos públicos, no campo e na cidade.\n\nParágrafo único. Ao jovem com deficiência devem ser garantidas a acessibilidade e as adaptações necessárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2031.%20O%20jovem%20tem%20direito%20ao%20territ%C3%B3rio%20e%20%C3%A0%20mobilidade%2C%20incluindo%20a%20promo%C3%A7%C3%A3o%20de%20pol%C3%ADticas%20p%C3%BAblicas%20de%20moradia%2C%20circula%C3%A7%C3%A3o%20e%20equipamentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. No sistema de transporte coletivo interestadual, observar-se-á, nos termos da legislação específica: (Regulamento) (Vigência)\n\nI - a reserva de 2 (duas) vagas gratuitas por veículo para jovens de baixa renda;\n\nII - a reserva de 2 (duas) vagas por veículo com desconto de 50% (cinquenta por cento), no mínimo, no valor das passagens, para os jovens de baixa renda, a serem utilizadas após esgotadas as vagas previstas no inciso I.\n\nParágrafo único. Os procedimentos e os critérios para o exercício dos direitos previstos nos incisos I e II serão definidos em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2032.%20No%20sistema%20de%20transporte%20coletivo%20interestadual%2C%20observar-se-%C3%A1%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20espec%C3%ADfica%3A%20%28Regulamento%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A União envidará esforços, em articulação com os Estados, o Distrito Federal e os Municípios, para promover a oferta de transporte público subsidiado para os jovens, com prioridade para os jovens em situação de pobreza e vulnerabilidade, na forma do regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2033.%20A%20Uni%C3%A3o%20envidar%C3%A1%20esfor%C3%A7os%2C%20em%20articula%C3%A7%C3%A3o%20com%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20para%20promover%20a%20oferta%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O jovem tem direito à sustentabilidade e ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo, essencial à sadia qualidade de vida, e o dever de defendê-lo e preservá-lo para a presente e as futuras gerações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2034.%20O%20jovem%20tem%20direito%20%C3%A0%20sustentabilidade%20e%20ao%20meio%20ambiente%20ecologicamente%20equilibrado%2C%20bem%20de%20uso%20comum%20do%20povo%2C%20essencial%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O Estado promoverá, em todos os níveis de ensino, a educação ambiental voltada para a preservação do meio ambiente e a sustentabilidade, de acordo com a Política Nacional do Meio Ambiente .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2035.%20O%20Estado%20promover%C3%A1%2C%20em%20todos%20os%20n%C3%ADveis%20de%20ensino%2C%20a%20educa%C3%A7%C3%A3o%20ambiental%20voltada%20para%20a%20preserva%C3%A7%C3%A3o%20do%20meio%20ambiente%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Na elaboração, na execução e na avaliação de políticas públicas que incorporem a dimensão ambiental, o poder público deverá considerar:\n\nI - o estímulo e o fortalecimento de organizações, movimentos, redes e outros coletivos de juventude que atuem no âmbito das questões ambientais e em prol do desenvolvimento sustentável;\n\nII - o incentivo à participação dos jovens na elaboração das políticas públicas de meio ambiente;\n\nIII - a criação de programas de educação ambiental destinados aos jovens; e\n\nIV - o incentivo à participação dos jovens em projetos de geração de trabalho e renda que visem ao desenvolvimento sustentável nos âmbitos rural e urbano.\n\nParágrafo único. A aplicação do disposto no inciso IV do caput deve observar a legislação específica sobre o direito à profissionalização e à proteção no trabalho dos adolescentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2036.%20Na%20elabora%C3%A7%C3%A3o%2C%20na%20execu%C3%A7%C3%A3o%20e%20na%20avalia%C3%A7%C3%A3o%20de%20pol%C3%ADticas%20p%C3%BAblicas%20que%20incorporem%20a%20dimens%C3%A3o%20ambiental%2C%20o%20poder%20p%C3%BAblico%20dever%C3%A1%20considerar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Todos os jovens têm direito de viver em um ambiente seguro, sem violência, com garantia da sua incolumidade física e mental, sendo-lhes asseguradas a igualdade de oportunidades e facilidades para seu aperfeiçoamento intelectual, cultural e social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2037.%20Todos%20os%20jovens%20t%C3%AAm%20direito%20de%20viver%20em%20um%20ambiente%20seguro%2C%20sem%20viol%C3%AAncia%2C%20com%20garantia%20da%20sua%20incolumidade%20f%C3%ADsica%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. As políticas de segurança pública voltadas para os jovens deverão articular ações da União, dos Estados, do Distrito Federal e dos Municípios e ações não governamentais, tendo por diretrizes:\n\nI - a integração com as demais políticas voltadas à juventude;\n\nII - a prevenção e enfrentamento da violência;\n\nIII - a promoção de estudos e pesquisas e a obtenção de estatísticas e informações relevantes para subsidiar as ações de segurança pública e permitir a avaliação periódica dos impactos das políticas públicas quanto às causas, às consequências e à frequência da violência contra os jovens;\n\nIV - a priorização de ações voltadas para os jovens em situação de risco, vulnerabilidade social e egressos do sistema penitenciário nacional;\n\nV - a promoção do acesso efetivo dos jovens à Defensoria Pública, considerando as especificidades da condição juvenil; e\n\nVI - a promoção do efetivo acesso dos jovens com deficiência à justiça em igualdade de condições com as demais pessoas, inclusive mediante a provisão de adaptações processuais adequadas a sua idade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2038.%20As%20pol%C3%ADticas%20de%20seguran%C3%A7a%20p%C3%BAblica%20voltadas%20para%20os%20jovens%20dever%C3%A3o%20articular%20a%C3%A7%C3%B5es%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. É instituído o Sistema Nacional de Juventude - SINAJUVE, cujos composição, organização, competência e funcionamento serão definidos em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2039.%20%C3%89%20institu%C3%ADdo%20o%20Sistema%20Nacional%20de%20Juventude%20-%20SINAJUVE%2C%20cujos%20composi%C3%A7%C3%A3o%2C%20organiza%C3%A7%C3%A3o%2C%20compet%C3%AAncia%20e%20funcionamento%20ser%C3%A3o%20definidos%20em%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O financiamento das ações e atividades realizadas no âmbito do Sinajuve será definido em regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2040.%20O%20financiamento%20das%20a%C3%A7%C3%B5es%20e%20atividades%20realizadas%20no%20%C3%A2mbito%20do%20Sinajuve%20ser%C3%A1%20definido%20em%20regulamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Compete à União:\n\nI - formular e coordenar a execução da Política Nacional de Juventude;\n\nII - coordenar e manter o Sinajuve;\n\nIII - estabelecer diretrizes sobre a organização e o funcionamento do Sinajuve;\n\nIV - elaborar o Plano Nacional de Políticas de Juventude, em parceria com os Estados, o Distrito Federal, os Municípios e a sociedade, em especial a juventude;\n\nV - convocar e realizar, em conjunto com o Conselho Nacional de Juventude, as Conferências Nacionais de Juventude, com intervalo máximo de 4 (quatro) anos;\n\nVI - prestar assistência técnica e suplementação financeira aos Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de juventude;\n\nVII - contribuir para a qualificação e ação em rede do Sinajuve em todos os entes da Federação;\n\nVIII - financiar, com os demais entes federados, a execução das políticas públicas de juventude;\n\nIX - estabelecer formas de colaboração com os Estados, o Distrito Federal e os Municípios para a execução das políticas públicas de juventude; e\n\nX - garantir a publicidade de informações sobre repasses de recursos para financiamento das políticas públicas de juventude aos conselhos e gestores estaduais, do Distrito Federal e municipais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2041.%20Compete%20%C3%A0%20Uni%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Compete aos Estados:\n\nI - coordenar, em âmbito estadual, o Sinajuve;\n\nII - elaborar os respectivos planos estaduais de juventude, em conformidade com o Plano Nacional, com a participação da sociedade, em especial da juventude;\n\nIII - criar, desenvolver e manter programas, ações e projetos para a execução das políticas públicas de juventude;\n\nIV - convocar e realizar, em conjunto com o Conselho Estadual de Juventude, as Conferências Estaduais de Juventude, com intervalo máximo de 4 (quatro) anos;\n\nV - editar normas complementares para a organização e o funcionamento do Sinajuve, em âmbito estadual e municipal;\n\nVI - estabelecer com a União e os Municípios formas de colaboração para a execução das políticas públicas de juventude; e\n\nVII - cofinanciar, com os demais entes federados, a execução de programas, ações e projetos das políticas públicas de juventude.\n\nParágrafo único. Serão incluídos nos censos demográficos dados relativos à população jovem do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2042.%20Compete%20aos%20Estados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Compete aos Municípios:\n\nI - coordenar, em âmbito municipal, o Sinajuve;\n\nII - elaborar os respectivos planos municipais de juventude, em conformidade com os respectivos Planos Nacional e Estadual, com a participação da sociedade, em especial da juventude;\n\nIII - criar, desenvolver e manter programas, ações e projetos para a execução das políticas públicas de juventude;\n\nIV - convocar e realizar, em conjunto com o Conselho Municipal de Juventude, as Conferências Municipais de Juventude, com intervalo máximo de 4 (quatro) anos;\n\nV - editar normas complementares para a organização e funcionamento do Sinajuve, em âmbito municipal;\n\nVI - cofinanciar, com os demais entes federados, a execução de programas, ações e projetos das políticas públicas de juventude; e\n\nVII - estabelecer mecanismos de cooperação com os Estados e a União para a execução das políticas públicas de juventude.\n\nParágrafo único. Para garantir a articulação federativa com vistas ao efetivo cumprimento das políticas públicas de juventude, os Municípios podem instituir os consórcios de que trata a Lei nº 11.107, de 6 de abril de 2005, ou qualquer outro instrumento jurídico adequado, como forma de compartilhar responsabilidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2043.%20Compete%20aos%20Munic%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As competências dos Estados e Municípios são atribuídas, cumulativamente, ao Distrito Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2044.%20As%20compet%C3%AAncias%20dos%20Estados%20e%20Munic%C3%ADpios%20s%C3%A3o%20atribu%C3%ADdas%2C%20cumulativamente%2C%20ao%20Distrito%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os conselhos de juventude são órgãos permanentes e autônomos, não jurisdicionais, encarregados de tratar das políticas públicas de juventude e da garantia do exercício dos direitos do jovem, com os seguintes objetivos:\n\nI - auxiliar na elaboração de políticas públicas de juventude que promovam o amplo exercício dos direitos dos jovens estabelecidos nesta Lei;\n\nII - utilizar instrumentos de forma a buscar que o Estado garanta aos jovens o exercício dos seus direitos;\n\nIII - colaborar com os órgãos da administração no planejamento e na implementação das políticas de juventude;\n\nIV - estudar, analisar, elaborar, discutir e propor a celebração de instrumentos de cooperação, visando à elaboração de programas, projetos e ações voltados para a juventude;\n\nV - promover a realização de estudos relativos à juventude, objetivando subsidiar o planejamento das políticas públicas de juventude;\n\nVI - estudar, analisar, elaborar, discutir e propor políticas públicas que permitam e garantam a integração e a participação do jovem nos processos social, econômico, político e cultural no respectivo ente federado;\n\nVII - propor a criação de formas de participação da juventude nos órgãos da administração pública;\n\nVIII - promover e participar de seminários, cursos, congressos e eventos correlatos para o debate de temas relativos à juventude;\n\nIX - desenvolver outras atividades relacionadas às políticas públicas de juventude.\n\n§ 1º A lei, em âmbito federal, estadual, do Distrito Federal e municipal, disporá sobre a organização, o funcionamento e a composição dos conselhos de juventude, observada a participação da sociedade civil mediante critério, no mínimo, paritário com os representantes do poder público.\n\n§ 2º (VETADO) .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2045.%20Os%20conselhos%20de%20juventude%20s%C3%A3o%20%C3%B3rg%C3%A3os%20permanentes%20e%20aut%C3%B4nomos%2C%20n%C3%A3o%20jurisdicionais%2C%20encarregados%20de%20tratar%20das%20pol%C3%ADticas%20p%C3%BAblicas%20de%20juventude%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. São atribuições dos conselhos de juventude:\n\nI - encaminhar ao Ministério Público notícia de fato que constitua infração administrativa ou penal contra os direitos do jovem garantidos na legislação;\n\nII - encaminhar à autoridade judiciária os casos de sua competência;\n\nIII - expedir notificações;\n\nIV - solicitar informações das autoridades públicas;\n\nV - assessorar o Poder Executivo local na elaboração dos planos, programas, projetos, ações e proposta orçamentária das políticas públicas de juventude.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2046.%20S%C3%A3o%20atribui%C3%A7%C3%B5es%20dos%20conselhos%20de%20juventude%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Sem prejuízo das atribuições dos conselhos de juventude com relação aos direitos previstos neste Estatuto, cabe aos conselhos de direitos da criança e do adolescente deliberar e controlar as ações em todos os níveis relativas aos adolescentes com idade entre 15 (quinze) e 18 (dezoito) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2047.%20Sem%20preju%C3%ADzo%20das%20atribui%C3%A7%C3%B5es%20dos%20conselhos%20de%20juventude%20com%20rela%C3%A7%C3%A3o%20aos%20direitos%20previstos%20neste%20Estatuto%2C%20cabe%20aos%20conselhos%20de%20direitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial.\n\nBrasília, 5 de agosto de 2013; 192º da Independência e 125º da República.\n\nDILMA ROUSSEFF José Eduardo Cardozo\n\nAntonio de Aguiar Patriota\n\nGuido Mantega\n\nCésar Borges\n\nAloizio Mercadante\n\nManoel Dias\n\nAlexandre Rocha Santos Padilha\n\nMiriam Belchior\n\nPaulo Bernardo Silva\n\nTereza Campello\n\nMarta Suplicy\n\nIzabella Mônica Vieira Teixeira\n\nAldo Rebelo\n\nGilberto José Spier Vargas\n\nAguinaldo Ribeiro\n\nGilberto Carvalho\n\nLuís Inácio Lucena Adams\n\nLuiza Helena de Bairros\n\nEleonora Menicucci de Oliveira\n\nMaria do Rosário Nunes\n\nEste texto não substitui o publicado no DOU de 6.8.2013\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm#:~:text=Art.%2048.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20180%20%28cento%20e%20oitenta%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": null
+    }
+  }
+}

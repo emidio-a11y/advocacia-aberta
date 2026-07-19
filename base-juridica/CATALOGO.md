@@ -26,25 +26,25 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 19 | 8.172 registros | 19 diplomas |
+| Legislação | 36 | 9.564 registros | 36 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 26 | — | 21.422.393 bytes, cerca de 21 MB |
+| Total em JSON | 43 | — | 23.438.280 bytes, cerca de 23 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 8.172 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 9.564 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
 |---|---|---:|---:|---|---|
 | `ADCT` | Ato das Disposições Constitucionais Transitórias | 2026-07-19 | 148 | pré-computado preservado | coerente |
-| `CC` | Código Civil — Lei 10.406/2002 | 2026-07-19 | 2.083 | pré-computado preservado | coerente |
+| `CC` | Código Civil — Lei 10.406/2002 | 2026-07-19 | 2.084 | pré-computado preservado | coerente |
 | `CDC` | Código de Defesa do Consumidor — Lei 8.078/1990 | 2026-07-19 | 131 | palavras-chave por registro | coerente |
 | `CE` | Código Eleitoral — Lei 4.737/1965 | 2026-07-19 | 387 | palavras-chave por registro | coerente |
 | `CF` | Constituição Federal de 1988 | 2026-07-19 | 276 | pré-computado preservado | coerente |
@@ -72,10 +72,17 @@ pré-computados são enriquecimentos legados preservados na transformação; art
 acrescentados depois deles ficam fora do índice até o `BASE-019` tornar a
 geração reproduzível.
 
-Os oito diplomas incorporados em 19 de julho de 2026 (piloto de expansão a partir
-das páginas compiladas do Planalto) não possuem índice curado: a busca usa o
-texto integral dos dispositivos. Particularidades observadas na fonte e
-preservadas no snapshot:
+A revisão da expansão descobriu defeitos tipográficos nas páginas do Planalto
+("Art 4º" sem ponto na Lei 6.001; "Art . 16." com espaço na Lei 6.880) e o
+adaptador passou a tolerá-los. A recaptura dos diplomas do núcleo com a regra
+corrigida recuperou o art. 1.636 do CC (antes absorvido no art. 1.635) e
+reconciliou com a fonte oficial os arts. 554, 555, 571, 572 e 575 da CLT e o
+art. 67-B do CTB, que estavam retidos do snapshot legado sem rótulo.
+
+Os diplomas incorporados pela expansão (piloto de 8 leis e fatias do manifesto
+[`expansao/normas.json`](expansao/normas.json)) não possuem índice curado: a
+busca usa o texto integral dos dispositivos. Particularidades observadas na
+fonte e preservadas no snapshot:
 
 - a página da Lei 8.213/1991 consolida os arts. 145 a 147 numa única linha de
   revogação ("Art. 144. a Art. 147. Revogado"), registrada no art. 144; não há
@@ -87,14 +94,36 @@ preservadas no snapshot:
   em `CP`; a transformação exclui dispositivos cujo rótulo aponta para outra
   norma.
 
+### Expansão por grupos
+
+A expansão é dirigida pelo manifesto versionado
+[`expansao/normas.json`](expansao/normas.json) (253 normas, com sigla, URL
+oficial validada e grupo). `gerar_expansao_legislacao.py` materializa cada
+grupo (conjunto em `fontes.json`, stubs e entradas geradas do registro do
+motor), `revisar_expansao.py` apoia a revisão da captura e a promoção segue o
+protocolo comum. O inventário por diploma sai de
+`auditar_base_juridica.py --json`.
+
+| Grupo | Diplomas | Registros | Promovido em |
+|---|---:|---:|---|
+| `estatutos` | 17 | 1.391 | 2026-07-19 |
+
+Grupos pendentes de materialização: codificadas (8), decretos (1) e as doze
+fatias de esparsas por macro-área (211 normas). Observações da fatia
+`estatutos`: a página oficial confirma o nome atual "Estatuto da Pessoa Idosa"
+(Lei 14.423/2022), mantida a sigla `EI`; a linha da planilha rotulada "Estatuto
+do Estrangeiro" corresponde à Lei de Migração (`LMIG`); os arts. 4º e 39 da Lei
+6.001 e sete artigos da Lei 6.880 só existem na fonte com rótulo tipográfico
+defeituoso e passaram a ser capturados.
+
 ### Cobertura real do motor legislativo
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | `ADCT`, `CC`, `CDC`, `CE`, `CF`, `CLT`, `CP`, `CPC`, `CPP`, `CTB`, `CTN`, `ECA`, `LBPS`, `LD`, `LEP`, `LGPD`, `LINDB`, `LLC`, `LMP` |
-| Códigos declarados no TypeScript | exatamente os 19 arquivos disponíveis |
-| Busca com código específico | aceita os 19 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 19 códigos do registro central |
+| Arquivos disponíveis | 36 diplomas: o núcleo (`ADCT`, `CC`, `CDC`, `CE`, `CF`, `CLT`, `CP`, `CPC`, `CPP`, `CTB`, `CTN`), o piloto (`ECA`, `LBPS`, `LD`, `LEP`, `LGPD`, `LINDB`, `LLC`, `LMP`) e os estatutos (`ECID`, `ED`, `EDT`, `EI`, `EIND`, `EIR`, `EJUV`, `EMET`, `EMIL`, `EMUS`, `EOAB`, `EPC`, `EPD`, `EREF`, `ET`, `LC123`, `LMIG`) |
+| Códigos declarados no TypeScript | exatamente os 36 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 36 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 36 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -244,7 +273,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 34 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 37 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

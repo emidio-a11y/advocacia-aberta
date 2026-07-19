@@ -4,7 +4,7 @@
     "nome": "Código Civil",
     "lei": "Lei 10.406/2002",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
-    "total_artigos": 2083,
+    "total_artigos": 2084,
     "version": "2.0",
     "gerado_em": "2026-07-19",
     "transformacao": "planalto_html_v1",
@@ -39146,7 +39146,7 @@
     },
     "1635": {
       "numero": "1635",
-      "texto": "Art. 1.635. Extingue-se o poder familiar:\n\nI - pela morte dos pais ou do filho;\n\nII - pela emancipação, nos termos do art. 5 o , parágrafo único;\n\nIII - pela maioridade;\n\nIV - pela adoção;\n\nV - por decisão judicial, na forma do artigo 1.638.\n\nArt 1.636. O pai ou a mãe que contrai novas núpcias, ou estabelece união estável, não perde, quanto aos filhos do relacionamento anterior, os direitos ao poder familiar, exercendo-os sem qualquer interferência do novo cônjuge ou companheiro.\n\nParágrafo único. Igual preceito ao estabelecido neste artigo aplica-se ao pai ou à mãe solteiros que casarem ou estabelecerem união estável.",
+      "texto": "Art. 1.635. Extingue-se o poder familiar:\n\nI - pela morte dos pais ou do filho;\n\nII - pela emancipação, nos termos do art. 5 o , parágrafo único;\n\nIII - pela maioridade;\n\nIV - pela adoção;\n\nV - por decisão judicial, na forma do artigo 1.638.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm#:~:text=%201.635.",
       "keywords": [
         "poder familiar",
@@ -39168,6 +39168,22 @@
         "section_name": "Seção III Da Suspensão e Extinção do Poder Familiar"
       },
       "prev": "1634",
+      "next": "1636"
+    },
+    "1636": {
+      "numero": "1636",
+      "texto": "Art 1.636. O pai ou a mãe que contrai novas núpcias, ou estabelece união estável, não perde, quanto aos filhos do relacionamento anterior, os direitos ao poder familiar, exercendo-os sem qualquer interferência do novo cônjuge ou companheiro.\n\nParágrafo único. Igual preceito ao estabelecido neste artigo aplica-se ao pai ou à mãe solteiros que casarem ou estabelecerem união estável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm#:~:text=Art%201.636.%20O%20pai%20ou%20a%20m%C3%A3e%20que%20contrai%20novas%20n%C3%BApcias%2C%20ou%20estabelece%20uni%C3%A3o%20est%C3%A1vel%2C%20n%C3%A3o%20perde%2C%20quanto%20aos%20filhos%20do%20relacionamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Do Direito Pessoal",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Poder FAMILIAR",
+        "section": "III",
+        "section_name": "Seção III Da Suspensão e Extinção do Poder Familiar"
+      },
+      "prev": "1635",
       "next": "1637"
     },
     "1637": {
@@ -39192,7 +39208,7 @@
         "section": "III",
         "section_name": "Seção III Da Suspensão e Extinção do Poder Familiar"
       },
-      "prev": "1635",
+      "prev": "1636",
       "next": "1638"
     },
     "1638": {

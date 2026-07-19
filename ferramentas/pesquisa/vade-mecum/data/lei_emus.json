@@ -1,0 +1,1135 @@
+{
+  "_meta": {
+    "codigo": "EMUS",
+    "nome": "Estatuto dos Museus",
+    "lei": "Lei 11.904/2009",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm",
+    "total_artigos": 70,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Consideram-se museus, para os efeitos desta Lei, as instituições sem fins lucrativos que conservam, investigam, comunicam, interpretam e expõem, para fins de preservação, estudo, pesquisa, educação, contemplação e turismo, conjuntos e coleções de valor histórico, artístico, científico, técnico ou de qualquer outra natureza cultural, abertas ao público, a serviço da sociedade e de seu desenvolvimento.\n\nParágrafo único. Enquadrar-se-ão nesta Lei as instituições e os processos museológicos voltados para o trabalho com o patrimônio cultural e o território visando ao desenvolvimento cultural e socioeconômico e à participação das comunidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%201o%20Consideram-se%20museus%2C%20para%20os%20efeitos%20desta%20Lei%2C%20as%20institui%C3%A7%C3%B5es%20sem%20fins%20lucrativos%20que%20conservam%2C%20investigam%2C%20comunicam%2C%20interpretam%20e%20exp%C3%B5em%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o São princípios fundamentais dos museus:\n\nI – a valorização da dignidade humana;\n\nII – a promoção da cidadania;\n\nIII – o cumprimento da função social;\n\nIV – a valorização e preservação do patrimônio cultural e ambiental;\n\nV – a universalidade do acesso, o respeito e a valorização à diversidade cultural;\n\nVI – o intercâmbio institucional.\n\nParágrafo único. A aplicação deste artigo está vinculada aos princípios basilares do Plano Nacional de Cultura e do regime de proteção e valorização do patrimônio cultural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%202o%20S%C3%A3o%20princ%C3%ADpios%20fundamentais%20dos%20museus%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Conforme as características e o desenvolvimento de cada museu, poderão existir filiais, seccionais e núcleos ou anexos das instituições.\n\nParágrafo único. Para fins de aplicação desta Lei, são definidos:\n\nI – como filial os museus dependentes de outros quanto à sua direção e gestão, inclusive financeira, mas que possuem plano museológico autônomo;\n\nII – como seccional a parte diferenciada de um museu que, com a finalidade de executar seu plano museológico, ocupa um imóvel independente da sede principal;\n\nIII – como núcleo ou anexo os espaços móveis ou imóveis que, por orientações museológicas específicas, fazem parte de um projeto de museu.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%203o%20Conforme%20as%20caracter%C3%ADsticas%20e%20o%20desenvolvimento%20de%20cada%20museu%2C%20poder%C3%A3o%20existir%20filiais%2C%20seccionais%20e%20n%C3%BAcleos%20ou%20anexos%20das%20institui%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O poder público estabelecerá mecanismos de fomento e incentivo visando à sustentabilidade dos museus brasileiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%204o%20O%20poder%20p%C3%BAblico%20estabelecer%C3%A1%20mecanismos%20de%20fomento%20e%20incentivo%20visando%20%C3%A0%20sustentabilidade%20dos%20museus%20brasileiros.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Os bens culturais dos museus, em suas diversas manifestações, podem ser declarados como de interesse público, no todo ou em parte.\n\n§ 1o Consideram-se bens culturais passíveis de musealização os bens móveis e imóveis de interesse público, de natureza material ou imaterial, tomados individualmente ou em conjunto, portadores de referência ao ambiente natural, à identidade, à cultura e à memória dos diferentes grupos formadores da sociedade brasileira.\n\n§ 2o Será declarado como de interesse público o acervo dos museus cuja proteção e valorização, pesquisa e acesso à sociedade representar um valor cultural de destacada importância para a Nação, respeitada a diversidade cultural, regional, étnica e lingüística do País.\n\n§ 3o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%205o%20Os%20bens%20culturais%20dos%20museus%2C%20em%20suas%20diversas%20manifesta%C3%A7%C3%B5es%2C%20podem%20ser%20declarados%20como%20de%20interesse%20p%C3%BAblico%2C%20no%20todo%20ou%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Esta Lei não se aplica às bibliotecas, aos arquivos, aos centros de documentação e às coleções visitáveis.\n\nParágrafo único. São consideradas coleções visitáveis os conjuntos de bens culturais conservados por uma pessoa física ou jurídica, que não apresentem as características previstas no art. 1o desta Lei, e que sejam abertos à visitação, ainda que esporadicamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%206o%20Esta%20Lei%20n%C3%A3o%20se%20aplica%20%C3%A0s%20bibliotecas%2C%20aos%20arquivos%2C%20aos%20centros%20de%20documenta%C3%A7%C3%A3o%20e%20%C3%A0s%20cole%C3%A7%C3%B5es%20visit%C3%A1veis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o A criação de museus por qualquer entidade é livre, independentemente do regime jurídico, nos termos estabelecidos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%207o%20A%20cria%C3%A7%C3%A3o%20de%20museus%20por%20qualquer%20entidade%20%C3%A9%20livre%2C%20independentemente%20do%20regime%20jur%C3%ADdico%2C%20nos%20termos%20estabelecidos%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o A criação, a fusão e a extinção de museus serão efetivadas por meio de documento público.\n\n§ 1o A elaboração de planos, programas e projetos museológicos, visando à criação, à fusão ou à manutenção dos museus, deve estar em consonância com a Lei no 7.287, de 18 de dezembro de 1984.\n\n§ 2o A criação, a fusão ou a extinção de museus deverá ser registrada no órgão competente do poder público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%208o%20A%20cria%C3%A7%C3%A3o%2C%20a%20fus%C3%A3o%20e%20a%20extin%C3%A7%C3%A3o%20de%20museus%20ser%C3%A3o%20efetivadas%20por%20meio%20de%20documento%20p%C3%BAblico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Os museus poderão estimular a constituição de associações de amigos dos museus, grupos de interesse especializado, voluntariado ou outras formas de colaboração e participação sistemática da comunidade e do público.\n\n§ 1o Os museus, à medida das suas possibilidades, facultarão espaços para a instalação de estruturas associativas ou de voluntariado que tenham por fim a contribuição para o desempenho das funções e finalidades dos museus.\n\n§ 2o Os museus poderão criar um serviço de acolhimento, formação e gestão de voluntariado, dotando-se de um regulamento específico, assegurando e estabelecendo o benefício mútuo da instituição e dos voluntários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%209o%20Os%20museus%20poder%C3%A3o%20estimular%20a%20constitui%C3%A7%C3%A3o%20de%20associa%C3%A7%C3%B5es%20de%20amigos%20dos%20museus%2C%20grupos%20de%20interesse%20especializado%2C%20voluntariado%20ou%20outras%20formas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2010.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A denominação de museu estadual, regional ou distrital só pode ser utilizada por museu vinculado a Unidade da Federação ou por museus a quem o Estado autorize a utilização desta denominação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2011.%20A%20denomina%C3%A7%C3%A3o%20de%20museu%20estadual%2C%20regional%20ou%20distrital%20s%C3%B3%20pode%20ser%20utilizada%20por%20museu%20vinculado%20a%20Unidade%20da%20Federa%C3%A7%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A denominação de museu municipal só pode ser utilizada por museu vinculado a Município ou por museus a quem o Município autorize a utilização desta denominação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2012.%20A%20denomina%C3%A7%C3%A3o%20de%20museu%20municipal%20s%C3%B3%20pode%20ser%20utilizada%20por%20museu%20vinculado%20a%20Munic%C3%ADpio%20ou%20por%20museus%20a%20quem%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. São considerados museus públicos as instituições museológicas vinculadas ao poder público, situadas no território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2013.%20S%C3%A3o%20considerados%20museus%20p%C3%BAblicos%20as%20institui%C3%A7%C3%B5es%20museol%C3%B3gicas%20vinculadas%20ao%20poder%20p%C3%BAblico%2C%20situadas%20no%20territ%C3%B3rio%20nacional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O poder público firmará um plano anual prévio, de modo a garantir o funcionamento dos museus públicos e permitir o cumprimento de suas finalidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2014.%20O%20poder%20p%C3%BAblico%20firmar%C3%A1%20um%20plano%20anual%20pr%C3%A9vio%2C%20de%20modo%20a%20garantir%20o%20funcionamento%20dos%20museus%20p%C3%BAblicos%20e%20permitir%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os museus públicos serão regidos por ato normativo específico.\n\nParágrafo único. Sem prejuízo do disposto neste artigo, o museu público poderá estabelecer convênios para a sua gestão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2015.%20Os%20museus%20p%C3%BAblicos%20ser%C3%A3o%20regidos%20por%20ato%20normativo%20espec%C3%ADfico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. É vedada a participação direta ou indireta de pessoal técnico dos museus públicos em atividades ligadas à comercialização de bens culturais.\n\nParágrafo único. Atividades de avaliação para fins comerciais serão permitidas aos funcionários em serviço nos museus, nos casos de uso interno, de interesse científico, ou a pedido de órgão do Poder Público, mediante procedimento administrativo cabível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2016.%20%C3%89%20vedada%20a%20participa%C3%A7%C3%A3o%20direta%20ou%20indireta%20de%20pessoal%20t%C3%A9cnico%20dos%20museus%20p%C3%BAblicos%20em%20atividades%20ligadas%20%C3%A0%20comercializa%C3%A7%C3%A3o%20de%20bens",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os museus manterão funcionários devidamente qualificados, observada a legislação vigente.\n\nParágrafo único. A entidade gestora do museu público garantirá a disponibilidade de funcionários qualificados e em número suficiente para o cumprimento de suas finalidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2017.%20Os%20museus%20manter%C3%A3o%20funcion%C3%A1rios%20devidamente%20qualificados%2C%20observada%20a%20legisla%C3%A7%C3%A3o%20vigente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As entidades públicas e privadas de que dependam os museus deverão definir claramente seu enquadramento orgânico e aprovar o respectivo regimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2018.%20As%20entidades%20p%C3%BAblicas%20e%20privadas%20de%20que%20dependam%20os%20museus%20dever%C3%A3o%20definir%20claramente%20seu%20enquadramento%20org%C3%A2nico%20e%20aprovar%20o%20respectivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Todo museu deverá dispor de instalações adequadas ao cumprimento das funções necessárias, bem como ao bem-estar dos usuários e funcionários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2019.%20Todo%20museu%20dever%C3%A1%20dispor%20de%20instala%C3%A7%C3%B5es%20adequadas%20ao%20cumprimento%20das%20fun%C3%A7%C3%B5es%20necess%C3%A1rias%2C%20bem%20como%20ao%20bem-estar%20dos%20usu%C3%A1rios%20e%20funcion%C3%A1rios.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Compete à direção dos museus assegurar o seu bom funcionamento, o cumprimento do plano museológico por meio de funções especializadas, bem como planejar e coordenar a execução do plano anual de atividades.\n\nSubseção I\n\nDa Preservação, da Conservação, da Restauração e da Segurança",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2020.%20Compete%20%C3%A0%20dire%C3%A7%C3%A3o%20dos%20museus%20assegurar%20o%20seu%20bom%20funcionamento%2C%20o%20cumprimento%20do%20plano%20museol%C3%B3gico%20por%20meio%20de%20fun%C3%A7%C3%B5es%20especializadas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os museus garantirão a conservação e a segurança de seus acervos.\n\nParágrafo único. Os programas, as normas e os procedimentos de preservação, conservação e restauração serão elaborados por cada museu em conformidade com a legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2021.%20Os%20museus%20garantir%C3%A3o%20a%20conserva%C3%A7%C3%A3o%20e%20a%20seguran%C3%A7a%20de%20seus%20acervos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Aplicar-se-á o regime de responsabilidade solidária às ações de preservação, conservação ou restauração que impliquem dano irreparável ou destruição de bens culturais dos museus, sendo punível a negligência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2022.%20Aplicar-se-%C3%A1%20o%20regime%20de%20responsabilidade%20solid%C3%A1ria%20%C3%A0s%20a%C3%A7%C3%B5es%20de%20preserva%C3%A7%C3%A3o%2C%20conserva%C3%A7%C3%A3o%20ou%20restaura%C3%A7%C3%A3o%20que%20impliquem%20dano%20irrepar%C3%A1vel%20ou%20destrui%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os museus devem dispor das condições de segurança indispensáveis para garantir a proteção e a integridade dos bens culturais sob sua guarda, bem como dos usuários, dos respectivos funcionários e das instalações.\n\nParágrafo único. Cada museu deve dispor de um Programa de Segurança periodicamente testado para prevenir e neutralizar perigos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2023.%20Os%20museus%20devem%20dispor%20das%20condi%C3%A7%C3%B5es%20de%20seguran%C3%A7a%20indispens%C3%A1veis%20para%20garantir%20a%20prote%C3%A7%C3%A3o%20e%20a%20integridade%20dos%20bens%20culturais%20sob",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. É facultado aos museus estabelecer restrições à entrada de objetos e, excepcionalmente, pessoas, desde que devidamente justificadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2024.%20%C3%89%20facultado%20aos%20museus%20estabelecer%20restri%C3%A7%C3%B5es%20%C3%A0%20entrada%20de%20objetos%20e%2C%20excepcionalmente%2C%20pessoas%2C%20desde%20que%20devidamente%20justificadas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As entidades de segurança pública poderão cooperar com os museus, por meio da definição conjunta do Programa de Segurança e da aprovação dos equipamentos de prevenção e neutralização de perigos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2025.%20As%20entidades%20de%20seguran%C3%A7a%20p%C3%BAblica%20poder%C3%A3o%20cooperar%20com%20os%20museus%2C%20por%20meio%20da%20defini%C3%A7%C3%A3o%20conjunta%20do%20Programa%20de%20Seguran%C3%A7a%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Os museus colaborarão com as entidades de segurança pública no combate aos crimes contra a propriedade e tráfico de bens culturais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2026.%20Os%20museus%20colaborar%C3%A3o%20com%20as%20entidades%20de%20seguran%C3%A7a%20p%C3%BAblica%20no%20combate%20aos%20crimes%20contra%20a%20propriedade%20e%20tr%C3%A1fico%20de%20bens",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O Programa e as regras de segurança de cada museu têm natureza confidencial.\n\nParágrafo único. (VETADO)\n\nSubseção II\n\nDo Estudo, da Pesquisa e da Ação Educativa",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2027.%20O%20Programa%20e%20as%20regras%20de%20seguran%C3%A7a%20de%20cada%20museu%20t%C3%AAm%20natureza%20confidencial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O estudo e a pesquisa fundamentam as ações desenvolvidas em todas as áreas dos museus, no cumprimento das suas múltiplas competências.\n\n§ 1o O estudo e a pesquisa nortearão a política de aquisições e descartes, a identificação e caracterização dos bens culturais incorporados ou incorporáveis e as atividades com fins de documentação, de conservação, de interpretação e exposição e de educação.\n\n§ 2o Os museus deverão promover estudos de público, diagnóstico de participação e avaliações periódicas objetivando a progressiva melhoria da qualidade de seu funcionamento e o atendimento às necessidades dos visitantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2028.%20O%20estudo%20e%20a%20pesquisa%20fundamentam%20as%20a%C3%A7%C3%B5es%20desenvolvidas%20em%20todas%20as%20%C3%A1reas%20dos%20museus%2C%20no%20cumprimento%20das%20suas%20m%C3%BAltiplas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os museus deverão promover ações educativas, fundamentadas no respeito à diversidade cultural e na participação comunitária, contribuindo para ampliar o acesso da sociedade às manifestações culturais e ao patrimônio material e imaterial da Nação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2029.%20Os%20museus%20dever%C3%A3o%20promover%20a%C3%A7%C3%B5es%20educativas%2C%20fundamentadas%20no%20respeito%20%C3%A0%20diversidade%20cultural%20e%20na%20participa%C3%A7%C3%A3o%20comunit%C3%A1ria%2C%20contribuindo%20para%20ampliar%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Os museus deverão disponibilizar oportunidades de prática profissional aos estabelecimentos de ensino que ministrem cursos de museologia e afins, nos campos disciplinares relacionados às funções museológicas e à sua vocação.\n\nSubseção III\n\nDa Difusão Cultural e Do Acesso aos Museus",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2030.%20Os%20museus%20dever%C3%A3o%20disponibilizar%20oportunidades%20de%20pr%C3%A1tica%20profissional%20aos%20estabelecimentos%20de%20ensino%20que%20ministrem%20cursos%20de%20museologia%20e%20afins%2C%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. As ações de comunicação constituem formas de se fazer conhecer os bens culturais incorporados ou depositados no museu, de forma a propiciar o acesso público.\n\nParágrafo único. O museu regulamentará o acesso público aos bens culturais, levando em consideração as condições de conservação e segurança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2031.%20As%20a%C3%A7%C3%B5es%20de%20comunica%C3%A7%C3%A3o%20constituem%20formas%20de%20se%20fazer%20conhecer%20os%20bens%20culturais%20incorporados%20ou%20depositados%20no%20museu%2C%20de%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Os museus deverão elaborar e implementar programas de exposições adequados à sua vocação e tipologia, com a finalidade de promover acesso aos bens culturais e estimular a reflexão e o reconhecimento do seu valor simbólico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2032.%20Os%20museus%20dever%C3%A3o%20elaborar%20e%20implementar%20programas%20de%20exposi%C3%A7%C3%B5es%20adequados%20%C3%A0%20sua%20voca%C3%A7%C3%A3o%20e%20tipologia%2C%20com%20a%20finalidade%20de%20promover",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os museus poderão autorizar ou produzir publicações sobre temas vinculados a seus bens culturais e peças publicitárias sobre seu acervo e suas atividades.\n\n§ 1o Serão garantidos a qualidade, a fidelidade e os propósitos científicos e educativos do material produzido, sem prejuízo dos direitos de autor e conexos.\n\n§ 2o Todas as réplicas e demais cópias serão assinaladas como tais, de modo a evitar que sejam confundidas com os objetos ou espécimes originais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2033.%20Os%20museus%20poder%C3%A3o%20autorizar%20ou%20produzir%20publica%C3%A7%C3%B5es%20sobre%20temas%20vinculados%20a%20seus%20bens%20culturais%20e%20pe%C3%A7as%20publicit%C3%A1rias%20sobre%20seu%20acervo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A política de gratuidade ou onerosidade do ingresso ao museu será estabelecida por ele ou pela entidade de que dependa, para diferentes públicos, conforme dispositivos abrigados pelo sistema legislativo nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2034.%20A%20pol%C3%ADtica%20de%20gratuidade%20ou%20onerosidade%20do%20ingresso%20ao%20museu%20ser%C3%A1%20estabelecida%20por%20ele%20ou%20pela%20entidade%20de%20que%20dependa%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os museus caracterizar-se-ão pela acessibilidade universal dos diferentes públicos, na forma da legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2035.%20Os%20museus%20caracterizar-se-%C3%A3o%20pela%20acessibilidade%20universal%20dos%20diferentes%20p%C3%BAblicos%2C%20na%20forma%20da%20legisla%C3%A7%C3%A3o%20vigente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. As estatísticas de visitantes dos museus serão enviadas ao órgão ou entidade competente do poder público, na forma fixada pela respectiva entidade, quando solicitadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2036.%20As%20estat%C3%ADsticas%20de%20visitantes%20dos%20museus%20ser%C3%A3o%20enviadas%20ao%20%C3%B3rg%C3%A3o%20ou%20entidade%20competente%20do%20poder%20p%C3%BAblico%2C%20na%20forma%20fixada%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os museus deverão disponibilizar um livro de sugestões e reclamações disposto de forma visível na área de acolhimento dos visitantes.\n\nSubseção IV\n\nDos Acervos dos Museus",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2037.%20Os%20museus%20dever%C3%A3o%20disponibilizar%20um%20livro%20de%20sugest%C3%B5es%20e%20reclama%C3%A7%C3%B5es%20disposto%20de%20forma%20vis%C3%ADvel%20na%20%C3%A1rea%20de%20acolhimento%20dos%20visitantes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os museus deverão formular, aprovar ou, quando cabível, propor, para aprovação da entidade de que dependa, uma política de aquisições e descartes de bens culturais, atualizada periodicamente.\n\nParágrafo único. Os museus vinculados ao poder público darão publicidade aos termos de descartes a serem efetuados pela instituição, por meio de publicação no respectivo Diário Oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2038.%20Os%20museus%20dever%C3%A3o%20formular%2C%20aprovar%20ou%2C%20quando%20cab%C3%ADvel%2C%20propor%2C%20para%20aprova%C3%A7%C3%A3o%20da%20entidade%20de%20que%20dependa%2C%20uma%20pol%C3%ADtica%20de%20aquisi%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. É obrigação dos museus manter documentação sistematicamente atualizada sobre os bens culturais que integram seus acervos, na forma de registros e inventários.\n\n§ 1o O registro e o inventário dos bens culturais dos museus devem estruturar-se de forma a assegurar a compatibilização com o inventário nacional dos bens culturais.\n\n§ 2o Os bens inventariados ou registrados gozam de proteção com vistas em evitar o seu perecimento ou degradação, a promover sua preservação e segurança e a divulgar a respectiva existência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2039.%20%C3%89%20obriga%C3%A7%C3%A3o%20dos%20museus%20manter%20documenta%C3%A7%C3%A3o%20sistematicamente%20atualizada%20sobre%20os%20bens%20culturais%20que%20integram%20seus%20acervos%2C%20na%20forma%20de%20registros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os inventários museológicos e outros registros que identifiquem bens culturais, elaborados por museus públicos e privados, são considerados patrimônio arquivístico de interesse nacional e devem ser conservados nas respectivas instalações dos museus, de modo a evitar destruição, perda ou deterioração.\n\nParágrafo único. No caso de extinção dos museus, os seus inventários e registros serão conservados pelo órgão ou entidade sucessora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2040.%20Os%20invent%C3%A1rios%20museol%C3%B3gicos%20e%20outros%20registros%20que%20identifiquem%20bens%20culturais%2C%20elaborados%20por%20museus%20p%C3%BAblicos%20e%20privados%2C%20s%C3%A3o%20considerados%20patrim%C3%B4nio%20arquiv%C3%ADstico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A proteção dos bens culturais dos museus se completa pelo inventário nacional, sem prejuízo de outras formas de proteção concorrentes.\n\n§ 1o Entende-se por inventário nacional a inserção de dados sistematizada e atualizada periodicamente sobre os bens culturais existentes em cada museu, objetivando a sua identificação e proteção.\n\n§ 2o O inventário nacional dos bens dos museus não terá implicações na propriedade, posse ou outro direito real.\n\n§ 3o O inventário nacional dos bens culturais dos museus será coordenado pela União.\n\n§ 4o Para efeito da integridade do inventário nacional, os museus responsabilizar-se-ão pela inserção dos dados sobre seus bens culturais.\n\nSubseção V\n\nDo Uso das Imagens e Reproduções dos Bens Culturais dos Museus",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2041.%20A%20prote%C3%A7%C3%A3o%20dos%20bens%20culturais%20dos%20museus%20se%20completa%20pelo%20invent%C3%A1rio%20nacional%2C%20sem%20preju%C3%ADzo%20de%20outras%20formas%20de%20prote%C3%A7%C3%A3o%20concorrentes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os museus facilitarão o acesso à imagem e à reprodução de seus bens culturais e documentos conforme os procedimentos estabelecidos na legislação vigente e nos regimentos internos de cada museu.\n\nParágrafo único. A disponibilização de que trata este artigo será fundamentada nos princípios da conservação dos bens culturais, do interesse público, da não interferência na atividade dos museus e da garantia dos direitos de propriedade intelectual, inclusive imagem, na forma da legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2042.%20Os%20museus%20facilitar%C3%A3o%20o%20acesso%20%C3%A0%20imagem%20e%20%C3%A0%20reprodu%C3%A7%C3%A3o%20de%20seus%20bens%20culturais%20e%20documentos%20conforme%20os%20procedimentos%20estabelecidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Os museus garantirão a proteção dos bens culturais que constituem seus acervos, tanto em relação à qualidade das imagens e reproduções quanto à fidelidade aos sentidos educacional e de divulgação que lhes são próprios, na forma da legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2043.%20Os%20museus%20garantir%C3%A3o%20a%20prote%C3%A7%C3%A3o%20dos%20bens%20culturais%20que%20constituem%20seus%20acervos%2C%20tanto%20em%20rela%C3%A7%C3%A3o%20%C3%A0%20qualidade%20das%20imagens%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. É dever dos museus elaborar e implementar o Plano Museológico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2044.%20%C3%89%20dever%20dos%20museus%20elaborar%20e%20implementar%20o%20Plano%20Museol%C3%B3gico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O Plano Museológico é compreendido como ferramenta básica de planejamento estratégico, de sentido global e integrador, indispensável para a identificação da vocação da instituição museológica para a definição, o ordenamento e a priorização dos objetivos e das ações de cada uma de suas áreas de funcionamento, bem como fundamenta a criação ou a fusão de museus, constituindo instrumento fundamental para a sistematização do trabalho interno e para a atuação dos museus na sociedade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2045.%20O%20Plano%20Museol%C3%B3gico%20%C3%A9%20compreendido%20como%20ferramenta%20b%C3%A1sica%20de%20planejamento%20estrat%C3%A9gico%2C%20de%20sentido%20global%20e%20integrador%2C%20indispens%C3%A1vel%20para%20a%20identifica%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O Plano Museológico do museu definirá sua missão básica e sua função específica na sociedade e poderá contemplar os seguintes itens, dentre outros:\n\nI – o diagnóstico participativo da instituição, podendo ser realizado com o concurso de colaboradores externos;\n\nII – a identificação dos espaços, bem como dos conjuntos patrimoniais sob a guarda dos museus;\n\nIII – a identificação dos públicos a quem se destina o trabalho dos museus;\n\nIV – detalhamento dos Programas:\n\na) Institucional;\n\nb) de Gestão de Pessoas;\n\nc) de Acervos;\n\nd) de Exposições;\n\ne) Educativo e Cultural;\n\nf) de Pesquisa;\n\ng) Arquitetônico-urbanístico;\n\nh) de Segurança;\n\ni) de Financiamento e Fomento;\n\nj) de Comunicação.\n\nk) de acessibilidade a todas as pessoas. (Incluído pela Lei nº 13.146, de 2015) (Vigência)\n\n§ 1o Na consolidação do Plano Museológico, deve-se levar em conta o caráter interdisciplinar dos Programas.\n\n§ 2o O Plano Museológico será elaborado, preferencialmente, de forma participativa, envolvendo o conjunto dos funcionários dos museus, além de especialistas, parceiros sociais, usuários e consultores externos, levadas em conta suas especificidades.\n\n§ 3o O Plano Museológico deverá ser avaliado permanentemente e revisado pela instituição com periodicidade definida em seu regimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2046.%20O%20Plano%20Museol%C3%B3gico%20do%20museu%20definir%C3%A1%20sua%20miss%C3%A3o%20b%C3%A1sica%20e%20sua%20fun%C3%A7%C3%A3o%20espec%C3%ADfica%20na%20sociedade%20e%20poder%C3%A1%20contemplar%20os%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Os projetos componentes dos Programas do Plano Museológico caracterizar-se-ão pela exeqüibilidade, adequação às especificações dos distintos Programas, apresentação de cronograma de execução, a explicitação da metodologia adotada, a descrição das ações planejadas e a implantação de um sistema de avaliação permanente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2047.%20Os%20projetos%20componentes%20dos%20Programas%20do%20Plano%20Museol%C3%B3gico%20caracterizar-se-%C3%A3o%20pela%20exeq%C3%BCibilidade%2C%20adequa%C3%A7%C3%A3o%20%C3%A0s%20especifica%C3%A7%C3%B5es%20dos%20distintos%20Programas%2C%20apresenta%C3%A7%C3%A3o%20de%20cronograma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Em consonância com o propósito de serviço à sociedade estabelecido nesta Lei, poderão ser promovidos mecanismos de colaboração com outras entidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2048.%20Em%20conson%C3%A2ncia%20com%20o%20prop%C3%B3sito%20de%20servi%C3%A7o%20%C3%A0%20sociedade%20estabelecido%20nesta%20Lei%2C%20poder%C3%A3o%20ser%20promovidos%20mecanismos%20de%20colabora%C3%A7%C3%A3o%20com%20outras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. As atividades decorrentes dos mecanismos previstos no art. 48 desta Lei serão autorizadas e supervisionadas pela direção do museu, que poderá suspendê-las caso seu desenvolvimento entre em conflito com o funcionamento normal do museu.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2049.%20As%20atividades%20decorrentes%20dos%20mecanismos%20previstos%20no%20art.%2048%20desta%20Lei%20ser%C3%A3o%20autorizadas%20e%20supervisionadas%20pela%20dire%C3%A7%C3%A3o%20do%20museu%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Serão entendidas como associações de amigos de museus as sociedades civis, sem fins lucrativos, constituídas na forma da lei civil, que preencham, ao menos, os seguintes requisitos:\n\nI – constar em seu instrumento criador, como finalidade exclusiva, o apoio, a manutenção e o incentivo às atividades dos museus a que se refiram, especialmente aquelas destinadas ao público em geral;\n\nII – não restringir a adesão de novos membros, sejam pessoas físicas ou jurídicas;\n\nIII – ser vedada a remuneração da diretoria.\n\nParágrafo único. O reconhecimento da associação de amigos dos museus será realizado em ficha cadastral elaborada pelo órgão mantenedor ou entidade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2050.%20Ser%C3%A3o%20entendidas%20como%20associa%C3%A7%C3%B5es%20de%20amigos%20de%20museus%20as%20sociedades%20civis%2C%20sem%20fins%20lucrativos%2C%20constitu%C3%ADdas%20na%20forma%20da%20lei%20civil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2051.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. As associações de amigos deverão tornar públicos seus balanços periodicamente.\n\nParágrafo único. As associações de amigos de museus deverão permitir quaisquer verificações determinadas pelos órgãos de controle competentes, prestando os esclarecimentos que lhes forem solicitados, além de serem obrigadas a remeter-lhes anualmente cópias de balanços e dos relatórios do exercício social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2052.%20As%20associa%C3%A7%C3%B5es%20de%20amigos%20dever%C3%A3o%20tornar%20p%C3%BAblicos%20seus%20balan%C3%A7os%20periodicamente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. As associações de amigos, no exercício de suas funções, submeter-se-ão à aprovação prévia e expressa da instituição a que se vinculem, dos planos, dos projetos e das ações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2053.%20As%20associa%C3%A7%C3%B5es%20de%20amigos%2C%20no%20exerc%C3%ADcio%20de%20suas%20fun%C3%A7%C3%B5es%2C%20submeter-se-%C3%A3o%20%C3%A0%20aprova%C3%A7%C3%A3o%20pr%C3%A9via%20e%20expressa%20da%20institui%C3%A7%C3%A3o%20a%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. As associações poderão reservar até dez por cento da totalidade dos recursos por elas recebidos e gerados para a sua própria administração e manutenção, sendo o restante revertido para a instituição museológica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2054.%20As%20associa%C3%A7%C3%B5es%20poder%C3%A3o%20reservar%20at%C3%A9%20dez%20por%20cento%20da%20totalidade%20dos%20recursos%20por%20elas%20recebidos%20e%20gerados%20para%20a%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O Sistema de Museus é uma rede organizada de instituições museológicas, baseado na adesão voluntária, configurado de forma progressiva e que visa à coordenação, articulação, à mediação, à qualificação e à cooperação entre os museus.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2055.%20O%20Sistema%20de%20Museus%20%C3%A9%20uma%20rede%20organizada%20de%20institui%C3%A7%C3%B5es%20museol%C3%B3gicas%2C%20baseado%20na%20ades%C3%A3o%20volunt%C3%A1ria%2C%20configurado%20de%20forma%20progressiva%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Os entes federados estabelecerão em lei, denominada Estatuto Estadual, Regional, Municipal ou Distrital dos Museus, normas específicas de organização, articulação e atribuições das instituições museológicas em sistemas de museus, de acordo com os princípios dispostos neste Estatuto.\n\n§ 1o A instalação dos sistemas estaduais ou regionais, distritais e municipais de museus será feita de forma gradativa, sempre visando à qualificação dos respectivos museus.\n\n§ 2o Os sistemas de museus têm por finalidade:\n\nI – apoiar tecnicamente os museus da área disciplinar e temática ou geográfica com eles relacionada;\n\nII – promover a cooperação e a articulação entre os museus da área disciplinar e temática ou geográfica com eles relacionada, em especial com os museus municipais;\n\nIII – contribuir para a vitalidade e o dinamismo cultural dos locais de instalação dos museus;\n\nIV – elaborar pareceres e relatórios sobre questões relativas à museologia no contexto de atuação a eles adstrito;\n\nV – colaborar com o órgão ou entidade do poder público competente no tocante à apreciação das candidaturas ao Sistema Brasileiro de Museus, na promoção de programas e de atividade e no acompanhamento da respectiva execução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2056.%20Os%20entes%20federados%20estabelecer%C3%A3o%20em%20lei%2C%20denominada%20Estatuto%20Estadual%2C%20Regional%2C%20Municipal%20ou%20Distrital%20dos%20Museus%2C%20normas%20espec%C3%ADficas%20de%20organiza%C3%A7%C3%A3o%2C%20articula%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O Sistema Brasileiro de Museus disporá de um Comitê Gestor, com a finalidade de propor diretrizes e ações, bem como apoiar e acompanhar o desenvolvimento do setor museológico brasileiro.\n\nParágrafo único. O Comitê Gestor do Sistema Brasileiro de Museus será composto por representantes de órgãos e entidades com representatividade na área da museologia nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2057.%20O%20Sistema%20Brasileiro%20de%20Museus%20dispor%C3%A1%20de%20um%20Comit%C3%AA%20Gestor%2C%20com%20a%20finalidade%20de%20propor%20diretrizes%20e%20a%C3%A7%C3%B5es%2C%20bem%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. O Sistema Brasileiro de Museus tem a finalidade de promover:\n\nI – a interação entre os museus, instituições afins e profissionais ligados ao setor, visando ao constante aperfeiçoamento da utilização de recursos materiais e culturais;\n\nII – a valorização, registro e disseminação de conhecimentos específicos no campo museológico;\n\nIII – a gestão integrada e o desenvolvimento das instituições, acervos e processos museológicos;\n\nIV – o desenvolvimento das ações voltadas para as áreas de aquisição de bens, capacitação de recursos humanos, documentação, pesquisa, conservação, restauração, comunicação e difusão entre os órgãos e entidades públicas, entidades privadas e unidades museológicas que integrem o Sistema;\n\nV – a promoção da qualidade do desempenho dos museus por meio da implementação de procedimentos de avaliação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2058.%20O%20Sistema%20Brasileiro%20de%20Museus%20tem%20a%20finalidade%20de%20promover%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Constituem objetivos específicos do Sistema Brasileiro de Museus:\n\nI – promover a articulação entre as instituições museológicas, respeitando sua autonomia jurídico-administrativa, cultural e técnico-científica;\n\nII – estimular o desenvolvimento de programas, projetos e atividades museológicas que respeitem e valorizem o patrimônio cultural de comunidades populares e tradicionais, de acordo com as suas especificidades;\n\nIII – divulgar padrões e procedimentos técnico-científicos que orientem as atividades desenvolvidas nas instituições museológicas;\n\nIV – estimular e apoiar os programas e projetos de incremento e qualificação profissional de equipes que atuem em instituições museológicas;\n\nV – estimular a participação e o interesse dos diversos segmentos da sociedade no setor museológico;\n\nVI – estimular o desenvolvimento de programas, projetos e atividades educativas e culturais nas instituições museológicas;\n\nVII – incentivar e promover a criação e a articulação de redes e sistemas estaduais, municipais e internacionais de museus, bem como seu intercâmbio e integração ao Sistema Brasileiro de Museus;\n\nVIII – contribuir para a implementação, manutenção e atualização de um Cadastro Nacional de Museus;\n\nIX – propor a criação e aperfeiçoamento de instrumentos legais para o melhor desempenho e desenvolvimento das instituições museológicas no País;\n\nX – propor medidas para a política de segurança e proteção de acervos, instalações e edificações;\n\nXI – incentivar a formação, a atualização e a valorização dos profissionais de instituições museológicas; e\n\nXII – estimular práticas voltadas para permuta, aquisição, documentação, investigação, preservação, conservação, restauração e difusão de acervos museológicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2059.%20Constituem%20objetivos%20espec%C3%ADficos%20do%20Sistema%20Brasileiro%20de%20Museus%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Poderão fazer parte do Sistema Brasileiro de Museus, mediante a formalização de instrumento hábil a ser firmado com o órgão competente, os museus públicos e privados, instituições educacionais relacionadas à área da museologia e as entidades afins, na forma da legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2060.%20Poder%C3%A3o%20fazer%20parte%20do%20Sistema%20Brasileiro%20de%20Museus%2C%20mediante%20a%20formaliza%C3%A7%C3%A3o%20de%20instrumento%20h%C3%A1bil%20a%20ser%20firmado%20com%20o%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Terão prioridade, quanto ao beneficiamento por políticas especificamente desenvolvidas, os museus integrantes do Sistema Brasileiro de Museus.\n\nParágrafo único. Os museus em processo de adesão podem ser beneficiados por políticas de qualificação específicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2061.%20Ter%C3%A3o%20prioridade%2C%20quanto%20ao%20beneficiamento%20por%20pol%C3%ADticas%20especificamente%20desenvolvidas%2C%20os%20museus%20integrantes%20do%20Sistema%20Brasileiro%20de%20Museus.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Os museus integrantes do Sistema Brasileiro de Museus colaboram entre si e articulam os respectivos recursos com vistas em melhorar e potencializar a prestação de serviços ao público.\n\nParágrafo único. A colaboração supracitada traduz-se no estabelecimento de contratos, acordos, convênios e protocolos de cooperação entre museus ou com entidades públicas ou privadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2062.%20Os%20museus%20integrantes%20do%20Sistema%20Brasileiro%20de%20Museus%20colaboram%20entre%20si%20e%20articulam%20os%20respectivos%20recursos%20com%20vistas%20em%20melhorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Os museus integrados ao Sistema Brasileiro de Museus gozam do direito de preferência em caso de venda judicial ou leilão de bens culturais, respeitada a legislação em vigor.\n\n§ 1o O prazo para o exercício do direito de preferência é de quinze dias, e, em caso de concorrência entre os museus do Sistema, cabe ao Comitê Gestor determinar qual o museu a que se dará primazia.\n\n§ 2o A preferência só poderá ser exercida se o bem cultural objeto da preferência se integrar na política de aquisições dos museus, sob pena de nulidade do ato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2063.%20Os%20museus%20integrados%20ao%20Sistema%20Brasileiro%20de%20Museus%20gozam%20do%20direito%20de%20prefer%C3%AAncia%20em%20caso%20de%20venda%20judicial%20ou%20leil%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2064.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2065.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Sem prejuízo das penalidades definidas pela legislação federal, estadual e municipal, em especial os arts. 62, 63 e 64 da Lei no 9.605, de 12 de fevereiro de 1998, o não cumprimento das medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação, inutilização e destruição de bens dos museus sujeitará os transgressores:\n\nI – à multa simples ou diária, nos valores correspondentes, no mínimo, a dez e, no máximo, a mil dias-multa, agravada em casos de reincidência, conforme regulamentação específica, vedada a sua cobrança pela União se já tiver sido aplicada pelo Estado, pelo Distrito Federal, pelos Territórios ou pelos Municípios;\n\nII – à perda ou restrição de incentivos e benefícios fiscais concedidos pelo poder público, pelo prazo de cinco anos;\n\nIII – à perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito, pelo prazo de cinco anos;\n\nIV – ao impedimento de contratar com o poder público, pelo prazo de cinco anos;\n\nV – à suspensão parcial de sua atividade.\n\n§ 1o Sem obstar a aplicação das penalidades previstas neste artigo, é o transgressor obrigado a indenizar ou reparar os danos causados aos bens musealizados e a terceiros prejudicados.\n\n§ 2o No caso de omissão da autoridade, caberá à entidade competente, em âmbito federal, a aplicação das penalidades pecuniárias previstas neste artigo.\n\n§ 3o Nos casos previstos nos incisos II e III do caput deste artigo, o ato declaratório da perda, restrição ou suspensão será atribuição da autoridade administrativa ou financeira que concedeu os benefícios, incentivos ou financiamento.\n\n§ 4o Verificada a reincidência, a pena de multa será agravada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2066.%20Sem%20preju%C3%ADzo%20das%20penalidades%20definidas%20pela%20legisla%C3%A7%C3%A3o%20federal%2C%20estadual%20e%20municipal%2C%20em%20especial%20os%20arts.%2062%2C%2063%20e%2064%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Os museus adequarão suas estruturas, recursos e ordenamentos ao disposto nesta Lei no prazo de cinco anos, contados da sua publicação.\n\nParágrafo único. Os museus federais já em funcionamento deverão proceder à adaptação de suas atividades aos preceitos desta Lei no prazo de dois anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2067.%20Os%20museus%20adequar%C3%A3o%20suas%20estruturas%2C%20recursos%20e%20ordenamentos%20ao%20disposto%20nesta%20Lei%20no%20prazo%20de%20cinco%20anos%2C%20contados%20da%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Resguardados a soberania nacional, a ordem pública e os bons costumes, o governo brasileiro prestará, no que concerne ao combate do tráfico de bens culturais dos museus, a necessária cooperação a outro país, sem qualquer ônus, quando solicitado para:\n\nI – produção de prova;\n\nII – exame de objetos e lugares;\n\nIII – informações sobre pessoas e coisas;\n\nIV – presença temporária de pessoa presa, cujas declarações tenham relevância para a decisão de uma causa;\n\nV – outras formas de assistência permitidas pela legislação em vigor pelos tratados de que o Brasil seja parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2068.%20Resguardados%20a%20soberania%20nacional%2C%20a%20ordem%20p%C3%BAblica%20e%20os%20bons%20costumes%2C%20o%20governo%20brasileiro%20prestar%C3%A1%2C%20no%20que%20concerne%20ao%20combate",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Para a consecução dos fins visados nesta Lei e especialmente para a reciprocidade da cooperação internacional, deverá ser mantido sistema de comunicações apto a facilitar o intercâmbio internacional, rápido e seguro, de informações sobre bens culturais dos museus.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2069.%20Para%20a%20consecu%C3%A7%C3%A3o%20dos%20fins%20visados%20nesta%20Lei%20e%20especialmente%20para%20a%20reciprocidade%20da%20coopera%C3%A7%C3%A3o%20internacional%2C%20dever%C3%A1%20ser%20mantido%20sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Esta Lei entra em vigor cento e vinte dias após a data de sua publicação.\n\nBrasília, 14 de janeiro de 2009; 188o da Independência e 121o da República.\n\nLUIZ INÁCIO LULA DA SILVA Tarso Genro Roberto Gomes do Nascimento\n\nEste texto não substitui o publicado no DOU de 15.1.2009\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm#:~:text=Art.%2070.%20Esta%20Lei%20entra%20em%20vigor%20cento%20e%20vinte%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": null
+    }
+  }
+}

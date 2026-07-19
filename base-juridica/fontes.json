@@ -245,6 +245,132 @@
         "sumulas_stf_keywords.json"
       ],
       "observacao": "Não é fonte jurídica. Os tokens são derivados local e deterministicamente dos enunciados publicados."
+    },
+    "legislacao_estatutos": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "ecid",
+          "codigo": "ECID",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+          "arquivo_bruto": "ecid.html",
+          "destino": "lei_ecid.json"
+        },
+        {
+          "id": "ed",
+          "codigo": "ED",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+          "arquivo_bruto": "ed.html",
+          "destino": "lei_ed.json"
+        },
+        {
+          "id": "edt",
+          "codigo": "EDT",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671compilado.htm",
+          "arquivo_bruto": "edt.html",
+          "destino": "lei_edt.json"
+        },
+        {
+          "id": "ei",
+          "codigo": "EI",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+          "arquivo_bruto": "ei.html",
+          "destino": "lei_ei.json"
+        },
+        {
+          "id": "eind",
+          "codigo": "EIND",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+          "arquivo_bruto": "eind.html",
+          "destino": "lei_eind.json"
+        },
+        {
+          "id": "eir",
+          "codigo": "EIR",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm",
+          "arquivo_bruto": "eir.html",
+          "destino": "lei_eir.json"
+        },
+        {
+          "id": "ejuv",
+          "codigo": "EJUV",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm",
+          "arquivo_bruto": "ejuv.html",
+          "destino": "lei_ejuv.json"
+        },
+        {
+          "id": "emet",
+          "codigo": "EMET",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13089.htm",
+          "arquivo_bruto": "emet.html",
+          "destino": "lei_emet.json"
+        },
+        {
+          "id": "emil",
+          "codigo": "EMIL",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6880compilada.htm",
+          "arquivo_bruto": "emil.html",
+          "destino": "lei_emil.json"
+        },
+        {
+          "id": "emus",
+          "codigo": "EMUS",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm",
+          "arquivo_bruto": "emus.html",
+          "destino": "lei_emus.json"
+        },
+        {
+          "id": "eoab",
+          "codigo": "EOAB",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+          "arquivo_bruto": "eoab.html",
+          "destino": "lei_eoab.json"
+        },
+        {
+          "id": "epc",
+          "codigo": "EPC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14238.htm",
+          "arquivo_bruto": "epc.html",
+          "destino": "lei_epc.json"
+        },
+        {
+          "id": "epd",
+          "codigo": "EPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+          "arquivo_bruto": "epd.html",
+          "destino": "lei_epd.json"
+        },
+        {
+          "id": "eref",
+          "codigo": "EREF",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm",
+          "arquivo_bruto": "eref.html",
+          "destino": "lei_eref.json"
+        },
+        {
+          "id": "et",
+          "codigo": "ET",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l4504.htm",
+          "arquivo_bruto": "et.html",
+          "destino": "lei_et.json"
+        },
+        {
+          "id": "lc123",
+          "codigo": "LC123",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "arquivo_bruto": "lc123.html",
+          "destino": "lei_lc123.json"
+        },
+        {
+          "id": "lmig",
+          "codigo": "LMIG",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+          "arquivo_bruto": "lmig.html",
+          "destino": "lei_lmig.json"
+        }
+      ]
     }
   }
 }

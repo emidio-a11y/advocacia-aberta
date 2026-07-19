@@ -1,0 +1,2079 @@
+{
+  "_meta": {
+    "codigo": "EPD",
+    "nome": "Estatuto da Pessoa com Deficiência",
+    "lei": "Lei 13.146/2015",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+    "total_artigos": 129,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º É instituída a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência), destinada a assegurar e a promover, em condições de igualdade, o exercício dos direitos e das liberdades fundamentais por pessoa com deficiência, visando à sua inclusão social e cidadania.\n\nParágrafo único. Esta Lei tem como base a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, ratificados pelo Congresso Nacional por meio do Decreto Legislativo nº 186, de 9 de julho de 2008 , em conformidade com o procedimento previsto no § 3º do art. 5º da Constituição da República Federativa do Brasil , em vigor para o Brasil, no plano jurídico externo, desde 31 de agosto de 2008, e promulgados pelo Decreto nº 6.949, de 25 de agosto de 2009 , data de início de sua vigência no plano interno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%201%C2%BA%20%C3%89%20institu%C3%ADda%20a%20Lei%20Brasileira%20de%20Inclus%C3%A3o%20da%20Pessoa%20com%20Defici%C3%AAncia%20%28Estatuto%20da%20Pessoa%20com%20Defici%C3%AAncia%29%2C%20destinada%20a%20assegurar%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.\n\n§ 1º A avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar e considerará: (Vigência) (Vide Decreto nº 11.063, de 2022)\n\nI - os impedimentos nas funções e nas estruturas do corpo;\n\nII - os fatores socioambientais, psicológicos e pessoais;\n\nIII - a limitação no desempenho de atividades; e\n\nIV - a restrição de participação.\n\n§ 2º O Poder Executivo criará instrumentos para avaliação da deficiência. (Vide Lei nº 13.846, de 2019) (Vide Lei nº 14.126, de 2021) (Vide Lei nº 14.768, de 2023)\n\n§ 3º O exame médico-pericial componente da avaliação biopsicossocial da deficiência de que trata o § 1º deste artigo poderá ser realizado com o uso de tecnologia de telemedicina ou por análise documental conforme situações e requisitos definidos em regulamento. (Incluído pela Lei nº 14.724, de 2023)\n\nArt. 2º-A. É instituído o cordão de fita com desenhos de girassóis como símbolo nacional de identificação de pessoas com deficiências ocultas. (Incluído pela Lei nº 14.624, de 2023)\n\n§ 1º O uso do símbolo de que trata o caput deste artigo é opcional, e sua ausência não prejudica o exercício de direitos e garantias previstos em lei. (Incluído pela Lei nº 14.624, de 2023)\n\n§ 2º A utilização do símbolo de que trata o caput deste artigo não dispensa a apresentação de documento comprobatório da deficiência, caso seja solicitado pelo atendente ou pela autoridade competente. (Incluído pela Lei nº 14.624, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%202%C2%BA%20Considera-se%20pessoa%20com%20defici%C3%AAncia%20aquela%20que%20tem%20impedimento%20de%20longo%20prazo%20de%20natureza%20f%C3%ADsica%2C%20mental%2C%20intelectual%20ou%20sensorial%2C%20o%20qual%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Para fins de aplicação desta Lei, consideram-se:\n\nI - acessibilidade: possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como de outros serviços e instalações abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida;\n\nII - desenho universal: concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva;\n\nIII - tecnologia assistiva ou ajuda técnica: produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que objetivem promover a funcionalidade, relacionada à atividade e à participação da pessoa com deficiência ou com mobilidade reduzida, visando à sua autonomia, independência, qualidade de vida e inclusão social;\n\nIV - barreiras: qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social da pessoa, bem como o gozo, a fruição e o exercício de seus direitos à acessibilidade, à liberdade de movimento e de expressão, à comunicação, ao acesso à informação, à compreensão, à circulação com segurança, entre outros, classificadas em:\n\na) barreiras urbanísticas: as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo;\n\nb) barreiras arquitetônicas: as existentes nos edifícios públicos e privados;\n\nc) barreiras nos transportes: as existentes nos sistemas e meios de transportes;\n\nd) barreiras nas comunicações e na informação: qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação;\n\ne) barreiras atitudinais: atitudes ou comportamentos que impeçam ou prejudiquem a participação social da pessoa com deficiência em igualdade de condições e oportunidades com as demais pessoas;\n\nf) barreiras tecnológicas: as que dificultam ou impedem o acesso da pessoa com deficiência às tecnologias;\n\nV - comunicação: forma de interação dos cidadãos que abrange, entre outras opções, as línguas, inclusive a Língua Brasileira de Sinais (Libras), a visualização de textos, o Braille, o sistema de sinalização ou de comunicação tátil, os caracteres ampliados, os dispositivos multimídia, assim como a linguagem simples, escrita e oral, os sistemas auditivos e os meios de voz digitalizados e os modos, meios e formatos aumentativos e alternativos de comunicação, incluindo as tecnologias da informação e das comunicações;\n\nVI - adaptações razoáveis: adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido, quando requeridos em cada caso, a fim de assegurar que a pessoa com deficiência possa gozar ou exercer, em igualdade de condições e oportunidades com as demais pessoas, todos os direitos e liberdades fundamentais;\n\nVII - elemento de urbanização: quaisquer componentes de obras de urbanização, tais como os referentes a pavimentação, saneamento, encanamento para esgotos, distribuição de energia elétrica e de gás, iluminação pública, serviços de comunicação, abastecimento e distribuição de água, paisagismo e os que materializam as indicações do planejamento urbanístico;\n\nVIII - mobiliário urbano: conjunto de objetos existentes nas vias e nos espaços públicos, superpostos ou adicionados aos elementos de urbanização ou de edificação, de forma que sua modificação ou seu traslado não provoque alterações substanciais nesses elementos, tais como semáforos, postes de sinalização e similares, terminais e pontos de acesso coletivo às telecomunicações, fontes de água, lixeiras, toldos, marquises, bancos, quiosques e quaisquer outros de natureza análoga;\n\nIX - pessoa com mobilidade reduzida: aquela que tenha, por qualquer motivo, dificuldade de movimentação, permanente ou temporária, gerando redução efetiva da mobilidade, da flexibilidade, da coordenação motora ou da percepção, incluindo idoso, gestante, lactante, pessoa com criança de colo e obeso;\n\nX - residências inclusivas: unidades de oferta do Serviço de Acolhimento do Sistema Único de Assistência Social (Suas) localizadas em áreas residenciais da comunidade, com estruturas adequadas, que possam contar com apoio psicossocial para o atendimento das necessidades da pessoa acolhida, destinadas a jovens e adultos com deficiência, em situação de dependência, que não dispõem de condições de autossustentabilidade e com vínculos familiares fragilizados ou rompidos;\n\nXI - moradia para a vida independente da pessoa com deficiência: moradia com estruturas adequadas capazes de proporcionar serviços de apoio coletivos e individualizados que respeitem e ampliem o grau de autonomia de jovens e adultos com deficiência;\n\nXII - atendente pessoal: pessoa, membro ou não da família, que, com ou sem remuneração, assiste ou presta cuidados básicos e essenciais à pessoa com deficiência no exercício de suas atividades diárias, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas;\n\nXIII - profissional de apoio escolar: pessoa que exerce atividades de alimentação, higiene e locomoção do estudante com deficiência e atua em todas as atividades escolares nas quais se fizer necessária, em todos os níveis e modalidades de ensino, em instituições públicas e privadas, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas;\n\nXIV - acompanhante: aquele que acompanha a pessoa com deficiência, podendo ou não desempenhar as funções de atendente pessoal.\n\nXV – pessoa com necessidades complexas de comunicação: aquela que, por qualquer motivo, tem dificuldades significativas para compreender ou expressar mensagens de forma oral, escrita, gestual ou por meio de outras formas convencionais de comunicação, necessitando de recursos e estratégias alternativas ou aumentativas para viabilizar a interação social, o acesso à informação e a participação em atividades da vida cotidiana. (Incluído pela Lei nº 15.249, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%203%C2%BA%20Para%20fins%20de%20aplica%C3%A7%C3%A3o%20desta%20Lei%2C%20consideram-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Toda pessoa com deficiência tem direito à igualdade de oportunidades com as demais pessoas e não sofrerá nenhuma espécie de discriminação.\n\n§ 1º Considera-se discriminação em razão da deficiência toda forma de distinção, restrição ou exclusão, por ação ou omissão, que tenha o propósito ou o efeito de prejudicar, impedir ou anular o reconhecimento ou o exercício dos direitos e das liberdades fundamentais de pessoa com deficiência, incluindo a recusa de adaptações razoáveis e de fornecimento de tecnologias assistivas.\n\n§ 2º A pessoa com deficiência não está obrigada à fruição de benefícios decorrentes de ação afirmativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%204%C2%BA%20Toda%20pessoa%20com%20defici%C3%AAncia%20tem%20direito%20%C3%A0%20igualdade%20de%20oportunidades%20com%20as%20demais%20pessoas%20e%20n%C3%A3o%20sofrer%C3%A1%20nenhuma%20esp%C3%A9cie%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A pessoa com deficiência será protegida de toda forma de negligência, discriminação, exploração, violência, tortura, crueldade, opressão e tratamento desumano ou degradante.\n\nParágrafo único. Para os fins da proteção mencionada no caput deste artigo, são considerados especialmente vulneráveis a criança, o adolescente, a mulher e o idoso, com deficiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%205%C2%BA%20A%20pessoa%20com%20defici%C3%AAncia%20ser%C3%A1%20protegida%20de%20toda%20forma%20de%20neglig%C3%AAncia%2C%20discrimina%C3%A7%C3%A3o%2C%20explora%C3%A7%C3%A3o%2C%20viol%C3%AAncia%2C%20tortura%2C%20crueldade%2C%20opress%C3%A3o%20e%20tratamento%20desumano",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A deficiência não afeta a plena capacidade civil da pessoa, inclusive para:\n\nI - casar-se e constituir união estável;\n\nII - exercer direitos sexuais e reprodutivos;\n\nIII - exercer o direito de decidir sobre o número de filhos e de ter acesso a informações adequadas sobre reprodução e planejamento familiar;\n\nIV - conservar sua fertilidade, sendo vedada a esterilização compulsória;\n\nV - exercer o direito à família e à convivência familiar e comunitária; e\n\nVI - exercer o direito à guarda, à tutela, à curatela e à adoção, como adotante ou adotando, em igualdade de oportunidades com as demais pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%206%C2%BA%20A%20defici%C3%AAncia%20n%C3%A3o%20afeta%20a%20plena%20capacidade%20civil%20da%20pessoa%2C%20inclusive%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º É dever de todos comunicar à autoridade competente qualquer forma de ameaça ou de violação aos direitos da pessoa com deficiência.\n\nParágrafo único. Se, no exercício de suas funções, os juízes e os tribunais tiverem conhecimento de fatos que caracterizem as violações previstas nesta Lei, devem remeter peças ao Ministério Público para as providências cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%207%C2%BA%20%C3%89%20dever%20de%20todos%20comunicar%20%C3%A0%20autoridade%20competente%20qualquer%20forma%20de%20amea%C3%A7a%20ou%20de%20viola%C3%A7%C3%A3o%20aos%20direitos%20da%20pessoa%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º É dever do Estado, da sociedade e da família assegurar à pessoa com deficiência, com prioridade, a efetivação dos direitos referentes à vida, à saúde, à sexualidade, à paternidade e à maternidade, à alimentação, à habitação, à educação, à profissionalização, ao trabalho, à previdência social, à habilitação e à reabilitação, ao transporte, à acessibilidade, à cultura, ao desporto, ao turismo, ao lazer, à informação, à comunicação, aos avanços científicos e tecnológicos, à dignidade, ao respeito, à liberdade, à convivência familiar e comunitária, entre outros decorrentes da Constituição Federal, da Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo e das leis e de outras normas que garantam seu bem-estar pessoal, social e econômico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%208%C2%BA%20%C3%89%20dever%20do%20Estado%2C%20da%20sociedade%20e%20da%20fam%C3%ADlia%20assegurar%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%2C%20com%20prioridade%2C%20a%20efetiva%C3%A7%C3%A3o%20dos%20direitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A pessoa com deficiência tem direito a receber atendimento prioritário, sobretudo com a finalidade de:\n\nI - proteção e socorro em quaisquer circunstâncias;\n\nII - atendimento em todas as instituições e serviços de atendimento ao público;\n\nIII - disponibilização de recursos, tanto humanos quanto tecnológicos, que garantam atendimento em igualdade de condições com as demais pessoas;\n\nIV - disponibilização de pontos de parada, estações e terminais acessíveis de transporte coletivo de passageiros e garantia de segurança no embarque e no desembarque;\n\nV - acesso a informações e disponibilização de recursos de comunicação acessíveis;\n\nVI - recebimento de restituição de imposto de renda;\n\nVII - tramitação processual e procedimentos judiciais e administrativos em que for parte ou interessada, em todos os atos e diligências.\n\n§ 1º Os direitos previstos neste artigo são extensivos ao acompanhante da pessoa com deficiência ou ao seu atendente pessoal, exceto quanto ao disposto nos incisos VI e VII deste artigo.\n\n§ 2º Nos serviços de emergência públicos e privados, a prioridade conferida por esta Lei é condicionada aos protocolos de atendimento médico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%209%C2%BA%20A%20pessoa%20com%20defici%C3%AAncia%20tem%20direito%20a%20receber%20atendimento%20priorit%C3%A1rio%2C%20sobretudo%20com%20a%20finalidade%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "Única",
+        "section_name": "Seção Única"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Compete ao poder público garantir a dignidade da pessoa com deficiência ao longo de toda a vida.\n\nParágrafo único. Em situações de risco, emergência ou estado de calamidade pública, a pessoa com deficiência será considerada vulnerável, devendo o poder público adotar medidas para sua proteção e segurança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2010.%20Compete%20ao%20poder%20p%C3%BAblico%20garantir%20a%20dignidade%20da%20pessoa%20com%20defici%C3%AAncia%20ao%20longo%20de%20toda%20a%20vida.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A pessoa com deficiência não poderá ser obrigada a se submeter a intervenção clínica ou cirúrgica, a tratamento ou a institucionalização forçada.\n\nParágrafo único. O consentimento da pessoa com deficiência em situação de curatela poderá ser suprido, na forma da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2011.%20A%20pessoa%20com%20defici%C3%AAncia%20n%C3%A3o%20poder%C3%A1%20ser%20obrigada%20a%20se%20submeter%20a%20interven%C3%A7%C3%A3o%20cl%C3%ADnica%20ou%20cir%C3%BArgica%2C%20a%20tratamento%20ou%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O consentimento prévio, livre e esclarecido da pessoa com deficiência é indispensável para a realização de tratamento, procedimento, hospitalização e pesquisa científica.\n\n§ 1º Em caso de pessoa com deficiência em situação de curatela, deve ser assegurada sua participação, no maior grau possível, para a obtenção de consentimento.\n\n§ 2º A pesquisa científica envolvendo pessoa com deficiência em situação de tutela ou de curatela deve ser realizada, em caráter excepcional, apenas quando houver indícios de benefício direto para sua saúde ou para a saúde de outras pessoas com deficiência e desde que não haja outra opção de pesquisa de eficácia comparável com participantes não tutelados ou curatelados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2012.%20O%20consentimento%20pr%C3%A9vio%2C%20livre%20e%20esclarecido%20da%20pessoa%20com%20defici%C3%AAncia%20%C3%A9%20indispens%C3%A1vel%20para%20a%20realiza%C3%A7%C3%A3o%20de%20tratamento%2C%20procedimento%2C%20hospitaliza%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A pessoa com deficiência somente será atendida sem seu consentimento prévio, livre e esclarecido em casos de risco de morte e de emergência em saúde, resguardado seu superior interesse e adotadas as salvaguardas legais cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2013.%20A%20pessoa%20com%20defici%C3%AAncia%20somente%20ser%C3%A1%20atendida%20sem%20seu%20consentimento%20pr%C3%A9vio%2C%20livre%20e%20esclarecido%20em%20casos%20de%20risco%20de%20morte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O processo de habilitação e de reabilitação é um direito da pessoa com deficiência.\n\nParágrafo único. O processo de habilitação e de reabilitação tem por objetivo o desenvolvimento de potencialidades, talentos, habilidades e aptidões físicas, cognitivas, sensoriais, psicossociais, atitudinais, profissionais e artísticas que contribuam para a conquista da autonomia da pessoa com deficiência e de sua participação social em igualdade de condições e oportunidades com as demais pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2014.%20O%20processo%20de%20habilita%C3%A7%C3%A3o%20e%20de%20reabilita%C3%A7%C3%A3o%20%C3%A9%20um%20direito%20da%20pessoa%20com%20defici%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O processo mencionado no art. 14 desta Lei baseia-se em avaliação multidisciplinar das necessidades, habilidades e potencialidades de cada pessoa, observadas as seguintes diretrizes:\n\nI - diagnóstico e intervenção precoces;\n\nII - adoção de medidas para compensar perda ou limitação funcional, buscando o desenvolvimento de aptidões;\n\nIII - atuação permanente, integrada e articulada de políticas públicas que possibilitem a plena participação social da pessoa com deficiência;\n\nIV - oferta de rede de serviços articulados, com atuação intersetorial, nos diferentes níveis de complexidade, para atender às necessidades específicas da pessoa com deficiência;\n\nV - prestação de serviços próximo ao domicílio da pessoa com deficiência, inclusive na zona rural, respeitadas a organização das Redes de Atenção à Saúde (RAS) nos territórios locais e as normas do Sistema Único de Saúde (SUS).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2015.%20O%20processo%20mencionado%20no%20art.%2014%20desta%20Lei%20baseia-se%20em%20avalia%C3%A7%C3%A3o%20multidisciplinar%20das%20necessidades%2C%20habilidades%20e%20potencialidades%20de%20cada%20pessoa%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Nos programas e serviços de habilitação e de reabilitação para a pessoa com deficiência, são garantidos:\n\nI - organização, serviços, métodos, técnicas e recursos para atender às características de cada pessoa com deficiência;\n\nII - acessibilidade em todos os ambientes e serviços;\n\nIII - tecnologia assistiva, tecnologia de reabilitação, materiais e equipamentos adequados e apoio técnico profissional, de acordo com as especificidades de cada pessoa com deficiência;\n\nIV - capacitação continuada de todos os profissionais que participem dos programas e serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2016.%20Nos%20programas%20e%20servi%C3%A7os%20de%20habilita%C3%A7%C3%A3o%20e%20de%20reabilita%C3%A7%C3%A3o%20para%20a%20pessoa%20com%20defici%C3%AAncia%2C%20s%C3%A3o%20garantidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os serviços do SUS e do Suas deverão promover ações articuladas para garantir à pessoa com deficiência e sua família a aquisição de informações, orientações e formas de acesso às políticas públicas disponíveis, com a finalidade de propiciar sua plena participação social.\n\nParágrafo único. Os serviços de que trata o caput deste artigo podem fornecer informações e orientações nas áreas de saúde, de educação, de cultura, de esporte, de lazer, de transporte, de previdência social, de assistência social, de habitação, de trabalho, de empreendedorismo, de acesso ao crédito, de promoção, proteção e defesa de direitos e nas demais áreas que possibilitem à pessoa com deficiência exercer sua cidadania.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2017.%20Os%20servi%C3%A7os%20do%20SUS%20e%20do%20Suas%20dever%C3%A3o%20promover%20a%C3%A7%C3%B5es%20articuladas%20para%20garantir%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20e%20sua%20fam%C3%ADlia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. É assegurada atenção integral à saúde da pessoa com deficiência em todos os níveis de complexidade, por intermédio do SUS, garantido acesso universal e igualitário.\n\n§ 1º É assegurada a participação da pessoa com deficiência na elaboração das políticas de saúde a ela destinadas.\n\n§ 2º É assegurado atendimento segundo normas éticas e técnicas, que regulamentarão a atuação dos profissionais de saúde e contemplarão aspectos relacionados aos direitos e às especificidades da pessoa com deficiência, incluindo temas como sua dignidade e autonomia.\n\n§ 3º Aos profissionais que prestam assistência à pessoa com deficiência, especialmente em serviços de habilitação e de reabilitação, deve ser garantida capacitação inicial e continuada.\n\n§ 4º As ações e os serviços de saúde pública destinados à pessoa com deficiência devem assegurar:\n\nI - diagnóstico e intervenção precoces, realizados por equipe multidisciplinar;\n\nII - serviços de habilitação e de reabilitação sempre que necessários, para qualquer tipo de deficiência, inclusive para a manutenção da melhor condição de saúde e qualidade de vida;\n\nIII - atendimento domiciliar multidisciplinar, tratamento ambulatorial e internação;\n\nIV - campanhas de vacinação;\n\nV - atendimento psicológico, inclusive para seus familiares e atendentes pessoais;\n\nV – atendimento psicológico, inclusive para seus familiares e atendentes pessoais, especialmente em caso de vitimização em crime contra a dignidade sexual; (Redação dada pela Lei nº 15.280, de 2025)\n\nVI - respeito à especificidade, à identidade de gênero e à orientação sexual da pessoa com deficiência;\n\nVII - atenção sexual e reprodutiva, incluindo o direito à fertilização assistida;\n\nVIII - informação adequada e acessível à pessoa com deficiência e a seus familiares sobre sua condição de saúde;\n\nIX - serviços projetados para prevenir a ocorrência e o desenvolvimento de deficiências e agravos adicionais;\n\nX - promoção de estratégias de capacitação permanente das equipes que atuam no SUS, em todos os níveis de atenção, no atendimento à pessoa com deficiência, bem como orientação a seus atendentes pessoais;\n\nXI - oferta de órteses, próteses, meios auxiliares de locomoção, medicamentos, insumos e fórmulas nutricionais, conforme as normas vigentes do Ministério da Saúde.\n\n§ 5º As diretrizes deste artigo aplicam-se também às instituições privadas que participem de forma complementar do SUS ou que recebam recursos públicos para sua manutenção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2018.%20%C3%89%20assegurada%20aten%C3%A7%C3%A3o%20integral%20%C3%A0%20sa%C3%BAde%20da%20pessoa%20com%20defici%C3%AAncia%20em%20todos%20os%20n%C3%ADveis%20de%20complexidade%2C%20por%20interm%C3%A9dio%20do%20SUS%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Compete ao SUS desenvolver ações destinadas à prevenção de deficiências por causas evitáveis, inclusive por meio de:\n\nI - acompanhamento da gravidez, do parto e do puerpério, com garantia de parto humanizado e seguro;\n\nII - promoção de práticas alimentares adequadas e saudáveis, vigilância alimentar e nutricional, prevenção e cuidado integral dos agravos relacionados à alimentação e nutrição da mulher e da criança;\n\nIII - aprimoramento e expansão dos programas de imunização e de triagem neonatal;\n\nIV - identificação e controle da gestante de alto risco.\n\nV - aprimoramento do atendimento neonatal, com a oferta de ações e serviços de prevenção de danos cerebrais e sequelas neurológicas em recém-nascidos, inclusive por telessaúde. (Incluído pela Lei nº 14.510, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2019.%20Compete%20ao%20SUS%20desenvolver%20a%C3%A7%C3%B5es%20destinadas%20%C3%A0%20preven%C3%A7%C3%A3o%20de%20defici%C3%AAncias%20por%20causas%20evit%C3%A1veis%2C%20inclusive%20por%20meio%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. As operadoras de planos e seguros privados de saúde são obrigadas a garantir à pessoa com deficiência, no mínimo, todos os serviços e produtos ofertados aos demais clientes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2020.%20As%20operadoras%20de%20planos%20e%20seguros%20privados%20de%20sa%C3%BAde%20s%C3%A3o%20obrigadas%20a%20garantir%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%2C%20no%20m%C3%ADnimo%2C%20todos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Quando esgotados os meios de atenção à saúde da pessoa com deficiência no local de residência, será prestado atendimento fora de domicílio, para fins de diagnóstico e de tratamento, garantidos o transporte e a acomodação da pessoa com deficiência e de seu acompanhante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2021.%20Quando%20esgotados%20os%20meios%20de%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20da%20pessoa%20com%20defici%C3%AAncia%20no%20local%20de%20resid%C3%AAncia%2C%20ser%C3%A1%20prestado%20atendimento%20fora",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. À pessoa com deficiência internada ou em observação é assegurado o direito a acompanhante ou a atendente pessoal, devendo o órgão ou a instituição de saúde proporcionar condições adequadas para sua permanência em tempo integral.\n\n§ 1º Na impossibilidade de permanência do acompanhante ou do atendente pessoal junto à pessoa com deficiência, cabe ao profissional de saúde responsável pelo tratamento justificá-la por escrito.\n\n§ 2º Na ocorrência da impossibilidade prevista no § 1º deste artigo, o órgão ou a instituição de saúde deve adotar as providências cabíveis para suprir a ausência do acompanhante ou do atendente pessoal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2022.%20%C3%80%20pessoa%20com%20defici%C3%AAncia%20internada%20ou%20em%20observa%C3%A7%C3%A3o%20%C3%A9%20assegurado%20o%20direito%20a%20acompanhante%20ou%20a%20atendente%20pessoal%2C%20devendo%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. São vedadas todas as formas de discriminação contra a pessoa com deficiência, inclusive por meio de cobrança de valores diferenciados por planos e seguros privados de saúde, em razão de sua condição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2023.%20S%C3%A3o%20vedadas%20todas%20as%20formas%20de%20discrimina%C3%A7%C3%A3o%20contra%20a%20pessoa%20com%20defici%C3%AAncia%2C%20inclusive%20por%20meio%20de%20cobran%C3%A7a%20de%20valores%20diferenciados",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. É assegurado à pessoa com deficiência o acesso aos serviços de saúde, tanto públicos como privados, e às informações prestadas e recebidas, por meio de recursos de tecnologia assistiva e de todas as formas de comunicação previstas no inciso V do art. 3º desta Lei.\n\nParágrafo único. Os serviços públicos de saúde implementarão sistemas de comunicação aumentativa e alternativa de baixa tecnologia e promoverão a capacitação permanente das suas equipes para o atendimento de pessoas com necessidades complexas de comunicação. (Incluído pela Lei nº 15.249, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2024.%20%C3%89%20assegurado%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20o%20acesso%20aos%20servi%C3%A7os%20de%20sa%C3%BAde%2C%20tanto%20p%C3%BAblicos%20como%20privados%2C%20e%20%C3%A0s%20informa%C3%A7%C3%B5es%20prestadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os espaços dos serviços de saúde, tanto públicos quanto privados, devem assegurar o acesso da pessoa com deficiência, em conformidade com a legislação em vigor, mediante a remoção de barreiras, por meio de projetos arquitetônico, de ambientação de interior e de comunicação que atendam às especificidades das pessoas com deficiência física, sensorial, intelectual e mental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2025.%20Os%20espa%C3%A7os%20dos%20servi%C3%A7os%20de%20sa%C3%BAde%2C%20tanto%20p%C3%BAblicos%20quanto%20privados%2C%20devem%20assegurar%20o%20acesso%20da%20pessoa%20com%20defici%C3%AAncia%2C%20em%20conformidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Os casos de suspeita ou de confirmação de violência praticada contra a pessoa com deficiência serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade policial e ao Ministério Público, além dos Conselhos dos Direitos da Pessoa com Deficiência.\n\nParágrafo único. Para os efeitos desta Lei, considera-se violência contra a pessoa com deficiência qualquer ação ou omissão, praticada em local público ou privado, que lhe cause morte ou dano ou sofrimento físico ou psicológico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2026.%20Os%20casos%20de%20suspeita%20ou%20de%20confirma%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20praticada%20contra%20a%20pessoa%20com%20defici%C3%AAncia%20ser%C3%A3o%20objeto%20de%20notifica%C3%A7%C3%A3o%20compuls%C3%B3ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A educação constitui direito da pessoa com deficiência, assegurados sistema educacional inclusivo em todos os níveis e aprendizado ao longo de toda a vida, de forma a alcançar o máximo desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e necessidades de aprendizagem.\n\nParágrafo único. É dever do Estado, da família, da comunidade escolar e da sociedade assegurar educação de qualidade à pessoa com deficiência, colocando-a a salvo de toda forma de violência, negligência e discriminação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2027.%20A%20educa%C3%A7%C3%A3o%20constitui%20direito%20da%20pessoa%20com%20defici%C3%AAncia%2C%20assegurados%20sistema%20educacional%20inclusivo%20em%20todos%20os%20n%C3%ADveis%20e%20aprendizado%20ao%20longo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Incumbe ao poder público assegurar, criar, desenvolver, implementar, incentivar, acompanhar e avaliar:\n\nI - sistema educacional inclusivo em todos os níveis e modalidades, bem como o aprendizado ao longo de toda a vida;\n\nII - aprimoramento dos sistemas educacionais, visando a garantir condições de acesso, permanência, participação e aprendizagem, por meio da oferta de serviços e de recursos de acessibilidade que eliminem as barreiras e promovam a inclusão plena;\n\nIII - projeto pedagógico que institucionalize o atendimento educacional especializado, assim como os demais serviços e adaptações razoáveis, para atender às características dos estudantes com deficiência e garantir o seu pleno acesso ao currículo em condições de igualdade, promovendo a conquista e o exercício de sua autonomia;\n\nIV - oferta de educação bilíngue, em Libras como primeira língua e na modalidade escrita da língua portuguesa como segunda língua, em escolas e classes bilíngues e em escolas inclusivas;\n\nV - adoção de medidas individualizadas e coletivas em ambientes que maximizem o desenvolvimento acadêmico e social dos estudantes com deficiência, favorecendo o acesso, a permanência, a participação e a aprendizagem em instituições de ensino;\n\nVI - pesquisas voltadas para o desenvolvimento de novos métodos e técnicas pedagógicas, de materiais didáticos, de equipamentos e de recursos de tecnologia assistiva;\n\nVII - planejamento de estudo de caso, de elaboração de plano de atendimento educacional especializado, de organização de recursos e serviços de acessibilidade e de disponibilização e usabilidade pedagógica de recursos de tecnologia assistiva;\n\nVIII - participação dos estudantes com deficiência e de suas famílias nas diversas instâncias de atuação da comunidade escolar;\n\nIX - adoção de medidas de apoio que favoreçam o desenvolvimento dos aspectos linguísticos, culturais, vocacionais e profissionais, levando-se em conta o talento, a criatividade, as habilidades e os interesses do estudante com deficiência;\n\nX - adoção de práticas pedagógicas inclusivas pelos programas de formação inicial e continuada de professores e oferta de formação continuada para o atendimento educacional especializado;\n\nXI - formação e disponibilização de professores para o atendimento educacional especializado, de tradutores e intérpretes da Libras, de guias intérpretes e de profissionais de apoio;\n\nXII - oferta de ensino da Libras, do Sistema Braille e de uso de recursos de tecnologia assistiva, de forma a ampliar habilidades funcionais dos estudantes, promovendo sua autonomia e participação;\n\nXIII - acesso à educação superior e à educação profissional e tecnológica em igualdade de oportunidades e condições com as demais pessoas;\n\nXIV - inclusão em conteúdos curriculares, em cursos de nível superior e de educação profissional técnica e tecnológica, de temas relacionados à pessoa com deficiência nos respectivos campos de conhecimento;\n\nXV - acesso da pessoa com deficiência, em igualdade de condições, a jogos e a atividades recreativas, esportivas e de lazer, no sistema escolar;\n\nXVI - acessibilidade para todos os estudantes, trabalhadores da educação e demais integrantes da comunidade escolar às edificações, aos ambientes e às atividades concernentes a todas as modalidades, etapas e níveis de ensino;\n\nXVII - oferta de profissionais de apoio escolar;\n\nXVIII - articulação intersetorial na implementação de políticas públicas.\n\nXIX – sistemas de comunicação aumentativa e alternativa de baixa tecnologia para o atendimento educacional especializado de estudantes com necessidades complexas de comunicação. (Incluído pela Lei nº 15.249, de 2025)\n\n§ 1º Às instituições privadas, de qualquer nível e modalidade de ensino, aplica-se obrigatoriamente o disposto nos incisos I, II, III, V, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII e XVIII do caput deste artigo, sendo vedada a cobrança de valores adicionais de qualquer natureza em suas mensalidades, anuidades e matrículas no cumprimento dessas determinações.\n\n§ 2º Na disponibilização de tradutores e intérpretes da Libras a que se refere o inciso XI do caput deste artigo, deve-se observar o seguinte:\n\nI - os tradutores e intérpretes da Libras atuantes na educação básica devem, no mínimo, possuir ensino médio completo e certificado de proficiência na Libras; (Vigência)\n\nII - os tradutores e intérpretes da Libras, quando direcionados à tarefa de interpretar nas salas de aula dos cursos de graduação e pós-graduação, devem possuir nível superior, com habilitação, prioritariamente, em Tradução e Interpretação em Libras. (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2028.%20Incumbe%20ao%20poder%20p%C3%BAblico%20assegurar%2C%20criar%2C%20desenvolver%2C%20implementar%2C%20incentivar%2C%20acompanhar%20e%20avaliar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2029.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Nos processos seletivos para ingresso e permanência nos cursos oferecidos pelas instituições de ensino superior e de educação profissional e tecnológica, públicas e privadas, devem ser adotadas as seguintes medidas:\n\nI - atendimento preferencial à pessoa com deficiência nas dependências das Instituições de Ensino Superior (IES) e nos serviços;\n\nII - disponibilização de formulário de inscrição de exames com campos específicos para que o candidato com deficiência informe os recursos de acessibilidade e de tecnologia assistiva necessários para sua participação;\n\nIII - disponibilização de provas em formatos acessíveis para atendimento às necessidades específicas do candidato com deficiência;\n\nIV - disponibilização de recursos de acessibilidade e de tecnologia assistiva adequados, previamente solicitados e escolhidos pelo candidato com deficiência;\n\nV - dilação de tempo, conforme demanda apresentada pelo candidato com deficiência, tanto na realização de exame para seleção quanto nas atividades acadêmicas, mediante prévia solicitação e comprovação da necessidade;\n\nVI - adoção de critérios de avaliação das provas escritas, discursivas ou de redação que considerem a singularidade linguística da pessoa com deficiência, no domínio da modalidade escrita da língua portuguesa;\n\nVII - tradução completa do edital e de suas retificações em Libras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2030.%20Nos%20processos%20seletivos%20para%20ingresso%20e%20perman%C3%AAncia%20nos%20cursos%20oferecidos%20pelas%20institui%C3%A7%C3%B5es%20de%20ensino%20superior%20e%20de%20educa%C3%A7%C3%A3o%20profissional%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A pessoa com deficiência tem direito à moradia digna, no seio da família natural ou substituta, com seu cônjuge ou companheiro ou desacompanhada, ou em moradia para a vida independente da pessoa com deficiência, ou, ainda, em residência inclusiva.\n\n§ 1º O poder público adotará programas e ações estratégicas para apoiar a criação e a manutenção de moradia para a vida independente da pessoa com deficiência.\n\n§ 2º A proteção integral na modalidade de residência inclusiva será prestada no âmbito do Suas à pessoa com deficiência em situação de dependência que não disponha de condições de autossustentabilidade, com vínculos familiares fragilizados ou rompidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2031.%20A%20pessoa%20com%20defici%C3%AAncia%20tem%20direito%20%C3%A0%20moradia%20digna%2C%20no%20seio%20da%20fam%C3%ADlia%20natural%20ou%20substituta%2C%20com%20seu%20c%C3%B4njuge%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Nos programas habitacionais, públicos ou subsidiados com recursos públicos, a pessoa com deficiência ou o seu responsável goza de prioridade na aquisição de imóvel para moradia própria, observado o seguinte:\n\nI - reserva de, no mínimo, 3% (três por cento) das unidades habitacionais para pessoa com deficiência;\n\nII - (VETADO);\n\nIII - em caso de edificação multifamiliar, garantia de acessibilidade nas áreas de uso comum e nas unidades habitacionais no piso térreo e de acessibilidade ou de adaptação razoável nos demais pisos;\n\nIV - disponibilização de equipamentos urbanos comunitários acessíveis;\n\nV - elaboração de especificações técnicas no projeto que permitam a instalação de elevadores.\n\n§ 1º O direito à prioridade, previsto no caput deste artigo, será reconhecido à pessoa com deficiência beneficiária apenas uma vez.\n\n§ 2º Nos programas habitacionais públicos, os critérios de financiamento devem ser compatíveis com os rendimentos da pessoa com deficiência ou de sua família.\n\n§ 3º Caso não haja pessoa com deficiência interessada nas unidades habitacionais reservadas por força do disposto no inciso I do caput deste artigo, as unidades não utilizadas serão disponibilizadas às demais pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2032.%20Nos%20programas%20habitacionais%2C%20p%C3%BAblicos%20ou%20subsidiados%20com%20recursos%20p%C3%BAblicos%2C%20a%20pessoa%20com%20defici%C3%AAncia%20ou%20o%20seu%20respons%C3%A1vel%20goza%20de%20prioridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Ao poder público compete:\n\nI - adotar as providências necessárias para o cumprimento do disposto nos arts. 31 e 32 desta Lei; e\n\nII - divulgar, para os agentes interessados e beneficiários, a política habitacional prevista nas legislações federal, estaduais, distrital e municipais, com ênfase nos dispositivos sobre acessibilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2033.%20Ao%20poder%20p%C3%BAblico%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A pessoa com deficiência tem direito ao trabalho de sua livre escolha e aceitação, em ambiente acessível e inclusivo, em igualdade de oportunidades com as demais pessoas.\n\n§ 1º As pessoas jurídicas de direito público, privado ou de qualquer natureza são obrigadas a garantir ambientes de trabalho acessíveis e inclusivos.\n\n§ 2º A pessoa com deficiência tem direito, em igualdade de oportunidades com as demais pessoas, a condições justas e favoráveis de trabalho, incluindo igual remuneração por trabalho de igual valor.\n\n§ 3º É vedada restrição ao trabalho da pessoa com deficiência e qualquer discriminação em razão de sua condição, inclusive nas etapas de recrutamento, seleção, contratação, admissão, exames admissional e periódico, permanência no emprego, ascensão profissional e reabilitação profissional, bem como exigência de aptidão plena.\n\n§ 4º A pessoa com deficiência tem direito à participação e ao acesso a cursos, treinamentos, educação continuada, planos de carreira, promoções, bonificações e incentivos profissionais oferecidos pelo empregador, em igualdade de oportunidades com os demais empregados.\n\n§ 5º É garantida aos trabalhadores com deficiência acessibilidade em cursos de formação e de capacitação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2034.%20A%20pessoa%20com%20defici%C3%AAncia%20tem%20direito%20ao%20trabalho%20de%20sua%20livre%20escolha%20e%20aceita%C3%A7%C3%A3o%2C%20em%20ambiente%20acess%C3%ADvel%20e%20inclusivo%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. É finalidade primordial das políticas públicas de trabalho e emprego promover e garantir condições de acesso e de permanência da pessoa com deficiência no campo de trabalho.\n\nParágrafo único. Os programas de estímulo ao empreendedorismo e ao trabalho autônomo, incluídos o cooperativismo e o associativismo, devem prever a participação da pessoa com deficiência e a disponibilização de linhas de crédito, quando necessárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2035.%20%C3%89%20finalidade%20primordial%20das%20pol%C3%ADticas%20p%C3%BAblicas%20de%20trabalho%20e%20emprego%20promover%20e%20garantir%20condi%C3%A7%C3%B5es%20de%20acesso%20e%20de%20perman%C3%AAncia%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O poder público deve implementar serviços e programas completos de habilitação profissional e de reabilitação profissional para que a pessoa com deficiência possa ingressar, continuar ou retornar ao campo do trabalho, respeitados sua livre escolha, sua vocação e seu interesse.\n\n§ 1º Equipe multidisciplinar indicará, com base em critérios previstos no § 1º do art. 2º desta Lei, programa de habilitação ou de reabilitação que possibilite à pessoa com deficiência restaurar sua capacidade e habilidade profissional ou adquirir novas capacidades e habilidades de trabalho.\n\n§ 2º A habilitação profissional corresponde ao processo destinado a propiciar à pessoa com deficiência aquisição de conhecimentos, habilidades e aptidões para exercício de profissão ou de ocupação, permitindo nível suficiente de desenvolvimento profissional para ingresso no campo de trabalho.\n\n§ 3º Os serviços de habilitação profissional, de reabilitação profissional e de educação profissional devem ser dotados de recursos necessários para atender a toda pessoa com deficiência, independentemente de sua característica específica, a fim de que ela possa ser capacitada para trabalho que lhe seja adequado e ter perspectivas de obtê-lo, de conservá-lo e de nele progredir.\n\n§ 4º Os serviços de habilitação profissional, de reabilitação profissional e de educação profissional deverão ser oferecidos em ambientes acessíveis e inclusivos.\n\n§ 5º A habilitação profissional e a reabilitação profissional devem ocorrer articuladas com as redes públicas e privadas, especialmente de saúde, de ensino e de assistência social, em todos os níveis e modalidades, em entidades de formação profissional ou diretamente com o empregador.\n\n§ 6º A habilitação profissional pode ocorrer em empresas por meio de prévia formalização do contrato de emprego da pessoa com deficiência, que será considerada para o cumprimento da reserva de vagas prevista em lei, desde que por tempo determinado e concomitante com a inclusão profissional na empresa, observado o disposto em regulamento.\n\n§ 7º A habilitação profissional e a reabilitação profissional atenderão à pessoa com deficiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2036.%20O%20poder%20p%C3%BAblico%20deve%20implementar%20servi%C3%A7os%20e%20programas%20completos%20de%20habilita%C3%A7%C3%A3o%20profissional%20e%20de%20reabilita%C3%A7%C3%A3o%20profissional%20para%20que%20a%20pessoa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Constitui modo de inclusão da pessoa com deficiência no trabalho a colocação competitiva, em igualdade de oportunidades com as demais pessoas, nos termos da legislação trabalhista e previdenciária, na qual devem ser atendidas as regras de acessibilidade, o fornecimento de recursos de tecnologia assistiva e a adaptação razoável no ambiente de trabalho.\n\nParágrafo único. A colocação competitiva da pessoa com deficiência pode ocorrer por meio de trabalho com apoio, observadas as seguintes diretrizes:\n\nI - prioridade no atendimento à pessoa com deficiência com maior dificuldade de inserção no campo de trabalho;\n\nII - provisão de suportes individualizados que atendam a necessidades específicas da pessoa com deficiência, inclusive a disponibilização de recursos de tecnologia assistiva, de agente facilitador e de apoio no ambiente de trabalho;\n\nIII - respeito ao perfil vocacional e ao interesse da pessoa com deficiência apoiada;\n\nIV - oferta de aconselhamento e de apoio aos empregadores, com vistas à definição de estratégias de inclusão e de superação de barreiras, inclusive atitudinais;\n\nV - realização de avaliações periódicas;\n\nVI - articulação intersetorial das políticas públicas;\n\nVII - possibilidade de participação de organizações da sociedade civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2037.%20Constitui%20modo%20de%20inclus%C3%A3o%20da%20pessoa%20com%20defici%C3%AAncia%20no%20trabalho%20a%20coloca%C3%A7%C3%A3o%20competitiva%2C%20em%20igualdade%20de%20oportunidades%20com%20as%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A entidade contratada para a realização de processo seletivo público ou privado para cargo, função ou emprego está obrigada à observância do disposto nesta Lei e em outras normas de acessibilidade vigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2038.%20A%20entidade%20contratada%20para%20a%20realiza%C3%A7%C3%A3o%20de%20processo%20seletivo%20p%C3%BAblico%20ou%20privado%20para%20cargo%2C%20fun%C3%A7%C3%A3o%20ou%20emprego%20est%C3%A1%20obrigada%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Os serviços, os programas, os projetos e os benefícios no âmbito da política pública de assistência social à pessoa com deficiência e sua família têm como objetivo a garantia da segurança de renda, da acolhida, da habilitação e da reabilitação, do desenvolvimento da autonomia e da convivência familiar e comunitária, para a promoção do acesso a direitos e da plena participação social.\n\n§ 1º A assistência social à pessoa com deficiência, nos termos do caput deste artigo, deve envolver conjunto articulado de serviços do âmbito da Proteção Social Básica e da Proteção Social Especial, ofertados pelo Suas, para a garantia de seguranças fundamentais no enfrentamento de situações de vulnerabilidade e de risco, por fragilização de vínculos e ameaça ou violação de direitos.\n\n§ 2º Os serviços socioassistenciais destinados à pessoa com deficiência em situação de dependência deverão contar com cuidadores sociais para prestar-lhe cuidados básicos e instrumentais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2039.%20Os%20servi%C3%A7os%2C%20os%20programas%2C%20os%20projetos%20e%20os%20benef%C3%ADcios%20no%20%C3%A2mbito%20da%20pol%C3%ADtica%20p%C3%BAblica%20de%20assist%C3%AAncia%20social%20%C3%A0%20pessoa%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. É assegurado à pessoa com deficiência que não possua meios para prover sua subsistência nem de tê-la provida por sua família o benefício mensal de 1 (um) salário-mínimo, nos termos da Lei nº 8.742, de 7 de dezembro de 1993 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2040.%20%C3%89%20assegurado%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20que%20n%C3%A3o%20possua%20meios%20para%20prover%20sua%20subsist%C3%AAncia%20nem%20de%20t%C3%AA-la%20provida%20por%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A pessoa com deficiência segurada do Regime Geral de Previdência Social (RGPS) tem direito à aposentadoria nos termos da Lei Complementar nº 142, de 8 de maio de 2013 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2041.%20A%20pessoa%20com%20defici%C3%AAncia%20segurada%20do%20Regime%20Geral%20de%20Previd%C3%AAncia%20Social%20%28RGPS%29%20tem%20direito%20%C3%A0%20aposentadoria%20nos%20termos%20da%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. A pessoa com deficiência tem direito à cultura, ao esporte, ao turismo e ao lazer em igualdade de oportunidades com as demais pessoas, sendo-lhe garantido o acesso:\n\nI - a bens culturais em formato acessível;\n\nII - a programas de televisão, cinema, teatro e outras atividades culturais e desportivas em formato acessível; e\n\nIII - a monumentos e locais de importância cultural e a espaços que ofereçam serviços ou eventos culturais e esportivos.\n\n§ 1º É vedada a recusa de oferta de obra intelectual em formato acessível à pessoa com deficiência, sob qualquer argumento, inclusive sob a alegação de proteção dos direitos de propriedade intelectual.\n\n§ 2º O poder público deve adotar soluções destinadas à eliminação, à redução ou à superação de barreiras para a promoção do acesso a todo patrimônio cultural, observadas as normas de acessibilidade, ambientais e de proteção do patrimônio histórico e artístico nacional.\n\n§ 3º O poder público incentivará que museus, exposições, monumentos, exibições e galerias empreguem técnicas de comunicação aumentativa e alternativa para a acessibilidade de pessoas com necessidades complexas de comunicação. (Incluído pela Lei nº 15.249, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2042.%20A%20pessoa%20com%20defici%C3%AAncia%20tem%20direito%20%C3%A0%20cultura%2C%20ao%20esporte%2C%20ao%20turismo%20e%20ao%20lazer%20em%20igualdade%20de%20oportunidades%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O poder público deve promover a participação da pessoa com deficiência em atividades artísticas, intelectuais, culturais, esportivas e recreativas, com vistas ao seu protagonismo, devendo:\n\nI - incentivar a provisão de instrução, de treinamento e de recursos adequados, em igualdade de oportunidades com as demais pessoas;\n\nII - assegurar acessibilidade nos locais de eventos e nos serviços prestados por pessoa ou entidade envolvida na organização das atividades de que trata este artigo; e\n\nIII - assegurar a participação da pessoa com deficiência em jogos e atividades recreativas, esportivas, de lazer, culturais e artísticas, inclusive no sistema escolar, em igualdade de condições com as demais pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2043.%20O%20poder%20p%C3%BAblico%20deve%20promover%20a%20participa%C3%A7%C3%A3o%20da%20pessoa%20com%20defici%C3%AAncia%20em%20atividades%20art%C3%ADsticas%2C%20intelectuais%2C%20culturais%2C%20esportivas%20e%20recreativas%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Nos teatros, cinemas, auditórios, estádios, ginásios de esporte, locais de espetáculos e de conferências e similares, serão reservados espaços livres e assentos para a pessoa com deficiência, de acordo com a capacidade de lotação da edificação, observado o disposto em regulamento.\n\n§ 1º Os espaços e assentos a que se refere este artigo devem ser distribuídos pelo recinto em locais diversos, de boa visibilidade, em todos os setores, próximos aos corredores, devidamente sinalizados, evitando-se áreas segregadas de público e obstrução das saídas, em conformidade com as normas de acessibilidade.\n\n§ 2º No caso de não haver comprovada procura pelos assentos reservados, esses podem, excepcionalmente, ser ocupados por pessoas sem deficiência ou que não tenham mobilidade reduzida, observado o disposto em regulamento.\n\n§ 3º Os espaços e assentos a que se refere este artigo devem situar-se em locais que garantam a acomodação de, no mínimo, 1 (um) acompanhante da pessoa com deficiência ou com mobilidade reduzida, resguardado o direito de se acomodar proximamente a grupo familiar e comunitário.\n\n§ 4º Nos locais referidos no caput deste artigo, deve haver, obrigatoriamente, rotas de fuga e saídas de emergência acessíveis, conforme padrões das normas de acessibilidade, a fim de permitir a saída segura da pessoa com deficiência ou com mobilidade reduzida, em caso de emergência.\n\n§ 5º Todos os espaços das edificações previstas no caput deste artigo devem atender às normas de acessibilidade em vigor.\n\n§ 6º As salas de cinema devem oferecer, em todas as sessões, recursos de acessibilidade para a pessoa com deficiência. (Vigência)\n\n§ 7º O valor do ingresso da pessoa com deficiência não poderá ser superior ao valor cobrado das demais pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2044.%20Nos%20teatros%2C%20cinemas%2C%20audit%C3%B3rios%2C%20est%C3%A1dios%2C%20gin%C3%A1sios%20de%20esporte%2C%20locais%20de%20espet%C3%A1culos%20e%20de%20confer%C3%AAncias%20e%20similares%2C%20ser%C3%A3o%20reservados%20espa%C3%A7os%20livres",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os hotéis, pousadas e similares devem ser construídos observando-se os princípios do desenho universal, além de adotar todos os meios de acessibilidade, conforme legislação em vigor. (Vigência) (Reglamento)\n\n§ 1º Os estabelecimentos já existentes deverão disponibilizar, pelo menos, 10% (dez por cento) de seus dormitórios acessíveis, garantida, no mínimo, 1 (uma) unidade acessível.\n\n§ 2º Os dormitórios mencionados no § 1º deste artigo deverão ser localizados em rotas acessíveis.\n\n§ 3º Os meios de hospedagem já existentes que, por impossibilidade técnica decorrente de riscos estruturais da edificação, não possam cumprir o percentual estipulado no § 1º deste artigo, ficam dispensados dessa exigência mediante comprovação por laudo técnico estrutural, que deverá ser renovado a cada 5 (cinco) anos. (Incluído pela Lei nº 14.978, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2045.%20Os%20hot%C3%A9is%2C%20pousadas%20e%20similares%20devem%20ser%20constru%C3%ADdos%20observando-se%20os%20princ%C3%ADpios%20do%20desenho%20universal%2C%20al%C3%A9m%20de%20adotar%20todos%20os%20meios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O direito ao transporte e à mobilidade da pessoa com deficiência ou com mobilidade reduzida será assegurado em igualdade de oportunidades com as demais pessoas, por meio de identificação e de eliminação de todos os obstáculos e barreiras ao seu acesso.\n\n§ 1º Para fins de acessibilidade aos serviços de transporte coletivo terrestre, aquaviário e aéreo, em todas as jurisdições, consideram-se como integrantes desses serviços os veículos, os terminais, as estações, os pontos de parada, o sistema viário e a prestação do serviço.\n\n§ 2º São sujeitas ao cumprimento das disposições desta Lei, sempre que houver interação com a matéria nela regulada, a outorga, a concessão, a permissão, a autorização, a renovação ou a habilitação de linhas e de serviços de transporte coletivo.\n\n§ 3º Para colocação do símbolo internacional de acesso nos veículos, as empresas de transporte coletivo de passageiros dependem da certificação de acessibilidade emitida pelo gestor público responsável pela prestação do serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2046.%20O%20direito%20ao%20transporte%20e%20%C3%A0%20mobilidade%20da%20pessoa%20com%20defici%C3%AAncia%20ou%20com%20mobilidade%20reduzida%20ser%C3%A1%20assegurado%20em%20igualdade%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Em todas as áreas de estacionamento aberto ao público, de uso público ou privado de uso coletivo e em vias públicas, devem ser reservadas vagas próximas aos acessos de circulação de pedestres, devidamente sinalizadas, para veículos que transportem pessoa com deficiência com comprometimento de mobilidade, desde que devidamente identificados.\n\n§ 1º As vagas a que se refere o caput deste artigo devem equivaler a 2% (dois por cento) do total, garantida, no mínimo, 1 (uma) vaga devidamente sinalizada e com as especificações de desenho e traçado de acordo com as normas técnicas vigentes de acessibilidade.\n\n§ 2º Os veículos estacionados nas vagas reservadas devem exibir, em local de ampla visibilidade, a credencial de beneficiário, a ser confeccionada e fornecida pelos órgãos de trânsito, que disciplinarão suas características e condições de uso.\n\n§ 3º A utilização indevida das vagas de que trata este artigo sujeita os infratores às sanções previstas no inciso XVII do art. 181 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) .\n\n§ 3º A utilização indevida das vagas de que trata este artigo sujeita os infratores às sanções previstas no inciso XX do art. 181 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) . (Redação dada pela Lei nº 13.281, de 2016) (Vigência)\n\n§ 4º A credencial a que se refere o § 2º deste artigo é vinculada à pessoa com deficiência que possui comprometimento de mobilidade e é válida em todo o território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2047.%20Em%20todas%20as%20%C3%A1reas%20de%20estacionamento%20aberto%20ao%20p%C3%BAblico%2C%20de%20uso%20p%C3%BAblico%20ou%20privado%20de%20uso%20coletivo%20e%20em%20vias",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os veículos de transporte coletivo terrestre, aquaviário e aéreo, as instalações, as estações, os portos e os terminais em operação no País devem ser acessíveis, de forma a garantir o seu uso por todas as pessoas.\n\n§ 1º Os veículos e as estruturas de que trata o caput deste artigo devem dispor de sistema de comunicação acessível que disponibilize informações sobre todos os pontos do itinerário.\n\n§ 2º São asseguradas à pessoa com deficiência prioridade e segurança nos procedimentos de embarque e de desembarque nos veículos de transporte coletivo, de acordo com as normas técnicas.\n\n§ 3º Para colocação do símbolo internacional de acesso nos veículos, as empresas de transporte coletivo de passageiros dependem da certificação de acessibilidade emitida pelo gestor público responsável pela prestação do serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2048.%20Os%20ve%C3%ADculos%20de%20transporte%20coletivo%20terrestre%2C%20aquavi%C3%A1rio%20e%20a%C3%A9reo%2C%20as%20instala%C3%A7%C3%B5es%2C%20as%20esta%C3%A7%C3%B5es%2C%20os%20portos%20e%20os%20terminais%20em%20opera%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. As empresas de transporte de fretamento e de turismo, na renovação de suas frotas, são obrigadas ao cumprimento do disposto nos arts. 46 e 48 desta Lei. (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2049.%20As%20empresas%20de%20transporte%20de%20fretamento%20e%20de%20turismo%2C%20na%20renova%C3%A7%C3%A3o%20de%20suas%20frotas%2C%20s%C3%A3o%20obrigadas%20ao%20cumprimento%20do%20disposto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. O poder público incentivará a fabricação de veículos acessíveis e a sua utilização como táxis e vans , de forma a garantir o seu uso por todas as pessoas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2050.%20O%20poder%20p%C3%BAblico%20incentivar%C3%A1%20a%20fabrica%C3%A7%C3%A3o%20de%20ve%C3%ADculos%20acess%C3%ADveis%20e%20a%20sua%20utiliza%C3%A7%C3%A3o%20como%20t%C3%A1xis%20e%20vans%20%2C%20de%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. As frotas de empresas de táxi devem reservar 10% (dez por cento) de seus veículos acessíveis à pessoa com deficiência. (Vide Decreto nº 9.762, de 2019) (Vigência)\n\n§ 1º É proibida a cobrança diferenciada de tarifas ou de valores adicionais pelo serviço de táxi prestado à pessoa com deficiência.\n\n§ 2º O poder público é autorizado a instituir incentivos fiscais com vistas a possibilitar a acessibilidade dos veículos a que se refere o caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2051.%20As%20frotas%20de%20empresas%20de%20t%C3%A1xi%20devem%20reservar%2010%25%20%28dez%20por%20cento%29%20de%20seus%20ve%C3%ADculos%20acess%C3%ADveis%20%C3%A0%20pessoa%20com%20defici%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. As locadoras de veículos são obrigadas a oferecer 1 (um) veículo adaptado para uso de pessoa com deficiência, a cada conjunto de 20 (vinte) veículos de sua frota. (Vide Decreto nº 9.762, de 2019) (Vigência)\n\nParágrafo único. O veículo adaptado deverá ter, no mínimo, câmbio automático, direção hidráulica, vidros elétricos e comandos manuais de freio e de embreagem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2052.%20As%20locadoras%20de%20ve%C3%ADculos%20s%C3%A3o%20obrigadas%20a%20oferecer%201%20%28um%29%20ve%C3%ADculo%20adaptado%20para%20uso%20de%20pessoa%20com%20defici%C3%AAncia%2C%20a%20cada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A acessibilidade é direito que garante à pessoa com deficiência ou com mobilidade reduzida viver de forma independente e exercer seus direitos de cidadania e de participação social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2053.%20A%20acessibilidade%20%C3%A9%20direito%20que%20garante%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20ou%20com%20mobilidade%20reduzida%20viver%20de%20forma%20independente%20e%20exercer",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. São sujeitas ao cumprimento das disposições desta Lei e de outras normas relativas à acessibilidade, sempre que houver interação com a matéria nela regulada:\n\nI - a aprovação de projeto arquitetônico e urbanístico ou de comunicação e informação, a fabricação de veículos de transporte coletivo, a prestação do respectivo serviço e a execução de qualquer tipo de obra, quando tenham destinação pública ou coletiva;\n\nII - a outorga ou a renovação de concessão, permissão, autorização ou habilitação de qualquer natureza;\n\nIII - a aprovação de financiamento de projeto com utilização de recursos públicos, por meio de renúncia ou de incentivo fiscal, contrato, convênio ou instrumento congênere; e\n\nIV - a concessão de aval da União para obtenção de empréstimo e de financiamento internacionais por entes públicos ou privados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2054.%20S%C3%A3o%20sujeitas%20ao%20cumprimento%20das%20disposi%C3%A7%C3%B5es%20desta%20Lei%20e%20de%20outras%20normas%20relativas%20%C3%A0%20acessibilidade%2C%20sempre%20que%20houver%20intera%C3%A7%C3%A3o%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A concepção e a implantação de projetos que tratem do meio físico, de transporte, de informação e comunicação, inclusive de sistemas e tecnologias da informação e comunicação, e de outros serviços, equipamentos e instalações abertos ao público, de uso público ou privado de uso coletivo, tanto na zona urbana como na rural, devem atender aos princípios do desenho universal, tendo como referência as normas de acessibilidade.\n\n§ 1º O desenho universal será sempre tomado como regra de caráter geral.\n\n§ 2º Nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável.\n\n§ 3º Caberá ao poder público promover a inclusão de conteúdos temáticos referentes ao desenho universal nas diretrizes curriculares da educação profissional e tecnológica e do ensino superior e na formação das carreiras de Estado.\n\n§ 4º Os programas, os projetos e as linhas de pesquisa a serem desenvolvidos com o apoio de organismos públicos de auxílio à pesquisa e de agências de fomento deverão incluir temas voltados para o desenho universal.\n\n§ 5º Desde a etapa de concepção, as políticas públicas deverão considerar a adoção do desenho universal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2055.%20A%20concep%C3%A7%C3%A3o%20e%20a%20implanta%C3%A7%C3%A3o%20de%20projetos%20que%20tratem%20do%20meio%20f%C3%ADsico%2C%20de%20transporte%2C%20de%20informa%C3%A7%C3%A3o%20e%20comunica%C3%A7%C3%A3o%2C%20inclusive%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. A construção, a reforma, a ampliação ou a mudança de uso de edificações abertas ao público, de uso público ou privadas de uso coletivo deverão ser executadas de modo a serem acessíveis.\n\n§ 1º As entidades de fiscalização profissional das atividades de Engenharia, de Arquitetura e correlatas, ao anotarem a responsabilidade técnica de projetos, devem exigir a responsabilidade profissional declarada de atendimento às regras de acessibilidade previstas em legislação e em normas técnicas pertinentes.\n\n§ 2º Para a aprovação, o licenciamento ou a emissão de certificado de projeto executivo arquitetônico, urbanístico e de instalações e equipamentos temporários ou permanentes e para o licenciamento ou a emissão de certificado de conclusão de obra ou de serviço, deve ser atestado o atendimento às regras de acessibilidade.\n\n§ 3º O poder público, após certificar a acessibilidade de edificação ou de serviço, determinará a colocação, em espaços ou em locais de ampla visibilidade, do símbolo internacional de acesso, na forma prevista em legislação e em normas técnicas correlatas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2056.%20A%20constru%C3%A7%C3%A3o%2C%20a%20reforma%2C%20a%20amplia%C3%A7%C3%A3o%20ou%20a%20mudan%C3%A7a%20de%20uso%20de%20edifica%C3%A7%C3%B5es%20abertas%20ao%20p%C3%BAblico%2C%20de%20uso%20p%C3%BAblico%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. As edificações públicas e privadas de uso coletivo já existentes devem garantir acessibilidade à pessoa com deficiência em todas as suas dependências e serviços, tendo como referência as normas de acessibilidade vigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2057.%20As%20edifica%C3%A7%C3%B5es%20p%C3%BAblicas%20e%20privadas%20de%20uso%20coletivo%20j%C3%A1%20existentes%20devem%20garantir%20acessibilidade%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20em%20todas%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. O projeto e a construção de edificação de uso privado multifamiliar devem atender aos preceitos de acessibilidade, na forma regulamentar. (Regulamento)\n\n§ 1º As construtoras e incorporadoras responsáveis pelo projeto e pela construção das edificações a que se refere o caput deste artigo devem assegurar percentual mínimo de suas unidades internamente acessíveis, na forma regulamentar.\n\n§ 2º É vedada a cobrança de valores adicionais para a aquisição de unidades internamente acessíveis a que se refere o § 1º deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2058.%20O%20projeto%20e%20a%20constru%C3%A7%C3%A3o%20de%20edifica%C3%A7%C3%A3o%20de%20uso%20privado%20multifamiliar%20devem%20atender%20aos%20preceitos%20de%20acessibilidade%2C%20na%20forma%20regulamentar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Em qualquer intervenção nas vias e nos espaços públicos, o poder público e as empresas concessionárias responsáveis pela execução das obras e dos serviços devem garantir, de forma segura, a fluidez do trânsito e a livre circulação e acessibilidade das pessoas, durante e após sua execução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2059.%20Em%20qualquer%20interven%C3%A7%C3%A3o%20nas%20vias%20e%20nos%20espa%C3%A7os%20p%C3%BAblicos%2C%20o%20poder%20p%C3%BAblico%20e%20as%20empresas%20concession%C3%A1rias%20respons%C3%A1veis%20pela%20execu%C3%A7%C3%A3o%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Orientam-se, no que couber, pelas regras de acessibilidade previstas em legislação e em normas técnicas, observado o disposto na Lei nº 10.098, de 19 de dezembro de 2000 , nº 10.257, de 10 de julho de 2001 , e nº 12.587, de 3 de janeiro de 2012 :\n\nI - os planos diretores municipais, os planos diretores de transporte e trânsito, os planos de mobilidade urbana e os planos de preservação de sítios históricos elaborados ou atualizados a partir da publicação desta Lei;\n\nII - os códigos de obras, os códigos de postura, as leis de uso e ocupação do solo e as leis do sistema viário;\n\nIII - os estudos prévios de impacto de vizinhança;\n\nIV - as atividades de fiscalização e a imposição de sanções; e\n\nV - a legislação referente à prevenção contra incêndio e pânico.\n\n§ 1º A concessão e a renovação de alvará de funcionamento para qualquer atividade são condicionadas à observação e à certificação das regras de acessibilidade.\n\n§ 2º A emissão de carta de habite-se ou de habilitação equivalente e sua renovação, quando esta tiver sido emitida anteriormente às exigências de acessibilidade, é condicionada à observação e à certificação das regras de acessibilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2060.%20Orientam-se%2C%20no%20que%20couber%2C%20pelas%20regras%20de%20acessibilidade%20previstas%20em%20legisla%C3%A7%C3%A3o%20e%20em%20normas%20t%C3%A9cnicas%2C%20observado%20o%20disposto%20na%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. A formulação, a implementação e a manutenção das ações de acessibilidade atenderão às seguintes premissas básicas:\n\nI - eleição de prioridades, elaboração de cronograma e reserva de recursos para implementação das ações; e\n\nII - planejamento contínuo e articulado entre os setores envolvidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2061.%20A%20formula%C3%A7%C3%A3o%2C%20a%20implementa%C3%A7%C3%A3o%20e%20a%20manuten%C3%A7%C3%A3o%20das%20a%C3%A7%C3%B5es%20de%20acessibilidade%20atender%C3%A3o%20%C3%A0s%20seguintes%20premissas%20b%C3%A1sicas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. É assegurado à pessoa com deficiência, mediante solicitação, o recebimento de contas, boletos, recibos, extratos e cobranças de tributos em formato acessível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2062.%20%C3%89%20assegurado%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%2C%20mediante%20solicita%C3%A7%C3%A3o%2C%20o%20recebimento%20de%20contas%2C%20boletos%2C%20recibos%2C%20extratos%20e%20cobran%C3%A7as%20de%20tributos%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "62-A"
+    },
+    "62-A": {
+      "numero": "62-A",
+      "texto": "Art. 62-A. Com a finalidade de atender pessoas com necessidades complexas de comunicação, o poder público instalará, em praças, parques e demais espaços públicos de uso coletivo, placas com sistemas de comunicação aumentativa e alternativa, compostas de pranchas de baixa tecnologia com pictogramas. (Incluído pela Lei nº 15.249, de 2025)\n\nParágrafo único. As placas referidas no caput deste artigo deverão ser adaptadas aos respectivos contextos comunicativos e confeccionadas em materiais adequados para resistir às condições climáticas e de uso no ambiente externo. (Incluído pela Lei nº 15.249, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2062-A.%20Com%20a%20finalidade%20de%20atender%20pessoas%20com%20necessidades%20complexas%20de%20comunica%C3%A7%C3%A3o%2C%20o%20poder%20p%C3%BAblico%20instalar%C3%A1%2C%20em%20pra%C3%A7as%2C%20parques%20e%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. É obrigatória a acessibilidade nos sítios da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo, para uso da pessoa com deficiência, garantindo-lhe acesso às informações disponíveis, conforme as melhores práticas e diretrizes de acessibilidade adotadas internacionalmente.\n\n§ 1º Os sítios devem conter símbolo de acessibilidade em destaque.\n\n§ 2º Telecentros comunitários que receberem recursos públicos federais para seu custeio ou sua instalação e lan houses devem possuir equipamentos e instalações acessíveis.\n\n§ 3º Os telecentros e as lan houses de que trata o § 2º deste artigo devem garantir, no mínimo, 10% (dez por cento) de seus computadores com recursos de acessibilidade para pessoa com deficiência visual, sendo assegurado pelo menos 1 (um) equipamento, quando o resultado percentual for inferior a 1 (um).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2063.%20%C3%89%20obrigat%C3%B3ria%20a%20acessibilidade%20nos%20s%C3%ADtios%20da%20internet%20mantidos%20por%20empresas%20com%20sede%20ou%20representa%C3%A7%C3%A3o%20comercial%20no%20Pa%C3%ADs%20ou%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62-A",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A acessibilidade nos sítios da internet de que trata o art. 63 desta Lei deve ser observada para obtenção do financiamento de que trata o inciso III do art. 54 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2064.%20A%20acessibilidade%20nos%20s%C3%ADtios%20da%20internet%20de%20que%20trata%20o%20art.%2063%20desta%20Lei%20deve%20ser%20observada%20para%20obten%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. As empresas prestadoras de serviços de telecomunicações deverão garantir pleno acesso à pessoa com deficiência, conforme regulamentação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2065.%20As%20empresas%20prestadoras%20de%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20dever%C3%A3o%20garantir%20pleno%20acesso%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%2C%20conforme%20regulamenta%C3%A7%C3%A3o%20espec%C3%ADfica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Cabe ao poder público incentivar a oferta de aparelhos de telefonia fixa e móvel celular com acessibilidade que, entre outras tecnologias assistivas, possuam possibilidade de indicação e de ampliação sonoras de todas as operações e funções disponíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2066.%20Cabe%20ao%20poder%20p%C3%BAblico%20incentivar%20a%20oferta%20de%20aparelhos%20de%20telefonia%20fixa%20e%20m%C3%B3vel%20celular%20com%20acessibilidade%20que%2C%20entre%20outras",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Os serviços de radiodifusão de sons e imagens devem permitir o uso dos seguintes recursos, entre outros:\n\nI - subtitulação por meio de legenda oculta;\n\nII - janela com intérprete da Libras;\n\nIII - audiodescrição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2067.%20Os%20servi%C3%A7os%20de%20radiodifus%C3%A3o%20de%20sons%20e%20imagens%20devem%20permitir%20o%20uso%20dos%20seguintes%20recursos%2C%20entre%20outros%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. O poder público deve adotar mecanismos de incentivo à produção, à edição, à difusão, à distribuição e à comercialização de livros em formatos acessíveis, inclusive em publicações da administração pública ou financiadas com recursos públicos, com vistas a garantir à pessoa com deficiência o direito de acesso à leitura, à informação e à comunicação.\n\n§ 1º Nos editais de compras de livros, inclusive para o abastecimento ou a atualização de acervos de bibliotecas em todos os níveis e modalidades de educação e de bibliotecas públicas, o poder público deverá adotar cláusulas de impedimento à participação de editoras que não ofertem sua produção também em formatos acessíveis.\n\n§ 2º Consideram-se formatos acessíveis os arquivos digitais que possam ser reconhecidos e acessados por softwares leitores de telas ou outras tecnologias assistivas que vierem a substituí-los, permitindo leitura com voz sintetizada, ampliação de caracteres, diferentes contrastes e impressão em Braille.\n\n§ 3º O poder público deve estimular e apoiar a adaptação e a produção de artigos científicos em formato acessível, inclusive em Libras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2068.%20O%20poder%20p%C3%BAblico%20deve%20adotar%20mecanismos%20de%20incentivo%20%C3%A0%20produ%C3%A7%C3%A3o%2C%20%C3%A0%20edi%C3%A7%C3%A3o%2C%20%C3%A0%20difus%C3%A3o%2C%20%C3%A0%20distribui%C3%A7%C3%A3o%20e%20%C3%A0%20comercializa%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. O poder público deve assegurar a disponibilidade de informações corretas e claras sobre os diferentes produtos e serviços ofertados, por quaisquer meios de comunicação empregados, inclusive em ambiente virtual, contendo a especificação correta de quantidade, qualidade, características, composição e preço, bem como sobre os eventuais riscos à saúde e à segurança do consumidor com deficiência, em caso de sua utilização, aplicando-se, no que couber, os arts. 30 a 41 da Lei nº 8.078, de 11 de setembro de 1990 .\n\n§ 1º Os canais de comercialização virtual e os anúncios publicitários veiculados na imprensa escrita, na internet, no rádio, na televisão e nos demais veículos de comunicação abertos ou por assinatura devem disponibilizar, conforme a compatibilidade do meio, os recursos de acessibilidade de que trata o art. 67 desta Lei, a expensas do fornecedor do produto ou do serviço, sem prejuízo da observância do disposto nos arts. 36 a 38 da Lei nº 8.078, de 11 de setembro de 1990 .\n\n§ 2º Os fornecedores devem disponibilizar, mediante solicitação, exemplares de bulas, prospectos, textos ou qualquer outro tipo de material de divulgação em formato acessível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2069.%20O%20poder%20p%C3%BAblico%20deve%20assegurar%20a%20disponibilidade%20de%20informa%C3%A7%C3%B5es%20corretas%20e%20claras%20sobre%20os%20diferentes%20produtos%20e%20servi%C3%A7os%20ofertados%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. As instituições promotoras de congressos, seminários, oficinas e demais eventos de natureza científico-cultural devem oferecer à pessoa com deficiência, no mínimo, os recursos de tecnologia assistiva previstos no art. 67 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2070.%20As%20institui%C3%A7%C3%B5es%20promotoras%20de%20congressos%2C%20semin%C3%A1rios%2C%20oficinas%20e%20demais%20eventos%20de%20natureza%20cient%C3%ADfico-cultural%20devem%20oferecer%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Os congressos, os seminários, as oficinas e os demais eventos de natureza científico-cultural promovidos ou financiados pelo poder público devem garantir as condições de acessibilidade e os recursos de tecnologia assistiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2071.%20Os%20congressos%2C%20os%20semin%C3%A1rios%2C%20as%20oficinas%20e%20os%20demais%20eventos%20de%20natureza%20cient%C3%ADfico-cultural%20promovidos%20ou%20financiados%20pelo%20poder%20p%C3%BAblico%20devem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Os programas, as linhas de pesquisa e os projetos a serem desenvolvidos com o apoio de agências de financiamento e de órgãos e entidades integrantes da administração pública que atuem no auxílio à pesquisa devem contemplar temas voltados à tecnologia assistiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2072.%20Os%20programas%2C%20as%20linhas%20de%20pesquisa%20e%20os%20projetos%20a%20serem%20desenvolvidos%20com%20o%20apoio%20de%20ag%C3%AAncias%20de%20financiamento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Caberá ao poder público, diretamente ou em parceria com organizações da sociedade civil, promover a capacitação de tradutores e intérpretes da Libras, de guias intérpretes e de profissionais habilitados em Braille, audiodescrição, estenotipia e legendagem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2073.%20Caber%C3%A1%20ao%20poder%20p%C3%BAblico%2C%20diretamente%20ou%20em%20parceria%20com%20organiza%C3%A7%C3%B5es%20da%20sociedade%20civil%2C%20promover%20a%20capacita%C3%A7%C3%A3o%20de%20tradutores%20e%20int%C3%A9rpretes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "73-A"
+    },
+    "73-A": {
+      "numero": "73-A",
+      "texto": "Art. 73-A. As campanhas sociais, preventivas e educativas devem ser acessíveis à pessoa com deficiência. (Incluído pela Lei nº 14.863, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2073-A.%20As%20campanhas%20sociais%2C%20preventivas%20e%20educativas%20devem%20ser%20acess%C3%ADveis%20%C3%A0%20pessoa%20com%20defici%C3%AAncia.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.863%2C%20de%202024%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. É garantido à pessoa com deficiência acesso a produtos, recursos, estratégias, práticas, processos, métodos e serviços de tecnologia assistiva que maximizem sua autonomia, mobilidade pessoal e qualidade de vida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2074.%20%C3%89%20garantido%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20acesso%20a%20produtos%2C%20recursos%2C%20estrat%C3%A9gias%2C%20pr%C3%A1ticas%2C%20processos%2C%20m%C3%A9todos%20e%20servi%C3%A7os%20de%20tecnologia%20assistiva%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73-A",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. O poder público desenvolverá plano específico de medidas, a ser renovado em cada período de 4 (quatro) anos, com a finalidade de: (Regulamento)\n\nI - facilitar o acesso a crédito especializado, inclusive com oferta de linhas de crédito subsidiadas, específicas para aquisição de tecnologia assistiva;\n\nII - agilizar, simplificar e priorizar procedimentos de importação de tecnologia assistiva, especialmente as questões atinentes a procedimentos alfandegários e sanitários;\n\nIII - criar mecanismos de fomento à pesquisa e à produção nacional de tecnologia assistiva, inclusive por meio de concessão de linhas de crédito subsidiado e de parcerias com institutos de pesquisa oficiais;\n\nIV - eliminar ou reduzir a tributação da cadeia produtiva e de importação de tecnologia assistiva;\n\nV - facilitar e agilizar o processo de inclusão de novos recursos de tecnologia assistiva no rol de produtos distribuídos no âmbito do SUS e por outros órgãos governamentais.\n\nParágrafo único. Para fazer cumprir o disposto neste artigo, os procedimentos constantes do plano específico de medidas deverão ser avaliados, pelo menos, a cada 2 (dois) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2075.%20O%20poder%20p%C3%BAblico%20desenvolver%C3%A1%20plano%20espec%C3%ADfico%20de%20medidas%2C%20a%20ser%20renovado%20em%20cada%20per%C3%ADodo%20de%204%20%28quatro%29%20anos%2C%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. O poder público deve garantir à pessoa com deficiência todos os direitos políticos e a oportunidade de exercê-los em igualdade de condições com as demais pessoas.\n\n§ 1º À pessoa com deficiência será assegurado o direito de votar e de ser votada, inclusive por meio das seguintes ações:\n\nI - garantia de que os procedimentos, as instalações, os materiais e os equipamentos para votação sejam apropriados, acessíveis a todas as pessoas e de fácil compreensão e uso, sendo vedada a instalação de seções eleitorais exclusivas para a pessoa com deficiência;\n\nII - incentivo à pessoa com deficiência a candidatar-se e a desempenhar quaisquer funções públicas em todos os níveis de governo, inclusive por meio do uso de novas tecnologias assistivas, quando apropriado;\n\nIII - garantia de que os pronunciamentos oficiais, a propaganda eleitoral obrigatória e os debates transmitidos pelas emissoras de televisão possuam, pelo menos, os recursos elencados no art. 67 desta Lei;\n\nIV - garantia do livre exercício do direito ao voto e, para tanto, sempre que necessário e a seu pedido, permissão para que a pessoa com deficiência seja auxiliada na votação por pessoa de sua escolha.\n\n§ 2º O poder público promoverá a participação da pessoa com deficiência, inclusive quando institucionalizada, na condução das questões públicas, sem discriminação e em igualdade de oportunidades, observado o seguinte:\n\nI - participação em organizações não governamentais relacionadas à vida pública e à política do País e em atividades e administração de partidos políticos;\n\nII - formação de organizações para representar a pessoa com deficiência em todos os níveis;\n\nIII - participação da pessoa com deficiência em organizações que a representem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2076.%20O%20poder%20p%C3%BAblico%20deve%20garantir%20%C3%A0%20pessoa%20com%20defici%C3%AAncia%20todos%20os%20direitos%20pol%C3%ADticos%20e%20a%20oportunidade%20de%20exerc%C3%AA-los%20em%20igualdade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. O poder público deve fomentar o desenvolvimento científico, a pesquisa e a inovação e a capacitação tecnológicas, voltados à melhoria da qualidade de vida e ao trabalho da pessoa com deficiência e sua inclusão social.\n\n§ 1º O fomento pelo poder público deve priorizar a geração de conhecimentos e técnicas que visem à prevenção e ao tratamento de deficiências e ao desenvolvimento de tecnologias assistiva e social.\n\n§ 2º A acessibilidade e as tecnologias assistiva e social devem ser fomentadas mediante a criação de cursos de pós-graduação, a formação de recursos humanos e a inclusão do tema nas diretrizes de áreas do conhecimento.\n\n§ 3º Deve ser fomentada a capacitação tecnológica de instituições públicas e privadas para o desenvolvimento de tecnologias assistiva e social que sejam voltadas para melhoria da funcionalidade e da participação social da pessoa com deficiência.\n\n§ 4º As medidas previstas neste artigo devem ser reavaliadas periodicamente pelo poder público, com vistas ao seu aperfeiçoamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2077.%20O%20poder%20p%C3%BAblico%20deve%20fomentar%20o%20desenvolvimento%20cient%C3%ADfico%2C%20a%20pesquisa%20e%20a%20inova%C3%A7%C3%A3o%20e%20a%20capacita%C3%A7%C3%A3o%20tecnol%C3%B3gicas%2C%20voltados%20%C3%A0%20melhoria",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Devem ser estimulados a pesquisa, o desenvolvimento, a inovação e a difusão de tecnologias voltadas para ampliar o acesso da pessoa com deficiência às tecnologias da informação e comunicação e às tecnologias sociais.\n\nParágrafo único. Serão estimulados, em especial:\n\nI - o emprego de tecnologias da informação e comunicação como instrumento de superação de limitações funcionais e de barreiras à comunicação, à informação, à educação e ao entretenimento da pessoa com deficiência;\n\nII - a adoção de soluções e a difusão de normas que visem a ampliar a acessibilidade da pessoa com deficiência à computação e aos sítios da internet, em especial aos serviços de governo eletrônico.\n\nLIVRO II\n\nPARTE ESPECIAL",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2078.%20Devem%20ser%20estimulados%20a%20pesquisa%2C%20o%20desenvolvimento%2C%20a%20inova%C3%A7%C3%A3o%20e%20a%20difus%C3%A3o%20de%20tecnologias%20voltadas%20para%20ampliar%20o%20acesso%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. O poder público deve assegurar o acesso da pessoa com deficiência à justiça, em igualdade de oportunidades com as demais pessoas, garantindo, sempre que requeridos, adaptações e recursos de tecnologia assistiva.\n\n§ 1º A fim de garantir a atuação da pessoa com deficiência em todo o processo judicial, o poder público deve capacitar os membros e os servidores que atuam no Poder Judiciário, no Ministério Público, na Defensoria Pública, nos órgãos de segurança pública e no sistema penitenciário quanto aos direitos da pessoa com deficiência.\n\n§ 2º Devem ser assegurados à pessoa com deficiência submetida a medida restritiva de liberdade todos os direitos e garantias a que fazem jus os apenados sem deficiência, garantida a acessibilidade.\n\n§ 3º A Defensoria Pública e o Ministério Público tomarão as medidas necessárias à garantia dos direitos previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2079.%20O%20poder%20p%C3%BAblico%20deve%20assegurar%20o%20acesso%20da%20pessoa%20com%20defici%C3%AAncia%20%C3%A0%20justi%C3%A7a%2C%20em%20igualdade%20de%20oportunidades%20com%20as%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. Devem ser oferecidos todos os recursos de tecnologia assistiva disponíveis para que a pessoa com deficiência tenha garantido o acesso à justiça, sempre que figure em um dos polos da ação ou atue como testemunha, partícipe da lide posta em juízo, advogado, defensor público, magistrado ou membro do Ministério Público.\n\nParágrafo único. A pessoa com deficiência tem garantido o acesso ao conteúdo de todos os atos processuais de seu interesse, inclusive no exercício da advocacia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2080.%20Devem%20ser%20oferecidos%20todos%20os%20recursos%20de%20tecnologia%20assistiva%20dispon%C3%ADveis%20para%20que%20a%20pessoa%20com%20defici%C3%AAncia%20tenha%20garantido%20o%20acesso",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Os direitos da pessoa com deficiência serão garantidos por ocasião da aplicação de sanções penais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2081.%20Os%20direitos%20da%20pessoa%20com%20defici%C3%AAncia%20ser%C3%A3o%20garantidos%20por%20ocasi%C3%A3o%20da%20aplica%C3%A7%C3%A3o%20de%20san%C3%A7%C3%B5es%20penais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2082.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Os serviços notariais e de registro não podem negar ou criar óbices ou condições diferenciadas à prestação de seus serviços em razão de deficiência do solicitante, devendo reconhecer sua capacidade legal plena, garantida a acessibilidade.\n\nParágrafo único. O descumprimento do disposto no caput deste artigo constitui discriminação em razão de deficiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2083.%20Os%20servi%C3%A7os%20notariais%20e%20de%20registro%20n%C3%A3o%20podem%20negar%20ou%20criar%20%C3%B3bices%20ou%20condi%C3%A7%C3%B5es%20diferenciadas%20%C3%A0%20presta%C3%A7%C3%A3o%20de%20seus%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. A pessoa com deficiência tem assegurado o direito ao exercício de sua capacidade legal em igualdade de condições com as demais pessoas.\n\n§ 1º Quando necessário, a pessoa com deficiência será submetida à curatela, conforme a lei.\n\n§ 2º É facultado à pessoa com deficiência a adoção de processo de tomada de decisão apoiada.\n\n§ 3º A definição de curatela de pessoa com deficiência constitui medida protetiva extraordinária, proporcional às necessidades e às circunstâncias de cada caso, e durará o menor tempo possível.\n\n§ 4º Os curadores são obrigados a prestar, anualmente, contas de sua administração ao juiz, apresentando o balanço do respectivo ano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2084.%20A%20pessoa%20com%20defici%C3%AAncia%20tem%20assegurado%20o%20direito%20ao%20exerc%C3%ADcio%20de%20sua%20capacidade%20legal%20em%20igualdade%20de%20condi%C3%A7%C3%B5es%20com%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. A curatela afetará tão somente os atos relacionados aos direitos de natureza patrimonial e negocial.\n\n§ 1º A definição da curatela não alcança o direito ao próprio corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao trabalho e ao voto.\n\n§ 2º A curatela constitui medida extraordinária, devendo constar da sentença as razões e motivações de sua definição, preservados os interesses do curatelado.\n\n§ 3º No caso de pessoa em situação de institucionalização, ao nomear curador, o juiz deve dar preferência a pessoa que tenha vínculo de natureza familiar, afetiva ou comunitária com o curatelado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2085.%20A%20curatela%20afetar%C3%A1%20t%C3%A3o%20somente%20os%20atos%20relacionados%20aos%20direitos%20de%20natureza%20patrimonial%20e%20negocial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. Para emissão de documentos oficiais, não será exigida a situação de curatela da pessoa com deficiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2086.%20Para%20emiss%C3%A3o%20de%20documentos%20oficiais%2C%20n%C3%A3o%20ser%C3%A1%20exigida%20a%20situa%C3%A7%C3%A3o%20de%20curatela%20da%20pessoa%20com%20defici%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. Em casos de relevância e urgência e a fim de proteger os interesses da pessoa com deficiência em situação de curatela, será lícito ao juiz, ouvido o Ministério Público, de oficio ou a requerimento do interessado, nomear, desde logo, curador provisório, o qual estará sujeito, no que couber, às disposições do Código de Processo Civil .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2087.%20Em%20casos%20de%20relev%C3%A2ncia%20e%20urg%C3%AAncia%20e%20a%20fim%20de%20proteger%20os%20interesses%20da%20pessoa%20com%20defici%C3%AAncia%20em%20situa%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Praticar, induzir ou incitar discriminação de pessoa em razão de sua deficiência:\n\nPena - reclusão, de 1 (um) a 3 (três) anos, e multa.\n\n§ 1º Aumenta-se a pena em 1/3 (um terço) se a vítima encontrar-se sob cuidado e responsabilidade do agente.\n\n§ 2º Se qualquer dos crimes previstos no caput deste artigo é cometido por intermédio de meios de comunicação social ou de publicação de qualquer natureza:\n\nPena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa.\n\n§ 3º Na hipótese do § 2º deste artigo, o juiz poderá determinar, ouvido o Ministério Público ou a pedido deste, ainda antes do inquérito policial, sob pena de desobediência:\n\nI - recolhimento ou busca e apreensão dos exemplares do material discriminatório;\n\nII - interdição das respectivas mensagens ou páginas de informação na internet.\n\n§ 4º Na hipótese do § 2º deste artigo, constitui efeito da condenação, após o trânsito em julgado da decisão, a destruição do material apreendido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2088.%20Praticar%2C%20induzir%20ou%20incitar%20discrimina%C3%A7%C3%A3o%20de%20pessoa%20em%20raz%C3%A3o%20de%20sua%20defici%C3%AAncia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. Apropriar-se de ou desviar bens, proventos, pensão, benefícios, remuneração ou qualquer outro rendimento de pessoa com deficiência:\n\nPena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.\n\nParágrafo único. Aumenta-se a pena em 1/3 (um terço) se o crime é cometido:\n\nI - por tutor, curador, síndico, liquidatário, inventariante, testamenteiro ou depositário judicial; ou\n\nII - por aquele que se apropriou em razão de ofício ou de profissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2089.%20Apropriar-se%20de%20ou%20desviar%20bens%2C%20proventos%2C%20pens%C3%A3o%2C%20benef%C3%ADcios%2C%20remunera%C3%A7%C3%A3o%20ou%20qualquer%20outro%20rendimento%20de%20pessoa%20com%20defici%C3%AAncia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. Abandonar pessoa com deficiência em hospitais, casas de saúde, entidades de abrigamento ou congêneres:\n\nPena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa.\n\nPena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 15.163, de 2025)\n\nParágrafo único. Na mesma pena incorre quem não prover as necessidades básicas de pessoa com deficiência quando obrigado por lei ou mandado.\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 15.163, de 2025)\n\n§ 1º Se do abandono resulta lesão corporal de natureza grave: (Incluído pela Lei nº 15.163, de 2025)\n\nPena - reclusão, de 3 (três) a 7 (sete) anos, e multa. (Incluído pela Lei nº 15.163, de 2025)\n\n§ 2º Se do abandono resulta morte: (Incluído pela Lei nº 15.163, de 2025)\n\nPena - reclusão, de 8 (oito) a 14 (quatorze) anos, e multa. (Incluído pela Lei nº 15.163, de 2025)\n\n§ 3º Nas mesmas penas incorre quem não prover as necessidades básicas de pessoa com deficiência quando obrigado por lei ou mandado. (Incluído pela Lei nº 15.163, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2090.%20Abandonar%20pessoa%20com%20defici%C3%AAncia%20em%20hospitais%2C%20casas%20de%20sa%C3%BAde%2C%20entidades%20de%20abrigamento%20ou%20cong%C3%AAneres%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. Reter ou utilizar cartão magnético, qualquer meio eletrônico ou documento de pessoa com deficiência destinados ao recebimento de benefícios, proventos, pensões ou remuneração ou à realização de operações financeiras, com o fim de obter vantagem indevida para si ou para outrem:\n\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\n\nParágrafo único. Aumenta-se a pena em 1/3 (um terço) se o crime é cometido por tutor ou curador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2091.%20Reter%20ou%20utilizar%20cart%C3%A3o%20magn%C3%A9tico%2C%20qualquer%20meio%20eletr%C3%B4nico%20ou%20documento%20de%20pessoa%20com%20defici%C3%AAncia%20destinados%20ao%20recebimento%20de%20benef%C3%ADcios%2C%20proventos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. É criado o Cadastro Nacional de Inclusão da Pessoa com Deficiência (Cadastro-Inclusão), registro público eletrônico com a finalidade de coletar, processar, sistematizar e disseminar informações georreferenciadas que permitam a identificação e a caracterização socioeconômica da pessoa com deficiência, bem como das barreiras que impedem a realização de seus direitos.\n\n§ 1º O Cadastro-Inclusão será administrado pelo Poder Executivo federal e constituído por base de dados, instrumentos, procedimentos e sistemas eletrônicos.\n\n§ 2º Os dados constituintes do Cadastro-Inclusão serão obtidos pela integração dos sistemas de informação e da base de dados de todas as políticas públicas relacionadas aos direitos da pessoa com deficiência, bem como por informações coletadas, inclusive em censos nacionais e nas demais pesquisas realizadas no País, de acordo com os parâmetros estabelecidos pela Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo.\n\n§ 3º Para coleta, transmissão e sistematização de dados, é facultada a celebração de convênios, acordos, termos de parceria ou contratos com instituições públicas e privadas, observados os requisitos e procedimentos previstos em legislação específica.\n\n§ 4º Para assegurar a confidencialidade, a privacidade e as liberdades fundamentais da pessoa com deficiência e os princípios éticos que regem a utilização de informações, devem ser observadas as salvaguardas estabelecidas em lei.\n\n§ 5º Os dados do Cadastro-Inclusão somente poderão ser utilizados para as seguintes finalidades:\n\nI - formulação, gestão, monitoramento e avaliação das políticas públicas para a pessoa com deficiência e para identificar as barreiras que impedem a realização de seus direitos;\n\nII - realização de estudos e pesquisas.\n\n§ 6º As informações a que se refere este artigo devem ser disseminadas em formatos acessíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2092.%20%C3%89%20criado%20o%20Cadastro%20Nacional%20de%20Inclus%C3%A3o%20da%20Pessoa%20com%20Defici%C3%AAncia%20%28Cadastro-Inclus%C3%A3o%29%2C%20registro%20p%C3%BAblico%20eletr%C3%B4nico%20com%20a%20finalidade%20de%20coletar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "91",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. Na realização de inspeções e de auditorias pelos órgãos de controle interno e externo, deve ser observado o cumprimento da legislação relativa à pessoa com deficiência e das normas de acessibilidade vigentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2093.%20Na%20realiza%C3%A7%C3%A3o%20de%20inspe%C3%A7%C3%B5es%20e%20de%20auditorias%20pelos%20%C3%B3rg%C3%A3os%20de%20controle%20interno%20e%20externo%2C%20deve%20ser%20observado%20o%20cumprimento%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art. 94. Terá direito a auxílio-inclusão, nos termos da lei, a pessoa com deficiência moderada ou grave que:\n\nI - receba o benefício de prestação continuada previsto no art. 20 da Lei nº 8.742, de 7 de dezembro de 1993 , e que passe a exercer atividade remunerada que a enquadre como segurado obrigatório do RGPS;\n\nII - tenha recebido, nos últimos 5 (cinco) anos, o benefício de prestação continuada previsto no art. 20 da Lei nº 8.742, de 7 de dezembro de 1993 , e que exerça atividade remunerada que a enquadre como segurado obrigatório do RGPS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2094.%20Ter%C3%A1%20direito%20a%20aux%C3%ADlio-inclus%C3%A3o%2C%20nos%20termos%20da%20lei%2C%20a%20pessoa%20com%20defici%C3%AAncia%20moderada%20ou%20grave%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art. 95. É vedado exigir o comparecimento de pessoa com deficiência perante os órgãos públicos quando seu deslocamento, em razão de sua limitação funcional e de condições de acessibilidade, imponha-lhe ônus desproporcional e indevido, hipótese na qual serão observados os seguintes procedimentos:\n\nI - quando for de interesse do poder público, o agente promoverá o contato necessário com a pessoa com deficiência em sua residência;\n\nII - quando for de interesse da pessoa com deficiência, ela apresentará solicitação de atendimento domiciliar ou fará representar-se por procurador constituído para essa finalidade.\n\nParágrafo único. É assegurado à pessoa com deficiência atendimento domiciliar pela perícia médica e social do Instituto Nacional do Seguro Social (INSS), pelo serviço público de saúde ou pelo serviço privado de saúde, contratado ou conveniado, que integre o SUS e pelas entidades da rede socioassistencial integrantes do Suas, quando seu deslocamento, em razão de sua limitação funcional e de condições de acessibilidade, imponha-lhe ônus desproporcional e indevido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2095.%20%C3%89%20vedado%20exigir%20o%20comparecimento%20de%20pessoa%20com%20defici%C3%AAncia%20perante%20os%20%C3%B3rg%C3%A3os%20p%C3%BAblicos%20quando%20seu%20deslocamento%2C%20em%20raz%C3%A3o%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. O § 6º -A do art. 135 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral) , passa a vigorar com a seguinte redação:\n\n“Art. 135. .................................................................\n\n........................................................................................\n\n§ 6º -A. Os Tribunais Regionais Eleitorais deverão, a cada eleição, expedir instruções aos Juízes Eleitorais para orientá-los na escolha dos locais de votação, de maneira a garantir acessibilidade para o eleitor com deficiência ou com mobilidade reduzida, inclusive em seu entorno e nos sistemas de transporte que lhe dão acesso.\n\n....................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2096.%20O%20%C2%A7%206%C2%BA%20-A%20do%20art.%20135%20da%20Lei%20n%C2%BA%204.737%2C%20de%2015%20de%20julho%20de%201965%20%28C%C3%B3digo%20Eleitoral%29%20%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. A Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , passa a vigorar com as seguintes alterações:\n\n“Art. 428. ..................................................................\n\n...........................................................................................\n\n§ 6º Para os fins do contrato de aprendizagem, a comprovação da escolaridade de aprendiz com deficiência deve considerar, sobretudo, as habilidades e competências relacionadas com a profissionalização.\n\n...........................................................................................\n\n§ 8º Para o aprendiz com deficiência com 18 (dezoito) anos ou mais, a validade do contrato de aprendizagem pressupõe anotação na CTPS e matrícula e frequência em programa de aprendizagem desenvolvido sob orientação de entidade qualificada em formação técnico-profissional metódica.” (NR)\n\n“Art. 433. ..................................................................\n\n...........................................................................................\n\nI - desempenho insuficiente ou inadaptação do aprendiz, salvo para o aprendiz com deficiência quando desprovido de recursos de acessibilidade, de tecnologias assistivas e de apoio necessário ao desempenho de suas atividades;\n\n..................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2097.%20A%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20%28CLT%29%2C%20aprovada%20pelo%20Decreto-Lei%20n%C2%BA%205.452%2C%20de%201%C2%BA%20de%20maio%20de%201943%20%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "96",
+      "next": "98"
+    },
+    "98": {
+      "numero": "98",
+      "texto": "Art. 98. A Lei nº 7.853, de 24 de outubro de 1989 , passa a vigorar com as seguintes alterações:\n\n“Art. 3º As medidas judiciais destinadas à proteção de interesses coletivos, difusos, individuais homogêneos e individuais indisponíveis da pessoa com deficiência poderão ser propostas pelo Ministério Público, pela Defensoria Pública, pela União, pelos Estados, pelos Municípios, pelo Distrito Federal, por associação constituída há mais de 1 (um) ano, nos termos da lei civil, por autarquia, por empresa pública e por fundação ou sociedade de economia mista que inclua, entre suas finalidades institucionais, a proteção dos interesses e a promoção de direitos da pessoa com deficiência.\n\n.................................................................................” (NR)\n\n“Art. 8º Constitui crime punível com reclusão de 2 (dois) a 5 (cinco) anos e multa:\n\nI - recusar, cobrar valores adicionais, suspender, procrastinar, cancelar ou fazer cessar inscrição de aluno em estabelecimento de ensino de qualquer curso ou grau, público ou privado, em razão de sua deficiência;\n\nII - obstar inscrição em concurso público ou acesso de alguém a qualquer cargo ou emprego público, em razão de sua deficiência;\n\nIII - negar ou obstar emprego, trabalho ou promoção à pessoa em razão de sua deficiência;\n\nIV - recusar, retardar ou dificultar internação ou deixar de prestar assistência médico-hospitalar e ambulatorial à pessoa com deficiência;\n\nV - deixar de cumprir, retardar ou frustrar execução de ordem judicial expedida na ação civil a que alude esta Lei;\n\nVI - recusar, retardar ou omitir dados técnicos indispensáveis à propositura da ação civil pública objeto desta Lei, quando requisitados.\n\n§ 1º Se o crime for praticado contra pessoa com deficiência menor de 18 (dezoito) anos, a pena é agravada em 1/3 (um terço).\n\n§ 2º A pena pela adoção deliberada de critérios subjetivos para indeferimento de inscrição, de aprovação e de cumprimento de estágio probatório em concursos públicos não exclui a responsabilidade patrimonial pessoal do administrador público pelos danos causados.\n\n§ 3º Incorre nas mesmas penas quem impede ou dificulta o ingresso de pessoa com deficiência em planos privados de assistência à saúde, inclusive com cobrança de valores diferenciados.\n\n§ 4º Se o crime for praticado em atendimento de urgência e emergência, a pena é agravada em 1/3 (um terço).” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2098.%20A%20Lei%20n%C2%BA%207.853%2C%20de%2024%20de%20outubro%20de%201989%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "97",
+      "next": "99"
+    },
+    "99": {
+      "numero": "99",
+      "texto": "Art. 99. O art. 20 da Lei nº 8.036, de 11 de maio de 1990 , passa a vigorar acrescido do seguinte inciso XVIII:\n\n“Art. 20. ......................................................................\n\n..............................................................................................\n\nXVIII - quando o trabalhador com deficiência, por prescrição, necessite adquirir órtese ou prótese para promoção de acessibilidade e de inclusão social.\n\n..................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%2099.%20O%20art.%2020%20da%20Lei%20n%C2%BA%208.036%2C%20de%2011%20de%20maio%20de%201990%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "98",
+      "next": "100"
+    },
+    "100": {
+      "numero": "100",
+      "texto": "Art. 100. A Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) , passa a vigorar com as seguintes alterações:\n\n“Art. 6º .......................................................................\n\n............................................................................................\n\nParágrafo único. A informação de que trata o inciso III do caput deste artigo deve ser acessível à pessoa com deficiência, observado o disposto em regulamento.” (NR)\n\n“Art. 43. ......................................................................\n\n............................................................................................\n\n§ 6º Todas as informações de que trata o caput deste artigo devem ser disponibilizadas em formatos acessíveis, inclusive para a pessoa com deficiência, mediante solicitação do consumidor.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20100.%20A%20Lei%20n%C2%BA%208.078%2C%20de%2011%20de%20setembro%20de%201990%20%28C%C3%B3digo%20de%20Defesa%20do%20Consumidor%29%20%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "99",
+      "next": "101"
+    },
+    "101": {
+      "numero": "101",
+      "texto": "Art. 101. A Lei nº 8.213, de 24 de julho de 1991 , passa a vigorar com as seguintes alterações:\n\n“Art. 16. ......................................................................\n\nI - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;\n\n............................................................................................\n\nIII - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;\n\n.................................................................................” (NR)\n\n“Art. 77. .....................................................................\n\n............................................................................................\n\n§ 2º ..............................................................................\n\n............................................................................................\n\nII - para o filho, a pessoa a ele equiparada ou o irmão, de ambos os sexos, pela emancipação ou ao completar 21 (vinte e um) anos de idade, salvo se for inválido ou tiver deficiência intelectual ou mental ou deficiência grave;\n\n...................................................................................\n\n§ 4º (VETADO).\n\n...................................................................................” (NR)\n\n“Art. 93. (VETADO):\n\nI - (VETADO);\n\nII - (VETADO);\n\nIII - (VETADO);\n\nIV - (VETADO);\n\nV - (VETADO).\n\n§ 1º A dispensa de pessoa com deficiência ou de beneficiário reabilitado da Previdência Social ao final de contrato por prazo determinado de mais de 90 (noventa) dias e a dispensa imotivada em contrato por prazo indeterminado somente poderão ocorrer após a contratação de outro trabalhador com deficiência ou beneficiário reabilitado da Previdência Social.\n\n§ 2º Ao Ministério do Trabalho e Emprego incumbe estabelecer a sistemática de fiscalização, bem como gerar dados e estatísticas sobre o total de empregados e as vagas preenchidas por pessoas com deficiência e por beneficiários reabilitados da Previdência Social, fornecendo-os, quando solicitados, aos sindicatos, às entidades representativas dos empregados ou aos cidadãos interessados.\n\n§ 3º Para a reserva de cargos será considerada somente a contratação direta de pessoa com deficiência, excluído o aprendiz com deficiência de que trata a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.\n\n§ 4º (VETADO).” (NR)\n\n“Art. 110-A. No ato de requerimento de benefícios operacionalizados pelo INSS, não será exigida apresentação de termo de curatela de titular ou de beneficiário com deficiência, observados os procedimentos a serem estabelecidos em regulamento.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20101.%20A%20Lei%20n%C2%BA%208.213%2C%20de%2024%20de%20julho%20de%201991%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "100",
+      "next": "102"
+    },
+    "102": {
+      "numero": "102",
+      "texto": "Art. 102. O art. 2º da Lei nº 8.313, de 23 de dezembro de 1991 , passa a vigorar acrescido do seguinte § 3º :\n\n“Art. 2º .........................................................................\n\n.............................................................................................\n\n§ 3º Os incentivos criados por esta Lei somente serão concedidos a projetos culturais que forem disponibilizados, sempre que tecnicamente possível, também em formato acessível à pessoa com deficiência, observado o disposto em regulamento.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20102.%20O%20art.%202%C2%BA%20da%20Lei%20n%C2%BA%208.313%2C%20de%2023%20de%20dezembro%20de%201991%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "101",
+      "next": "103"
+    },
+    "103": {
+      "numero": "103",
+      "texto": "Art. 103. O art. 11 da Lei nº 8.429, de 2 de junho de 1992 , passa a vigorar acrescido do seguinte inciso IX:\n\n“Art. 11. .....................................................................\n\n............................................................................................\n\nIX - deixar de cumprir a exigência de requisitos de acessibilidade previstos na legislação.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20103.%20O%20art.%2011%20da%20Lei%20n%C2%BA%208.429%2C%20de%202%20de%20junho%20de%201992%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "102",
+      "next": "104"
+    },
+    "104": {
+      "numero": "104",
+      "texto": "Art. 104. A Lei nº 8.666, de 21 de junho de 1993 , passa a vigorar com as seguintes alterações:\n\n“Art. 3º .....................................................................\n\n..........................................................................................\n\n§ 2º ...........................................................................\n\n..........................................................................................\n\nV - produzidos ou prestados por empresas que comprovem cumprimento de reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e que atendam às regras de acessibilidade previstas na legislação.\n\n...........................................................................................\n\n§ 5º Nos processos de licitação, poderá ser estabelecida margem de preferência para:\n\nI - produtos manufaturados e para serviços nacionais que atendam a normas técnicas brasileiras; e\n\nII - bens e serviços produzidos ou prestados por empresas que comprovem cumprimento de reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e que atendam às regras de acessibilidade previstas na legislação.\n\n...................................................................................” (NR)\n\n“Art. 66-A. As empresas enquadradas no inciso V do § 2º e no inciso II do § 5º do art. 3º desta Lei deverão cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social, bem como as regras de acessibilidade previstas na legislação.\n\nParágrafo único. Cabe à administração fiscalizar o cumprimento dos requisitos de acessibilidade nos serviços e nos ambientes de trabalho.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20104.%20A%20Lei%20n%C2%BA%208.666%2C%20de%2021%20de%20junho%20de%201993%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "103",
+      "next": "105"
+    },
+    "105": {
+      "numero": "105",
+      "texto": "Art. 105. O art. 20 da Lei nº 8.742, de 7 de dezembro de 1993 , passa a vigorar com as seguintes alterações:\n\n“Art. 20. ......................................................................\n\n.............................................................................................\n\n§ 2º Para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.\n\n............................................................................................\n\n§ 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo.\n\n.............................................................................................\n\n§ 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar e da situação de vulnerabilidade, conforme regulamento.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20105.%20O%20art.%2020%20da%20Lei%20n%C2%BA%208.742%2C%20de%207%20de%20dezembro%20de%201993%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "104",
+      "next": "106"
+    },
+    "106": {
+      "numero": "106",
+      "texto": "Art. 106. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20106.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "105",
+      "next": "107"
+    },
+    "107": {
+      "numero": "107",
+      "texto": "Art. 107. A Lei nº 9.029, de 13 de abril de 1995 , passa a vigorar com as seguintes alterações:\n\n“Art. 1º É proibida a adoção de qualquer prática discriminatória e limitativa para efeito de acesso à relação de trabalho, ou de sua manutenção, por motivo de sexo, origem, raça, cor, estado civil, situação familiar, deficiência, reabilitação profissional, idade, entre outros, ressalvadas, nesse caso, as hipóteses de proteção à criança e ao adolescente previstas no inciso XXXIII do art. 7º da Constituição Federal. ” (NR)\n\n“Art. 3º Sem prejuízo do prescrito no art. 2º desta Lei e nos dispositivos legais que tipificam os crimes resultantes de preconceito de etnia, raça, cor ou deficiência, as infrações ao disposto nesta Lei são passíveis das seguintes cominações:\n\n..................................................................................” (NR)\n\n“Art. 4º ........................................................................\n\nI - a reintegração com ressarcimento integral de todo o período de afastamento, mediante pagamento das remunerações devidas, corrigidas monetariamente e acrescidas de juros legais;\n\n....................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20107.%20A%20Lei%20n%C2%BA%209.029%2C%20de%2013%20de%20abril%20de%201995%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "106",
+      "next": "108"
+    },
+    "108": {
+      "numero": "108",
+      "texto": "Art. 108. O art. 35 da Lei nº 9.250, de 26 de dezembro de 1995 , passa a vigorar acrescido do seguinte § 5º :\n\n“Art. 35. ......................................................................\n\n.............................................................................................\n\n§ 5º Sem prejuízo do disposto no inciso IX do parágrafo único do art. 3º da Lei nº 10.741, de 1º de outubro de 2003 , a pessoa com deficiência, ou o contribuinte que tenha dependente nessa condição, tem preferência na restituição referida no inciso III do art. 4º e na alínea “c” do inciso II do art. 8º .” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20108.%20O%20art.%2035%20da%20Lei%20n%C2%BA%209.250%2C%20de%2026%20de%20dezembro%20de%201995%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "107",
+      "next": "109"
+    },
+    "109": {
+      "numero": "109",
+      "texto": "Art. 109. A Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) , passa a vigorar com as seguintes alterações:\n\n“Art. 2º ...........................................................\n\nParágrafo único. Para os efeitos deste Código, são consideradas vias terrestres as praias abertas à circulação pública, as vias internas pertencentes aos condomínios constituídos por unidades autônomas e as vias e áreas de estacionamento de estabelecimentos privados de uso coletivo.” (NR)\n\n“Art. 86-A. As vagas de estacionamento regulamentado de que trata o inciso XVII do art. 181 desta Lei deverão ser sinalizadas com as respectivas placas indicativas de destinação e com placas informando os dados sobre a infração por estacionamento indevido.”\n\n“Art. 147-A. Ao candidato com deficiência auditiva é assegurada acessibilidade de comunicação, mediante emprego de tecnologias assistivas ou de ajudas técnicas em todas as etapas do processo de habilitação.\n\n§ 1º O material didático audiovisual utilizado em aulas teóricas dos cursos que precedem os exames previstos no art. 147 desta Lei deve ser acessível, por meio de subtitulação com legenda oculta associada à tradução simultânea em Libras.\n\n§ 2º É assegurado também ao candidato com deficiência auditiva requerer, no ato de sua inscrição, os serviços de intérprete da Libras, para acompanhamento em aulas práticas e teóricas.”\n\n“Art. 154. (VETADO).”\n\n“Art. 181. ...................................................................\n\n..........................................................................................\n\nXVII - .........................................................................\n\nInfração - grave;\n\n.................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20109.%20A%20Lei%20n%C2%BA%209.503%2C%20de%2023%20de%20setembro%20de%201997%20%28C%C3%B3digo%20de%20Tr%C3%A2nsito%20Brasileiro%29%20%2C%20passa%20a%20vigorar%20com%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "108",
+      "next": "110"
+    },
+    "110": {
+      "numero": "110",
+      "texto": "Art. 110. O inciso VI e o § 1º do art. 56 da Lei nº 9.615, de 24 de março de 1998 , passam a vigorar com a seguinte redação:\n\n“Art. 56. ....................................................................\n\n...........................................................................................\n\nVI - 2,7% (dois inteiros e sete décimos por cento) da arrecadação bruta dos concursos de prognósticos e loterias federais e similares cuja realização estiver sujeita a autorização federal, deduzindo-se esse valor do montante destinado aos prêmios;\n\n.............................................................................................\n\n§ 1º Do total de recursos financeiros resultantes do percentual de que trata o inciso VI do caput , 62,96% (sessenta e dois inteiros e noventa e seis centésimos por cento) serão destinados ao Comitê Olímpico Brasileiro (COB) e 37,04% (trinta e sete inteiros e quatro centésimos por cento) ao Comitê Paralímpico Brasileiro (CPB), devendo ser observado, em ambos os casos, o conjunto de normas aplicáveis à celebração de convênios pela União.\n\n..................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20110.%20O%20inciso%20VI%20e%20o%20%C2%A7%201%C2%BA%20do%20art.%2056%20da%20Lei%20n%C2%BA%209.615%2C%20de%2024%20de%20mar%C3%A7o%20de%201998",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "109",
+      "next": "111"
+    },
+    "111": {
+      "numero": "111",
+      "texto": "Art. 111. O art. 1º da Lei nº 10.048, de 8 de novembro de 2000 , passa a vigorar com a seguinte redação:\n\n“Art. 1º As pessoas com deficiência, os idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos terão atendimento prioritário, nos termos desta Lei.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20111.%20O%20art.%201%C2%BA%20da%20Lei%20n%C2%BA%2010.048%2C%20de%208%20de%20novembro%20de%202000%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "110",
+      "next": "112"
+    },
+    "112": {
+      "numero": "112",
+      "texto": "Art. 112. A Lei nº 10.098, de 19 de dezembro de 2000 , passa a vigorar com as seguintes alterações:\n\n“Art. 2º .......................................................................\n\nI - acessibilidade: possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como de outros serviços e instalações abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida;\n\nII - barreiras: qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social da pessoa, bem como o gozo, a fruição e o exercício de seus direitos à acessibilidade, à liberdade de movimento e de expressão, à comunicação, ao acesso à informação, à compreensão, à circulação com segurança, entre outros, classificadas em:\n\na) barreiras urbanísticas: as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo;\n\nb) barreiras arquitetônicas: as existentes nos edifícios públicos e privados;\n\nc) barreiras nos transportes: as existentes nos sistemas e meios de transportes;\n\nd) barreiras nas comunicações e na informação: qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação;\n\nIII - pessoa com deficiência: aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas;\n\nIV - pessoa com mobilidade reduzida: aquela que tenha, por qualquer motivo, dificuldade de movimentação, permanente ou temporária, gerando redução efetiva da mobilidade, da flexibilidade, da coordenação motora ou da percepção, incluindo idoso, gestante, lactante, pessoa com criança de colo e obeso;\n\nV - acompanhante: aquele que acompanha a pessoa com deficiência, podendo ou não desempenhar as funções de atendente pessoal;\n\nVI - elemento de urbanização: quaisquer componentes de obras de urbanização, tais como os referentes a pavimentação, saneamento, encanamento para esgotos, distribuição de energia elétrica e de gás, iluminação pública, serviços de comunicação, abastecimento e distribuição de água, paisagismo e os que materializam as indicações do planejamento urbanístico;\n\nVII - mobiliário urbano: conjunto de objetos existentes nas vias e nos espaços públicos, superpostos ou adicionados aos elementos de urbanização ou de edificação, de forma que sua modificação ou seu traslado não provoque alterações substanciais nesses elementos, tais como semáforos, postes de sinalização e similares, terminais e pontos de acesso coletivo às telecomunicações, fontes de água, lixeiras, toldos, marquises, bancos, quiosques e quaisquer outros de natureza análoga;\n\nVIII - tecnologia assistiva ou ajuda técnica: produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que objetivem promover a funcionalidade, relacionada à atividade e à participação da pessoa com deficiência ou com mobilidade reduzida, visando à sua autonomia, independência, qualidade de vida e inclusão social;\n\nIX - comunicação: forma de interação dos cidadãos que abrange, entre outras opções, as línguas, inclusive a Língua Brasileira de Sinais (Libras), a visualização de textos, o Braille, o sistema de sinalização ou de comunicação tátil, os caracteres ampliados, os dispositivos multimídia, assim como a linguagem simples, escrita e oral, os sistemas auditivos e os meios de voz digitalizados e os modos, meios e formatos aumentativos e alternativos de comunicação, incluindo as tecnologias da informação e das comunicações;\n\nX - desenho universal: concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva.” (NR)\n\n“Art. 3º O planejamento e a urbanização das vias públicas, dos parques e dos demais espaços de uso público deverão ser concebidos e executados de forma a torná-los acessíveis para todas as pessoas, inclusive para aquelas com deficiência ou com mobilidade reduzida.\n\nParágrafo único. O passeio público, elemento obrigatório de urbanização e parte da via pública, normalmente segregado e em nível diferente, destina-se somente à circulação de pedestres e, quando possível, à implantação de mobiliário urbano e de vegetação.” (NR)\n\n“Art. 9º ........................................................................\n\nParágrafo único. Os semáforos para pedestres instalados em vias públicas de grande circulação, ou que deem acesso aos serviços de reabilitação, devem obrigatoriamente estar equipados com mecanismo que emita sinal sonoro suave para orientação do pedestre.” (NR)\n\n“Art. 10-A. A instalação de qualquer mobiliário urbano em área de circulação comum para pedestre que ofereça risco de acidente à pessoa com deficiência deverá ser indicada mediante sinalização tátil de alerta no piso, de acordo com as normas técnicas pertinentes.”\n\n“Art. 12-A. Os centros comerciais e os estabelecimentos congêneres devem fornecer carros e cadeiras de rodas, motorizados ou não, para o atendimento da pessoa com deficiência ou com mobilidade reduzida.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20112.%20A%20Lei%20n%C2%BA%2010.098%2C%20de%2019%20de%20dezembro%20de%202000%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "111",
+      "next": "113"
+    },
+    "113": {
+      "numero": "113",
+      "texto": "Art. 113. A Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade) , passa a vigorar com as seguintes alterações:\n\n“Art. 3º ......................................................................\n\n............................................................................................\n\nIII - promover, por iniciativa própria e em conjunto com os Estados, o Distrito Federal e os Municípios, programas de construção de moradias e melhoria das condições habitacionais, de saneamento básico, das calçadas, dos passeios públicos, do mobiliário urbano e dos demais espaços de uso público;\n\nIV - instituir diretrizes para desenvolvimento urbano, inclusive habitação, saneamento básico, transporte e mobilidade urbana, que incluam regras de acessibilidade aos locais de uso público;\n\n.................................................................................” (NR)\n\n“Art. 41. ....................................................................\n\n...........................................................................................\n\n§ 3º As cidades de que trata o caput deste artigo devem elaborar plano de rotas acessíveis, compatível com o plano diretor no qual está inserido, que disponha sobre os passeios públicos a serem implantados ou reformados pelo poder público, com vistas a garantir acessibilidade da pessoa com deficiência ou com mobilidade reduzida a todas as rotas e vias existentes, inclusive as que concentrem os focos geradores de maior circulação de pedestres, como os órgãos públicos e os locais de prestação de serviços públicos e privados de saúde, educação, assistência social, esporte, cultura, correios e telégrafos, bancos, entre outros, sempre que possível de maneira integrada com os sistemas de transporte coletivo de passageiros.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20113.%20A%20Lei%20n%C2%BA%2010.257%2C%20de%2010%20de%20julho%20de%202001%20%28Estatuto%20da%20Cidade%29%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "112",
+      "next": "114"
+    },
+    "114": {
+      "numero": "114",
+      "texto": "Art. 114. A Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) , passa a vigorar com as seguintes alterações:\n\n“Art. 3º São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos.\n\nI - (Revogado);\n\nII - (Revogado);\n\nIII - (Revogado).” (NR)\n\n“Art. 4º São incapazes, relativamente a certos atos ou à maneira de os exercer:\n\n.....................................................................................\n\nII - os ébrios habituais e os viciados em tóxico;\n\nIII - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade;\n\n.............................................................................................\n\nParágrafo único . A capacidade dos indígenas será regulada por legislação especial.” (NR)\n\n“Art. 228. .....................................................................\n\n.............................................................................................\n\nII - (Revogado);\n\nIII - (Revogado);\n\n.............................................................................................\n\n§ 1º ..............................................................................\n\n§ 2º A pessoa com deficiência poderá testemunhar em igualdade de condições com as demais pessoas, sendo-lhe assegurados todos os recursos de tecnologia assistiva.” (NR)\n\n“Art. 1.518 . Até a celebração do casamento podem os pais ou tutores revogar a autorização.” (NR)\n\n“Art. 1.548. ...................................................................\n\nI - (Revogado);\n\n....................................................................................” (NR)\n\n“Art. 1.550. ..................................................................\n\n.............................................................................................\n\n§ 1º ..............................................................................\n\n§ 2º A pessoa com deficiência mental ou intelectual em idade núbia poderá contrair matrimônio, expressando sua vontade diretamente ou por meio de seu responsável ou curador.” (NR)\n\n“Art. 1.557. ................................................................\n\n............................................................................................\n\nIII - a ignorância, anterior ao casamento, de defeito físico irremediável que não caracterize deficiência ou de moléstia grave e transmissível, por contágio ou por herança, capaz de pôr em risco a saúde do outro cônjuge ou de sua descendência;\n\nIV - (Revogado).” (NR)\n\n“Art. 1.767. ..................................................................\n\nI - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade;\n\nII - (Revogado);\n\nIII - os ébrios habituais e os viciados em tóxico;\n\nIV - (Revogado);\n\n....................................................................................” (NR)\n\n“Art. 1.768. O processo que define os termos da curatela deve ser promovido:\n\n.............................................................................................\n\nIV - pela própria pessoa.” (NR)\n\n“Art. 1.769 . O Ministério Público somente promoverá o processo que define os termos da curatela:\n\nI - nos casos de deficiência mental ou intelectual;\n\n............................................................................................\n\nIII - se, existindo, forem menores ou incapazes as pessoas mencionadas no inciso II.” (NR)\n\n“Art. 1.771. Antes de se pronunciar acerca dos termos da curatela, o juiz, que deverá ser assistido por equipe multidisciplinar, entrevistará pessoalmente o interditando.” (NR)\n\n“Art. 1.772. O juiz determinará, segundo as potencialidades da pessoa, os limites da curatela, circunscritos às restrições constantes do art. 1.782, e indicará curador.\n\nParágrafo único. Para a escolha do curador, o juiz levará em conta a vontade e as preferências do interditando, a ausência de conflito de interesses e de influência indevida, a proporcionalidade e a adequação às circunstâncias da pessoa.” (NR)\n\n“Art. 1.775-A . Na nomeação de curador para a pessoa com deficiência, o juiz poderá estabelecer curatela compartilhada a mais de uma pessoa.”\n\n“Art. 1.777. As pessoas referidas no inciso I do art. 1.767 receberão todo o apoio necessário para ter preservado o direito à convivência familiar e comunitária, sendo evitado o seu recolhimento em estabelecimento que os afaste desse convívio.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20114.%20A%20Lei%20n%C2%BA%2010.406%2C%20de%2010%20de%20janeiro%20de%202002%20%28C%C3%B3digo%20Civil%29%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "113",
+      "next": "115"
+    },
+    "115": {
+      "numero": "115",
+      "texto": "Art. 115. O Título IV do Livro IV da Parte Especial da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) , passa a vigorar com a seguinte redação:\n\n“TÍTULO IV\n\nDa Tutela, da Curatela e da Tomada de Decisão Apoiada”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20115.%20O%20T%C3%ADtulo%20IV%20do%20Livro%20IV%20da%20Parte%20Especial%20da%20Lei%20n%C2%BA%2010.406%2C%20de%2010%20de%20janeiro%20de%202002%20%28C%C3%B3digo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "114",
+      "next": "116"
+    },
+    "116": {
+      "numero": "116",
+      "texto": "Art. 116. O Título IV do Livro IV da Parte Especial da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) , passa a vigorar acrescido do seguinte Capítulo III:\n\n“CAPÍTULO III\n\nDa Tomada de Decisão Apoiada",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20116.%20O%20T%C3%ADtulo%20IV%20do%20Livro%20IV%20da%20Parte%20Especial%20da%20Lei%20n%C2%BA%2010.406%2C%20de%2010%20de%20janeiro%20de%202002%20%28C%C3%B3digo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "115",
+      "next": "117"
+    },
+    "117": {
+      "numero": "117",
+      "texto": "Art. 117. O art. 1º da Lei nº 11.126, de 27 de junho de 2005 , passa a vigorar com a seguinte redação:\n\n“Art. 1º É assegurado à pessoa com deficiência visual acompanhada de cão-guia o direito de ingressar e de permanecer com o animal em todos os meios de transporte e em estabelecimentos abertos ao público, de uso público e privados de uso coletivo, desde que observadas as condições impostas por esta Lei.\n\n.............................................................................................\n\n§ 2º O disposto no caput deste artigo aplica-se a todas as modalidades e jurisdições do serviço de transporte coletivo de passageiros, inclusive em esfera internacional com origem no território brasileiro.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20117.%20O%20art.%201%C2%BA%20da%20Lei%20n%C2%BA%2011.126%2C%20de%2027%20de%20junho%20de%202005%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "116",
+      "next": "118"
+    },
+    "118": {
+      "numero": "118",
+      "texto": "Art. 118. O inciso IV do art. 46 da Lei nº 11.904, de 14 de janeiro de 2009 , passa a vigorar acrescido da seguinte alínea “k”:\n\n“Art. 46. ......................................................................\n\n...........................................................................................\n\nIV - ..............................................................................\n\n...........................................................................................\n\nk) de acessibilidade a todas as pessoas.\n\n.................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20118.%20O%20inciso%20IV%20do%20art.%2046%20da%20Lei%20n%C2%BA%2011.904%2C%20de%2014%20de%20janeiro%20de%202009%20%2C%20passa%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "117",
+      "next": "119"
+    },
+    "119": {
+      "numero": "119",
+      "texto": "Art. 119. A Lei nº 12.587, de 3 de janeiro de 2012 , passa a vigorar acrescida do seguinte art. 12-B:\n\n“Art. 12-B. Na outorga de exploração de serviço de táxi, reservar-se-ão 10% (dez por cento) das vagas para condutores com deficiência.\n\n§ 1º Para concorrer às vagas reservadas na forma do caput deste artigo, o condutor com deficiência deverá observar os seguintes requisitos quanto ao veículo utilizado:\n\nI - ser de sua propriedade e por ele conduzido; e\n\nII - estar adaptado às suas necessidades, nos termos da legislação vigente.\n\n§ 2º No caso de não preenchimento das vagas na forma estabelecida no caput deste artigo, as remanescentes devem ser disponibilizadas para os demais concorrentes.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20119.%20A%20Lei%20n%C2%BA%2012.587%2C%20de%203%20de%20janeiro%20de%202012%20%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.%2012-B%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "118",
+      "next": "120"
+    },
+    "120": {
+      "numero": "120",
+      "texto": "Art. 120. Cabe aos órgãos competentes, em cada esfera de governo, a elaboração de relatórios circunstanciados sobre o cumprimento dos prazos estabelecidos por força das Leis nº 10.048, de 8 de novembro de 2000 , e nº 10.098, de 19 de dezembro de 2000 , bem como o seu encaminhamento ao Ministério Público e aos órgãos de regulação para adoção das providências cabíveis.\n\nParágrafo único. Os relatórios a que se refere o caput deste artigo deverão ser apresentados no prazo de 1 (um) ano a contar da entrada em vigor desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20120.%20Cabe%20aos%20%C3%B3rg%C3%A3os%20competentes%2C%20em%20cada%20esfera%20de%20governo%2C%20a%20elabora%C3%A7%C3%A3o%20de%20relat%C3%B3rios%20circunstanciados%20sobre%20o%20cumprimento%20dos%20prazos%20estabelecidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "119",
+      "next": "121"
+    },
+    "121": {
+      "numero": "121",
+      "texto": "Art. 121. Os direitos, os prazos e as obrigações previstos nesta Lei não excluem os já estabelecidos em outras legislações, inclusive em pactos, tratados, convenções e declarações internacionais aprovados e promulgados pelo Congresso Nacional, e devem ser aplicados em conformidade com as demais normas internas e acordos internacionais vinculantes sobre a matéria.\n\nParágrafo único. Prevalecerá a norma mais benéfica à pessoa com deficiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20121.%20Os%20direitos%2C%20os%20prazos%20e%20as%20obriga%C3%A7%C3%B5es%20previstos%20nesta%20Lei%20n%C3%A3o%20excluem%20os%20j%C3%A1%20estabelecidos%20em%20outras%20legisla%C3%A7%C3%B5es%2C%20inclusive%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "120",
+      "next": "122"
+    },
+    "122": {
+      "numero": "122",
+      "texto": "Art. 122. Regulamento disporá sobre a adequação do disposto nesta Lei ao tratamento diferenciado, simplificado e favorecido a ser dispensado às microempresas e às empresas de pequeno porte, previsto no § 3º do art. 1º da Lei Complementar nº 123, de 14 de dezembro de 2006 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20122.%20Regulamento%20dispor%C3%A1%20sobre%20a%20adequa%C3%A7%C3%A3o%20do%20disposto%20nesta%20Lei%20ao%20tratamento%20diferenciado%2C%20simplificado%20e%20favorecido%20a%20ser%20dispensado%20%C3%A0s%20microempresas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "121",
+      "next": "123"
+    },
+    "123": {
+      "numero": "123",
+      "texto": "Art. 123. Revogam-se os seguintes dispositivos: (Vigência)\n\nI - o inciso II do § 2º do art. 1º da Lei nº 9.008, de 21 de março de 1995 ;\n\nII - os incisos I, II e III do art. 3º da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);\n\nIII - os incisos II e III do art. 228 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);\n\nIV - o inciso I do art. 1.548 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);\n\nV - o inciso IV do art. 1.557 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);\n\nVI - os incisos II e IV do art. 1.767 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);\n\nVII - os arts. 1.776 e 1.780 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20123.%20Revogam-se%20os%20seguintes%20dispositivos%3A%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "122",
+      "next": "124"
+    },
+    "124": {
+      "numero": "124",
+      "texto": "Art. 124. O § 1º do art. 2º desta Lei deverá entrar em vigor em até 2 (dois) anos, contados da entrada em vigor desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20124.%20O%20%C2%A7%201%C2%BA%20do%20art.%202%C2%BA%20desta%20Lei%20dever%C3%A1%20entrar%20em%20vigor%20em%20at%C3%A9%202%20%28dois%29%20anos%2C%20contados%20da%20entrada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "123",
+      "next": "125"
+    },
+    "125": {
+      "numero": "125",
+      "texto": "Art. 125. Devem ser observados os prazos a seguir discriminados, a partir da entrada em vigor desta Lei, para o cumprimento dos seguintes dispositivos:\n\nI - incisos I e II do § 2º do art. 28 , 48 (quarenta e oito) meses;\n\nII - § 6º do art. 44 , 48 (quarenta e oito) meses;\n\nII - § 6º do art. 44, 60 (sessenta) meses; (Redação dada pela Medida Provisória nº 917, de 2019)\n\nII - § 6º do art. 44, 60 (sessenta) meses; (Redação dada pela Lei nº 14.009, de 2020)\n\nII - § 6º do art. 44, 84 (oitenta e quatro) meses; (Redação dada pela Medida Provisória nº 1.025, de 2020)\n\nII - § 6º do art. 44, 84 (oitenta e quatro) meses; (Redação dada pela Lei nº 14.159, de 2021)\n\nIII - art. 45 , 24 (vinte e quatro) meses;\n\nIV - art. 49 , 48 (quarenta e oito) meses.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20125.%20Devem%20ser%20observados%20os%20prazos%20a%20seguir%20discriminados%2C%20a%20partir%20da%20entrada%20em%20vigor%20desta%20Lei%2C%20para%20o%20cumprimento%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "124",
+      "next": "126"
+    },
+    "126": {
+      "numero": "126",
+      "texto": "Art. 126. Prorroga-se até 31 de dezembro de 2021 a vigência da Lei nº 8.989, de 24 de fevereiro de 1995 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20126.%20Prorroga-se%20at%C3%A9%2031%20de%20dezembro%20de%202021%20a%20vig%C3%AAncia%20da%20Lei%20n%C2%BA%208.989%2C%20de%2024%20de%20fevereiro%20de%201995%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "125",
+      "next": "127"
+    },
+    "127": {
+      "numero": "127",
+      "texto": "Art. 127. Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial .\n\nBrasília, 6 de julho de 2015; 194º da Independência e 127º da República.\n\nDILMA ROUSSEF Marivaldo de Castro Pereira Joaquim Vieira Ferreira Levy Renato Janine Ribeiro Armando Monteiro Nelson Barbosa Gilberto Kassab Luis Inácio Lucena Adams Gilberto José Spier Vargas Guilherme Afif Domingos\n\nEste texto não substitui o publicado no DOU de 7.7.2015\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm#:~:text=Art.%20127.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20180%20%28cento%20e%20oitenta%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "126",
+      "next": null
+    }
+  }
+}
