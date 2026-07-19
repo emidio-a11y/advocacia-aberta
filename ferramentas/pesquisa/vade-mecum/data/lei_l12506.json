@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "codigo": "L12506",
+    "nome": "Aviso Prévio Proporcional",
+    "lei": "Lei 12.506/2011",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm",
+    "total_artigos": 2,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O aviso prévio, de que trata o Capítulo VI do Título IV da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, será concedido na proporção de 30 (trinta) dias aos empregados que contem até 1 (um) ano de serviço na mesma empresa.\n\nParágrafo único. Ao aviso prévio previsto neste artigo serão acrescidos 3 (três) dias por ano de serviço prestado na mesma empresa, até o máximo de 60 (sessenta) dias, perfazendo um total de até 90 (noventa) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm#:~:text=Art.%201%C2%BA%20O%20aviso%20pr%C3%A9vio%2C%20de%20que%20trata%20o%20Cap%C3%ADtulo%20VI%20do%20T%C3%ADtulo%20IV%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 11 de outubro de 2011; 190º da Independência e 123º da República.\n\nDILMA ROUSSEFF José Eduardo Cardozo Guido Mantega Carlos Lupi Fernando Damata Pimentel Miriam Belchior Garibaldi Alves Filho Luis Inácio Lucena Adams\n\nEste texto não substitui o publicado no DOU de 13.10.2011",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm#:~:text=Art.%202%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": null
+    }
+  }
+}

@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 36 | 9.564 registros | 36 diplomas |
+| Legislação | 63 | 10.104 registros | 63 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 43 | — | 23.438.280 bytes, cerca de 23 MB |
+| Total em JSON | 70 | — | 24.186.032 bytes, cerca de 24 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 9.564 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 10.104 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -107,23 +107,26 @@ protocolo comum. O inventário por diploma sai de
 | Grupo | Diplomas | Registros | Promovido em |
 |---|---:|---:|---|
 | `estatutos` | 17 | 1.391 | 2026-07-19 |
+| `esparsas_trabalhista` | 27 | 540 | 2026-07-19 |
 
-Grupos pendentes de materialização: codificadas (8), decretos (1) e as doze
-fatias de esparsas por macro-área (211 normas). Observações da fatia
-`estatutos`: a página oficial confirma o nome atual "Estatuto da Pessoa Idosa"
-(Lei 14.423/2022), mantida a sigla `EI`; a linha da planilha rotulada "Estatuto
-do Estrangeiro" corresponde à Lei de Migração (`LMIG`); os arts. 4º e 39 da Lei
-6.001 e sete artigos da Lei 6.880 só existem na fonte com rótulo tipográfico
-defeituoso e passaram a ser capturados.
+Grupos pendentes de materialização: codificadas (8), decretos (1) e as onze
+fatias de esparsas por macro-área restantes (184 normas). Observações das
+fatias promovidas: a página oficial confirma o nome atual "Estatuto da Pessoa
+Idosa" (Lei 14.423/2022), mantida a sigla `EI`; a linha da planilha rotulada
+"Estatuto do Estrangeiro" corresponde à Lei de Migração (`LMIG`); os arts. 4º
+e 39 da Lei 6.001, sete artigos da Lei 6.880 e os rótulos de abertura de seis
+leis trabalhistas (3.207, 4.950-A, 5.584, 6.321, 6.533 e 6.615) só existem na
+fonte com rótulo tipográfico defeituoso ("Art 1º"/"Art . 1º") e passaram a ser
+capturados.
 
 ### Cobertura real do motor legislativo
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 36 diplomas: o núcleo (`ADCT`, `CC`, `CDC`, `CE`, `CF`, `CLT`, `CP`, `CPC`, `CPP`, `CTB`, `CTN`), o piloto (`ECA`, `LBPS`, `LD`, `LEP`, `LGPD`, `LINDB`, `LLC`, `LMP`) e os estatutos (`ECID`, `ED`, `EDT`, `EI`, `EIND`, `EIR`, `EJUV`, `EMET`, `EMIL`, `EMUS`, `EOAB`, `EPC`, `EPD`, `EREF`, `ET`, `LC123`, `LMIG`) |
-| Códigos declarados no TypeScript | exatamente os 36 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 36 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 36 códigos do registro central |
+| Arquivos disponíveis | 63 diplomas: núcleo (11), piloto (8), estatutos (17) e trabalhista (27); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 63 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 63 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 63 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -273,7 +276,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 37 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 40 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

@@ -1,0 +1,607 @@
+{
+  "_meta": {
+    "codigo": "L6533",
+    "nome": "Profissão de Artista e de Técnico em Espetáculos",
+    "lei": "Lei 6.533/1978",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm",
+    "total_artigos": 37,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art . 1º - O exercício das profissões de Artista e de Técnico em Espetáculos de Diversões é regulado pela presente Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%201%C2%BA%20-%20O%20exerc%C3%ADcio%20das%20profiss%C3%B5es%20de%20Artista%20e%20de%20T%C3%A9cnico%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%20%C3%A9%20regulado%20pela%20presente%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art . 2º - Para os efeitos desta lei, é considerado:\n\nI - Artista, o profissional que cria, interpreta ou executa obra de caráter cultural de qualquer natureza, para efeito de exibição ou divulgação pública, através de meios de comunicação de massa ou em locais onde se realizam espetáculos de diversão pública;\n\nII - Técnico em Espetáculos de Diversões, o profissional que, mesmo em caráter auxiliar, participa, individualmente ou em grupo, de atividade profissional ligada diretamente à elaboração, registro, apresentação ou conservação de programas, espetáculos e produções.\n\nParágrafo único - As denominações e descrições das funções em que se desdobram as atividades de Artista e de Técnico em Espetáculos de Diversões constarão do regulamento desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%202%C2%BA%20-%20Para%20os%20efeitos%20desta%20lei%2C%20%C3%A9%20considerado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º - Aplicam-se as disposições desta lei às pessoas físicas ou jurídicas que tiverem a seu serviço os profissionais definidos no artigo anterior, para realização de espetáculos, programas, produções ou mensagens publicitárias.\n\nParágrafo único - Aplicam-se, igualmente, as disposições desta Lei às pessoas físicas ou jurídicas que agenciem colocação de mão-de-obra de profissionais definidos no artigo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%203%C2%BA%20-%20Aplicam-se%20as%20disposi%C3%A7%C3%B5es%20desta%20lei%20%C3%A0s%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%20que%20tiverem%20a%20seu%20servi%C3%A7o%20os%20profissionais%20definidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º - As pessoas físicas ou jurídicas de que trata o artigo anterior deverão ser previamente inscritas no Ministério do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%204%C2%BA%20-%20As%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%20de%20que%20trata%20o%20artigo%20anterior%20dever%C3%A3o%20ser%20previamente%20inscritas%20no%20Minist%C3%A9rio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art . 5º - Não se incluem no disposto nesta Lei os Técnicos em Espetáculos de Diversões que prestam serviços a empresa de radiodifusão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%205%C2%BA%20-%20N%C3%A3o%20se%20incluem%20no%20disposto%20nesta%20Lei%20os%20T%C3%A9cnicos%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%20que%20prestam%20servi%C3%A7os%20a%20empresa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art . 6º - O exercício das profissões de Artista e de Técnico em Espetáculos de Diversões requer prévio registro na Delegacia Regional do Trabalho do Ministério do Trabalho, o qual terá validade em todo o território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%206%C2%BA%20-%20O%20exerc%C3%ADcio%20das%20profiss%C3%B5es%20de%20Artista%20e%20de%20T%C3%A9cnico%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%20requer%20pr%C3%A9vio%20registro%20na%20Delegacia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art 7º - Para registro do Artista ou do Técnico em Espetáculos de Diversões, é necessário a apresentação de:\n\nI - diploma de curso superior de Diretor de Teatro, Coreógrafo, Professor de Arte Dramática, ou outros cursos semelhantes, reconhecidos na forma da Lei; ou\n\nII - diploma ou certificado correspondentes às habilitações profissionais de 2º Grau de Ator, Contra-regra, Cenotécnico, Sonoplasta, ou outras semelhantes, reconhecidas na forma da Lei; ou\n\nIII - atestado de capacitação profissional fornecido pelo Sindicato representativo das categorias profissionais e, subsidiariamente, pela Federação respectiva.\n\n§ 1º - A entidade sindical deverá conceder ou negar o atestado mencionado no item III, no prazo de 3 (três) dias úteis, podendo ser concedido o registro, ainda que provisório, se faltar manifestação da entidade sindical, nesse prazo.\n\n§ 2º - Da decisão da entidade sindical que negar a concessão do atestado mencionado no item III deste artigo, caberá recurso para o Ministério do Trabalho, até 30 (trinta) dias, a contar da ciência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%207%C2%BA%20-%20Para%20registro%20do%20Artista%20ou%20do%20T%C3%A9cnico%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%2C%20%C3%A9%20necess%C3%A1rio%20a%20apresenta%C3%A7%C3%A3o%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º - O registro de que trata o artigo anterior poderá ser concedido a título provisório, pelo prazo máximo de 1 (um) ano, com dispensa do atestado a que se refere o item III do mesmo artigo, mediante indicação conjunta dos Sindicatos de empregadores e de empregados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%208%C2%BA%20-%20O%20registro%20de%20que%20trata%20o%20artigo%20anterior%20poder%C3%A1%20ser%20concedido%20a%20t%C3%ADtulo%20provis%C3%B3rio%2C%20pelo%20prazo%20m%C3%A1ximo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art . 9º - O exercício das profissões de que trata esta Lei exige contrato de trabalho padronizado, nos termos de instruções a serem expedidas pelo Ministério do trabalho.\n\n§ 1º - O contrato de trabalho será visado pelo Sindicato representativo da categoria profissional e, subsidiariamente, pela Federação respectiva, como condição para registro no Ministério do Trabalho, até a véspera da sua vigência.\n\n§ 2º - A entidade sindical deverá visar ou não o contrato, no prazo máximo de 2 (dois) dias úteis, findos os quais ele poderá ser registrado no Ministério do Trabalho, se faltar a manifestação sindical.\n\n§ 3º - Da decisão da entidade sindical que negar o visto, caberá recurso para o Ministério do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%209%C2%BA%20-%20O%20exerc%C3%ADcio%20das%20profiss%C3%B5es%20de%20que%20trata%20esta%20Lei%20exige%20contrato%20de%20trabalho%20padronizado%2C%20nos%20termos%20de%20instru%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art . 10 - O contrato de trabalho conterá, obrigatoriamente:\n\nI - qualificação das partes contratantes;\n\nII - prazo de vigência;\n\nIII - natureza da função profissional, com definição das obrigações respectivas;\n\nIV - título do programa, espetáculo ou produção, ainda que provisório, com indicação do personagem nos casos de contrato por tempo determinado;\n\nV - locais onde atuará o contratado, inclusive os opcionais;\n\nVI - jornada de trabalho, com especificação do horário e intervalo de repouso;\n\nVII - remuneração e sua forma de pagamento;\n\nVIII - disposição sobre eventual inclusão do nome do contratado no crédito de apresentação, cartazes, impressos e programas;\n\nIX - dia de folga semanal;\n\nX - ajuste sobre viagens e deslocamentos;\n\nXI - período de realização de trabalhos complementares, inclusive dublagem, quando posteriores a execução do trabalho de interpretação objeto do contrato;\n\nXII - número da Carteira de Trabalho e Previdência Social.\n\nParágrafo único - Nos contratos de trabalho por tempo indeterminado deverá constar, ainda, cláusula relativa ao pagamento de adicional, devido em caso de deslocamento para prestação de serviço fora da cidade ajustada no contrato de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2010%20-%20O%20contrato%20de%20trabalho%20conter%C3%A1%2C%20obrigatoriamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art . 11 - A cláusula de exclusividade não impedirá o Artista ou Técnico em Espetáculos de Diversões de prestar serviços a outro empregador em atividade diversa da ajustada no contrato de trabalho, desde que em outro meio de comunicação, e sem que se caracterize prejuízo para o contratante com o qual foi assinada a cláusula de exclusividade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2011%20-%20A%20cl%C3%A1usula%20de%20exclusividade%20n%C3%A3o%20impedir%C3%A1%20o%20Artista%20ou%20T%C3%A9cnico%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%20de%20prestar%20servi%C3%A7os%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art . 12 - O empregador poderá utilizar trabalho de profissional, mediante nota contratual, para substituição de Artista ou de Técnico em Espetáculos de Diversões, ou para prestação de serviço caracteristicamente eventual, por prazo não superior a 7 (sete) dias consecutivos, vedada a utilização desse mesmo profissional, nos 60 (sessenta) dias subseqüentes, por essa forma, pelo mesmo empregador.\n\nParágrafo único - O Ministério do Trabalho expedirá instruções sobre a utilização da nota contratual e aprovará seu modelo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2012%20-%20O%20empregador%20poder%C3%A1%20utilizar%20trabalho%20de%20profissional%2C%20mediante%20nota%20contratual%2C%20para%20substitui%C3%A7%C3%A3o%20de%20Artista%20ou%20de%20T%C3%A9cnico%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art . 13 - Não será permitida a cessão ou promessa de cessão de direitos autorais e conexos decorrentes da prestação de serviços profissionais.\n\nParágrafo único - Os direitos autorais e conexos dos profissionais serão devidos em decorrência de cada exibição da obra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2013%20-%20N%C3%A3o%20ser%C3%A1%20permitida%20a%20cess%C3%A3o%20ou%20promessa%20de%20cess%C3%A3o%20de%20direitos%20autorais%20e%20conexos%20decorrentes%20da%20presta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art . 14 - Nas mensagens publicitárias, feitas para cinema, televisão ou para serem divulgadas por outros veículos, constará do contrato de trabalho, obrigatoriamente:\n\nI - o nome do produtor, do anunciante e, se houver, da agência de publicidade para quem a mensagem é produzida;\n\nIl - o tempo de exploração comercial da mensagem;\n\nIII - o produto a ser promovido;\n\nIV - os veículos através dos quais a mensagem será exibida;\n\nV - as praças onde a mensagem será veiculada;\n\nVI o tempo de duração da mensagem e suas características.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2014%20-%20Nas%20mensagens%20publicit%C3%A1rias%2C%20feitas%20para%20cinema%2C%20televis%C3%A3o%20ou%20para%20serem%20divulgadas%20por%20outros%20ve%C3%ADculos%2C%20constar%C3%A1%20do%20contrato%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art . 15 - O contrato de trabalho e a nota contratual serão emitidos com numeração sucessiva e em ordem cronológica.\n\nParágrafo único - Os documentos de que trata este artigo serão firmados pelo menos em duas vias pelo contratado, ficando uma delas em seu poder.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2015%20-%20O%20contrato%20de%20trabalho%20e%20a%20nota%20contratual%20ser%C3%A3o%20emitidos%20com%20numera%C3%A7%C3%A3o%20sucessiva%20e%20em%20ordem%20cronol%C3%B3gica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art . 16 - O profissional não poderá recusar-se à auto dublagem, quando couber.\n\nParágrafo único - Se o empregador ou tomador de serviços preferir a dublagem por terceiros, ela só poderá ser feita com autorização, por escrito, do profissional, salvo se for realizada em língua estrangeira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2016%20-%20O%20profissional%20n%C3%A3o%20poder%C3%A1%20recusar-se%20%C3%A0%20auto%20dublagem%2C%20quando%20couber.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art . 17 - A utilização de profissional contratado por agência de locação de mão-de-obra, obrigará o tomador de serviço solidariamente pelo cumprimento das obrigações legais e contratuais, se se caracterizar a tentativa, pelo tomador de serviço, de utilizar a agência para fugir às responsabilidades e obrigações decorrentes desta Lei ou de contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2017%20-%20A%20utiliza%C3%A7%C3%A3o%20de%20profissional%20contratado%20por%20ag%C3%AAncia%20de%20loca%C3%A7%C3%A3o%20de%20m%C3%A3o-de-obra%2C%20obrigar%C3%A1%20o%20tomador%20de%20servi%C3%A7o%20solidariamente%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art . 18 - O comparecimento do profissional na hora e no lugar da convocação implica a percepção integral do salário, mesmo que o trabalho não se realize por motivo independente de sua vontade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2018%20-%20O%20comparecimento%20do%20profissional%20na%20hora%20e%20no%20lugar%20da%20convoca%C3%A7%C3%A3o%20implica%20a%20percep%C3%A7%C3%A3o%20integral%20do%20sal%C3%A1rio%2C%20mesmo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art . 19 - O profissional contratado por prazo determinado não poderá rescindir o contrato de trabalho sem justa causa, sob pena de ser obrigado a indenizar o em pregador dos prejuízos que desse fato lhe resultarem.\n\nParágrafo único - A indenização de que trata este artigo não poderá exceder àquela a que teria direito o empregado em idênticas condições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2019%20-%20O%20profissional%20contratado%20por%20prazo%20determinado%20n%C3%A3o%20poder%C3%A1%20rescindir%20o%20contrato%20de%20trabalho%20sem%20justa%20causa%2C%20sob%20pena",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art . 20 Na rescisão sem justa causa, no distrato e na cessação do contrato de trabalho, o empregado poderá ser assistido pelo Sindicato representativo da categoria e, subsidiariamente, pela Federação respectiva, respeitado o disposto no artigo 477 da Consolidação das Leis do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2020%20Na%20rescis%C3%A3o%20sem%20justa%20causa%2C%20no%20distrato%20e%20na%20cessa%C3%A7%C3%A3o%20do%20contrato%20de%20trabalho%2C%20o%20empregado%20poder%C3%A1%20ser%20assistido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art . 21 A jornada normal de trabalho dos profissionais de que trata esta Lei, terá nos setores e atividades respectivos, as seguintes durações:\n\nI - Radiodifusão, fotografia e gravação: 6 (seis) horas diárias, com limitação de 30 (trinta) horas semanais;\n\nII - Cinema, inclusive publicitário, quando em estúdio: 6 (seis) horas diárias;\n\nIII - Teatro: a partir de estréia do espetáculo terá a duração das sessões, com 8 (oito) sessões semanais;\n\nIV - Circo e variedades: 6 (seis) horas diárias, com limitação de 36 (trinta e seis) horas semanais;\n\nV - Dublagem: 6 (seis) horas diárias, com limitação de 40 (quarenta) horas semanais.\n\n§ 1º - O trabalho prestado além das limitações diárias ou das sessões semanais previstas neste artigo será considerado extraordinário, aplicando-se-lhe o disposto nos artigos 59 a 61 da Consolidação das Leis do Trabalho.\n\n§ 2º - A jornada normal será dividida em 2 (dois) turnos, nenhum dos quais poderá exceder de 4 (quatro) horas, respeitado o intervalo previsto na Consolidação das Leis do Trabalho.\n\n§ 3º - Nos espetáculos teatrais e circenses, desde que sua natureza ou tradição o exijam, o intervalo poderá, em benefício do rendimento artístico, ser superior a 2 (duas) horas.\n\n§ 4º - Será computado como trabalho efetivo o tempo em que o empregado estiver à disposição do empregador, a contar de sua apresentação no local de trabalho, inclusive o período destinado a ensaios, gravações, dublagem, fotografias, caracterização, e todo àquele que exija a presença do Artista, assim como o destinado a preparação do ambiente, em termos de cenografia, iluminação e montagem de equipamento.\n\n§ 5º - Para o Artista, integrante de elenco teatral, a jornada de trabalho poderá ser de 8 (oito) horas, durante o período de ensaio, respeitado o intervalo previsto na Consolidação das Leis do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2021%20A%20jornada%20normal%20de%20trabalho%20dos%20profissionais%20de%20que%20trata%20esta%20Lei%2C%20ter%C3%A1%20nos%20setores%20e%20atividades%20respectivos%2C%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art . 22 - Na hipótese de exercício concomitante de funções dentro de uma mesma atividade, será assegurado ao profissional um adicional mínimo de 40% (quarenta por cento), pela função acumulada, tomando-se por base a função melhor remunerada.\n\nParágrafo único - E vedada a acumulação de mais de duas funções em decorrência do mesmo contrato de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2022%20-%20Na%20hip%C3%B3tese%20de%20exerc%C3%ADcio%20concomitante%20de%20fun%C3%A7%C3%B5es%20dentro%20de%20uma%20mesma%20atividade%2C%20ser%C3%A1%20assegurado%20ao%20profissional%20um%20adicional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art . 23 - Na hipótese de trabalho executado fora do local constante do contrato de trabalho, correrão à conta do empregador, além do salário, as despesas de transporte e de alimentação e hospedagem, até o respectivo retorno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2023%20-%20Na%20hip%C3%B3tese%20de%20trabalho%20executado%20fora%20do%20local%20constante%20do%20contrato%20de%20trabalho%2C%20correr%C3%A3o%20%C3%A0%20conta%20do%20empregador%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art . 24 - É livre a criação interpretativa do Artista e do Técnico em Espetáculos de Diversões, respeitado o texto da obra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2024%20-%20%C3%89%20livre%20a%20cria%C3%A7%C3%A3o%20interpretativa%20do%20Artista%20e%20do%20T%C3%A9cnico%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%2C%20respeitado%20o%20texto%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art . 25 - Para contratação de estrangeiro domiciliado no exterior, exigir-se-á prévio recolhimento de importância equivalente a 10% (dez por cento) do valor total do ajuste à Caixa Econômica Federal em nome da entidade sindical da categoria profissional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2025%20-%20Para%20contrata%C3%A7%C3%A3o%20de%20estrangeiro%20domiciliado%20no%20exterior%2C%20exigir-se-%C3%A1%20pr%C3%A9vio%20recolhimento%20de%20import%C3%A2ncia%20equivalente%20a%2010%25%20%28dez%20por%20cento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art . 26 - O fornecimento de guarda-roupa e demais recursos indispensáveis ao cumprimento das tarefas contratuais será de responsabilidade do empregador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2026%20-%20O%20fornecimento%20de%20guarda-roupa%20e%20demais%20recursos%20indispens%C3%A1veis%20ao%20cumprimento%20das%20tarefas%20contratuais%20ser%C3%A1%20de%20responsabilidade%20do%20empregador.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art . 27 - Nenhum Artista ou Técnico em Espetáculos de Diversões será obrigado a interpretar ou participar de trabalho possível de pôr em risco sua integridade física ou moral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2027%20-%20Nenhum%20Artista%20ou%20T%C3%A9cnico%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%20ser%C3%A1%20obrigado%20a%20interpretar%20ou%20participar%20de%20trabalho%20poss%C3%ADvel%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art . 28 - A contratação de figurante não qualificado profissionalmente, para atuação esporádica, determinada pela necessidade de características artísticas da obra, poderá ser feita pela forma da indicação prevista no artigo 8º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2028%20-%20A%20contrata%C3%A7%C3%A3o%20de%20figurante%20n%C3%A3o%20qualificado%20profissionalmente%2C%20para%20atua%C3%A7%C3%A3o%20espor%C3%A1dica%2C%20determinada%20pela%20necessidade%20de%20caracter%C3%ADsticas%20art%C3%ADsticas%20da%20obra%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art . 29 - Os filhos dos profissionais de que trata esta Lei, cuja atividade seja itinerante, terão assegurada a transferência da matrícula e conseqüente vaga nas escolas públicas locais de 1º e 2º Graus, e autorizada nas escolas particulares desses níveis, mediante apresentação de certificado da escola de origem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2029%20-%20Os%20filhos%20dos%20profissionais%20de%20que%20trata%20esta%20Lei%2C%20cuja%20atividade%20seja%20itinerante%2C%20ter%C3%A3o%20assegurada%20a%20transfer%C3%AAncia%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art . 30 - Os textos destinados à memorização, juntamente com o roteiro de gravação ou plano de trabalho, deverão ser entregues ao profissional com antecedência mínima de 72 (setenta e duas) horas, em relação ao início dos trabalhos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2030%20-%20Os%20textos%20destinados%20%C3%A0%20memoriza%C3%A7%C3%A3o%2C%20juntamente%20com%20o%20roteiro%20de%20grava%C3%A7%C3%A3o%20ou%20plano%20de%20trabalho%2C%20dever%C3%A3o%20ser%20entregues",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art . 31 - Os profissionais de que trata esta Lei têm penhor legal sobre o equipamento e todo o material de propriedade do empregador, utilizado na realização de programa, espetáculo ou produção, pelo valor das obrigações não cumpridas pelo empregador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2031%20-%20Os%20profissionais%20de%20que%20trata%20esta%20Lei%20t%C3%AAm%20penhor%20legal%20sobre%20o%20equipamento%20e%20todo%20o%20material%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art . 32 - É assegurado o direito ao atestado de que trata o item III do artigo 7º ao Artista ou Técnico em Espetáculos de Diversões que, até a data da publicação desta Lei tenha exercido, comprovadamente, a respectiva profissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2032%20-%20%C3%89%20assegurado%20o%20direito%20ao%20atestado%20de%20que%20trata%20o%20item%20III%20do%20artigo%207%C2%BA%20ao%20Artista%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art . 33 - As infrações ao disposto nesta Lei serão punidas com multa de 2 (duas) a 20 (vinte) vezes o maior valor de referência previsto no artigo 2º, parágrafo único da Lei nº 6.205, de 29 de abril de 1975, calculada à razão de um valor de referência por empregado em situação irregular.\n\nParágrafo único - Em caso de reincidência, embaraço ou resistência à fiscalização, emprego de artifício ou simulação com o objetivo de fraudar a Lei, a multa será aplicada em seu valor máximo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2033%20-%20As%20infra%C3%A7%C3%B5es%20ao%20disposto%20nesta%20Lei%20ser%C3%A3o%20punidas%20com%20multa%20de%202%20%28duas%29%20a%2020%20%28vinte%29%20vezes%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art . 34 - O empregador punido na forma do artigo anterior, enquanto não regularizar a situação que deu causa à autuação, e não recolher, multa aplicada, após esgotados os recursos cabíveis, não poderá:\n\nI - receber qualquer benefício, incentivo ou subvenção concedidos por órgãos públicos;\n\nII - obter liberação para exibição de programa, espetáculo, ou produção, pelo órgão ou autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2034%20-%20O%20empregador%20punido%20na%20forma%20do%20artigo%20anterior%2C%20enquanto%20n%C3%A3o%20regularizar%20a%20situa%C3%A7%C3%A3o%20que%20deu%20causa%20%C3%A0%20autua%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art . 35 - Aplicam-se aos Artistas e Técnicos em Espetáculos de Diversões as normas da legislação do trabalho, exceto naquilo que for regulado de forma diferente nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2035%20-%20Aplicam-se%20aos%20Artistas%20e%20T%C3%A9cnicos%20em%20Espet%C3%A1culos%20de%20Divers%C3%B5es%20as%20normas%20da%20legisla%C3%A7%C3%A3o%20do%20trabalho%2C%20exceto%20naquilo%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art . 36 - O Poder Executivo regulamentará esta Lei no prazo de 60 (sessenta) dias a contar da data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2036%20-%20O%20Poder%20Executivo%20regulamentar%C3%A1%20esta%20Lei%20no%20prazo%20de%2060%20%28sessenta%29%20dias%20a%20contar%20da%20data%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art . 37 - Esta Lei entrará em vigor no dia 19 de agosto de 1978, revogadas as disposições em contrário, especialmente o art. 35, o § 2º do art. 480, o Parágrafo único do art. 507 e o art. 509 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1943, a Lei nº 101, de 1947, e a Lei nº 301, de 1948.\n\nBrasília, em 24 de maio de 1978; 157º da Independência e 90º da República.\n\nERNESTO GEISEL Armando Falcão Ney Braga Arnaldo Prieto Euclides Quandt de Oliveira\n\nEste texto não substitui o publicado no DOU de 26.5.1978 e retificado em 28.6.1978\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6533.htm#:~:text=Art%20.%2037%20-%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20no%20dia%2019%20de%20agosto%20de%201978%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20especialmente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": null
+    }
+  }
+}

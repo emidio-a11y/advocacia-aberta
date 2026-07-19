@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "codigo": "L6321",
+    "nome": "Programa de Alimentação do Trabalhador (PAT)",
+    "lei": "Lei 6.321/1976",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm",
+    "total_artigos": 5,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art 1º As pessoas jurídicas poderão deduzir, do lucro tributável para fins do imposto sobre a renda o dobro das despesas comprovadamente realizadas no período base, em programas de alimentação do trabalhador, previamente aprovados pelo Ministério do Trabalho na forma em que dispuser o Regulamento desta Lei. (Vide Decreto-Lei nº 2.397, de 1987) (Vide Lei nº 9.532, de 1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art%201%C2%BA%20As%20pessoas%20jur%C3%ADdicas%20poder%C3%A3o%20deduzir%2C%20do%20lucro%20tribut%C3%A1vel%20para%20fins%20do%20imposto%20sobre%20a%20renda%20o%20dobro%20das%20despesas%20comprovadamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art 2º Os programas de alimentação a que se refere o artigo anterior deverão conferir prioridade ao atendimento dos trabalhadores de baixa renda e limitar-se-ão aos contratados pela pessoa jurídica beneficiária.\n\n§ 1o O Ministério do Trabalho articular-se-á com o Instituto Nacional de Alimentação e Nutrição - INAN, para efeito do exame e aprovação dos programas a que se refere a presente Lei. (Renumerado do parágrafo único, pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 2o As pessoas jurídicas beneficiárias do Programa de Alimentação do Trabalhador - PAT poderão estender o benefício previsto nesse Programa aos trabalhadores por elas dispensados, no período de transição para um novo emprego, limitada a extensão ao período de seis meses. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3o As pessoas jurídicas beneficiárias do PAT poderão estender o benefício previsto nesse Programa aos empregados que estejam com contrato suspenso para participação em curso ou programa de qualificação profissional, limitada essa extensão ao período de cinco meses. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art%202%C2%BA%20Os%20programas%20de%20alimenta%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20artigo%20anterior%20dever%C3%A3o%20conferir%20prioridade%20ao%20atendimento%20dos%20trabalhadores%20de%20baixa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art 3º Não se inclui como salário de contribuição a parcela paga in natura , pela empresa, nos programas de alimentação aprovados pelo Ministério do Trabalho.\n\nArt. 3º-A A execução inadequada, o desvio ou o desvirtuamento das finalidades dos programas de alimentação do trabalhador pelas pessoas jurídicas beneficiárias ou pelas empresas registradas no Ministério do Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretará: (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nI - a aplicação de multa no valor de R$5.000,00 (cinco mil reais) a R$ 50.000,00 (cinquenta mil reais), aplicada em dobro em caso de reincidência ou embaraço à fiscalização; (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nII - o cancelamento da inscrição da pessoa jurídica beneficiária ou do registro das empresas vinculadas aos programas de alimentação do trabalhador cadastradas no Ministério do Trabalho e Previdência, desde a data da primeira irregularidade passível de cancelamento, conforme estabelecido em ato específico; e (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nIII - a perda do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 1º Os critérios de cálculo e os parâmetros de gradação da multa prevista no inciso I do caput serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 2º O estabelecimento que comercializa produtos não relacionados à alimentação do trabalhador, e a empresa que o credenciou, sujeitam-se à aplicação da multa prevista no inciso I do caput. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\n§ 3º Na hipótese do cancelamento previsto no inciso II do caput, nova inscrição ou registro junto ao Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento. (Incluído pela Medida Provisória nº 1.108, de 2022)\n\nArt. 3º-A. A execução inadequada, o desvio ou o desvirtuamento das finalidades dos programas de alimentação do trabalhador pelas pessoas jurídicas beneficiárias ou pelas empresas registradas no Ministério do Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretarão: (Incluído pela Lei nº 14.442, de 2022)\n\nI - a aplicação de multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 50.000,00 (cinquenta mil reais), a qual será aplicada em dobro em caso de reincidência ou de embaraço à fiscalização; (Incluído pela Lei nº 14.442, de 2022)\n\nII - o cancelamento da inscrição da pessoa jurídica beneficiária ou do registro das empresas vinculadas aos programas de alimentação do trabalhador cadastradas no Ministério do Trabalho e Previdência, desde a data da primeira irregularidade passível de cancelamento, conforme estabelecido em ato específico; e (Incluído pela Lei nº 14.442, de 2022)\n\nIII - a perda do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II deste caput. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 1º Os critérios de cálculo e os parâmetros de gradação da multa prevista no inciso I do caput deste artigo serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O estabelecimento que comercializa produtos não relacionados à alimentação do trabalhador e a empresa que o credenciou sujeitam-se à aplicação da multa prevista no inciso I do caput deste artigo. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese do cancelamento previsto no inciso II do caput deste artigo, novo registro ou inscrição perante o Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento. (Incluído pela Lei nº 14.442, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art%203%C2%BA%20N%C3%A3o%20se%20inclui%20como%20sal%C3%A1rio%20de%20contribui%C3%A7%C3%A3o%20a%20parcela%20paga%20in%20natura%20%2C%20pela%20empresa%2C%20nos%20programas%20de%20alimenta%C3%A7%C3%A3o%20aprovados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art 4º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art%204%C2%BA%20O%20Poder%20Executivo%20regulamentar%C3%A1%20a%20presente%20Lei%20no%20prazo%20de%2060%20%28sessenta%29%20dias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, 14 de abril de 1976; 155º da Independência e 88º da República.\n\nERNESTO GEISEL Mário Henrique Simonsen Arnaldo Prieto Paulo de Almeida Machado\n\nEste texto não substitui o publicado no DOU de 19.4.1976\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6321.htm#:~:text=Art%205%C2%BA%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": null
+    }
+  }
+}

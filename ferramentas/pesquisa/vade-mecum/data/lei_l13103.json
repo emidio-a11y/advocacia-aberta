@@ -1,0 +1,367 @@
+{
+  "_meta": {
+    "codigo": "L13103",
+    "nome": "Motorista Profissional",
+    "lei": "Lei 13.103/2015",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm",
+    "total_artigos": 22,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º É livre o exercício da profissão de motorista profissional, atendidas as condições e qualificações profissionais estabelecidas nesta Lei.\n\nParágrafo único. Integram a categoria profissional de que trata esta Lei os motoristas de veículos automotores cuja condução exija formação profissional e que exerçam a profissão nas seguintes atividades ou categorias econômicas:\n\nI - de transporte rodoviário de passageiros;\n\nII - de transporte rodoviário de cargas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%201%C2%BA%20%C3%89%20livre%20o%20exerc%C3%ADcio%20da%20profiss%C3%A3o%20de%20motorista%20profissional%2C%20atendidas%20as%20condi%C3%A7%C3%B5es%20e%20qualifica%C3%A7%C3%B5es%20profissionais%20estabelecidas%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º São direitos dos motoristas profissionais de que trata esta Lei, sem prejuízo de outros previstos em leis específicas:\n\nI - ter acesso gratuito a programas de formação e aperfeiçoamento profissional, preferencialmente mediante cursos técnicos e especializados previstos no inciso IV do art. 145 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , normatizados pelo Conselho Nacional de Trânsito - CONTRAN, em cooperação com o poder público;\n\nII - contar, por intermédio do Sistema Único de Saúde - SUS, com atendimento profilático, terapêutico, reabilitador, especialmente em relação às enfermidades que mais os acometam;\n\nIII - receber proteção do Estado contra ações criminosas que lhes sejam dirigidas no exercício da profissão;\n\nIV - contar com serviços especializados de medicina ocupacional, prestados por entes públicos ou privados à sua escolha;\n\nV - se empregados:\n\na) não responder perante o empregador por prejuízo patrimonial decorrente da ação de terceiro, ressalvado o dolo ou a desídia do motorista, nesses casos mediante comprovação, no cumprimento de suas funções;\n\nb) ter jornada de trabalho controlada e registrada de maneira fidedigna mediante anotação em diário de bordo, papeleta ou ficha de trabalho externo, ou sistema e meios eletrônicos instalados nos veículos, a critério do empregador; e\n\nc) ter benefício de seguro de contratação obrigatória assegurado e custeado pelo empregador, destinado à cobertura de morte natural, morte por acidente, invalidez total ou parcial decorrente de acidente, traslado e auxílio para funeral referentes às suas atividades, no valor mínimo correspondente a 10 (dez) vezes o piso salarial de sua categoria ou valor superior fixado em convenção ou acordo coletivo de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%202%C2%BA%20S%C3%A3o%20direitos%20dos%20motoristas%20profissionais%20de%20que%20trata%20esta%20Lei%2C%20sem%20preju%C3%ADzo%20de%20outros%20previstos%20em%20leis%20espec%C3%ADficas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Aos motoristas profissionais dependentes de substâncias psicoativas é assegurado o pleno atendimento pelas unidades de saúde municipal, estadual e federal, no âmbito do Sistema Único de Saúde, podendo ser realizados convênios com entidades privadas para o cumprimento da obrigação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%203%C2%BA%20Aos%20motoristas%20profissionais%20dependentes%20de%20subst%C3%A2ncias%20psicoativas%20%C3%A9%20assegurado%20o%20pleno%20atendimento%20pelas%20unidades%20de%20sa%C3%BAde%20municipal%2C%20estadual%20e%20federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O § 5º do art. 71 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de lº de maio de 1943 , passa a vigorar com a seguinte redação:\n\n“Art. 71. .......................................................................\n\n.............................................................................................\n\n§ 5º O intervalo expresso no caput poderá ser reduzido e/ou fracionado, e aquele estabelecido no § 1º poderá ser fracionado, quando compreendidos entre o término da primeira hora trabalhada e o início da última hora trabalhada, desde que previsto em convenção ou acordo coletivo de trabalho, ante a natureza do serviço e em virtude das condições especiais de trabalho a que são submetidos estritamente os motoristas, cobradores, fiscalização de campo e afins nos serviços de operação de veículos rodoviários, empregados no setor de transporte coletivo de passageiros, mantida a remuneração e concedidos intervalos para descanso menores ao final de cada viagem.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%204%C2%BA%20O%20%C2%A7%205%C2%BA%20do%20art.%2071%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%2C%20aprovada%20pelo%20Decreto-Lei%20n%C2%BA%205.452%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O art. 168 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de lº de maio de 1943 , passa a vigorar com as seguintes alterações:\n\n“Art. 168 ......................................................................\n\n.............................................................................................\n\n§ 6º Serão exigidos exames toxicológicos, previamente à admissão e por ocasião do desligamento, quando se tratar de motorista profissional, assegurados o direito à contraprova em caso de resultado positivo e a confidencialidade dos resultados dos respectivos exames.\n\n§ 7º Para os fins do disposto no § 6º, será obrigatório exame toxicológico com janela de detecção mínima de 90 (noventa) dias, específico para substâncias psicoativas que causem dependência ou, comprovadamente, comprometam a capacidade de direção, podendo ser utilizado para essa finalidade o exame toxicológico previsto na Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , desde que realizado nos últimos 60 (sessenta) dias.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%205%C2%BA%20O%20art.%20168%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%2C%20aprovada%20pelo%20Decreto-Lei%20n%C2%BA%205.452%2C%20de%20l%C2%BA%20de%20maio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A Seção IV-A do Capítulo I do Título III da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , passa a vigorar com as seguintes alterações:\n\n“ TÍTULO III\n\n...................................................................................................",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%206%C2%BA%20A%20Se%C3%A7%C3%A3o%20IV-A%20do%20Cap%C3%ADtulo%20I%20do%20T%C3%ADtulo%20III%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%2C%20aprovada%20pelo%20Decreto-Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O Capítulo III-A da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , passa a vigorar com as seguintes alterações:\n\n“ CAPÍTULO III-A\n\n.............................................................................................\n\n‘ Art. 67-A. O disposto neste Capítulo aplica-se aos motoristas profissionais:\n\nI - de transporte rodoviário coletivo de passageiros;\n\nII - de transporte rodoviário de cargas.\n\n§ 1º (Revogado).\n\n§ 2º (Revogado).\n\n§ 3º (Revogado).\n\n§ 4º (Revogado).\n\n§ 5º (Revogado).\n\n§ 6º (Revogado).\n\n§ 7º (Revogado).\n\n...................................................................................’ (NR)\n\n.............................................................................................\n\n‘ Art. 67-C. É vedado ao motorista profissional dirigir por mais de 5 (cinco) horas e meia ininterruptas veículos de transporte rodoviário coletivo de passageiros ou de transporte rodoviário de cargas.\n\n§ 1º Serão observados 30 (trinta) minutos para descanso dentro de cada 6 (seis) horas na condução de veículo de transporte de carga, sendo facultado o seu fracionamento e o do tempo de direção desde que não ultrapassadas 5 (cinco) horas e meia contínuas no exercício da condução.\n\n§ 1º -A. Serão observados 30 (trinta) minutos para descanso a cada 4 (quatro) horas na condução de veículo rodoviário de passageiros, sendo facultado o seu fracionamento e o do tempo de direção.\n\n§ 2º Em situações excepcionais de inobservância justificada do tempo de direção, devidamente registradas, o tempo de direção poderá ser elevado pelo período necessário para que o condutor, o veículo e a carga cheguem a um lugar que ofereça a segurança e o atendimento demandados, desde que não haja comprometimento da segurança rodoviária.\n\n§ 3º O condutor é obrigado, dentro do período de 24 (vinte e quatro) horas, a observar o mínimo de 11 (onze) horas de descanso, que podem ser fracionadas, usufruídas no veículo e coincidir com os intervalos mencionados no § 1º, observadas no primeiro período 8 (oito) horas ininterruptas de descanso.\n\n§ 4º Entende-se como tempo de direção ou de condução apenas o período em que o condutor estiver efetivamente ao volante, em curso entre a origem e o destino.\n\n§ 5º Entende-se como início de viagem a partida do veículo na ida ou no retorno, com ou sem carga, considerando-se como sua continuação as partidas nos dias subsequentes até o destino.\n\n§ 6º O condutor somente iniciará uma viagem após o cumprimento integral do intervalo de descanso previsto no § 3º deste artigo.\n\n§ 7º Nenhum transportador de cargas ou coletivo de passageiros, embarcador, consignatário de cargas, operador de terminais de carga, operador de transporte multimodal de cargas ou agente de cargas ordenará a qualquer motorista a seu serviço, ainda que subcontratado, que conduza veículo referido no caput sem a observância do disposto no § 6º .’ (NR)\n\n.............................................................................................\n\n‘ Art. 67-E. O motorista profissional é responsável por controlar e registrar o tempo de condução estipulado no art. 67-C, com vistas à sua estrita observância.\n\n§ 1º A não observância dos períodos de descanso estabelecidos no art. 67-C sujeitará o motorista profissional às penalidades daí decorrentes, previstas neste Código.\n\n§ 2º O tempo de direção será controlado mediante registrador instantâneo inalterável de velocidade e tempo e, ou por meio de anotação em diário de bordo, ou papeleta ou ficha de trabalho externo, ou por meios eletrônicos instalados no veículo, conforme norma do Contran.\n\n§ 3º O equipamento eletrônico ou registrador deverá funcionar de forma independente de qualquer interferência do condutor, quanto aos dados registrados.\n\n§ 4º A guarda, a preservação e a exatidão das informações contidas no equipamento registrador instantâneo inalterável de velocidade e de tempo são de responsabilidade do condutor.’”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%207%C2%BA%20O%20Cap%C3%ADtulo%20III-A%20da%20Lei%20n%C2%BA%209.503%2C%20de%2023%20de%20setembro%20de%201997%20-%20C%C3%B3digo%20de%20Tr%C3%A2nsito%20Brasileiro%20%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , passa a vigorar com as seguintes alterações:\n\n“Art. 132. ......................................................................\n\n§ 1º ...............................................................................\n\n§ 2º Antes do registro e licenciamento, o veículo de carga novo, nacional ou importado, portando a nota fiscal de compra e venda ou documento alfandegário, deverá transitar embarcado do pátio da fábrica ou do posto alfandegário ao Município de destino.” (NR)\n\n“ Art. 148-A. Os condutores das categorias C, D e E deverão submeter-se a exames toxicológicos para a habilitação e renovação da Carteira Nacional de Habilitação.\n\n§ 1º O exame de que trata este artigo buscará aferir o consumo de substâncias psicoativas que, comprovadamente, comprometam a capacidade de direção e deverá ter janela de detecção mínima de 90 (noventa) dias, nos termos das normas do Contran.\n\n§ 2º Os condutores das categorias C, D e E com Carteira Nacional de Habilitação com validade de 5 (cinco) anos deverão fazer o exame previsto no § 1º no prazo de 2 (dois) anos e 6 (seis) meses a contar da realização do disposto no caput .\n\n§ 3º Os condutores das categorias C, D e E com Carteira Nacional de Habilitação com validade de 3 (três) anos deverão fazer o exame previsto no § 1º no prazo de 1 (um) ano e 6 (seis) meses a contar da realização do disposto no caput .\n\n§ 4º É garantido o direito de contraprova e de recurso administrativo no caso de resultado positivo para o exame de que trata o caput , nos termos das normas do Contran.\n\n§ 5º A reprovação no exame previsto neste artigo terá como consequência a suspensão do direito de dirigir pelo período de 3 (três) meses, condicionado o levantamento da suspensão ao resultado negativo em novo exame, e vedada a aplicação de outras penalidades, ainda que acessórias.\n\n§ 6º O resultado do exame somente será divulgado para o interessado e não poderá ser utilizado para fins estranhos ao disposto neste artigo ou no § 6º do art. 168 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 .\n\n§ 7º O exame será realizado, em regime de livre concorrência, pelos laboratórios credenciados pelo Departamento Nacional de Trânsito - DENATRAN, nos termos das normas do Contran, vedado aos entes públicos:\n\nI - fixar preços para os exames;\n\nII - limitar o número de empresas ou o número de locais em que a atividade pode ser exercida; e\n\nIII - estabelecer regras de exclusividade territorial.”\n\n“Art. 230. ......................................................................\n\n.............................................................................................\n\nXXIII - em desacordo com as condições estabelecidas no art. 67-C, relativamente ao tempo de permanência do condutor ao volante e aos intervalos para descanso, quando se tratar de veículo de transporte de carga ou coletivo de passageiros:\n\nInfração - média;\n\nPenalidade - multa;\n\nMedida administrativa - retenção do veículo para cumprimento do tempo de descanso aplicável.\n\n.............................................................................................\n\n§ 1º Se o condutor cometeu infração igual nos últimos 12 (doze) meses, será convertida, automaticamente, a penalidade disposta no inciso XXIII em infração grave.\n\n§ 2º Em se tratando de condutor estrangeiro, a liberação do veículo fica condicionada ao pagamento ou ao depósito, judicial ou administrativo, da multa.” (NR)\n\n“Art. 259. ......................................................................\n\n.............................................................................................\n\n§ 4º Ao condutor identificado no ato da infração será atribuída pontuação pelas infrações de sua responsabilidade, nos termos previstos no § 3º do art. 257, excetuando-se aquelas praticadas por passageiros usuários do serviço de transporte rodoviário de passageiros em viagens de longa distância transitando em rodovias com a utilização de ônibus, em linhas regulares intermunicipal, interestadual, internacional e aquelas em viagem de longa distância por fretamento e turismo ou de qualquer modalidade, excetuadas as situações regulamentadas pelo Contran a teor do art. 65 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro .” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%208%C2%BA%20A%20Lei%20n%C2%BA%209.503%2C%20de%2023%20de%20setembro%20de%201997%20-%20C%C3%B3digo%20de%20Tr%C3%A2nsito%20Brasileiro%20%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º As condições de segurança, sanitárias e de conforto nos locais de espera, de repouso e de descanso dos motoristas profissionais de transporte rodoviário de passageiros e rodoviário de cargas terão que obedecer ao disposto em normas regulamentadoras pelo ente competente. (Regulamento)\n\n§ 1º É vedada a cobrança ao motorista ou ao seu empregador pelo uso ou permanência em locais de espera sob a responsabilidade de:\n\nI - transportador, embarcador ou consignatário de cargas;\n\nII - operador de terminais de cargas;\n\nIII - aduanas;\n\nIV - portos marítimos, lacustres, fluviais e secos;\n\nV - terminais ferroviários, hidroviários e aeroportuários.\n\n§ 2º Os locais de repouso e descanso dos motoristas profissionais serão, entre outros, em:\n\nI - estações rodoviárias;\n\nII - pontos de parada e de apoio;\n\nIII - alojamentos, hotéis ou pousadas;\n\nIV - refeitórios das empresas ou de terceiros;\n\nV - postos de combustíveis.\n\n§ 3º Será de livre iniciativa a implantação de locais de repouso e descanso de que trata este artigo.\n\n§ 4º A estrita observância às Normas Regulamentadoras do Ministério do Trabalho e Emprego, no que se refere aos incisos II, III, IV e V do § 2º, será considerada apenas quando o local for de propriedade do transportador, do embarcador ou do consignatário de cargas, bem como nos casos em que esses mantiverem com os proprietários destes locais contratos que os obriguem a disponibilizar locais de espera e repouso aos motoristas profissionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%209%C2%BA%20As%20condi%C3%A7%C3%B5es%20de%20seguran%C3%A7a%2C%20sanit%C3%A1rias%20e%20de%20conforto%20nos%20locais%20de%20espera%2C%20de%20repouso%20e%20de%20descanso%20dos%20motoristas%20profissionais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O poder público adotará medidas, no prazo de até 5 (cinco) anos a contar da vigência desta Lei, para ampliar a disponibilidade dos espaços previstos no art. 9º, especialmente: (Regulamento)\n\nI - a inclusão obrigatória de cláusulas específicas em contratos de concessão de exploração de rodovias, para concessões futuras ou renovação;\n\nII - a revisão das concessões de exploração das rodovias em vigor, de modo a adequá-las à previsão de construção de pontos de parada de espera e descanso, respeitado o equilíbrio econômico-financeiro dos contratos;\n\nIII - a identificação e o cadastramento de pontos de paradas e locais para espera, repouso e descanso que atendam aos requisitos previstos no art. 9º desta Lei;\n\nIV - a permissão do uso de bem público nas faixas de domínio das rodovias sob sua jurisdição, vinculadas à implementação de locais de espera, repouso e descanso e pontos de paradas, de trevos ou acessos a esses locais;\n\nV - a criação de linha de crédito para apoio à implantação dos pontos de paradas.\n\nParágrafo único. O poder público apoiará ou incentivará, em caráter permanente, a implantação pela iniciativa privada de locais de espera, pontos de parada e de descanso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2010.%20O%20poder%20p%C3%BAblico%20adotar%C3%A1%20medidas%2C%20no%20prazo%20de%20at%C3%A9%205%20%28cinco%29%20anos%20a%20contar%20da%20vig%C3%AAncia%20desta%20Lei%2C%20para%20ampliar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Atos do órgão competente da União ou, conforme o caso, de autoridade do ente da federação com circunscrição sobre a via publicarão a relação de trechos das vias públicas que disponham de pontos de parada ou de locais de descanso adequados para o cumprimento desta Lei. (Regulamento)\n\n§ 1º A primeira relação dos trechos das vias referidas no caput será publicada no prazo de até 180 (cento e oitenta) dias a contar da data da publicação desta Lei.\n\n§ 2º As relações de trechos das vias públicas de que trata o caput deverão ser ampliadas e revisadas periodicamente.\n\n§ 3º Os estabelecimentos existentes nas vias poderão requerer no órgão competente com jurisdição sobre elas o seu reconhecimento como ponto de parada e descanso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2011.%20Atos%20do%20%C3%B3rg%C3%A3o%20competente%20da%20Uni%C3%A3o%20ou%2C%20conforme%20o%20caso%2C%20de%20autoridade%20do%20ente%20da%20federa%C3%A7%C3%A3o%20com%20circunscri%C3%A7%C3%A3o%20sobre%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O disposto nos §§ 2º e 3º do art. 235-C do Capítulo I do Título III da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , e no caput e nos §§ 1º e 3º do art. 67-C do Capítulo III-A da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , produzirá efeitos: (Regulamento)\n\nI - a partir da data da publicação dos atos de que trata o art. 11, para os trechos das vias deles constantes;\n\nII - a partir da data da publicação das relações subsequentes, para as vias por elas acrescidas.\n\nParágrafo único. Durante os primeiros 180 (cento e oitenta) dias de sujeição do trecho ao disposto na Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , e na Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , com as alterações constantes desta Lei, a fiscalização do seu cumprimento será meramente informativa e educativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2012.%20O%20disposto%20nos%20%C2%A7%C2%A7%202%C2%BA%20e%203%C2%BA%20do%20art.%20235-C%20do%20Cap%C3%ADtulo%20I%20do%20T%C3%ADtulo%20III%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O exame toxicológico com janela de detecção mínima de 90 (noventa) dias de que tratam o art. 148-A da Lei 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , os §§ 6º e 7º do art. 168 e o inciso VII do art. 235-B da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , será exigido:\n\nI - em 90 (noventa) dias da publicação desta Lei, para a renovação e habilitação das categorias C, D e E;\n\nII - em 1 (um) ano a partir da entrada em vigor desta Lei, para a admissão e a demissão de motorista profissional;\n\nIII - em 3 (três) anos e 6 (seis) meses a partir da entrada em vigor desta Lei, para o disposto no § 2º do art. 148-A da Lei nº 9.503, de 23 de setembro de 1997 ;\n\nIV - em 2 (dois) anos e 6 (seis) meses a partir da entrada em vigor desta Lei, para o disposto no § 3º do art. 148-A da Lei nº 9.503, de 23 de setembro de 1997 .\n\nParágrafo único. Caberá ao Contran estabelecer adequações necessárias ao cronograma de realização dos exames.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2013.%20O%20exame%20toxicol%C3%B3gico%20com%20janela%20de%20detec%C3%A7%C3%A3o%20m%C3%ADnima%20de%2090%20%28noventa%29%20dias%20de%20que%20tratam%20o%20art.%20148-A%20da%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Decorrido o prazo de 3 (três) anos a contar da publicação desta Lei, os seus efeitos dar-se-ão para todas as vias, independentemente da publicação dos atos de que trata o art. 11 ou de suas revisões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2014.%20Decorrido%20o%20prazo%20de%203%20%28tr%C3%AAs%29%20anos%20a%20contar%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20os%20seus%20efeitos%20dar-se-%C3%A3o%20para%20todas%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A Lei nº 11.442, de 5 de janeiro de 2007 , passa a vigorar com as seguintes alterações:\n\n“Art. 4º ..........................................................................\n\n.............................................................................................\n\n§ 3º Sem prejuízo dos demais requisitos de controle estabelecidos em regulamento, é facultada ao TAC a cessão de seu veículo em regime de colaboração a outro profissional, assim denominado TAC - Auxiliar, não implicando tal cessão a caracterização de vínculo de emprego.\n\n§ 4º O Transportador Autônomo de Cargas Auxiliar deverá contribuir para a previdência social de forma idêntica à dos Transportadores Autônomos.\n\n§ 5º As relações decorrentes do contrato estabelecido entre o Transportador Autônomo de Cargas e seu Auxiliar ou entre o transportador autônomo e o embarcador não caracterizarão vínculo de emprego.” (NR)\n\n“ Art. 5º -A. O pagamento do frete do transporte rodoviário de cargas ao Transportador Autônomo de Cargas - TAC deverá ser efetuado por meio de crédito em conta mantida em instituição integrante do sistema financeiro nacional, inclusive poupança, ou por outro meio de pagamento regulamentado pela Agência Nacional de Transportes Terrestres - ANTT, à critério do prestador do serviço.\n\n.............................................................................................\n\n§ 7º As tarifas bancárias ou pelo uso de meio de pagamento eletrônico relativas ao pagamento do frete do transporte rodoviário de cargas ao Transportador Autônomo de Cargas - TAC correrão à conta do responsável pelo pagamento.” (NR)\n\n“Art. 11. ........................................................................\n\n.............................................................................................\n\n§ 5º O prazo máximo para carga e descarga do Veículo de Transporte Rodoviário de Cargas será de 5 (cinco) horas, contadas da chegada do veículo ao endereço de destino, após o qual será devido ao Transportador Autônomo de Carga - TAC ou à ETC a importância equivalente a R$ 1,38 (um real e trinta e oito centavos) por tonelada/hora ou fração.\n\n§ 6º A importância de que trata o § 5º será atualizada, anualmente, de acordo com a variação do Índice Nacional de Preços ao Consumidor - INPC, calculado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE ou, na hipótese de sua extinção, pelo índice que o suceder, definido em regulamento.\n\n§ 7º Para o cálculo do valor de que trata o § 5º, será considerada a capacidade total de transporte do veículo.\n\n§ 8º Incidente o pagamento relativo ao tempo de espera, este deverá ser calculado a partir da hora de chegada na procedência ou no destino.\n\n§ 9º O embarcador e o destinatário da carga são obrigados a fornecer ao transportador documento hábil a comprovar o horário de chegada do caminhão nas dependências dos respectivos estabelecimentos, sob pena de serem punidos com multa a ser aplicada pela Agência Nacional de Transportes Terrestres - ANTT, que não excederá a 5% (cinco por cento) do valor da carga.” (NR)\n\n“ Art. 13-A. É vedada a utilização de informações de bancos de dados de proteção ao crédito como mecanismo de vedação de contrato com o TAC e a ETC devidamente regulares para o exercício da atividade do Transporte Rodoviário de Cargas.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2015.%20A%20Lei%20n%C2%BA%2011.442%2C%20de%205%20de%20janeiro%20de%202007%20%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O art. 1º da Lei nº 7.408, de 25 de novembro de 1985 , passa a vigorar com a seguinte redação:\n\n“ Art. 1º Fica permitida, na pesagem de veículos de transporte de carga e de passageiros, a tolerância máxima de:\n\nI - 5% (cinco por cento) sobre os limites de peso bruto total;\n\nII - 10% (dez por cento) sobre os limites de peso bruto transmitido por eixo de veículos à superfície das vias públicas.\n\nParágrafo único. Os limites de peso bruto não se aplicam aos locais não abrangidos pelo disposto no art. 2º da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , incluindo-se as vias particulares sem acesso à circulação pública.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2016.%20O%20art.%201%C2%BA%20da%20Lei%20n%C2%BA%207.408%2C%20de%2025%20de%20novembro%20de%201985%20%2C%20passa%20a%20vigorar%20com%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os veículos de transporte de cargas que circularem vazios não pagarão taxas de pedágio sobre os eixos que mantiverem suspensos. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2017.%20Os%20ve%C3%ADculos%20de%20transporte%20de%20cargas%20que%20circularem%20vazios%20n%C3%A3o%20pagar%C3%A3o%20taxas%20de%20ped%C3%A1gio%20sobre%20os%20eixos%20que%20mantiverem%20suspensos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O embarcador indenizará o transportador por todos os prejuízos decorrentes de infração por transporte de carga com excesso de peso em desacordo com a nota fiscal, inclusive as despesas com transbordo de carga.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2018.%20O%20embarcador%20indenizar%C3%A1%20o%20transportador%20por%20todos%20os%20preju%C3%ADzos%20decorrentes%20de%20infra%C3%A7%C3%A3o%20por%20transporte%20de%20carga%20com%20excesso%20de%20peso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Fica instituído o Programa de Apoio ao Desenvolvimento do Transporte de Cargas Nacional - PROCARGAS, cujo objetivo principal é estimular o desenvolvimento da atividade de transporte terrestre nacional de cargas.\n\nParágrafo único. O Procargas tem como finalidade o desenvolvimento de programas visando à melhoria do meio ambiente de trabalho no setor de transporte de cargas, especialmente as ações de medicina ocupacional para o trabalhador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2019.%20Fica%20institu%C3%ADdo%20o%20Programa%20de%20Apoio%20ao%20Desenvolvimento%20do%20Transporte%20de%20Cargas%20Nacional%20-%20PROCARGAS%2C%20cujo%20objetivo%20principal%20%C3%A9%20estimular",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Fica permitida a concessão de Autorização Especial de Trânsito - AET - para composição de veículos boiadeiros articulados (Romeu e Julieta) com até 25 m de comprimento, sendo permitido a estes veículos autorização para transitar em qualquer horário do dia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2020.%20Fica%20permitida%20a%20concess%C3%A3o%20de%20Autoriza%C3%A7%C3%A3o%20Especial%20de%20Tr%C3%A2nsito%20-%20AET%20-%20para%20composi%C3%A7%C3%A3o%20de%20ve%C3%ADculos%20boiadeiros%20articulados%20%28Romeu%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Ficam revogados os arts. 1º, 2º e 9º da Lei nº 12.619, de 30 de abril de 2012 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2021.%20Ficam%20revogados%20os%20arts.%201%C2%BA%2C%202%C2%BA%20e%209%C2%BA%20da%20Lei%20n%C2%BA%2012.619%2C%20de%2030%20de%20abril%20de%202012%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Ficam convertidas em sanção de advertência: (Regulamento)\n\nI - as penalidades decorrentes de infrações ao disposto na Lei nº 12.619, de 30 de abril de 2012 , que alterou a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , e a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , aplicadas até a data da publicação desta Lei; e (Vide Decreto nº 8.433, de 2015)\n\nII - as penalidades por violação do inciso V do art. 231 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro , aplicadas até 2 (dois) anos antes da entrada em vigor desta Lei. (Vide Decreto nº 8.433, de 2015)\n\nBrasília, 2 de março de 2015; 194º da Independência e 127º da República.\n\nDILMA ROUSSEFF\n\nJosé Eduardo Cardozo\n\nAntônio Carlos Rodrigues\n\nManoel Dias\n\nArthur Chioro\n\nArmando Monteiro\n\nNelson Barbosa\n\nGilberto Kassab\n\nMiguel Rossetto\n\nEste texto não substitui o publicado no DOU de 3.3.2015\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm#:~:text=Art.%2022.%20Ficam%20convertidas%20em%20san%C3%A7%C3%A3o%20de%20advert%C3%AAncia%3A%20%28Regulamento%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV-A"
+      },
+      "prev": "21",
+      "next": null
+    }
+  }
+}

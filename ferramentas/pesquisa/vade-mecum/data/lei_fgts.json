@@ -1,0 +1,719 @@
+{
+  "_meta": {
+    "codigo": "FGTS",
+    "nome": "FGTS",
+    "lei": "Lei 8.036/1990",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm",
+    "total_artigos": 44,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O Fundo de Garantia do Tempo de Serviço (FGTS), instituído pela Lei nº 5.107, de 13 de setembro de 1966, passa a reger-se por esta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%201%C2%BA%20O%20Fundo%20de%20Garantia%20do%20Tempo%20de%20Servi%C3%A7o%20%28FGTS%29%2C%20institu%C3%ADdo%20pela%20Lei%20n%C2%BA%205.107%2C%20de%2013%20de%20setembro%20de%201966%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O FGTS é constituído pelos saldos das contas vinculadas a que se refere esta lei e outros recursos a ele incorporados, devendo ser aplicados com atualização monetária e juros, de modo a assegurar a cobertura de suas obrigações.\n\n§ 1º Constituem recursos incorporados ao FGTS, nos termos do caput deste artigo:\n\na) eventuais saldos apurados nos termos do art. 12, § 4º;\n\nb) dotações orçamentárias específicas;\n\nc) resultados das aplicações dos recursos do FGTS;\n\nd) multas, correção monetária e juros moratórios devidos;\n\ne) demais receitas patrimoniais e financeiras.\n\n§ 2º As contas vinculadas em nome dos trabalhadores são absolutamente impenhoráveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%202%C2%BA%20O%20FGTS%20%C3%A9%20constitu%C3%ADdo%20pelos%20saldos%20das%20contas%20vinculadas%20a%20que%20se%20refere%20esta%20lei%20e%20outros%20recursos%20a%20ele",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O FGTS será regido por normas e diretrizes estabelecidas por um Conselho Curador, composto por representação de trabalhadores, empregadores e órgãos e entidades governamentais, na forma estabelecida pelo Poder Executivo. (Redação dada pela Lei nº 9.649, de 1998) (Vide Medida Provisória nº 2.216-37, de 2001) (Vide Decreto nº 3.101, de 2001) (Vide Decreto nº 11.496, de 2023)\n\n§ 1º A Presidência do Conselho Curador será exercida pelo Ministro de Estado do Trabalho e Previdência ou representante por ele indicado. (Redação dada pelo Lei nº 14.261, de 2021)\n\n§ 2o (Revogado pela Medida Provisória nº 2.216-37, de 2001)\n\n§ 3º Os representantes dos trabalhadores e dos empregadores e seus suplentes serão indicados pelas respectivas centrais sindicais e confederações nacionais, serão nomeados pelo Poder Executivo, terão mandato de 2 (dois) anos e poderão ser reconduzidos uma única vez, vedada a permanência de uma mesma pessoa como membro titular, como suplente ou, de forma alternada, como titular e suplente, por período consecutivo superior a 4 (quatro) anos no Conselho. (Redação dada pela Lei nº 13.932, de 2019)\n\n§ 4º O Conselho Curador reunir-se-á ordinariamente, a cada bimestre, por convocação de seu Presidente. Esgotado esse período, não tendo ocorrido convocação, qualquer de seus membros poderá fazê-la, no prazo de 15 (quinze) dias. Havendo necessidade, qualquer membro poderá convocar reunião extraordinária, na forma que vier a ser regulamentada pelo Conselho Curador.\n\n§ 4º-A. As reuniões do Conselho Curador serão públicas, bem como gravadas e transmitidas ao vivo por meio do sítio do FGTS na internet, o qual também possibilitará acesso a todas as gravações que tiverem sido efetuadas dessas reuniões, resguardada a possibilidade de tratamento sigiloso de matérias assim classificadas na forma da lei. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 5o As decisões do Conselho serão tomadas com a presença da maioria simples de seus membros, tendo o Presidente voto de qualidade. (Redação dada pela Lei nº 9.649, de 1998) (Vide Medida Provisória nº 2.216-37, de 2001)\n\n§ 6º As despesas porventura exigidas para o comparecimento às reuniões do Conselho constituirão ônus das respectivas entidades representadas.\n\n§ 7º As ausências ao trabalho dos representantes dos trabalhadores no Conselho Curador, decorrentes das atividades desse órgão, serão abonadas, computando-se como jornada efetivamente trabalhada para todos os fins e efeitos legais.\n\n§ 8º O Poder Executivo designará, entre os órgãos governamentais com representação no Conselho Curador do FGTS, aquele que lhe proporcionará estrutura administrativa de suporte para o exercício de sua competência e que atuará na função de Secretaria Executiva do colegiado, não permitido ao Presidente do Conselho Curador acumular a titularidade dessa Secretaria Executiva. (Redação dada pela Lei nº 13.932, de 2019)\n\n§ 9º Aos membros do Conselho Curador, enquanto representantes dos trabalhadores, efetivos e suplentes, é assegurada a estabilidade no emprego, da nomeação até um ano após o término do mandato de representação, somente podendo ser demitidos por motivo de falta grave, regularmente comprovada através de processo sindical.\n\n§ 10. Os membros do Conselho Curador do FGTS serão escolhidos dentre cidadãos de reputação ilibada e de notório conhecimento, e deverão ser atendidos os seguintes requisitos: (Incluído pela Lei nº 13.932, de 2019)\n\nI - ter formação acadêmica superior; e (Incluído pela Lei nº 13.932, de 2019)\n\nII - não se enquadrar nas hipóteses de inelegibilidade previstas nas alíneas “a” a “q” do inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%203o%20O%20FGTS%20ser%C3%A1%20regido%20por%20normas%20e%20diretrizes%20estabelecidas%20por%20um%20Conselho%20Curador%2C%20composto%20por%20representa%C3%A7%C3%A3o%20de%20trabalhadores%2C%20empregadores%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O gestor da aplicação dos recursos do FGTS será o órgão do Poder Executivo responsável pela política de habitação, e caberá à Caixa Econômica Federal (CEF) o papel de agente operador. (Redação dada pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%204%C2%BA%20O%20gestor%20da%20aplica%C3%A7%C3%A3o%20dos%20recursos%20do%20FGTS%20ser%C3%A1%20o%20%C3%B3rg%C3%A3o%20do%20Poder%20Executivo%20respons%C3%A1vel%20pela%20pol%C3%ADtica%20de%20habita%C3%A7%C3%A3o%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Ao Conselho Curador do FGTS compete: (Vide Lei complementar nº 150, de 2015)\n\nI - estabelecer as diretrizes e os programas de alocação dos recursos do FGTS, de acordo com os critérios definidos nesta Lei, em conformidade com a política nacional de desenvolvimento urbano e as políticas setoriais de habitação popular, saneamento básico, microcrédito e infraestrutura urbana estabelecidas pelo governo federal; (Redação dada pela Lei nº 14.438, de 2022)\n\nII - acompanhar e avaliar a gestão econômica e financeira dos recursos, bem como os ganhos sociais e o desempenho dos programas aprovados;\n\nIII - apreciar e aprovar os programas anuais e plurianuais do FGTS;\n\nIV - aprovar as demonstrações financeiras do FGTS, com base em parecer de auditoria externa independente, antes de sua publicação e encaminhamento aos órgãos de controle, bem como da distribuição de resultados; (Redação dada pela Lei nº 13.932, de 2019)\n\nV - adotar as providências cabíveis para a correção de atos e fatos do gestor da aplicação e da CEF que prejudiquem o desempenho e o cumprimento das finalidades no que concerne aos recursos do FGTS; (Redação dada pela Lei nº 13.932, de 2019)\n\nVI - dirimir dúvidas quanto à aplicação das normas regulamentares, relativas ao FGTS, nas matérias de sua competência;\n\nVII - aprovar seu regimento interno;\n\nVIII - fixar as normas e valores de remuneração do agente operador e dos agentes financeiros;\n\nIX - fixar critérios para parcelamento de recolhimentos em atraso;\n\nX - fixar critério e valor de remuneração para o exercício da fiscalização;\n\nXI - divulgar, no Diário Oficial da União, todas as decisões proferidas pelo Conselho, bem como as contas do FGTS e os respectivos pareceres emitidos.\n\nXII - fixar critérios e condições para compensação entre créditos do empregador, decorrentes de depósitos relativos a trabalhadores não optantes, com contratos extintos, e débitos resultantes de competências em atraso, inclusive aqueles que forem objeto de composição de dívida com o FGTS. (Incluído pela Lei nº 9.711, de 1998)\n\nXIII - em relação ao Fundo de Investimento do Fundo de Garantia do Tempo de Serviço - FI-FGTS: (Incluído pela Lei nº 11.491, de 2007)\n\na) aprovar a política de investimento do FI-FGTS por proposta do Comitê de Investimento; (Incluído pela Lei nº 11.491, de 2007)\n\nb) decidir sobre o reinvestimento ou distribuição dos resultados positivos aos cotistas do FI-FGTS, em cada exercício; (Incluído pela Lei nº 11.491, de 2007)\n\nc) definir a forma de deliberação, de funcionamento e a composição do Comitê de Investimento; (Incluído pela Lei nº 11.491, de 2007)\n\nd) estabelecer o valor da remuneração da Caixa Econômica Federal pela administração e gestão do FI-FGTS, inclusive a taxa de risco; (Incluído pela Lei nº 11.491, de 2007)\n\ne) definir a exposição máxima de risco dos investimentos do FI-FGTS; (Incluído pela Lei nº 11.491, de 2007)\n\nf) estabelecer o limite máximo de participação dos recursos do FI-FGTS por setor, por empreendimento e por classe de ativo, observados os requisitos técnicos aplicáveis (Incluído pela Lei nº 11.491, de 2007)\n\ng) estabelecer o prazo mínimo de resgate das cotas e de retorno dos recursos à conta vinculada, observado o disposto no § 19 do art. 20 desta Lei; (Incluído pela Lei nº 11.491, de 2007)\n\nh) aprovar o regulamento do FI-FGTS, elaborado pela Caixa Econômica Federal; e (Incluído pela Lei nº 11.491, de 2007)\n\ni) autorizar a integralização de cotas do FI-FGTS pelos trabalhadores, estabelecendo previamente os limites globais e individuais, parâmetros e condições de aplicação e resgate. (Incluído pela Lei nº 11.491, de 2007)\n\nXIV - (revogado); (Redação dada pela Lei nº 13.932, de 2019)\n\nXV - autorizar a aplicação de recursos do FGTS em outros fundos de investimento, no mercado de capitais e em títulos públicos e privados, com base em proposta elaborada pelo agente operador, devendo o Conselho Curador regulamentar as formas e condições do investimento, vedado o aporte em fundos nos quais o FGTS seja o único cotista; (Incluído pela Lei nº 13.932, de 2019)\n\nXVI - estipular limites às tarifas cobradas pelo agente operador ou pelos agentes financeiros na intermediação da movimentação dos recursos da conta vinculada do FGTS, inclusive nas hipóteses de que tratam os incisos V, VI e VII do caput do art. 20 desta Lei. (Incluído pela Lei nº 13.932, de 2019)\n\nXVII - estabelecer, em relação à autorização de aplicação de recursos do FGTS em fundos garantidores de crédito e sua regulamentação quanto às formas e condições: (Incluído pela Lei nº 14.438, de 2022)\n\na) o valor da aplicação com fundamento em proposta elaborada pelo gestor da aplicação; e (Incluído pela Lei nº 14.438, de 2022)\n\nb) a cada 3 (três) anos, percentual mínimo do valor proposto para aplicação na política setorial do microcrédito, respeitado o piso de 30% (trinta por cento). (Incluído pela Lei nº 14.438, de 2022)\n\n§ 1º O Conselho Curador será assistido por um Comitê de Auditoria e Riscos, constituído na forma do Regimento Interno, cujas atribuições e condições abrangerão, no mínimo, aquelas estipuladas nos arts. 24 e 25, §§ 1º a 3º, da Lei nº 13.303, de 30 de junho de 2016, ao Comitê de Auditoria Estatutário das empresas públicas e sociedades de economia mista que forem aplicáveis, ainda que por similaridade, ao FGTS, e cujas despesas serão custeadas pelo Fundo, por meio de sua Secretaria Executiva, observado o disposto no § 3º deste artigo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 2º O Conselho Curador poderá ser assistido regularmente por pessoas naturais ou jurídicas especializadas em planejamento, em gestão de investimentos, em avaliação de programas e políticas, em tecnologia da informação ou em qualquer outra especialização julgada necessária para subsidiá-lo no exercício de suas atribuições, e as despesas decorrentes ficarão a cargo do FGTS, observado o disposto no § 3º deste artigo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 3º Os custos e despesas incorridos pelo FGTS não poderão superar limite a ser estabelecido pelo Conselho Curador, o qual observará, no mínimo, os custos por atividades, os ganhos de escala e produtividade, os avanços tecnológicos e a remuneração praticada por outros fundos no mercado de capitais, excluídos da base de cálculo aqueles cuja administradora receba remuneração específica, e incluirão: (Incluído pela Lei nº 13.932, de 2019)\n\nI - os serviços de fiscalização, as atividades de arrecadação, de cobrança administrativa e de emissão de certidões; (Incluído pela Lei nº 13.932, de 2019)\n\nII - os serviços de cobrança judicial dos créditos inscritos em dívida ativa; (Incluído pela Lei nº 13.932, de 2019)\n\nIII - os serviços contratados pela Secretaria Executiva para suporte às ações e decisões do Conselho Curador e do Comitê de Auditoria e Riscos, bem como os valores despendidos com terceiros; (Incluído pela Lei nº 13.932, de 2019)\n\nIV - a capacitação dos gestores. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 4º O Conselho Curador especificará os serviços de suporte à gestão e à operação que poderão ser contratados pela Secretaria Executiva com recursos do FGTS, cabendo-lhe aprovar o montante destinado a tal finalidade no orçamento anual. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 5º As auditorias externas contratadas pelo Comitê a que se refere o § 1º deste artigo não poderão prestar serviços ao agente operador durante a execução dos contratos de auditoria com o FGTS. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 6º O limite de custos e despesas a que se refere o § 3º deste artigo não inclui taxas de risco de crédito e demais custos e despesas devidos ao agente operador e aos agentes financeiros. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 7º O limite de que trata o § 3º deste artigo será, em cada exercício, de até 0,06% (seis centésimos por cento) do valor dos ativos do FGTS ao final do exercício anterior e, até a publicação das demonstrações financeiras, esse limite será calculado a partir de estimativas divulgadas pelo Conselho Curador para o valor dos ativos do FGTS ao final daquele exercício. (Redação dada pela Lei nº 14.438, de 2022)07, de 2022)\n\n§ 8º A taxa de administração do FGTS devida ao agente operador não será superior a 0,5% (cinco décimos por cento) ao ano do valor total dos ativos do Fundo. (Incluído pela Lei nº 13.932, de 2019) (Vigência)\n\n§ 9º § 9º A taxa de administração de que trata a alínea “d” do inciso XIII do caput deste artigo não será superior a 0,5% (cinco décimos por cento) ao ano do valor total dos ativos do FI-FGTS. (Incluído pela Lei nº 13.932, de 2019) (Vigência)\n\n§ 10. O piso de que trata a alínea “b” do inciso XVII do caput deste artigo poderá ser revisto pelo Conselho Curador a cada 3 (três) anos. (Incluído pela Lei nº 14.438, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%205%C2%BA%20Ao%20Conselho%20Curador%20do%20FGTS%20compete%3A%20%28Vide%20Lei%20complementar%20n%C2%BA%20150%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Ao gestor da aplicação compete: (Redação dada pela Lei nº 13.932, de 2019)\n\nI - praticar todos os atos necessários à gestão da aplicação do Fundo, de acordo com as diretrizes e programas estabelecidos pelo Conselho Curador;\n\nII - expedir atos normativos relativos à alocação dos recursos para implementação dos programas aprovados pelo Conselho Curador;\n\nIII - elaborar orçamentos anuais e planos plurianuais de aplicação dos recursos, discriminados por região geográfica, e submetê-los até 31 de julho ao Conselho Curador do FGTS; (Redação dada pela Lei nº 14.118, de 2021)\n\nIV - acompanhar a execução dos programas de habitação popular, saneamento básico e infraestrutura urbana previstos no orçamento do FGTS e implementados pela CEF, no papel de agente operador; (Redação dada pela Lei nº 13.932, de 2019)\n\nV - submeter à apreciação do Conselho Curador as contas do FGTS;\n\nVI - subsidiar o Conselho Curador com estudos técnicos necessários ao aprimoramento operacional dos programas de habitação popular, saneamento básico e infra-estrutura urbana;\n\nVII - definir as metas a serem alcançadas nos programas de habitação popular, saneamento básico e infra-estrutura urbana.\n\nArt. 6º-A. Caberá ao Ministério da Saúde regulamentar, acompanhar a execução, subsidiar o Conselho Curador com estudos técnicos necessários ao seu aprimoramento operacional e definir as metas a serem alcançadas nas operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuem no campo para pessoas com deficiência, sem fins lucrativos, que participem de forma complementar do Sistema Único de Saúde (SUS). (Incluído pela Lei nº 13.832, de 2019)\n\nArt. 6º-B. (Revogado pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%206%C2%BA%20Ao%20gestor%20da%20aplica%C3%A7%C3%A3o%20compete%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2013.932%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º À Caixa Econômica Federal, na qualidade de agente operador, cabe: (Vide Lei Complementar nº 150, de 2015)\n\nI - centralizar os recursos do FGTS, manter e controlar as contas vinculadas, e emitir regularmente os extratos individuais correspondentes às contas vinculadas e participar da rede arrecadadora dos recursos do FGTS;\n\nII - expedir atos normativos referentes aos procedimentos adiministrativo-operacionais dos bancos depositários, dos agentes financeiros, dos empregadores e dos trabalhadores, integrantes do sistema do FGTS;\n\nIII - definir procedimentos operacionais necessários à execução dos programas estabelecidos pelo Conselho Curador, com base nas normas e diretrizes de aplicação elaboradas pelo gestor da aplicação; (Redação dada pela Lei nº 13.932, de 2019)\n\nIV - elaborar as análises jurídica e econômico-financeira dos projetos de habitação popular, infra-estrutura urbana e saneamento básico a serem financiados com recursos do FGTS;\n\nV - emitir Certificado de Regularidade do FGTS;\n\nVI - elaborar as demonstrações financeiras do FGTS, incluídos o Balanço Patrimonial, a Demonstração do Resultado do Exercício e a Demonstração de Fluxo de Caixa, em conformidade com as Normas Contábeis Brasileiras, e encaminhá-las, até 30 de junho do exercício subsequente, ao gestor de aplicação; (Redação dada pela Lei nº 14.438, de 2022)\n\nVII - implementar atos emanados do gestor da aplicação relativos à alocação e à aplicação dos recursos do FGTS, de acordo com as diretrizes estabelecidas pelo Conselho Curador; (Redação dada pela Lei nº 13.932, de 2019)\n\nVIII - (VETADO) (Incluído pela Lei nº 9.491, de 1997)\n\nIX - garantir aos recursos alocados ao FI-FGTS, em cotas de titularidade do FGTS, a remuneração aplicável às contas vinculadas, na forma do caput do art. 13 desta Lei. (Incluído pela Lei nº 11.491, de 2007)\n\nX - realizar todas as aplicações com recursos do FGTS por meio de sistemas informatizados e auditáveis; (Incluído pela Lei nº 13.932, de 2019)\n\nXI - colocar à disposição do Conselho Curador, em formato digital, as informações gerenciais que estejam sob gestão do agente operador e que sejam necessárias ao desempenho das atribuições daquele colegiado. (Incluído pela Lei nº 13.932, de 2019)\n\nParágrafo único. O gestor da aplicação e o agente operador deverão dar pleno cumprimento aos programas anuais em andamento, aprovados pelo Conselho Curador, e eventuais alterações somente poderão ser processadas mediante prévia anuência daquele colegiado. (Redação dada pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%207%C2%BA%20%C3%80%20Caixa%20Econ%C3%B4mica%20Federal%2C%20na%20qualidade%20de%20agente%20operador%2C%20cabe%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20150%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O gestor da aplicação, o agente operador e o Conselho Curador do FGTS serão responsáveis pelo fiel cumprimento e observância dos critérios estabelecidos nesta Lei. (Redação dada pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%208%C2%BA%20O%20gestor%20da%20aplica%C3%A7%C3%A3o%2C%20o%20agente%20operador%20e%20o%20Conselho%20Curador%20do%20FGTS%20ser%C3%A3o%20respons%C3%A1veis%20pelo%20fiel%20cumprimento%20e%20observ%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º As aplicações com recursos do FGTS serão realizadas exclusivamente segundo critérios fixados pelo Conselho Curador do FGTS e em operações que preencham os seguintes requisitos: (Redação dada pela Lei nº 13.932, de 2019)\n\nI - Garantias: (Redação dada pela Lei nº 9.467, de 1997)\n\na) hipotecária; (Incluída pela Lei nº 9.467, de 1997)\n\nb) caução de Créditos hipotecários próprios, relativos a financiamentos concedidos com recursos do agente financeiro; (Incluída pela Lei nº 9.467, de 1997)\n\nc) caução dos créditos hipotecários vinculados aos imóveis objeto de financiamento; (Incluída pela Lei nº 9.467, de 1997)\n\nd) hipoteca sobre outros imóveis de propriedade do agente financeiro, desde que livres e desembaraçados de quaisquer ônus; (Incluída pela Lei nº 9.467, de 1997)\n\ne) cessão de créditos do agente financeiro, derivados de financiamentos concedidos com recursos próprios, garantidos por penhor ou hipoteca; (Incluída pela Lei nº 9.467, de 1997)\n\nf) hipoteca sobre imóvel de propriedade de terceiros (Incluída pela Lei nº 9.467, de 1997)\n\ng) seguro de crédito; (Incluída pela Lei nº 9.467, de 1997)\n\nh) garantia real ou vinculação de receitas, inclusive tarifárias, nas aplicações contratadas com pessoa jurídica de direito público ou de direito privado a ela vinculada; (Incluída pela Lei nº 9.467, de 1997)\n\ni) aval em nota promissória; (Incluída pela Lei nº 9.467, de 1997)\n\nj) fiança pessoal; (Incluída pela Lei nº 9.467, de 1997)\n\nl) alienação fiduciária de bens móveis em garantia; (Incluída pela Lei nº 9.467, de 1997)\n\nm) fiança bancária; (Incluída pela Lei nº 9.467, de 1997)\n\nn) consignação de recebíveis, exclusivamente para operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde (SUS), em percentual máximo a ser definido pelo Ministério da Saúde; e (Redação dada pela Lei nº 13.778, de 2018)\n\no) outras, a critério do Conselho Curador do FGTS; (Incluído pela Lei nº 13.778, de 2018)\n\nII - correção monetária igual à das contas vinculadas;\n\nIII - taxa de juros média mínima, por projeto, de 3 (três) por cento ao ano;\n\nIV - prazo máximo de 35 (trinta e cinco) anos. (Redação dada pela Lei nº 14.438, de 2022)\n\n§ 1º A rentabilidade média das aplicações deverá ser suficiente à cobertura de todos os custos incorridos pelo Fundo e ainda à formação de reserva técnica para o atendimento de gastos eventuais não previstos, e caberá ao agente operador o risco de crédito. (Redação dada pela Lei nº 13.932, de 2019)\n\n§ 2º Os recursos do FGTS deverão ser aplicados em habitação, saneamento básico, infraestrutura urbana, operações de microcrédito e operações de crédito destinadas às entidades hospitalares filantrópicas, às instituições que atuem com pessoas com deficiência e às entidades sem fins lucrativos que participem do SUS de forma complementar, desde que as disponibilidades financeiras sejam mantidas em volume que satisfaça as condições de liquidez e de remuneração mínima necessárias à preservação do poder aquisitivo da moeda. (Redação dada pela Lei nº 14.438, de 2022)\n\n§ 3º O programa de aplicações deverá destinar: (Redação dada pela Lei nº 13.778, de 2018)\n\nI - no mínimo, 60% (sessenta por cento) para investimentos em habitação popular; e, (Incluído pela Lei nº 13.778, de 2018)\n\nII - 5% (cinco por cento) para operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do SUS. (Incluído pela Lei nº 13.778, de 2018)\n\nIII - (Revogado pela Lei nº 14.620, de 2023)\n\n§ 3º-A. Os recursos previstos no inciso II do § 3º deste artigo não utilizados pelas entidades hospitalares filantrópicas, bem como pelas instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do SUS poderão ser destinados a aplicações em habitação, em saneamento básico e em infraestrutura urbana. (Incluído pela Lei nº 13.778, de 2018)\n\n§ 3º-B. (Revogado pela Lei nº 14.620, de 2023)\n\n§ 3º-C. (Revogado pela Lei nº 14.620, de 2023)\n\n§ 4º Os projetos de saneamento básico e infraestrutura urbana financiados com recursos do FGTS serão, preferencialmente, complementares aos programas habitacionais. (Redação dada pela Lei nº 14.438, de 2022)\n\n§ 5º As garantias, nas diversas modalidades discriminadas no inciso I do caput deste artigo, serão admitidas singular ou supletivamente, considerada a suficiência de cobertura para os empréstimos e financiamentos concedidos. (Redação dada pela Lei nº 9.467, de 1997)\n\n§ 6o Mantida a rentabilidade média de que trata o § 1o, as aplicações em habitação popular poderão contemplar sistemática de desconto, direcionada em função da renda familiar do beneficiário, onde o valor do benefício seja concedido mediante redução no valor das prestações a serem pagas pelo mutuário ou pagamento de parte da aquisição ou construção de imóvel, dentre outras, a critério do Conselho Curador do FGTS. (Incluído pela Medida Provisória nº 2.197-43, de 2001)\n\n§ 6º-A. (VETADO). (Incluído pela Lei nº 13.932, de 2019)\n\n§ 6º-B. (VETADO). (Incluído pela Lei nº 13.932, de 2019)\n\n§ 7o Os recursos necessários para a consecução da sistemática de desconto serão destacados, anualmente, do orçamento de aplicação de recursos do FGTS, constituindo reserva específica, com contabilização própria. (Incluído pela Medida Provisória nº 2.197-43, de 2001)\n\n§ 8º É da União o risco de crédito nas aplicações efetuadas até 1º de junho de 2001 pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH e pelas entidades credenciadas pelo Banco Central do Brasil como agentes financeiros, subrogando-se nas garantias prestadas à Caixa Econômica Federal. (Incluído pela Medida Provisória nº 2.196-3, de 2001)\n\n§ 9º A Caixa Econômica Federal, o Banco do Brasil S.A. e o Banco Nacional de Desenvolvimento Econômico e Social - BNDES poderão atuar como agentes financeiros autorizados para aplicação dos recursos do FGTS em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do SUS. (Incluído pela Medida Provisória nº 848, de 2018)\n\n§ 10. Nas operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do SUS, serão observadas as seguintes condições: (Incluído pela Lei nº 13.778, de 2018)\n\nI - a taxa de juros efetiva não será superior àquela cobrada para o financiamento habitacional na modalidade pró-cotista ou a outra que venha a substituí-la; (Incluído pela Lei nº 13.778, de 2018)\n\nII - a tarifa operacional única não será superior a 0,5% (cinco décimos por cento) do valor da operação; e (Incluído pela Lei nº 13.778, de 2018)\n\nIII - o risco das operações de crédito ficará a cargo dos agentes financeiros de que trata o § 9º deste artigo. (Incluído pela Lei nº 13.778, de 2018)\n\n§ 11. As entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do SUS deverão, para contratar operações de crédito com recursos do FGTS, atender ao disposto nos incisos II e III do caput do art. 4º da Lei nº 12.101, de 27 de novembro de 2009. (Incluído pela Lei nº 13.778, de 2018)\n\n§ 12. (Revogado pela Lei nº 14.620, de 2023)\n\n§ 13. Para garantir o risco em operações de microcrédito e em operações de crédito de habitação popular para famílias com renda mensal de até 2 (dois) salários mínimos, o FGTS poderá destinar, na forma estabelecida por seu Conselho Curador, observado o disposto no inciso XVII do caput do art. 5º desta Lei, parte dos recursos de que trata o § 7º deste artigo para a aquisição de cotas de fundos garantidores que observem o seguinte: (Incluído pela Lei nº 14.438, de 2022)\n\nI - tenham natureza privada e patrimônio segregado do patrimônio dos cotistas e da própria administradora do fundo garantidor e estejam sujeitos a direitos e obrigações próprios; (Incluído pela Lei nº 14.438, de 2022)\n\nII - respondam por suas obrigações até o limite dos bens e direitos que integram o seu patrimônio, vedado qualquer tipo de garantia ou aval por parte do FGTS; e (Incluído pela Lei nº 14.438, de 2022)\n\nIII - não paguem rendimentos a seus cotistas, assegurado o direito de resgate total ou parcial das cotas com base na situação patrimonial dos fundos em valor não superior ao montante de recursos financeiros ainda não vinculados às garantias contratadas. (Incluído pela Lei nº 14.438, de 2022)\n\n§ 14. Aos recursos do FGTS destinados à aquisição de cota de fundos garantidores de que trata o § 13 deste artigo não se aplicam os requisitos de correção monetária, taxa de juros mínima e prazo máximo previstos nos incisos II, III e IV do caput deste artigo e de rentabilidade prevista no § 1º deste artigo. (Incluído pela Lei nº 14.438, de 2022)\n\n§ 15. (Revogado pela Lei nº 14.620, de 2023)\n\n§ 16. (Revogado pela Lei nº 14.620, de 2023)\n\n§ 17. (Revogado pela Lei nº 14.620, de 2023)\n\nArt. 9º-A. O risco das operações de crédito de que trata o § 10 do art. 9º desta Lei ficará a cargo dos agentes financeiros referidos no § 9º do art. 9º desta Lei, hipótese em que o Conselho Curador poderá definir o percentual da taxa de risco, limitado a 3% (três por cento), a ser acrescido à taxa de juros de que trata o inciso I do § 10 do art. 9º desta Lei. (Incluído pela Lei nº 13.832, de 2019)\n\nArt. 9º-B. As garantias de que trata o inciso I do caput do art. 9º desta Lei podem ser exigidas isolada ou cumulativamente. (Incluído pela Lei nº 13.832, de 2019)\n\nArt. 9º-C. As aplicações do FGTS em operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuem no campo para pessoas com deficiência, sem fins lucrativos e que participem de forma complementar do SUS, ocorrerão até o final do exercício de 2022. (Incluído pela Lei nº 13.832, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%209%C2%BA%20As%20aplica%C3%A7%C3%B5es%20com%20recursos%20do%20FGTS%20ser%C3%A3o%20realizadas%20exclusivamente%20segundo%20crit%C3%A9rios%20fixados%20pelo%20Conselho%20Curador%20do%20FGTS%20e%20em%20opera%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O Conselho Curador fixará diretrizes e estabelecerá critérios técnicos para as aplicações dos recursos do FGTS, visando:\n\nI - exigir a participação dos contratantes de financiamentos nos investimentos a serem realizados;\n\nII - assegurar o cumprimento, por parte dos contratantes inadimplentes, das obrigações decorrentes dos financiamentos obtidos;\n\nIII - evitar distorções na aplicação entre as regiões do País, considerando para tanto a demanda habitacional, a população e outros indicadores sociais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2010.%20O%20Conselho%20Curador%20fixar%C3%A1%20diretrizes%20e%20estabelecer%C3%A1%20crit%C3%A9rios%20t%C3%A9cnicos%20para%20as%20aplica%C3%A7%C3%B5es%20dos%20recursos%20do%20FGTS%2C%20visando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os recolhimentos efetuados na rede arrecadadora relativos ao FGTS serão transferidos à Caixa Econômica Federal até o primeiro dia útil subsequente à data do recolhimento, observada a regra do meio de pagamento utilizado, data em que os respectivos valores serão incorporados ao FGTS. (Redação dada pela Lei nº 14.438, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2011.%20Os%20recolhimentos%20efetuados%20na%20rede%20arrecadadora%20relativos%20ao%20FGTS%20ser%C3%A3o%20transferidos%20%C3%A0%20Caixa%20Econ%C3%B4mica%20Federal%20at%C3%A9%20o%20primeiro%20dia%20%C3%BAtil",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. No prazo de um ano, a contar da promulgação desta lei, a Caixa Econômica Federal assumirá o controle de todas as contas vinculadas, nos termos do item I do art. 7º, passando os demais estabelecimentos bancários, findo esse prazo, à condição de agentes recebedores e pagadores do FGTS, mediante recebimento de tarifa, a ser fixada pelo Conselho Curador.\n\n§1º Enquanto não ocorrer a centralização prevista no caput deste artigo, o depósito efetuado no decorrer do mês será contabilizado no saldo da conta vinculada do trabalhador, no primeiro dia útil do mês subseqüente.\n\n§2º Até que a Caixa Econômica Federal implemente as disposições do caput deste artigo, as contas vinculadas continuarão sendo abertas em estabelecimento bancário escolhido pelo empregador, dentre os para tanto autorizados pelo Banco Central do Brasil, em nome do trabalhador.\n\n§3º Verificando-se mudança de emprego, até que venha a ser implementada a centralização no caput deste artigo, a conta vinculada será transferida para o estabelecimento bancário da escolha do novo empregador.\n\n§4º Os resultados financeiros auferidos pela Caixa Econômica Federal no período entre o repasse dos bancos e o depósito nas contas vinculadas dos trabalhadores destinar-se-ão à cobertura das despesas de administração do FGTS e ao pagamento da tarifa aos bancos depositários, devendo os eventuais saldos ser incorporados ao patrimônio do Fundo nos termos do art. 2º, § 1º.\n\n§5º (Revogado pela Lei nº 14.438, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2012.%20No%20prazo%20de%20um%20ano%2C%20a%20contar%20da%20promulga%C3%A7%C3%A3o%20desta%20lei%2C%20a%20Caixa%20Econ%C3%B4mica%20Federal%20assumir%C3%A1%20o%20controle%20de%20todas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os depósitos efetuados nas contas vinculadas serão corrigidos monetariamente com base nos parâmetros fixados para atualização dos saldos dos depósitos de poupança e capitalização juros de (três) por cento ao ano.\n\n§ 1º A atualização monetária e a capitalização de juros nas contas vinculadas correrão à conta do FGTS, e a Caixa Econômica Federal efetuará o crédito respectivo no vigésimo primeiro dia de cada mês, com base no saldo existente no vigésimo primeiro dia do mês anterior, deduzidos os débitos ocorridos no período. (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 1º-A. Para fins do disposto no § 1º deste artigo, o depósito realizado no prazo legal será contabilizado no saldo da conta vinculada no vigésimo primeiro dia do mês de sua ocorrência. (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 1º-B. Na hipótese de depósito realizado intempestivamente, a atualização monetária e a parcela de juros devida ao empregado comporão o saldo-base no vigésimo primeiro dia do mês imediatamente anterior, ou comporão o saldo no vigésimo primeiro dia do mês do depósito, se o depósito ocorrer nesta data. (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 2º No primeiro mês em que for exigível o recolhimento do FGTS no vigésimo dia, na forma prevista no art. 15 desta Lei, a atualização monetária e os juros correspondentes da conta vinculada serão realizados: (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\nI - no décimo dia, com base no saldo existente no décimo dia do mês anterior, deduzidos os débitos ocorridos no período; e (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\nII - no vigésimo primeiro dia, com base no saldo existente no décimo dia do mesmo mês, atualizado na forma prevista no inciso I deste parágrafo, deduzidos os débitos ocorridos no período, com a atualização monetária pro rata die e os juros correspondentes. (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§3º Para as contas vinculadas dos trabalhadores optantes existentes à data de 22 de setembro de 1971, a capitalização dos juros dos depósitos continuará a ser feita na seguinte progressão, salvo no caso de mudança de empresa, quando a capitalização dos juros passará a ser feita à taxa de 3 (três) por cento ao ano:\n\nI - 3 (três) por cento, durante os dois primeiros anos de permanência na mesma empresa;\n\nII - 4 (quatro) por cento, do terceiro ao quinto ano de permanência na mesma empresa;\n\nIII - 5 (cinco) por cento, do sexto ao décimo ano de permanência na mesma empresa;\n\nIV - 6 (seis) por cento, a partir do décimo primeiro ano de permanência na mesma empresa.\n\n§4º O saldo das contas vinculadas é garantido pelo Governo Federal, podendo ser instituído seguro especial para esse fim.\n\n§ 5º O Conselho Curador autorizará a distribuição de parte do resultado positivo auferido pelo FGTS, mediante crédito nas contas vinculadas de titularidade dos trabalhadores, observadas as seguintes condições, entre outras a seu critério: (Incluído pela Lei nº 13.446, de 2017)\n\nI - a distribuição alcançará todas as contas vinculadas que apresentarem saldo positivo em 31 de dezembro do exercício-base do resultado auferido, inclusive as contas vinculadas de que trata o art. 21 desta Lei; (Incluído pela Lei nº 13.446, de 2017)\n\nII - a distribuição será proporcional ao saldo de cada conta vinculada em 31 de dezembro do exercício-base e deverá ocorrer até 31 de agosto do ano seguinte ao exercício de apuração do resultado; e (Incluído pela Lei nº 13.446, de 2017)\n\nIII - (Revogado pela Lei nº 13.932, de 2019)\n\n§ 6º O valor de distribuição do resultado auferido será calculado posteriormente ao valor desembolsado com o desconto realizado no âmbito do Programa Minha Casa, Minha Vida (PMCMV), de que trata a Lei nº 11.977, de 7 de julho de 2009. (Incluído pela Lei nº 13.446, de 2017)\n\n§ 7º O valor creditado nas contas vinculadas a título de distribuição de resultado, acrescido de juros e atualização monetária, não integrará a base de cálculo do depósito da multa rescisória de que tratam os §§ 1º e 2º do art. 18 desta Lei. (Incluído pela Lei nº 13.446, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2013.%20Os%20dep%C3%B3sitos%20efetuados%20nas%20contas%20vinculadas%20ser%C3%A3o%20corrigidos%20monetariamente%20com%20base%20nos%20par%C3%A2metros%20fixados%20para%20atualiza%C3%A7%C3%A3o%20dos%20saldos%20dos%20dep%C3%B3sitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Fica ressalvado o direito adquirido dos trabalhadores que, à data da promulgação da Constituição Federal de 1988, já tinham o direito à estabilidade no emprego nos termos do Capítulo V do Título IV da CLT.\n\n§1º O tempo do trabalhador não optante do FGTS, anterior a 5 de outubro de 1988, em caso de rescisão sem justa causa pelo empregador, reger-se-á pelos dispositivos constantes dos arts. 477, 478 e 497 da CLT.\n\n§2º O tempo de serviço anterior à atual Constituição poderá ser transacionado entre empregador e empregado, respeitado o limite mínimo de 60 (sessenta) por cento da indenização prevista.\n\n§3º É facultado ao empregador desobrigar-se da responsabilidade da indenização relativa ao tempo de serviço anterior à opção, depositando na conta vinculada do trabalhador, até o último dia útil do mês previsto em lei para o pagamento de salário, o valor correspondente à indenização, aplicando-se ao depósito, no que couber, todas as disposições desta lei.\n\n§4º Os trabalhadores poderão a qualquer momento optar pelo FGTS com efeito retroativo a 1º de janeiro de 1967 ou à data de sua admissão, quando posterior àquela.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2014.%20Fica%20ressalvado%20o%20direito%20adquirido%20dos%20trabalhadores%20que%2C%20%C3%A0%20data%20da%20promulga%C3%A7%C3%A3o%20da%20Constitui%C3%A7%C3%A3o%20Federal%20de%201988%2C%20j%C3%A1%20tinham%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Para os fins previstos nesta Lei, todos os empregadores ficam obrigados a depositar, até o vigésimo dia de cada mês, em conta vinculada, a importância correspondente a 8% (oito por cento) da remuneração paga ou devida, no mês anterior, a cada trabalhador, incluídas na remuneração as parcelas de que tratam os arts. 457 e 458 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Gratificação de Natal de que trata a Lei nº 4.090, de 13 de julho de 1962. (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 1º Entende-se por empregador a pessoa física ou a pessoa jurídica de direito privado ou de direito público, da administração pública direta, indireta ou fundacional de qualquer dos Poderes, da União, dos Estados, do Distrito Federal e dos Municípios, que admitir trabalhadores a seu serviço, bem assim aquele que, regido por legislação especial, encontrar-se nessa condição ou figurar como fornecedor ou tomador de mão-de-obra, independente da responsabilidade solidária e/ou subsidiária a que eventualmente venha obrigar-se.\n\n§ 2º Considera-se trabalhador toda pessoa física que prestar serviços a empregador, a locador ou tomador de mão-de-obra, excluídos os eventuais, os autônomos e os servidores públicos civis e militares sujeitos a regime jurídico próprio.\n\n§ 3º Os trabalhadores domésticos poderão ter acesso ao regime do FGTS, na forma que vier a ser prevista em lei.\n\n§ 4º Considera-se remuneração as retiradas de diretores não empregados, quando haja deliberação da empresa, garantindo-lhes os direitos decorrentes do contrato de trabalho de que trata o art. 16. (Incluído pela Lei nº 9.711, de 1998)\n\n§ 5º O depósito de que trata o caput deste artigo é obrigatório nos casos de afastamento para prestação do serviço militar obrigatório e licença por acidente do trabalho. (Incluído pela Lei nº 9.711, de 1998)\n\n§ 6º Não se incluem na remuneração, para os fins desta Lei, as parcelas elencadas no § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 9.711, de 1998)\n\n§ 7o Os contratos de aprendizagem terão a alíquota a que se refere o caput deste artigo reduzida para dois por cento. (Incluído pela Lei nº 10.097, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2015.%20Para%20os%20fins%20previstos%20nesta%20Lei%2C%20todos%20os%20empregadores%20ficam%20obrigados%20a%20depositar%2C%20at%C3%A9%20o%20vig%C3%A9simo%20dia%20de%20cada%20m%C3%AAs%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Para efeito desta lei, as empresas sujeitas ao regime da legislação trabalhista poderão equiparar seus diretores não empregados aos demais trabalhadores sujeitos ao regime do FGTS. Considera-se diretor aquele que exerça cargo de administração previsto em lei, estatuto ou contrato social, independente da denominação do cargo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2016.%20Para%20efeito%20desta%20lei%2C%20as%20empresas%20sujeitas%20ao%20regime%20da%20legisla%C3%A7%C3%A3o%20trabalhista%20poder%C3%A3o%20equiparar%20seus%20diretores%20n%C3%A3o%20empregados%20aos%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O Poder Executivo assegurará a prestação de serviços digitais: (Redação dada pela Lei nº 13.932, de 2019)\n\nI - aos trabalhadores, que incluam a prestação de informações sobre seus créditos perante o Fundo e o acionamento imediato da inspeção do trabalho em caso de inadimplemento do empregador, de forma que seja possível acompanhar a evolução de eventuais cobranças administrativas e judiciais dos valores não recolhidos; (Incluído pela Lei nº 13.932, de 2019)\n\nII - aos empregadores, que facilitem e desburocratizem o cumprimento de suas obrigações perante o Fundo, incluídos a geração de guias, o parcelamento de débitos, a emissão sem ônus do Certificado de Regularidade do FGTS e a realização de procedimentos de restituição e compensação. (Incluído pela Lei nº 13.932, de 2019)\n\nParágrafo único. O desenvolvimento, a manutenção e a evolução dos sistemas e ferramentas necessários à prestação dos serviços a que se refere o caput deste artigo serão custeados com recursos do FGTS. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2017.%20O%20Poder%20Executivo%20assegurar%C3%A1%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20digitais%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2013.932%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17-A"
+    },
+    "17-A": {
+      "numero": "17-A",
+      "texto": "Art. 17-A. O empregador ou o responsável fica obrigado a elaborar folha de pagamento e a declarar os dados relacionados aos valores do FGTS e outras informações de interesse do poder público por meio de sistema de escrituração digital, na forma, no prazo e nas condições estabelecidos em ato do Ministro de Estado do Trabalho e Previdência. (Redação dada pela Lei nº 14.438, de 2022)\n\n§ 1º As informações prestadas na forma do caput deste artigo constituem declaração e reconhecimento dos créditos delas decorrentes, caracterizam confissão de débito e constituem instrumento hábil e suficiente para a cobrança do crédito de FGTS. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 2º O lançamento da obrigação principal e das obrigações acessórias relativas ao FGTS será efetuado de ofício pela autoridade competente, no caso de o empregador não apresentar a declaração na forma do caput deste artigo, e será revisto de ofício, nas hipóteses de omissão, erro, fraude ou sonegação. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2017-A.%20O%20empregador%20ou%20o%20respons%C3%A1vel%20fica%20obrigado%20a%20elaborar%20folha%20de%20pagamento%20e%20a%20declarar%20os%20dados%20relacionados%20aos%20valores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Ocorrendo rescisão do contrato de trabalho, por parte do empregador, ficará este obrigado a depositar na conta vinculada do trabalhador no FGTS os valores relativos aos depósitos referentes ao mês da rescisão e ao imediatamente anterior, que ainda não houver sido recolhido, sem prejuízo das cominações legais. (Redação dada pela Lei nº 9.491, de 1997)\n\n§ 1º Na hipótese de despedida pelo empregador sem justa causa, depositará este, na conta vinculada do trabalhador no FGTS, importância igual a quarenta por cento do montante de todos os depósitos realizados na conta vinculada durante a vigência do contrato de trabalho, atualizados monetariamente e acrescidos dos respectivos juros. (Redação dada pela Lei nº 9.491, de 1997)\n\n§ 2º Quando ocorrer despedida por culpa recíproca ou força maior, reconhecida pela Justiça do Trabalho, o percentual de que trata o § 1º será de 20 (vinte) por cento.\n\n§ 3° As importâncias de que trata este artigo deverão constar da documentação comprobatória do recolhimento dos valores devidos a título de rescisão do contrato de trabalho, observado o disposto no art. 477 da CLT, eximindo o empregador, exclusivamente, quanto aos valores discriminados. (Redação dada pela Lei nº 9.491, de 1997) (Vide Lei complementar nº 150, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2018.%20Ocorrendo%20rescis%C3%A3o%20do%20contrato%20de%20trabalho%2C%20por%20parte%20do%20empregador%2C%20ficar%C3%A1%20este%20obrigado%20a%20depositar%20na%20conta%20vinculada%20do%20trabalhador",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-A",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. No caso de extinção do contrato de trabalho prevista no art. 14 desta lei, serão observados os seguintes critérios:\n\nI - havendo indenização a ser paga, o empregador, mediante comprovação do pagamento daquela, poderá sacar o saldo dos valores por ele depositados na conta individualizada do trabalhador;\n\nII - não havendo indenização a ser paga, ou decorrido o prazo prescricional para a reclamação de direitos por parte do trabalhador, o empregador poderá levantar em seu favor o saldo da respectiva conta individualizada, mediante comprovação perante o órgão competente do Ministério do Trabalho e da Previdência Social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2019.%20No%20caso%20de%20extin%C3%A7%C3%A3o%20do%20contrato%20de%20trabalho%20prevista%20no%20art.%2014%20desta%20lei%2C%20ser%C3%A3o%20observados%20os%20seguintes%20crit%C3%A9rios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "19-A"
+    },
+    "19-A": {
+      "numero": "19-A",
+      "texto": "Art. 19-A. É devido o depósito do FGTS na conta vinculada do trabalhador cujo contrato de trabalho seja declarado nulo nas hipóteses previstas no art. 37, § 2o, da Constituição Federal, quando mantido o direito ao salário. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nParágrafo único. O saldo existente em conta vinculada, oriundo de contrato declarado nulo até 28 de julho de 2001, nas condições do caput, que não tenha sido levantado até essa data, será liberado ao trabalhador a partir do mês de agosto de 2002. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2019-A.%20%C3%89%20devido%20o%20dep%C3%B3sito%20do%20FGTS%20na%20conta%20vinculada%20do%20trabalhador%20cujo%20contrato%20de%20trabalho%20seja%20declarado%20nulo%20nas%20hip%C3%B3teses",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A conta vinculada do trabalhador no FGTS poderá ser movimentada nas seguintes situações:\n\nI - despedida sem justa causa, inclusive a indireta, de culpa recíproca e de força maior; (Redação dada pela Medida Provisória nº 2.197-43, de 2001)\n\nI-A - extinção do contrato de trabalho prevista no art. 484-A da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto- Lei no 5.452, de 1o de maio de 1943; (Incluído pela Lei nº 13.467, de 2017)\n\nII - extinção total da empresa, fechamento de quaisquer de seus estabelecimentos, filiais ou agências, supressão de parte de suas atividades, declaração de nulidade do contrato de trabalho nas condições do art. 19-A, ou ainda falecimento do empregador individual sempre que qualquer dessas ocorrências implique rescisão de contrato de trabalho, comprovada por declaração escrita da empresa, suprida, quando for o caso, por decisão judicial transitada em julgado; (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\nIII - aposentadoria concedida pela Previdência Social;\n\nIV - falecimento do trabalhador, sendo o saldo pago a seus dependentes, para esse fim habilitados perante a Previdência Social, segundo o critério adotado para a concessão de pensões por morte. Na falta de dependentes, farão jus ao recebimento do saldo da conta vinculada os seus sucessores previstos na lei civil, indicados em alvará judicial, expedido a requerimento do interessado, independente de inventário ou arrolamento;\n\nV - pagamento de parte das prestações decorrentes de financiamento habitacional concedido no âmbito do Sistema Financeiro da Habitação (SFH), desde que:\n\na) o mutuário conte com o mínimo de 3 (três) anos de trabalho sob o regime do FGTS, na mesma empresa ou em empresas diferentes;\n\nb) o valor bloqueado seja utilizado, no mínimo, durante o prazo de 12 (doze) meses;\n\nc) o valor do abatimento atinja, no máximo, 80 (oitenta) por cento do montante da prestação;\n\nVI - liquidação ou amortização extraordinária do saldo devedor de financiamento imobiliário, observadas as condições estabelecidas pelo Conselho Curador, dentre elas a de que o financiamento seja concedido no âmbito do SFH e haja interstício mínimo de 2 (dois) anos para cada movimentação;\n\nVII – pagamento total ou parcial do preço de aquisição de moradia própria, ou lote urbanizado de interesse social não construído, observadas as seguintes condições: (Redação dada pela Lei nº 11.977, de 2009)\n\na) o mutuário deverá contar com o mínimo de 3 (três) anos de trabalho sob o regime do FGTS, na mesma empresa ou empresas diferentes;\n\nb) seja a operação financiável nas condições vigentes para o SFH;\n\nVIII - quando o trabalhador permanecer três anos ininterruptos fora do regime do FGTS; (Redação dada pela Lei nº 13.932, de 2019)\n\nIX - extinção normal do contrato a termo, inclusive o dos trabalhadores temporários regidos pela Lei nº 6.019, de 3 de janeiro de 1974;\n\nX - suspensão total do trabalho avulso por período igual ou superior a 90 (noventa) dias, comprovada por declaração do sindicato representativo da categoria profissional.\n\nXI - quando o trabalhador ou qualquer de seus dependentes for acometido de neoplasia maligna. (Incluído pela Lei nº 8.922, de 1994)\n\nXII - aplicação em quotas de Fundos Mútuos de Privatização, regidos pela Lei n° 6.385, de 7 de dezembro de 1976, permitida a utilização máxima de 50 % (cinqüenta por cento) do saldo existente e disponível em sua conta vinculada do Fundo de Garantia do Tempo de Serviço, na data em que exercer a opção. (Incluído pela Lei nº 9.491, de 1997) (Vide Decreto nº 2.430, 1997)\n\nXIII - quando o trabalhador ou qualquer de seus dependentes for portador do vírus HIV; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nXIV - quando o trabalhador ou qualquer de seus dependentes estiver em estágio terminal, em razão de doença grave, nos termos do regulamento; (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nXV - quando o trabalhador tiver idade igual ou superior a setenta anos. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nXVI - necessidade pessoal, cuja urgência e gravidade decorra de desastre natural, conforme disposto em regulamento, observadas as seguintes condições: (Incluído pela Lei nº 10.878, de 2004) Regulamento Regulamento\n\na) o trabalhador deverá ser residente em áreas comprovadamente atingidas de Município ou do Distrito Federal em situação de emergência ou em estado de calamidade pública, formalmente reconhecidos pelo Governo Federal; (Incluído pela Lei nº 10.878, de 2004)\n\nb) a solicitação de movimentação da conta vinculada será admitida até 90 (noventa) dias após a publicação do ato de reconhecimento, pelo Governo Federal, da situação de emergência ou de estado de calamidade pública; e (Incluído pela Lei nº 10.878, de 2004)\n\nc) o valor máximo do saque da conta vinculada será definido na forma do regulamento. (Incluído pela Lei nº 10.878, de 2004)\n\nXVII - integralização de cotas do FI-FGTS, respeitado o disposto na alínea i do inciso XIII do art. 5o desta Lei, permitida a utilização máxima de 30% (trinta por cento) do saldo existente e disponível na data em que exercer a opção. (Redação dada pela Lei nº 12.087, de 2009)\n\nXVIII - quando o trabalhador com deficiência, por prescrição, necessite adquirir órtese ou prótese para promoção de acessibilidade e de inclusão social. (Incluído pela Lei nº 13.146, de 2015) (Vigência)\n\nXIX - pagamento total ou parcial do preço de aquisição de imóveis da União inscritos em regime de ocupação ou aforamento, a que se referem o art. 4o da Lei no 13.240, de 30 de dezembro de 2015, e o art. 16-A da Lei no 9.636, de 15 de maio de 1998, respectivamente, observadas as seguintes condições: (Incluído pela Lei nº 13.465, de 2017)\n\na) o mutuário deverá contar com o mínimo de três anos de trabalho sob o regime do FGTS, na mesma empresa ou em empresas diferentes; (Incluído pela Lei nº 13.465, de 2017)\n\nb) seja a operação financiável nas condições vigentes para o Sistema Financeiro da Habitação (SFH) ou ainda por intermédio de parcelamento efetuado pela Secretaria do Patrimônio da União (SPU), mediante a contratação da Caixa Econômica Federal como agente financeiro dos contratos de parcelamento; (Incluído pela Lei nº 13.465, de 2017)\n\nc) sejam observadas as demais regras e condições estabelecidas para uso do FGTS. (Incluído pela Lei nº 13.465, de 2017)\n\nXX - anualmente, no mês de aniversário do trabalhador, por meio da aplicação dos valores constantes do Anexo desta Lei, observado o disposto no art. 20-D desta Lei; (Incluído pela Lei nº 13.932, de 2019)\n\nXXI - a qualquer tempo, quando seu saldo for inferior a R$ 80,00 (oitenta reais) e não houver ocorrido depósitos ou saques por, no mínimo, 1 (um) ano, exceto na hipótese prevista no inciso I do § 5º do art. 13 desta Lei; (Incluído pela Lei nº 13.932, de 2019) (Vigência)\n\nXXII - quando o trabalhador ou qualquer de seus dependentes for, nos termos do regulamento, pessoa com doença rara, consideradas doenças raras aquelas assim reconhecidas pelo Ministério da Saúde, que apresentará, em seu sítio na internet, a relação atualizada dessas doenças. (Incluído pela Lei nº 13.932, de 2019) (Vigência)\n\n§ 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.\n\n§ 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.\n\n§ 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.\n\n§ 4º O imóvel objeto de utilização do FGTS somente poderá ser objeto de outra transação com recursos do fundo, na forma que vier a ser regulamentada pelo Conselho Curador.\n\n§ 5º O pagamento da retirada após o período previsto em regulamento, implicará atualização monetária dos valores devidos.\n\n§ 6o Os recursos aplicados em cotas de fundos Mútuos de Privatização, referidos no inciso XII, serão destinados, nas condições aprovadas pelo CND, a aquisições de valores mobiliários, no âmbito do Programa Nacional de Desestatização, de que trata a Lei no 9.491, de 1997, e de programas estaduais de desestatização, desde que, em ambos os casos, tais destinações sejam aprovadas pelo CND. (Redação dada pela Lei nº 9.635, de 1998)\n\n§ 7o Ressalvadas as alienações decorrentes das hipóteses de que trata o § 8o, os valores mobiliários a que se refere o parágrafo anterior só poderão ser integralmente vendidos, pelos respectivos Fundos, seis meses após a sua aquisição, podendo ser alienada em prazo inferior parcela equivalente a 10% (dez por cento) do valor adquirido, autorizada a livre aplicação do produto dessa alienação, nos termos da Lei no 6.385, de 7 de dezembro de 1976. (Redação dada pela Lei nº 9.635, de 1998)\n\n§ 8o As aplicações em Fundos Mútuos de Privatização e no FI-FGTS são nominativas, impenhoráveis e, salvo as hipóteses previstas nos incisos I a XI e XIII a XVI do caput deste artigo, indisponíveis por seus titulares. (Redação dada pela Lei nº 11.491, de 2007)\n\n§ 9° Decorrido o prazo mínimo de doze meses, contados da efetiva transferência das quotas para os Fundos Mútuos de Privatização, os titulares poderão optar pelo retorno para sua conta vinculada no Fundo de Garantia do Tempo de Serviço. (Incluído pela Lei nº 9.491, de 1997)\n\n§ 10. A cada período de seis meses, os titulares das aplicações em Fundos Mútuos de Privatização poderão transferi-las para outro fundo de mesma natureza. (Incluído pela Lei nº 9.491, de 1997)\n\n§ 11. O montante das aplicações de que trata o § 6° deste artigo ficará limitado ao valor dos créditos contra o Tesouro Nacional de que seja titular o Fundo de Garantia do Tempo de Serviço. (Incluído pela Lei nº 9.491, de 1997)\n\n§ 12. Desde que preservada a participação individual dos quotistas, será permitida a constituição de clubes de investimento, visando a aplicação em quotas de Fundos Mútuos de Privatização. (Incluído pela Lei nº 9.491, de 1997)\n\n§ 13. A garantia a que alude o § 4o do art. 13 desta Lei não compreende as aplicações a que se referem os incisos XII e XVII do caput deste artigo. (Redação dada pela Lei nº 11.491, de 2007)\n\n§ 14. Ficam isentos do imposto de renda: (Redação dada pela Lei nº 11.491, de 2007)\n\nI - a parcela dos ganhos nos Fundos Mútuos de Privatização até o limite da remuneração das contas vinculadas de que trata o art. 13 desta Lei, no mesmo período; e (Incluído pela Lei nº 11.491, de 2007)\n\nII - os ganhos do FI-FGTS e do Fundo de Investimento em Cotas - FIC, de que trata o § 19 deste artigo. (Incluído pela Lei nº 11.491, de 2007)\n\n§ 15. A transferência de recursos da conta do titular no Fundo de Garantia do Tempo de Serviço em razão da aquisição de ações, nos termos do inciso XII do caput deste artigo, ou de cotas do FI-FGTS não afetará a base de cálculo da multa rescisória de que tratam os §§ 1o e 2o do art. 18 desta Lei. (Redação dada pela Lei nº 11.491, de 2007)\n\n§ 16. Os clubes de investimento a que se refere o § 12 poderão resgatar, durante os seis primeiros meses da sua constituição, parcela equivalente a 5% (cinco por cento) das cotas adquiridas, para atendimento de seus desembolsos, autorizada a livre aplicação do produto dessa venda, nos termos da Lei no 6.385, de 7 de dezembro de 1976. (Incluído pela Lei nº 9.635, de 1998)\n\n§ 17. Fica vedada a movimentação da conta vinculada do FGTS nas modalidades previstas nos incisos V, VI e VII deste artigo, nas operações firmadas, a partir de 25 de junho de 1998, no caso em que o adquirente já seja proprietário ou promitente comprador de imóvel localizado no Município onde resida, bem como no caso em que o adquirente já detenha, em qualquer parte do País, pelo menos um financiamento nas condições do SFH. (Incluído pela Medida Provisória nº 2.197-43, de 2001)\n\n§ 18. É indispensável o comparecimento pessoal do titular da conta vinculada para o pagamento da retirada nas hipóteses previstas nos incisos I, II, III, VIII, IX e X deste artigo, salvo em caso de grave moléstia comprovada por perícia médica, quando será paga a procurador especialmente constituído para esse fim. (Incluído pela Medida Provisória nº 2.197-43, de 2001)\n\n§ 19. A integralização das cotas previstas no inciso XVII do caput deste artigo será realizada por meio de Fundo de Investimento em Cotas - FIC, constituído pela Caixa Econômica Federal especificamente para essa finalidade. (Incluído pela Lei nº 11.491, de 2007)\n\n§ 20. A Comissão de Valores Mobiliários estabelecerá os requisitos para a integralização das cotas referidas no § 19 deste artigo, devendo condicioná-la pelo menos ao atendimento das seguintes exigências: (Incluído pela Lei nº 11.491, de 2007)\n\nI - elaboração e entrega de prospecto ao trabalhador; e (Incluído pela Lei nº 11.491, de 2007)\n\nII - declaração por escrito, individual e específica, pelo trabalhador de sua ciência quanto aos riscos do investimento que está realizando. (Incluído pela Lei nº 11.491, de 2007)\n\n§ 21. As movimentações autorizadas nos incisos V e VI do caput serão estendidas aos contratos de participação de grupo de consórcio para aquisição de imóvel residencial, cujo bem já tenha sido adquirido pelo consorciado, na forma a ser regulamentada pelo Conselho Curador do FGTS. (Incluído pela Lei nº 12.058, de 2009)\n\n§ 22. Na movimentação das contas vinculadas a contrato de trabalho extinto até 31 de dezembro de 2015, ficam isentas as exigências de que trata o inciso VIII do caput deste artigo, podendo o saque, nesta hipótese, ser efetuado segundo cronograma de atendimento estabelecido pelo agente operador do FGTS. (Incluído pela Lei nº 13.446, de 2017)\n\n§ 23. As movimentações das contas vinculadas nas situações previstas nos incisos V, VI e VII do caput deste artigo poderão ser realizadas fora do âmbito do SFH, observados os mesmos limites financeiros das operações realizadas no âmbito desse sistema, no que se refere ao valor máximo de movimentação da conta vinculada, e os limites, critérios e condições estabelecidos pelo Conselho Curador. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 24. O trabalhador poderá sacar os valores decorrentes da situação de movimentação de que trata o inciso XX do caput deste artigo até o último dia útil do segundo mês subsequente ao da aquisição do direito de saque. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 25. O agente operador deverá oferecer, nos termos do regulamento do Conselho Curador, em plataformas de interação com o titular da conta, inclusive por meio de dispositivos móveis, opções para consulta e transferência, a critério do trabalhador, para conta de depósitos de sua titularidade em qualquer instituição financeira do Sistema Financeiro Nacional, dos recursos disponíveis para movimentação em decorrência das situações previstas neste artigo, cabendo ao agente operador estabelecer os procedimentos operacionais a serem observados. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 26. As transferências de que trata o § 25 deste artigo não acarretarão a cobrança de tarifas pelo agente operador ou pelas demais instituições financeiras. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 27. A critério do titular da conta vinculada do FGTS, em ato formalizado no momento da contratação do financiamento habitacional, os direitos aos saques de que trata o caput deste artigo poderão ser objeto de alienação ou cessão fiduciária para liquidação, amortização ou pagamento de parte das prestações decorrentes de financiamento habitacional concedido no âmbito do SFH, dispensados os prazos mencionados na alínea “b” do inciso V e o interstício mínimo de 2 (dois) anos do inciso VI, ambos deste artigo, observadas as condições estabelecidas pelo Conselho Curador, mediante caucionamento dos depósitos a serem realizados na conta vinculada do trabalhador, exceto os previstos nos § 1º e § 2º do art. 18 desta Lei. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 28 A vedação prevista no § 2º do art. 2º desta Lei não se aplica ao que dispõe o § 27. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2020.%20A%20conta%20vinculada%20do%20trabalhador%20no%20FGTS%20poder%C3%A1%20ser%20movimentada%20nas%20seguintes%20situa%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-A",
+      "next": "20-A"
+    },
+    "20-A": {
+      "numero": "20-A",
+      "texto": "Art. 20-A. O titular de contas vinculadas do FGTS estará sujeito a somente uma das seguintes sistemáticas de saque: (Incluído pela Lei nº 13.932, de 2019)\n\nI - saque-rescisão; ou (Incluído pela Lei nº 13.932, de 2019)\n\nII - saque-aniversário. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 1º Todas as contas do mesmo titular estarão sujeitas à mesma sistemática de saque. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 2º São aplicáveis às sistemáticas de saque de que trata o caput deste artigo as seguintes situações de movimentação de conta: (Incluído pela Lei nº 13.932, de 2019)\n\nI - para a sistemática de saque-rescisão, as previstas no art. 20 desta Lei, à exceção da estabelecida no inciso XX do caput do referido artigo; e (Incluído pela Lei nº 13.932, de 2019)\n\nII - para a sistemática de saque-aniversário, as previstas no art. 20 desta Lei, à exceção das estabelecidas nos incisos I, I-A, II, IX e X do caput do referido artigo. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2020-A.%20O%20titular%20de%20contas%20vinculadas%20do%20FGTS%20estar%C3%A1%20sujeito%20a%20somente%20uma%20das%20seguintes%20sistem%C3%A1ticas%20de%20saque%3A%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "20-B"
+    },
+    "20-B": {
+      "numero": "20-B",
+      "texto": "Art. 20-B. O titular de contas vinculadas do FGTS estará sujeito originalmente à sistemática de saque-rescisão e poderá optar por alterá-la, observado o disposto no art. 20-C desta Lei. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2020-B.%20O%20titular%20de%20contas%20vinculadas%20do%20FGTS%20estar%C3%A1%20sujeito%20originalmente%20%C3%A0%20sistem%C3%A1tica%20de%20saque-rescis%C3%A3o%20e%20poder%C3%A1%20optar%20por%20alter%C3%A1-la%2C%20observado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-A",
+      "next": "20-C"
+    },
+    "20-C": {
+      "numero": "20-C",
+      "texto": "Art. 20-C. A primeira opção pela sistemática de saque-aniversário poderá ser feita a qualquer tempo e terá efeitos imediatos. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 1º Caso o titular solicite novas alterações de sistemática será observado o seguinte: (Incluído pela Lei nº 13.932, de 2019)\n\nI - a alteração será efetivada no primeiro dia do vigésimo quinto mês subsequente ao da solicitação, desde que não haja cessão ou alienação de direitos futuros aos saques anuais de que trata o § 3º do art. 20-D desta Lei; (Incluído pela Lei nº 13.932, de 2019)\n\nII - a solicitação poderá ser cancelada pelo titular antes da sua efetivação; e (Incluído pela Lei nº 13.932, de 2019)\n\nIII - na hipótese de cancelamento, a nova solicitação estará sujeita ao disposto no inciso I do caput deste artigo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 2º Para fins do disposto no § 2º do art. 20-A desta Lei, as situações de movimentação obedecerão à sistemática a que o titular estiver sujeito no momento dos eventos que as ensejarem. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2020-C.%20A%20primeira%20op%C3%A7%C3%A3o%20pela%20sistem%C3%A1tica%20de%20saque-anivers%C3%A1rio%20poder%C3%A1%20ser%20feita%20a%20qualquer%20tempo%20e%20ter%C3%A1%20efeitos%20imediatos.%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-B",
+      "next": "20-D"
+    },
+    "20-D": {
+      "numero": "20-D",
+      "texto": "Art. 20-D. Na situação de movimentação de que trata o inciso XX do caput do art. 20 desta Lei, o valor do saque será determinado: (Incluído pela Lei nº 13.932, de 2019)\n\nI - pela aplicação da alíquota correspondente, estabelecida no Anexo desta Lei, à soma de todos os saldos das contas vinculadas do titular, apurados na data do débito; e (Incluído pela Lei nº 13.932, de 2019)\n\nII - pelo acréscimo da parcela adicional correspondente, estabelecida no Anexo desta Lei, ao valor apurado de acordo com o disposto no inciso I do caput deste artigo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 1º Na hipótese de o titular possuir mais de uma conta vinculada, o saque de que trata este artigo será feito na seguinte ordem: (Incluído pela Lei nº 13.932, de 2019)\n\nI - contas vinculadas relativas a contratos de trabalho extintos, com início pela conta que tiver o menor saldo; e (Incluído pela Lei nº 13.932, de 2019)\n\nII - demais contas vinculadas, com início pela conta que tiver o menor saldo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 2º O Poder Executivo federal, respeitada a alíquota mínima de 5% (cinco por cento), poderá alterar, até o dia 30 de junho de cada ano, os valores das faixas, das alíquotas e das parcelas adicionais constantes do Anexo desta Lei para vigência no primeiro dia do ano subsequente. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 3º A critério do titular da conta vinculada do FGTS, os direitos aos saques anuais de que trata o caput deste artigo poderão ser objeto de alienação ou cessão fiduciária, nos termos do art. 66-B da Lei nº 4.728, de 14 de julho de 1965, em favor de qualquer instituição financeira do Sistema Financeiro Nacional, sujeitas as taxas de juros praticadas nessas operações aos limites estipulados pelo Conselho Curador, os quais serão inferiores aos limites de taxas de juros estipulados para os empréstimos consignados dos servidores públicos federais do Poder Executivo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 3º-A. (Revogado pela Lei nº 14.620, de 2023)\n\n§ 4º O Conselho Curador poderá regulamentar o disposto no § 3º deste artigo, com vistas ao cumprimento das obrigações financeiras de seu titular, inclusive quanto ao: (Incluído pela Lei nº 13.932, de 2019)\n\nI - bloqueio de percentual do saldo total existente nas contas vinculadas; (Incluído pela Lei nº 13.932, de 2019)\n\nII - impedimento da efetivação da opção pela sistemática de saque-rescisão prevista no inciso I do § 1º do art. 20-C desta Lei; e (Incluído pela Lei nº 13.932, de 2019)\n\nIII - saque em favor do credor. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 5º As situações de movimentação de que trata o § 2º do art. 20-A desta Lei serão efetuadas com observância ao limite decorrente do bloqueio referido no § 4º deste artigo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 6º A vedação prevista no § 2º do art. 2º desta Lei não se aplica às disposições dos §§ 3º, 4º e 5º deste artigo. (Incluído pela Lei nº 13.932, de 2019)\n\n§ 7º Na hipótese de despedida sem justa causa, o trabalhador que optar pela sistemática saque-aniversário também fará jus à movimentação da multa rescisória de que tratam os §§ 1º e 2º do art. 18 desta Lei. (Incluído pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2020-D.%20Na%20situa%C3%A7%C3%A3o%20de%20movimenta%C3%A7%C3%A3o%20de%20que%20trata%20o%20inciso%20XX%20do%20caput%20do%20art.%2020%20desta%20Lei%2C%20o%20valor%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-C",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os saldos das contas não individualizadas e das contas vinculadas que se conservem ininterruptamente sem créditos de depósitos por mais de cinco anos, a partir de 1º de junho de 1990, em razão de o seu titular ter estado fora do regime do FGTS, serão incorporados ao patrimônio do fundo, resguardado o direito do beneficiário reclamar, a qualquer tempo, a reposição do valor transferido. (Redação dada pela Lei nº 8.678, de 1993)\n\nParágrafo único. O valor, quando reclamado, será pago ao trabalhador acrescido da remuneração prevista no § 2º do art. 13 desta lei. (Incluído pela Lei nº 8.678, de 1993)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2021.%20Os%20saldos%20das%20contas%20n%C3%A3o%20individualizadas%20e%20das%20contas%20vinculadas%20que%20se%20conservem%20ininterruptamente%20sem%20cr%C3%A9ditos%20de%20dep%C3%B3sitos%20por%20mais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-D",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O empregador que não realizar os depósitos nos termos dos arts. 15 e 18 desta Lei responderá pela incidência da Taxa Referencial (TR) sobre a importância correspondente. (Redação dada pela Lei nº 14.438, de 2022)\n\n§ 1o Sobre o valor dos depósitos, acrescido da TR, incidirão, ainda, juros de mora de 0,5% a.m. (cinco décimos por cento ao mês) ou fração e multa, sujeitando-se, também, às obrigações e sanções previstas no Decreto-Lei no 368, de 19 de dezembro de 1968. (Redação dada pela Lei nº 9.964, de 2000)\n\n§ 2o A incidência da TR de que trata o caput deste artigo será cobrada por dia de atraso, tomando-se por base o índice de atualização das contas vinculadas do FGTS. (Redação dada pela Lei nº 9.964, de 2000)\n\n§ 2o-A. A multa referida no § 1o deste artigo será cobrada nas condições que se seguem: (Incluído pela Lei nº 9.964, de 2000)\n\nI – 5% (cinco por cento) no mês de vencimento da obrigação; (Incluído pela Lei nº 9.964, de 2000)\n\nII – 10% (dez por cento) a partir do mês seguinte ao do vencimento da obrigação. (Incluído pela Lei nº 9.964, de 2000)\n\n§ 3o Para efeito de levantamento de débito para com o FGTS, o percentual de 8% (oito por cento) incidirá sobre o valor acrescido da TR até a data da respectiva operação. (Redação dada pela Lei nº 9.964, de 2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2022.%20O%20empregador%20que%20n%C3%A3o%20realizar%20os%20dep%C3%B3sitos%20nos%20termos%20dos%20arts.%2015%20e%2018%20desta%20Lei%20responder%C3%A1%20pela%20incid%C3%AAncia%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Compete ao Ministério do Trabalho e Previdência a verificação do cumprimento do disposto nesta Lei, especialmente quanto à apuração dos débitos e das infrações praticadas pelos empregadores ou tomadores de serviço, que serão notificados para efetuar e comprovar os depósitos correspondentes e cumprir as demais determinações legais. (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 1º Constituem infrações para efeito desta lei:\n\nI - não depositar mensalmente o percentual referente ao FGTS, bem como os valores previstos no art. 18 desta Lei, nos prazos de que trata o § 6o do art. 477 da Consolidação das Leis do Trabalho - CLT; (Redação dada pela Medida Provisória nº 2.197-43, de 2001)\n\nII - (revogado); (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\nIII - (revogado); (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\nIV - deixar de computar, para efeito de cálculo dos depósitos do FGTS, parcela componente da remuneração;\n\nV - deixar de efetuar os depósitos e os acréscimos legais do FGTS constituído em notificação de débito, no prazo concedido pelo ato de notificação da decisão definitiva exarada no processo administrativo; (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\nVI - deixar de apresentar, ou apresentar com erros ou omissões, as informações de que trata o art. 17-A desta Lei e as demais informações legalmente exigíveis; e (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\nVII - deixar de apresentar ou de promover a retificação das informações de que trata o art. 17-A desta Lei no prazo concedido na notificação da decisão definitiva exarada no processo administrativo que reconheceu a procedência da notificação de débito decorrente de omissão, de erro, de fraude ou de sonegação constatados. (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 1º-A. A formalização de parcelamento da integralidade do débito suspende a ação punitiva da infração prevista: (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\nI - no inciso I do § 1º deste artigo, quando realizada anteriormente ao início de qualquer processo administrativo ou medida de fiscalização; e (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\nII - no inciso V do § 1º deste artigo, quando realizada no prazo nele referido. (Incluído pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 1º-B. A suspensão da ação punitiva prevista no § 1º-A deste artigo será mantida durante a vigência do parcelamento, e a quitação integral dos valores parcelados extinguirá a infração. (Incluído pela Lei nº 14.438, de 2022)Produção de efeitos\n\n§ 2º Pela infração ao disposto no § 1º deste artigo, o infrator estará sujeito às seguintes multas: (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\na) (revogada); (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\nb) 30% (trinta por cento) sobre o débito atualizado apurado pela inspeção do trabalho, confessado pelo empregador ou lançado de ofício, nas hipóteses previstas nos incisos I, IV e V do § 1º deste artigo; e (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\neee9c) de R$ 100,00 (cem reais) a R$ 300,00 (trezentos reais) por trabalhador prejudicado, nas hipóteses previstas nos incisos VI e VII do § 1º deste artigo. (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 3º Nos casos de fraude, simulação, artifício, ardil, resistência, embaraço ou desacato à fiscalização, assim como na reincidência, a multa especificada no parágrafo anterior será duplicada, sem prejuízo das demais cominações legais.\n\n§ 3º-A. Estabelecidas a multa-base e a majoração na forma prevista nos §§ 2º e 3º deste artigo, o valor final será reduzido pela metade quando o infrator for empregador doméstico, microempresa ou empresa de pequeno porte. (Redação dada pela Lei nº 14.438, de 2022) Produção de efeitos\n\n§ 4º Os valores das multas, quando não recolhidas no prazo legal, serão atualizados monetariamente até a data de seu efetivo pagamento, através de sua conversão pelo BTN Fiscal.\n\n§ 5º O processo de fiscalização, de autuação e de imposição de multas reger-se-á pelo disposto no Título VII da CLT. (Redação dada pela Lei nº 13.932, de 2019)\n\n§ 6º Quando julgado procedente o recurso interposto na forma do Título VII da CLT, os depósitos efetuados para garantia de instância serão restituídos com os valores atualizados na forma de lei.\n\n§ 7º A rede arrecadadora e a Caixa Econômica Federal deverão prestar ao Ministério do Trabalho e da Previdência Social as informações necessárias à fiscalização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2023.%20Compete%20ao%20Minist%C3%A9rio%20do%20Trabalho%20e%20Previd%C3%AAncia%20a%20verifica%C3%A7%C3%A3o%20do%20cumprimento%20do%20disposto%20nesta%20Lei%2C%20especialmente%20quanto%20%C3%A0%20apura%C3%A7%C3%A3o%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23-A"
+    },
+    "23-A": {
+      "numero": "23-A",
+      "texto": "Art. 23-A. A notificação do empregador relativa aos débitos com o FGTS, o início de procedimento administrativo ou a medida de fiscalização interrompem o prazo prescricional. (Incluído dada pela Lei nº 13.932, de 2019)\n\n§ 1º O contencioso administrativo é causa de suspensão do prazo prescricional. (Incluído dada pela Lei nº 13.932, de 2019)\n\n§ 2º A data de publicação da liquidação do crédito será considerada como a data de sua constituição definitiva, a partir da qual será retomada a contagem do prazo prescricional. (Incluído dada pela Lei nº 13.932, de 2019)\n\n§ 3º Todos os documentos relativos às obrigações perante o FGTS, referentes a todo o contrato de trabalho de cada trabalhador, devem ser mantidos à disposição da fiscalização por até 5 (cinco) anos após o fim de cada contrato. (Incluído dada pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2023-A.%20A%20notifica%C3%A7%C3%A3o%20do%20empregador%20relativa%20aos%20d%C3%A9bitos%20com%20o%20FGTS%2C%20o%20in%C3%ADcio%20de%20procedimento%20administrativo%20ou%20a%20medida%20de%20fiscaliza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Por descumprimento ou inobservância de quaisquer das obrigações que lhe compete como agente arrecadador, pagador e mantenedor do cadastro de contas vinculadas, na forma que vier a ser regulamentada pelo Conselho Curador, fica o banco depositário sujeito ao pagamento de multa equivalente a 10 (dez) por cento do montante da conta do empregado, independentemente das demais cominações legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2024.%20Por%20descumprimento%20ou%20inobserv%C3%A2ncia%20de%20quaisquer%20das%20obriga%C3%A7%C3%B5es%20que%20lhe%20compete%20como%20agente%20arrecadador%2C%20pagador%20e%20mantenedor%20do%20cadastro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23-A",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Poderá o próprio trabalhador, seus dependentes e sucessores, ou ainda o Sindicato a que estiver vinculado, acionar diretamente a empresa por intermédio da Justiça do Trabalho, para compeli-la a efetuar o depósito das importâncias devidas nos termos desta lei.\n\nParágrafo único. A Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social deverão ser notificados da propositura da reclamação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2025.%20Poder%C3%A1%20o%20pr%C3%B3prio%20trabalhador%2C%20seus%20dependentes%20e%20sucessores%2C%20ou%20ainda%20o%20Sindicato%20a%20que%20estiver%20vinculado%2C%20acionar%20diretamente%20a%20empresa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. É competente a Justiça do Trabalho para julgar os dissídios entre os trabalhadores e os empregadores decorrentes da aplicação desta lei, mesmo quando a Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social figurarem como litisconsortes.\n\nParágrafo único. Nas reclamatórias trabalhistas que objetivam o ressarcimento de parcelas relativas ao FGTS, ou que, direta ou indiretamente, impliquem essa obrigação de fazer, o juiz determinará que a empresa sucumbente proceda ao recolhimento imediato das importâncias devidas a tal título.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2026.%20%C3%89%20competente%20a%20Justi%C3%A7a%20do%20Trabalho%20para%20julgar%20os%20diss%C3%ADdios%20entre%20os%20trabalhadores%20e%20os%20empregadores%20decorrentes%20da%20aplica%C3%A7%C3%A3o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Para fins de apuração e lançamento, considera-se não quitado o valor relativo ao FGTS pago diretamente ao trabalhador, vedada a sua conversão em indenização compensatória. (Incluído dada pela Lei nº 13.932, de 2019)\n\n§ 1º Os débitos reconhecidos e declarados por meio de sistema de escrituração digital serão recolhidos integralmente, acrescidos dos encargos devidos. (Incluído dada pela Lei nº 13.932, de 2019)\n\n§ 2º Para a geração das guias de depósito, os valores devidos a título de FGTS e o período laboral a que se referem serão expressamente identificados. (Incluído dada pela Lei nº 13.932, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2026-A.%20Para%20fins%20de%20apura%C3%A7%C3%A3o%20e%20lan%C3%A7amento%2C%20considera-se%20n%C3%A3o%20quitado%20o%20valor%20relativo%20ao%20FGTS%20pago%20diretamente%20ao%20trabalhador%2C%20vedada%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A apresentação do Certificado de Regularidade do FGTS, fornecido na forma do regulamento, é obrigatória nas seguintes situações: (Redação dada pela Lei nº 13.932, de 2019)\n\na) habilitação e licitação promovida por órgão da Administração Federal, Estadual e Municipal, direta, indireta ou fundacional ou por entidade controlada direta ou indiretamente pela União, Estado e Município;\n\nb) obtenção, por parte da União, dos Estados ou dos Municípios, ou por órgãos da Administração federal, estadual ou municipal, direta, indireta ou fundacional, ou indiretamente pela União, pelos Estados ou pelos Municípios, de empréstimos ou financiamentos realizados com lastro em recursos públicos ou oriundos do FGTS perante quaisquer instituições de crédito; (Redação dada pela Lei nº 13.805, de 2019) (Vide Medida Provisória nº 958, de 2020) (Vide Lei nº 13.999, de 2020) (Vide Medida Provisória nº 975, de 2020). (Vide Medida Provisória nº 1.028, de 2021). (Vide Lei nº 14.179, de 2021) (Vide Medida Provisória nº 1.259, de 2024)\n\nc) obtenção de favores creditícios, isenções, subsídios, auxílios, outorga ou concessão de serviços ou quaisquer outros benefícios concedidos por órgão da Administração Federal, Estadual e Municipal, salvo quando destinados a saldar débitos para com o FGTS; (Vide Medida Provisória nº 958, de 2020) (Vide Lei nº 13.999, de 2020) (Vide Medida Provisória nº 975, de 2020). (Vide Medida Provisória nº 1.028, de 2021). (Vide Lei nº 14.179, de 2021) (Vide Medida Provisória nº 1.176, de 2023) (Vide Medida Provisória nº 1.259, de 2024)\n\nd) transferência de domicílio para o exterior;\n\ne) registro ou arquivamento, nos órgãos competentes, de alteração ou distrato de contrato social, de estatuto, ou de qualquer documento que implique modificação na estrutura jurídica do empregador ou na sua extinção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2027.%20A%20apresenta%C3%A7%C3%A3o%20do%20Certificado%20de%20Regularidade%20do%20FGTS%2C%20fornecido%20na%20forma%20do%20regulamento%2C%20%C3%A9%20obrigat%C3%B3ria%20nas%20seguintes%20situa%C3%A7%C3%B5es%3A%20%28Reda%C3%A7%C3%A3o%20dada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. São isentos de tributos federais os atos e operações necessários à aplicação desta lei, quando praticados pela Caixa Econômica Federal, pelos trabalhadores e seus dependentes ou sucessores, pelos empregadores e pelos estabelecimentos bancários.\n\nParágrafo único. Aplica-se o disposto neste artigo às importâncias devidas, nos termos desta lei, aos trabalhadores e seus dependentes ou sucessores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2028.%20S%C3%A3o%20isentos%20de%20tributos%20federais%20os%20atos%20e%20opera%C3%A7%C3%B5es%20necess%C3%A1rios%20%C3%A0%20aplica%C3%A7%C3%A3o%20desta%20lei%2C%20quando%20praticados%20pela%20Caixa%20Econ%C3%B4mica%20Federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os depósitos em conta vinculada, efetuados nos termos desta lei, constituirão despesas dedutíveis do lucro operacional dos empregadores e as importâncias levantadas a seu favor implicarão receita tributável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2029.%20Os%20dep%C3%B3sitos%20em%20conta%20vinculada%2C%20efetuados%20nos%20termos%20desta%20lei%2C%20constituir%C3%A3o%20despesas%20dedut%C3%ADveis%20do%20lucro%20operacional%20dos%20empregadores%20e%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "29-A"
+    },
+    "29-A": {
+      "numero": "29-A",
+      "texto": "Art. 29-A. Quaisquer créditos relativos à correção dos saldos das contas vinculadas do FGTS serão liquidados mediante lançamento pelo agente operador na respectiva conta do trabalhador. (Incluído pela Medida Provisória nº 2.197-43, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2029-A.%20Quaisquer%20cr%C3%A9ditos%20relativos%20%C3%A0%20corre%C3%A7%C3%A3o%20dos%20saldos%20das%20contas%20vinculadas%20do%20FGTS%20ser%C3%A3o%20liquidados%20mediante%20lan%C3%A7amento%20pelo%20agente%20operador%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "29-B"
+    },
+    "29-B": {
+      "numero": "29-B",
+      "texto": "Art. 29-B. Não será cabível medida liminar em mandado de segurança, no procedimento cautelar ou em quaisquer outras ações de natureza cautelar ou preventiva, nem a tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil que impliquem saque ou movimentação da conta vinculada do trabalhador no FGTS. (Incluído pela Medida Provisória nº 2.197-43, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2029-B.%20N%C3%A3o%20ser%C3%A1%20cab%C3%ADvel%20medida%20liminar%20em%20mandado%20de%20seguran%C3%A7a%2C%20no%20procedimento%20cautelar%20ou%20em%20quaisquer%20outras%20a%C3%A7%C3%B5es%20de%20natureza%20cautelar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29-A",
+      "next": "29-C"
+    },
+    "29-C": {
+      "numero": "29-C",
+      "texto": "Art. 29-C. Nas ações entre o FGTS e os titulares de contas vinculadas, bem como naquelas em que figurem os respectivos representantes ou substitutos processuais, não haverá condenação em honorários advocatícios. (Incluído pela Medida Provisória nº 2.164-41, de 2001) (Vide ADI nº 2.736)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2029-C.%20Nas%20a%C3%A7%C3%B5es%20entre%20o%20FGTS%20e%20os%20titulares%20de%20contas%20vinculadas%2C%20bem%20como%20naquelas%20em%20que%20figurem%20os%20respectivos%20representantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29-B",
+      "next": "29-D"
+    },
+    "29-D": {
+      "numero": "29-D",
+      "texto": "Art. 29-D. A penhora em dinheiro, na execução fundada em título judicial em que se determine crédito complementar de saldo de conta vinculada do FGTS, será feita mediante depósito de recursos do Fundo em conta vinculada em nome do exeqüente, à disposição do juízo. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\nParágrafo único. O valor do depósito só poderá ser movimentado, após liberação judicial, nas hipóteses previstas no art. 20 ou para reversão ao Fundo. (Incluído pela Medida Provisória nº 2.164-41, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2029-D.%20A%20penhora%20em%20dinheiro%2C%20na%20execu%C3%A7%C3%A3o%20fundada%20em%20t%C3%ADtulo%20judicial%20em%20que%20se%20determine%20cr%C3%A9dito%20complementar%20de%20saldo%20de%20conta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29-C",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Fica reduzida para 1 1/2 (um e meio) por cento a contribuição devida pelas empresas ao Serviço Social do Comércio e ao Serviço Social da Indústria e dispensadas estas entidades da subscrição compulsória a que alude o art. 21 da Lei nº 4.380, de 21 de agosto de 1964.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2030.%20Fica%20reduzida%20para%201%201%2F2%20%28um%20e%20meio%29%20por%20cento%20a%20contribui%C3%A7%C3%A3o%20devida%20pelas%20empresas%20ao%20Servi%C3%A7o%20Social%20do%20Com%C3%A9rcio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29-D",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O Poder Executivo expedirá o Regulamento desta lei no prazo de 60 (sessenta) dias a contar da data de sua promulgação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2031.%20O%20Poder%20Executivo%20expedir%C3%A1%20o%20Regulamento%20desta%20lei%20no%20prazo%20de%2060%20%28sessenta%29%20dias%20a%20contar%20da%20data%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Esta lei entra em vigor na data de sua publicação, revogada a Lei nº 7.839, de 12 de outubro de 1989, e as demais disposições em contrário.\n\nBrasília, 11 de maio de 1990; 169º da Independência e 102º da República.\n\nFERNANDO COLLOR\n\nZélia M. Cardoso de Mello\n\nAntonio Magri\n\nMargarida Procópio\n\nEste texto não substitui o publicado no DOU de 14.5.1990 retificado em 15.5.1990\n\nANEXO (Incluído pela Lei nº 13.932, de 2019)\n\nLIMITE DAS FAIXAS DE SALDO (Em R$)\n\nALÍQUOTA\n\nPARCELA ADICONAL (EM R$)\n\nde 00,01\n\naté 500,00\n\n50%\n\n-\n\nde 500,01\n\naté 1.000,00\n\n40%\n\n50,00\n\nde 1.000,01\n\naté 5.000,00\n\n30%\n\n150,00\n\nde 5.000,01\n\naté 10.000,00\n\n20%\n\n650,00\n\nde 10.000,01\n\naté 15.000,00\n\n15%\n\n1.150,00\n\nde 15.000,01\n\naté 20.000,00\n\n10%\n\n1.900,00\n\nAcima de 20.000,00\n\n-\n\n5%\n\n2.900,00\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%2032.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogada%20a%20Lei%20n%C2%BA%207.839%2C%20de%2012%20de%20outubro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": null
+    }
+  }
+}

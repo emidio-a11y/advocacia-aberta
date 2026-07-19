@@ -1,0 +1,783 @@
+{
+  "_meta": {
+    "codigo": "LC150",
+    "nome": "Empregado Doméstico",
+    "lei": "Lei Complementar 150/2015",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm",
+    "total_artigos": 48,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Ao empregado doméstico, assim considerado aquele que presta serviços de forma contínua, subordinada, onerosa e pessoal e de finalidade não lucrativa à pessoa ou à família, no âmbito residencial destas, por mais de 2 (dois) dias por semana, aplica-se o disposto nesta Lei.\n\nParágrafo único. É vedada a contratação de menor de 18 (dezoito) anos para desempenho de trabalho doméstico, de acordo com a Convenção no 182, de 1999, da Organização Internacional do Trabalho (OIT) e com o Decreto no 6.481, de 12 de junho de 2008",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%201o%20Ao%20empregado%20dom%C3%A9stico%2C%20assim%20considerado%20aquele%20que%20presta%20servi%C3%A7os%20de%20forma%20cont%C3%ADnua%2C%20subordinada%2C%20onerosa%20e%20pessoal%20e%20de%20finalidade%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o A duração normal do trabalho doméstico não excederá 8 (oito) horas diárias e 44 (quarenta e quatro) semanais, observado o disposto nesta Lei.\n\n§ 1o A remuneração da hora extraordinária será, no mínimo, 50% (cinquenta por cento) superior ao valor da hora normal.\n\n§ 2o O salário-hora normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 220 (duzentas e vinte) horas, salvo se o contrato estipular jornada mensal inferior que resulte em divisor diverso.\n\n§ 3o O salário-dia normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 30 (trinta) e servirá de base para pagamento do repouso remunerado e dos feriados trabalhados.\n\n§ 4o Poderá ser dispensado o acréscimo de salário e instituído regime de compensação de horas, mediante acordo escrito entre empregador e empregado, se o excesso de horas de um dia for compensado em outro dia.\n\n§ 5o No regime de compensação previsto no § 4o:\n\nI - será devido o pagamento, como horas extraordinárias, na forma do § 1o, das primeiras 40 (quarenta) horas mensais excedentes ao horário normal de trabalho;\n\nII - das 40 (quarenta) horas referidas no inciso I, poderão ser deduzidas, sem o correspondente pagamento, as horas não trabalhadas, em função de redução do horário normal de trabalho ou de dia útil não trabalhado, durante o mês;\n\nIII - o saldo de horas que excederem as 40 (quarenta) primeiras horas mensais de que trata o inciso I, com a dedução prevista no inciso II, quando for o caso, será compensado no período máximo de 1 (um) ano.\n\n§ 6o Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma do § 5o, o empregado fará jus ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data de rescisão.\n\n§ 7o Os intervalos previstos nesta Lei, o tempo de repouso, as horas não trabalhadas, os feriados e os domingos livres em que o empregado que mora no local de trabalho nele permaneça não serão computados como horário de trabalho.\n\n§ 8o O trabalho não compensado prestado em domingos e feriados deve ser pago em dobro, sem prejuízo da remuneração relativa ao repouso semanal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%202o%20A%20dura%C3%A7%C3%A3o%20normal%20do%20trabalho%20dom%C3%A9stico%20n%C3%A3o%20exceder%C3%A1%208%20%28oito%29%20horas%20di%C3%A1rias%20e%2044%20%28quarenta%20e%20quatro%29%20semanais%2C%20observado%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda 25 (vinte e cinco) horas semanais.\n\n§ 1o O salário a ser pago ao empregado sob regime de tempo parcial será proporcional a sua jornada, em relação ao empregado que cumpre, nas mesmas funções, tempo integral.\n\n§ 2o A duração normal do trabalho do empregado em regime de tempo parcial poderá ser acrescida de horas suplementares, em número não excedente a 1 (uma) hora diária, mediante acordo escrito entre empregador e empregado, aplicando-se-lhe, ainda, o disposto nos §§ 2o e 3o do art. 2o, com o limite máximo de 6 (seis) horas diárias.\n\n§ 3o Na modalidade do regime de tempo parcial, após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção:\n\nI - 18 (dezoito) dias, para a duração do trabalho semanal superior a 22 (vinte e duas) horas, até 25 (vinte e cinco) horas;\n\nII - 16 (dezesseis) dias, para a duração do trabalho semanal superior a 20 (vinte) horas, até 22 (vinte e duas) horas;\n\nIII - 14 (quatorze) dias, para a duração do trabalho semanal superior a 15 (quinze) horas, até 20 (vinte) horas;\n\nIV - 12 (doze) dias, para a duração do trabalho semanal superior a 10 (dez) horas, até 15 (quinze) horas;\n\nV - 10 (dez) dias, para a duração do trabalho semanal superior a 5 (cinco) horas, até 10 (dez) horas;\n\nVI - 8 (oito) dias, para a duração do trabalho semanal igual ou inferior a 5 (cinco) horas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%203o%20Considera-se%20trabalho%20em%20regime%20de%20tempo%20parcial%20aquele%20cuja%20dura%C3%A7%C3%A3o%20n%C3%A3o%20exceda%2025%20%28vinte%20e%20cinco%29%20horas%20semanais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o É facultada a contratação, por prazo determinado, do empregado doméstico:\n\nI - mediante contrato de experiência;\n\nII - para atender necessidades familiares de natureza transitória e para substituição temporária de empregado doméstico com contrato de trabalho interrompido ou suspenso.\n\nParágrafo único. No caso do inciso II deste artigo, a duração do contrato de trabalho é limitada ao término do evento que motivou a contratação, obedecido o limite máximo de 2 (dois) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%204o%20%C3%89%20facultada%20a%20contrata%C3%A7%C3%A3o%2C%20por%20prazo%20determinado%2C%20do%20empregado%20dom%C3%A9stico%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O contrato de experiência não poderá exceder 90 (noventa) dias.\n\n§ 1o O contrato de experiência poderá ser prorrogado 1 (uma) vez, desde que a soma dos 2 (dois) períodos não ultrapasse 90 (noventa) dias.\n\n§ 2o O contrato de experiência que, havendo continuidade do serviço, não for prorrogado após o decurso de seu prazo previamente estabelecido ou que ultrapassar o período de 90 (noventa) dias passará a vigorar como contrato de trabalho por prazo indeterminado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%205o%20O%20contrato%20de%20experi%C3%AAncia%20n%C3%A3o%20poder%C3%A1%20exceder%2090%20%28noventa%29%20dias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Durante a vigência dos contratos previstos nos incisos I e II do art. 4o, o empregador que, sem justa causa, despedir o empregado é obrigado a pagar-lhe, a título de indenização, metade da remuneração a que teria direito até o termo do contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%206o%20Durante%20a%20vig%C3%AAncia%20dos%20contratos%20previstos%20nos%20incisos%20I%20e%20II%20do%20art.%204o%2C%20o%20empregador%20que%2C%20sem%20justa%20causa%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Durante a vigência dos contratos previstos nos incisos I e II do art. 4o, o empregado não poderá se desligar do contrato sem justa causa, sob pena de ser obrigado a indenizar o empregador dos prejuízos que desse fato lhe resultarem.\n\nParágrafo único. A indenização não poderá exceder aquela a que teria direito o empregado em idênticas condições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%207o%20Durante%20a%20vig%C3%AAncia%20dos%20contratos%20previstos%20nos%20incisos%20I%20e%20II%20do%20art.%204o%2C%20o%20empregado%20n%C3%A3o%20poder%C3%A1%20se%20desligar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Durante a vigência dos contratos previstos nos incisos I e II do art. 4o, não será exigido aviso prévio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%208o%20Durante%20a%20vig%C3%AAncia%20dos%20contratos%20previstos%20nos%20incisos%20I%20e%20II%20do%20art.%204o%2C%20n%C3%A3o%20ser%C3%A1%20exigido%20aviso%20pr%C3%A9vio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o A Carteira de Trabalho e Previdência Social será obrigatoriamente apresentada, contra recibo, pelo empregado ao empregador que o admitir, o qual terá o prazo de 48 (quarenta e oito) horas para nela anotar, especificamente, a data de admissão, a remuneração e, quando for o caso, os contratos previstos nos incisos I e II do art. 4o.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%209o%20A%20Carteira%20de%20Trabalho%20e%20Previd%C3%AAncia%20Social%20ser%C3%A1%20obrigatoriamente%20apresentada%2C%20contra%20recibo%2C%20pelo%20empregado%20ao%20empregador%20que%20o%20admitir%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É facultado às partes, mediante acordo escrito entre essas, estabelecer horário de trabalho de 12 (doze) horas seguidas por 36 (trinta e seis) horas ininterruptas de descanso, observados ou indenizados os intervalos para repouso e alimentação.\n\n§ 1o A remuneração mensal pactuada pelo horário previsto no caput deste artigo abrange os pagamentos devidos pelo descanso semanal remunerado e pelo descanso em feriados, e serão considerados compensados os feriados e as prorrogações de trabalho noturno, quando houver, de que tratam o art. 70 e o § 5º do art. 73 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1o de maio de 1943, e o art. 9o da Lei no 605, de 5 de janeiro de 1949.\n\n§ 2o (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2010.%20%C3%89%20facultado%20%C3%A0s%20partes%2C%20mediante%20acordo%20escrito%20entre%20essas%2C%20estabelecer%20hor%C3%A1rio%20de%20trabalho%20de%2012%20%28doze%29%20horas%20seguidas%20por%2036",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Em relação ao empregado responsável por acompanhar o empregador prestando serviços em viagem, serão consideradas apenas as horas efetivamente trabalhadas no período, podendo ser compensadas as horas extraordinárias em outro dia, observado o art. 2o.\n\n§ 1o O acompanhamento do empregador pelo empregado em viagem será condicionado à prévia existência de acordo escrito entre as partes.\n\n§ 2o A remuneração-hora do serviço em viagem será, no mínimo, 25% (vinte e cinco por cento) superior ao valor do salário-hora normal.\n\n§ 3o O disposto no § 2o deste artigo poderá ser, mediante acordo, convertido em acréscimo no banco de horas, a ser utilizado a critério do empregado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2011.%20Em%20rela%C3%A7%C3%A3o%20ao%20empregado%20respons%C3%A1vel%20por%20acompanhar%20o%20empregador%20prestando%20servi%C3%A7os%20em%20viagem%2C%20ser%C3%A3o%20consideradas%20apenas%20as%20horas%20efetivamente%20trabalhadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. É obrigatório o registro do horário de trabalho do empregado doméstico por qualquer meio manual, mecânico ou eletrônico, desde que idôneo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2012.%20%C3%89%20obrigat%C3%B3rio%20o%20registro%20do%20hor%C3%A1rio%20de%20trabalho%20do%20empregado%20dom%C3%A9stico%20por%20qualquer%20meio%20manual%2C%20mec%C3%A2nico%20ou%20eletr%C3%B4nico%2C%20desde%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. É obrigatória a concessão de intervalo para repouso ou alimentação pelo período de, no mínimo, 1 (uma) hora e, no máximo, 2 (duas) horas, admitindo-se, mediante prévio acordo escrito entre empregador e empregado, sua redução a 30 (trinta) minutos.\n\n§ 1o Caso o empregado resida no local de trabalho, o período de intervalo poderá ser desmembrado em 2 (dois) períodos, desde que cada um deles tenha, no mínimo, 1 (uma) hora, até o limite de 4 (quatro) horas ao dia.\n\n§ 2o Em caso de modificação do intervalo, na forma do § 1o, é obrigatória a sua anotação no registro diário de horário, vedada sua prenotação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2013.%20%C3%89%20obrigat%C3%B3ria%20a%20concess%C3%A3o%20de%20intervalo%20para%20repouso%20ou%20alimenta%C3%A7%C3%A3o%20pelo%20per%C3%ADodo%20de%2C%20no%20m%C3%ADnimo%2C%201%20%28uma%29%20hora%20e%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Considera-se noturno, para os efeitos desta Lei, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte.\n\n§ 1o A hora de trabalho noturno terá duração de 52 (cinquenta e dois) minutos e 30 (trinta) segundos.\n\n§ 2o A remuneração do trabalho noturno deve ter acréscimo de, no mínimo, 20% (vinte por cento) sobre o valor da hora diurna.\n\n§ 3o Em caso de contratação, pelo empregador, de empregado exclusivamente para desempenhar trabalho noturno, o acréscimo será calculado sobre o salário anotado na Carteira de Trabalho e Previdência Social.\n\n§ 4o Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2014.%20Considera-se%20noturno%2C%20para%20os%20efeitos%20desta%20Lei%2C%20o%20trabalho%20executado%20entre%20as%2022%20horas%20de%20um%20dia%20e%20as%205",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Entre 2 (duas) jornadas de trabalho deve haver período mínimo de 11 (onze) horas consecutivas para descanso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2015.%20Entre%202%20%28duas%29%20jornadas%20de%20trabalho%20deve%20haver%20per%C3%ADodo%20m%C3%ADnimo%20de%2011%20%28onze%29%20horas%20consecutivas%20para%20descanso.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. É devido ao empregado doméstico descanso semanal remunerado de, no mínimo, 24 (vinte e quatro) horas consecutivas, preferencialmente aos domingos, além de descanso remunerado em feriados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2016.%20%C3%89%20devido%20ao%20empregado%20dom%C3%A9stico%20descanso%20semanal%20remunerado%20de%2C%20no%20m%C3%ADnimo%2C%2024%20%28vinte%20e%20quatro%29%20horas%20consecutivas%2C%20preferencialmente%20aos%20domingos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O empregado doméstico terá direito a férias anuais remuneradas de 30 (trinta) dias, salvo o disposto no § 3o do art. 3o, com acréscimo de, pelo menos, um terço do salário normal, após cada período de 12 (doze) meses de trabalho prestado à mesma pessoa ou família.\n\n§ 1o Na cessação do contrato de trabalho, o empregado, desde que não tenha sido demitido por justa causa, terá direito à remuneração relativa ao período incompleto de férias, na proporção de um doze avos por mês de serviço ou fração superior a 14 (quatorze) dias.\n\n§ 2o O período de férias poderá, a critério do empregador, ser fracionado em até 2 (dois) períodos, sendo 1 (um) deles de, no mínimo, 14 (quatorze) dias corridos.\n\n§ 3o É facultado ao empregado doméstico converter um terço do período de férias a que tiver direito em abono pecuniário, no valor da remuneração que lhe seria devida nos dias correspondentes.\n\n§ 4o O abono de férias deverá ser requerido até 30 (trinta) dias antes do término do período aquisitivo.\n\n§ 5o É lícito ao empregado que reside no local de trabalho nele permanecer durante as férias.\n\n§ 6o As férias serão concedidas pelo empregador nos 12 (doze) meses subsequentes à data em que o empregado tiver adquirido o direito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2017.%20O%20empregado%20dom%C3%A9stico%20ter%C3%A1%20direito%20a%20f%C3%A9rias%20anuais%20remuneradas%20de%2030%20%28trinta%29%20dias%2C%20salvo%20o%20disposto%20no%20%C2%A7%203o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. É vedado ao empregador doméstico efetuar descontos no salário do empregado por fornecimento de alimentação, vestuário, higiene ou moradia, bem como por despesas com transporte, hospedagem e alimentação em caso de acompanhamento em viagem.\n\n§ 1o É facultado ao empregador efetuar descontos no salário do empregado em caso de adiantamento salarial e, mediante acordo escrito entre as partes, para a inclusão do empregado em planos de assistência médico-hospitalar e odontológica, de seguro e de previdência privada, não podendo a dedução ultrapassar 20% (vinte por cento) do salário.\n\n§ 2o Poderão ser descontadas as despesas com moradia de que trata o caput deste artigo quando essa se referir a local diverso da residência em que ocorrer a prestação de serviço, desde que essa possibilidade tenha sido expressamente acordada entre as partes.\n\n§ 3o As despesas referidas no caput deste artigo não têm natureza salarial nem se incorporam à remuneração para quaisquer efeitos.\n\n§ 4o O fornecimento de moradia ao empregado doméstico na própria residência ou em morada anexa, de qualquer natureza, não gera ao empregado qualquer direito de posse ou de propriedade sobre a referida moradia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2018.%20%C3%89%20vedado%20ao%20empregador%20dom%C3%A9stico%20efetuar%20descontos%20no%20sal%C3%A1rio%20do%20empregado%20por%20fornecimento%20de%20alimenta%C3%A7%C3%A3o%2C%20vestu%C3%A1rio%2C%20higiene%20ou%20moradia%2C%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Observadas as peculiaridades do trabalho doméstico, a ele também se aplicam as Leis nº 605, de 5 de janeiro de 1949, no 4.090, de 13 de julho de 1962, no 4.749, de 12 de agosto de 1965, e no 7.418, de 16 de dezembro de 1985, e, subsidiariamente, a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.\n\nParágrafo único. A obrigação prevista no art. 4º da Lei nº 7.418, de 16 de dezembro de 1985, poderá ser substituída, a critério do empregador, pela concessão, mediante recibo, dos valores para a aquisição das passagens necessárias ao custeio das despesas decorrentes do deslocamento residência-trabalho e vice-versa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2019.%20Observadas%20as%20peculiaridades%20do%20trabalho%20dom%C3%A9stico%2C%20a%20ele%20tamb%C3%A9m%20se%20aplicam%20as%20Leis%20n%C2%BA%20605%2C%20de%205%20de%20janeiro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O empregado doméstico é segurado obrigatório da Previdência Social, sendo-lhe devidas, na forma da Lei no 8.213, de 24 de julho de 1991, as prestações nela arroladas, atendido o disposto nesta Lei e observadas as características especiais do trabalho doméstico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2020.%20O%20empregado%20dom%C3%A9stico%20%C3%A9%20segurado%20obrigat%C3%B3rio%20da%20Previd%C3%AAncia%20Social%2C%20sendo-lhe%20devidas%2C%20na%20forma%20da%20Lei%20no%208.213%2C%20de%2024%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. É devida a inclusão do empregado doméstico no Fundo de Garantia do Tempo de Serviço (FGTS), na forma do regulamento a ser editado pelo Conselho Curador e pelo agente operador do FGTS, no âmbito de suas competências, conforme disposto nos arts. 5o e 7o da Lei no 8.036, de 11 de maio de 1990, inclusive no que tange aos aspectos técnicos de depósitos, saques, devolução de valores e emissão de extratos, entre outros determinados na forma da lei.\n\nParágrafo único. O empregador doméstico somente passará a ter obrigação de promover a inscrição e de efetuar os recolhimentos referentes a seu empregado após a entrada em vigor do regulamento referido no caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2021.%20%C3%89%20devida%20a%20inclus%C3%A3o%20do%20empregado%20dom%C3%A9stico%20no%20Fundo%20de%20Garantia%20do%20Tempo%20de%20Servi%C3%A7o%20%28FGTS%29%2C%20na%20forma%20do%20regulamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O empregador doméstico depositará a importância de 3,2% (três inteiros e dois décimos por cento) sobre a remuneração devida, no mês anterior, a cada empregado, destinada ao pagamento da indenização compensatória da perda do emprego, sem justa causa ou por culpa do empregador, não se aplicando ao empregado doméstico o disposto nos §§ 1o a 3o do art. 18 da Lei no 8.036, de 11 de maio de 1990.\n\n§ 1o Nas hipóteses de dispensa por justa causa ou a pedido, de término do contrato de trabalho por prazo determinado, de aposentadoria e de falecimento do empregado doméstico, os valores previstos no caput serão movimentados pelo empregador.\n\n§ 2o Na hipótese de culpa recíproca, metade dos valores previstos no caput será movimentada pelo empregado, enquanto a outra metade será movimentada pelo empregador.\n\n§ 3o Os valores previstos no caput serão depositados na conta vinculada do empregado, em variação distinta daquela em que se encontrarem os valores oriundos dos depósitos de que trata o inciso IV do art. 34 desta Lei, e somente poderão ser movimentados por ocasião da rescisão contratual.\n\n§ 4o À importância monetária de que trata o caput, aplicam-se as disposições da Lei no 8.036, de 11 de maio de 1990, e da Lei no 8.844, de 20 de janeiro de 1994, inclusive quanto a sujeição passiva e equiparações, prazo de recolhimento, administração, fiscalização, lançamento, consulta, cobrança, garantias, processo administrativo de determinação e exigência de créditos tributários federais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2022.%20O%20empregador%20dom%C3%A9stico%20depositar%C3%A1%20a%20import%C3%A2ncia%20de%203%2C2%25%20%28tr%C3%AAs%20inteiros%20e%20dois%20d%C3%A9cimos%20por%20cento%29%20sobre%20a%20remunera%C3%A7%C3%A3o%20devida%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Não havendo prazo estipulado no contrato, a parte que, sem justo motivo, quiser rescindi-lo deverá avisar a outra de sua intenção.\n\n§ 1o O aviso prévio será concedido na proporção de 30 (trinta) dias ao empregado que conte com até 1 (um) ano de serviço para o mesmo empregador.\n\n§ 2o Ao aviso prévio previsto neste artigo, devido ao empregado, serão acrescidos 3 (três) dias por ano de serviço prestado para o mesmo empregador, até o máximo de 60 (sessenta) dias, perfazendo um total de até 90 (noventa) dias.\n\n§ 3o A falta de aviso prévio por parte do empregador dá ao empregado o direito aos salários correspondentes ao prazo do aviso, garantida sempre a integração desse período ao seu tempo de serviço.\n\n§ 4o A falta de aviso prévio por parte do empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.\n\n§ 5o O valor das horas extraordinárias habituais integra o aviso prévio indenizado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2023.%20N%C3%A3o%20havendo%20prazo%20estipulado%20no%20contrato%2C%20a%20parte%20que%2C%20sem%20justo%20motivo%2C%20quiser%20rescindi-lo%20dever%C3%A1%20avisar%20a%20outra%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O horário normal de trabalho do empregado durante o aviso prévio, quando a rescisão tiver sido promovida pelo empregador, será reduzido de 2 (duas) horas diárias, sem prejuízo do salário integral.\n\nParágrafo único. É facultado ao empregado trabalhar sem a redução das 2 (duas) horas diárias previstas no caput deste artigo, caso em que poderá faltar ao serviço, sem prejuízo do salário integral, por 7 (sete) dias corridos, na hipótese dos §§ 1o e 2o do art. 23.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2024.%20O%20hor%C3%A1rio%20normal%20de%20trabalho%20do%20empregado%20durante%20o%20aviso%20pr%C3%A9vio%2C%20quando%20a%20rescis%C3%A3o%20tiver%20sido%20promovida%20pelo%20empregador%2C%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A empregada doméstica gestante tem direito a licença-maternidade de 120 (cento e vinte) dias, sem prejuízo do emprego e do salário, nos termos da Seção V do Capítulo III do Título III da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943.\n\nParágrafo único. A confirmação do estado de gravidez durante o curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea “b” do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2025.%20A%20empregada%20dom%C3%A9stica%20gestante%20tem%20direito%20a%20licen%C3%A7a-maternidade%20de%20120%20%28cento%20e%20vinte%29%20dias%2C%20sem%20preju%C3%ADzo%20do%20emprego%20e%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O empregado doméstico que for dispensado sem justa causa fará jus ao benefício do seguro-desemprego, na forma da Lei no 7.998, de 11 de janeiro de 1990, no valor de 1 (um) salário-mínimo, por período máximo de 3 (três) meses, de forma contínua ou alternada.\n\n§ 1o O benefício de que trata o caput será concedido ao empregado nos termos do regulamento do Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat).\n\n§ 2o O benefício do seguro-desemprego será cancelado, sem prejuízo das demais sanções cíveis e penais cabíveis:\n\nI - pela recusa, por parte do trabalhador desempregado, de outro emprego condizente com sua qualificação registrada ou declarada e com sua remuneração anterior;\n\nII - por comprovação de falsidade na prestação das informações necessárias à habilitação;\n\nIII - por comprovação de fraude visando à percepção indevida do benefício do seguro-desemprego; ou\n\nIV - por morte do segurado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2026.%20O%20empregado%20dom%C3%A9stico%20que%20for%20dispensado%20sem%20justa%20causa%20far%C3%A1%20jus%20ao%20benef%C3%ADcio%20do%20seguro-desemprego%2C%20na%20forma%20da%20Lei%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Considera-se justa causa para os efeitos desta Lei:\n\nI - submissão a maus tratos de idoso, de enfermo, de pessoa com deficiência ou de criança sob cuidado direto ou indireto do empregado;\n\nII - prática de ato de improbidade;\n\nIII - incontinência de conduta ou mau procedimento;\n\nIV - condenação criminal do empregado transitada em julgado, caso não tenha havido suspensão da execução da pena;\n\nV - desídia no desempenho das respectivas funções;\n\nVI - embriaguez habitual ou em serviço;\n\nVII - (VETADO);\n\nVIII - ato de indisciplina ou de insubordinação;\n\nIX - abandono de emprego, assim considerada a ausência injustificada ao serviço por, pelo menos, 30 (trinta) dias corridos;\n\nX - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas em serviço contra qualquer pessoa, salvo em caso de legítima defesa, própria ou de outrem;\n\nXI - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas contra o empregador doméstico ou sua família, salvo em caso de legítima defesa, própria ou de outrem;\n\nXII - prática constante de jogos de azar.\n\nParágrafo único. O contrato de trabalho poderá ser rescindido por culpa do empregador quando:\n\nI - o empregador exigir serviços superiores às forças do empregado doméstico, defesos por lei, contrários aos bons costumes ou alheios ao contrato;\n\nII - o empregado doméstico for tratado pelo empregador ou por sua família com rigor excessivo ou de forma degradante;\n\nIII - o empregado doméstico correr perigo manifesto de mal considerável;\n\nIV - o empregador não cumprir as obrigações do contrato;\n\nV - o empregador ou sua família praticar, contra o empregado doméstico ou pessoas de sua família, ato lesivo à honra e à boa fama;\n\nVI - o empregador ou sua família ofender o empregado doméstico ou sua família fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\nVII - o empregador praticar qualquer das formas de violência doméstica ou familiar contra mulheres de que trata o art. 5o da Lei no 11.340, de 7 de agosto de 2006.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2027.%20Considera-se%20justa%20causa%20para%20os%20efeitos%20desta%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Para se habilitar ao benefício do seguro-desemprego, o trabalhador doméstico deverá apresentar ao órgão competente do Ministério do Trabalho e Emprego:\n\nI - Carteira de Trabalho e Previdência Social, na qual deverão constar a anotação do contrato de trabalho doméstico e a data de dispensa, de modo a comprovar o vínculo empregatício, como empregado doméstico, durante pelo menos 15 (quinze) meses nos últimos 24 (vinte e quatro) meses;\n\nII - termo de rescisão do contrato de trabalho;\n\nIII - declaração de que não está em gozo de benefício de prestação continuada da Previdência Social, exceto auxílio-acidente e pensão por morte; e\n\nIV - declaração de que não possui renda própria de qualquer natureza suficiente à sua manutenção e de sua família.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2028.%20Para%20se%20habilitar%20ao%20benef%C3%ADcio%20do%20seguro-desemprego%2C%20o%20trabalhador%20dom%C3%A9stico%20dever%C3%A1%20apresentar%20ao%20%C3%B3rg%C3%A3o%20competente%20do%20Minist%C3%A9rio%20do%20Trabalho%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O seguro-desemprego deverá ser requerido de 7 (sete) a 90 (noventa) dias contados da data de dispensa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2029.%20O%20seguro-desemprego%20dever%C3%A1%20ser%20requerido%20de%207%20%28sete%29%20a%2090%20%28noventa%29%20dias%20contados%20da%20data%20de%20dispensa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Novo seguro-desemprego só poderá ser requerido após o cumprimento de novo período aquisitivo, cuja duração será definida pelo Codefat.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2030.%20Novo%20seguro-desemprego%20s%C3%B3%20poder%C3%A1%20ser%20requerido%20ap%C3%B3s%20o%20cumprimento%20de%20novo%20per%C3%ADodo%20aquisitivo%2C%20cuja%20dura%C3%A7%C3%A3o%20ser%C3%A1%20definida%20pelo%20Codefat.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "30-A"
+    },
+    "30-A": {
+      "numero": "30-A",
+      "texto": "Art. 30-A. Nos casos em que for constatada a redução a condição análoga à de escravo do empregado doméstico, a autoridade policial ou judicial ou os órgãos de fiscalização das normas que regem as relações de trabalho, no âmbito das respectivas competências, deverão determinar: (Incluído pela Lei nº 15.455, de 2026)\n\nI - a inclusão da vítima no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), de que trata o art. 6º-F da Lei nº 8.742, de 7 de dezembro de 1993, bem como nos cadastros de programas sociais em âmbitos estadual, municipal ou distrital; (Incluído pela Lei nº 15.455, de 2026)\n\nII - (VETADO); e (Incluído pela Lei nº 15.455, de 2026)\n\nIII - o acolhimento institucional imediato e o abrigamento emergencial da vítima, quando necessário. (Incluído pela Lei nº 15.455, de 2026)\n\nParágrafo único. No caso de a vítima ser mulher, a autoridade policial ou judicial aplicará, no que couber, o disposto na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), inclusive para adoção de medidas protetivas de urgência. (Incluído pela Lei nº 15.455, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2030-A.%20Nos%20casos%20em%20que%20for%20constatada%20a%20redu%C3%A7%C3%A3o%20a%20condi%C3%A7%C3%A3o%20an%C3%A1loga%20%C3%A0%20de%20escravo%20do%20empregado%20dom%C3%A9stico%2C%20a%20autoridade%20policial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A (Incluído pela Lei nº 15.455, de 2026)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. É instituído o regime unificado de pagamento de tributos, de contribuições e dos demais encargos do empregador doméstico (Simples Doméstico), que deverá ser regulamentado no prazo de 120 (cento e vinte) dias a contar da data de entrada em vigor desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2031.%20%C3%89%20institu%C3%ADdo%20o%20regime%20unificado%20de%20pagamento%20de%20tributos%2C%20de%20contribui%C3%A7%C3%B5es%20e%20dos%20demais%20encargos%20do%20empregador%20dom%C3%A9stico%20%28Simples%20Dom%C3%A9stico%29%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-A",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. A inscrição do empregador e a entrada única de dados cadastrais e de informações trabalhistas, previdenciárias e fiscais no âmbito do Simples Doméstico dar-se-ão mediante registro em sistema eletrônico a ser disponibilizado em portal na internet, conforme regulamento.\n\nParágrafo único. A impossibilidade de utilização do sistema eletrônico será objeto de regulamento, a ser editado pelo Ministério da Fazenda e pelo agente operador do FGTS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2032.%20A%20inscri%C3%A7%C3%A3o%20do%20empregador%20e%20a%20entrada%20%C3%BAnica%20de%20dados%20cadastrais%20e%20de%20informa%C3%A7%C3%B5es%20trabalhistas%2C%20previdenci%C3%A1rias%20e%20fiscais%20no%20%C3%A2mbito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O Simples Doméstico será disciplinado por ato conjunto dos Ministros de Estado da Fazenda, da Previdência Social e do Trabalho e Emprego que disporá sobre a apuração, o recolhimento e a distribuição dos recursos recolhidos por meio do Simples Doméstico, observadas as disposições do art. 21 desta Lei.\n\n§ 1o O ato conjunto a que se refere o caput deverá dispor também sobre o sistema eletrônico de registro das obrigações trabalhistas, previdenciárias e fiscais e sobre o cálculo e o recolhimento dos tributos e encargos trabalhistas vinculados ao Simples Doméstico.\n\n§ 2o As informações prestadas no sistema eletrônico de que trata o § 1o:\n\nI - têm caráter declaratório, constituindo instrumento hábil e suficiente para a exigência dos tributos e encargos trabalhistas delas resultantes e que não tenham sido recolhidos no prazo consignado para pagamento; e\n\nII - deverão ser fornecidas até o vencimento do prazo para pagamento dos tributos e encargos trabalhistas devidos no Simples Doméstico em cada mês, relativamente aos fatos geradores ocorridos no mês anterior.\n\n§ 3o O sistema eletrônico de que trata o § 1o deste artigo e o sistema de que trata o caput do art. 32 substituirão, na forma regulamentada pelo ato conjunto previsto no caput, a obrigatoriedade de entrega de todas as informações, formulários e declarações a que estão sujeitos os empregadores domésticos, inclusive os relativos ao recolhimento do FGTS.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2033.%20O%20Simples%20Dom%C3%A9stico%20ser%C3%A1%20disciplinado%20por%20ato%20conjunto%20dos%20Ministros%20de%20Estado%20da%20Fazenda%2C%20da%20Previd%C3%AAncia%20Social%20e%20do%20Trabalho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O Simples Doméstico assegurará o recolhimento mensal, mediante documento único de arrecadação, dos seguintes valores:\n\nI - 8% (oito por cento) a 11% (onze por cento) de contribuição previdenciária, a cargo do segurado empregado doméstico, nos termos do art. 20 da Lei nº 8.212, de 24 de julho de 1991;\n\nII - 8% (oito por cento) de contribuição patronal previdenciária para a seguridade social, a cargo do empregador doméstico, nos termos do art. 24 da Lei no 8.212, de 24 de julho de 1991;\n\nIII - 0,8% (oito décimos por cento) de contribuição social para financiamento do seguro contra acidentes do trabalho;\n\nIV - 8% (oito por cento) de recolhimento para o FGTS;\n\nV - 3,2% (três inteiros e dois décimos por cento), na forma do art. 22 desta Lei; e\n\nVI - imposto sobre a renda retido na fonte de que trata o inciso I do art. 7o da Lei no 7.713, de 22 de dezembro de 1988, se incidente.\n\n§ 1o As contribuições, os depósitos e o imposto arrolados nos incisos I a VI incidem sobre a remuneração paga ou devida no mês anterior, a cada empregado, incluída na remuneração a gratificação de Natal a que se refere a Lei no 4.090, de 13 de julho de 1962, e a Lei no 4.749, de 12 de agosto de 1965.\n\n§ 2o A contribuição e o imposto previstos nos incisos I e VI do caput deste artigo serão descontados da remuneração do empregado pelo empregador, que é responsável por seu recolhimento.\n\n§ 3o O produto da arrecadação das contribuições, dos depósitos e do imposto de que trata o caput será centralizado na Caixa Econômica Federal.\n\n§ 4o A Caixa Econômica Federal, com base nos elementos identificadores do recolhimento, disponíveis no sistema de que trata o § 1o do art. 33, transferirá para a Conta Única do Tesouro Nacional o valor arrecadado das contribuições e do imposto previstos nos incisos I, II, III e VI do caput.\n\n§ 5o O recolhimento de que trata o caput será efetuado em instituições financeiras integrantes da rede arrecadadora de receitas federais.\n\n§ 6o O empregador fornecerá, mensalmente, ao empregado doméstico cópia do documento previsto no caput.\n\n§ 7o O recolhimento mensal, mediante documento único de arrecadação, e a exigência das contribuições, dos depósitos e do imposto, nos valores definidos nos incisos I a VI do caput, somente serão devidos após 120 (cento e vinte) dias da data de publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2034.%20O%20Simples%20Dom%C3%A9stico%20assegurar%C3%A1%20o%20recolhimento%20mensal%2C%20mediante%20documento%20%C3%BAnico%20de%20arrecada%C3%A7%C3%A3o%2C%20dos%20seguintes%20valores%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O empregador doméstico é obrigado a pagar a remuneração devida ao empregado doméstico e a arrecadar e a recolher a contribuição prevista no inciso I do art. 34, assim como a arrecadar e a recolher as contribuições, os depósitos e o imposto a seu cargo discriminados nos incisos II, III, IV, V e VI do caput do art. 34, até o dia 7 do mês seguinte ao da competência.\n\n§ 1o Os valores previstos nos incisos I, II, III e VI do caput do art. 34 não recolhidos até a data de vencimento sujeitar-se-ão à incidência de encargos legais na forma prevista na legislação do imposto sobre a renda.\n\n§ 2o Os valores previstos nos incisos IV e V, referentes ao FGTS, não recolhidos até a data de vencimento serão corrigidos e terão a incidência da respectiva multa, conforme a Lei no 8.036, de 11 de maio de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2035.%20O%20empregador%20dom%C3%A9stico%20%C3%A9%20obrigado%20a%20pagar%20a%20remunera%C3%A7%C3%A3o%20devida%20ao%20empregado%20dom%C3%A9stico%20e%20a%20arrecadar%20e%20a%20recolher%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O inciso V do art. 30 da Lei no 8.212, de 24 de julho de 1991, passa a vigorar com a seguinte redação:\n\n“Art.30..........................................................................\n\n............................................................................................\n\nV - o empregador doméstico é obrigado a arrecadar e a recolher a contribuição do segurado empregado a seu serviço, assim como a parcela a seu cargo, até o dia 7 do mês seguinte ao da competência;\n\n....................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2036.%20O%20inciso%20V%20do%20art.%2030%20da%20Lei%20no%208.212%2C%20de%2024%20de%20julho%20de%201991%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A Lei no 8.213, de 24 de julho de 1991, passa a vigorar com as seguintes alterações:\n\n“Art.18...........................................................................\n\n.............................................................................................\n\n§ 1o Somente poderão beneficiar-se do auxílio-acidente os segurados incluídos nos incisos I, II, VI e VII do art. 11 desta Lei.\n\n....................................................................................” (NR)\n\n“Art. 19. Acidente do trabalho é o que ocorre pelo exercício do trabalho a serviço de empresa ou de empregador doméstico ou pelo exercício do trabalho dos segurados referidos no inciso VII do art. 11 desta Lei, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho.\n\n..................................................................................” (NR)\n\n“Art. 21-A. A perícia médica do Instituto Nacional do Seguro Social (INSS) considerará caracterizada a natureza acidentária da incapacidade quando constatar ocorrência de nexo técnico epidemiológico entre o trabalho e o agravo, decorrente da relação entre a atividade da empresa ou do empregado doméstico e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças (CID), em conformidade com o que dispuser o regulamento.\n\n...........................................................................................\n\n§ 2o A empresa ou o empregador doméstico poderão requerer a não aplicação do nexo técnico epidemiológico, de cuja decisão caberá recurso, com efeito suspensivo, da empresa, do empregador doméstico ou do segurado ao Conselho de Recursos da Previdência Social.” (NR)\n\n“Art. 22. A empresa ou o empregador doméstico deverão comunicar o acidente do trabalho à Previdência Social até o primeiro dia útil seguinte ao da ocorrência e, em caso de morte, de imediato, à autoridade competente, sob pena de multa variável entre o limite mínimo e o limite máximo do salário de contribuição, sucessivamente aumentada nas reincidências, aplicada e cobrada pela Previdência Social.\n\n.................................................................................” (NR)\n\n“Art. 27. Para cômputo do período de carência, serão consideradas as contribuições:\n\nI - referentes ao período a partir da data de filiação ao Regime Geral de Previdência Social (RGPS), no caso dos segurados empregados, inclusive os domésticos, e dos trabalhadores avulsos;\n\nII - realizadas a contar da data de efetivo pagamento da primeira contribuição sem atraso, não sendo consideradas para este fim as contribuições recolhidas com atraso referentes a competências anteriores, no caso dos segurados contribuinte individual, especial e facultativo, referidos, respectivamente, nos incisos V e VII do art. 11 e no art. 13.” (NR)\n\n“Art. 34. No cálculo do valor da renda mensal do benefício, inclusive o decorrente de acidente do trabalho, serão computados:\n\nI - para o segurado empregado, inclusive o doméstico, e o trabalhador avulso, os salários de contribuição referentes aos meses de contribuições devidas, ainda que não recolhidas pela empresa ou pelo empregador doméstico, sem prejuízo da respectiva cobrança e da aplicação das penalidades cabíveis, observado o disposto no § 5o do art. 29-A;\n\nII - para o segurado empregado, inclusive o doméstico, o trabalhador avulso e o segurado especial, o valor mensal do auxílio-acidente, considerado como salário de contribuição para fins de concessão de qualquer aposentadoria, nos termos do art. 31;\n\n..................................................................................” (NR)\n\n“Art. 35. Ao segurado empregado, inclusive o doméstico, e ao trabalhador avulso que tenham cumprido todas as condições para a concessão do benefício pleiteado, mas não possam comprovar o valor de seus salários de contribuição no período básico de cálculo, será concedido o benefício de valor mínimo, devendo esta renda ser recalculada quando da apresentação de prova dos salários de contribuição.” (NR)\n\n“Art. 37. A renda mensal inicial, recalculada de acordo com o disposto no art. 35, deve ser reajustada como a dos benefícios correspondentes com igual data de início e substituirá, a partir da data do requerimento de revisão do valor do benefício, a renda mensal que prevalecia até então.” (NR)\n\n“Art. 38. Sem prejuízo do disposto no art. 35, cabe à Previdência Social manter cadastro dos segurados com todos os informes necessários para o cálculo da renda mensal dos benefícios.” (NR)\n\n“Art. 63. O segurado empregado, inclusive o doméstico, em gozo de auxílio-doença será considerado pela empresa e pelo empregador doméstico como licenciado.\n\n................................................................................” (NR)\n\n“Art. 65. O salário-família será devido, mensalmente, ao segurado empregado, inclusive o doméstico, e ao segurado trabalhador avulso, na proporção do respectivo número de filhos ou equiparados nos termos do § 2o do art. 16 desta Lei, observado o disposto no art. 66.\n\n...................................................................................” (NR)\n\n“Art.67...........................................................................\n\nParágrafo único. O empregado doméstico deve apresentar apenas a certidão de nascimento referida no caput.” (NR)\n\n“Art. 68. As cotas do salário-família serão pagas pela empresa ou pelo empregador doméstico, mensalmente, junto com o salário, efetivando-se a compensação quando do recolhimento das contribuições, conforme dispuser o Regulamento.\n\n§ 1o A empresa ou o empregador doméstico conservarão durante 10 (dez) anos os comprovantes de pagamento e as cópias das certidões correspondentes, para fiscalização da Previdência Social.\n\n..............................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2037.%20A%20Lei%20no%208.213%2C%20de%2024%20de%20julho%20de%201991%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O art. 70 da Lei no 11.196, de 21 de novembro de 2005, passa a vigorar com a seguinte redação:\n\n“Art.70.........................................................................\n\nI - ................................................................................\n\n...........................................................................................\n\nd) até o dia 7 do mês subsequente ao mês de ocorrência dos fatos geradores, no caso de pagamento de rendimentos provenientes do trabalho assalariado a empregado doméstico; e\n\ne) até o último dia útil do segundo decêndio do mês subsequente ao mês de ocorrência dos fatos geradores, nos demais casos;\n\n................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2038.%20O%20art.%2070%20da%20Lei%20no%2011.196%2C%20de%2021%20de%20novembro%20de%202005%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. É instituído o Programa de Recuperação Previdenciária dos Empregadores Domésticos (Redom), nos termos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2039.%20%C3%89%20institu%C3%ADdo%20o%20Programa%20de%20Recupera%C3%A7%C3%A3o%20Previdenci%C3%A1ria%20dos%20Empregadores%20Dom%C3%A9sticos%20%28Redom%29%2C%20nos%20termos%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Será concedido ao empregador doméstico o parcelamento dos débitos com o Instituto Nacional do Seguro Social (INSS) relativos à contribuição de que tratam os arts. 20 e 24 da Lei no 8.212, de 24 de julho de 1991, com vencimento até 30 de abril de 2013.\n\n§ 1o O parcelamento abrangerá todos os débitos existentes em nome do empregado e do empregador, na condição de contribuinte, inclusive débitos inscritos em dívida ativa, que poderão ser:\n\nI - pagos com redução de 100% (cem por cento) das multas aplicáveis, de 60% (sessenta por cento) dos juros de mora e de 100% (cem por cento) sobre os valores dos encargos legais e advocatícios;\n\nII - parcelados em até 120 (cento e vinte) vezes, com prestação mínima no valor de R$ 100,00 (cem reais).\n\n§ 2o O parcelamento deverá ser requerido no prazo de 120 (cento e vinte) dias após a entrada em vigor desta Lei.\n\n§ 3o A manutenção injustificada em aberto de 3 (três) parcelas implicará, após comunicação ao sujeito passivo, a imediata rescisão do parcelamento e, conforme o caso, o prosseguimento da cobrança.\n\n§ 4o Na hipótese de rescisão do parcelamento com o cancelamento dos benefícios concedidos:\n\nI - será efetuada a apuração do valor original do débito, com a incidência dos acréscimos legais, até a data de rescisão;\n\nII - serão deduzidas do valor referido no inciso I deste parágrafo as parcelas pagas, com a incidência dos acréscimos legais, até a data de rescisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2040.%20Ser%C3%A1%20concedido%20ao%20empregador%20dom%C3%A9stico%20o%20parcelamento%20dos%20d%C3%A9bitos%20com%20o%20Instituto%20Nacional%20do%20Seguro%20Social%20%28INSS%29%20relativos%20%C3%A0%20contribui%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A opção pelo Redom sujeita o contribuinte a:\n\nI - confissão irrevogável e irretratável dos débitos referidos no art. 40;\n\nII - aceitação plena e irretratável de todas as condições estabelecidas;\n\nIII - pagamento regular das parcelas do débito consolidado, assim como das contribuições com vencimento posterior a 30 de abril de 2013.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2041.%20A%20op%C3%A7%C3%A3o%20pelo%20Redom%20sujeita%20o%20contribuinte%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. É de responsabilidade do empregador o arquivamento de documentos comprobatórios do cumprimento das obrigações fiscais, trabalhistas e previdenciárias, enquanto essas não prescreverem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2042.%20%C3%89%20de%20responsabilidade%20do%20empregador%20o%20arquivamento%20de%20documentos%20comprobat%C3%B3rios%20do%20cumprimento%20das%20obriga%C3%A7%C3%B5es%20fiscais%2C%20trabalhistas%20e%20previdenci%C3%A1rias%2C%20enquanto%20essas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O direito de ação quanto a créditos resultantes das relações de trabalho prescreve em 5 (cinco) anos até o limite de 2 (dois) anos após a extinção do contrato de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2043.%20O%20direito%20de%20a%C3%A7%C3%A3o%20quanto%20a%20cr%C3%A9ditos%20resultantes%20das%20rela%C3%A7%C3%B5es%20de%20trabalho%20prescreve%20em%205%20%28cinco%29%20anos%20at%C3%A9%20o%20limite",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. A Lei no 10.593, de 6 de dezembro de 2002, passa a vigorar acrescida do seguinte art. 11-A:\n\n“Art. 11-A. A verificação, pelo Auditor-Fiscal do Trabalho, do cumprimento das normas que regem o trabalho do empregado doméstico, no âmbito do domicílio do empregador, dependerá de agendamento e de entendimento prévios entre a fiscalização e o empregador.\n\n§ 1o A fiscalização deverá ter natureza prioritariamente orientadora.\n\n§ 2o Será observado o critério de dupla visita para lavratura de auto de infração, salvo quando for constatada infração por falta de anotação na Carteira de Trabalho e Previdência Social ou, ainda, na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.\n\n§ 3o Durante a inspeção do trabalho referida no caput, o Auditor-Fiscal do Trabalho far-se-á acompanhar pelo empregador ou por alguém de sua família por este designado.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2044.%20A%20Lei%20no%2010.593%2C%20de%206%20de%20dezembro%20de%202002%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.%2011-A%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. As matérias tratadas nesta Lei Complementar que não sejam reservadas constitucionalmente a lei complementar poderão ser objeto de alteração por lei ordinária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2045.%20As%20mat%C3%A9rias%20tratadas%20nesta%20Lei%20Complementar%20que%20n%C3%A3o%20sejam%20reservadas%20constitucionalmente%20a%20lei%20complementar%20poder%C3%A3o%20ser%20objeto%20de%20altera%C3%A7%C3%A3o%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Revogam-se o inciso I do art. 3o da Lei no 8.009, de 29 de março de 1990, e a Lei no 5.859, de 11 de dezembro de 1972.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2046.%20Revogam-se%20o%20inciso%20I%20do%20art.%203o%20da%20Lei%20no%208.009%2C%20de%2029%20de%20mar%C3%A7o%20de%201990%2C%20e%20a%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 1o de junho de 2015; 194o da Independência e 127o da República.\n\nDILMA ROUSSEFF\n\nMarivaldo de Castro Pereira\n\nTarcísio José Massote de Godoy\n\nManoel Dias\n\nCarlos Eduardo Gabas\n\nMiguel Rossetto\n\nGiovanni Benigno Pierre da Conceição Harvey\n\nEleonora Menicucci de Oliveira\n\nEste texto não substitui o publicado no DOU de 2.6.2015\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm#:~:text=Art.%2047.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": null
+    }
+  }
+}

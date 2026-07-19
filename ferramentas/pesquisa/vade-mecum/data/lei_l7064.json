@@ -1,0 +1,399 @@
+{
+  "_meta": {
+    "codigo": "L7064",
+    "nome": "Trabalho no Exterior (brasileiros)",
+    "lei": "Lei 7.064/1982",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm",
+    "total_artigos": 24,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - Esta Lei regula a situação de trabalhadores contratados no Brasil, ou transferidos por empresas prestadoras de serviços de engenharia, inclusive consultoria, projetos e obras, montagens, gerenciamento e congêneres, para prestar serviços no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%201%C2%BA%20-%20Esta%20Lei%20regula%20a%20situa%C3%A7%C3%A3o%20de%20trabalhadores%20contratados%20no%20Brasil%2C%20ou%20transferidos%20por%20empresas%20prestadoras%20de%20servi%C3%A7os%20de%20engenharia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I - Introdução (Art. 1º)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - Para os efeitos desta Lei, considera-se transferido:\n\nI - o empregado removido para o exterior, cujo contrato estava sendo executado no território brasileiro;\n\nII - o empregado cedido à empresa sediada no estrangeiro, para trabalhar no exterior, desde que mantido o vínculo trabalhista com o empregador brasileiro;\n\nIII - o empregado contratado por empresa sediada no Brasil para trabalhar a seu serviço no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%202%C2%BA%20-%20Para%20os%20efeitos%20desta%20Lei%2C%20considera-se%20transferido%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - A empresa responsável pelo contrato de trabalho do empregado transferido assegurar-lhe-á, independentemente da observância da legislação do local da execução dos serviços:\n\nI - os direitos previstos nesta Lei;\n\nII - a aplicação da legislação brasileira de proteção ao trabalho, naquilo que não for incompatível com o disposto nesta Lei, quando mais favorável do que a legislação territorial, no conjunto de normas e em relação a cada matéria.\n\nParágrafo único. Respeitadas as disposições especiais desta Lei, aplicar-se-á a legislação brasileira sobre Previdência Social, Fundo de Garantia por Tempo de Serviço - FGTS e Programa de Integração Social - PIS/PASEP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%203%C2%BA%20-%20A%20empresa%20respons%C3%A1vel%20pelo%20contrato%20de%20trabalho%20do%20empregado%20transferido%20assegurar-lhe-%C3%A1%2C%20independentemente%20da%20observ%C3%A2ncia%20da%20legisla%C3%A7%C3%A3o%20do%20local%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - Mediante ajuste escrito, empregador e empregado fixarão os valores do salário-base e do adicional de transferência.\n\n§ 1º - O salário-base ajustado na forma deste artigo fica sujeito aos reajustes e aumentos compulsórios previstos na legislação brasileira.\n\n§ 2º - O valor do salário-base não poderá ser inferior ao mínimo estabelecido para a categoria profissional do empregado.\n\n§ 3º - Os reajustes e aumentos compulsórios previstos no § 1º incidirão exclusivamente sobre os valores ajustados em moeda nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%204%C2%BA%20-%20Mediante%20ajuste%20escrito%2C%20empregador%20e%20empregado%20fixar%C3%A3o%20os%20valores%20do%20sal%C3%A1rio-base%20e%20do%20adicional%20de%20transfer%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º - O salário-base do contrato será obrigatoriamente estipulado em moeda nacional, mas a remuneração devida durante a transferência do empregado, computado o adicional de que trata o artigo anterior, poderá, no todo ou em parte, ser paga no exterior, em moeda estrangeira.\n\n§ 1º - Por opção escrita do empregado, a parcela da remuneração a ser paga em moeda nacional poderá ser depositada em conta bancária.\n\n§ 2º - É assegurada ao empregado, enquanto estiver prestando serviços no exterior, a conversão e remessa dos correspondentes valores para o local de trabalho, observado o disposto em regulamento.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%205%C2%BA%20-%20O%20sal%C3%A1rio-base%20do%20contrato%20ser%C3%A1%20obrigatoriamente%20estipulado%20em%20moeda%20nacional%2C%20mas%20a%20remunera%C3%A7%C3%A3o%20devida%20durante%20a%20transfer%C3%AAncia%20do%20empregado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - Após 2 (dois) anos de permanência no exterior, será facultado ao empregado gozar anualmente férias no Brasil, correndo por conta da empresa empregadora, ou para a qual tenha sido cedido, o custeio da viagem.\n\n§ 1º - O custeio de que trata este artigo se estende ao cônjuge e aos demais dependentes do empregado com ele residentes.\n\n§ 2º - O disposto neste artigo não se aplicará ao caso de retorno definitivo do empregado antes da época do gozo das férias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%206%C2%BA%20-%20Ap%C3%B3s%202%20%28dois%29%20anos%20de%20perman%C3%AAncia%20no%20exterior%2C%20ser%C3%A1%20facultado%20ao%20empregado%20gozar%20anualmente%20f%C3%A9rias%20no%20Brasil%2C%20correndo%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - O retorno do empregado ao Brasil poderá ser determinado pela empresa quando:\n\nI - não se tornar mais necessário ou conveniente o serviço do empregado no exterior;\n\nII - der o empregado justa causa para a rescisão do contrato.\n\nParágrafo único. Fica assegurado ao empregado seu retorno ao Brasil, ao término do prazo da transferência ou, antes deste, na ocorrência das seguintes hipóteses:\n\na) após 3 (três) anos de trabalho contínuo;\n\nb) para atender à necessidade grave de natureza familiar, devidamente comprovada;\n\nc) por motivo de saúde, conforme recomendação constante de laudo médico;\n\nd) quando der o empregador justa causa para a rescisão do contrato;\n\ne) na hipótese prevista no inciso I deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%207%C2%BA%20-%20O%20retorno%20do%20empregado%20ao%20Brasil%20poder%C3%A1%20ser%20determinado%20pela%20empresa%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - Cabe à empresa o custeio do retorno do empregado.\n\nParágrafo único. Quando o retorno se verificar, por iniciativa do empregado, ou quando der justa causa para rescisão do contrato, ficará ele obrigado ao reembolso das respectivas despesas, ressalvados os casos previstos no parágrafo único do artigo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%208%C2%BA%20-%20Cabe%20%C3%A0%20empresa%20o%20custeio%20do%20retorno%20do%20empregado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º - O período de duração da transferência será computado no tempo de serviço do empregado para todos os efeitos da legislação brasileira, ainda que a lei local de prestação do serviço considere essa prestação como resultante de um contrato autônomo e determine a liquidação dos direitos oriundos da respectiva cessação.\n\n§ 1º - Na hipótese de liquidação de direitos prevista neste artigo, a empresa empregadora fica autorizada a deduzir esse pagamento dos depósitos do FGTS em nome do empregado, existentes na conta vinculada de que trata o art. 2º da Lei nº 5.107, de 13 de setembro de 1966.(Regulamento)\n\n§ 2º - Se o saldo da conta a que se refere o parágrafo anterior não comportar a dedução ali mencionada, a diferença poderá ser novamente deduzida do saldo dessa conta quando da cessação, no Brasil, do respectivo contrato de trabalho.(Regulamento)\n\n§ 3º - As deduções acima mencionadas, relativamente ao pagamento em moeda estrangeira, serão calculadas mediante conversão em cruzeiros ao câmbio do dia em que se operar o pagamento.(Regulamento)\n\n§ 4º - O levantamento pelo empregador, decorrente da dedução acima prevista, dependerá de homologação judicial.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%209%C2%BA%20-%20O%20per%C3%ADodo%20de%20dura%C3%A7%C3%A3o%20da%20transfer%C3%AAncia%20ser%C3%A1%20computado%20no%20tempo%20de%20servi%C3%A7o%20do%20empregado%20para%20todos%20os%20efeitos%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 - O adicional de transferência, as prestações \"in natura\", bem como quaisquer outras vantagens a que fizer jus o empregado em função de sua permanência no exterior, não serão devidas após seu retorno ao Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2010%20-%20O%20adicional%20de%20transfer%C3%AAncia%2C%20as%20presta%C3%A7%C3%B5es%20%22in%20natura%22%2C%20bem%20como%20quaisquer%20outras%20vantagens%20a%20que%20fizer%20jus%20o%20empregado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - Durante a prestação de serviços no exterior não serão devidas, em relação aos empregados transferidos, as contribuições referentes a: Salário-Educação, Serviço Social da Indústria, Serviço Social do Comércio, Serviço Nacional de Aprendizagem Comercial, Serviço Nacional de Aprendizagem Industrial e Instituto Nacional de Colonização e de Reforma Agrária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2011%20-%20Durante%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20no%20exterior%20n%C3%A3o%20ser%C3%A3o%20devidas%2C%20em%20rela%C3%A7%C3%A3o%20aos%20empregados%20transferidos%2C%20as%20contribui%C3%A7%C3%B5es%20referentes%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II - Da Transferência",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12 - A contratação de trabalhador, por empresa estrangeira, para trabalhar no exterior está condicionada à prévia autorização do Ministério do Trabalho.(Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2012%20-%20A%20contrata%C3%A7%C3%A3o%20de%20trabalhador%2C%20por%20empresa%20estrangeira%2C%20para%20trabalhar%20no%20exterior%20est%C3%A1%20condicionada%20%C3%A0%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%20do%20Minist%C3%A9rio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 - A autorização a que se refere o art. 12 somente poderá ser dada à empresa de cujo capital participe, em pelo menos 5% (cinco por cento) pessoa jurídica domiciliada no Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2013%20-%20A%20autoriza%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20art.%2012%20somente%20poder%C3%A1%20ser%20dada%20%C3%A0%20empresa%20de%20cujo%20capital%20participe%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14 - Sem prejuízo da aplicação das leis do país da prestação dos serviços, no que respeita a direitos, vantagens e garantias trabalhistas e previdenciárias, a empresa estrangeira assegurará ao trabalhador os direitos a ele conferidos neste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2014%20-%20Sem%20preju%C3%ADzo%20da%20aplica%C3%A7%C3%A3o%20das%20leis%20do%20pa%C3%ADs%20da%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%2C%20no%20que%20respeita%20a%20direitos%2C%20vantagens%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15 - Correrão obrigatoriamente por conta da empresa estrangeira as despesas de viagem de ida e volta do trabalhador ao exterior, inclusive a dos dependentes com ele residentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2015%20-%20Correr%C3%A3o%20obrigatoriamente%20por%20conta%20da%20empresa%20estrangeira%20as%20despesas%20de%20viagem%20de%20ida%20e%20volta%20do%20trabalhador%20ao%20exterior%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16 - A permanência do trabalhador no exterior não poderá ser ajustada por período superior a 3 (três) anos, salvo quando for assegurado a ele e a seus dependentes o direito de gozar férias anuais no Brasil, com despesas de viagem pagas pela empresa estrangeira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2016%20-%20A%20perman%C3%AAncia%20do%20trabalhador%20no%20exterior%20n%C3%A3o%20poder%C3%A1%20ser%20ajustada%20por%20per%C3%ADodo%20superior%20a%203%20%28tr%C3%AAs%29%20anos%2C%20salvo%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17 - A empresa estrangeira assegurará o retorno definitivo do trabalhador ao Brasil quando:\n\nI - houver terminado o prazo de duração do contrato, ou for o mesmo rescindido;\n\nII - por motivo de saúde do trabalhador, devidamente comprovado por laudo médico oficial que o recomende.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2017%20-%20A%20empresa%20estrangeira%20assegurar%C3%A1%20o%20retorno%20definitivo%20do%20trabalhador%20ao%20Brasil%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18 - A empresa estrangeira manterá no Brasil procurador bastante, com poderes especiais de representação, inclusive o de receber citação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2018%20-%20A%20empresa%20estrangeira%20manter%C3%A1%20no%20Brasil%20procurador%20bastante%2C%20com%20poderes%20especiais%20de%20representa%C3%A7%C3%A3o%2C%20inclusive%20o%20de%20receber%20cita%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19 - A pessoa jurídica domiciliada no Brasil a que alude o art. 13 será solidariamente responsável com a empresa estrangeira por todas as obrigações decorrentes da contratação do trabalhador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2019%20-%20A%20pessoa%20jur%C3%ADdica%20domiciliada%20no%20Brasil%20a%20que%20alude%20o%20art.%2013%20ser%C3%A1%20solidariamente%20respons%C3%A1vel%20com%20a%20empresa%20estrangeira",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20 - O aliciamento de trabalhador domiciliado no Brasil, para trabalhar no exterior, fora do regime desta Lei, configurará o crime previsto no art. 206 do Código Penal Brasileiro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2020%20-%20O%20aliciamento%20de%20trabalhador%20domiciliado%20no%20Brasil%2C%20para%20trabalhar%20no%20exterior%2C%20fora%20do%20regime%20desta%20Lei%2C%20configurar%C3%A1%20o%20crime",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III - Da Contratação por Empresa Estrangeira",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21 - As empresas de que trata esta Lei farão, obrigatoriamente, seguro de vida e acidentes pessoais a favor do trabalhador, cobrindo o período a partir do embarque para o exterior, até o retorno ao Brasil.\n\nParágrafo único. O valor do seguro não poderá ser inferior a 12 (doze) vezes o valor da remuneração mensal do trabalhador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2021%20-%20As%20empresas%20de%20que%20trata%20esta%20Lei%20far%C3%A3o%2C%20obrigatoriamente%2C%20seguro%20de%20vida%20e%20acidentes%20pessoais%20a%20favor%20do%20trabalhador%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV - Disposições Comuns e Finais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22 - As empresas a que se refere esta Lei garantirão ao empregado, no local de trabalho no exterior ou próximo a ele, serviços gratuitos e adequados de assistência médica e social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2022%20-%20As%20empresas%20a%20que%20se%20refere%20esta%20Lei%20garantir%C3%A3o%20ao%20empregado%2C%20no%20local%20de%20trabalho%20no%20exterior%20ou%20pr%C3%B3ximo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV - Disposições Comuns e Finais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23 - Serão regulamentadas no prazo de 90 (noventa) dias as disposições dos artigos 5º, § 2º; 9º, parágrafos 1º e 4º; e 12.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2023%20-%20Ser%C3%A3o%20regulamentadas%20no%20prazo%20de%2090%20%28noventa%29%20dias%20as%20disposi%C3%A7%C3%B5es%20dos%20artigos%205%C2%BA%2C%20%C2%A7%202%C2%BA%3B%209%C2%BA%2C%20par%C3%A1grafos%201%C2%BA%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV - Disposições Comuns e Finais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24 - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, 6 de dezembro de 1982; 161º da Independência e 94º da República.\n\nJOÃO FIGUEIREDO Murillo Macêdo\n\nEste texto não substitui o publicado no D.O.U. de 7.12.1982\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7064.htm#:~:text=Art.%2024%20-%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV - Disposições Comuns e Finais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": null
+    }
+  }
+}

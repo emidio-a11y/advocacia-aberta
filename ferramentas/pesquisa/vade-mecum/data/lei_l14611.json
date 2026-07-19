@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "codigo": "L14611",
+    "nome": "Igualdade Salarial por Gênero",
+    "lei": "Lei 14.611/2023",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm",
+    "total_artigos": 7,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre a igualdade salarial e de critérios remuneratórios, nos termos da regulamentação, entre mulheres e homens para a realização de trabalho de igual valor ou no exercício da mesma função e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%20a%20igualdade%20salarial%20e%20de%20crit%C3%A9rios%20remunerat%C3%B3rios%2C%20nos%20termos%20da%20regulamenta%C3%A7%C3%A3o%2C%20entre%20mulheres%20e%20homens%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A igualdade salarial e de critérios remuneratórios entre mulheres e homens para a realização de trabalho de igual valor ou no exercício da mesma função é obrigatória e será garantida nos termos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%202%C2%BA%20A%20igualdade%20salarial%20e%20de%20crit%C3%A9rios%20remunerat%C3%B3rios%20entre%20mulheres%20e%20homens%20para%20a%20realiza%C3%A7%C3%A3o%20de%20trabalho%20de%20igual%20valor%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O art. 461 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, passa a vigorar com a seguinte redação:\n\n“Art. 461. ...............................................................................\n\n.........................................................................................................\n\n§ 6º Na hipótese de discriminação por motivo de sexo, raça, etnia, origem ou idade, o pagamento das diferenças salariais devidas ao empregado discriminado não afasta seu direito de ação de indenização por danos morais, consideradas as especificidades do caso concreto.\n\n§ 7º Sem prejuízo do disposto no § 6º, no caso de infração ao previsto neste artigo, a multa de que trata o art. 510 desta Consolidação corresponderá a 10 (dez) vezes o valor do novo salário devido pelo empregador ao empregado discriminado, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%203%C2%BA%20O%20art.%20461%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%2C%20aprovada%20pelo%20Decreto-Lei%20n%C2%BA%205.452%2C%20de%201%C2%BA%20de%20maio%20de%201943%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A igualdade salarial e de critérios remuneratórios entre mulheres e homens será garantida por meio das seguintes medidas:\n\nI – estabelecimento de mecanismos de transparência salarial e de critérios remuneratórios;\n\nII – incremento da fiscalização contra a discriminação salarial e de critérios remuneratórios entre mulheres e homens;\n\nIII – disponibilização de canais específicos para denúncias de discriminação salarial;\n\nIV – promoção e implementação de programas de diversidade e inclusão no ambiente de trabalho que abranjam a capacitação de gestores, de lideranças e de empregados a respeito do tema da equidade entre homens e mulheres no mercado de trabalho, com aferição de resultados; e\n\nV – fomento à capacitação e à formação de mulheres para o ingresso, a permanência e a ascensão no mercado de trabalho em igualdade de condições com os homens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%204%C2%BA%20A%20igualdade%20salarial%20e%20de%20crit%C3%A9rios%20remunerat%C3%B3rios%20entre%20mulheres%20e%20homens%20ser%C3%A1%20garantida%20por%20meio%20das%20seguintes%20medidas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Fica determinada a publicação semestral de relatórios de transparência salarial e de critérios remuneratórios pelas pessoas jurídicas de direito privado com 100 (cem) ou mais empregados, observada a proteção de dados pessoais de que trata a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).\n\n§ 1º Os relatórios de transparência salarial e de critérios remuneratórios conterão dados anonimizados e informações que permitam a comparação objetiva entre salários, remunerações e a proporção de ocupação de cargos de direção, gerência e chefia preenchidos por mulheres e homens, acompanhados de informações que possam fornecer dados estatísticos sobre outras possíveis desigualdades decorrentes de raça, etnia, nacionalidade e idade, observada a legislação de proteção de dados pessoais e regulamento específico.\n\n§ 2º Nas hipóteses em que for identificada desigualdade salarial ou de critérios remuneratórios, independentemente do descumprimento do disposto no art. 461 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a pessoa jurídica de direito privado apresentará e implementará plano de ação para mitigar a desigualdade, com metas e prazos, garantida a participação de representantes das entidades sindicais e de representantes dos empregados nos locais de trabalho.\n\n§ 3º Na hipótese de descumprimento do disposto no caput deste artigo, será aplicada multa administrativa cujo valor corresponderá a até 3% (três por cento) da folha de salários do empregador, limitado a 100 (cem) salários mínimos, sem prejuízo das sanções aplicáveis aos casos de discriminação salarial e de critérios remuneratórios entre mulheres e homens.\n\n§ 4º O Poder Executivo federal disponibilizará de forma unificada, em plataforma digital de acesso público, observada a proteção de dados pessoais de que trata a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), além das informações previstas no § 1º deste artigo, indicadores atualizados periodicamente sobre mercado de trabalho e renda desagregados por sexo, inclusive indicadores de violência contra a mulher, de vagas em creches públicas, de acesso à formação técnica e superior e de serviços de saúde, bem como demais dados públicos que impactem o acesso ao emprego e à renda pelas mulheres e que possam orientar a elaboração de políticas públicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%205%C2%BA%20Fica%20determinada%20a%20publica%C3%A7%C3%A3o%20semestral%20de%20relat%C3%B3rios%20de%20transpar%C3%AAncia%20salarial%20e%20de%20crit%C3%A9rios%20remunerat%C3%B3rios%20pelas%20pessoas%20jur%C3%ADdicas%20de%20direito%20privado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Ato do Poder Executivo instituirá protocolo de fiscalização contra a discriminação salarial e de critérios remuneratórios entre mulheres e homens.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%206%C2%BA%20Ato%20do%20Poder%20Executivo%20instituir%C3%A1%20protocolo%20de%20fiscaliza%C3%A7%C3%A3o%20contra%20a%20discrimina%C3%A7%C3%A3o%20salarial%20e%20de%20crit%C3%A9rios%20remunerat%C3%B3rios%20entre%20mulheres%20e%20homens.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 3 de julho de 2023; 202o da Independência e 135o da República.\n\nLUIZ INÁCIO LULA DA SILVA Flávio Dino de Castro e Costa Aparecida Gonçalves Luiz Marinho\n\nEste texto não substitui o publicado no DOU de 4.7.2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm#:~:text=Art.%207%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": null
+    }
+  }
+}

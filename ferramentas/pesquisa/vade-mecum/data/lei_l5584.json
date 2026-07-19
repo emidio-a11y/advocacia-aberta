@@ -1,0 +1,335 @@
+{
+  "_meta": {
+    "codigo": "L5584",
+    "nome": "Normas do Processo do Trabalho",
+    "lei": "Lei 5.584/1970",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm",
+    "total_artigos": 20,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art 1º Nos processos perante a Justiça do Trabalho, observar-se-ão os princípios estabelecidos nesta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%201%C2%BA%20Nos%20processos%20perante%20a%20Justi%C3%A7a%20do%20Trabalho%2C%20observar-se-%C3%A3o%20os%20princ%C3%ADpios%20estabelecidos%20nesta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art 2º Nos dissídios individuais, proposta a conciliação, e não havendo acôrdo, o Presidente, da Junta ou o Juiz, antes de passar à instrução da causa, fixar-lhe-á o valor para a determinação da alçada, se êste fôr indeterminado no pedido.\n\n§ 1º Em audiência, ao aduzir razões finais, poderá qualquer das partes, impugnar o valor fixado e, se o Juiz o mantiver, pedir revisão da decisão, no prazo de 48 (quarenta e oito) horas, ao Presidente do Tribunal Regional.\n\n§ 2º O pedido de revisão, que não terá efeito suspensivo deverá ser instruído com a petição inicial e a Ata da Audiência, em cópia autenticada pela Secretaria da Junta, e será julgado em 48 (quarenta e oito) horas, a partir do seu recebimento pelo Presidente do Tribunal Regional.\n\n§ 3º Quando o valor fixado para a causa, na forma dêste artigo, não exceder de 2 (duas) vêzes o salário-mínimo vigente na sede do Juízo, será dispensável o resumo dos depoimentos, devendo constar da Ata a conclusão da Junta quanto à matéria de fato.\n\n§ 4º Salvo se versarem sôbre, matéria constitucional, nenhum recurso (CLT, art., 893), caberá das sentenças proferidas nos dissídios da alçada a que se refere o parágrafo anterior.\n\n§ 4º - Salvo se versarem sobre matéria constitucional, nenhum recurso caberá das sentenças proferidas nos dissídios da alçada a que se refere o parágrafo anterior, considerado, para esse fim, o valor do salário mínimo à data do ajuizamento da ação. (Redação dada pela Lei nº 7.402, de 1985)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%202%C2%BA%20Nos%20diss%C3%ADdios%20individuais%2C%20proposta%20a%20concilia%C3%A7%C3%A3o%2C%20e%20n%C3%A3o%20havendo%20ac%C3%B4rdo%2C%20o%20Presidente%2C%20da%20Junta%20ou%20o%20Juiz%2C%20antes%20de%20passar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art 3º Os exames periciais serão realizados por perito único designado pelo Juiz, que fixará o prazo para entrega do laudo.\n\nParágrafo único. Permitir-se-á a cada parte a indicação de um assistente, cuja laudo terá que ser apresentado no mesmo prazo assinado para o perito, sob pena de ser desentranhado dos autos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%203%C2%BA%20Os%20exames%20periciais%20ser%C3%A3o%20realizados%20por%20perito%20%C3%BAnico%20designado%20pelo%20Juiz%2C%20que%20fixar%C3%A1%20o%20prazo%20para%20entrega%20do%20laudo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art 4º Nos dissídios de alçada exclusiva das Juntas e naqueles em que os empregados ou empregadores reclamarem pessoalmente, o processo poderá ser impulsionado de ofício pelo Juiz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%204%C2%BA%20Nos%20diss%C3%ADdios%20de%20al%C3%A7ada%20exclusiva%20das%20Juntas%20e%20naqueles%20em%20que%20os%20empregados%20ou%20empregadores%20reclamarem%20pessoalmente%2C%20o%20processo%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art 5º Para exarar parecer, terá o órgão do Ministério Público da União, junto à Justiça do Trabalho, o prazo de 8 (oito) dias, contados da data em que lhe fôr distribuído o processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%205%C2%BA%20Para%20exarar%20parecer%2C%20ter%C3%A1%20o%20%C3%B3rg%C3%A3o%20do%20Minist%C3%A9rio%20P%C3%BAblico%20da%20Uni%C3%A3o%2C%20junto%20%C3%A0%20Justi%C3%A7a%20do%20Trabalho%2C%20o%20prazo%20de%208",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art 6º Será de 8 (oito) dias o prazo para interpor e contra-arrazoar qualquer recurso (CLT, art. 893).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%206%C2%BA%20Ser%C3%A1%20de%208%20%28oito%29%20dias%20o%20prazo%20para%20interpor%20e%20contra-arrazoar%20qualquer%20recurso%20%28CLT%2C%20art.%20893%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art 7º A comprovação do depósito da condenação (CLT, art. 899, §§ 1º a 5º) terá que ser feita dentro do prazo para a interposição do recurso, sob pena de ser êste considerado deserto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%207%C2%BA%20A%20comprova%C3%A7%C3%A3o%20do%20dep%C3%B3sito%20da%20condena%C3%A7%C3%A3o%20%28CLT%2C%20art.%20899%2C%20%C2%A7%C2%A7%201%C2%BA%20a%205%C2%BA%29%20ter%C3%A1%20que%20ser%20feita%20dentro%20do%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art 8º Das decisões proferidas nos dissídios coletivos poderá a União interpor recurso, o qual será sempre recebido no efeito suspensivo quanto à parte que exceder o índice fixado pela política salarial do Govêrno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%208%C2%BA%20Das%20decis%C3%B5es%20proferidas%20nos%20diss%C3%ADdios%20coletivos%20poder%C3%A1%20a%20Uni%C3%A3o%20interpor%20recurso%2C%20o%20qual%20ser%C3%A1%20sempre%20recebido%20no%20efeito%20suspensivo%20quanto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º No Tribunal Superior do Trabalho, quando o pedido do recorrente contrariar prejulgado estabelecido ou súmula de jurisprudência uniforme dêste Tribunal já compendiada, poderá o Relator negar prosseguimento, ao recurso, indicando o correspondente prejulgado ou súmula.\n\nParágrafo único. A parte prejudicada poderá interpor agravo desde que à espécie não se aplique o prejulgado ou a súmula citada pelo Relator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%209%C2%BA%20No%20Tribunal%20Superior%20do%20Trabalho%2C%20quando%20o%20pedido%20do%20recorrente%20contrariar%20prejulgado%20estabelecido%20ou%20s%C3%BAmula%20de%20jurisprud%C3%AAncia%20uniforme%20d%C3%AAste%20Tribunal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art 10. O artigo 477 da Consolidação das Leis do Trabalho, alterado pela Lei nº 5.562, de 12-12-68, e pelo Decreto-lei nº 766, de 15-8-69, passa a vigorar com a seguinte redação:\n\n\"Art. 477. É assegurado a todo empregado, não existindo prazo estipulado para a terminação do respectivo contrato, e quando não haja êle dado motivo para cessação das relações de trabalho, o direto de haver do empregador uma indenização, paga na base da maior remuneração que tenha percebido na mesma emprêsa.\n\n§ 1º O pedido de demissão ou recibo de quitação de rescisão, do contrato de trabalho, firmado por empregado com mais de 1 (um) ano de serviço, só será válido quando feito com a assistência do respectivo Sindicato ou perante a autoridade do Ministério do Trabalho e Previdência Social.\n\n§ 2º O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas.\n\n§ 3º Quando não existir na localidade nenhum dos órgãos previstos neste artigo, a assistência será prestada pelo Represente do Ministério Público ou, onde houver, pelo Defensor Público e, na falta ou impedimento dêste, pelo Juiz de Paz.\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado no ato da homologação da rescisão do contrato de trabalho, em dinheiro ou em cheque visado, conforme acordem as partes, salvo se o empregado fôr analfabeto, quando o pagamento sòmente poderá ser feito em dinheiro.\n\n§ 5º Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2010.%20O%20artigo%20477%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%2C%20alterado%20pela%20Lei%20n%C2%BA%205.562%2C%20de%2012-12-68%2C%20e%20pelo%20Decreto-lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art 11. O artigo 500 da Consolidação das Lei do Trabalho, revogado pela Lei nº 5.562, de 12-12-1968, passa a vigorar com a seguinte redação:\n\n\"Art. 500. O pedido de demissão do empregado estável só será válido quando feito com a assistência do respectivo Sindicato e, se não o houver, perante autoridade local competente do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2011.%20O%20artigo%20500%20da%20Consolida%C3%A7%C3%A3o%20das%20Lei%20do%20Trabalho%2C%20revogado%20pela%20Lei%20n%C2%BA%205.562%2C%20de%2012-12-1968%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art 12. O artigo 888 da Consolidação das Leis do Trabalho passa a vigorar com a seguinte redação:\n\n\"Art. 888. Concluída a avaliação, dentro de dez dias, contados da data da nomeação do avaliador, seguir-se-á a arrematação, que será anunciada por edital afixado na sede do juízo ou tribunal e publicado no jornal local, se houver, com a antecedência de vinte (20) dias.\n\n§ 1º A arrematação far-se-á em dia, hora e lugar anunciados e os bens serão vendidos pelo maior lance, tendo o exeqüente preferência para a adjudicação.\n\n§ 2º O arrematante deverá garantir o lance com o sinal correspondente a 20% (vinte por cento) do seu valor.\n\n§ 3º Não havendo licitante, e não requerendo o exeqüente a adjudicação dos bens penhorados, poderão os mesmos ser vendidos por leiloeiro nomeado pelo Juiz ou Presidente.\n\n§ 4º Se o arrematante, ou seu fiador, não pagar dentro de 24 (vinte e quatro) horas o preço da arrematação, perderá, em benefício da execução, o sinal de que trata o § 2º dêste artigo, voltando à praça os bens executados\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2012.%20O%20artigo%20888%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art 13. Em qualquer hipótese, a remição só será deferível ao executado se êste oferecer preço igual ao valor da condenação.\n\nDa Assistência Judiciária",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2013.%20Em%20qualquer%20hip%C3%B3tese%2C%20a%20remi%C3%A7%C3%A3o%20s%C3%B3%20ser%C3%A1%20defer%C3%ADvel%20ao%20executado%20se%20%C3%AAste%20oferecer%20pre%C3%A7o%20igual%20ao%20valor%20da%20condena%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art 14. Na Justiça do Trabalho, a assistência judiciária a que se refere a Lei nº 1.060, de 5 de fevereiro de 1950, será prestada pelo Sindicato da categoria profissional a que pertencer o trabalhador.\n\n§ 1º A assistência é devida a todo aquêle que perceber salário igual ou inferior ao dôbro do mínimo legal, ficando assegurado igual benefício ao trabalhador de maior salário, uma vez provado que sua situação econômica não lhe permite demandar, sem prejuízo do sustento próprio ou da família.\n\n§ 2º A situação econômica do trabalhador será comprovada em atestado fornecido pela autoridade local do Ministério do Trabalho e Previdência Social, mediante diligência sumária, que não poderá exceder de 48 (quarenta e oito) horas.\n\n§ 3º Não havendo no local a autoridade referida no parágrafo anterior, o atestado deverá ser expedido pelo Delegado de Polícia da circunscrição onde resida o empregado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2014.%20Na%20Justi%C3%A7a%20do%20Trabalho%2C%20a%20assist%C3%AAncia%20judici%C3%A1ria%20a%20que%20se%20refere%20a%20Lei%20n%C2%BA%201.060%2C%20de%205%20de%20fevereiro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art 15. Para auxiliar no patrocínio das causas, observados os arts. 50 e 72 da Lei nº 4.215, de 27 de abril de 1963, poderão ser designados pelas Diretorias dos Sindicatos Acadêmicos, de Direito, a partir da 4º Série, comprovadamente, matriculados em estabelecimento de ensino oficial ou sob fiscalização do Govêrno Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2015.%20Para%20auxiliar%20no%20patroc%C3%ADnio%20das%20causas%2C%20observados%20os%20arts.%2050%20e%2072%20da%20Lei%20n%C2%BA%204.215%2C%20de%2027%20de%20abril",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art 16. Os honorários do advogado pagos pelo vencido reverterão em favor do Sindicato assistente. (Revogado pela Lei nº 13.725, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2016.%20Os%20honor%C3%A1rios%20do%20advogado%20pagos%20pelo%20vencido%20reverter%C3%A3o%20em%20favor%20do%20Sindicato%20assistente.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.725%2C%20de%202018%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art 17. Quando, nas respectivas comarcas, não houver Juntas de Conciliação e Julgamento ou não existir Sindicato da categoria profissional do trabalhador, é atribuído aos Promotores Públicos ou Defensores Públicos o encargo de prestar assistência judiciária prevista nesta lei.\n\nParágrafo único. Na hipótese prevista neste artigo, a importância proveniente da condenação nas despesas processuais será recolhida ao Tesouro do respectivo Estado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2017.%20Quando%2C%20nas%20respectivas%20comarcas%2C%20n%C3%A3o%20houver%20Juntas%20de%20Concilia%C3%A7%C3%A3o%20e%20Julgamento%20ou%20n%C3%A3o%20existir%20Sindicato%20da%20categoria%20profissional%20do%20trabalhador%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art 18. A assistência judiciária, nos têrmos da presente lei, será prestada ao trabalhador ainda que não seja associado do respectivo Sindicato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2018.%20A%20assist%C3%AAncia%20judici%C3%A1ria%2C%20nos%20t%C3%AArmos%20da%20presente%20lei%2C%20ser%C3%A1%20prestada%20ao%20trabalhador%20ainda%20que%20n%C3%A3o%20seja%20associado%20do%20respectivo%20Sindicato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art 19. Os diretores de Sindicatos que, sem comprovado motivo de ordem financeira, deixarem de dar cumprimento às disposições desta lei ficarão sujeitos à penalidade prevista no art. 553, alínea a da Consolidação das Leis do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2019.%20Os%20diretores%20de%20Sindicatos%20que%2C%20sem%20comprovado%20motivo%20de%20ordem%20financeira%2C%20deixarem%20de%20dar%20cumprimento%20%C3%A0s%20disposi%C3%A7%C3%B5es%20desta%20lei%20ficar%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art 20. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, 26 de junho de 1970; 149º da Independência e 82º da República.\n\nEMíLIO G. MÉDICI AIfredo Buzaid\n\nEste texto não substitui o publicado no DOU de 29.6.1970\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5584.htm#:~:text=Art%2020.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": null
+    }
+  }
+}

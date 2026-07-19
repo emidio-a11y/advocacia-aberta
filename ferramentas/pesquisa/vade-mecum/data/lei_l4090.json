@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "codigo": "L4090",
+    "nome": "Gratificação de Natal (13º salário)",
+    "lei": "Lei 4.090/1962",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm",
+    "total_artigos": 4,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - No mês de dezembro de cada ano, a todo empregado será paga, pelo empregador, uma gratificação salarial, independentemente da remuneração a que fizer jus.\n\n§ 1º - A gratificação corresponderá a 1/12 avos da remuneração devida em dezembro, por mês de serviço, do ano correspondente.\n\n§ 2º - A fração igual ou superior a 15 (quinze) dias de trabalho será havida como mês integral para os efeitos do parágrafo anterior.\n\n§ 3º - A gratificação será proporcional: (Incluído pela Lei nº 9.011, de 1995)\n\nI - na extinção dos contratos a prazo, entre estes incluídos os de safra, ainda que a relação de emprego haja findado antes de dezembro; e (Incluído pela Lei nº 9.011, de 1995)\n\nII - na cessação da relação de emprego resultante da aposentadoria do trabalhador, ainda que verificada antes de dezembro. (Incluído pela Lei nº 9.011, de 1995)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm#:~:text=Art.%201%C2%BA%20-%20No%20m%C3%AAs%20de%20dezembro%20de%20cada%20ano%2C%20a%20todo%20empregado%20ser%C3%A1%20paga%2C%20pelo%20empregador%2C%20uma%20gratifica%C3%A7%C3%A3o%20salarial%2C%20independentemente%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - As faltas legais e justificadas ao serviço não serão deduzidas para os fins previstos no § 1º do art. 1º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm#:~:text=Art.%202%C2%BA%20-%20As%20faltas%20legais%20e%20justificadas%20ao%20servi%C3%A7o%20n%C3%A3o%20ser%C3%A3o%20deduzidas%20para%20os%20fins%20previstos%20no%20%C2%A7%201%C2%BA%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - Ocorrendo rescisão, sem justa causa, do contrato de trabalho, o empregado receberá a gratificação devida nos termos dos parágrafos 1º e 2º do art. 1º desta Lei, calculada sobre a remuneração do mês da rescisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm#:~:text=Art.%203%C2%BA%20-%20Ocorrendo%20rescis%C3%A3o%2C%20sem%20justa%20causa%2C%20do%20contrato%20de%20trabalho%2C%20o%20empregado%20receber%C3%A1%20a%20gratifica%C3%A7%C3%A3o%20devida%20nos%20termos%20dos%20par%C3%A1grafos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, 13 de julho de 1962; 141º da Independência e 74º da República.\n\nJOÃO GOULART Francisco Brochado da Rocha Hermes Lima\n\nEste texto não substitui o publicado no DOU de 26.7.1962\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm#:~:text=Art.%204%C2%BA%20-%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": null
+    }
+  }
+}

@@ -677,6 +677,60 @@
     "EOAB:23"
    ],
    "justificativa": "Os arts. 22 a 24 são o regime dos honorários no Estatuto da OAB (espécies, titularidade da sucumbência e força executiva); o art. 21 disciplina a sucumbência nas causas do empregador. O art. 7º, também recuperado, é rol geral de direitos do advogado e não foi julgado relevante."
+  },
+  {
+   "id": "fgts-movimentacao",
+   "grupo": "legislacao",
+   "consulta": "movimentação da conta vinculada despedida sem justa causa",
+   "filtro": {
+    "codigo": "FGTS"
+   },
+   "relevantes": [
+    "FGTS:20",
+    "FGTS:18",
+    "FGTS:20-D"
+   ],
+   "obrigatorios": [
+    "FGTS:20"
+   ],
+   "justificativa": "O art. 20, I, autoriza a movimentação da conta vinculada na despedida sem justa causa; o art. 18 disciplina os depósitos e a indenização rescisória; o art. 20-D regra a modalidade de movimentação do inciso XX. Os arts. 14 (direito adquirido pré-1988) e 5º (competências do Conselho Curador), também recuperados, não foram julgados relevantes."
+  },
+  {
+   "id": "greve-atividades-essenciais",
+   "grupo": "legislacao",
+   "consulta": "atividades essenciais necessidades inadiáveis greve",
+   "filtro": {
+    "codigo": "L7783"
+   },
+   "relevantes": [
+    "L7783:10",
+    "L7783:11",
+    "L7783:13",
+    "L7783:9"
+   ],
+   "obrigatorios": [
+    "L7783:10",
+    "L7783:11"
+   ],
+   "justificativa": "O art. 10 lista os serviços e atividades essenciais; o art. 11 impõe o atendimento das necessidades inadiáveis da comunidade; o art. 13 exige aviso de 72 horas nesses serviços; o art. 9º trata das equipes de manutenção durante a greve."
+  },
+  {
+   "id": "lc150-jornada-domestico",
+   "grupo": "legislacao",
+   "consulta": "jornada de trabalho empregado doméstico",
+   "filtro": {
+    "codigo": "LC150"
+   },
+   "relevantes": [
+    "LC150:2",
+    "LC150:1",
+    "LC150:3",
+    "LC150:12"
+   ],
+   "obrigatorios": [
+    "LC150:2"
+   ],
+   "justificativa": "O art. 2º fixa a duração normal de 8 horas diárias e 44 semanais; o art. 1º delimita quem é empregado doméstico; o art. 3º trata do regime de tempo parcial; o art. 12 obriga o registro de horário. O art. 4º (contrato por prazo determinado), também recuperado, não versa sobre jornada."
   }
  ]
 }

@@ -1,0 +1,271 @@
+{
+  "_meta": {
+    "codigo": "L605",
+    "nome": "Repouso Semanal Remunerado e Feriados (DSR)",
+    "lei": "Lei 605/1949",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm",
+    "total_artigos": 16,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Todo empregado tem direito ao repouso semanal remunerado de vinte e quatro horas consecutivas, preferentemente aos domingos e, nos limites das exigências técnicas das empresas, nos feriados civis e religiosos, de acordo com a tradição local.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%201%C2%BA%20Todo%20empregado%20tem%20direito%20ao%20repouso%20semanal%20remunerado%20de%20vinte%20e%20quatro%20horas%20consecutivas%2C%20preferentemente%20aos%20domingos%20e%2C%20nos%20limites",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Entre os empregados a que se refere esta lei, incluem-se os trabalhos rurais, salvo os que operem em qualquer regime de parceria, meação, ou forma semelhante de participação na produção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%202%C2%BA%20Entre%20os%20empregados%20a%20que%20se%20refere%20esta%20lei%2C%20incluem-se%20os%20trabalhos%20rurais%2C%20salvo%20os%20que%20operem%20em%20qualquer%20regime",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O regime desta lei será extensivo àqueles que, sob forma autônoma, trabalhem agrupados, por intermédio de Sindicato, Caixa Portuária, ou entidade congênere. A remuneração do repouso obrigatório, nesse caso, consistirá no acréscimo de um 1/6 (um sexto) calculado sobre os salários efetivamente percebidos pelo trabalhador e paga juntamente com os mesmos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%203%C2%BA%20O%20regime%20desta%20lei%20ser%C3%A1%20extensivo%20%C3%A0queles%20que%2C%20sob%20forma%20aut%C3%B4noma%2C%20trabalhem%20agrupados%2C%20por%20interm%C3%A9dio%20de%20Sindicato%2C%20Caixa%20Portu%C3%A1ria%2C%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º É devido o repouso semanal remunerado, nos termos desta lei, aos trabalhadores das autarquias e de empresas industriais, ou sob administração da União, dos Estados e dos Municípios ou incorporadas nos seus patrimônios, que não estejam subordinados ao regime do funcionalismo público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%204%C2%BA%20%C3%89%20devido%20o%20repouso%20semanal%20remunerado%2C%20nos%20termos%20desta%20lei%2C%20aos%20trabalhadores%20das%20autarquias%20e%20de%20empresas%20industriais%2C%20ou%20sob",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Esta lei não se aplica às seguintes pessoas:\n\na) aos empregados domésticos, assim considerados, de modo geral, os que prestem serviço de natureza não econômica e pessoa ou a família no âmbito residencial destas; (Revogada pela Lei nº 11.324, de 2006)\n\nb) aos funcionários públicos da União, dos Estados e dos Municípios e aos respectivos extranumerários em serviço nas próprias repartições;\n\nc) aos servidores de autarquias paraestatais, desde que sujeitos a regime próprio de proteção ao trabalho que lhes assegure situação análoga à dos funcionários públicos.\n\nParágrafo único. São exigências técnicas, para os efeitos desta lei, as que, pelas condições peculiares às atividades da empresa, ou em razão do interesse público, tornem indispensável a continuidade do serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%205%C2%BA%20Esta%20lei%20n%C3%A3o%20se%20aplica%20%C3%A0s%20seguintes%20pessoas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Não será devida a remuneração quando, sem motivo justificado, o empregado não tiver trabalhado durante toda a semana anterior, cumprindo integralmente o seu horário de trabalho.\n\n§ 1º São motivos justificados:\n\na) os previstos no artigo 473 e seu parágrafo único da Consolidação das Leis do Trabalho;\n\nb) a ausência do empregado devidamente justificada, a critério da administração do estabelecimento;\n\nc) a paralisação do serviço nos dias em que, por conveniência do empregador, não tenha havido trabalho;\n\nd) a ausência do empregado, até três dias consecutivos, em virtude do seu casamento;\n\ne) a falta ao serviço com fundamento na lei sobre acidente do trabalho;\n\nf) a doença do empregado, devidamente comprovada.\n\n§ 2º A doença será comprovada, mediante atestado de médico da emprêsa, ou por ela designado e pago, e na falta dêste, de médico da instituição de previdência social a que esteja filiado o empregado, de médico do Serviço Social da Indústria ou do Serviço Social do Comércio, de médico a serviço de repartição federal, estadual ou municipal incumbida de assuntos de higiene e saúde, ou, não existindo êstes na localidade em que trabalhar o empregado, de médico de sua escolha.\n\n§ 2º A doença será comprovada mediante atestado de médico da instituição da previdência social a que estiver filiado o empregado, e, na falta dêste e sucessivamente, de médico do Serviço Social do Comércio ou da Indústria; de médico da emprêsa ou por ela designado; de médico a serviço de representação federal, estadual ou municipal incumbido de assuntos de higiene ou de saúde pública; ou não existindo êstes, na localidade em que trabalhar, de médico de sua escôlha. (Redação dada pela Lei nº 2.761, de 26.4.56)\n\n§ 3º Nas empresas em que vigorar regime de trabalho reduzido, a freqüência exigida corresponderá ao número de dias em que o empregado tiver de trabalhar.\n\n§ 4º Durante período de emergência em saúde pública decorrente da Covid-19, a imposição de isolamento dispensará o empregado da comprovação de doença por 7 (sete) dias. (Incluído pela Lei nº 14.128, de 2021)\n\n§ 5º No caso de imposição de isolamento em razão da Covid-19, o trabalhador poderá apresentar como justificativa válida, no oitavo dia de afastamento, além do disposto neste artigo, documento de unidade de saúde do Sistema Único de Saúde (SUS) ou documento eletrônico regulamentado pelo Ministério da Saúde. (Incluído pela Lei nº 14.128, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%206%C2%BA%20N%C3%A3o%20ser%C3%A1%20devida%20a%20remunera%C3%A7%C3%A3o%20quando%2C%20sem%20motivo%20justificado%2C%20o%20empregado%20n%C3%A3o%20tiver%20trabalhado%20durante%20toda%20a%20semana%20anterior%2C%20cumprindo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A remuneração do repouso semanal corresponderá:\n\na) para os que trabalham por dia, semana, quinzena ou mês, à de um dia de serviço, não computadas as horas suplementares;\n\na) para os que trabalham por dia, semana, quinzena ou mês, à de um dia de serviço, computadas as horas extraordinárias habitualmente prestadas; (Redação dada pela Lei nº 7.415, de 09.12.85)\n\nb) para os que trabalham por hora, à de sua jornada normal de trabalho, excluídas as horas complementares;\n\nb) para os que trabalham por hora, à sua jornada norma de trabalho, computadas as horas extraordinárias habitualmente prestadas; (Redação dada pela Lei nº 7.415, de 09.12.85)\n\nc) para os que trabalham por tarefa ou peça, o equivalente ao salário correspondente às tarefas ou peças feitas durante a semana, no horário normal de trabalho, dividido pelos dias de serviço efetivamente prestados ao empregador;\n\nd) para o empregado em domicílio, o equivalente ao quociente da divisão por 6 (seis) da importância total da sua produção na semana.\n\n§ 1º Os empregados cujos salários não sofram descontos por motivo de feriados civis ou religiosos são considerados já remunerados nesses mesmos dias de repouso, conquanto tenham direito à remuneração dominical.\n\n§ 2º Consideram-se já remunerados os dias de repouso semanal do empregado mensalista ou quinzenalista cujo cálculo de salário mensal ou quinzenal, ou cujos descontos por falta sejam efetuados na base do número de dias do mês ou de 30 (trinta) e 15 (quinze) diárias, respectivamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%207%C2%BA%20A%20remunera%C3%A7%C3%A3o%20do%20repouso%20semanal%20corresponder%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Excetuados os casos em que a execução do serviço for imposta pelas exigências técnicas das empresas, é vedado o trabalho em dias feriados, civis e religiosos, garantida, entretanto, aos empregados a remuneração respectiva, observados os dispositivos dos artigos 6º e 7º desta lei. (Revogado pela Medida Provisória nº 905, de 2019) (Revogada pela Medida Provisória nº 955, de 2020) Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%208%C2%BA%20Excetuados%20os%20casos%20em%20que%20a%20execu%C3%A7%C3%A3o%20do%20servi%C3%A7o%20for%20imposta%20pelas%20exig%C3%AAncias%20t%C3%A9cnicas%20das%20empresas%2C%20%C3%A9%20vedado%20o%20trabalho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Nas atividades em que não for possível, em virtude das exigências técnicas das empresas, a suspensão do trabalho, nos dias feriados civis e religiosos, a remuneração será paga em dobro, salvo se o empregador determinar outro dia de folga. (Revogado pela Medida Provisória nº 905, de 2019) (Revogada pela Medida Provisória nº 955, de 2020) Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%209%C2%BA%20Nas%20atividades%20em%20que%20n%C3%A3o%20for%20poss%C3%ADvel%2C%20em%20virtude%20das%20exig%C3%AAncias%20t%C3%A9cnicas%20das%20empresas%2C%20a%20suspens%C3%A3o%20do%20trabalho%2C%20nos%20dias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Na verificação das exigências técnicas a que se referem os artigos anteriores, ter-se-ão em vista as de ordem econômica, permanentes ou ocasionais, bem como as peculiaridades locais. (Revogado pela Medida Provisória nº 905, de 2019) (Revogada pela Medida Provisória nº 955, de 2020) Vigência encerrada\n\nParágrafo único. O Poder Executivo, em decreto especial ou no regulamento que expedir par fiel execução desta lei, definirá as mesmas exigências e especificará, tanto quanto possível, as empresas a elas sujeitas, ficando desde já incluídas entre elas as de serviços públicos e de transportes. (Revogado pela Medida Provisória nº 905, de 2019) (Revogada pela Medida Provisória nº 955, de 2020) Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2010.%20Na%20verifica%C3%A7%C3%A3o%20das%20exig%C3%AAncias%20t%C3%A9cnicas%20a%20que%20se%20referem%20os%20artigos%20anteriores%2C%20ter-se-%C3%A3o%20em%20vista%20as%20de%20ordem%20econ%C3%B4mica%2C%20permanentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. São feriados civis os declarados em lei federal. São feriados religiosos os dias de guarda, declarados em lei municipal, de acôrdo, com a tradição local e em número não superior a sete.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2011.%20S%C3%A3o%20feriados%20civis%20os%20declarados%20em%20lei%20federal.%20S%C3%A3o%20feriados%20religiosos%20os%20dias%20de%20guarda%2C%20declarados%20em%20lei%20municipal%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Salvo no que entende com as instituições públicas referidas no artigo 4º, as infrações ao disposto nesta lei serão punidas, segundo o caráter e a gravidade, com a multa de cem a cinco mil cruzeiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2012.%20Salvo%20no%20que%20entende%20com%20as%20institui%C3%A7%C3%B5es%20p%C3%BAblicas%20referidas%20no%20artigo%204%C2%BA%2C%20as%20infra%C3%A7%C3%B5es%20ao%20disposto%20nesta%20lei%20ser%C3%A3o%20punidas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Serão originariamente competentes, para a imposição das multas de que trata a presente lei, os delegados regionais do Ministério do Trabalho e, nos Estados, onde houver delegação de atribuições, a autoridade delegada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2013.%20Ser%C3%A3o%20originariamente%20competentes%2C%20para%20a%20imposi%C3%A7%C3%A3o%20das%20multas%20de%20que%20trata%20a%20presente%20lei%2C%20os%20delegados%20regionais%20do%20Minist%C3%A9rio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A fiscalização da execução da presente lei, o processo de autuação dos seus infratores, os recursos e a cobrança das multas reger-se-ão pelo disposto no Título VII da Consolidação das Leis do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2014.%20A%20fiscaliza%C3%A7%C3%A3o%20da%20execu%C3%A7%C3%A3o%20da%20presente%20lei%2C%20o%20processo%20de%20autua%C3%A7%C3%A3o%20dos%20seus%20infratores%2C%20os%20recursos%20e%20a%20cobran%C3%A7a%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A presente lei entrará em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2015.%20A%20presente%20lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Revogam-se as disposições em contrário.\n\nRio de Janeiro, 5 de janeiro de 1949; 128º da Independência e 61º da República.\n\nEURICO GASPAR DUTRA\n\nAdroaldo Mesquita da Costa\n\nSylvio de Noronha\n\nCanrobert P. da Costa\n\nRaul Fernandes\n\nCorrêa e Castro\n\nClóvis Pestana\n\nDaniel de Carvalho\n\nClemente Mariani\n\nHonório Monteiro\n\nArmando Trompowsky\n\nEste texto não substitui o publicado no DOU de 14.1.1949\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm#:~:text=Art.%2016.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": null
+    }
+  }
+}

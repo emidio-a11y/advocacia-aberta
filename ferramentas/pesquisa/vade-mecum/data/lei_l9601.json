@@ -1,0 +1,175 @@
+{
+  "_meta": {
+    "codigo": "L9601",
+    "nome": "Contrato por Prazo Determinado (via ACT/CCT)",
+    "lei": "Lei 9.601/1998",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm",
+    "total_artigos": 10,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º As convenções e os acordos coletivos de trabalho poderão instituir contrato de trabalho por prazo determinado, de que trata o art. 443 da Consolidação das Leis do Trabalho - CLT, independentemente das condições estabelecidas em seu § 2º, em qualquer atividade desenvolvida pela empresa ou estabelecimento, para admissões que representem acréscimo no número de empregados.\n\n§ 1º As partes estabelecerão, na convenção ou acordo coletivo referido neste artigo:\n\nI - a indenização para as hipóteses de rescisão antecipada do contrato de que trata este artigo, por iniciativa do empregador ou do empregado, não se aplicando o disposto nos arts. 479 e 480 da CLT;\n\nII - as multas pelo descumprimento de suas cláusulas.\n\n§ 2º Não se aplica ao contrato de trabalho previsto neste artigo o disposto no art. 451 da CLT.\n\n§ 3º (VETADO)\n\n§ 4º São garantidas as estabilidades provisórias da gestante; do dirigente sindical, ainda que suplente; do empregado eleito para cargo de direção de comissões internas de prevenção de acidentes; do empregado acidentado, nos termos do art 118 da Lei nº 8.213, de 24 de julho de 1991, durante a vigência do contrato por prazo determinado, que não poderá ser rescindido antes do prazo estipulado pelas partes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%201%C2%BA%20As%20conven%C3%A7%C3%B5es%20e%20os%20acordos%20coletivos%20de%20trabalho%20poder%C3%A3o%20instituir%20contrato%20de%20trabalho%20por%20prazo%20determinado%2C%20de%20que%20trata%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Para os contratos previstos no artigo anterior, são reduzidas, por dezoito meses, a contar da data de publicação desta Lei",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%202%C2%BA%20Para%20os%20contratos%20previstos%20no%20artigo%20anterior%2C%20s%C3%A3o%20reduzidas%2C%20por%20dezoito%20meses%2C%20a%20contar%20da%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O número de empregados contratados nos termos do art. 1º desta Lei observará o limite estabelecido no instrumento decorrente da negociação coletiva, não podendo ultrapassar os seguintes percentuais, que serão aplicados cumulativamente:\n\nI - cinqüenta por cento do número de trabalhadores, para a parcela inferior a cinqüenta empregados;\n\nII - trinta e cinco por cento do número de trabalhadores, para a parcela entre cinqüenta e cento e noventa e nove empregados; e\n\nIII - vinte por cento do número de trabalhadores, para a parcela acima de duzentos empregados.\n\nParágrafo único. As parcelas referidas nos incisos deste artigo serão calculadas sobre a média aritmética mensal do número de empregados contratados por prazo indeterminado do estabelecimento, nos seis meses imediatamente anteriores ao da data de publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%203%C2%BA%20O%20n%C3%BAmero%20de%20empregados%20contratados%20nos%20termos%20do%20art.%201%C2%BA%20desta%20Lei%20observar%C3%A1%20o%20limite%20estabelecido%20no%20instrumento%20decorrente%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º As reduções previstas no art. 2º serão asseguradas desde que, no momento da contratação:\n\nI - o empregador esteja adimplente junto ao Instituto Nacional do Seguro Social - INSS e ao Fundo de Garantia do Tempo de Serviço - FGTS;\n\nII - o contrato de trabalho por prazo determinado e a relação mencionada no § 3º deste artigo tenham sido depositados no Ministério do Trabalho.\n\n§ 1º As reduções referidas neste artigo subsistirão enquanto:\n\nI - o quadro de empregados e a respectiva folha salarial, da empresa ou estabelecimento, forem superiores às respectivas médias mensais dos seis meses imediatamente anteriores ao da data de publicação desta Lei; e\n\nII - o número de empregados contratados por prazo indeterminado for, no mínino, igual à média referida no parágrafo único do art. 3º.\n\n§ 2º O Ministério do Trabalho tomará disponíveis ao INSS e ao Agente Operador do FGTS as informações constantes da convenção ou acordo coletivo de que trata o art. 1º e do contrato de trabalho depositado, necessárias ao controle do recolhimento das contribuições mencionadas, respectivamente, nos incisos I e II do art. 2º desta Lei.\n\n§ 3º O empregador deverá afixar, no quadro de avisos da empresa, cópias do instrumento normativo mencionado no art. 1º e da relação dos contratados, que conterá, dentre outras informações, o nome do empregado, número da Carteira de Trabalho e Previdência Social, o número de inscrição do trabalhador no Programa de Integração Social - PIS e as datas de início e de término do contrato por prazo determinado.\n\n§ 4º O Ministro do Trabalho disporá sobre as variáveis a serem consideradas e a metodologia de cálculo das médias aritméticas mensais de que trata o § 1º deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%204%C2%BA%20As%20redu%C3%A7%C3%B5es%20previstas%20no%20art.%202%C2%BA%20ser%C3%A3o%20asseguradas%20desde%20que%2C%20no%20momento%20da%20contrata%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As empresas que, a partir da data de publicação desta Lei, aumentarem seu quadro de pessoal em relação à média mensal do número de empregos no período de referência mencionado no artigo anterior terão preferência na obtenção de recursos no âmbito dos programas executados pelos estabelecimentos federais de crédito, especialmente junto ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%205%C2%BA%20As%20empresas%20que%2C%20a%20partir%20da%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20aumentarem%20seu%20quadro%20de%20pessoal%20em%20rela%C3%A7%C3%A3o%20%C3%A0%20m%C3%A9dia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O art. 59 da Consolidação das Leis do Trabalho - CLT passa a vigorar com a seguinte redação:\n\n\"Art. 59. ...........................................................................................\n\n........................................................................................................\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de cento e vinte dias, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o Iimite máximo de dez horas diárias.\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma do parágrafo anterior, fará o trabalhador jus ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%206%C2%BA%20O%20art.%2059%20da%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O descumprimento, pelo empregador, do disposto nos arts. 3º e 4º desta Lei sujeita-o a multa de quinhentas Unidades Fiscais de Referência - UFIR, por trabalhador contratado nos moldes do art. 1º, que se constituirá receita adicional do Fundo de Amparo ao Trabalhador - FAT, de que trata a Lei nº 7.998, de 11 de janeiro de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%207%C2%BA%20O%20descumprimento%2C%20pelo%20empregador%2C%20do%20disposto%20nos%20arts.%203%C2%BA%20e%204%C2%BA%20desta%20Lei%20sujeita-o%20a%20multa%20de%20quinhentas%20Unidades%20Fiscais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O Poder Executivo regulamentará esta Lei no prazo de trinta dias, contado a partir da data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%208%C2%BA%20O%20Poder%20Executivo%20regulamentar%C3%A1%20esta%20Lei%20no%20prazo%20de%20trinta%20dias%2C%20contado%20a%20partir%20da%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%209%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Revogam-se as disposições em contrário.\n\nBrasília, 21 de janeiro de 1998; 177º da Independência e 110º da República.\n\nFERNANDO HENRIQUE CARDOSO Paulo Paiva\n\nEste texto não substitui o publicado no DOU de 22.1.1998\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9601.htm#:~:text=Art.%2010.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": null
+    }
+  }
+}

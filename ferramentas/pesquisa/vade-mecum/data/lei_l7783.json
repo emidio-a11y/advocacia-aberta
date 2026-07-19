@@ -1,0 +1,319 @@
+{
+  "_meta": {
+    "codigo": "L7783",
+    "nome": "Direito de Greve",
+    "lei": "Lei 7.783/1989",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm",
+    "total_artigos": 19,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.\n\nParágrafo único. O direito de greve será exercido na forma estabelecida nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%201%C2%BA%20%C3%89%20assegurado%20o%20direito%20de%20greve%2C%20competindo%20aos%20trabalhadores%20decidir%20sobre%20a%20oportunidade%20de%20exerc%C3%AA-lo%20e%20sobre%20os%20interesses%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Para os fins desta Lei, considera-se legítimo exercício do direito de greve a suspensão coletiva, temporária e pacífica, total ou parcial, de prestação pessoal de serviços a empregador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%202%C2%BA%20Para%20os%20fins%20desta%20Lei%2C%20considera-se%20leg%C3%ADtimo%20exerc%C3%ADcio%20do%20direito%20de%20greve%20a%20suspens%C3%A3o%20coletiva%2C%20tempor%C3%A1ria%20e%20pac%C3%ADfica%2C%20total%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Frustrada a negociação ou verificada a impossibilidade de recursos via arbitral, é facultada a cessação coletiva do trabalho.\n\nParágrafo único. A entidade patronal correspondente ou os empregadores diretamente interessados serão notificados, com antecedência mínima de 48 (quarenta e oito) horas, da paralisação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%203%C2%BA%20Frustrada%20a%20negocia%C3%A7%C3%A3o%20ou%20verificada%20a%20impossibilidade%20de%20recursos%20via%20arbitral%2C%20%C3%A9%20facultada%20a%20cessa%C3%A7%C3%A3o%20coletiva%20do%20trabalho.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Caberá à entidade sindical correspondente convocar, na forma do seu estatuto, assembléia geral que definirá as reivindicações da categoria e deliberará sobre a paralisação coletiva da prestação de serviços.\n\n§ 1º O estatuto da entidade sindical deverá prever as formalidades de convocação e o quorum para a deliberação, tanto da deflagração quanto da cessação da greve.\n\n§ 2º Na falta de entidade sindical, a assembléia geral dos trabalhadores interessados deliberará para os fins previstos no \"caput\", constituindo comissão de negociação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%204%C2%BA%20Caber%C3%A1%20%C3%A0%20entidade%20sindical%20correspondente%20convocar%2C%20na%20forma%20do%20seu%20estatuto%2C%20assembl%C3%A9ia%20geral%20que%20definir%C3%A1%20as%20reivindica%C3%A7%C3%B5es%20da%20categoria%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A entidade sindical ou comissão especialmente eleita representará os interesses dos trabalhadores nas negociações ou na Justiça do Trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%205%C2%BA%20A%20entidade%20sindical%20ou%20comiss%C3%A3o%20especialmente%20eleita%20representar%C3%A1%20os%20interesses%20dos%20trabalhadores%20nas%20negocia%C3%A7%C3%B5es%20ou%20na%20Justi%C3%A7a%20do%20Trabalho.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º São assegurados aos grevistas, dentre outros direitos:\n\nI - o emprego de meios pacíficos tendentes a persuadir ou aliciar os trabalhadores a aderirem à greve;\n\nII - a arrecadação de fundos e a livre divulgação do movimento.\n\n§ 1º Em nenhuma hipótese, os meios adotados por empregados e empregadores poderão violar ou constranger os direitos e garantias fundamentais de outrem.\n\n§ 2º É vedado às empresas adotar meios para constranger o empregado ao comparecimento ao trabalho, bem como capazes de frustrar a divulgação do movimento.\n\n§ 3º As manifestações e atos de persuasão utilizados pelos grevistas não poderão impedir o acesso ao trabalho nem causar ameaça ou dano à propriedade ou pessoa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%206%C2%BA%20S%C3%A3o%20assegurados%20aos%20grevistas%2C%20dentre%20outros%20direitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Observadas as condições previstas nesta Lei, a participação em greve suspende o contrato de trabalho, devendo as relações obrigacionais, durante o período, ser regidas pelo acordo, convenção, laudo arbitral ou decisão da Justiça do Trabalho.\n\nParágrafo único. É vedada a rescisão de contrato de trabalho durante a greve, bem como a contratação de trabalhadores substitutos, exceto na ocorrência das hipóteses previstas nos arts. 9º e 14.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%207%C2%BA%20Observadas%20as%20condi%C3%A7%C3%B5es%20previstas%20nesta%20Lei%2C%20a%20participa%C3%A7%C3%A3o%20em%20greve%20suspende%20o%20contrato%20de%20trabalho%2C%20devendo%20as%20rela%C3%A7%C3%B5es%20obrigacionais%2C%20durante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A Justiça do Trabalho, por iniciativa de qualquer das partes ou do Ministério Público do Trabalho, decidirá sobre a procedência, total ou parcial, ou improcedência das reivindicações, cumprindo ao Tribunal publicar, de imediato, o competente acórdão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%208%C2%BA%20A%20Justi%C3%A7a%20do%20Trabalho%2C%20por%20iniciativa%20de%20qualquer%20das%20partes%20ou%20do%20Minist%C3%A9rio%20P%C3%BAblico%20do%20Trabalho%2C%20decidir%C3%A1%20sobre%20a%20proced%C3%AAncia%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Durante a greve, o sindicato ou a comissão de negociação, mediante acordo com a entidade patronal ou diretamente com o empregador, manterá em atividade equipes de empregados com o propósito de assegurar os serviços cuja paralisação resultem em prejuízo irreparável, pela deterioração irreversível de bens, máquinas e equipamentos, bem como a manutenção daqueles essenciais à retomada das atividades da empresa quando da cessação do movimento.\n\nParágrafo único. Não havendo acordo, é assegurado ao empregador, enquanto perdurar a greve, o direito de contratar diretamente os serviços necessários a que se refere este artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%209%C2%BA%20Durante%20a%20greve%2C%20o%20sindicato%20ou%20a%20comiss%C3%A3o%20de%20negocia%C3%A7%C3%A3o%2C%20mediante%20acordo%20com%20a%20entidade%20patronal%20ou%20diretamente%20com%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 São considerados serviços ou atividades essenciais:\n\nI - tratamento e abastecimento de água; produção e distribuição de energia elétrica, gás e combustíveis;\n\nII - assistência médica e hospitalar;\n\nIII - distribuição e comercialização de medicamentos e alimentos;\n\nIV - funerários;\n\nV - transporte coletivo;\n\nVI - captação e tratamento de esgoto e lixo;\n\nVII - telecomunicações;\n\nVIII - guarda, uso e controle de substâncias radioativas, equipamentos e materiais nucleares;\n\nIX - processamento de dados ligados a serviços essenciais;\n\nX - controle de tráfego aéreo;\n\nX - controle de tráfego aéreo e navegação aérea; e (Redação dada pela Medida Provisória nº 866, de 2018) (Revogada pela Medida Provisória nº 883, de 2019) (Vigência Encerrada)\n\nX - controle de tráfego aéreo;\n\nX - controle de tráfego aéreo e navegação aérea; e (Redação dada pela Medida Provisória nº 866, de 2018)\n\nX - controle de tráfego aéreo e navegação aérea; (Redação dada pela Lei nº 13.903, de 2019)\n\nXI compensação bancária.\n\nXII - atividades médico-periciais relacionadas com o regime geral de previdência social e a assistência social; (Incluído pela Lei nº 13.846, de 2019)\n\nXIII - atividades médico-periciais relacionadas com a caracterização do impedimento físico, mental, intelectual ou sensorial da pessoa com deficiência, por meio da integração de equipes multiprofissionais e interdisciplinares, para fins de reconhecimento de direitos previstos em lei, em especial na Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência); e (Incluído pela Lei nº 13.846, de 2019)\n\nXIV - outras prestações médico-periciais da carreira de Perito Médico Federal indispensáveis ao atendimento das necessidades inadiáveis da comunidade. (Incluído pela Lei nº 13.846, de 2019)\n\nXV - atividades portuárias. (Incluído pela Medida Provisória nº 945, de 2020).\n\nXV - atividades portuárias. (Incluído pela Lei nº 14.047, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2010%20S%C3%A3o%20considerados%20servi%C3%A7os%20ou%20atividades%20essenciais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Nos serviços ou atividades essenciais, os sindicatos, os empregadores e os trabalhadores ficam obrigados, de comum acordo, a garantir, durante a greve, a prestação dos serviços indispensáveis ao atendimento das necessidades inadiáveis da comunidade.\n\nParágrafo único. São necessidades inadiáveis, da comunidade aquelas que, não atendidas, coloquem em perigo iminente a sobrevivência, a saúde ou a segurança da população.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2011.%20Nos%20servi%C3%A7os%20ou%20atividades%20essenciais%2C%20os%20sindicatos%2C%20os%20empregadores%20e%20os%20trabalhadores%20ficam%20obrigados%2C%20de%20comum%20acordo%2C%20a%20garantir%2C%20durante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. No caso de inobservância do disposto no artigo anterior, o Poder Público assegurará a prestação dos serviços indispensáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2012.%20No%20caso%20de%20inobserv%C3%A2ncia%20do%20disposto%20no%20artigo%20anterior%2C%20o%20Poder%20P%C3%BAblico%20assegurar%C3%A1%20a%20presta%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20indispens%C3%A1veis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 Na greve, em serviços ou atividades essenciais, ficam as entidades sindicais ou os trabalhadores, conforme o caso, obrigados a comunicar a decisão aos empregadores e aos usuários com antecedência mínima de 72 (setenta e duas) horas da paralisação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2013%20Na%20greve%2C%20em%20servi%C3%A7os%20ou%20atividades%20essenciais%2C%20ficam%20as%20entidades%20sindicais%20ou%20os%20trabalhadores%2C%20conforme%20o%20caso%2C%20obrigados%20a%20comunicar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14 Constitui abuso do direito de greve a inobservância das normas contidas na presente Lei, bem como a manutenção da paralisação após a celebração de acordo, convenção ou decisão da Justiça do Trabalho.\n\nParágrafo único. Na vigência de acordo, convenção ou sentença normativa não constitui abuso do exercício do direito de greve a paralisação que:\n\nI - tenha por objetivo exigir o cumprimento de cláusula ou condição;\n\nII - seja motivada pela superveniência de fatos novo ou acontecimento imprevisto que modifique substancialmente a relação de trabalho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2014%20Constitui%20abuso%20do%20direito%20de%20greve%20a%20inobserv%C3%A2ncia%20das%20normas%20contidas%20na%20presente%20Lei%2C%20bem%20como%20a%20manuten%C3%A7%C3%A3o%20da%20paralisa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15 A responsabilidade pelos atos praticados, ilícitos ou crimes cometidos, no curso da greve, será apurada, conforme o caso, segundo a legislação trabalhista, civil ou penal.\n\nParágrafo único. Deverá o Ministério Público, de ofício, requisitar a abertura do competente inquérito e oferecer denúncia quando houver indício da prática de delito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2015%20A%20responsabilidade%20pelos%20atos%20praticados%2C%20il%C3%ADcitos%20ou%20crimes%20cometidos%2C%20no%20curso%20da%20greve%2C%20ser%C3%A1%20apurada%2C%20conforme%20o%20caso%2C%20segundo%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Para os fins previstos no art. 37, inciso VII, da Constituição, lei complementar definirá os termos e os limites em que o direito de greve poderá ser exercido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2016.%20Para%20os%20fins%20previstos%20no%20art.%2037%2C%20inciso%20VII%2C%20da%20Constitui%C3%A7%C3%A3o%2C%20lei%20complementar%20definir%C3%A1%20os%20termos%20e%20os%20limites%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Fica vedada a paralisação das atividades, por iniciativa do empregador, com o objetivo de frustrar negociação ou dificultar o atendimento de reivindicações dos respectivos empregados (lockout).\n\nParágrafo único. A prática referida no caput assegura aos trabalhadores o direito à percepção dos salários durante o período de paralisação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2017.%20Fica%20vedada%20a%20paralisa%C3%A7%C3%A3o%20das%20atividades%2C%20por%20iniciativa%20do%20empregador%2C%20com%20o%20objetivo%20de%20frustrar%20negocia%C3%A7%C3%A3o%20ou%20dificultar%20o%20atendimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Ficam revogados a Lei nº 4.330, de 1º de junho de 1964, o Decreto-Lei nº 1.632, de 4 de agosto de 1978, e demais disposições em contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2018.%20Ficam%20revogados%20a%20Lei%20n%C2%BA%204.330%2C%20de%201%C2%BA%20de%20junho%20de%201964%2C%20o%20Decreto-Lei%20n%C2%BA%201.632%2C%20de%204%20de%20agosto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19 Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 28 de junho de 1989; 168º da Independência e 101º da República.\n\nJOSÉ SARNEY Oscar Dias Corrêa Dorothea Werneck\n\nEste texto não substitui o publicado no DOU de 29.6.1989\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm#:~:text=Art.%2019%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": null
+    }
+  }
+}

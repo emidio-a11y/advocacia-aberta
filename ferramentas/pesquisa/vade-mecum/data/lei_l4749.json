@@ -1,0 +1,143 @@
+{
+  "_meta": {
+    "codigo": "L4749",
+    "nome": "Pagamento do 13º salário (prazos e forma)",
+    "lei": "Lei 4.749/1965",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm",
+    "total_artigos": 8,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - A gratificação salarial instituída pela Lei número 4.090, de 13 de julho de 1962, será paga pelo empregador até o dia 20 de dezembro de cada ano, compensada a importância que, a título de adiantamento, o empregado houver recebido na forma do artigo seguinte.\n\nParágrafo único. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%201%C2%BA%20-%20A%20gratifica%C3%A7%C3%A3o%20salarial%20institu%C3%ADda%20pela%20Lei%20n%C3%BAmero%204.090%2C%20de%2013%20de%20julho%20de%201962%2C%20ser%C3%A1%20paga%20pelo%20empregador%20at%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - Entre os meses de fevereiro e novembro de cada ano, o empregador pagará, como adiantamento da gratificação referida no artigo precedente, de uma só vez, metade do salário recebido pelo respectivo empregado no mês anterior.\n\n§ 1º - O empregador não estará obrigado a pagar o adiantamento, no mesmo mês, a todos os seus empregados.\n\n§ 2º - O adiantamento será pago ao ensejo das férias do empregado, sempre que este o requerer no mês de janeiro do correspondente ano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%202%C2%BA%20-%20Entre%20os%20meses%20de%20fevereiro%20e%20novembro%20de%20cada%20ano%2C%20o%20empregador%20pagar%C3%A1%2C%20como%20adiantamento%20da%20gratifica%C3%A7%C3%A3o%20referida%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - Ocorrendo a extinção do contrato de trabalho antes do pagamento de que trata o Art. 1º desta Lei, o empregador poderá compensar o adiantamento mencionado com a gratificação devida nos termos do Art. 3º da Lei número 4.090, de 13 de julho de 1962, e, se não bastar, com outro crédito de natureza trabalhista que possua o respectivo empregado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%203%C2%BA%20-%20Ocorrendo%20a%20extin%C3%A7%C3%A3o%20do%20contrato%20de%20trabalho%20antes%20do%20pagamento%20de%20que%20trata%20o%20Art.%201%C2%BA%20desta%20Lei%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - As contribuições devidas ao Instituto Nacional de Previdência Social, que incidem sobre a gratificação salarial referida nesta Lei, ficam sujeitas ao limite estabelecido na legislação da Previdência Social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%204%C2%BA%20-%20As%20contribui%C3%A7%C3%B5es%20devidas%20ao%20Instituto%20Nacional%20de%20Previd%C3%AAncia%20Social%2C%20que%20incidem%20sobre%20a%20gratifica%C3%A7%C3%A3o%20salarial%20referida%20nesta%20Lei%2C%20ficam",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5 - Aplica-se, no corrente ano, a regra estatuída no Art. 2º desta Lei, podendo o empregado usar da faculdade estatuída no seu § 2º no curso dos primeiros 30 (trinta) dias de vigência desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%205%20-%20Aplica-se%2C%20no%20corrente%20ano%2C%20a%20regra%20estatu%C3%ADda%20no%20Art.%202%C2%BA%20desta%20Lei%2C%20podendo%20o%20empregado%20usar%20da%20faculdade%20estatu%C3%ADda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - O Poder Executivo, no prazo de 30 (trinta) dias, adaptará o Regulamento aprovado pelo Decreto número 1.881, de 14 de dezembro de 1962, aos preceitos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%206%C2%BA%20-%20O%20Poder%20Executivo%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C%20adaptar%C3%A1%20o%20Regulamento%20aprovado%20pelo%20Decreto%20n%C3%BAmero%201.881%2C%20de%2014",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%207%C2%BA%20-%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - Revogam-se as disposições em contrário.\n\nBrasília, 12 de agosto de 1965; 144º da Independência e 77º da República.\n\nH. CASTELLO BRANCO Arnaldo Sussekind\n\nEste texto não substitui o publicado no DOU de 13.8.1965\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm#:~:text=Art.%208%C2%BA%20-%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": null
+    }
+  }
+}

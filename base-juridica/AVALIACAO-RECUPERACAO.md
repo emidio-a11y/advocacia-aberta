@@ -8,9 +8,9 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 37 consultas, avaliadas em 17 de julho de 2026 e ampliadas em 19 de julho de
-2026 com dez casos do piloto de expansão (8 diplomas) e três casos da fatia de
-estatutos (17 diplomas):
+contém 40 consultas, avaliadas em 17 de julho de 2026 e ampliadas em 19 de julho de
+2026 com dez casos do piloto de expansão (8 diplomas), três casos da fatia de
+estatutos (17 diplomas) e três casos da fatia trabalhista (27 diplomas):
 
 | Família | Consultas |
 |---|---:|
@@ -19,7 +19,7 @@ estatutos (17 diplomas):
 | Súmulas vinculantes | 3 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
-| Legislação | 20 |
+| Legislação | 23 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
 e resultados canônicos obrigatórios. Os julgamentos foram feitos sobre o conteúdo do
@@ -49,17 +49,17 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8395 | 0,9855 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,8352 | 0,9866 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Legislação | 0,9111 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Legislação | 0,8942 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 
 Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
-snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatia de
-17 estatutos). O caso
+snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatias de
+17 estatutos e 27 leis trabalhistas). O caso
 `jt-trafico-dosimetria` teve os julgamentos revisados com justificativa registrada
 no corpus: a atualização oficial da edição 45 reescreveu a tese 4, que deixou de
 versar diretamente sobre aplicação da pena. Os dez casos dos diplomas novos foram

@@ -163,9 +163,117 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_et.json",
     rotulo: "Estatuto da Terra (Lei 4.504/1964)",
   },
+  FGTS: {
+    arquivo: "../../data/lei_fgts.json",
+    rotulo: "FGTS (Lei 8.036/1990)",
+  },
+  L10101: {
+    arquivo: "../../data/lei_l10101.json",
+    rotulo: "Participação nos Lucros ou Resultados (PLR) (Lei 10.101/2000)",
+  },
+  L11770: {
+    arquivo: "../../data/lei_l11770.json",
+    rotulo: "Programa Empresa Cidadã (licenças) (Lei 11.770/2008)",
+  },
+  L11788: {
+    arquivo: "../../data/lei_l11788.json",
+    rotulo: "Lei do Estágio (Lei 11.788/2008)",
+  },
+  L12506: {
+    arquivo: "../../data/lei_l12506.json",
+    rotulo: "Aviso Prévio Proporcional (Lei 12.506/2011)",
+  },
+  L12815: {
+    arquivo: "../../data/lei_l12815.json",
+    rotulo: "Setor Portuário – Relações de Trabalho (Lei 12.815/2013)",
+  },
+  L13103: {
+    arquivo: "../../data/lei_l13103.json",
+    rotulo: "Motorista Profissional (Lei 13.103/2015)",
+  },
+  L14442: {
+    arquivo: "../../data/lei_l14442.json",
+    rotulo: "Auxílio‑Alimentação (regras e vedações) (Lei 14.442/2022)",
+  },
+  L14611: {
+    arquivo: "../../data/lei_l14611.json",
+    rotulo: "Igualdade Salarial por Gênero (Lei 14.611/2023)",
+  },
+  L3207: {
+    arquivo: "../../data/lei_l3207.json",
+    rotulo: "Vendedores Viajantes ou Pracistas (Lei 3.207/1957)",
+  },
+  L4090: {
+    arquivo: "../../data/lei_l4090.json",
+    rotulo: "Gratificação de Natal (13º salário) (Lei 4.090/1962)",
+  },
+  L4749: {
+    arquivo: "../../data/lei_l4749.json",
+    rotulo: "Pagamento do 13º salário (prazos e forma) (Lei 4.749/1965)",
+  },
+  L4950A: {
+    arquivo: "../../data/lei_l4950a.json",
+    rotulo: "Pisos Profissionais (Eng., Arq., Agr., Vet., Quím.) (Lei 4.950-A/1966)",
+  },
+  L5584: {
+    arquivo: "../../data/lei_l5584.json",
+    rotulo: "Normas do Processo do Trabalho (Lei 5.584/1970)",
+  },
+  L5889: {
+    arquivo: "../../data/lei_l5889.json",
+    rotulo: "Trabalho Rural (Lei 5.889/1973)",
+  },
+  L6019: {
+    arquivo: "../../data/lei_l6019.json",
+    rotulo: "Trabalho Temporário (Lei 6.019/1974)",
+  },
+  L605: {
+    arquivo: "../../data/lei_l605.json",
+    rotulo: "Repouso Semanal Remunerado e Feriados (DSR) (Lei 605/1949)",
+  },
+  L6321: {
+    arquivo: "../../data/lei_l6321.json",
+    rotulo: "Programa de Alimentação do Trabalhador (PAT) (Lei 6.321/1976)",
+  },
+  L6533: {
+    arquivo: "../../data/lei_l6533.json",
+    rotulo: "Profissão de Artista e de Técnico em Espetáculos (Lei 6.533/1978)",
+  },
+  L6615: {
+    arquivo: "../../data/lei_l6615.json",
+    rotulo: "Profissão de Radialista (Lei 6.615/1978)",
+  },
+  L7064: {
+    arquivo: "../../data/lei_l7064.json",
+    rotulo: "Trabalho no Exterior (brasileiros) (Lei 7.064/1982)",
+  },
+  L7418: {
+    arquivo: "../../data/lei_l7418.json",
+    rotulo: "Vale-Transporte (Lei 7.418/1985)",
+  },
+  L7783: {
+    arquivo: "../../data/lei_l7783.json",
+    rotulo: "Direito de Greve (Lei 7.783/1989)",
+  },
+  L7998: {
+    arquivo: "../../data/lei_l7998.json",
+    rotulo: "Seguro‑Desemprego, Abono e FAT (Lei 7.998/1990)",
+  },
+  L9029: {
+    arquivo: "../../data/lei_l9029.json",
+    rotulo: "Antidiscriminação nas Relações de Trabalho (Lei 9.029/1995)",
+  },
+  L9601: {
+    arquivo: "../../data/lei_l9601.json",
+    rotulo: "Contrato por Prazo Determinado (via ACT/CCT) (Lei 9.601/1998)",
+  },
   LC123: {
     arquivo: "../../data/lei_lc123.json",
     rotulo: "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar 123/2006)",
+  },
+  LC150: {
+    arquivo: "../../data/lei_lc150.json",
+    rotulo: "Empregado Doméstico (Lei Complementar 150/2015)",
   },
   LMIG: {
     arquivo: "../../data/lei_lmig.json",

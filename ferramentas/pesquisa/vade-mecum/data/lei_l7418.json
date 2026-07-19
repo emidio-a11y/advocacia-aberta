@@ -1,0 +1,207 @@
+{
+  "_meta": {
+    "codigo": "L7418",
+    "nome": "Vale-Transporte",
+    "lei": "Lei 7.418/1985",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm",
+    "total_artigos": 12,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Fica instituído o vale-transporte, (Vetado) que o empregador, pessoa física ou jurídica, antecipará ao empregado para utilização efetiva em despesas de deslocamento residência-trabalho e vice-versa, através do sistema de transporte coletivo público, urbano ou intermunicipal e/ou interestadual com características semelhantes aos urbanos, geridos diretamente ou mediante concessão ou permissão de linhas regulares e com tarifas fixadas pela autoridade competente, excluídos os serviços seletivos e os especiais. (Redação dada pela Lei nº 7.619, de 30.9.1987)\n\n§ 1º - (Revogado pela Medida Provisória nº 2.165-36, de 2001)\n\n§ 2º - (Revogado pela Lei nº 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%201%C2%BA%20Fica%20institu%C3%ADdo%20o%20vale-transporte%2C%20%28Vetado%29%20que%20o%20empregador%2C%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%2C%20antecipar%C3%A1%20ao%20empregado%20para%20utiliza%C3%A7%C3%A3o%20efetiva%20em%20despesas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - O Vale-Transporte, concedido nas condições e limites definidos, nesta Lei, no que se refere à contribuição do empregador: (Renumerado do art . 3º, pela Lei 7.619, de 30.9.1987)\n\na) não tem natureza salarial, nem se incorpora à remuneração para quaisquer efeitos;\n\nb) não constitui base de incidência de contribuição previdenciária ou de Fundo de Garantia por Tempo de Serviço;\n\nc) não se configura como rendimento tributável do trabalhador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%202%C2%BA%20-%20O%20Vale-Transporte%2C%20concedido%20nas%20condi%C3%A7%C3%B5es%20e%20limites%20definidos%2C%20nesta%20Lei%2C%20no%20que%20se%20refere%20%C3%A0%20contribui%C3%A7%C3%A3o%20do%20empregador%3A%20%28Renumerado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º (Renumerado do art . 4º, pela Lei 7.619, de 30.9.1987) (Revogado pela Lei nº 9.532, de 1997) (Produção de efeito)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%203%C2%BA%20%28Renumerado%20do%20art%20.%204%C2%BA%2C%20pela%20Lei%207.619%2C%20de%2030.9.1987%29%20%28Revogado%20pela%20Lei%20n%C2%BA%209.532%2C%20de%201997%29%20%28Produ%C3%A7%C3%A3o%20de%20efeito%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - A concessão do benefício ora instituído implica a aquisição pelo empregador dos Vales-Transporte necessários aos deslocamentos do trabalhador no percurso residência-trabalho e vice-versa, no serviço de transporte que melhor se adequar. (Renumerado do art . 5º, pela Lei 7.619, de 30.9.1987) (Vide Medida Provisória nº 2.189-49, de 2001) (Vide Lei complementar nº 150, de 2015)\n\nParágrafo único - O empregador participará dos gastos de deslocamento do trabalhador com a ajuda de custo equivalente à parcela que exceder a 6% (seis por cento) de seu salário básico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%204%C2%BA%20-%20A%20concess%C3%A3o%20do%20benef%C3%ADcio%20ora%20institu%C3%ADdo%20implica%20a%20aquisi%C3%A7%C3%A3o%20pelo%20empregador%20dos%20Vales-Transporte%20necess%C3%A1rios%20aos%20deslocamentos%20do%20trabalhador%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º - A empresa operadora do sistema de transporte coletivo público fica obrigada a emitir e a comercializar o Vale-Transporte, ao preço da tarifa vigente, colocando-o à disposição dos empregadores em geral e assumindo os custos dessa obrigação, sem repassá-los para a tarifa dos serviços. (Renumerado do art . 6º, pela Lei 7.619, de 30.9.1987)\n\n§ 1º Nas regiões metropolitanas, aglomerações urbanas e microrregiões, será instalado, pelo menos, um posto de vendas para cada grupo de cem mil habitantes na localidade, que comercializarão todos os tipos de Vale-Transporte. (Redação dada pela Lei nº 7.855, de 24.10.89)\n\n§ 2º - Fica facultado à empresa operadora delegar a emissão e a comercialização do Vale-Trasporte, bem como consorciar-se em central de vendas, para efeito de cumprimento do disposto nesta Lei.\n\n§ 3º - Para fins de cálculo do valor do Vale-Transporte, será adotada a tarifa integral do deslocamento do trabalhador, sem descontos, mesmo que previstos na legislação local.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%205%C2%BA%20-%20A%20empresa%20operadora%20do%20sistema%20de%20transporte%20coletivo%20p%C3%BAblico%20fica%20obrigada%20a%20emitir%20e%20a%20comercializar%20o%20Vale-Transporte%2C%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - O poder concedente fixará as sanções a serem aplicadas à empresa operadora que comercializar o vale diretamente ou através de delegação, no caso de falta ou insuficiência de estoque de Vales-Transporte necessários ao atendimento da demanda e ao funcionamento do sistema. (Renumerado do art . 7º, pela Lei 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%206%C2%BA%20-%20O%20poder%20concedente%20fixar%C3%A1%20as%20san%C3%A7%C3%B5es%20a%20serem%20aplicadas%20%C3%A0%20empresa%20operadora%20que%20comercializar%20o%20vale%20diretamente%20ou%20atrav%C3%A9s",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - Ficam resguardados os direitos adquiridos do trabalhador, se superiores aos instituídos nesta Lei, vedada a cumulação de vantagens. (Renumerado do art . 8º, pela Lei 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%207%C2%BA%20-%20Ficam%20resguardados%20os%20direitos%20adquiridos%20do%20trabalhador%2C%20se%20superiores%20aos%20institu%C3%ADdos%20nesta%20Lei%2C%20vedada%20a%20cumula%C3%A7%C3%A3o%20de%20vantagens.%20%28Renumerado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - Asseguram-se os benefícios desta Lei ao empregador que proporcionar, por meios próprios ou contratados, em veículos adequados ao transporte coletivo, o deslocamento integral de seus trabalhadores. (Renumerado do art . 9º, pela Lei 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%208%C2%BA%20-%20Asseguram-se%20os%20benef%C3%ADcios%20desta%20Lei%20ao%20empregador%20que%20proporcionar%2C%20por%20meios%20pr%C3%B3prios%20ou%20contratados%2C%20em%20ve%C3%ADculos%20adequados%20ao%20transporte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9 - Os Vales-Transporte anteriores perdem sua validade decorridos 30 (trinta) dias da data de reajuste tarifário. (Renumerado do art . 10, pela Lei 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%209%20-%20Os%20Vales-Transporte%20anteriores%20perdem%20sua%20validade%20decorridos%2030%20%28trinta%29%20dias%20da%20data%20de%20reajuste%20tarif%C3%A1rio.%20%28Renumerado%20do%20art%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 - O Poder Executivo regulamentará a presente Lei no prazo de 45 (quarenta e cinco) dias. (Renumerado do art . 11, pela Lei 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%2010%20-%20O%20Poder%20Executivo%20regulamentar%C3%A1%20a%20presente%20Lei%20no%20prazo%20de%2045%20%28quarenta%20e%20cinco%29%20dias.%20%28Renumerado%20do%20art%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - Esta Lei entra em vigor na data de sua publicação. (Renumerado do art . 12, pela Lei 7.619, de 30.9.1987)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%2011%20-%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.%20%28Renumerado%20do%20art%20.%2012%2C%20pela%20Lei%207.619%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12 - Revogam-se as disposições em contrário. (Renumerado do art . 13, pela Lei 7.619, de 30.9.1987)\n\nBrasília, em 16 de dezembro de 1985; 164º da Independência e 97º da República.\n\nJOSÉ SARNEY Affonso Camargo\n\nEste texto não substitui o publicado no DOU de 17.12.1985\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418compilado.htm#:~:text=Art.%2012%20-%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.%20%28Renumerado%20do%20art%20.%2013%2C%20pela%20Lei%207.619%2C%20de%2030.9.1987%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": null
+    }
+  }
+}

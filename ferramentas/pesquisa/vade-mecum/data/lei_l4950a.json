@@ -1,0 +1,143 @@
+{
+  "_meta": {
+    "codigo": "L4950A",
+    "nome": "Pisos Profissionais (Eng., Arq., Agr., Vet., Quím.)",
+    "lei": "Lei 4.950-A/1966",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm",
+    "total_artigos": 8,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art . 1º O salário-mínimo dos diplomados pelos cursos regulares superiores mantidos pelas Escolas de Engenharia, de Química, de Arquitetura, de Agronomia e de Veterinária é o fixado pela presente Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%201%C2%BA%20O%20sal%C3%A1rio-m%C3%ADnimo%20dos%20diplomados%20pelos%20cursos%20regulares%20superiores%20mantidos%20pelas%20Escolas%20de%20Engenharia%2C%20de%20Qu%C3%ADmica%2C%20de%20Arquitetura%2C%20de%20Agronomia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art . 2º O salário-mínimo fixado pela presente Lei é a remuneração mínima obrigatória por serviços prestados pelos profissionais definidos no art. 1º, com relação de emprêgo ou função, qualquer que seja a fonte pagadora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%202%C2%BA%20O%20sal%C3%A1rio-m%C3%ADnimo%20fixado%20pela%20presente%20Lei%20%C3%A9%20a%20remunera%C3%A7%C3%A3o%20m%C3%ADnima%20obrigat%C3%B3ria%20por%20servi%C3%A7os%20prestados%20pelos%20profissionais%20definidos%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º Para os efeitos desta Lei as atividades ou tarefas desempenhadas pelos profissionais enumerados no art. 1º são classificadas em:\n\na) atividades ou tarefas com exigência de 6 (seis) horas diárias de serviço;\n\nb) atividades ou tarefas com exigência de mais de 6 (seis) horas diárias de serviço.\n\nParágrafo único. A jornada de trabalho é a fixada no contrato de trabalho ou determinação legal vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%203%C2%BA%20Para%20os%20efeitos%20desta%20Lei%20as%20atividades%20ou%20tarefas%20desempenhadas%20pelos%20profissionais%20enumerados%20no%20art.%201%C2%BA%20s%C3%A3o%20classificadas%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º Para os efeitos desta Lei os profissionais citados no art. 1º são classificados em:\n\na) diplomados pelos cursos regulares superiores mantidos pelas Escolas de Engenharia, de Química, de Arquitetura, de Agronomia e de Veterinária com curso universitário de 4 (quatro) anos ou mais;\n\nb) diplomados pelos cursos regulares superiores mantidos pelas Escolas de Engenharia, de Química, de Arquitetura, de Agronomia e de Veterinária com curso universitário de menos de 4 (quatro) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%204%C2%BA%20Para%20os%20efeitos%20desta%20Lei%20os%20profissionais%20citados%20no%20art.%201%C2%BA%20s%C3%A3o%20classificados%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art . 5º Para a execução das atividades e tarefas classificadas na alínea a do art. 3º, fica fixado o salário-base mínimo de 6 (seis) vêzes o maior salário-mínimo comum vigente no País, para os profissionais relacionados na alínea a do art. 4º, e de 5 (cinco) vezes o maior salário-mínimo comum vigente no País, para os profissionais da alínea b do art. 4º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%205%C2%BA%20Para%20a%20execu%C3%A7%C3%A3o%20das%20atividades%20e%20tarefas%20classificadas%20na%20al%C3%ADnea%20a%20do%20art.%203%C2%BA%2C%20fica%20fixado%20o%20sal%C3%A1rio-base%20m%C3%ADnimo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art . 6º Para a execução de atividades e tarefas classificadas na alínea b do art. 3º, a fixação do salário-base mínimo será feito tomando-se por base o custo da hora fixado no art. 5º desta Lei, acrescidas de 25% as horas excedentes das 6 (seis) diárias de serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%206%C2%BA%20Para%20a%20execu%C3%A7%C3%A3o%20de%20atividades%20e%20tarefas%20classificadas%20na%20al%C3%ADnea%20b%20do%20art.%203%C2%BA%2C%20a%20fixa%C3%A7%C3%A3o%20do%20sal%C3%A1rio-base%20m%C3%ADnimo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art . 7º A remuneração do trabalho noturno será feita na base da remuneração do trabalho diurno, acrescida de 25% (vinte e cinco por cento).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%207%C2%BA%20A%20remunera%C3%A7%C3%A3o%20do%20trabalho%20noturno%20ser%C3%A1%20feita%20na%20base%20da%20remunera%C3%A7%C3%A3o%20do%20trabalho%20diurno%2C%20acrescida%20de%2025%25%20%28vinte%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\n\nBrasília, 22 de abril de 1966; 145º da Independência e 78º da República.\n\nAURO MOURA ANDRADE Presidente do Senado Federal\n\nEste texto não substitui o publicado no DOU de 29.4.1966\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4950a.htm#:~:text=Art%20.%208%C2%BA%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20da%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": null
+    }
+  }
+}

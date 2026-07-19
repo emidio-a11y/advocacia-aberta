@@ -1,0 +1,191 @@
+{
+  "_meta": {
+    "codigo": "L3207",
+    "nome": "Vendedores Viajantes ou Pracistas",
+    "lei": "Lei 3.207/1957",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+    "total_artigos": 11,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art 1º As atividades dos empregados vendedores, viajantes ou pracistas serão reguladas pelos preceitos desta lei, sem prejuízo das normas estabelecidas na Consolidação das Leis do Trabalho - Decreto-lei número 5.452, de 1 de maio de 1943 - no que lhes fôr aplicável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%201%C2%BA%20As%20atividades%20dos%20empregados%20vendedores%2C%20viajantes%20ou%20pracistas%20ser%C3%A3o%20reguladas%20pelos%20preceitos%20desta%20lei%2C%20sem%20preju%C3%ADzo%20das%20normas%20estabelecidas%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art 2º O empregado vendedor terá direito à comissão avençada sôbre as vendas que realizar. No caso de lhe ter sido reservada expressamente, com exclusividade, uma zona de trabalho, terá êsse direito sôbre as vendas ali realizadas diretamente pela emprêsa ou por um preposto desta.\n\n§ 1º A zona de trabalho do empregado vendedor poderá ser ampliada ou restringida de acôrdo com a necessidade da emprêsa, respeitados os dispositivos desta lei quanto à irredutibilidade da remuneração.\n\n§ 2º Sempre que, por conveniência da emprêsa empregadora, fôr o empregado viajante transferido da zona de trabalho, com redução de vantagens, ser-lhe-á assegurado, como mínimo de remuneração, um salário correspondente à média dos 12 (doze) últimos meses, anteriores à transferência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%202%C2%BA%20O%20empregado%20vendedor%20ter%C3%A1%20direito%20%C3%A0%20comiss%C3%A3o%20aven%C3%A7ada%20s%C3%B4bre%20as%20vendas%20que%20realizar.%20No%20caso%20de%20lhe%20ter%20sido%20reservada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art 3º A transação será considerada aceita se o empregador não a recusar por escrito, dentro de 10 (dez) dias, contados da data da proposta. Tratando-se de transação a ser concluída com comerciante ou emprêsa estabelecida noutro Estado ou no estrangeiro, o prazo para aceitação ou recusa da proposta de venda será de 90 (noventa) dias podendo, ainda, ser prorrogado, por tempo determinado, mediante comunicação escrita feita ao empregado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%203%C2%BA%20A%20transa%C3%A7%C3%A3o%20ser%C3%A1%20considerada%20aceita%20se%20o%20empregador%20n%C3%A3o%20a%20recusar%20por%20escrito%2C%20dentro%20de%2010%20%28dez%29%20dias%2C%20contados%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art 4º O pagamento de comissões e percentagem deverá ser feito mensalmente, expedindo a emprêsa, no fim de cada mês, a conta respectiva com as cópias das faturas correspondentes aos negócios concluídos.\n\nParágrafo único. Ressalva-se às partes interessadas fixar outra época para o pagamento de comissões e percentagens, o que, no entanto, não poderá exceder a um trimestre, contado da aceitação do negócio, sendo sempre obrigatória a expedição, pela emprêsa, da conta referida neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%204%C2%BA%20O%20pagamento%20de%20comiss%C3%B5es%20e%20percentagem%20dever%C3%A1%20ser%20feito%20mensalmente%2C%20expedindo%20a%20empr%C3%AAsa%2C%20no%20fim%20de%20cada%20m%C3%AAs%2C%20a%20conta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art 5º Nas transações em que a emprêsa se obrigar por prestações sucessivas, o pagamento das comissões e percentagens será exigível de acôrdo com a ordem de recebimento das mesmas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%205%C2%BA%20Nas%20transa%C3%A7%C3%B5es%20em%20que%20a%20empr%C3%AAsa%20se%20obrigar%20por%20presta%C3%A7%C3%B5es%20sucessivas%2C%20o%20pagamento%20das%20comiss%C3%B5es%20e%20percentagens%20ser%C3%A1%20exig%C3%ADvel%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art 6º A cessação das relações de trabalho, ou a inexecução voluntária do negócio pelo empregador, não prejudicará a percepção das comissões e percentagens devidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%206%C2%BA%20A%20cessa%C3%A7%C3%A3o%20das%20rela%C3%A7%C3%B5es%20de%20trabalho%2C%20ou%20a%20inexecu%C3%A7%C3%A3o%20volunt%C3%A1ria%20do%20neg%C3%B3cio%20pelo%20empregador%2C%20n%C3%A3o%20prejudicar%C3%A1%20a%20percep%C3%A7%C3%A3o%20das%20comiss%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art 7º Verificada a insolvência do comprador, cabe ao empregador o direito de estornar a comissão que houver pago.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%207%C2%BA%20Verificada%20a%20insolv%C3%AAncia%20do%20comprador%2C%20cabe%20ao%20empregador%20o%20direito%20de%20estornar%20a%20comiss%C3%A3o%20que%20houver%20pago.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art 8º Quando fôr prestado serviço de inspeção e fiscalização pelo empregado vendedor, ficará a emprêsa vendedora obrigada ao pagamento adicional de 1/10 (um décimo) da remuneração atribuída ao mesmo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%208%C2%BA%20Quando%20f%C3%B4r%20prestado%20servi%C3%A7o%20de%20inspe%C3%A7%C3%A3o%20e%20fiscaliza%C3%A7%C3%A3o%20pelo%20empregado%20vendedor%2C%20ficar%C3%A1%20a%20empr%C3%AAsa%20vendedora%20obrigada%20ao%20pagamento%20adicional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º O empregado vendedor viajante não poderá permanecer em viagem por tempo superior a 6 (seis) meses consecutivos. Em seguida a cada viagem haverá um intervalo para descanso, calculado na base de 3 (três) dias por mês da viagem realizada, não podendo, porém, ultrapassar o limite de 15 (quinze) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%209%C2%BA%20O%20empregado%20vendedor%20viajante%20n%C3%A3o%20poder%C3%A1%20permanecer%20em%20viagem%20por%20tempo%20superior%20a%206%20%28seis%29%20meses%20consecutivos.%20Em%20seguida%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art 10. Caracterizada a relação de emprêgo, aplicam-se os preceitos desta lei a quantos exercerem funções iguais, semelhantes ou eqüivalentes aos empregados-viajantes, embora sob outras designações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%2010.%20Caracterizada%20a%20rela%C3%A7%C3%A3o%20de%20empr%C3%AAgo%2C%20aplicam-se%20os%20preceitos%20desta%20lei%20a%20quantos%20exercerem%20fun%C3%A7%C3%B5es%20iguais%2C%20semelhantes%20ou%20eq%C3%BCivalentes%20aos%20empregados-viajantes%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art 11. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nRio de janeiro, em 18 de julho de 1957; 136º da Independência e 69º da República.\n\nJUSCELINO KUBITSCHEK Parsifal Barroso\n\nEste texto não substitui o publicado no DOU de 22.7.1957\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm#:~:text=Art%2011.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": null
+    }
+  }
+}
