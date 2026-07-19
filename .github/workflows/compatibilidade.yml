@@ -22,6 +22,9 @@ jobs:
       - name: Auditar estrutura da base jurídica
         run: python3 ferramentas/manutencao/auditar_base_juridica.py --strict
 
+      - name: Validar esquemas, campos obrigatórios e referências cruzadas
+        run: python3 ferramentas/manutencao/validar_integridade.py
+
       - name: Testar pipeline de atualização da base jurídica
         run: python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
 

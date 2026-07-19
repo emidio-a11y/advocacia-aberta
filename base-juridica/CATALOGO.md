@@ -111,7 +111,7 @@ fonte e preservadas no snapshot:
 ### Expansão por grupos
 
 A expansão é dirigida pelo manifesto versionado
-[`expansao/normas.json`](expansao/normas.json) (253 normas, com sigla, URL
+[`expansao/normas.json`](expansao/normas.json) (254 normas, com sigla, URL
 oficial validada e grupo). `gerar_expansao_legislacao.py` materializa cada
 grupo (conjunto em `fontes.json`, stubs e entradas geradas do registro do
 motor), `revisar_expansao.py` apoia a revisão da captura e a promoção segue o

@@ -35,7 +35,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 | ID | Trabalho | Critério de aceite | Estado |
 |---|---|---|---|
-| `BASE-011` | Criar testes de esquema e integridade | CI valida JSON, campos obrigatórios, contagens, URLs, códigos e referências cruzadas | aberto |
+| `BASE-011` | Criar testes de esquema e integridade | CI valida JSON, campos obrigatórios, contagens, URLs, códigos e referências cruzadas | **concluído em 2026-07-19** |
 | `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | **concluído em 2026-07-17** |
 | `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
 | `BASE-014` | Retirar o identificador legado do motor | Adotar `Vade Mecum`/`vade-mecum` em caminhos, pacote, MCP, setup, skills, CI e documentação, sem alias com o nome anterior | **concluído em 2026-07-17** |
@@ -47,6 +47,28 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-020` | A busca de temas repetitivos usa somente os índices legados `keywords` e `terms`, sem fallback textual: os 57 temas 1406 a 1462, incorporados pela atualização de 2026-07-19, só são encontrados pela busca por número | Gerador determinístico cobre todos os temas publicados (como o `BASE-019` fez para a legislação) ou a busca ganha fallback textual; teste garante que nenhum tema publicado fica invisível | aberto |
 
 ## Itens concluídos
+
+### `BASE-011` — testes de esquema e integridade
+
+- `validar_integridade.py` (biblioteca padrão, como o resto do pipeline) valida
+  em toda execução do CI: os manifestos versionados (`fontes.json` contra suas
+  regras; índices derivados e expansão pelos próprios carregadores), os campos
+  obrigatórios de cada registro publicado das quatro famílias, URLs em domínios
+  oficiais com HTTPS, coerência chave ↔ campo identificador e o encadeamento
+  `prev`/`next` da legislação;
+- referências cruzadas: todo ID julgado no corpus de avaliação
+  (dispositivos, súmulas, teses e temas) precisa existir na base
+  correspondente, e o filtro de cada caso precisa apontar diploma existente —
+  um julgamento órfão passa a quebrar o CI;
+- registros retidos do snapshot legado são reconhecidos como artefatos
+  preservados: a forma antiga de hierarquia (chaves `titulo`/`capitulo`, com
+  nomes reais) não é acusada como defeito;
+- quatro testes cobrem a base íntegra, a rejeição de URL não oficial e a
+  detecção de referência órfã e de hierarquia fora do contrato;
+- o GitHub Actions ganhou o passo "Validar esquemas, campos obrigatórios e
+  referências cruzadas";
+- a verificação completa está em
+  [`verificacoes/BASE-011.md`](verificacoes/BASE-011.md).
 
 ### `BASE-019` — índices de legislação reproduzíveis
 
