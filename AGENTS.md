@@ -16,6 +16,12 @@ Antes de trabalhar com material real, observe [SIGILO-E-DADOS.md](SIGILO-E-DADOS
   lei ou jurisprudência. Use apenas o que está nos documentos do caso ou em fontes
   verificadas pelas skills `buscar-fontes` e `buscar-tjpr`. Quando não tiver certeza,
   diga que não tem — não preencha com o provável.
+- **Toda citação vem com a fonte — e a fonte tem que abrir.** Ao citar lei, súmula,
+  tema, tese, acórdão ou doutrina, traga junto a referência verificável: a identificação
+  (número, órgão, data) e o link oficial que leva ao próprio documento. Antes de entregar,
+  confira que cada link abre de fato o documento citado; link que cai em busca vazia ou em
+  página errada conta como ausência de fonte, não como fonte. Sem fonte que abra, não
+  afirme como assentado — registre que precisa confirmar.
 - **Trabalhe sobre os arquivos do caso**, não só na conversa. Salve as sínteses em
   arquivos `.md` conforme a convenção abaixo.
 - **Gerencie o contexto como parte do método.** Delimite a tarefa, registre o que foi

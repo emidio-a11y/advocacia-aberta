@@ -1275,8 +1275,9 @@ def transformar_temas(
             )
         if numero_registro:
             links["consultaProcessual"] = (
-                "https://ww2.stj.jus.br/processo/pesquisa/"
-                "?tipoPesquisa=tipoPesquisaNumeroRegistro&termo=" + numero_registro
+                "https://processo.stj.jus.br/processo/pesquisa/"
+                "?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo="
+                + numero_registro
             )
         registro: dict[str, Any] = {
             "numero": numero,
@@ -1704,15 +1705,18 @@ def transformar_espelhos(
                 )
                 links: dict[str, str] = {}
                 if numero_registro:
+                    # Consulta processual oficial por número de registro. O domínio
+                    # atual é processo.stj.jus.br (o ww2 é legado); aplicacao=processos.ea
+                    # abre a ficha do processo, de onde se acessa o inteiro teor.
                     links["consultaProcessual"] = (
-                        "https://ww2.stj.jus.br/processo/pesquisa/"
-                        "?tipoPesquisa=tipoPesquisaNumeroRegistro&termo="
+                        "https://processo.stj.jus.br/processo/pesquisa/"
+                        "?aplicacao=processos.ea"
+                        "&tipoPesquisa=tipoPesquisaNumeroRegistro&termo="
                         + numero_registro
                     )
-                links["jurisprudencia"] = (
-                    "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40cod%3D"
-                    + quote(identificador, safe="")
-                )
+                # Sem link de jurisprudência do SCON: o identificador do dataset CKAN
+                # não é o @cod do documento no SCON, então o link antigo caía em busca
+                # vazia. O número de registro na consulta processual é a fonte que abre.
                 # Espelhos re-publicados em meses posteriores sobrescrevem o
                 # registro anterior de mesmo id (merge incremental).
                 espelhos[identificador] = {

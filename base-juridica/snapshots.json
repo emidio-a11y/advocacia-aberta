@@ -4,20 +4,56 @@
   "descricao": "Manifesto de versões dos snapshots publicados: versão, SHA-256, data de geração, contagem e resumo das mudanças promovidas (BASE-013).",
   "arquivos": {
     "espelhos_stj.json": {
-      "versao": 2,
-      "sha256": "7bcc40e68c6dd26f3604e179b579c58faba71b6f49fe8d0d4bc8d6c01ab3f8e1",
+      "versao": 3,
+      "sha256": "2323a556ebd76afc92b48befbfc3475a24c77f38f44543edb9475c3d3adf360d",
       "gerado_em": "2026-07-19T05:19:01+00:00",
       "registros": 11133,
       "colecao": "espelhos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 11133,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "000812420",
+          "000812422",
+          "000812423",
+          "000812628",
+          "000812701",
+          "000812702",
+          "000812721",
+          "000812722",
+          "000812725",
+          "000812726"
+        ]
+      }
     },
     "flash_temas_stj.json": {
-      "versao": 1,
-      "sha256": "5e996897f2d600974827c8e26915fbcd4f0a17ef14f380e3f77241c1a2b3ccdb",
+      "versao": 2,
+      "sha256": "0bcc9335e7761d814d682fa662d07cf2125ff9712a970fbafdb43263b2cfee3e",
       "gerado_em": "2026-07-19T00:29:27+00:00",
       "registros": 1462,
       "colecao": "temas",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1459,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1",
+          "10",
+          "100",
+          "1000",
+          "1001",
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006"
+        ]
+      }
     },
     "informativo_stf.json": {
       "versao": 1,

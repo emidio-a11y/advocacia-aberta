@@ -19,6 +19,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-002` | Busca legislativa `todos` cobre somente 6 dos 11 diplomas disponíveis | Lista única de códigos alimenta carregamento, `todos`, CLI, MCP e documentação; teste cobre os 11 | **concluído em 2026-07-17** |
 | `BASE-003` | `EI` é declarado, mas `lei_ei.json` não existe | Adicionar conjunto verificado ou remover o código de todas as superfícies; consulta nunca termina em erro de módulo | **concluído em 2026-07-17** |
 | `BASE-004` | Não existe pipeline reproduzível de atualização | Cada família possui coletor, transformação documentada, validação, versão e instrução de execução | **concluído em 2026-07-17** |
+| `BASE-028` | Espelhos de acórdãos do STJ com link de fonte que não abre: a jurisprudência usava `@cod=<id do dataset CKAN>`, que não é o código do documento no SCON (cai em busca vazia), e a consulta processual apontava para o domínio legado `ww2.stj.jus.br` | Cada espelho traz link oficial que abre o documento: jurisprudência `@cod` inválida removida; consulta processual migrada para `processo.stj.jus.br?aplicacao=processos.ea` por número de registro, validada no portal. Mesma correção de domínio nos temas repetitivos. Gerador, dados e manifesto de snapshots corrigidos; auditor e 25 testes do motor verdes | **concluído em 2026-07-20** |
 
 ## P1 — integridade e proveniência
 
