@@ -28,11 +28,13 @@ def fabricar_baixar(conteudos: dict[str, str]):
 
 
 class MonitorarLegislacaoTest(unittest.TestCase):
-    def preparar(self, raiz: Path) -> tuple[dict[str, object], Path]:
+    def preparar(
+        self, raiz: Path, gerado_em: str = "2026-01-20"
+    ) -> tuple[dict[str, object], Path]:
         publicados = raiz / "publicados"
         publicados.mkdir()
         (publicados / "lei_teste.json").write_text(
-            json.dumps({"_meta": {"gerado_em": "2026-01-20"}, "artigos": {}}),
+            json.dumps({"_meta": {"gerado_em": gerado_em}, "artigos": {}}),
             encoding="utf-8",
         )
         config = {
@@ -75,6 +77,35 @@ class MonitorarLegislacaoTest(unittest.TestCase):
                 itens = pipeline.monitorar_legislacao(config, publicados)
         self.assertEqual(itens[0]["situacao"], "mudou")
         self.assertIn("2026-01-20", itens[0]["detalhe"])
+
+    def test_200_com_fonte_anterior_ao_snapshot_e_sem_mudanca(self) -> None:
+        # O Planalto ignora o If-Modified-Since e responde 200 com o
+        # Last-Modified da republicação em massa de 23/04, anterior ao snapshot
+        # de 19/07: o candidato já incorporou esse conteúdo, não é mudança.
+        with tempfile.TemporaryDirectory() as temp:
+            config, publicados = self.preparar(Path(temp), gerado_em="2026-07-19")
+            with patch.object(
+                pipeline,
+                "sondar_url",
+                return_value={
+                    "http": 200,
+                    "last_modified": "Thu, 23 Apr 2026 23:00:31 GMT",
+                },
+            ):
+                itens = pipeline.monitorar_legislacao(config, publicados)
+        self.assertEqual(itens[0]["situacao"], "sem_mudanca")
+        self.assertIn("anterior ao snapshot", itens[0]["detalhe"])
+
+    def test_200_sem_last_modified_permanece_conservador(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            config, publicados = self.preparar(Path(temp), gerado_em="2026-07-19")
+            with patch.object(
+                pipeline,
+                "sondar_url",
+                return_value={"http": 200, "last_modified": None},
+            ):
+                itens = pipeline.monitorar_legislacao(config, publicados)
+        self.assertEqual(itens[0]["situacao"], "mudou")
 
     def test_arquivo_publicado_ausente_e_indeterminado(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
@@ -505,6 +536,70 @@ class InstanteUtcTest(unittest.TestCase):
         self.assertIsNone(pipeline.instante_utc("não é data"))
 
 
+class ExecutarCurlTest(unittest.TestCase):
+    def test_preserva_o_motivo_do_curl_na_falha(self) -> None:
+        import subprocess
+
+        erro = subprocess.CalledProcessError(
+            60,
+            ["curl"],
+            stderr="curl: (60) SSL certificate problem: unable to get local issuer certificate\n",
+        )
+        with patch.object(pipeline.subprocess, "run", side_effect=erro):
+            with self.assertRaises(RuntimeError) as capturado:
+                pipeline.executar_curl(["curl", "https://exemplo"])
+        mensagem = str(capturado.exception)
+        self.assertIn("60", mensagem)
+        self.assertIn("SSL certificate problem", mensagem)
+
+
+class DataCondicionalTest(unittest.TestCase):
+    def test_data_iso_nua_vira_data_http(self) -> None:
+        http = pipeline.data_http("2026-07-19")
+        assert http is not None
+        self.assertTrue(http.endswith("GMT"))
+        self.assertNotEqual(http, "2026-07-19")
+        self.assertEqual(
+            pipeline.para_instante(http), pipeline.para_instante("2026-07-19")
+        )
+
+    def test_data_http_e_preservada_no_instante(self) -> None:
+        original = "Wed, 08 Jul 2026 02:05:19 GMT"
+        self.assertEqual(
+            pipeline.para_instante(pipeline.data_http(original)),
+            pipeline.para_instante(original),
+        )
+
+    def test_vazio_e_none(self) -> None:
+        self.assertIsNone(pipeline.data_http(None))
+        self.assertIsNone(pipeline.data_http(""))
+
+    def test_para_instante_le_iso_e_http(self) -> None:
+        self.assertIsNotNone(pipeline.para_instante("2026-07-19"))
+        self.assertIsNotNone(
+            pipeline.para_instante("Wed, 08 Jul 2026 02:05:19 GMT")
+        )
+        self.assertIsNone(pipeline.para_instante("não é data"))
+
+    def test_fonte_nao_e_mais_nova(self) -> None:
+        self.assertTrue(
+            pipeline.fonte_nao_e_mais_nova(
+                "Thu, 23 Apr 2026 23:00:31 GMT", "2026-07-19"
+            )
+        )
+        self.assertFalse(
+            pipeline.fonte_nao_e_mais_nova(
+                "Thu, 02 Jul 2026 10:22:29 GMT", "2026-01-20"
+            )
+        )
+        self.assertFalse(pipeline.fonte_nao_e_mais_nova(None, "2026-07-19"))
+        self.assertFalse(
+            pipeline.fonte_nao_e_mais_nova(
+                "Thu, 23 Apr 2026 23:00:31 GMT", "não é data"
+            )
+        )
+
+
 class MonitorarTemasRGTest(unittest.TestCase):
     URL = "https://portal.stf.jus.br/jurisprudenciaRepercussao/exportarDados.asp"
 
@@ -604,6 +699,12 @@ class MonitorarInformativoTest(unittest.TestCase):
         )
         self.assertEqual(itens[0]["situacao"], "mudou")
         self.assertIn("18 Jul 2026", itens[0]["detalhe"])
+
+    def test_200_com_planilha_anterior_permanece_sem_mudanca(self) -> None:
+        itens = self.monitorar(
+            {"http": 200, "last_modified": "Wed, 01 Jul 2026 00:00:00 GMT"}
+        )
+        self.assertEqual(itens[0]["situacao"], "sem_mudanca")
 
 
 class MonitorarEspelhosTest(unittest.TestCase):

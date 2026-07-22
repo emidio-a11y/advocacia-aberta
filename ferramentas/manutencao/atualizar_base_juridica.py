@@ -13,6 +13,7 @@ from collections import Counter, defaultdict
 import csv
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
+from email.utils import format_datetime, parsedate_to_datetime
 import hashlib
 from html import unescape
 from html.parser import HTMLParser
@@ -314,6 +315,19 @@ def validar_tipo_conteudo(destino: Path, content_type: str | None) -> None:
         )
 
 
+def executar_curl(comando: list[str]) -> subprocess.CompletedProcess[str]:
+    """Executa o ``curl`` preservando o motivo real da falha. Sem isto, o
+    ``CalledProcessError`` vira apenas ``exit status 60`` no relatório — o
+    monitor diria que uma fonte falhou sem dizer que foi problema de
+    certificado (STF) ou bloqueio 403 (WAF do STJ), que é o que orienta a ação."""
+    try:
+        return subprocess.run(comando, check=True, capture_output=True, text=True)
+    except subprocess.CalledProcessError as erro:
+        linhas = [l for l in (erro.stderr or "").strip().splitlines() if l.strip()]
+        motivo = linhas[-1] if linhas else f"curl encerrou com código {erro.returncode}"
+        raise RuntimeError(f"curl ({erro.returncode}): {motivo}") from erro
+
+
 def baixar(url: str, destino: Path) -> dict[str, Any]:
     validar_url_oficial(url)
     destino.parent.mkdir(parents=True, exist_ok=True)
@@ -343,9 +357,7 @@ def baixar(url: str, destino: Path) -> dict[str, Any]:
         str(temporario),
         url,
     ]
-    resultado = subprocess.run(
-        comando, check=True, capture_output=True, text=True
-    )
+    resultado = executar_curl(comando)
     url_efetiva = resultado.stdout.strip() or url
     try:
         validar_url_oficial(url_efetiva)
@@ -2132,11 +2144,9 @@ def sondar_url(url: str, desde: str | None = None) -> dict[str, Any]:
             str(corpo),
         ]
         if desde:
-            comando.extend(["--time-cond", desde])
+            comando.extend(["--time-cond", data_http(desde) or desde])
         comando.append(url)
-        resultado = subprocess.run(
-            comando, check=True, capture_output=True, text=True
-        )
+        resultado = executar_curl(comando)
         codigo_texto, _, url_efetiva = resultado.stdout.strip().partition("\t")
         validar_url_oficial(url_efetiva or url)
         cabecalhos = ler_cabecalhos(cabecalhos_path)
@@ -2162,6 +2172,50 @@ def instante_utc(valor: str) -> datetime | None:
     if instante.tzinfo is None:
         instante = instante.replace(tzinfo=timezone.utc)
     return instante.astimezone(timezone.utc)
+
+
+def para_instante(valor: str) -> datetime | None:
+    """Interpreta uma data ISO (``2026-07-19``) **ou** HTTP/RFC 1123
+    (``Sun, 19 Jul 2026 00:00:00 GMT``) e devolve um instante em UTC."""
+    instante = instante_utc(valor)
+    if instante is not None:
+        return instante
+    try:
+        instante = parsedate_to_datetime(valor)
+    except (TypeError, ValueError):
+        return None
+    if instante is None:
+        return None
+    if instante.tzinfo is None:
+        instante = instante.replace(tzinfo=timezone.utc)
+    return instante.astimezone(timezone.utc)
+
+
+def data_http(valor: str | None) -> str | None:
+    """Normaliza ``valor`` para uma data HTTP que o ``curl`` reconhece no
+    ``--time-cond``. O curl 8.x descarta silenciosamente uma data ISO nua
+    (``2026-07-19``) e emite um GET incondicional; convertê-la para
+    ``Sun, 19 Jul 2026 00:00:00 GMT`` faz o ``If-Modified-Since`` ser enviado."""
+    if not valor:
+        return None
+    instante = para_instante(valor)
+    if instante is None:
+        return valor
+    return format_datetime(instante, usegmt=True)
+
+
+def fonte_nao_e_mais_nova(last_modified: str | None, referencia: str) -> bool:
+    """``True`` quando o ``Last-Modified`` da fonte é anterior ou igual à
+    ``referencia`` (o snapshot já incorporou esse conteúdo). Conservador:
+    devolve ``False`` — trate como possível mudança — se qualquer data não
+    puder ser interpretada."""
+    if not last_modified or not referencia:
+        return False
+    fonte = para_instante(last_modified)
+    base = para_instante(referencia)
+    if fonte is None or base is None:
+        return False
+    return fonte <= base
 
 
 def monitorar_legislacao(
@@ -2193,6 +2247,17 @@ def monitorar_legislacao(
         if sonda["http"] == 304:
             situacao = "sem_mudanca"
             detalhe = f"fonte não modificada desde o snapshot de {gerado_em}"
+        elif sonda["http"] == 200 and fonte_nao_e_mais_nova(
+            sonda.get("last_modified"), gerado_em
+        ):
+            # O Planalto costuma ignorar o If-Modified-Since e responder 200 mesmo
+            # sem alteração (republicação em massa muda o Last-Modified). Se o
+            # Last-Modified é anterior ao snapshot, o candidato já o incorporou.
+            situacao = "sem_mudanca"
+            detalhe = (
+                f"fonte modificada em {sonda.get('last_modified')}, anterior ao "
+                f"snapshot de {gerado_em}; republicação sem alteração posterior à coleta"
+            )
         elif sonda["http"] == 200:
             situacao = "mudou" if gerado_em else "indeterminado"
             detalhe = (
@@ -2443,6 +2508,14 @@ def monitorar_informativo(
             f"planilha não modificada desde {desde or 'data desconhecida'}; "
             "o Informativo pausa no recesso (jan/jul) e semana vazia não é erro"
         )
+    elif sonda["http"] == 200 and fonte_nao_e_mais_nova(
+        sonda.get("last_modified"), desde
+    ):
+        situacao = "sem_mudanca"
+        detalhe = (
+            f"planilha modificada em {sonda.get('last_modified')}, anterior ou igual "
+            f"ao snapshot de {desde}; o Informativo pausa no recesso (jan/jul)"
+        )
     elif sonda["http"] == 200:
         situacao = "mudou" if desde else "indeterminado"
         detalhe = (
@@ -2572,12 +2645,21 @@ def monitorar_conjuntos(
 
 def imprimir_monitoramento(resultado: dict[str, Any]) -> None:
     print(f"Verificação de fontes em {resultado['verificado_em']}")
+    sem_mudanca = 0
     for conjunto_id, itens in resultado["conjuntos"].items():
         for item in itens:
+            if item["situacao"] == "sem_mudanca":
+                sem_mudanca += 1
+                continue
             print(
                 f"[{item['situacao']}] {conjunto_id}/{item['alvo']}: "
                 f"{item['detalhe']}"
             )
+    if sem_mudanca:
+        print(
+            f"[sem_mudanca] {sem_mudanca} fonte(s) sem alteração desde o "
+            "snapshot (linhas omitidas; detalhe no --json)"
+        )
     print(
         f"Total: {resultado['mudancas']} sinal(is) de mudança, "
         f"{resultado['erros']} erro(s). O sinal indica que vale preparar um "

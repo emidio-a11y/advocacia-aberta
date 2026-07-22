@@ -125,7 +125,7 @@ Sinal utilizado por família:
 
 | Família | Sinal | Custo |
 |---|---|---|
-| Legislação | GET condicional (`If-Modified-Since` com o `gerado_em` do snapshot); o Planalto responde 304 quando nada mudou | ~zero quando não há mudança |
+| Legislação | GET condicional (`If-Modified-Since` com o `gerado_em` do snapshot); quando o Planalto honra o cabeçalho responde 304, e quando o ignora (responde 200) o monitor compara o `Last-Modified` devolvido com o `gerado_em` e só sinaliza se a fonte for mais nova | ~zero a 1 página por diploma |
 | Súmulas STJ | contagem de súmulas no catálogo oficial vs snapshot | download de 1 página |
 | Súmulas STF e vinculantes | contagem por estado (ativas, canceladas etc.) no catálogo vs snapshot | download de 1 página |
 | Jurisprudência em Teses | edição mais recente do índice vs snapshot | download de 1 página |
@@ -139,7 +139,10 @@ Limitações declaradas do sinal:
 - ele indica que **vale preparar um candidato**; a confirmação material vem do
   relatório de diferenças da execução completa;
 - `Last-Modified` do Planalto pode mudar por republicação sem alteração
-  normativa (observado em republicação em massa de 23/04/2026);
+  normativa (observado em republicação em massa de 23/04/2026); como muitas
+  páginas do Planalto ignoram o `If-Modified-Since` e respondem 200, o monitor
+  não trata todo 200 como mudança — só sinaliza quando o `Last-Modified`
+  devolvido é posterior ao snapshot;
 - mudanças de estado de súmulas STJ sem alteração de contagem, revisões de
   edições antigas da Jurisprudência em Teses e alterações de enunciado no STF
   não são captadas pelos sinais baratos;
