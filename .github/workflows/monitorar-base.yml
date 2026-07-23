@@ -17,9 +17,11 @@ jobs:
         uses: actions/checkout@v4
 
       # O STF entrega a cadeia TLS incompleta (repete a folha em vez de mandar o
-      # intermediário), o que fazia 4 fontes falharem com "SSL certificate problem".
-      # Fornecer o intermediário completa uma cadeia legítima — não afrouxa a
-      # verificação. Detalhes em ferramentas/manutencao/certs/LEIA-ME.md.
+      # intermediário). Fornecer o intermediário completa uma cadeia legítima —
+      # não afrouxa a verificação. Detalhes em ferramentas/manutencao/certs/LEIA-ME.md.
+      # As fontes do STF são coletadas de rede aceita (ver exclusão abaixo), mas o
+      # passo fica: mantém o runner apto a falar TLS com o STF e o eco abaixo diz
+      # se o portal passou a enviar a cadeia completa.
       - name: Confiar no intermediário que o STF não envia
         run: |
           sudo cp ferramentas/manutencao/certs/stf-globalsign-alphassl-r6-2025.crt \
@@ -29,12 +31,20 @@ jobs:
           echo | openssl s_client -connect portal.stf.jus.br:443 \
             -servername portal.stf.jus.br 2>/dev/null | grep "Verify return code" || true
 
+      # Seis famílias ficam de fora daqui: os portais do STF e o SCON do STJ
+      # respondem 403 a requisição vinda de IP de datacenter, enquanto a mesma
+      # coleta, com o mesmo cliente, responde 200 de uma rede aceita. Elas são
+      # verificadas por monitorar-fontes-restritas.sh. Sem esta exclusão o 403
+      # permanente abriria issue toda semana mesmo sem novidade. O relatório
+      # declara o que ficou de fora.
       - name: Verificar sinais de mudança nas fontes oficiais
+        env:
+          EXCLUIR: sumulas_stj,jurisprudencia_teses_stj,sumulas_stf,sumulas_vinculantes,temas_rg_stf,informativo_stf
         run: |
           python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
-            > monitoramento.txt
-          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar --json \
-            > monitoramento.json
+            --excluir "$EXCLUIR" > monitoramento.txt
+          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
+            --excluir "$EXCLUIR" --json > monitoramento.json
           cat monitoramento.txt
 
       - name: Abrir ou atualizar a issue de monitoramento

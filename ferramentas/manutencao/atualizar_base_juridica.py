@@ -2687,6 +2687,13 @@ def imprimir_monitoramento(resultado: dict[str, Any]) -> None:
             f"[sem_mudanca] {sem_mudanca} fonte(s) sem alteração desde o "
             "snapshot (linhas omitidas; detalhe no --json)"
         )
+    excluidos = resultado.get("excluidos") or []
+    if excluidos:
+        print(
+            f"[excluido] {len(excluidos)} fonte(s) não verificadas aqui: "
+            f"{', '.join(excluidos)} — cobertas por verificação própria "
+            "(ver base-juridica/ATUALIZACAO.md)"
+        )
     print(
         f"Total: {resultado['mudancas']} sinal(is) de mudança, "
         f"{resultado['erros']} erro(s). O sinal indica que vale preparar um "
@@ -2722,6 +2729,15 @@ def parser_cli() -> argparse.ArgumentParser:
         help="verifica sinais de mudança nas fontes sem preparar candidatos",
     )
     comando_monitorar.add_argument("--conjunto", default="todos")
+    comando_monitorar.add_argument(
+        "--excluir",
+        default="",
+        help=(
+            "conjuntos a não verificar nesta execução, separados por vírgula; "
+            "use para fontes inalcançáveis deste ponto de rede (o WAF do STJ "
+            "recusa IP de nuvem) e cobertas por verificação própria"
+        ),
+    )
     comando_monitorar.add_argument("--json", action="store_true")
     comando_promover = sub.add_parser("promover")
     comando_promover.add_argument("--execucao", required=True)
@@ -2749,7 +2765,15 @@ def main(argv: list[str] | None = None) -> int:
     publicados = ROOT / dados["diretorio_publicado"]
 
     if args.acao == "monitorar":
+        excluidos = {c.strip() for c in (args.excluir or "").split(",") if c.strip()}
+        desconhecidos = sorted(excluidos - set(conjuntos))
+        if desconhecidos:
+            raise ValueError(
+                f"--excluir com conjunto desconhecido: {', '.join(desconhecidos)}"
+            )
+        ids = [conjunto_id for conjunto_id in ids if conjunto_id not in excluidos]
         resultado = monitorar_conjuntos(dados, ids, publicados)
+        resultado["excluidos"] = sorted(excluidos)
         if args.json:
             print(json.dumps(resultado, ensure_ascii=False, indent=2))
         else:

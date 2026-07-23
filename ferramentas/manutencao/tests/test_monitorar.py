@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import contextlib
 import importlib.util
+import io
 import json
 from pathlib import Path
 import sys
@@ -279,6 +281,35 @@ class MonitorarConjuntosTest(unittest.TestCase):
         self.assertEqual(args.acao, "monitorar")
         self.assertTrue(args.json)
         self.assertFalse(hasattr(args, "execucao"))
+
+    def test_cli_aceita_excluir(self) -> None:
+        args = pipeline.parser_cli().parse_args(
+            ["monitorar", "--excluir", "sumulas_stj,jurisprudencia_teses_stj"]
+        )
+        self.assertEqual(args.excluir, "sumulas_stj,jurisprudencia_teses_stj")
+
+    def test_relatorio_declara_fontes_excluidas(self) -> None:
+        # Fonte pulada nunca some em silêncio: o relatório diz qual e por quê.
+        resultado = {
+            "verificado_em": "2026-07-22T00:00:00+00:00",
+            "mudancas": 0,
+            "erros": 0,
+            "conjuntos": {
+                "legislacao": [
+                    {"alvo": "CF", "situacao": "sem_mudanca", "detalhe": "d"}
+                ]
+            },
+            "excluidos": ["jurisprudencia_teses_stj", "sumulas_stj"],
+        }
+        buffer = io.StringIO()
+        with contextlib.redirect_stdout(buffer):
+            pipeline.imprimir_monitoramento(resultado)
+        saida = buffer.getvalue()
+        self.assertIn("[excluido]", saida)
+        self.assertIn("sumulas_stj", saida)
+        self.assertIn("jurisprudencia_teses_stj", saida)
+        # sem_mudanca continua resumido, não linha a linha
+        self.assertNotIn("legislacao/CF", saida)
 
 
 class ArvoreHTMLTest(unittest.TestCase):
