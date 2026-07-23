@@ -152,6 +152,57 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(itens[1]["status"], "superada")
         self.assertEqual(itens[2]["status"], "cancelada")
 
+    def test_precedentes_da_sumula_stf_saem_da_secao_oficial(self) -> None:
+        # Estrutura da página do STF: seções separadas por div.titulo. Só as de
+        # precedente representativo e tese de repercussão geral entram — o que
+        # está sob "Jurisprudência selecionada" é julgado que aplica a súmula,
+        # não precedente que a originou, e tratá-lo como tal seria afirmar um
+        # vínculo que a fonte não afirma.
+        html = """
+        <div class="titulo">Súmula Vinculante 13</div>
+        <div class="parCOM"><p>A nomeação de cônjuge viola a Constituição.</p></div>
+        <div class="titulo">Precedentes Representativos</div>
+        <div class="parCOM"><p>Ementa do primeiro precedente.<br />
+        [<strong><a href="http://redir.stf.jus.br/paginador.jsp?docID=606840">ADC&nbsp;12</a></strong>,
+        rel. min. <strong>Ayres Britto</strong>, P, j. 20-8-2008, <em>DJE</em>&nbsp;237 de 18-12-2008.]<br />
+        Ementa do segundo.<br />
+        [<strong><a href="https://redir.stf.jus.br/paginador.jsp?docID=557587">RE&nbsp;579.951</a></strong>,
+        rel. min. <strong>Ricardo Lewandowski</strong>, P, j. 20-8-2008, <em>DJE</em>&nbsp;202 de 24-10-2008,
+        <a href="https://portal.stf.jus.br/tema66">Tema 66</a>.]</p></div>
+        <div class="titulo">Jurisprudência selecionada</div>
+        <div class="parCOM"><p>Julgado posterior que aplica a súmula.<br />
+        [<strong><a href="https://redir.stf.jus.br/outro">Rcl&nbsp;11.000</a></strong>,
+        rel. min. <strong>Fulano</strong>, 1ª T, j. 1-2-2015, <em>DJE</em>&nbsp;30 de 2-3-2015.]</p></div>
+        """
+        with tempfile.TemporaryDirectory() as temp:
+            detalhe = Path(temp) / "13.html"
+            detalhe.write_text(html, encoding="utf-8")
+            precedentes = pipeline.precedentes_detalhe_stf(detalhe)
+
+        self.assertEqual(
+            [item["processo"] for item in precedentes], ["ADC 12", "RE 579.951"]
+        )
+        self.assertEqual(precedentes[0]["relator"], "Ayres Britto")
+        self.assertEqual(precedentes[0]["orgao"], "P")
+        self.assertEqual(precedentes[0]["julgamento"], "20/08/2008")
+        self.assertEqual(precedentes[0]["publicacao"], "DJE 237 de 18-12-2008")
+        # O link do inteiro teor é preservado, sempre em https.
+        self.assertTrue(precedentes[0]["url"].startswith("https://redir.stf.jus.br/"))
+        self.assertNotIn("temaRG", precedentes[0])
+        # O vínculo com o tema de repercussão geral vem da própria citação.
+        self.assertEqual(precedentes[1]["temaRG"], 66)
+
+    def test_precedentes_ignoram_citacao_fora_do_padrao(self) -> None:
+        html = """
+        <div class="titulo">Precedente Representativo</div>
+        <div class="parCOM"><p>Texto sem citação estruturada.<br />
+        [ver comentário da Secretaria de Jurisprudência sobre o enunciado]</p></div>
+        """
+        with tempfile.TemporaryDirectory() as temp:
+            detalhe = Path(temp) / "10.html"
+            detalhe.write_text(html, encoding="utf-8")
+            self.assertEqual(pipeline.precedentes_detalhe_stf(detalhe), [])
+
     def test_transforma_sumula_stj_sem_span_de_enunciado(self) -> None:
         html = """
         <div class="gridSumula">

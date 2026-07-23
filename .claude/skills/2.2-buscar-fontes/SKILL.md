@@ -78,3 +78,17 @@ tese apoiada e respectivos links.
 
 Se nenhum resultado for relevante, sugira variações de consulta ou proponha busca em
 tribunal específico com a skill `buscar-tjpr`.
+
+### Passo 4 — Antes de afirmar que não existe
+
+Busca vazia não prova ausência de norma ou de precedente: pode ser lacuna de cobertura.
+Antes de concluir que "não há", consulte a cobertura declarada do acervo — o que está
+indexado, de quando é cada snapshot e quais são as limitações conhecidas.
+
+**Modo ferramentas:** chame `cobertura_da_base`.
+
+**Modo terminal:** leia [`base-juridica/CATALOGO.md`](../../../base-juridica/CATALOGO.md)
+e os itens abertos de [`base-juridica/BACKLOG.md`](../../../base-juridica/BACKLOG.md).
+
+Ao apresentar o resultado, diga de quando é o dado (as buscas trazem a data do snapshot
+no rodapé) e lembre que a captura não confirma vigência na data de hoje.

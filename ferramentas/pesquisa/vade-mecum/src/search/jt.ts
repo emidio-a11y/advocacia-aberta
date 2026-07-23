@@ -1,6 +1,10 @@
 import { createRequire } from "module";
 import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
-import { normalizeText, STOPWORDS } from "./utils.js";
+import {
+  type BuscaAmpliada,
+  buscarComEquivalencias,
+} from "./lexico.js";
+import { dataDoSnapshot, normalizeText, STOPWORDS } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -22,13 +26,14 @@ export interface TeseSTJ {
 // ── Data loading ───────────────────────────────────────────────────────────
 
 const raw = require("../../data/jt_stj.json") as {
-  _meta: { ramos_direito: Record<string, number> };
+  _meta: { ramos_direito: Record<string, number>; gerado_em: string };
   teses: Record<string, TeseSTJ>;
 };
 
 const { teses } = raw;
 
 export const TOTAL_TESES_STJ = Object.keys(teses).length;
+export const SNAPSHOT_JT_STJ = dataDoSnapshot(raw._meta.gerado_em);
 export const TOTAL_EDICOES_JT = new Set(
   Object.values(teses).map((tese) => tese.edicao),
 ).size;
@@ -75,6 +80,11 @@ export function buscarTeses(query: string, limit = 5): TeseSTJ[] {
     .sort((a, b) => b.matched - a.matched || b.score - a.score)
     .slice(0, limit)
     .map(x => x.tese);
+}
+
+/** Busca com a expansão declarada do léxico (ver `lexico.ts`). */
+export function buscarTesesAmpliado(query: string, limit = 5): BuscaAmpliada<TeseSTJ> {
+  return buscarComEquivalencias(query, limit, buscarTeses, (tese) => tese.id);
 }
 
 export function formatTese(tese: TeseSTJ): string {

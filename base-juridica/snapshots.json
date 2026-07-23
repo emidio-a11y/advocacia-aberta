@@ -4190,6 +4190,38 @@
         "amostra_alterados": []
       }
     },
+    "lei_lc214.json": {
+      "versao": 1,
+      "sha256": "5f91f0508af8bfce6d3ca2e458dcbdb4f987e835d3e70fde96b918b5c348bebb",
+      "gerado_em": "2026-07-23",
+      "registros": 580,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc220.json": {
+      "versao": 2,
+      "sha256": "e6f03e0ec46a045dcea2c643b8c5fbd63ec605fc4975124359f4da36fabe1e05",
+      "gerado_em": "2026-07-23",
+      "registros": 64,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc225.json": {
+      "versao": 2,
+      "sha256": "f09e5d5592e3bee2911cd331a8029a6c90d3633c7bf4b0a49c2bb5b5cd6830af",
+      "gerado_em": "2026-07-23",
+      "registros": 58,
+      "colecao": "artigos",
+      "mudancas": null
+    },
+    "lei_lc227.json": {
+      "versao": 1,
+      "sha256": "b7da2ec71016d6357be92ca7ffab03967c0c971333e70be651d025cea733ae87",
+      "gerado_em": "2026-07-23",
+      "registros": 182,
+      "colecao": "artigos",
+      "mudancas": null
+    },
     "lei_lc64.json": {
       "versao": 2,
       "sha256": "de0ea14b078dfab8813f5806d32b7fa49b5a5cf1b9f4c372af6e8a6923f923c4",
@@ -4615,12 +4647,30 @@
       "mudancas": null
     },
     "sumulas_vinculantes.json": {
-      "versao": 1,
-      "sha256": "58d94217442f1c886e6b3d40350130d9921d0b2ba1a217ada06efefc2bbb5145",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "fc6bae832ce033377809e90a10de8a2b5cd88b222b3580a7d5c883528f405435",
+      "gerado_em": "2026-07-23",
       "registros": 63,
       "colecao": "sumulas",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 62,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      }
     },
     "temas_rg_stf.json": {
       "versao": 2,

@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| Auditoria estrutural | 19 de julho de 2026 (UTC) |
+| Auditoria estrutural | 23 de julho de 2026 (UTC) |
 | Local atual dos dados | `ferramentas/pesquisa/vade-mecum/data/` |
 | Escopo | inventário, metadados, cobertura do motor e rastreabilidade interna |
 
@@ -26,22 +26,23 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 273 | 22.180 registros | 273 diplomas |
+| Legislação | 277 | 23.064 registros | 277 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Temas de repercussão geral | 1 | 1.470 temas | STF |
 | Informativo STF | 1 | 11.567 julgados | 1.211 edições do STF |
 | Espelhos de acórdãos | 1 | 11.133 acórdãos | Corte Especial e 3 Seções do STJ |
-| Índices auxiliares | 275 exclusivos (2 de súmulas, 273 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 556 | — | 95.708.033 bytes, cerca de 96 MB |
+| Índices auxiliares | 279 exclusivos (2 de súmulas, 277 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
+| Declarações de método | 2 | 6 limitações + 8 equivalências | `limitacoes.json` e `lexico_juridico.json`, curados |
+| Total em JSON | 566 | — | 98.330.672 bytes, cerca de 98 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 22.180 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 23.064 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -114,7 +115,7 @@ fonte e preservadas no snapshot:
 ### Expansão por grupos
 
 A expansão é dirigida pelo manifesto versionado
-[`expansao/normas.json`](expansao/normas.json) (254 normas, com sigla, URL
+[`expansao/normas.json`](expansao/normas.json) (258 normas, com sigla, URL
 oficial validada e grupo). `gerar_expansao_legislacao.py` materializa cada
 grupo (conjunto em `fontes.json`, stubs e entradas geradas do registro do
 motor), `revisar_expansao.py` apoia a revisão da captura e a promoção segue o
@@ -138,6 +139,9 @@ protocolo comum. O inventário por diploma sai de
 | `esparsas_empresarial` | 28 | 1.649 | 2026-07-19 |
 | `esparsas_regulatorio_outros` | 19 | 1.261 | 2026-07-19 |
 | `decretos` | 1 | 23 | 2026-07-19 |
+| `reforma_tributaria` | 2 | 762 | 2026-07-23 |
+| `tributario_lc225` | 1 | 58 | 2026-07-23 |
+| `educacao_lc220` | 1 | 64 | 2026-07-23 |
 | `codificadas_ccom` | 1 | 448 | 2026-07-19 |
 | `empresarial_d2044` | 1 | 57 | 2026-07-19 |
 | `consumidor_bancario_l15040` | 1 | 134 | 2026-07-19 |
@@ -199,7 +203,7 @@ texto integral.
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 273 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), codificadas_ccom (1), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), consumidor_bancario_l15040 (1), empresarial (28), empresarial_d2044 (1), regulatório/outros (19) e decretos (1); a lista completa está no registro do motor e no manifesto da expansão |
+| Arquivos disponíveis | 277 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), codificadas_ccom (1), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19), consumidor/bancário (24), consumidor_bancario_l15040 (1), empresarial (28), empresarial_d2044 (1), regulatório/outros (19), decretos (1), reforma_tributaria (2), tributario_lc225 (1) e educacao_lc220 (1); a lista completa está no registro do motor e no manifesto da expansão |
 | Códigos declarados no TypeScript | exatamente os 273 arquivos disponíveis (expansão gerada entre marcadores) |
 | Busca com código específico | aceita os 273 códigos; valor desconhecido produz erro legível |
 | Busca `todos` | os 273 códigos do registro central |
@@ -229,7 +233,7 @@ tribunais.
 |---|---:|---:|---|
 | `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
-| `indices/lei_*_keywords.json` (273 arquivos) | 16.396 dispositivos fora dos índices curados; a união cobre os 22.180 em relação 1:1 | 2026-07-19 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
+| `indices/lei_*_keywords.json` (277 arquivos) | 17.280 dispositivos fora dos índices curados; a união cobre os 23.064 em relação 1:1 | 2026-07-23 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
 
 São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`
 (súmulas) e o `BASE-019` (legislação), o repositório contém gerador, manifesto,

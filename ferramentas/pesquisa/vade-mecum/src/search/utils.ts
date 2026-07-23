@@ -21,3 +21,16 @@ export function tokenize(text: string): string[] {
     .split(" ")
     .filter(w => w.length > 2 && !STOPWORDS.has(w));
 }
+
+/**
+ * Converte a data de geração do snapshot para o formato brasileiro.
+ *
+ * Os manifestos gravam ora `2026-07-19`, ora `2026-07-19T05:19:01+00:00`,
+ * conforme a família. Quem consulta precisa ver a data, não o carimbo técnico.
+ */
+export function dataDoSnapshot(valor: string): string {
+  const partes = valor.slice(0, 10).split("-");
+  if (partes.length !== 3) return valor;
+  const [ano, mes, dia] = partes;
+  return `${dia}/${mes}/${ano}`;
+}

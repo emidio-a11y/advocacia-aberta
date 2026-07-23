@@ -1,6 +1,10 @@
 import { createRequire } from "module";
 import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
-import { tokenize } from "./utils.js";
+import {
+  type BuscaAmpliada,
+  buscarComEquivalencias,
+} from "./lexico.js";
+import { dataDoSnapshot, tokenize } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -28,13 +32,18 @@ export interface EspelhoAcordao {
 // ── Data loading ───────────────────────────────────────────────────────────
 
 const raw = require("../../data/espelhos_stj.json") as {
-  _meta: { totalEspelhos: number; orgaos: Record<string, number> };
+  _meta: {
+    totalEspelhos: number;
+    orgaos: Record<string, number>;
+    generatedAt: string;
+  };
   espelhos: Record<string, EspelhoAcordao>;
 };
 
 const { espelhos } = raw;
 
 export const TOTAL_ESPELHOS_STJ = Object.keys(espelhos).length;
+export const SNAPSHOT_ESPELHOS_STJ = dataDoSnapshot(raw._meta.generatedAt);
 export const TOTAL_ORGAOS_ESPELHOS = new Set(
   Object.values(espelhos).map((item) => item.orgao),
 ).size;
@@ -95,6 +104,14 @@ export function buscarEspelhos(query: string, limit = 5): EspelhoAcordao[] {
     .slice(0, limit)
     .map(([id]) => espelhos[id])
     .filter((item): item is EspelhoAcordao => item !== undefined);
+}
+
+/** Busca com a expansão declarada do léxico (ver `lexico.ts`). */
+export function buscarEspelhosAmpliado(
+  query: string,
+  limit = 5,
+): BuscaAmpliada<EspelhoAcordao> {
+  return buscarComEquivalencias(query, limit, buscarEspelhos, (item) => item.id);
 }
 
 export function formatEspelho(item: EspelhoAcordao): string {

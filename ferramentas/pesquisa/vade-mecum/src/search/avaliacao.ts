@@ -1,13 +1,14 @@
-import { buscarTeses } from "./jt.js";
+import { buscarTesesAmpliado } from "./jt.js";
 import {
   buscarLegislacao,
   type CodigoCodigo,
 } from "./legislacao.js";
-import { buscarSumulas, type Tribunal } from "./sumulas.js";
-import { buscarTemas } from "./temas.js";
-import { buscarTemasRG } from "./temas_rg_stf.js";
-import { buscarInformativos } from "./informativo_stf.js";
-import { buscarEspelhos } from "./espelhos_stj.js";
+import { buscarSumulasAmpliado, type Tribunal } from "./sumulas.js";
+import { buscarTemasAmpliado } from "./temas.js";
+import { buscarTemasRGAmpliado } from "./temas_rg_stf.js";
+import { buscarInformativosAmpliado } from "./informativo_stf.js";
+import { buscarEspelhosAmpliado } from "./espelhos_stj.js";
+import type { BuscaAmpliada } from "./lexico.js";
 
 export const GRUPOS_AVALIACAO = [
   "sumulas_stj",
@@ -154,29 +155,44 @@ export function validarCorpus(corpus: CorpusAvaliacao): void {
   }
 }
 
+// A avaliação mede o que o usuário recebe, incluindo o que veio por
+// equivalência declarada (lexico.ts) — do contrário o corpus não enxergaria
+// nem o ganho da expansão nem o ruído que ela pode introduzir.
+function exibidos<T>(busca: BuscaAmpliada<T>): T[] {
+  return [...busca.diretos, ...busca.porEquivalencia];
+}
+
 export function executarConsulta(caso: CasoAvaliacao, limite: number): string[] {
   switch (caso.grupo) {
     case "sumulas_stj":
     case "sumulas_stf":
     case "sumulas_vinculantes":
-      return buscarSumulas(caso.consulta, caso.filtro.tribunal!, limite).map(
+      return exibidos(
+        buscarSumulasAmpliado(caso.consulta, caso.filtro.tribunal!, limite),
+      ).map(
         ({ tribunal, sumula }) =>
           `${tribunal === "vinculante" ? "SV" : tribunal}:${sumula.numero}`,
       );
     case "jurisprudencia_teses":
-      return buscarTeses(caso.consulta, limite).map((tese) => tese.id);
+      return exibidos(buscarTesesAmpliado(caso.consulta, limite)).map(
+        (tese) => tese.id,
+      );
     case "temas_repetitivos":
-      return buscarTemas(caso.consulta, limite).map(
+      return exibidos(buscarTemasAmpliado(caso.consulta, limite)).map(
         (tema) => `TEMA:${tema.numero}`,
       );
     case "temas_rg_stf":
-      return buscarTemasRG(caso.consulta, limite).map(
+      return exibidos(buscarTemasRGAmpliado(caso.consulta, limite)).map(
         (tema) => `RG:${tema.numero}`,
       );
     case "informativo_stf":
-      return buscarInformativos(caso.consulta, limite).map((item) => item.id);
+      return exibidos(buscarInformativosAmpliado(caso.consulta, limite)).map(
+        (item) => item.id,
+      );
     case "espelhos_stj":
-      return buscarEspelhos(caso.consulta, limite).map((item) => `ESP:${item.id}`);
+      return exibidos(buscarEspelhosAmpliado(caso.consulta, limite)).map(
+        (item) => `ESP:${item.id}`,
+      );
     case "legislacao":
       return buscarLegislacao(
         caso.consulta,

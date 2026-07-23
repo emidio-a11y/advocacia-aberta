@@ -68,6 +68,19 @@ export function descreverEfeitoTema(
   return "SITUAÇÃO EXIGE CONFERÊNCIA — há tese no snapshot, mas o estado do tema não autoriza presumir estabilidade";
 }
 
+// Repercussão geral só produz observância obrigatória quando o mérito foi
+// julgado; "Acórdão de Repercussão Geral publicado" e estados preliminares
+// indicam reconhecimento da RG, não necessariamente decisão de mérito.
+const SITUACOES_MERITO_DECIDIDO_RG = [
+  "transito em julgado",
+  "acordao de merito publicado",
+  "merito julgado",
+];
+
+export function meritoDecididoRG(situacao: string): boolean {
+  return SITUACOES_MERITO_DECIDIDO_RG.includes(normalizarSituacao(situacao));
+}
+
 export function descreverEfeitoTemaRG(situacao: string, tese?: string): string {
   const normalizada = normalizarSituacao(situacao);
 
@@ -79,15 +92,7 @@ export function descreverEfeitoTemaRG(situacao: string, tese?: string): string {
     return "SEM TESE FIRMADA NESTE SNAPSHOT — não atribuir efeito obrigatório ao tema";
   }
 
-  // Repercussão geral só produz observância obrigatória quando o mérito foi
-  // julgado; "Acórdão de Repercussão Geral publicado" e estados preliminares
-  // indicam reconhecimento da RG, não necessariamente decisão de mérito.
-  const situacoesMeritoDecidido = [
-    "transito em julgado",
-    "acordao de merito publicado",
-    "merito julgado",
-  ];
-  if (situacoesMeritoDecidido.includes(normalizada)) {
+  if (SITUACOES_MERITO_DECIDIDO_RG.includes(normalizada)) {
     return "OBSERVÂNCIA OBRIGATÓRIA QUANDO APLICÁVEL — tese de repercussão geral com mérito julgado (art. 927, III, do CPC); confira o acórdão e a situação atual";
   }
 

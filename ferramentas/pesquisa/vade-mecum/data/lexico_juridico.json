@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "versao": 1,
+    "tipo": "lexico_de_equivalencias",
+    "atualizado_em": "2026-07-23",
+    "curadoria": "humana, revisada caso a caso",
+    "criterio": "Cada entrada existe porque a fonte oficial descreve o instituto sem usar o termo pelo qual se pesquisa. Não é dicionário de sinônimos nem busca semântica: só entra o par que um caso julgado em avaliacao/consultas.json comprove necessário, e os termos são os que aparecem no texto publicado.",
+    "efeito": "Os resultados encontrados por equivalência vêm depois dos diretos, marcados, e a resposta declara quais termos foram acrescentados."
+  },
+  "equivalencias": [
+    {
+      "conceito": "nepotismo",
+      "termos": [
+        "cônjuge",
+        "companheiro",
+        "parente",
+        "terceiro grau",
+        "cargo em comissão",
+        "designações recíprocas"
+      ],
+      "razao": "A Súmula Vinculante 13 define a conduta sem nomeá-la, e o Tema 1000 do STF (nomeação de parente para cargo político) não contém a palavra 'nepotismo' em nenhum campo publicado."
+    },
+    {
+      "conceito": "whatsapp",
+      "termos": ["aplicativo", "mensagens", "redes sociais"],
+      "razao": "Herdado da expansão que os temas repetitivos do STJ aplicavam em silêncio; os acórdãos costumam referir 'aplicativo de mensagens'."
+    },
+    {
+      "conceito": "pix",
+      "termos": ["transferência", "pagamento instantâneo"],
+      "razao": "Herdado da expansão silenciosa dos temas do STJ: a fonte descreve o arranjo, não a marca."
+    },
+    {
+      "conceito": "uber",
+      "termos": ["transporte", "aplicativo", "motorista"],
+      "razao": "Herdado da expansão silenciosa dos temas do STJ: os julgados tratam de transporte por aplicativo."
+    },
+    {
+      "conceito": "selic",
+      "termos": ["juros", "correção monetária"],
+      "razao": "Herdado da expansão silenciosa dos temas do STJ."
+    },
+    {
+      "conceito": "cdi",
+      "termos": ["juros", "encargo financeiro"],
+      "razao": "Herdado da expansão silenciosa dos temas do STJ."
+    },
+    {
+      "conceito": "citação",
+      "termos": ["intimação", "notificação"],
+      "razao": "Herdado da expansão silenciosa dos temas do STJ: atos de comunicação processual aparecem sob nomes distintos."
+    },
+    {
+      "conceito": "intimação",
+      "termos": ["citação", "notificação"],
+      "razao": "Herdado da expansão silenciosa dos temas do STJ: atos de comunicação processual aparecem sob nomes distintos."
+    }
+  ]
+}

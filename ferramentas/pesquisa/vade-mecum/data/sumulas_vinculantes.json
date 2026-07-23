@@ -4,7 +4,7 @@
     "tipo": "Súmulas Vinculantes",
     "tribunal": "STF",
     "total": 63,
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "descricao": "Súmulas extraídas do catálogo oficial do STF",
     "transformacao": "sumulas_stf_html_v1",
     "ativas": 0,
@@ -18,7 +18,37 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "30/05/2007",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula737/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula737/false",
+      "precedentes": [
+        {
+          "processo": "RE 418.918",
+          "relator": "Ellen Gracie",
+          "orgao": "P",
+          "julgamento": "30/03/2005",
+          "publicacao": "DJ de 1º-7-2005",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=368434",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20418918"
+        },
+        {
+          "processo": "RE 571.184 RG",
+          "relator": "Cármen Lúcia",
+          "orgao": "",
+          "julgamento": "16/10/2008",
+          "publicacao": "",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=558919",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20571184"
+        },
+        {
+          "processo": "RE 591.068 QO-RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "07/08/2008",
+          "publicacao": "DJE 35 de 20-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=577019",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20591068-RG",
+          "temaRG": 101
+        }
+      ]
     },
     "2": {
       "numero": 2,
@@ -26,7 +56,18 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "30/05/2007",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula738/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula738/false",
+      "precedentes": [
+        {
+          "processo": "ADI 2.847",
+          "relator": "Carlos Velloso",
+          "orgao": "P",
+          "julgamento": "05/08/2004",
+          "publicacao": "DJ de 26-11-2004",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266940",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%202847"
+        }
+      ]
     },
     "3": {
       "numero": 3,
@@ -34,7 +75,28 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "30/05/2007",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula739/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula739/false",
+      "precedentes": [
+        {
+          "processo": "MS 24.268",
+          "relator": "Ellen Gracie",
+          "orgao": "P",
+          "julgamento": "05/02/2004",
+          "publicacao": "DJ de 17-9-2004",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=86111",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=MS%2024268"
+        },
+        {
+          "processo": "RE 636.553",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "19/02/2020",
+          "publicacao": "DJE 129 de 26-5-2020",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=752747720",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20636553",
+          "temaRG": 445
+        }
+      ]
     },
     "4": {
       "numero": 4,
@@ -42,7 +104,83 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "30/04/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula740/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula740/false",
+      "precedentes": [
+        {
+          "processo": "RE 565.714",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "30/04/2008",
+          "publicacao": "DJE 147 de 8-8-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=560067",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20565714"
+        },
+        {
+          "processo": "ARE 1.409.059",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "05/11/2025",
+          "publicacao": "DJE s/n 27-11-2025",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=792904495",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201409059",
+          "temaRG": 1
+        },
+        {
+          "processo": "RE 603.451 RG",
+          "relator": "Ellen Gracie",
+          "orgao": "P",
+          "julgamento": "11/03/2010",
+          "publicacao": "DJE 71 de 23-4-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=610251",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20603451",
+          "temaRG": 256
+        },
+        {
+          "processo": "ARE 1.473.461 AgR",
+          "relator": "Gilmar Mendes",
+          "orgao": "2ª T",
+          "julgamento": "13/05/2024",
+          "publicacao": "DJE de 20-5-2024",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=777006705",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201473461"
+        },
+        {
+          "processo": "Rcl 32.029",
+          "relator": "Gilmar Mendes",
+          "orgao": "dec. monocrática",
+          "julgamento": "03/10/2018",
+          "publicacao": "DJE 214 de 8-10-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15338799400&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2032029"
+        },
+        {
+          "processo": "Rcl 25.784 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "29/06/2018",
+          "publicacao": "DJE 157 de 6-8-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=747859000",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2025784"
+        },
+        {
+          "processo": "ARE 1.078.369",
+          "relator": "Edson Fachin",
+          "orgao": "dec. monocrática",
+          "julgamento": "07/05/2018",
+          "publicacao": "DJE 90 de 10-5-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314294157&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201078369"
+        },
+        {
+          "processo": "RE 642.633 AgR",
+          "relator": "Joaquim Barbosa",
+          "orgao": "2ª T",
+          "julgamento": "04/10/2011",
+          "publicacao": "DJE 204 de 24-10-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=629035",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20642633"
+        }
+      ]
     },
     "5": {
       "numero": 5,
@@ -50,7 +188,28 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "07/05/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula741/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula741/false",
+      "precedentes": [
+        {
+          "processo": "RE 434.059",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "07/05/2008",
+          "publicacao": "DJE 172 de 12-9-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=547287",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20434059"
+        },
+        {
+          "processo": "RE 972.598",
+          "relator": "Roberto Barroso",
+          "orgao": "P",
+          "julgamento": "04/05/2020",
+          "publicacao": "DJE 196 de 6-8-2020",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753393432",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20972598",
+          "temaRG": 941
+        }
+      ]
     },
     "6": {
       "numero": 6,
@@ -58,7 +217,37 @@
       "status": "aprovada",
       "ramo": "Militar",
       "data": "07/05/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula742/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula742/false",
+      "precedentes": [
+        {
+          "processo": "RE 570.177",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "30/04/2008",
+          "publicacao": "DJE 117 de 27-6-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=536171",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20570177",
+          "temaRG": 15
+        },
+        {
+          "processo": "RE 551.788",
+          "relator": "Dias Toffoli",
+          "orgao": "dec. monocrática",
+          "julgamento": "18/05/2011",
+          "publicacao": "DJE 107 de 6-6-2011",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=35471767&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20551788"
+        },
+        {
+          "processo": "RE 551.322",
+          "relator": "Ellen Gracie",
+          "orgao": "dec. monocrática",
+          "julgamento": "26/05/2010",
+          "publicacao": "DJE 105 de 11-6-2010",
+          "url": "https://jurisprudencia.stf.jus.br/pages/search/despacho149205/false",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20551322"
+        }
+      ]
     },
     "7": {
       "numero": 7,
@@ -66,7 +255,45 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "11/06/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula743/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula743/false",
+      "precedentes": [
+        {
+          "processo": "ADI 4",
+          "relator": "Sydney Sanches",
+          "orgao": "P",
+          "julgamento": "07/03/1991",
+          "publicacao": "DJ de 25-6-1993",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266153",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%204"
+        },
+        {
+          "processo": "RE 544.933",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "16/09/2016",
+          "publicacao": "DJE 202 de 22-9-2016",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=310332680&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20544933"
+        },
+        {
+          "processo": "AI 853.463 ED",
+          "relator": "Cármen Lúcia",
+          "orgao": "2ª T",
+          "julgamento": "11/09/2012",
+          "publicacao": "DJE 188 de 25-9-2012",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=2821944",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20853463"
+        },
+        {
+          "processo": "RE 450.305 AgR",
+          "relator": "Marco Aurélio",
+          "orgao": "1ª T",
+          "julgamento": "12/08/2008",
+          "publicacao": "DJE 25 de 6-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=573877",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20450305"
+        }
+      ]
     },
     "8": {
       "numero": 8,
@@ -74,7 +301,46 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "12/06/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula744/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula744/false",
+      "precedentes": [
+        {
+          "processo": "RE 556.664",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "12/06/2008",
+          "publicacao": "DJE 216 de 14-11-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=561617",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20556664"
+        },
+        {
+          "processo": "RE 559.943",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "12/06/2008",
+          "publicacao": "DJE 182 de 26-9-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=551049",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20559943",
+          "temaRG": 3
+        },
+        {
+          "processo": "Rcl 7.971 AgR",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "25/11/2009",
+          "publicacao": "DJE 232 de 11-12-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=606663",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%207971"
+        },
+        {
+          "processo": "RE 502.648 AgR",
+          "relator": "Joaquim Barbosa",
+          "orgao": "2ª T",
+          "julgamento": "19/08/2008",
+          "publicacao": "DJE 227 de 28-11-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=565865",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20502648"
+        }
+      ]
     },
     "9": {
       "numero": 9,
@@ -82,7 +348,18 @@
       "status": "cancelada",
       "ramo": "Penal",
       "data": "12/06/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula745/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula745/false",
+      "precedentes": [
+        {
+          "processo": "HC 90.107",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "1ª T",
+          "julgamento": "27/03/2007",
+          "publicacao": "DJE 4 de 27-4-2007",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=443502",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2090107"
+        }
+      ]
     },
     "10": {
       "numero": 10,
@@ -90,7 +367,38 @@
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "18/06/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula746/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula746/false",
+      "precedentes": [
+        {
+          "processo": "RE 482.090",
+          "relator": "Joaquim Barbosa",
+          "orgao": "P",
+          "julgamento": "18/06/2008",
+          "publicacao": "DJE 48 de 13-3-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=581127",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20482090"
+        },
+        {
+          "processo": "ARE 791.932",
+          "relator": "Alexandre de Moraes",
+          "orgao": "P",
+          "julgamento": "11/10/2018",
+          "publicacao": "DJE 44 de 6-3-2019",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749288586",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20791932",
+          "temaRG": 739
+        },
+        {
+          "processo": "ARE 914.045 RG",
+          "relator": "Edson Fachin",
+          "orgao": "P",
+          "julgamento": "15/10/2015",
+          "publicacao": "DJE 232 de 19-11-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=9816024",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20914045",
+          "temaRG": 856
+        }
+      ]
     },
     "11": {
       "numero": 11,
@@ -98,7 +406,27 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "13/08/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula760/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula760/false",
+      "precedentes": [
+        {
+          "processo": "HC 91.952",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "07/08/2008",
+          "publicacao": "DJE 241 de 19-12-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=570157",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2091952"
+        },
+        {
+          "processo": "HC 89.429",
+          "relator": "Cármen Lúcia",
+          "orgao": "1ª T",
+          "julgamento": "22/08/2006",
+          "publicacao": "DJ de 2-2-2007",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=402446",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2089429"
+        }
+      ]
     },
     "12": {
       "numero": 12,
@@ -106,7 +434,29 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "13/08/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula757/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula757/false",
+      "precedentes": [
+        {
+          "processo": "RE 500.171",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "13/08/2008",
+          "publicacao": "DJE 202 de 24-10-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=557455",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20500171",
+          "temaRG": 40
+        },
+        {
+          "processo": "RE 597.854",
+          "relator": "Edson Fachin",
+          "orgao": "P",
+          "julgamento": "26/04/2017",
+          "publicacao": "DJE 214 de 21-9-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13642927",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20597854",
+          "temaRG": 535
+        }
+      ]
     },
     "13": {
       "numero": 13,
@@ -114,7 +464,38 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "21/08/2008",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula761/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula761/false",
+      "precedentes": [
+        {
+          "processo": "ADC 12",
+          "relator": "Ayres Britto",
+          "orgao": "P",
+          "julgamento": "20/08/2008",
+          "publicacao": "DJE 237 de 18-12-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=606840",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADC%2012"
+        },
+        {
+          "processo": "RE 579.951",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "20/08/2008",
+          "publicacao": "DJE 202 de 24-10-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=557587",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20579951",
+          "temaRG": 66
+        },
+        {
+          "processo": "RE 570.392",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "11/12/2014",
+          "publicacao": "DJE 32 de 19-2-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7797457",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20570392",
+          "temaRG": 29
+        }
+      ]
     },
     "14": {
       "numero": 14,
@@ -122,7 +503,28 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "02/02/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula762/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula762/false",
+      "precedentes": [
+        {
+          "processo": "HC 88.190",
+          "relator": "Cezar Peluso",
+          "orgao": "2ª T",
+          "julgamento": "29/08/2006",
+          "publicacao": "DJ de 6-10-2006",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=382091",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2088190"
+        },
+        {
+          "processo": "RE 593.727",
+          "relator": "Cezar Peluso",
+          "orgao": "P",
+          "julgamento": "14/05/2015",
+          "publicacao": "DJE 175 de 8-9-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=9336233",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20593727",
+          "temaRG": 184
+        }
+      ]
     },
     "15": {
       "numero": 15,
@@ -130,7 +532,19 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "25/06/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula763/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula763/false",
+      "precedentes": [
+        {
+          "processo": "RE 572.921 QO-RG",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "13/11/2008",
+          "publicacao": "DJE 25 de 6-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=574229",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20572921-RG",
+          "temaRG": 141
+        }
+      ]
     },
     "16": {
       "numero": 16,
@@ -138,7 +552,37 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "25/06/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula764/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula764/false",
+      "precedentes": [
+        {
+          "processo": "RE 582.019 QO-RG",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "13/11/2008",
+          "publicacao": "DJE 30 de 13-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=576035",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20582019-RG",
+          "temaRG": 142
+        },
+        {
+          "processo": "RE 964.659 RG",
+          "relator": "Dias Toffoli",
+          "orgao": "",
+          "julgamento": "08/08/2022",
+          "publicacao": "",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15353144720&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20964659"
+        },
+        {
+          "processo": "ADI 751",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "09/05/2019",
+          "publicacao": "DJE 107 de 22-5-2019",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749882316",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%20751"
+        }
+      ]
     },
     "17": {
       "numero": 17,
@@ -146,7 +590,105 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "29/10/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula765/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula765/false",
+      "precedentes": [
+        {
+          "processo": "RE 298.616",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "31/10/2002",
+          "publicacao": "DJ de 3-10-2003",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=260432",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20298616"
+        },
+        {
+          "processo": "RE 305.186",
+          "relator": "Ilmar Galvão",
+          "orgao": "1ª T",
+          "julgamento": "17/09/2002",
+          "publicacao": "DJ de 18-10-2002",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=260600",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20305186"
+        },
+        {
+          "processo": "RE 1.515.163 RG",
+          "relator": "Luís Roberto Barroso",
+          "orgao": "P",
+          "julgamento": "11/10/2024",
+          "publicacao": "DJE s/n de 21-10-2024",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=781252116",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201515163",
+          "temaRG": 1
+        },
+        {
+          "processo": "RE 870.947",
+          "relator": "Luiz Fux",
+          "orgao": "P",
+          "julgamento": "20/09/2017",
+          "publicacao": "DJE 262 de 20-11-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14080728",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20870947",
+          "temaRG": 810
+        },
+        {
+          "processo": "RE 870.947 RG",
+          "relator": "Luiz Fux",
+          "orgao": "P",
+          "julgamento": "16/04/2015",
+          "publicacao": "DJE 77 de 27-4-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14080728",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20870947"
+        },
+        {
+          "processo": "RE 579.431",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "19/04/2017",
+          "publicacao": "DJE 145 de 30-6-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13127051",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20579431",
+          "temaRG": 96
+        },
+        {
+          "processo": "ARE 638.195",
+          "relator": "Joaquim Barbosa",
+          "orgao": "P",
+          "julgamento": "29/05/2013",
+          "publicacao": "DJE 246 de 13-12-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5034246",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20638195",
+          "temaRG": 450
+        },
+        {
+          "processo": "RE 590.751",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "09/12/2010",
+          "publicacao": "DJE 63 de 4-4-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=621412",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20590751",
+          "temaRG": 132
+        },
+        {
+          "processo": "RE 561.149 AgR",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "2ª T",
+          "julgamento": "22/05/2012",
+          "publicacao": "DJE 109 de 5-6-2012",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=2137438",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20561149"
+        },
+        {
+          "processo": "RE 591.085 QO-RG",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "04/12/2008",
+          "publicacao": "DJE 35 de 20-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=577021",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20591085-RG",
+          "temaRG": 147
+        }
+      ]
     },
     "18": {
       "numero": 18,
@@ -154,7 +696,47 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "29/10/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula766/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula766/false",
+      "precedentes": [
+        {
+          "processo": "RE 446.999",
+          "relator": "Ellen Gracie",
+          "orgao": "2ª T",
+          "julgamento": "28/06/2005",
+          "publicacao": "DJ de 9-9-2005",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=368478",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20446999"
+        },
+        {
+          "processo": "RE 843.455",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "07/01/2015",
+          "publicacao": "DJE 18 de 1º-2-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10088803",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20843455",
+          "temaRG": 781
+        },
+        {
+          "processo": "RE 758.461",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "22/05/2014",
+          "publicacao": "DJE 213 de 30-10-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7081180",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20758461",
+          "temaRG": 678
+        },
+        {
+          "processo": "AC 3.298 MC-AgR",
+          "relator": "Teori Zavascki",
+          "orgao": "2ª T",
+          "julgamento": "24/04/2013",
+          "publicacao": "DJE 235 de 29-11-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=4948508",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AC%203298-AgR"
+        }
+      ]
     },
     "19": {
       "numero": 19,
@@ -162,7 +744,64 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "29/10/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula767/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula767/false",
+      "precedentes": [
+        {
+          "processo": "RE 576.321 QO-RG",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "04/12/2008",
+          "publicacao": "DJE 30 de 13-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=576025",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20576321-RG",
+          "temaRG": 146
+        },
+        {
+          "processo": "RE 952.512",
+          "relator": "Edson Fachin",
+          "orgao": "dec. monocrática",
+          "julgamento": "31/03/2017",
+          "publicacao": "DJE 68 de 5-4-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=311547883&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20952512"
+        },
+        {
+          "processo": "Rcl 24.611",
+          "relator": "Rosa Weber",
+          "orgao": "dec. monocrática",
+          "julgamento": "28/11/2016",
+          "publicacao": "DJE 256 de 1º-12-2016",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=310860201&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2024611"
+        },
+        {
+          "processo": "AI 702.161 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "15/12/2015",
+          "publicacao": "DJE 25 de 12-2-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10231891",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20702161"
+        },
+        {
+          "processo": "AI 311.693 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "1ª T",
+          "julgamento": "06/12/2011",
+          "publicacao": "DJE 78 de 23-4-2012",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=1644010",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20311693"
+        },
+        {
+          "processo": "RE 571.241 AgR",
+          "relator": "Joaquim Barbosa",
+          "orgao": "2ª T",
+          "julgamento": "20/04/2010",
+          "publicacao": "DJE 100 de 4-6-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=612121",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20571241"
+        }
+      ]
     },
     "20": {
       "numero": 20,
@@ -170,7 +809,196 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "29/10/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula768/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula768/false",
+      "precedentes": [
+        {
+          "processo": "RE 476.279",
+          "relator": "Sepúlveda Pertence",
+          "orgao": "P",
+          "julgamento": "19/04/2007",
+          "publicacao": "DJE 37 de 15-6-2007",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=464628",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20476279"
+        },
+        {
+          "processo": "ARE 1.052.570 RG",
+          "relator": "Alexandre de Moraes",
+          "orgao": "P",
+          "julgamento": "15/02/2018",
+          "publicacao": "DJE 42 de 6-3-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14444857",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201052570",
+          "temaRG": 983
+        },
+        {
+          "processo": "ARE 1.196.401 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "30/05/2019",
+          "publicacao": "DJE 129 de 14-6-2019",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750108051",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201196401"
+        },
+        {
+          "processo": "RE 1.112.425",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "19/03/2018",
+          "publicacao": "DJE 57 de 23-3-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=313968226&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201112425"
+        },
+        {
+          "processo": "RE 662.406",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "11/12/2014",
+          "publicacao": "DJE 31 de 18-2-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7778161",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20662406",
+          "temaRG": 664
+        },
+        {
+          "processo": "ARE 881.698 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "30/09/2016",
+          "publicacao": "DJE 221 de 18-10-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11856487",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20881698"
+        },
+        {
+          "processo": "ARE 881.402 AgR",
+          "relator": "Teori Zavascki",
+          "orgao": "2ª T",
+          "julgamento": "23/06/2015",
+          "publicacao": "DJE 151 de 3-8-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=8885554",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20881402"
+        },
+        {
+          "processo": "RE 662.406 RG",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "20/06/2013",
+          "publicacao": "DJE 157 de 13-8-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=4313212",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20662406",
+          "temaRG": 664
+        },
+        {
+          "processo": "RE 631.389",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "25/09/2013",
+          "publicacao": "DJE 106 de 3-6-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=6001816",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20631389",
+          "temaRG": 351
+        },
+        {
+          "processo": "ARE 1.149.783",
+          "relator": "Gilmar Mendes",
+          "orgao": "dec. monocrática",
+          "julgamento": "30/08/2018",
+          "publicacao": "DJE 183 de 4-9-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=315174246&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201149783"
+        },
+        {
+          "processo": "RE 572.884",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "20/06/2012",
+          "publicacao": "DJE 34 de 21-2-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=3424182",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20572884",
+          "temaRG": 54
+        },
+        {
+          "processo": "RE 1.019.147",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "dec. monocrática",
+          "julgamento": "06/02/2017",
+          "publicacao": "DJE 25 de 9-2-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=311177280&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201019147"
+        },
+        {
+          "processo": "ARE 1.009.278",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "dec. monocrática",
+          "julgamento": "25/11/2016",
+          "publicacao": "DJE 256 de 1º-12-2016",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=310841319&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201009278"
+        },
+        {
+          "processo": "RE 736.909 AgR",
+          "relator": "Rosa Weber",
+          "orgao": "1ª T",
+          "julgamento": "12/08/2014",
+          "publicacao": "DJE 171 de 4-9-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=6640148",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20736909"
+        },
+        {
+          "processo": "RE 630.880 AgR",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "2ª T",
+          "julgamento": "22/05/2012",
+          "publicacao": "DJE 109 de 5-6-2012",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=2137757",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20630880"
+        },
+        {
+          "processo": "RE 631.880 RG",
+          "relator": "Cezar Peluso",
+          "orgao": "P",
+          "julgamento": "09/06/2011",
+          "publicacao": "DJE 167 de 31-8-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=626880",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20631880",
+          "temaRG": 409
+        },
+        {
+          "processo": "RE 597.154 QO-RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "19/02/2009",
+          "publicacao": "DJE 99 de 29-5-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=594746",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20597154-RG",
+          "temaRG": 153
+        },
+        {
+          "processo": "Rcl 31.866",
+          "relator": "Gilmar Mendes",
+          "orgao": "dec. monocrática",
+          "julgamento": "04/02/2019",
+          "publicacao": "DJE 23 de 6-2-2019",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15339458356&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2031866"
+        },
+        {
+          "processo": "RE 831.325 AgR-ED",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "23/02/2018",
+          "publicacao": "DJE 44 de 8-3-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14459321",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20831325-ED"
+        },
+        {
+          "processo": "RE 612.920 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "1ª T",
+          "julgamento": "28/02/2012",
+          "publicacao": "DJE 64 de 29-3-2012",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=1863747",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20612920"
+        }
+      ]
     },
     "21": {
       "numero": 21,
@@ -178,7 +1006,55 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "29/10/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula769/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula769/false",
+      "precedentes": [
+        {
+          "processo": "ADI 1.976",
+          "relator": "Joaquim Barbosa",
+          "orgao": "P",
+          "julgamento": "28/03/2007",
+          "publicacao": "DJE 18 de 18-5-2007",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=456058",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%201976"
+        },
+        {
+          "processo": "AI 698.626 QO-RG",
+          "relator": "Ellen Gracie",
+          "orgao": "P",
+          "julgamento": "02/10/2008",
+          "publicacao": "DJE 232 de 5-12-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=568029",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20698626-RG",
+          "temaRG": 314
+        },
+        {
+          "processo": "Rcl 33.655",
+          "relator": "Gilmar Mendes",
+          "orgao": "dec. monocrática",
+          "julgamento": "18/03/2019",
+          "publicacao": "DJE 54 de 20-3-2019",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15339745152&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2033655"
+        },
+        {
+          "processo": "RE 1.101.605",
+          "relator": "Luiz Fux",
+          "orgao": "dec. monocrática",
+          "julgamento": "22/05/2018",
+          "publicacao": "DJE 102 de 25-5-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314423552&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201101605"
+        },
+        {
+          "processo": "AI 428.249 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "09/04/2014",
+          "publicacao": "DJE 94 de 19-5-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5892945",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20428249"
+        }
+      ]
     },
     "22": {
       "numero": 22,
@@ -186,7 +1062,28 @@
       "status": "aprovada",
       "ramo": "Processual do Trabalho",
       "data": "02/12/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula771/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula771/false",
+      "precedentes": [
+        {
+          "processo": "CC 7.204",
+          "relator": "Ayres Britto",
+          "orgao": "P",
+          "julgamento": "29/06/2005",
+          "publicacao": "DJ de 9-12-2005",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=25686",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=CC%207204"
+        },
+        {
+          "processo": "RE 600.091",
+          "relator": "Dias Toffoli",
+          "orgao": "P",
+          "julgamento": "25/05/2011",
+          "publicacao": "DJE 155 de 15-8-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=625734",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20600091",
+          "temaRG": 242
+        }
+      ]
     },
     "23": {
       "numero": 23,
@@ -194,7 +1091,54 @@
       "status": "aprovada",
       "ramo": "Processual do Trabalho",
       "data": "02/12/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula772/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula772/false",
+      "precedentes": [
+        {
+          "processo": "RE 579.648",
+          "relator": "Menezes Direito",
+          "orgao": "",
+          "julgamento": "10/09/2008",
+          "publicacao": "DJE 43 de 6-3-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=579797",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20579648"
+        },
+        {
+          "processo": "Rcl 24.353",
+          "relator": "Edson Fachin",
+          "orgao": "dec. monocrática",
+          "julgamento": "30/01/2018",
+          "publicacao": "DJE 22 de 7-2-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=313615510&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2024353"
+        },
+        {
+          "processo": "Rcl 10.411",
+          "relator": "Dias Toffoli",
+          "orgao": "dec. monocrática",
+          "julgamento": "16/04/2013",
+          "publicacao": "DJE 81 de 2-5-2013",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=136756993&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2010411"
+        },
+        {
+          "processo": "RE 491.780 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "1ª T",
+          "julgamento": "04/10/2011",
+          "publicacao": "DJE 215 de 11-11-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=629552",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20491780"
+        },
+        {
+          "processo": "AI 638.775",
+          "relator": "Joaquim Barbosa",
+          "orgao": "dec. monocrática",
+          "julgamento": "23/05/2011",
+          "publicacao": "DJE 105 de 2-6-2011",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=34846598&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20638775"
+        }
+      ]
     },
     "24": {
       "numero": 24,
@@ -202,7 +1146,18 @@
       "status": "aprovada",
       "ramo": "Penal",
       "data": "02/12/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula773/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula773/false",
+      "precedentes": [
+        {
+          "processo": "HC 81.611",
+          "relator": "Sepúlveda Pertence",
+          "orgao": "P",
+          "julgamento": "10/12/2003",
+          "publicacao": "DJ de 13-5-2005",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=78807",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2081611"
+        }
+      ]
     },
     "25": {
       "numero": 25,
@@ -210,7 +1165,46 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "16/12/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula774/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula774/false",
+      "precedentes": [
+        {
+          "processo": "RE 466.343",
+          "relator": "Cezar Peluso",
+          "orgao": "P",
+          "julgamento": "03/12/2008",
+          "publicacao": "DJE 104 de 5-6-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=595444",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20466343",
+          "temaRG": 60
+        },
+        {
+          "processo": "HC 95.967",
+          "relator": "Ellen Gracie",
+          "orgao": "2ª T",
+          "julgamento": "11/11/2008",
+          "publicacao": "DJE 227 de 28-11-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=565687",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2095967"
+        },
+        {
+          "processo": "RE 716.101",
+          "relator": "Luiz Fux",
+          "orgao": "dec. monocrática",
+          "julgamento": "31/10/2012",
+          "publicacao": "DJE 220 de 8-11-2012",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=110311793&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20716101"
+        },
+        {
+          "processo": "AI 277.940",
+          "relator": "Celso de Mello",
+          "orgao": "dec. monocrática",
+          "julgamento": "31/05/2011",
+          "publicacao": "DJE 111 de 10-6-2011",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=35634410&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20277940"
+        }
+      ]
     },
     "26": {
       "numero": 26,
@@ -218,7 +1212,47 @@
       "status": "aprovada",
       "ramo": "Penal",
       "data": "16/12/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula775/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula775/false",
+      "precedentes": [
+        {
+          "processo": "HC 82.959",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "23/02/2006",
+          "publicacao": "DJ de 1º-9-2006",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=79206",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2082959"
+        },
+        {
+          "processo": "ARE 1.052.700 RG",
+          "relator": "Edson Fachin",
+          "orgao": "P",
+          "julgamento": "02/11/2017",
+          "publicacao": "DJE 18 de 1º-2-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14274497",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201052700",
+          "temaRG": 972
+        },
+        {
+          "processo": "HC 111.840",
+          "relator": "Dias Toffoli",
+          "orgao": "P",
+          "julgamento": "27/06/2012",
+          "publicacao": "DJE 249 de 17-12-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5049490",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%20111840"
+        },
+        {
+          "processo": "RE 579.167",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "16/05/2013",
+          "publicacao": "DJE 207 de 18-10-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=4690726",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20579167",
+          "temaRG": 59
+        }
+      ]
     },
     "27": {
       "numero": 27,
@@ -226,7 +1260,18 @@
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "18/12/2009",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula776/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula776/false",
+      "precedentes": [
+        {
+          "processo": "RE 571.572",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "08/10/2008",
+          "publicacao": "DJE 30 de 13-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=576021",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20571572"
+        }
+      ]
     },
     "28": {
       "numero": 28,
@@ -234,7 +1279,28 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "03/02/2010",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula777/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula777/false",
+      "precedentes": [
+        {
+          "processo": "ADI 1.074",
+          "relator": "Eros Grau",
+          "orgao": "P",
+          "julgamento": "28/03/2007",
+          "publicacao": "DJE 23 de 25-5-2007",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=459624",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%201074"
+        },
+        {
+          "processo": "RE 640.905",
+          "relator": "Luiz Fux",
+          "orgao": "P",
+          "julgamento": "15/12/2016",
+          "publicacao": "DJE 18 de 1º-2-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14274788",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20640905",
+          "temaRG": 573
+        }
+      ]
     },
     "29": {
       "numero": 29,
@@ -242,7 +1308,73 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "03/02/2010",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula778/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula778/false",
+      "precedentes": [
+        {
+          "processo": "RE 576.321 QO-RG",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "04/12/2008",
+          "publicacao": "DJE 30 de 13-2-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=576025",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20576321-RG",
+          "temaRG": 146
+        },
+        {
+          "processo": "RE 1.165.562",
+          "relator": "Celso de Mello",
+          "orgao": "dec. monocrática",
+          "julgamento": "20/11/2018",
+          "publicacao": "DJE 252 de 27-11-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15339108582&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201165562"
+        },
+        {
+          "processo": "RE 1.047.556",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "dec. monocrática",
+          "julgamento": "25/05/2017",
+          "publicacao": "DJE 114 de 31-5-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=311904919&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201047556"
+        },
+        {
+          "processo": "RE 971.511 AgR",
+          "relator": "Edson Fachin",
+          "orgao": "1ª T",
+          "julgamento": "14/10/2016",
+          "publicacao": "DJE 234 de 4-11-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11967377",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20971511"
+        },
+        {
+          "processo": "RE 901.412 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "2ª T",
+          "julgamento": "27/10/2015",
+          "publicacao": "DJE 249 de 11-12-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=9975874",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20901412"
+        },
+        {
+          "processo": "RE 549.085 AgR",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "2ª T",
+          "julgamento": "23/08/2011",
+          "publicacao": "DJE 171 de 6-9-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=627034",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20549085"
+        },
+        {
+          "processo": "RE 613.287 AgR",
+          "relator": "Luiz Fux",
+          "orgao": "1ª T",
+          "julgamento": "02/08/2011",
+          "publicacao": "DJE 159 de 19-8-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=626216",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20613287"
+        }
+      ]
     },
     "30": {
       "numero": 30,
@@ -258,7 +1390,83 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "04/02/2010",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula779/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula779/false",
+      "precedentes": [
+        {
+          "processo": "RE 446.003 AgR",
+          "relator": "Celso de Mello",
+          "orgao": "2ª T",
+          "julgamento": "30/05/2006",
+          "publicacao": "DJ de 4-8-2006",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=386791",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20446003"
+        },
+        {
+          "processo": "RE 116.121",
+          "relator": "Octavio Gallotti",
+          "orgao": "P",
+          "julgamento": "11/10/2000",
+          "publicacao": "DJ de 25-5-2001",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=206139",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20116121"
+        },
+        {
+          "processo": "RE 651.703",
+          "relator": "Luiz Fux",
+          "orgao": "P",
+          "julgamento": "29/09/2016",
+          "publicacao": "DJE 86 de 26-4-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12788517",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20651703",
+          "temaRG": 581
+        },
+        {
+          "processo": "RE 626.706",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "08/09/2010",
+          "publicacao": "DJE 179 de 24-9-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=614598",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20626706",
+          "temaRG": 212
+        },
+        {
+          "processo": "Rcl 28.324",
+          "relator": "Rosa Weber",
+          "orgao": "dec. monocrática",
+          "julgamento": "25/05/2018",
+          "publicacao": "DJE 107 de 30-5-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314471078&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2028324"
+        },
+        {
+          "processo": "ARE 1.082.875",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "26/10/2017",
+          "publicacao": "DJE 250 de 31-10-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=313162056&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201082875"
+        },
+        {
+          "processo": "Rcl 24.917",
+          "relator": "Edson Fachin",
+          "orgao": "dec. monocrática",
+          "julgamento": "19/10/2016",
+          "publicacao": "DJE 226 de 24-10-2016",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=310577739&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2024917"
+        },
+        {
+          "processo": "RE 602.295 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "07/04/2015",
+          "publicacao": "DJE 75 de 23-4-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=8273399",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20602295"
+        }
+      ]
     },
     "32": {
       "numero": 32,
@@ -266,7 +1474,27 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "16/02/2011",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula780/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula780/false",
+      "precedentes": [
+        {
+          "processo": "ADI 1.648",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "16/02/2011",
+          "publicacao": "DJE 233 de 9-12-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=629927",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%201648"
+        },
+        {
+          "processo": "RE 588.149",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "16/02/2011",
+          "publicacao": "DJE 107 de 6-6-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=623782",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20588149"
+        }
+      ]
     },
     "33": {
       "numero": 33,
@@ -274,7 +1502,55 @@
       "status": "aprovada",
       "ramo": "Previdenciário",
       "data": "09/04/2014",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula784/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula784/false",
+      "precedentes": [
+        {
+          "processo": "MI 795",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "15/04/2009",
+          "publicacao": "DJE 94 de 22-5-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=593668",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=MI%20795"
+        },
+        {
+          "processo": "RE 797.905 RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "15/05/2014",
+          "publicacao": "DJE 102 de 29-5-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5964383",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20797905",
+          "temaRG": 727
+        },
+        {
+          "processo": "MI 5.762",
+          "relator": "Dias Toffoli",
+          "orgao": "dec. monocrática",
+          "julgamento": "23/05/2014",
+          "publicacao": "DJE 101 de 28-5-2014",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=227079053&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=MI%205762"
+        },
+        {
+          "processo": "MI 6.323",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "02/05/2014",
+          "publicacao": "DJE 88 de 12-5-2014",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=222843883&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=MI%206323"
+        },
+        {
+          "processo": "ARE 678.410 AgR",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "2ª T",
+          "julgamento": "19/11/2013",
+          "publicacao": "DJE 30 de 13-2-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5270004",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20678410"
+        }
+      ]
     },
     "34": {
       "numero": 34,
@@ -282,7 +1558,64 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "16/10/2014",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula785/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula785/false",
+      "precedentes": [
+        {
+          "processo": "RE 572.052",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "11/02/2009",
+          "publicacao": "DJE 71 de 17-4-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=587475",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20572052"
+        },
+        {
+          "processo": "AI 804.478 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "26/08/2014",
+          "publicacao": "DJE 176 de 11-9-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=6704286",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20804478"
+        },
+        {
+          "processo": "RE 597.154 QO-RG",
+          "relator": "presidente Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "19/02/2009",
+          "publicacao": "DJE 99 de 29-5-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=594746",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20597154-RG",
+          "temaRG": 153
+        },
+        {
+          "processo": "Rcl 30.154 MC",
+          "relator": "Edson Fachin",
+          "orgao": "dec. monocrática",
+          "julgamento": "17/07/2018",
+          "publicacao": "DJE 157 de 6-8-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314917255&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2030154"
+        },
+        {
+          "processo": "Rcl 30.153 MC",
+          "relator": "Marco Aurélio",
+          "orgao": "dec. monocrática",
+          "julgamento": "09/05/2018",
+          "publicacao": "DJE 96 de 17-5-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314362295&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2030153"
+        },
+        {
+          "processo": "RE 941.514",
+          "relator": "Teori Zavascki",
+          "orgao": "dec. monocrática",
+          "julgamento": "04/03/2016",
+          "publicacao": "DJE 45 de 10-3-2016",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=308891034&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20941514"
+        }
+      ]
     },
     "35": {
       "numero": 35,
@@ -290,7 +1623,28 @@
       "status": "aprovada",
       "ramo": "Processual Penal",
       "data": "16/10/2014",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula786/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula786/false",
+      "precedentes": [
+        {
+          "processo": "RE 602.072 QO-RG",
+          "relator": "Cezar Peluso",
+          "orgao": "P",
+          "julgamento": "19/11/2009",
+          "publicacao": "DJE 35 de 26-2-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=608631",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20602072-RG"
+        },
+        {
+          "processo": "RE 795.567",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "28/05/2015",
+          "publicacao": "DJE 177 de 9-9-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=9353134",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20795567",
+          "temaRG": 187
+        }
+      ]
     },
     "36": {
       "numero": 36,
@@ -298,7 +1652,18 @@
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "16/10/2014",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula788/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula788/false",
+      "precedentes": [
+        {
+          "processo": "HC 110.237",
+          "relator": "Celso de Mello",
+          "orgao": "2ª T",
+          "julgamento": "19/02/2013",
+          "publicacao": "DJE 41 de 4-3-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=3456276",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%20110237"
+        }
+      ]
     },
     "37": {
       "numero": 37,
@@ -306,7 +1671,120 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "16/10/2014",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula787/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula787/false",
+      "precedentes": [
+        {
+          "processo": "RE 592.317",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "28/08/2014",
+          "publicacao": "DJE 220 de 10-11-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7181942",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20592317",
+          "temaRG": 315
+        },
+        {
+          "processo": "ARE 762.806 AgR",
+          "relator": "Gilmar Mendes",
+          "orgao": "2ª T",
+          "julgamento": "03/09/2013",
+          "publicacao": "DJE 183 de 18-9-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=4535033",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20762806"
+        },
+        {
+          "processo": "ARE 1.208.032 RG",
+          "relator": "Dias Toffoli",
+          "orgao": "P",
+          "julgamento": "29/08/2019",
+          "publicacao": "DJE 210 de 26-9-2019",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750934970",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201208032",
+          "temaRG": 1
+        },
+        {
+          "processo": "Rcl 23.443 AgR",
+          "relator": "Luiz Fux",
+          "orgao": "",
+          "julgamento": "05/05/2017",
+          "publicacao": "",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12912304",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2023443"
+        },
+        {
+          "processo": "Rcl 24.272 AgR",
+          "relator": "Celso de Mello",
+          "orgao": "2ª T",
+          "julgamento": "17/03/2017",
+          "publicacao": "DJE 101 de 16-5-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12890586",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2024272"
+        },
+        {
+          "processo": "RE 976.610 RG",
+          "relator": "Dias Toffoli",
+          "orgao": "P",
+          "julgamento": "15/02/2018",
+          "publicacao": "DJE 36 de 26-2-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14385125",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20976610",
+          "temaRG": 984
+        },
+        {
+          "processo": "ADI 5.404",
+          "relator": "Roberto Barroso",
+          "orgao": "P",
+          "julgamento": "06/03/2023",
+          "publicacao": "DJE de 9-3-2023",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766081759",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%205404"
+        },
+        {
+          "processo": "Rcl 27.310 AgR",
+          "relator": "Rosa Weber",
+          "orgao": "1ª T",
+          "julgamento": "05/10/2018",
+          "publicacao": "DJE 220 de 16-10-2018",
+          "url": "https://www.stf.jus.br/portal/jurisprudencia/listarJurisprudencia.asp?s1=%28RCL+E+WEBER+E+DJE%2D220%29%2827310%2ENUME%2E+OU+27310%2EACMS%2E%29&base=baseAcordaos&url=http://tinyurl.com/y2uyk5cb",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2027310"
+        },
+        {
+          "processo": "RE 985.305 AgR",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "2ª T",
+          "julgamento": "17/08/2018",
+          "publicacao": "DJE 181 de 3-9-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748110141",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20985305"
+        },
+        {
+          "processo": "ARE 952.851 AgR",
+          "relator": "Celso de Mello",
+          "orgao": "2ª T",
+          "julgamento": "06/02/2017",
+          "publicacao": "DJE 47 de 13-3-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12542033",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20952851"
+        },
+        {
+          "processo": "ARE 841.799 AgR",
+          "relator": "Teori Zavascki",
+          "orgao": "2ª T",
+          "julgamento": "23/02/2016",
+          "publicacao": "DJE 95 de 12-5-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10939234",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20841799"
+        },
+        {
+          "processo": "ARE 742.574 ED",
+          "relator": "Cármen Lúcia",
+          "orgao": "2ª T",
+          "julgamento": "03/03/2015",
+          "publicacao": "DJE 50 de 16-3-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=8016321",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20742574"
+        }
+      ]
     },
     "38": {
       "numero": 38,
@@ -314,7 +1792,18 @@
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "11/03/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula789/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula789/false",
+      "precedentes": [
+        {
+          "processo": "ADI 3.691",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "29/08/2007",
+          "publicacao": "DJE 83 de 9-5-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=525831",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%203691"
+        }
+      ]
     },
     "39": {
       "numero": 39,
@@ -322,7 +1811,37 @@
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "11/03/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula791/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula791/false",
+      "precedentes": [
+        {
+          "processo": "ADI 3.791",
+          "relator": "Ayres Britto",
+          "orgao": "P",
+          "julgamento": "16/06/2010",
+          "publicacao": "DJE 159 de 27-8-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=613685",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%203791"
+        },
+        {
+          "processo": "SS 846 AgR",
+          "relator": "Sepúlveda Pertence",
+          "orgao": "P",
+          "julgamento": "29/05/1996",
+          "publicacao": "DJ de 8-11-1996",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=345992",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=SS%20846"
+        },
+        {
+          "processo": "ARE 665.632 RG",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "16/04/2015",
+          "publicacao": "DJE 78 de 28-4-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=8313627",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20665632",
+          "temaRG": 806
+        }
+      ]
     },
     "40": {
       "numero": 40,
@@ -330,7 +1849,28 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "11/03/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula792/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula792/false",
+      "precedentes": [
+        {
+          "processo": "RE 198.092",
+          "relator": "Carlos Velloso",
+          "orgao": "2ª T",
+          "julgamento": "27/08/1996",
+          "publicacao": "DJ de 11-10-1996",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=235926",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20198092"
+        },
+        {
+          "processo": "ARE 1.018.459 RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "23/02/2017",
+          "publicacao": "DJE 46 de 10-3-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12540767",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201018459",
+          "temaRG": 935
+        }
+      ]
     },
     "41": {
       "numero": 41,
@@ -338,7 +1878,37 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "11/03/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula796/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula796/false",
+      "precedentes": [
+        {
+          "processo": "RE 573.675",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "25/03/2009",
+          "publicacao": "DJE 94 de 22-5-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=593814",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20573675",
+          "temaRG": 44
+        },
+        {
+          "processo": "AI 479.587 AgR",
+          "relator": "Joaquim Barbosa",
+          "orgao": "2ª T",
+          "julgamento": "03/03/2009",
+          "publicacao": "DJE 53 de 20-3-2009",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=582822",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20479587"
+        },
+        {
+          "processo": "AI 463.910 AgR",
+          "relator": "Ayres Britto",
+          "orgao": "1ª T",
+          "julgamento": "20/06/2006",
+          "publicacao": "DJ de 8-9-2006",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=369224",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20463910"
+        }
+      ]
     },
     "42": {
       "numero": 42,
@@ -346,7 +1916,18 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "12/03/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula797/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula797/false",
+      "precedentes": [
+        {
+          "processo": "ADI 285",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "04/02/2010",
+          "publicacao": "DJE 50 de 19-3-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=611715",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%20285"
+        }
+      ]
     },
     "43": {
       "numero": 43,
@@ -354,7 +1935,38 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "08/04/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula802/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula802/false",
+      "precedentes": [
+        {
+          "processo": "ADI 231",
+          "relator": "Moreira Alves",
+          "orgao": "P",
+          "julgamento": "05/08/1992",
+          "publicacao": "DJ de 13-11-1992",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266259",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%20231"
+        },
+        {
+          "processo": "RE 1.232.885",
+          "relator": "Nunes Marques",
+          "orgao": "P",
+          "julgamento": "13/04/2023",
+          "publicacao": "DJE s/n de 2-5-2023",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15357637212&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201232885",
+          "temaRG": 1128
+        },
+        {
+          "processo": "RE 740.008",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "21/10/2020",
+          "publicacao": "DJE de 21-4-2021",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755566022",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20740008",
+          "temaRG": 697
+        }
+      ]
     },
     "44": {
       "numero": 44,
@@ -362,7 +1974,74 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "08/04/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula803/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula803/false",
+      "precedentes": [
+        {
+          "processo": "AI 758.533 QO-RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "23/06/2010",
+          "publicacao": "DJE 149 de 13-8-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=613387",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=AI%20758533-RG",
+          "temaRG": 338
+        },
+        {
+          "processo": "RE 1.133.146 RG",
+          "relator": "Luiz Fux",
+          "orgao": "P",
+          "julgamento": "20/09/2018",
+          "publicacao": "DJE 204 de 26-9-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748284236",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201133146",
+          "temaRG": 1009
+        },
+        {
+          "processo": "Rcl 26.239 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "20/02/2018",
+          "publicacao": "DJE 39 de 1º-3-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14417697",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2026239"
+        },
+        {
+          "processo": "Rcl 26.711 AgR",
+          "relator": "Alexandre de Moraes",
+          "orgao": "1ª T",
+          "julgamento": "02/06/2017",
+          "publicacao": "DJE 133 de 20-6-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13052409",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2026711"
+        },
+        {
+          "processo": "Rcl 26.821 MC",
+          "relator": "Edson Fachin",
+          "orgao": "dec. monocrática",
+          "julgamento": "04/05/2017",
+          "publicacao": "DJE 96 de 9-5-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=313416585&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2026821"
+        },
+        {
+          "processo": "Rcl 25.230 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "2ª T",
+          "julgamento": "13/12/2016",
+          "publicacao": "DJE 34 de 21-2-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12448300",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2025230"
+        },
+        {
+          "processo": "SS 5.021 AgR",
+          "relator": "presidente Ricardo Lewandowski",
+          "orgao": "P",
+          "julgamento": "02/12/2015",
+          "publicacao": "DJE 254 de 17-12-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10013533",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=SS%205021"
+        }
+      ]
     },
     "45": {
       "numero": 45,
@@ -370,7 +2049,27 @@
       "status": "aprovada",
       "ramo": "Processual Penal",
       "data": "08/04/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula804/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula804/false",
+      "precedentes": [
+        {
+          "processo": "RHC 80.477",
+          "relator": "Néri da Silveira",
+          "orgao": "2ª T",
+          "julgamento": "31/10/2000",
+          "publicacao": "DJ de 4-5-2001",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=102714",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RHC%2080477"
+        },
+        {
+          "processo": "HC 78.168",
+          "relator": "Néri da Silveira",
+          "orgao": "P",
+          "julgamento": "18/11/1998",
+          "publicacao": "DJ de 29-8-2003",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=77775",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2078168"
+        }
+      ]
     },
     "46": {
       "numero": 46,
@@ -378,7 +2077,18 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "09/04/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula805/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula805/false",
+      "precedentes": [
+        {
+          "processo": "ADI 2.220",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "16/11/2011",
+          "publicacao": "DJE 232 de 7-12-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=1609913",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%202220"
+        }
+      ]
     },
     "47": {
       "numero": 47,
@@ -386,7 +2096,83 @@
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "27/05/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula806/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula806/false",
+      "precedentes": [
+        {
+          "processo": "RE 564.132",
+          "relator": "Eros Grau",
+          "orgao": "P",
+          "julgamento": "30/10/2014",
+          "publicacao": "DJE 27 de 10-2-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=630127",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20564132",
+          "temaRG": 18
+        },
+        {
+          "processo": "Rcl 31.193",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "05/09/2018",
+          "publicacao": "DJE 188 de 10-9-2018",
+          "url": "https://jurisprudencia.stf.jus.br/pages/search/despacho903966/false",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2031193"
+        },
+        {
+          "processo": "Rcl 21.516",
+          "relator": "Luiz Fux",
+          "orgao": "dec. monocrática",
+          "julgamento": "27/08/2015",
+          "publicacao": "DJE 171 de 1º-9-2015",
+          "url": "https://jurisprudencia.stf.jus.br/pages/search/despacho557434/false",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2021516"
+        },
+        {
+          "processo": "RE 568.645",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "24/09/2014",
+          "publicacao": "DJE 223 de 13-11-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7218057",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20568645",
+          "temaRG": 148
+        },
+        {
+          "processo": "RE 1.038.035 AgR",
+          "relator": "Edson Fachin",
+          "orgao": "2ª T",
+          "julgamento": "07/11/2017",
+          "publicacao": "DJE 45 de 9-3-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14475197",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201038035"
+        },
+        {
+          "processo": "RE 930.251 AgR",
+          "relator": "Luiz Fux",
+          "orgao": "1ª T",
+          "julgamento": "15/03/2016",
+          "publicacao": "DJE 77 de 22-4-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10763264",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20930251"
+        },
+        {
+          "processo": "RE 919.050",
+          "relator": "Teori Zavascki",
+          "orgao": "dec. monocrática",
+          "julgamento": "24/02/2016",
+          "publicacao": "DJE 37 de 29-2-2016",
+          "url": "https://jurisprudencia.stf.jus.br/pages/search/despacho609234/false",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20919050"
+        },
+        {
+          "processo": "RE 918.672",
+          "relator": "Rosa Weber",
+          "orgao": "dec. monocrática",
+          "julgamento": "11/11/2015",
+          "publicacao": "DJE 231 de 18-11-2015",
+          "url": "https://jurisprudencia.stf.jus.br/pages/search/despacho583676/false",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20918672"
+        }
+      ]
     },
     "48": {
       "numero": 48,
@@ -394,7 +2180,46 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "27/05/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula807/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula807/false",
+      "precedentes": [
+        {
+          "processo": "RE 193.817",
+          "relator": "Ilmar Galvão",
+          "orgao": "P",
+          "julgamento": "23/10/1996",
+          "publicacao": "DJ de 10-8-2001",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=630127",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20193817"
+        },
+        {
+          "processo": "RE 540.829",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "11/09/2014",
+          "publicacao": "DJE 226 de 18-11-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7261072",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20540829",
+          "temaRG": 297
+        },
+        {
+          "processo": "Rcl 27.540",
+          "relator": "Dias Toffoli",
+          "orgao": "dec. monocrática",
+          "julgamento": "25/09/2017",
+          "publicacao": "DJE 219 de 27-9-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=312827319&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2027540"
+        },
+        {
+          "processo": "RE 600.980",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "dec. monocrática",
+          "julgamento": "18/09/2017",
+          "publicacao": "DJE 215 de 22-9-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=312785953&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20600980"
+        }
+      ]
     },
     "49": {
       "numero": 49,
@@ -402,7 +2227,18 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "17/06/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula808/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula808/false",
+      "precedentes": [
+        {
+          "processo": "RE 193.749",
+          "relator": "Carlos Velloso",
+          "orgao": "P",
+          "julgamento": "04/06/1998",
+          "publicacao": "DJ de 4-5-2001",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=233533",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20193749"
+        }
+      ]
     },
     "50": {
       "numero": 50,
@@ -410,7 +2246,18 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "17/06/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula810/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula810/false",
+      "precedentes": [
+        {
+          "processo": "RE 209.386",
+          "relator": "Ilmar Galvão",
+          "orgao": "1ª T",
+          "julgamento": "05/12/1997",
+          "publicacao": "DJ de 27-2-1998",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=242255",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20209386"
+        }
+      ]
     },
     "51": {
       "numero": 51,
@@ -418,7 +2265,28 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "18/06/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula812/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula812/false",
+      "precedentes": [
+        {
+          "processo": "RE 445.018 AgR",
+          "relator": "Ayres Britto",
+          "orgao": "1ª T",
+          "julgamento": "29/06/2005",
+          "publicacao": "DJ de 21-10-2005",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=357400",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20445018"
+        },
+        {
+          "processo": "RE 584.313 QO-RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "06/10/2010",
+          "publicacao": "DJE 200 de 22-10-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=615757",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20584313-RG",
+          "temaRG": 340
+        }
+      ]
     },
     "52": {
       "numero": 52,
@@ -426,7 +2294,28 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "18/06/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula811/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula811/false",
+      "precedentes": [
+        {
+          "processo": "ARE 760.876 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "1ª T",
+          "julgamento": "04/02/2014",
+          "publicacao": "DJE 65 de 2-4-2014",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5568351",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%20760876"
+        },
+        {
+          "processo": "RE 767.332 RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "31/10/2013",
+          "publicacao": "DJE 230 de 22-11-2013",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=4904092",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20767332",
+          "temaRG": 693
+        }
+      ]
     },
     "53": {
       "numero": 53,
@@ -434,7 +2323,36 @@
       "status": "aprovada",
       "ramo": "Processual do Trabalho",
       "data": "18/06/2015",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula809/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula809/false",
+      "precedentes": [
+        {
+          "processo": "RE 569.056",
+          "relator": "Menezes Direito",
+          "orgao": "P",
+          "julgamento": "11/09/2008",
+          "publicacao": "DJE 236 de 12-12-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=568701",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20569056"
+        },
+        {
+          "processo": "Rcl 26.671 AgR",
+          "relator": "Roberto Barroso",
+          "orgao": "1ª T",
+          "julgamento": "20/02/2018",
+          "publicacao": "DJE 39 de 1º-3-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14417702",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2026671"
+        },
+        {
+          "processo": "ARE 1.031.969",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "24/04/2017",
+          "publicacao": "DJE 89 de 2-5-2017",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=311701536&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ARE%201031969"
+        }
+      ]
     },
     "54": {
       "numero": 54,
@@ -442,7 +2360,36 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "17/03/2016",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula813/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula813/false",
+      "precedentes": [
+        {
+          "processo": "RE 592.315 AgR",
+          "relator": "Dias Toffoli",
+          "orgao": "1ª T",
+          "julgamento": "08/02/2011",
+          "publicacao": "DJE 66 de 7-4-2011",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=621584",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20592315"
+        },
+        {
+          "processo": "RE 231.630 AgR",
+          "relator": "Néri da Silveira",
+          "orgao": "2ª T",
+          "julgamento": "24/08/1999",
+          "publicacao": "DJ de 24-9-1999",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=332480",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20231630"
+        },
+        {
+          "processo": "ADI 1.612",
+          "relator": "Carlos Velloso",
+          "orgao": "P",
+          "julgamento": "06/05/1999",
+          "publicacao": "DJ de 18-6-1999",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266698",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=ADI%201612"
+        }
+      ]
     },
     "55": {
       "numero": 55,
@@ -450,7 +2397,27 @@
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "17/03/2016",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula814/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula814/false",
+      "precedentes": [
+        {
+          "processo": "RE 318.684",
+          "relator": "Moreira Alves",
+          "orgao": "1ª T",
+          "julgamento": "09/10/2001",
+          "publicacao": "DJ de 9-11-2001",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=260757",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20318684"
+        },
+        {
+          "processo": "RE 228.083",
+          "relator": "Ilmar Galvão",
+          "orgao": "1ª T",
+          "julgamento": "26/03/1999",
+          "publicacao": "DJ de 25-6-1999",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=252429",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20228083"
+        }
+      ]
     },
     "56": {
       "numero": 56,
@@ -458,7 +2425,101 @@
       "status": "aprovada",
       "ramo": "Processual Penal",
       "data": "29/06/2016",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula815/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula815/false",
+      "precedentes": [
+        {
+          "processo": "RE 641.320",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "11/05/2016",
+          "publicacao": "DJE 159 de 1º-8-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11436372",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20641320",
+          "temaRG": 423
+        },
+        {
+          "processo": "RE 580.252",
+          "relator": "Teori Zavascki",
+          "orgao": "P",
+          "julgamento": "16/02/2017",
+          "publicacao": "DJE 204 de 11-9-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13578623",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20580252",
+          "temaRG": 365
+        },
+        {
+          "processo": "Rcl 26.374 AgR",
+          "relator": "Edson Fachin",
+          "orgao": "2ª T",
+          "julgamento": "30/10/2018",
+          "publicacao": "DJE 238 de 9-11-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748625372",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2026374"
+        },
+        {
+          "processo": "Rcl 32.055",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "02/10/2018",
+          "publicacao": "DJE 212 de 4-10-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15338777707&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2032055"
+        },
+        {
+          "processo": "Rcl 27.676 AgR",
+          "relator": "Gilmar Mendes",
+          "orgao": "2ª T",
+          "julgamento": "17/08/2018",
+          "publicacao": "DJE 175 de 27-8-2018",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748040912",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2027676"
+        },
+        {
+          "processo": "Rcl 29.298",
+          "relator": "Alexandre de Moraes",
+          "orgao": "dec. monocrática",
+          "julgamento": "09/08/2018",
+          "publicacao": "DJE 164 de 14-8-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314993528&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2029298"
+        },
+        {
+          "processo": "Rcl 29.410",
+          "relator": "Marco Aurélio",
+          "orgao": "dec. monocrática",
+          "julgamento": "15/05/2018",
+          "publicacao": "DJE 98 de 21-5-2018",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=314384233&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2029410"
+        },
+        {
+          "processo": "Rcl 25.123",
+          "relator": "Ricardo Lewandowski",
+          "orgao": "2ª T",
+          "julgamento": "18/04/2017",
+          "publicacao": "DJE 168 de 1º-8-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13265575",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2025123"
+        },
+        {
+          "processo": "Rcl 25.328 AgR",
+          "relator": "Edson Fachin",
+          "orgao": "1ª T",
+          "julgamento": "18/10/2016",
+          "publicacao": "DJE 236 de 7-11-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11974872",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2025328"
+        },
+        {
+          "processo": "Rcl 24.840 MC",
+          "relator": "Roberto Barroso",
+          "orgao": "dec. monocrática",
+          "julgamento": "10/08/2016",
+          "publicacao": "DJE 170 de 15-8-2016",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=310107693&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2024840"
+        }
+      ]
     },
     "57": {
       "numero": 57,
@@ -466,7 +2527,19 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "15/04/2020",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula816/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula816/false",
+      "precedentes": [
+        {
+          "processo": "RE 330.817",
+          "relator": "Dias Toffoli",
+          "orgao": "P",
+          "julgamento": "08/03/2017",
+          "publicacao": "DJE 195 de 31-8-2017",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13501630",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20330817",
+          "temaRG": 593
+        }
+      ]
     },
     "58": {
       "numero": 58,
@@ -474,7 +2547,37 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "27/04/2020",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula817/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula817/false",
+      "precedentes": [
+        {
+          "processo": "RE 370.682",
+          "relator": "Ilmar Galvão",
+          "orgao": "P",
+          "julgamento": "25/06/2007",
+          "publicacao": "DJE 165 de 19-12-2007",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=503002",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20370682"
+        },
+        {
+          "processo": "RE 353.657",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "26/06/2007",
+          "publicacao": "DJE 41 de 7-3-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=513677",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20353657"
+        },
+        {
+          "processo": "RE 398.365 RG",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "27/08/2015",
+          "publicacao": "DJE 118 de 22-9-2015",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=9426112",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20398365",
+          "temaRG": 844
+        }
+      ]
     },
     "59": {
       "numero": 59,
@@ -482,7 +2585,27 @@
       "status": "aprovada",
       "ramo": "Penal",
       "data": "19/10/2023",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula819/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula819/false",
+      "precedentes": [
+        {
+          "processo": "HC 118.533",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "23/06/2016",
+          "publicacao": "DJE 229 de 19-9-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11677998",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%20118533"
+        },
+        {
+          "processo": "HC 97.256",
+          "relator": "Ayres Britto",
+          "orgao": "P",
+          "julgamento": "01/09/2010",
+          "publicacao": "DJE 247 de 16-12-2010",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=617879",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%2097256"
+        }
+      ]
     },
     "60": {
       "numero": 60,
@@ -490,7 +2613,39 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "16/09/2024",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula820/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula820/false",
+      "precedentes": [
+        {
+          "processo": "RE 855.178 ED",
+          "relator": "Luiz Fux",
+          "orgao": "P",
+          "julgamento": "23/05/2019",
+          "publicacao": "DJE 90 de 16-4-2020",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=752469853",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20855178",
+          "temaRG": 793
+        },
+        {
+          "processo": "RE 657.718",
+          "relator": "Marco Aurélio",
+          "orgao": "",
+          "julgamento": "22/05/2019",
+          "publicacao": "DJE 267 de 09-11-2020",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754312026",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20657718",
+          "temaRG": 500
+        },
+        {
+          "processo": "RE 1.366.243",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "16/09/2024",
+          "publicacao": "DJE de 11-10-2024",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=781043699",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201366243",
+          "temaRG": 1234
+        }
+      ]
     },
     "61": {
       "numero": 61,
@@ -498,7 +2653,55 @@
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "20/09/2024",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula821/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula821/false",
+      "precedentes": [
+        {
+          "processo": "RE 566.471",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "26/09/2024",
+          "publicacao": "DJE 28-11-2024",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=782533287",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20566471"
+        },
+        {
+          "processo": "RE 657.718",
+          "relator": "Marco Aurélio",
+          "orgao": "P",
+          "julgamento": "22/05/2019",
+          "publicacao": "DJE 267 de 9-11-2020",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754312026",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20657718",
+          "temaRG": 500
+        },
+        {
+          "processo": "Rcl 75.049 AgR",
+          "relator": "Flávio Dino",
+          "orgao": "1ª T",
+          "julgamento": "25/06/2025",
+          "publicacao": "DJE s/n 30-6-2025",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=788477413",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2075049"
+        },
+        {
+          "processo": "Rcl 75.471",
+          "relator": "Flávio Dino",
+          "orgao": "dec. monocrática",
+          "julgamento": "25/02/2025",
+          "publicacao": "DJE s/n 26-2-2025",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15374249975&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2075471"
+        },
+        {
+          "processo": "Rcl 73.135",
+          "relator": "Dias Toffoli",
+          "orgao": "dec. monocrática",
+          "julgamento": "13/12/2024",
+          "publicacao": "DJE s/n 17-12-2024",
+          "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15372963641&ext=.pdf",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=Rcl%2073135"
+        }
+      ]
     },
     "62": {
       "numero": 62,
@@ -506,7 +2709,19 @@
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "16/12/2024",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula822/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula822/false",
+      "precedentes": [
+        {
+          "processo": "RE 377.457",
+          "relator": "Gilmar Mendes",
+          "orgao": "P",
+          "julgamento": "17/09/2008",
+          "publicacao": "DJE 19-12-2008",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=570335",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%20377457",
+          "temaRG": 71
+        }
+      ]
     },
     "63": {
       "numero": 63,
@@ -514,7 +2729,28 @@
       "status": "aprovada",
       "ramo": "Penal",
       "data": "26/09/2025",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula823/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula823/false",
+      "precedentes": [
+        {
+          "processo": "HC 118.533",
+          "relator": "Cármen Lúcia",
+          "orgao": "P",
+          "julgamento": "23/06/2016",
+          "publicacao": "DJE 19-9-2016",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11677998",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=HC%20118533"
+        },
+        {
+          "processo": "RE 1.542.482 RG",
+          "relator": "Luís Roberto Barroso",
+          "orgao": "P",
+          "julgamento": "30/05/2025",
+          "publicacao": "DJE 9-6-2025",
+          "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=787760846",
+          "consulta": "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvance=true&classeNumeroIncidente=RE%201542482",
+          "temaRG": 1400
+        }
+      ]
     }
   }
 }

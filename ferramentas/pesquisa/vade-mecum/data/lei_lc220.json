@@ -1,0 +1,1039 @@
+{
+  "_meta": {
+    "codigo": "LC220",
+    "nome": "Sistema Nacional de Educação",
+    "lei": "Lei Complementar 220/2025",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm",
+    "total_artigos": 64,
+    "version": "2.0",
+    "gerado_em": "2026-07-23",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei Complementar institui o Sistema Nacional de Educação (SNE) e fixa normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios para elaboração e implementação de políticas, de programas e de ações educacionais, em regime de colaboração, nos termos do inciso V do caput e do parágrafo único do art. 23, do parágrafo único do art. 193 e dos arts. 211 e 214, todos da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20Complementar%20institui%20o%20Sistema%20Nacional%20de%20Educa%C3%A7%C3%A3o%20%28SNE%29%20e%20fixa%20normas%20para%20a%20coopera%C3%A7%C3%A3o%20entre%20a%20Uni%C3%A3o%2C%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O SNE consiste no conjunto de relações que promovem a articulação dos sistemas de ensino da União, dos Estados, do Distrito Federal e dos Municípios e a integração de suas ações relativas às políticas educacionais, em regime de colaboração, de acordo com as normas de cooperação de que tratam esta Lei Complementar, o Plano Nacional de Educação (PNE) e as demais normas da legislação educacional, respeitada a organização federativa da educação nacional.\n\nParágrafo único. Os sistemas de ensino da União, dos Estados, do Distrito Federal e dos Municípios são instituídos por lei específica de cada ente federado, assegurado ao Município o direito de optar por se integrar ao sistema estadual de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%202%C2%BA%20O%20SNE%20consiste%20no%20conjunto%20de%20rela%C3%A7%C3%B5es%20que%20promovem%20a%20articula%C3%A7%C3%A3o%20dos%20sistemas%20de%20ensino%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "DISPOSIÇÕES PRELIMINARES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º São princípios do SNE:\n\nI - a autonomia e a interdependência dos entes federados;\n\nII - a organização federativa da educação escolar brasileira;\n\nIII - a garantia e a inalienabilidade do direito subjetivo à educação em todos os níveis, etapas e modalidades de ensino;\n\nIV - a justiça e a igualdade na promoção dos direitos humanos, da diversidade sociocultural e da sustentabilidade socioambiental;\n\nV - o reconhecimento das identidades e das especificidades socioculturais, territoriais e linguísticas dos povos indígenas e quilombolas e das demais comunidades tradicionais;\n\nVI - a gestão democrática do ensino público;\n\nVII - a pactuação entre os entes federados para o planejamento e o desenvolvimento das políticas, dos programas e das ações educacionais, fundamentada na equidade em suas definições, na infraestrutura nacional de dados da educação e na alocação de recursos públicos;\n\nVIII - a articulação colaborativa e integrada da execução das políticas educacionais dos entes federados, inclusive mediante ações de assistência técnica e financeira;\n\nIX - a garantia a todos os estudantes de atendimento educacional adequado, inclusivo e, quando necessário, especializado;\n\nX - a valorização e o desenvolvimento permanente dos profissionais da educação;\n\nXI - o direito ao acesso à informação, à transparência e ao acompanhamento e controle social das políticas, dos programas e das ações educacionais;\n\nXII - o uso de infraestrutura nacional de dados da educação que promova a interoperabilidade, o compartilhamento, a qualidade e a segurança dos dados educacionais dos estabelecimentos e dos sistemas de ensino, assegurada a proteção dos dados pessoais de alunos, de professores e de gestores, conforme a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%203%C2%BA%20S%C3%A3o%20princ%C3%ADpios%20do%20SNE%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "DOS PRINCÍPIOS E DOS OBJETIVOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º São objetivos do SNE:\n\nI - promover o regime de colaboração entre os entes federados no âmbito das políticas educacionais, consideradas a autonomia e a interdependência dos sistemas de ensino;\n\nII - promover o planejamento articulado das políticas educacionais dos entes federados, por meio de planos decenais nacional, estaduais, distrital e municipais de educação, dos planos plurianuais e dos demais instrumentos de planejamento e gestão;\n\nIII - promover a igualdade e a equidade de condições para o acesso e a permanência na escola, com qualidade, de forma a assegurar trajetória escolar contínua e integrada dos estudantes ao longo de todos os níveis da educação escolar, como responsabilidade compartilhada entre a União, os Estados, o Distrito Federal e os Municípios;\n\nIV - articular a definição de prioridades nas políticas educacionais e o equilíbrio, a racionalidade e a eficiência na alocação de recursos públicos, mediante sua repartição equilibrada entre os entes federados para assegurar equidade no investimento público em educação por estudante, considerados os custos diferenciados das etapas, das modalidades e dos tipos de jornada e de estabelecimentos de ensino;\n\nV - estabelecer padrões nacionais de qualidade para a educação básica;\n\nVI - fomentar a cooperação entre entes subnacionais para o planejamento e a integração regional de ações intersetoriais que promovam a qualidade da oferta educacional;\n\nVII - promover a harmonização das normas educacionais entre os diferentes sistemas de ensino;\n\nVIII - promover o monitoramento e a avaliação integral e coordenada entre os entes federados dos padrões de oferta, da qualidade do ensino, dos resultados da aprendizagem, do desenvolvimento institucional e dos resultados sociais da educação;\n\nIX - acompanhar a implementação da base nacional comum curricular.\n\nParágrafo único. Para o cumprimento do disposto neste artigo, a União terá acesso aos dados e às informações necessários dos estabelecimentos e órgãos educacionais para subsidiar o planejamento e a pactuação entre os entes federados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%204%C2%BA%20S%C3%A3o%20objetivos%20do%20SNE%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "DOS PRINCÍPIOS E DOS OBJETIVOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º No âmbito do SNE, compete à União:\n\nI - coordenar o SNE e efetuar a formulação democrática da política nacional de educação;\n\nII - coordenar, regular, avaliar e supervisionar o sistema federal de ensino;\n\nIII - prestar assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios, com vistas a assegurar a oferta de educação básica pública de qualidade, com base no Custo Aluno Qualidade (CAQ);\n\nIV - manter os sistemas nacionais de avaliação da educação básica e da educação profissional e tecnológica, em colaboração com os entes federados subnacionais, e manter os sistemas nacionais de avaliação da educação superior em nível de graduação e de pós-graduação;\n\nV - promover a articulação entre os sistemas nacionais de avaliação da educação básica e da educação profissional e tecnológica e os sistemas próprios dos entes federados subnacionais;\n\nVI - promover a articulação das políticas de desenvolvimento da educação superior das redes pública e privada;\n\nVII - coordenar o processo de monitoramento e avaliação do PNE, em colaboração com os Estados, o Distrito Federal, os Municípios e as demais instâncias previstas nas leis instituidoras dos planos nacionais de educação;\n\nVIII - criar e manter a Comissão Intergestores Tripartite da Educação (Cite), de que trata o inciso I do caput do art. 12 desta Lei Complementar;\n\nIX - manter sistemas de informações e estatísticas educacionais para subsidiar o planejamento da oferta e a pactuação entre os entes federados, no âmbito das instâncias permanentes de pactuação previstas no art. 12 desta Lei Complementar;\n\nX - organizar, normatizar, coordenar e supervisionar a interoperabilidade dos dados educacionais dos estabelecimentos e dos sistemas de ensino, bem como o compartilhamento desses dados em plataforma nacional, no âmbito da Infraestrutura Nacional de Dados da Educação (Inde), de que trata o art. 24 desta Lei Complementar;\n\nXI - promover o uso estratégico de dados na gestão educacional;\n\nXII - prestar assistência técnica aos entes subnacionais para a interoperabilidade dos dados dos estabelecimentos e dos sistemas de ensino a serem compartilhados em plataforma nacional, no âmbito da Inde, de que trata o art. 24 desta Lei Complementar;\n\nXIII - considerar as pactuações efetivadas no âmbito da Cite, observado o disposto nos §§ 2º e 3º do art. 13 desta Lei Complementar;\n\nXIV - apoiar a oferta, a manutenção e o desenvolvimento da educação escolar das populações do campo e das comunidades tradicionais, indígenas e quilombolas, em colaboração com os Estados, o Distrito Federal e os Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%205%C2%BA%20No%20%C3%A2mbito%20do%20SNE%2C%20compete%20%C3%A0%20Uni%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "DAS COMPETÊNCIAS DOS ENTES FEDERADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º No âmbito do SNE, compete aos Estados:\n\nI - coordenar, regular, avaliar e supervisionar os sistemas estaduais de ensino;\n\nII - pactuar com seus Municípios a oferta de educação escolar pública obrigatória em seu território, especialmente no que se refere ao ensino fundamental, de responsabilidade comum das 2 (duas) instâncias;\n\nIII - articular o planejamento e o funcionamento de sua rede de educação básica com as redes dos Municípios, de modo a assegurar a continuidade da trajetória escolar dos estudantes ao longo de suas etapas;\n\nIV - prestar assistência técnica e financeira aos Municípios para promover a equalização de oportunidades educacionais e a oferta de educação básica pública de qualidade;\n\nV - articular suas políticas de desenvolvimento da educação profissional e tecnológica e da educação superior com as da União e com as de suas redes de educação básica e as de seus Municípios;\n\nVI - desenvolver sistemas próprios de avaliação da educação básica, em articulação com os Municípios, integrados ao sistema nacional de avaliação da educação básica;\n\nVII - assegurar a integração entre seus sistemas próprios de educação profissional e tecnológica e o respectivo sistema nacional de avaliação;\n\nVIII - monitorar e avaliar periodicamente o Plano Estadual de Educação, a partir de metodologia definida em colaboração com os Municípios, compatível com a metodologia de monitoramento do PNE;\n\nIX - integrar, no seu território, a oferta de educação escolar pública com os programas suplementares de material didático escolar, de transporte, de alimentação e de assistência à saúde;\n\nX - criar e manter a respectiva Comissão Intergestores Bipartite da Educação (Cibe), de que trata o art. 12 desta Lei Complementar;\n\nXI - cooperar com a União no fornecimento tempestivo, regular e padronizado de dados educacionais do seu sistema de ensino, por meio do compartilhamento desses dados em plataforma nacional, no âmbito da Inde, de que trata o art. 24 desta Lei Complementar;\n\nXII - considerar as pactuações efetivadas no âmbito da Cite e da respectiva Cibe, observado o disposto nos §§ 2º e 3º do art. 13 e nos §§ 1º e 2º do art. 14 desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%206%C2%BA%20No%20%C3%A2mbito%20do%20SNE%2C%20compete%20aos%20Estados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "DAS COMPETÊNCIAS DOS ENTES FEDERADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º No âmbito do SNE, compete aos Municípios:\n\nI - coordenar, regular, avaliar e supervisionar os seus sistemas de ensino;\n\nII - organizar e dimensionar a demanda local, com apoio do respectivo Estado, como forma de subsidiar o planejamento regional da oferta de educação escolar pública;\n\nIII - pactuar com o Estado a oferta da educação escolar pública obrigatória em seu território;\n\nIV - articular o planejamento e o funcionamento da sua rede de educação básica com a do Estado, de modo a assegurar a continuidade da trajetória escolar dos estudantes ao longo de suas etapas;\n\nV - integrar, no seu território, a oferta de educação escolar pública com os programas suplementares de material didático escolar, de transporte, de alimentação e de assistência à saúde;\n\nVI - assegurar a integração entre seus sistemas próprios de avaliação da educação básica com o sistema estadual e o nacional de avaliação da educação básica;\n\nVII - monitorar e avaliar periodicamente o Plano Municipal de Educação, a partir de metodologia compatível com a de monitoramento do PNE e do Plano Estadual de Educação;\n\nVIII - cooperar com a União no fornecimento tempestivo, regular e padronizado de dados educacionais do seu sistema de ensino, por meio do compartilhamento desses dados em plataforma nacional, no âmbito da Inde, de que trata o art. 24 desta Lei Complementar;\n\nIX - considerar as pactuações efetivadas no âmbito da Cite e da respectiva Cibe, observado o disposto nos §§ 2º e 3º do art. 13 e nos §§ 1º e 2º do art. 14 desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%207%C2%BA%20No%20%C3%A2mbito%20do%20SNE%2C%20compete%20aos%20Munic%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "DAS COMPETÊNCIAS DOS ENTES FEDERADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Ao Distrito Federal aplicar-se-ão as disposições dos arts. 6º e 7º desta Lei Complementar, no que couber.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%208%C2%BA%20Ao%20Distrito%20Federal%20aplicar-se-%C3%A3o%20as%20disposi%C3%A7%C3%B5es%20dos%20arts.%206%C2%BA%20e%207%C2%BA%20desta%20Lei%20Complementar%2C%20no%20que%20couber.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "DAS COMPETÊNCIAS DOS ENTES FEDERADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Os entes federados poderão constituir formas associativas para implementação de programas e de ações educacionais, como consórcios ou outras formas previstas em lei, com vistas ao planejamento, à execução e ao financiamento comuns dos serviços dessa área, observadas as necessidades, as especificidades e as identidades educacionais, sociais, econômicas e culturais dos envolvidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%209%C2%BA%20Os%20entes%20federados%20poder%C3%A3o%20constituir%20formas%20associativas%20para%20implementa%C3%A7%C3%A3o%20de%20programas%20e%20de%20a%C3%A7%C3%B5es%20educacionais%2C%20como%20cons%C3%B3rcios%20ou%20outras%20formas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "DAS COMPETÊNCIAS DOS ENTES FEDERADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O SNE compreende as seguintes funções integradoras:\n\nI - governança democrática da educação nacional;\n\nII - planejamento da educação nacional;\n\nIII - padrões nacionais de qualidade;\n\nIV - financiamento da educação nacional;\n\nV - avaliação da educação nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2010.%20O%20SNE%20compreende%20as%20seguintes%20fun%C3%A7%C3%B5es%20integradoras%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "I",
+        "section_name": "Disposições Gerais"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. São instâncias da governança democrática da educação nacional:\n\nI - instâncias permanentes de pactuação do SNE;\n\nII - instâncias normativas do SNE;\n\nIII - instâncias de participação e acompanhamento e controle social do SNE.\n\nParágrafo único. A Inde, instituída no art. 24 desta Lei Complementar, contribuirá com o sistema de governança democrática do SNE para subsidiar os processos de planejamento e de gestão das políticas educacionais e o cumprimento dos objetivos do SNE estabelecidos no art. 4º desta Lei Complementar.\n\nSubseção II\n\nDas Instâncias Permanentes de Pactuação do SNE",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2011.%20S%C3%A3o%20inst%C3%A2ncias%20da%20governan%C3%A7a%20democr%C3%A1tica%20da%20educa%C3%A7%C3%A3o%20nacional%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. São instâncias permanentes de pactuação do SNE:\n\nI - a Comissão Intergestores Tripartite da Educação (Cite), instância de âmbito nacional responsável pela articulação, negociação e pactuação entre gestores da educação das 3 (três) esferas da Federação;\n\nII - a Comissão Intergestores Bipartite da Educação (Cibe), instância de âmbito estadual responsável pela articulação, negociação e pactuação entre gestores da educação de cada Estado e de seus Municípios.\n\n§ 1º As comissões de que tratam os incisos I e II do caput deste artigo:\n\nI - são criadas por ato do respectivo Poder Executivo, nos termos desta Lei Complementar;\n\nII - têm sua organização e funcionamento definidos em regimento próprio, aprovado consensualmente;\n\nIII - têm suas deliberações registradas em atas lavradas conforme seu regimento interno e publicadas em seu sítio eletrônico;\n\nIV - são autorizadas a instituir subcomissões temporárias para tratar, respectivamente, de temas nacionais e subnacionais da educação;\n\nV - podem organizar, assim como suas subcomissões, grupos de trabalho, de acordo com temas específicos, com a participação de especialistas e de representantes da sociedade civil organizada.\n\n§ 2º As comissões intergestores tripartites ou bipartites da educação já criadas ou que venham a ser criadas por lei federal ou estadual para programas e ações específicas são consideradas subcomissões, respectivamente, da Cite e da Cibe, observadas as atribuições previstas nas respectivas leis de criação e as disposições desta Lei Complementar.\n\n§ 3º As competências atribuídas à Cite e à Cibe, respectivamente, nos arts. 13 e 14 desta Lei Complementar, como instâncias de articulação, negociação e pactuação, não implicam a aprovação ou a submissão a essas comissões, pelos entes federados, de suas políticas, programas ou ações educacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2012.%20S%C3%A3o%20inst%C3%A2ncias%20permanentes%20de%20pactua%C3%A7%C3%A3o%20do%20SNE%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. À Cite, sob coordenação do Ministério da Educação, compete pactuar sobre:\n\nI - a coordenação das ações dos entes federados para a participação na formulação da política nacional para a educação básica e para a implementação das estratégias e o alcance das respectivas metas do PNE;\n\nII - a divisão de responsabilidades entre os entes federados nas ações de que trata o inciso I deste caput, bem como os mecanismos de transparência e controle de sua execução;\n\nIII - a articulação das políticas de desenvolvimento e oferta das etapas e das modalidades da educação básica, de modo a assegurar trajetórias educacionais harmônicas e consistentes aos estudantes;\n\nIV - a apresentação de propostas de demandas prioritárias e de estratégias para a assistência técnica e financeira da União aos Estados, ao Distrito Federal e aos Municípios;\n\nV - o padrão mínimo de qualidade do ensino na educação básica a que se refere o § 1º do art. 211 da Constituição Federal, consideradas as condições adequadas de oferta das etapas, das modalidades e dos tipos de jornada e de estabelecimentos de ensino e a diversidade regional e local das redes de ensino, bem como os respectivos custos diferenciados;\n\nVI - a aprovação da metodologia de cálculo do CAQ para a educação básica, com base em estudos técnicos elaborados pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) e, caso necessário, a critério da Cite, por outras instituições e órgãos públicos por ela designados, observado o disposto nesta Lei Complementar;\n\nVII - a apresentação de contribuições para a elaboração da proposta do PNE subsequente;\n\nVIII - a cooperação entre os entes federados subnacionais para implementação conjunta de políticas, de programas e de ações com vistas ao desenvolvimento da educação nos seus territórios.\n\n§ 1º O Fundo Nacional de Desenvolvimento da Educação (FNDE), o Inep e a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) subsidiarão tecnicamente a tomada de decisão no âmbito da Cite, sem prejuízo de consulta a outras instituições e órgãos técnicos.\n\n§ 2º As pactuações realizadas no âmbito da Cite de que tratam os incisos I a IV, VII e VIII do caput deste artigo têm caráter de orientação aos entes federados para formulação de suas políticas educacionais, no âmbito de sua autonomia federativa, na perspectiva do regime de colaboração e das demais disposições previstas no art. 211 da Constituição Federal.\n\n§ 3º A Cite publicará resoluções para efetivação das pactuações de que tratam os incisos V e VI do caput deste artigo e, quando couber, resoluções orientadoras sobre as pactuações de que tratam os incisos I a IV, VII e VIII do caput deste artigo, para fins do disposto no § 2º deste artigo.\n\n§ 4º A Cite terá composição paritária entre os representantes dos Poderes Executivos dos entes federados, da seguinte forma:\n\nI - 6 (seis) representantes da União e 6 (seis) suplentes, um dos quais o Ministro de Estado da Educação, que presidirá a comissão e indicará os demais representantes, entre os titulares de secretarias e órgãos equivalentes do Ministério da Educação;\n\nII - 6 (seis) representantes titulares e 6 (seis) suplentes de Secretarias de Educação dos Estados e do Distrito Federal, compreendendo o Presidente do Conselho Nacional de Secretários de Educação (Consed) e 1 (um) representante de cada uma das 5 (cinco) regiões político-administrativas do País, indicados pelas respectivas seções regionais da entidade;\n\nIII - 6 (seis) representantes titulares e 6 (seis) suplentes de Secretarias de Educação dos Municípios, dos quais 5 (cinco) representantes da União Nacional dos Dirigentes Municipais de Educação (Undime), compreendendo o Presidente da entidade e 1 (um) representante de cada uma das demais regiões político-administrativas do País, indicados pelas respectivas seções regionais, e o Presidente do Conselho Nacional de Secretários de Educação de Capitais (Consec).\n\n§ 5º Os representantes titulares dos Estados e dos Municípios e seus suplentes, referidos nos incisos II e III do § 4º deste artigo, deverão ser, respectivamente, Secretários de Estado de Educação e Dirigentes Municipais de Educação.\n\n§ 6º A indicação dos suplentes dos representantes dos Estados e dos Municípios deverá obedecer ao mesmo critério de representação regional disposto nos incisos II e III do § 4º deste artigo.\n\n§ 7º A participação na Cite é função não remunerada de relevante interesse público, e seus membros, quando convocados, farão jus a transporte e a diárias.\n\n§ 8º Os integrantes da Cite serão nomeados por ato do Ministro de Estado da Educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2013.%20%C3%80%20Cite%2C%20sob%20coordena%C3%A7%C3%A3o%20do%20Minist%C3%A9rio%20da%20Educa%C3%A7%C3%A3o%2C%20compete%20pactuar%20sobre%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. À Cibe, sob coordenação da Secretaria Estadual de Educação, compete exercer atribuições específicas similares às da Cite, no âmbito de sua competência, e especialmente pactuar sobre:\n\nI - a coordenação das ações entre o Estado e seus Municípios para a implementação das estratégias e o alcance das metas do PNE e dos respectivos planos estaduais e municipais de educação;\n\nII - a divisão de responsabilidades entre o Estado e seus Municípios nas ações de que trata o inciso I deste caput, bem como os mecanismos de transparência e controle de sua execução;\n\nIII - a articulação das políticas de desenvolvimento e oferta da educação básica em suas diversas etapas e modalidades;\n\nIV - as estratégias para o compartilhamento da oferta do ensino fundamental no âmbito do seu território;\n\nV - as estratégias colaborativas de oferta de programas suplementares de apoio ao estudante da educação básica, em especial os de alimentação e de transporte escolar;\n\nVI - as estratégias de transição dos estudantes entre etapas, modalidades e redes de ensino, consideradas a equidade de aprendizagem e a trajetória harmônica dos estudantes;\n\nVII - as estratégias para quantificação, identificação e implementação de programas de busca ativa direcionados a crianças, a jovens e a adultos não atendidos na educação básica;\n\nVIII - a metodologia para monitorar e avaliar periodicamente os planos estaduais e municipais de educação, de modo articulado com a metodologia relativa ao PNE.\n\n§ 1º As pactuações realizadas no âmbito da Cibe de que tratam os incisos I a VIII do caput deste artigo têm caráter de orientação aos entes federados para formulação de suas políticas educacionais, no âmbito de sua autonomia federativa, na perspectiva do regime de colaboração e das demais disposições previstas no art. 211 da Constituição Federal.\n\n§ 2º A Cibe publicará, quando couber, resoluções orientadoras sobre as pactuações de que tratam os incisos I a VIII do caput deste artigo, para fins do disposto no § 1º deste artigo.\n\n§ 3º A Cibe, em cada Estado, terá composição paritária entre os representantes dos Poderes Executivos dos entes federados, da seguinte forma:\n\nI - 6 (seis) representantes do Estado e 6 (seis) suplentes, entre os quais o titular da Secretaria Estadual de Educação, que presidirá a comissão e indicará os demais representantes estaduais, entre os titulares dos órgãos da secretaria em nível de secretaria adjunta, subsecretaria ou equivalente;\n\nII - 6 (seis) representantes dos Municípios e 6 (seis) suplentes, titulares de Secretarias de Educação dos Municípios, dos quais 5 (cinco) indicados pela seccional da Undime no Estado e 1 (um) indicado pela Secretaria de Educação da capital do Estado.\n\n§ 4º Os integrantes da Cibe serão nomeados por ato do respectivo Secretário Estadual de Educação.\n\nSubseção III\n\nDas Instâncias Normativas do SNE",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2014.%20%C3%80%20Cibe%2C%20sob%20coordena%C3%A7%C3%A3o%20da%20Secretaria%20Estadual%20de%20Educa%C3%A7%C3%A3o%2C%20compete%20exercer%20atribui%C3%A7%C3%B5es%20espec%C3%ADficas%20similares%20%C3%A0s%20da%20Cite%2C%20no%20%C3%A2mbito%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. São instâncias normativas do SNE:\n\nI - o Ministério da Educação;\n\nII - o Conselho Nacional de Educação (CNE);\n\nIII - os Conselhos Estaduais de Educação e o Conselho de Educação do Distrito Federal;\n\nIV - os Conselhos Municipais de Educação;\n\nV - o órgão máximo dirigente da educação em cada esfera do governo.\n\n§ 1º Os conselhos de educação previstos no caput são órgãos instituídos por lei do respectivo ente federado dotados de autonomia técnico-pedagógica, administrativa e financeira, assegurada pelos respectivos poderes instituintes, com representatividade do poder público e da sociedade civil, com função normativa e de assessoramento técnico ao Poder Executivo e outras que lhes forem atribuídas pela Lei nº 9.394, de 20 de dezembro de 1996, e pela lei de criação.\n\n§ 2º Os conselhos de educação previstos no caput deste artigo têm sua organização e funcionamento regidos por regimento próprio.\n\n§ 3º Os atos normativos dos conselhos de educação estão sujeitos à homologação pelo respectivo Poder Executivo.\n\n§ 4º No caso dos Municípios, os conselhos de acompanhamento e controle social previstos na legislação federal podem ser instituídos como câmaras específicas dos respectivos Conselhos Municipais de Educação.\n\n§ 5º Ato do Ministro de Estado da Educação instituirá, no CNE, que o coordenará, Fórum dos Conselhos de Educação dos Estados, do Distrito Federal e dos Municípios, de caráter consultivo, para debater e harmonizar as normas educacionais nas respectivas esferas.\n\n§ 6º Os presidentes dos conselhos de educação previstos no caput deste artigo serão eleitos por seus respectivos pares, conforme regulamento.\n\nSubseção IV\n\nDas Instâncias de Participação e Acompanhamento e Controle Social do SNE",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2015.%20S%C3%A3o%20inst%C3%A2ncias%20normativas%20do%20SNE%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. São instâncias de participação e acompanhamento e controle social do SNE:\n\nI - os fóruns de educação;\n\nII - as conferências de educação;\n\nIII - os conselhos de acompanhamento e controle social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2016.%20S%C3%A3o%20inst%C3%A2ncias%20de%20participa%C3%A7%C3%A3o%20e%20acompanhamento%20e%20controle%20social%20do%20SNE%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os fóruns de educação são instâncias de participação social instituídas por ato do Poder Executivo no âmbito de sua esfera de atuação, com as funções previstas no art. 19 desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2017.%20Os%20f%C3%B3runs%20de%20educa%C3%A7%C3%A3o%20s%C3%A3o%20inst%C3%A2ncias%20de%20participa%C3%A7%C3%A3o%20social%20institu%C3%ADdas%20por%20ato%20do%20Poder%20Executivo%20no%20%C3%A2mbito%20de%20sua%20esfera",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2018.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Compete aos fóruns de educação, na sua esfera de atuação:\n\nI - coordenar a realização das conferências de educação e aprovar seu regulamento;\n\nII - acompanhar a implementação dos planos de educação, seus objetivos e metas;\n\nIII - debater temas relacionados à política educacional.\n\nParágrafo único. Haverá, no âmbito da União, o Fórum Nacional de Educação (FNE), cabendo aos Estados, ao Distrito Federal e aos Municípios instituir os respectivos fóruns similares em seus âmbitos, com as atribuições previstas neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2019.%20Compete%20aos%20f%C3%B3runs%20de%20educa%C3%A7%C3%A3o%2C%20na%20sua%20esfera%20de%20atua%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Haverá, no âmbito da União, fórum permanente, com representação da União, dos Estados, do Distrito Federal, dos Municípios e dos trabalhadores da educação, para acompanhamento da atualização progressiva do valor do piso salarial nacional para os profissionais do magistério público da educação básica e da valorização das respectivas carreiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2020.%20Haver%C3%A1%2C%20no%20%C3%A2mbito%20da%20Uni%C3%A3o%2C%20f%C3%B3rum%20permanente%2C%20com%20representa%C3%A7%C3%A3o%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%2C%20dos%20Munic%C3%ADpios%20e%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A participação nos fóruns de educação é função não remunerada de relevante interesse público, e seus membros, quando convocados, farão jus a transporte e a diárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2021.%20A%20participa%C3%A7%C3%A3o%20nos%20f%C3%B3runs%20de%20educa%C3%A7%C3%A3o%20%C3%A9%20fun%C3%A7%C3%A3o%20n%C3%A3o%20remunerada%20de%20relevante%20interesse%20p%C3%BAblico%2C%20e%20seus%20membros%2C%20quando%20convocados%2C%20far%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. As conferências nacionais de educação, promovidas pela União, articuladas e coordenadas pelo FNE, realizar-se-ão com intervalo de até 4 (quatro) anos, com o objetivo de subsidiar o planejamento da educação nacional, avaliar a implementação do PNE, promover o debate temático de interesse da educação nacional e subsidiar a elaboração do PNE para o decênio subsequente.\n\n§ 1º Serão realizadas conferências estaduais, distrital e municipais de educação no período de vigência do PNE e dos respectivos planos estaduais, distrital e municipais de Educação, em articulação com as conferências nacionais de educação.\n\n§ 2º A promoção das conferências contará com assistência técnica e financeira da União ao Distrito Federal e aos Estados e dos Estados aos Municípios constituintes da respectiva unidade da Federação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2022.%20As%20confer%C3%AAncias%20nacionais%20de%20educa%C3%A7%C3%A3o%2C%20promovidas%20pela%20Uni%C3%A3o%2C%20articuladas%20e%20coordenadas%20pelo%20FNE%2C%20realizar-se-%C3%A3o%20com%20intervalo%20de%20at%C3%A9%204%20%28quatro%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As políticas e os programas educacionais instituídos por lei no âmbito do SNE contarão, como parte do seu mecanismo de governança democrática, com 1 (um) conselho de acompanhamento e controle social, com participação do governo e da sociedade civil, instituído em cada ente federado.\n\nParágrafo único. Os conselhos de acompanhamento e controle social têm funções consultivas, propositivas e fiscalizadoras, na forma da lei de criação.\n\nSubseção V\n\nDa Infraestrutura Nacional de Dados da Educação",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2023.%20As%20pol%C3%ADticas%20e%20os%20programas%20educacionais%20institu%C3%ADdos%20por%20lei%20no%20%C3%A2mbito%20do%20SNE%20contar%C3%A3o%2C%20como%20parte%20do%20seu%20mecanismo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. É instituída a Infraestrutura Nacional de Dados da Educação (Inde), com o objetivo de promover a interoperabilidade, o compartilhamento, a qualidade e a segurança dos dados educacionais dos estabelecimentos e dos sistemas de ensino, assegurada a proteção dos dados pessoais de alunos, de professores e de gestores, conforme a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2024.%20%C3%89%20institu%C3%ADda%20a%20Infraestrutura%20Nacional%20de%20Dados%20da%20Educa%C3%A7%C3%A3o%20%28Inde%29%2C%20com%20o%20objetivo%20de%20promover%20a%20interoperabilidade%2C%20o%20compartilhamento%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A União, por intermédio do Ministério da Educação, é responsável por organizar, normatizar, coordenar e supervisionar a Inde, que constitui o conjunto de normas, políticas, arquiteturas, padrões, instâncias, ferramentas tecnológicas e ativos de informação para o uso estratégico de dados na educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2025.%20A%20Uni%C3%A3o%2C%20por%20interm%C3%A9dio%20do%20Minist%C3%A9rio%20da%20Educa%C3%A7%C3%A3o%2C%20%C3%A9%20respons%C3%A1vel%20por%20organizar%2C%20normatizar%2C%20coordenar%20e%20supervisionar%20a%20Inde%2C%20que%20constitui",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A Inde compreende:\n\nI - a instituição do Cadastro de Pessoas Físicas (CPF) como o Identificador Nacional Único do Estudante (Inue), de uso obrigatório em todas as bases de dados e registros administrativos dos sistemas de ensino da União, dos Estados, do Distrito Federal e dos Municípios, com a finalidade de assegurar a interoperabilidade dos dados educacionais;\n\nII - a instituição de conjuntos mínimos de dados de gestão a serem compartilhados;\n\nIII - a definição de padrão nacional de interoperabilidade, que contemplará protocolos técnicos, modelos de dados, mecanismos de autenticação, validação, integridade e segurança da informação;\n\nIV - o compartilhamento dos dados da educação por meio de plataforma nacional;\n\nV - a promoção da transparência na disponibilidade e no acesso aos dados educacionais, respeitados os princípios da publicidade, da legalidade, da proteção de dados pessoais e da segurança da informação.\n\n§ 1º A União, em colaboração com os Estados, o Distrito Federal e os Municípios, promoverá a atualização e a revisão dos conjuntos mínimos de dados educacionais, sempre que necessário.\n\n§ 2º O Inue, entre outras finalidades, poderá ser utilizado para a consolidação de indicadores nacionais e regionais sobre fluxo escolar, permanência, mobilidade estudantil, trajetória escolar, evasão e resultados, de forma a subsidiar o planejamento e a avaliação das políticas públicas de educação.\n\n§ 3º O disposto neste artigo é de observância obrigatória por todos os entes federados e suas administrações autárquicas e fundacionais, bem como por estabelecimentos educacionais privados e comunitários, no que couber.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2026.%20A%20Inde%20compreende%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "II",
+        "section_name": "Da Governança Democrática da Educação Nacional"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O PNE, estabelecido em lei, de duração decenal, tem o objetivo de definir diretrizes, objetivos, metas e estratégias para a educação nacional e de articular o SNE.\n\nParágrafo único. Os Estados, o Distrito Federal e os Municípios estabelecerão em lei seus correspondentes planos de educação, de duração decenal, em consonância com o PNE.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2027.%20O%20PNE%2C%20estabelecido%20em%20lei%2C%20de%20dura%C3%A7%C3%A3o%20decenal%2C%20tem%20o%20objetivo%20de%20definir%20diretrizes%2C%20objetivos%2C%20metas%20e%20estrat%C3%A9gias%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "III",
+        "section_name": "Do Planejamento da Educação Nacional"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A elaboração dos planos decenais de educação observará a participação de representantes da comunidade educacional e da sociedade civil.\n\nParágrafo único. O processo de elaboração dos planos de educação deverá ser realizado de forma articulada entre as 3 (três) esferas da Federação, de modo a possibilitar a compatibilidade de diretrizes, de objetivos, de metas e de estratégias dos planos nacional, estaduais, distrital e municipais e das respectivas vigências.\n\nSubseção II\n\nDo Monitoramento e da Avaliação dos Planos Decenais de Educação",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2028.%20A%20elabora%C3%A7%C3%A3o%20dos%20planos%20decenais%20de%20educa%C3%A7%C3%A3o%20observar%C3%A1%20a%20participa%C3%A7%C3%A3o%20de%20representantes%20da%20comunidade%20educacional%20e%20da%20sociedade%20civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "III",
+        "section_name": "Do Planejamento da Educação Nacional"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. As leis que instituírem os planos decenais de educação definirão:\n\nI - o escopo, as competências, os critérios e os mecanismos para o monitoramento e a avaliação dos planos de educação;\n\nII - as formas de participação da sociedade nos processos de monitoramento e de avaliação dos planos decenais de educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2029.%20As%20leis%20que%20institu%C3%ADrem%20os%20planos%20decenais%20de%20educa%C3%A7%C3%A3o%20definir%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "III",
+        "section_name": "Do Planejamento da Educação Nacional"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A ação de assistência técnica e financeira entre entes federados dar-se-á em observância das diretrizes, dos objetivos, das estratégias e das metas dos planos decenais de educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2030.%20A%20a%C3%A7%C3%A3o%20de%20assist%C3%AAncia%20t%C3%A9cnica%20e%20financeira%20entre%20entes%20federados%20dar-se-%C3%A1%20em%20observ%C3%A2ncia%20das%20diretrizes%2C%20dos%20objetivos%2C%20das%20estrat%C3%A9gias%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "III",
+        "section_name": "Do Planejamento da Educação Nacional"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A oferta educacional no SNE tem por princípio a garantia de padrão de qualidade em todos os níveis, etapas e modalidades de ensino, conforme disposto no inciso VII do caput do art. 206 da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2031.%20A%20oferta%20educacional%20no%20SNE%20tem%20por%20princ%C3%ADpio%20a%20garantia%20de%20padr%C3%A3o%20de%20qualidade%20em%20todos%20os%20n%C3%ADveis%2C%20etapas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Os padrões mínimos de qualidade da educação básica, nos termos do § 1º do art. 211 da Constituição Federal, são padrões nacionais a serem pactuados entre a União, os Estados, o Distrito Federal e os Municípios, no âmbito da Cite, e observados em todo o território nacional, e compreendem:\n\nI - condições de oferta;\n\nII - rendimento escolar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2032.%20Os%20padr%C3%B5es%20m%C3%ADnimos%20de%20qualidade%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20nos%20termos%20do%20%C2%A7%201%C2%BA%20do%20art.%20211%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20s%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os padrões mínimos de qualidade da educação básica pactuados:\n\nI - considerarão as diferentes etapas e modalidades da educação básica definidas na Lei nº 9.394, de 20 de dezembro de 1996;\n\nII - integrarão a Avaliação Nacional da Educação Básica;\n\nIII - orientarão a definição da ação redistributiva e supletiva, técnica e financeira do orçamento da União, com relação aos Estados, ao Distrito Federal e aos Municípios, e dos orçamentos dos Estados, com relação aos seus Municípios, com prioridade para os sistemas de ensino que apresentarem desempenho crítico nas avaliações nacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2033.%20Os%20padr%C3%B5es%20m%C3%ADnimos%20de%20qualidade%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20pactuados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os padrões mínimos de qualidade da educação básica referentes às condições de oferta deverão considerar, entre outras, as seguintes dimensões:\n\nI - jornada escolar mínima nos estabelecimentos de ensino, com progressiva extensão para jornada em tempo integral;\n\nII - adequada razão professor-aluno por turma;\n\nIII - formação docente adequada às áreas de atuação;\n\nIV - existência de plano de carreira e de piso salarial profissional nacional dos profissionais do magistério público;\n\nV - nível de profissionalização e de qualificação dos profissionais da educação não docentes;\n\nVI - estrutura física e instalações escolares com padrões de conforto ambiental, espaços apropriados para o desenvolvimento integral do processo pedagógico, salubridade, água potável e instalações sanitárias adequadas, acessibilidade e sustentabilidade ambiental;\n\nVII - recursos educacionais e tecnologias digitais;\n\nVIII - serviços complementares de apoio ao aluno.\n\n§ 1º A Avaliação Nacional da Educação Básica aferirá periodicamente os padrões mínimos de qualidade da oferta educacional por meio de indicadores, servirá de base para a supervisão da oferta educacional pelos órgãos competentes e fortalecerá a transparência e o controle social.\n\n§ 2º Os padrões mínimos de qualidade da educação profissional e tecnológica, no nível da educação básica, considerarão também aqueles relativos a suas especificidades, entre elas a infraestrutura, a articulação com as demandas do mundo do trabalho e a respectiva inserção dos egressos.\n\n§ 3º A equidade na oferta será critério para a avaliação dos padrões mínimos de qualidade da educação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2034.%20Os%20padr%C3%B5es%20m%C3%ADnimos%20de%20qualidade%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20referentes%20%C3%A0s%20condi%C3%A7%C3%B5es%20de%20oferta%20dever%C3%A3o%20considerar%2C%20entre%20outras%2C%20as%20seguintes%20dimens%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os padrões mínimos de qualidade da educação básica referentes ao rendimento escolar deverão considerar:\n\nI - níveis adequados de aprendizagem;\n\nII - redução das desigualdades de aprendizagem;\n\nIII - trajetória regular dos estudantes;\n\nIV - taxa adequada de aprovação dos estudantes;\n\nV - redução do abandono e da evasão escolar.\n\nSubseção II\n\nDos Padrões de Qualidade da Educação Superior",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2035.%20Os%20padr%C3%B5es%20m%C3%ADnimos%20de%20qualidade%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20referentes%20ao%20rendimento%20escolar%20dever%C3%A3o%20considerar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os padrões de qualidade da educação superior são referenciais para a emissão de atos autorizativos ao funcionamento de instituições de educação superior e à oferta de cursos superiores, estabelecendo as condições mínimas a serem observadas pelas instituições e pelos sistemas de ensino da educação superior para a oferta em todo o território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2036.%20Os%20padr%C3%B5es%20de%20qualidade%20da%20educa%C3%A7%C3%A3o%20superior%20s%C3%A3o%20referenciais%20para%20a%20emiss%C3%A3o%20de%20atos%20autorizativos%20ao%20funcionamento%20de%20institui%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os padrões de qualidade da educação superior definidos na forma da lei:\n\nI - considerarão os diferentes tipos de instituições e de formatos de oferta;\n\nII - integrarão a Avaliação Nacional da Educação Superior em Nível de Graduação;\n\nIII - integrarão a atividade regulatória da oferta na educação superior.\n\n§ 1º A Avaliação Nacional da Educação Superior em Nível de Graduação aferirá periodicamente os padrões de qualidade da oferta educacional por meio de indicadores e servirá de base para a regulação e a supervisão da oferta educacional pelos órgãos competentes.\n\n§ 2º A equidade será critério para a avaliação dos padrões de qualidade da educação superior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2037.%20Os%20padr%C3%B5es%20de%20qualidade%20da%20educa%C3%A7%C3%A3o%20superior%20definidos%20na%20forma%20da%20lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os padrões de qualidade da pós-graduação stricto sensu são referenciais para o reconhecimento, por meio da avaliação de entrada, e a renovação do reconhecimento, por meio da avaliação de permanência, dos programas de pós-graduação stricto sensu de instituições públicas e privadas, estabelecendo as condições mínimas a serem observadas pelas instituições para oferta desses programas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2038.%20Os%20padr%C3%B5es%20de%20qualidade%20da%20p%C3%B3s-gradua%C3%A7%C3%A3o%20stricto%20sensu%20s%C3%A3o%20referenciais%20para%20o%20reconhecimento%2C%20por%20meio%20da%20avalia%C3%A7%C3%A3o%20de%20entrada%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Os padrões de qualidade da pós-graduação stricto sensu:\n\nI - considerarão as diferentes modalidades de programa e de ensino e a forma de atuação;\n\nII - integrarão a Avaliação Nacional da Pós-Graduação Stricto Sensu;\n\nIII - integrarão a atividade regulatória da oferta na pós-graduação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2039.%20Os%20padr%C3%B5es%20de%20qualidade%20da%20p%C3%B3s-gradua%C3%A7%C3%A3o%20stricto%20sensu%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "IV",
+        "section_name": "Dos Padrões de Qualidade da Educação"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O financiamento da educação pública básica nacional, de responsabilidade da União, dos Estados, do Distrito Federal e dos Municípios, será orientado:\n\nI - pela construção de equidade na capacidade de financiamento dos sistemas públicos de educação básica, conforme previsto no § 1º do art. 211 da Constituição Federal;\n\nII - para oferecer padrão mínimo de qualidade, referenciado pelo CAQ, na forma do § 7º do art. 211 da Constituição Federal;\n\nIII - para universalizar o acesso à educação básica obrigatória, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2040.%20O%20financiamento%20da%20educa%C3%A7%C3%A3o%20p%C3%BAblica%20b%C3%A1sica%20nacional%2C%20de%20responsabilidade%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%2C%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "V",
+        "section_name": "Do Financiamento da Educaçã"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. É estabelecido o CAQ como referência de investimento por aluno da educação básica, que será progressivamente elevado de modo a contribuir para a consecução das metas de financiamento da educação básica do PNE, considerados:\n\nI - o orçamento público anual de cada ente federado destinado à educação básica e em observância à legislação fiscal vigente;\n\nII - as necessidades e as especificidades locais;\n\nIII - as complementações da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb);\n\nIV - as complementações adicionais instituídas no âmbito federal e de cada Estado.\n\n§ 1º O cálculo do CAQ será referido aos padrões mínimos de qualidade da oferta da educação básica pactuados, passíveis de monetização, e considerará:\n\nI - a definição de um conjunto mínimo de insumos e seus correspondentes custos, em âmbito nacional, de acordo com as características das etapas e das modalidades de ensino;\n\nII - a variação de insumos e de custos, de acordo com a diversidade regional e local de cada rede de ensino.\n\n§ 2º Compete ao Ministério da Educação o cálculo do CAQ de acordo com a metodologia pactuada no âmbito da Cite, observado o regime constitucional e legal de finanças públicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2041.%20%C3%89%20estabelecido%20o%20CAQ%20como%20refer%C3%AAncia%20de%20investimento%20por%20aluno%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20que%20ser%C3%A1%20progressivamente%20elevado%20de%20modo%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "V",
+        "section_name": "Do Financiamento da Educaçã"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. A União manterá programas de incentivo financeiro-educacional para estimular a permanência dos estudantes matriculados na educação básica e a sua conclusão por eles.\n\nSubseção II\n\nDo Financiamento da Educação Superior",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2042.%20A%20Uni%C3%A3o%20manter%C3%A1%20programas%20de%20incentivo%20financeiro-educacional%20para%20estimular%20a%20perman%C3%AAncia%20dos%20estudantes%20matriculados%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20e%20a%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "V",
+        "section_name": "Do Financiamento da Educaçã"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Caberá a cada ente federado assegurar, anualmente, em sua lei orçamentária, recursos suficientes para manutenção e desenvolvimento das instituições de educação superior por ele mantidas e dos programas direcionados aos seus alunos e docentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2043.%20Caber%C3%A1%20a%20cada%20ente%20federado%20assegurar%2C%20anualmente%2C%20em%20sua%20lei%20or%C3%A7ament%C3%A1ria%2C%20recursos%20suficientes%20para%20manuten%C3%A7%C3%A3o%20e%20desenvolvimento%20das%20institui%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "V",
+        "section_name": "Do Financiamento da Educaçã"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. A União, os Estados e o Distrito Federal manterão, nos termos da lei, programas de assistência estudantil, de ação afirmativa e de inclusão social para os estudantes matriculados em suas redes e instituições de educação superior, nos níveis de graduação e de pós-graduação stricto sensu, bem como nas instituições públicas de educação profissional e tecnológica sob sua responsabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2044.%20A%20Uni%C3%A3o%2C%20os%20Estados%20e%20o%20Distrito%20Federal%20manter%C3%A3o%2C%20nos%20termos%20da%20lei%2C%20programas%20de%20assist%C3%AAncia%20estudantil%2C%20de%20a%C3%A7%C3%A3o%20afirmativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "V",
+        "section_name": "Do Financiamento da Educaçã"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. A União manterá, nos termos de leis específicas, programas de financiamento estudantil por meio de subsídios tributários, financeiros ou creditícios, para estudantes matriculados na rede privada de instituições de educação superior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2045.%20A%20Uni%C3%A3o%20manter%C3%A1%2C%20nos%20termos%20de%20leis%20espec%C3%ADficas%2C%20programas%20de%20financiamento%20estudantil%20por%20meio%20de%20subs%C3%ADdios%20tribut%C3%A1rios%2C%20financeiros%20ou%20credit%C3%ADcios%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "V",
+        "section_name": "Do Financiamento da Educaçã"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A avaliação da educação nacional está integrada ao sistema de governança democrática do SNE para subsidiar os processos de planejamento e de gestão das políticas educacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2046.%20A%20avalia%C3%A7%C3%A3o%20da%20educa%C3%A7%C3%A3o%20nacional%20est%C3%A1%20integrada%20ao%20sistema%20de%20governan%C3%A7a%20democr%C3%A1tica%20do%20SNE%20para%20subsidiar%20os%20processos%20de%20planejamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. A União, por intermédio do Ministério da Educação, coordenará o processo de avaliação da educação nacional em regime de colaboração com os Estados, com o Distrito Federal e com os Municípios e com as demais instâncias previstas em lei.\n\nParágrafo único. O Ministério da Educação é responsável por realizar a avaliação da educação nacional, no âmbito de suas competências legais, para subsidiar a formulação de políticas educacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2047.%20A%20Uni%C3%A3o%2C%20por%20interm%C3%A9dio%20do%20Minist%C3%A9rio%20da%20Educa%C3%A7%C3%A3o%2C%20coordenar%C3%A1%20o%20processo%20de%20avalia%C3%A7%C3%A3o%20da%20educa%C3%A7%C3%A3o%20nacional%20em%20regime%20de%20colabora%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A avaliação da educação nacional compreenderá:\n\nI - Avaliação dos Planos Decenais de Educação;\n\nII - Avaliação da Educação Básica;\n\nIII - Avaliação da Educação Profissional e Tecnológica;\n\nIV - Avaliação da Educação Superior em Nível de Graduação;\n\nV - Avaliação da Pós-Graduação Stricto Sensu.\n\nSubseção II\n\nDa Avaliação Nacional da Educação Básica",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2048.%20A%20avalia%C3%A7%C3%A3o%20da%20educa%C3%A7%C3%A3o%20nacional%20compreender%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A Avaliação Nacional da Educação Básica, coordenada pela União, em regime de colaboração com os Estados, com o Distrito Federal e com os Municípios, constituirá fonte de informação para a avaliação da qualidade e da equidade da educação básica e para o planejamento e a orientação das políticas públicas desse nível de ensino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2049.%20A%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%2C%20coordenada%20pela%20Uni%C3%A3o%2C%20em%20regime%20de%20colabora%C3%A7%C3%A3o%20com%20os%20Estados%2C%20com%20o%20Distrito%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. São objetivos da Avaliação Nacional da Educação Básica:\n\nI - aferir a qualidade da educação básica com base no nível de desempenho e na equidade dos sistemas de ensino e de suas instituições públicas e privadas de ensino;\n\nII - avaliar as instituições de educação básica, públicas e privadas, contemplando a análise global e integrada das dimensões de gestão, de infraestrutura, de recursos e de resultados de aprendizagem;\n\nIII - produzir insumos para o planejamento de políticas educacionais nos sistemas de ensino e de ações nas instituições de ensino;\n\nIV - produzir e divulgar dados e informações que contribuam para o aprimoramento, a transparência e o controle social das políticas educacionais, orientando sua formulação e revisão.\n\n§ 1º A avaliação a que se refere o caput deste artigo produzirá, no máximo, a cada 2 (dois) anos:\n\nI - indicadores de rendimento escolar, referentes ao desempenho dos estudantes apurado em exames nacionais de avaliação, com participação de pelo menos 80% (oitenta por cento) dos alunos de cada escola em cada ano escolar periodicamente avaliado, e aos dados pertinentes apurados pelo censo escolar da educação básica;\n\nII - indicadores de avaliação institucional, referentes a características como o perfil do alunado e do corpo dos profissionais da educação, as relações entre dimensão do corpo docente, do corpo técnico e do corpo discente, a infraestrutura das escolas, os recursos pedagógicos disponíveis e os processos da gestão, entre outras relevantes.\n\n§ 2º O processo nacional de avaliação da educação básica terá como referência o padrão mínimo de qualidade do ensino na educação básica, pactuado no âmbito da Cite.\n\nSubseção III\n\nDa Avaliação Nacional da Educação Profissional e Tecnológica",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2050.%20S%C3%A3o%20objetivos%20da%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. A Avaliação Nacional da Educação Profissional e Tecnológica, coordenada pela União, em regime de colaboração com os Estados, o Distrito Federal e os Municípios, consistirá em processo nacional de avaliação das instituições que oferecem educação profissional e tecnológica, de seus cursos e do desempenho de seus estudantes.\n\nParágrafo único. A Avaliação Nacional da Educação Profissional e Tecnológica será desenvolvida em articulação com a Avaliação Nacional da Educação Básica e da Avaliação Nacional da Educação Superior em Nível de Graduação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2051.%20A%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20Educa%C3%A7%C3%A3o%20Profissional%20e%20Tecnol%C3%B3gica%2C%20coordenada%20pela%20Uni%C3%A3o%2C%20em%20regime%20de%20colabora%C3%A7%C3%A3o%20com%20os%20Estados%2C%20o%20Distrito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. São objetivos da Avaliação Nacional da Educação Profissional e Tecnológica:\n\nI - avaliar as instituições de educação profissional e tecnológica, públicas e privadas, contemplando a análise global e integrada das dimensões de gestão, de infraestrutura, de recursos e de resultados da aprendizagem;\n\nII - avaliar os cursos ofertados pelas instituições de educação profissional e tecnológica, públicas e privadas, com respeito à qualidade e à adequação entre a educação profissional e tecnológica ofertada e o mundo do trabalho;\n\nIII - avaliar o desempenho acadêmico dos estudantes como forma de aferir a efetividade acadêmica, técnica e social das instituições de educação profissional e tecnológica, públicas e privadas;\n\nIV - prover à sociedade dados e informações sobre a qualidade das instituições de educação profissional e tecnológica, públicas e privadas, e dos cursos e dos programas por elas ofertados.\n\nSubseção IV\n\nDa Avaliação Nacional da Educação Superior em Nível de Graduação",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2052.%20S%C3%A3o%20objetivos%20da%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20Educa%C3%A7%C3%A3o%20Profissional%20e%20Tecnol%C3%B3gica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A Avaliação Nacional da Educação Superior em Nível de Graduação, coordenada pela União, nos termos de lei federal específica, consistirá em processo nacional de avaliação das instituições, dos cursos e do desempenho acadêmico dos estudantes dos cursos de graduação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2053.%20A%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20Educa%C3%A7%C3%A3o%20Superior%20em%20N%C3%ADvel%20de%20Gradua%C3%A7%C3%A3o%2C%20coordenada%20pela%20Uni%C3%A3o%2C%20nos%20termos%20de%20lei%20federal%20espec%C3%ADfica%2C%20consistir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. São objetivos da Avaliação Nacional da Educação Superior em Nível de Graduação:\n\nI - avaliar as instituições de ensino superior, públicas e privadas, contemplando a análise global e integrada das dimensões da pesquisa, da extensão e da qualidade do ensino;\n\nII - avaliar os cursos ofertados pelas instituições de ensino superior, públicas e privadas, interna e externamente, com respeito à identidade e à diversidade de instituições e de cursos;\n\nIII - avaliar o desempenho acadêmico dos estudantes de ensino superior;\n\nIV - prover referencial básico para os processos de regulação e de supervisão da educação superior, a fim de promover a melhoria de sua qualidade;\n\nV - prover à sociedade dados e informações sobre a qualidade das instituições de ensino superior, públicas e privadas, e dos cursos e dos programas por elas ofertados.\n\nSubseção V\n\nDa Avaliação Nacional da Pós-Graduação Stricto Sensu",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2054.%20S%C3%A3o%20objetivos%20da%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20Educa%C3%A7%C3%A3o%20Superior%20em%20N%C3%ADvel%20de%20Gradua%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A Avaliação Nacional da Pós-Graduação Stricto Sensu, coordenada pela União, de competência da Capes, consistirá em processo nacional de avaliação dos programas de mestrado e de doutorado no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2055.%20A%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20P%C3%B3s-Gradua%C3%A7%C3%A3o%20Stricto%20Sensu%2C%20coordenada%20pela%20Uni%C3%A3o%2C%20de%20compet%C3%AAncia%20da%20Capes%2C%20consistir%C3%A1%20em%20processo%20nacional%20de%20avalia%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. São objetivos da Avaliação Nacional da Pós-Graduação Stricto Sensu:\n\nI - avaliar os programas de pós-graduação stricto sensu, conforme níveis de desempenho, de qualidade e de padrões de ensino e pesquisa;\n\nII - avaliar a formação dos estudantes como meio de aferir a efetividade acadêmica e social dos programas de pós-graduação stricto sensu ofertados no País;\n\nIII - impulsionar os padrões de excelência acadêmica, científica, tecnológica, de inovação e de extensão dos programas de pós-graduação stricto sensu nacionais, de modo a assegurar a formação de pesquisadores e profissionais de alto nível;\n\nIV - induzir o aprimoramento da pós-graduação stricto sensu do País, considerados os diferentes estágios de desenvolvimento de cada área do conhecimento e a diversidade entre os programas;\n\nV - oferecer subsídios para a formulação de políticas de fomento para o Sistema Nacional de Pós-Graduação (SNPG), bem como para a supervisão e o acompanhamento da oferta de programas de pós-graduação stricto sensu;\n\nVI - prover à sociedade dados e informações sobre a qualidade dos programas de pós-graduação stricto sensu ofertados no País.\n\nParágrafo único. A Avaliação Nacional da Pós-Graduação Stricto Sensu contemplará:\n\nI - avaliação de entrada como condição obrigatória para a abertura de novos cursos de pós-graduação stricto sensu;\n\nII - avaliação de permanência dos programas de pós-graduação stricto sensu em funcionamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2056.%20S%C3%A3o%20objetivos%20da%20Avalia%C3%A7%C3%A3o%20Nacional%20da%20P%C3%B3s-Gradua%C3%A7%C3%A3o%20Stricto%20Sensu%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "DAS FUNÇÕES INTEGRADORAS",
+        "section": "VI",
+        "section_name": "Da Avaliação da Educação Nacional"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. A educação escolar indígena, bilíngue, multilíngue, específica, diferenciada e intercultural é responsabilidade compartilhada da União, dos Estados, do Distrito Federal e dos Municípios e será organizada de forma a assegurar as especificidades e a organização a partir dos territórios etnoeducacionais dos povos indígenas.\n\nParágrafo único. A oferta da educação escolar indígena, de responsabilidade dos Estados, do Distrito Federal e dos Municípios, será realizada por estabelecimentos de ensino localizados em terras habitadas por comunidades indígenas, garantidos organização escolar própria e ensino ministrado nas línguas maternas das comunidades atendidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2057.%20A%20educa%C3%A7%C3%A3o%20escolar%20ind%C3%ADgena%2C%20bil%C3%ADngue%2C%20multil%C3%ADngue%2C%20espec%C3%ADfica%2C%20diferenciada%20e%20intercultural%20%C3%A9%20responsabilidade%20compartilhada%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "DA EDUCAÇÃO ESCOLAR INDÍGENA E QUILOMBOLA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. A União, os Estados, o Distrito Federal e os Municípios pactuarão a política e a organização da oferta da educação escolar indígena com base nos territórios etnoeducacionais.\n\n§ 1º Os territórios etnoeducacionais compreendem o conjunto de terras indígenas, ainda que descontínuas, independentemente da divisão político-administrativa do País, ocupadas por povos indígenas que compartilham raízes sociais e históricas, relações intersocietárias, filiações linguísticas, valores e práticas culturais.\n\n§ 2º A pactuação entre os entes federados da oferta da educação escolar indígena será realizada a partir de instâncias nacional e subnacionais de pactuação, organizadas com base nos territórios etnoeducacionais e assegurada a participação dos povos indígenas e dos entes federados que ofertam a educação escolar indígena em cada território.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2058.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20pactuar%C3%A3o%20a%20pol%C3%ADtica%20e%20a%20organiza%C3%A7%C3%A3o%20da%20oferta%20da%20educa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "DA EDUCAÇÃO ESCOLAR INDÍGENA E QUILOMBOLA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. A educação escolar quilombola é responsabilidade compartilhada da União, dos Estados, do Distrito Federal e dos Municípios e deverá promover o reconhecimento das formas de produção, de transmissão e de valorização de saberes e práticas das comunidades quilombolas, assegurado o atendimento às especificidades de cada comunidade quilombola.\n\nParágrafo único. A oferta da educação escolar quilombola, de responsabilidade dos Estados, do Distrito Federal e dos Municípios, será realizada por estabelecimentos de ensino localizados em comunidades quilombolas, bem como por estabelecimentos de ensino que atendam os estudantes oriundos dos territórios quilombolas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2059.%20A%20educa%C3%A7%C3%A3o%20escolar%20quilombola%20%C3%A9%20responsabilidade%20compartilhada%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%20e%20dever%C3%A1%20promover",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "DA EDUCAÇÃO ESCOLAR INDÍGENA E QUILOMBOLA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Ato do Poder Executivo federal disporá sobre os processos de pactuação que respeitem as especificidades da educação escolar indígena e da educação escolar quilombola.\n\nParágrafo único. A implementação do disposto no caput deste artigo será precedida de consulta prévia, livre e informada às representações das comunidades indígenas e quilombolas, conforme a Convenção nº 169 da Organização Internacional do Trabalho sobre Povos Indígenas e Tribais, assegurados mecanismos de participação social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2060.%20Ato%20do%20Poder%20Executivo%20federal%20dispor%C3%A1%20sobre%20os%20processos%20de%20pactua%C3%A7%C3%A3o%20que%20respeitem%20as%20especificidades%20da%20educa%C3%A7%C3%A3o%20escolar%20ind%C3%ADgena%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "DA EDUCAÇÃO ESCOLAR INDÍGENA E QUILOMBOLA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. A educação escolar indígena e a educação escolar quilombola contarão com comissões nacionais, fóruns e conferências nacionais específicas, nos termos do regulamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2061.%20A%20educa%C3%A7%C3%A3o%20escolar%20ind%C3%ADgena%20e%20a%20educa%C3%A7%C3%A3o%20escolar%20quilombola%20contar%C3%A3o%20com%20comiss%C3%B5es%20nacionais%2C%20f%C3%B3runs%20e%20confer%C3%AAncias%20nacionais%20espec%C3%ADficas%2C%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "DA EDUCAÇÃO ESCOLAR INDÍGENA E QUILOMBOLA",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Os entes federados promoverão a adequação de suas normas legais e administrativas a esta Lei Complementar no prazo de até 2 (dois) anos, contado da data de sua publicação.\n\nParágrafo único. O Ministério da Educação prestará assistência técnica aos entes federados para o cumprimento do disposto no caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2062.%20Os%20entes%20federados%20promover%C3%A3o%20a%20adequa%C3%A7%C3%A3o%20de%20suas%20normas%20legais%20e%20administrativas%20a%20esta%20Lei%20Complementar%20no%20prazo%20de%20at%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. A Cite e as Cibes serão criadas e instaladas pelos respectivos Poderes Executivos no prazo de até 90 (noventa) dias, contado da data de publicação desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2063.%20A%20Cite%20e%20as%20Cibes%20ser%C3%A3o%20criadas%20e%20instaladas%20pelos%20respectivos%20Poderes%20Executivos%20no%20prazo%20de%20at%C3%A9%2090%20%28noventa%29%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Esta Lei Complementar entra em vigor na data de sua publicação.\n\nBrasília, 31 de outubro de 2025; 204o da Independência e 137o da República.\n\nLUIZ INÁCIO LULA DA SILVA\n\nCamilo Sobreira de Santana\n\nSimone Nassar Tebet\n\nEste texto não substitui o publicado no DOU de 3.11.2025.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm#:~:text=Art.%2064.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": null
+    }
+  }
+}

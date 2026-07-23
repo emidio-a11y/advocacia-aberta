@@ -4,7 +4,11 @@ import {
   FONTE_OFICIAL,
   NATUREZAS_DOCUMENTAIS,
 } from "./taxonomia.js";
-import { normalizeText } from "./utils.js";
+import {
+  type BuscaAmpliada,
+  buscarComEquivalencias,
+} from "./lexico.js";
+import { dataDoSnapshot, normalizeText } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -39,26 +43,12 @@ const raw = require("../../data/flash_temas_stj.json") as {
 };
 
 export const TOTAL_TEMAS_STJ = Object.keys(raw.temas).length;
+export const SNAPSHOT_TEMAS_STJ = dataDoSnapshot(raw._meta.generatedAt);
 
-// ── Sinônimos ──────────────────────────────────────────────────────────────
-
-const SYNONYMS: Record<string, string[]> = {
-  whatsapp: ["aplicativo", "mensagens", "redes", "sociais"],
-  pix: ["transferencia", "pagamento", "instantaneo"],
-  uber: ["transporte", "aplicativo", "motorista"],
-  selic: ["juros", "correcao", "monetaria"],
-  cdi: ["juros", "financeiro"],
-  citacao: ["intimacao", "notificacao"],
-  intimacao: ["citacao", "notificacao"],
-};
-
-function expandTokens(tokens: string[]): string[] {
-  const expanded = new Set(tokens);
-  for (const t of tokens) {
-    (SYNONYMS[t] ?? []).forEach(s => expanded.add(s));
-  }
-  return [...expanded];
-}
+// Os sinônimos que esta família expandia dentro do índice (whatsapp, pix, uber,
+// selic, cdi, citação, intimação) passaram ao léxico versionado em
+// data/lexico_juridico.json: a expansão continua existindo, mas agora entra
+// depois dos resultados diretos e é declarada a quem consulta (lexico.ts).
 
 function tokenize(text: string): string[] {
   return normalizeText(text)
@@ -76,7 +66,7 @@ export function buscarTemas(query: string, limit = 5): TemaData[] {
     if (tema) return [tema];
   }
 
-  const tokens = expandTokens(tokenize(query));
+  const tokens = tokenize(query);
   if (tokens.length === 0) return [];
 
   const scores = new Map<number, number>();
@@ -91,6 +81,13 @@ export function buscarTemas(query: string, limit = 5): TemaData[] {
     .slice(0, limit)
     .map(([n]) => raw.temas[String(n)])
     .filter((t): t is TemaData => t !== undefined);
+}
+
+/** Busca com a expansão declarada do léxico (ver `lexico.ts`). */
+export function buscarTemasAmpliado(query: string, limit = 5): BuscaAmpliada<TemaData> {
+  return buscarComEquivalencias(query, limit, buscarTemas, (tema) =>
+    String(tema.numero),
+  );
 }
 
 export function formatTema(tema: TemaData): string {
@@ -119,6 +116,6 @@ export function formatTema(tema: TemaData): string {
 **Questão submetida:**
 > ${tema.questao}
 ${tese}
-**Assuntos:** ${tema.assuntos.join(", ")}${tema.orgaoJulgador ? `\n**Órgão:** ${tema.orgaoJulgador}` : ""}${tema.dataJulgamento ? ` | **Julgamento:** ${tema.dataJulgamento}` : ""}${fontes}
+**Assuntos:** ${tema.assuntos.join(", ")}${tema.orgaoJulgador ? `\n**Órgão:** ${tema.orgaoJulgador}` : ""}${tema.dataAfetacao ? ` | **Afetação:** ${tema.dataAfetacao}` : ""}${tema.dataJulgamento ? ` | **Julgamento:** ${tema.dataJulgamento}` : ""}${fontes}
 `;
 }

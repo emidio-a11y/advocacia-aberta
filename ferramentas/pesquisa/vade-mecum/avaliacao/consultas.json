@@ -1596,6 +1596,154 @@
         "ESP:000874100"
       ],
       "justificativa": "Espelhos da Primeira Seção sobre a inclusão da TUST/TUSD na base de cálculo do ICMS na energia elétrica (Tema 986); o espelho sobre exclusão de benefícios fiscais de ICMS da base do IRPJ/CSLL, tema diverso, foi excluído."
+    },
+    {
+      "id": "rg-nepotismo",
+      "grupo": "temas_rg_stf",
+      "consulta": "nepotismo",
+      "filtro": {},
+      "relevantes": [
+        "RG:29",
+        "RG:66",
+        "RG:1000",
+        "RG:1001"
+      ],
+      "obrigatorios": [
+        "RG:66",
+        "RG:1000"
+      ],
+      "justificativa": "Temas de repercussão geral sobre a vedação ao nepotismo. O Tema 1000 (nomeação de parente para cargo político) descreve a conduta sem usar a palavra 'nepotismo' em nenhum campo publicado e só é recuperado pela equivalência declarada do léxico; o caso existe para que essa recuperação não regrida."
+    },
+    {
+      "id": "sv-nepotismo-termo-unico",
+      "grupo": "sumulas_vinculantes",
+      "consulta": "nepotismo",
+      "filtro": {
+        "tribunal": "vinculante"
+      },
+      "relevantes": [
+        "SV:13"
+      ],
+      "obrigatorios": [
+        "SV:13"
+      ],
+      "justificativa": "O enunciado da Súmula Vinculante 13 descreve a conduta sem nomeá-la: a consulta por 'nepotismo' sozinho não devolvia nada antes da equivalência declarada."
+    },
+    {
+      "id": "lc214-split-payment",
+      "grupo": "legislacao",
+      "consulta": "split payment",
+      "filtro": {
+        "codigo": "LC214"
+      },
+      "relevantes": [
+        "LC214:22",
+        "LC214:27",
+        "LC214:30",
+        "LC214:31",
+        "LC214:32",
+        "LC214:33",
+        "LC214:34",
+        "LC214:35"
+      ],
+      "obrigatorios": [
+        "LC214:31"
+      ],
+      "justificativa": "O regime de recolhimento na liquidação financeira está nos arts. 31 a 35 da LC 214/2025; o art. 30 traz o mecanismo automatizado de pagamento que lhe é alternativo. Consulta apontada em teste externo do MCP, quando o diploma ainda não estava indexado."
+    },
+    {
+      "id": "lc214-imposto-seletivo",
+      "grupo": "legislacao",
+      "consulta": "imposto seletivo incidência",
+      "filtro": {
+        "codigo": "LC214"
+      },
+      "relevantes": [
+        "LC214:409",
+        "LC214:410",
+        "LC214:412",
+        "LC214:427",
+        "LC214:434"
+      ],
+      "obrigatorios": [
+        "LC214:409"
+      ],
+      "justificativa": "O art. 409 institui o Imposto Seletivo previsto no art. 153, VIII, da Constituição; os seguintes tratam de incidência, base e alíquotas."
+    },
+    {
+      "id": "lc214-devolucao-baixa-renda",
+      "grupo": "legislacao",
+      "consulta": "devolução personalizada cashback famílias baixa renda",
+      "filtro": {
+        "codigo": "LC214"
+      },
+      "relevantes": [
+        "LC214:112",
+        "LC214:113",
+        "LC214:114",
+        "LC214:117",
+        "LC214:119"
+      ],
+      "obrigatorios": [
+        "LC214:112"
+      ],
+      "justificativa": "A devolução de tributo a famílias de baixa renda (o chamado cashback) começa no art. 112; os seguintes definem beneficiários, percentuais e operacionalização."
+    },
+    {
+      "id": "lc225-direitos-do-contribuinte",
+      "grupo": "legislacao",
+      "consulta": "direitos do contribuinte",
+      "filtro": {
+        "codigo": "LC225"
+      },
+      "relevantes": [
+        "LC225:1",
+        "LC225:3",
+        "LC225:4"
+      ],
+      "obrigatorios": [
+        "LC225:4"
+      ],
+      "justificativa": "O art. 4º enumera os direitos do contribuinte, o art. 3º traz os deveres correspondentes da administração tributária e o art. 1º delimita o objeto. O art. 5º trata dos deveres do contribuinte, matéria distinta, e ficou fora."
+    },
+    {
+      "id": "lc225-devedor-contumaz",
+      "grupo": "legislacao",
+      "consulta": "devedor contumaz medidas",
+      "filtro": {
+        "codigo": "LC225"
+      },
+      "relevantes": [
+        "LC225:11",
+        "LC225:12",
+        "LC225:13",
+        "LC225:14"
+      ],
+      "obrigatorios": [
+        "LC225:13"
+      ],
+      "justificativa": "A qualificação como devedor contumaz, o processo administrativo próprio e as medidas aplicáveis estão nos arts. 11 a 14."
+    },
+    {
+      "id": "lc220-regime-de-colaboracao",
+      "grupo": "legislacao",
+      "consulta": "regime de colaboração entes federativos",
+      "filtro": {
+        "codigo": "LC220"
+      },
+      "relevantes": [
+        "LC220:1",
+        "LC220:2",
+        "LC220:3",
+        "LC220:4",
+        "LC220:5",
+        "LC220:13",
+        "LC220:14"
+      ],
+      "obrigatorios": [
+        "LC220:4"
+      ],
+      "justificativa": "O art. 4º fixa como objetivo do SNE o regime de colaboração; os arts. 1º e 2º definem o sistema e os arts. 13 e 14 tratam das instâncias de pactuação."
     }
   ]
 }

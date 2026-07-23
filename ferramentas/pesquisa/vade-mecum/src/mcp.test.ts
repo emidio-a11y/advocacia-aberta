@@ -73,7 +73,7 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
     ...CODIGOS_DISPONIVEIS,
     "todos",
   ]);
-  expect(legislacao?.description).toContain("273 diplomas");
+  expect(legislacao?.description).toContain("277 diplomas");
 
   const teses = tools!.find((tool) => tool.name === "buscar_tese");
   expect(teses?.description).toContain("3.508 teses de 283 edições");
@@ -99,6 +99,10 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
   expect(espelho?.description).toContain("11.133 acórdãos");
   expect(espelho?.description).toContain("Secretaria de Jurisprudência do STJ");
   expect(espelho?.description).toContain("não é vinculante por si só");
+
+  const cobertura = tools!.find((tool) => tool.name === "cobertura_da_base");
+  expect(cobertura?.description).toContain("não cobre");
+  expect(cobertura?.description).toContain("limitações conhecidas");
 
   const descricoes = tools!.map((tool) => tool.description).join("\n");
   expect(descricoes).not.toContain("fontes primárias");

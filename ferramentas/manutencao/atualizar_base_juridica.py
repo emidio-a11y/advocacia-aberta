@@ -1030,6 +1030,128 @@ def enunciado_detalhe_stf(path: Path) -> tuple[str, str, str]:
     return enunciado, data, url
 
 
+# A página oficial de cada súmula do STF publica, em seções próprias, os
+# precedentes que a originaram e os temas de repercussão geral ligados a ela.
+# É o único lugar em que esse vínculo é afirmado pela fonte: cruzar súmula e
+# julgado por semelhança de texto produziria uma relação que ninguém assinou.
+#
+# Citação padronizada ao fim de cada precedente:
+#   [ADC 12, rel. min. Ayres Britto, P, j. 20-8-2008, DJE 237 de 18-12-2008.]
+#   [ARE 914.045 RG, rel. min. Edson Fachin, P, j. 15-10-2015, DJE 232 de
+#    19-11-2015, Tema 856.]
+CITACAO_PRECEDENTE_STF = re.compile(
+    # "Tese definida no", sufixos de classe (QO-RG, ED, AgR), relator para o
+    # acórdão e órgão ausente são variações que aparecem no acervo real; a
+    # citação sem data de julgamento não é precedente e fica de fora.
+    r"^(?:Tese\s+definida\s+n[oa]\s+)?"
+    r"(?P<processo>[A-Z][A-Za-zÀ-ú]{1,6}\s*[\d.]+"
+    r"(?:[\s-]+(?:QO|RG|ED|AgR|MC|EI|AgR-RG|QO-RG|ED-RG))*)"
+    r",\s*(?:voto\s+d[oa]\s+)?(?:rel|red)\.[^,]{0,30}?[Mm]in\.\s*(?P<relator>[^,]+?)"
+    r"(?:,\s*(?:voto\s+d[oa]|red\.\s*p/\s*(?:o\s+)?ac\.)\s*[Mm]in\.[^,]+)?"
+    r"(?:,\s*(?P<orgao>(?!j\.)[^,]{1,25}?))?"
+    r",\s*j\.\s*(?P<julgamento>\d{1,2}-\d{1,2}-\d{4})"
+    r"(?:,\s*(?P<publicacao>DJE?[^,\]]*))?"
+    r"(?:,\s*(?:e\s*)?Tema\s*(?P<tema>\d+))?"
+)
+
+SECOES_PRECEDENTES_STF = re.compile(
+    r"precedentes?\s+representativos?|teses?\s+de\s+repercuss[ãa]o\s+geral",
+    re.IGNORECASE,
+)
+
+
+def secoes_detalhe_stf(arvore: Elemento) -> list[tuple[str, list[Elemento]]]:
+    """Divide a página da súmula em (título da seção, blocos daquela seção)."""
+    secoes: list[tuple[str, list[Elemento]]] = []
+    for titulo in buscar(arvore, classe="titulo"):
+        pai = titulo.pai
+        if pai is None:
+            continue
+        irmaos = [filho for filho in pai.filhos if isinstance(filho, Elemento)]
+        blocos: list[Elemento] = []
+        for item in irmaos[irmaos.index(titulo) + 1 :]:
+            if "titulo" in item.classes:
+                break
+            blocos.append(item)
+        secoes.append((texto_elemento(titulo).strip(), blocos))
+    return secoes
+
+
+def links_por_rotulo(bloco: Elemento) -> dict[str, str]:
+    mapa: dict[str, str] = {}
+    for ancora in buscar(bloco, tag="a"):
+        href = ancora.atributos.get("href", "")
+        rotulo = texto_normalizado(texto_elemento(ancora))
+        if href and rotulo and rotulo not in mapa:
+            mapa[rotulo] = unescape(href)
+    return mapa
+
+
+def precedentes_detalhe_stf(path: Path) -> list[dict[str, Any]]:
+    """Precedentes representativos declarados pelo STF na página da súmula."""
+    arvore = analisar_html(decodificar_html(path))
+    precedentes: list[dict[str, Any]] = []
+    vistos: set[str] = set()
+    for titulo, blocos in secoes_detalhe_stf(arvore):
+        if not SECOES_PRECEDENTES_STF.search(titulo):
+            continue
+        for bloco in blocos:
+            links = links_por_rotulo(bloco)
+            for trecho in re.findall(
+                r"\[([^\[\]]{20,400})\]", texto_elemento(bloco)
+            ):
+                casamento = CITACAO_PRECEDENTE_STF.search(trecho.strip())
+                if not casamento:
+                    continue
+                processo = texto_normalizado(casamento.group("processo"))
+                if processo in vistos:
+                    continue
+                vistos.add(processo)
+                registro: dict[str, Any] = {
+                    "processo": processo,
+                    "relator": casamento.group("relator").strip(),
+                    "orgao": (casamento.group("orgao") or "").strip(),
+                    "julgamento": data_br_de_traco(casamento.group("julgamento")),
+                    "publicacao": (casamento.group("publicacao") or "").strip(" ."),
+                    "url": url_https(links.get(processo, "")),
+                    "consulta": consulta_acordao_stf(processo),
+                }
+                if casamento.group("tema"):
+                    registro["temaRG"] = int(casamento.group("tema"))
+                precedentes.append(registro)
+    return precedentes
+
+
+def consulta_acordao_stf(processo: str) -> str:
+    """Consulta do acórdão por classe e número na jurisprudência do STF.
+
+    O link que o STF publica na página da súmula aponta para o paginador, que
+    monta o documento no navegador e responde 202 a cliente automatizado. A
+    consulta por classe e número — mesmo padrão já usado nos temas de
+    repercussão geral — dá ao leitor uma segunda porta, conferível.
+    """
+    limpo = re.sub(r"\s+(?:QO|RG|ED|AgR|MC|EI|AgR-RG|QO-RG|ED-RG)\b", "", processo)
+    partes = limpo.replace(".", "").split()
+    if len(partes) < 2:
+        return ""
+    classe, numero = partes[0], partes[1]
+    alvo = quote(f"{classe} {numero}")
+    return (
+        "https://jurisprudencia.stf.jus.br/pages/search?base=acordaos"
+        "&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc"
+        f"&isAdvance=true&classeNumeroIncidente={alvo}"
+    )
+
+
+def data_br_de_traco(valor: str) -> str:
+    dia, mes, ano = valor.split("-")
+    return f"{int(dia):02d}/{int(mes):02d}/{ano}"
+
+
+def url_https(url: str) -> str:
+    return url.replace("http://", "https://", 1) if url.startswith("http://") else url
+
+
 def transformar_sumulas_stf(
     config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
 ) -> list[Path]:
@@ -1058,6 +1180,15 @@ def transformar_sumulas_stf(
             "http://jurisprudencia.stf.jus.br/",
             "https://jurisprudencia.stf.jus.br/",
         )
+        # Precedentes representativos e temas de repercussão geral ligados à
+        # súmula, como o próprio STF os declara na página do enunciado.
+        precedentes = precedentes_detalhe_stf(bruto / "detalhes" / f"{numero}.html")
+        if precedentes:
+            registro["precedentes"] = precedentes
+        elif anterior.get("precedentes"):
+            # Sem seção na página capturada, preserva o que já estava publicado
+            # em vez de apagar em silêncio.
+            registro["precedentes"] = anterior["precedentes"]
         sumulas[str(numero)] = registro
     if not sumulas:
         raise ValueError("nenhuma súmula reconhecida no catálogo do STF")

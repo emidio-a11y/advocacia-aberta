@@ -399,6 +399,20 @@
         }
       ]
     },
+    "legislacao_educacao_lc220": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "lc220",
+          "codigo": "LC220",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm",
+          "arquivo_bruto": "lc220.html",
+          "destino": "lei_lc220.json"
+        }
+      ]
+    },
     "legislacao_empresarial_d2044": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",
@@ -2229,6 +2243,41 @@
           "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
           "arquivo_bruto": "lmig.html",
           "destino": "lei_lmig.json"
+        }
+      ]
+    },
+    "legislacao_reforma_tributaria": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "lc214",
+          "codigo": "LC214",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+          "arquivo_bruto": "lc214.html",
+          "destino": "lei_lc214.json"
+        },
+        {
+          "id": "lc227",
+          "codigo": "LC227",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+          "arquivo_bruto": "lc227.html",
+          "destino": "lei_lc227.json"
+        }
+      ]
+    },
+    "legislacao_tributario_lc225": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "lc225",
+          "codigo": "LC225",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp225.htm",
+          "arquivo_bruto": "lc225.html",
+          "destino": "lei_lc225.json"
         }
       ]
     }

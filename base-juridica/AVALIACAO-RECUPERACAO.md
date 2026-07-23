@@ -8,7 +8,7 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 89 consultas: as 24 avaliadas em 17 de julho de 2026; as acrescentadas em
+contém 97 consultas: as 24 avaliadas em 17 de julho de 2026; as acrescentadas em
 19 de julho de 2026 pela expansão da legislação — dez casos do
 piloto, dois a três casos julgados por fatia promovida (estatutos,
 trabalhista, codificadas, penal, tributária, previdenciária, cível/família, eleitoral, imobiliário/agrário, administrativa, processual/constitucional, consumidor/bancária, empresarial e regulatória), dois casos do Código
@@ -23,13 +23,13 @@ julgados nas promoções respectivas:
 |---|---:|
 | Súmulas STJ | 4 |
 | Súmulas STF | 3 |
-| Súmulas vinculantes | 3 |
+| Súmulas vinculantes | 4 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
-| Temas de repercussão geral STF | 3 |
+| Temas de repercussão geral STF | 4 |
 | Informativo STF | 3 |
 | Espelhos de acórdãos STJ | 3 |
-| Legislação | 63 |
+| Legislação | 69 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
 e resultados canônicos obrigatórios. Os julgamentos foram feitos sobre o conteúdo do
@@ -38,6 +38,22 @@ que um resultado central desapareça mesmo quando as métricas agregadas ainda p
 
 Os julgamentos representam um conjunto controlado de regressão. Eles não afirmam que
 todo resultado relevante possível foi identificado em todo o acervo.
+
+Um caso julgado da LC 227/2026 (competências do Comitê Gestor do IBS) foi deliberadamente
+**deixado fora** do corpus: a consulta devolve as cláusulas de alteração da lei à frente
+dos dispositivos de competência, e mantê-lo exigiria afrouxar o limiar do grupo. O defeito
+está registrado no `BASE-041`, com o caso a reintroduzir quando o ranking o resolver.
+
+Em 23 de julho de 2026 entraram três casos da Lei Complementar 214/2025 (split
+payment, Imposto Seletivo e devolução a famílias de baixa renda) e três das leis
+complementares promovidas na mesma data (LC 225/2026, Código de Defesa do Contribuinte,
+e LC 220/2025, Sistema Nacional de Educação), além de dois casos de recuperação por
+equivalência declarada
+(`rg-nepotismo` e `sv-nepotismo-termo-unico`): a Súmula Vinculante 13 e o Tema 1000 do
+STF descrevem a conduta sem escrever "nepotismo", e a busca léxica sozinha não os
+alcançava. A avaliação roda sobre o que o usuário recebe — resultados diretos **mais**
+os trazidos pelo léxico (`data/lexico_juridico.json`), para que a expansão seja medida
+tanto no ganho quanto no ruído.
 
 ## Métricas
 

@@ -19,6 +19,13 @@ import {
   TOTAL_ESPELHOS_STJ,
   TOTAL_ORGAOS_ESPELHOS,
 } from "./espelhos_stj.js";
+import {
+  formatCobertura,
+  LIMITACOES_DECLARADAS,
+  listarFamilias,
+  rodapeSnapshot,
+  rodapeSnapshotLegislacao,
+} from "./cobertura.js";
 
 const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "ADCT",
@@ -271,6 +278,10 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "LC142",
   "LC150",
   "LC182",
+  "LC214",
+  "LC220",
+  "LC225",
+  "LC227",
   "LC64",
   "LC80",
   "LC87",
@@ -297,7 +308,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 273 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 277 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -316,9 +327,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(273);
+    expect(legislacoes).toHaveLength(277);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      22180,
+      23064,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);
@@ -340,5 +351,59 @@ describe("cobertura declarada pelo motor", () => {
     expect(TOTAL_EDICOES_INFORMATIVO).toBe(1211);
     expect(TOTAL_ESPELHOS_STJ).toBe(11133);
     expect(TOTAL_ORGAOS_ESPELHOS).toBe(4);
+  });
+});
+
+describe("cobertura e limitações chegam a quem consulta", () => {
+  test("declara data de captura para toda família anunciada", () => {
+    const familias = listarFamilias();
+    expect(familias.length).toBeGreaterThan(0);
+    for (const familia of familias) {
+      expect(familia.registros).toBeGreaterThan(0);
+      // dd/mm/aaaa, ou "dd/mm/aaaa a dd/mm/aaaa" quando a família tem diplomas
+      // promovidos em datas diferentes.
+      expect(familia.geradoEm).toMatch(
+        /^\d{2}\/\d{2}\/\d{4}( a \d{2}\/\d{2}\/\d{4})?$/,
+      );
+    }
+  });
+
+  test("todo item aberto do backlog está declarado nas limitações", async () => {
+    // A base tem limitações reais e conhecidas; o risco não é tê-las, é quem
+    // consulta não saber delas. Este teste impede que um item aberto no backlog
+    // fique invisível para o MCP — omissão silenciosa é o defeito, não a lacuna.
+    const backlog = await Bun.file(
+      new URL("../../../../../base-juridica/BACKLOG.md", import.meta.url).pathname,
+    ).text();
+    const abertos = backlog
+      .split("\n")
+      .filter((linha) => linha.trimEnd().endsWith("| aberto |"))
+      .map((linha) => linha.match(/`(BASE-\d+)`/)?.[1])
+      .filter((id): id is string => Boolean(id));
+
+    expect(abertos.length).toBeGreaterThan(0);
+    const declarados = new Set(LIMITACOES_DECLARADAS.map((item) => item.id));
+    for (const id of abertos) expect(declarados).toContain(id);
+  });
+
+  test("o relatório mostra cada limitação que afeta cobertura", () => {
+    const relatorio = formatCobertura();
+    for (const item of LIMITACOES_DECLARADAS) {
+      if (item.afetaCobertura) expect(relatorio).toContain(item.id);
+    }
+    expect(relatorio).toContain("não é prova de");
+  });
+
+  test("o rodapé de proveniência traz a data do snapshot consultado", () => {
+    const rodape = rodapeSnapshot("temas_rg_stf");
+    const rg = listarFamilias().find((item) => item.chave === "temas_rg_stf")!;
+    expect(rodape).toContain(rg.geradoEm);
+    expect(rodape).toContain("cobertura_da_base");
+
+    const legislacao = rodapeSnapshotLegislacao(["CF", "CC", "CF"]);
+    expect(legislacao).toContain("CF em ");
+    expect(legislacao).toContain("CC em ");
+    // Código repetido não repete o trecho.
+    expect(legislacao.match(/CF em /g)).toHaveLength(1);
   });
 });

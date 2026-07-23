@@ -1,7 +1,8 @@
 /**
  * Fábrica do servidor MCP do Vade Mecum.
  *
- * `buildServer()` monta um servidor com as 7 ferramentas de busca e seus handlers,
+ * `buildServer()` monta um servidor com as 7 ferramentas de busca, a ferramenta de
+ * cobertura declarada e seus handlers,
  * SEM conectar transporte. Os entrypoints escolhem o transporte:
  *   - index.ts  → stdio  (uso local: Claude Code, Codex sobre o repo)
  *   - http.ts   → Streamable HTTP (uso hospedado: Claude connector remoto + Codex/OpenAI)
@@ -16,36 +17,36 @@ import {
 } from "@modelcontextprotocol/sdk/types.js";
 
 import {
-  buscarSumulas,
+  buscarSumulasAmpliado,
   formatSumula,
   normalizarTribunal,
   TOTAIS_SUMULAS,
   TRIBUNAIS_DISPONIVEIS,
 } from "./search/sumulas.js";
 import {
-  buscarTeses,
+  buscarTesesAmpliado,
   formatTese,
   TOTAL_EDICOES_JT,
   TOTAL_TESES_STJ,
 } from "./search/jt.js";
 import {
-  buscarTemas,
+  buscarTemasAmpliado,
   formatTema,
   TOTAL_TEMAS_STJ,
 } from "./search/temas.js";
 import {
-  buscarTemasRG,
+  buscarTemasRGAmpliado,
   formatTemaRG,
   TOTAL_TEMAS_RG_STF,
 } from "./search/temas_rg_stf.js";
 import {
-  buscarInformativos,
+  buscarInformativosAmpliado,
   formatInformativo,
   TOTAL_EDICOES_INFORMATIVO,
   TOTAL_INFORMATIVOS_STF,
 } from "./search/informativo_stf.js";
 import {
-  buscarEspelhos,
+  buscarEspelhosAmpliado,
   formatEspelho,
   TOTAL_ESPELHOS_STJ,
   TOTAL_ORGAOS_ESPELHOS,
@@ -57,6 +58,12 @@ import {
   listarLegislacaoDisponivel,
   normalizarCodigo,
 } from "./search/legislacao.js";
+import {
+  formatCobertura,
+  rodapeSnapshot,
+  rodapeSnapshotLegislacao,
+} from "./search/cobertura.js";
+import { montarResposta, totalExibido } from "./search/lexico.js";
 
 const formatarNumero = new Intl.NumberFormat("pt-BR").format;
 
@@ -147,6 +154,8 @@ Aceita busca por número ("365") ou por palavras-chave ("dano moral cadastro cr�
 
 Súmulas Vinculantes aprovadas e vigentes têm efeito vinculante nos termos do art. 103-A da CF; estados não ativos são sinalizados separadamente.
 Súmulas comuns do STJ e STF não são vinculantes por si sós; confira vigência e aplicabilidade.
+
+As súmulas vinculantes trazem os precedentes representativos declarados pelo STF na página do enunciado, com link do inteiro teor e, quando a citação oficial os menciona, o tema de repercussão geral correspondente.
 
 Use quando o usuário mencionar número de súmula, ou quando a questão jurídica puder ter orientação sumulada.`,
           annotations: ANOTACOES_LEITURA,
@@ -341,6 +350,14 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
             required: ["query"],
           },
         },
+        {
+          name: "cobertura_da_base",
+          description: `Declara o que este acervo cobre e o que não cobre: famílias disponíveis, quantos registros, a data em que cada snapshot foi capturado e as limitações conhecidas.
+
+Use antes de concluir que algo "não existe": resultado vazio pode ser lacuna de cobertura, não ausência de norma ou de precedente. Use também quando precisar dizer ao usuário de quando é o dado que sustenta a resposta.`,
+          annotations: ANOTACOES_LEITURA,
+          inputSchema: { type: "object", properties: {} },
+        },
       ],
     };
   });
@@ -367,11 +384,32 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
         };
       }
 
-      const results = buscarSumulas(query, tribunal, limit);
-      if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhuma súmula encontrada para: "${query}"` }] };
+      const chavesSumulas: Record<string, string> = {
+        STJ: "sumulas_stj",
+        STF: "sumulas_stf",
+        vinculante: "sumulas_vinculantes",
+      };
+
+      const busca = buscarSumulasAmpliado(query, tribunal, limit);
+      const results = [...busca.diretos, ...busca.porEquivalencia];
+      if (totalExibido(busca) === 0) {
+        const alcance =
+          tribunal === "todos"
+            ? Object.values(chavesSumulas)
+            : [chavesSumulas[tribunal]!];
+        return {
+          content: [
+            {
+              type: "text",
+              text: `Nenhuma súmula encontrada para: "${query}"\n\n${rodapeSnapshot(alcance)}`,
+            },
+          ],
+        };
       }
-      const text = results.map(formatSumula).join("\n---\n\n");
+      const consultadas = [
+        ...new Set(results.map(({ tribunal: t }) => chavesSumulas[t]!)),
+      ];
+      const text = `${montarResposta(busca, formatSumula)}\n${rodapeSnapshot(consultadas)}`;
       return { content: [{ type: "text", text }] };
     }
 
@@ -379,11 +417,16 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       const query = String(args?.query ?? "");
       const limit = Number(args?.limit ?? 5);
 
-      const results = buscarTeses(query, limit);
-      if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhuma tese encontrada para: "${query}"` }] };
+      const rodape = rodapeSnapshot("jurisprudencia_teses_stj");
+      const busca = buscarTesesAmpliado(query, limit);
+      if (totalExibido(busca) === 0) {
+        return {
+          content: [
+            { type: "text", text: `Nenhuma tese encontrada para: "${query}"\n\n${rodape}` },
+          ],
+        };
       }
-      const text = results.map(formatTese).join("\n---\n\n");
+      const text = `${montarResposta(busca, formatTese)}\n${rodape}`;
       return { content: [{ type: "text", text }] };
     }
 
@@ -391,11 +434,16 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       const query = String(args?.query ?? "");
       const limit = Number(args?.limit ?? 5);
 
-      const results = buscarTemas(query, limit);
-      if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhum tema encontrado para: "${query}"` }] };
+      const rodape = rodapeSnapshot("temas_repetitivos_stj");
+      const busca = buscarTemasAmpliado(query, limit);
+      if (totalExibido(busca) === 0) {
+        return {
+          content: [
+            { type: "text", text: `Nenhum tema encontrado para: "${query}"\n\n${rodape}` },
+          ],
+        };
       }
-      const text = results.map(formatTema).join("\n---\n\n");
+      const text = `${montarResposta(busca, formatTema)}\n${rodape}`;
       return { content: [{ type: "text", text }] };
     }
 
@@ -403,11 +451,19 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       const query = String(args?.query ?? "");
       const limit = Number(args?.limit ?? 5);
 
-      const results = buscarTemasRG(query, limit);
-      if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhum tema de repercussão geral encontrado para: "${query}"` }] };
+      const rodape = rodapeSnapshot("temas_rg_stf");
+      const busca = buscarTemasRGAmpliado(query, limit);
+      if (totalExibido(busca) === 0) {
+        return {
+          content: [
+            {
+              type: "text",
+              text: `Nenhum tema de repercussão geral encontrado para: "${query}"\n\n${rodape}`,
+            },
+          ],
+        };
       }
-      const text = results.map(formatTemaRG).join("\n---\n\n");
+      const text = `${montarResposta(busca, formatTemaRG)}\n${rodape}`;
       return { content: [{ type: "text", text }] };
     }
 
@@ -415,11 +471,19 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       const query = String(args?.query ?? "");
       const limit = Number(args?.limit ?? 5);
 
-      const results = buscarInformativos(query, limit);
-      if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhum julgado do Informativo encontrado para: "${query}"` }] };
+      const rodape = rodapeSnapshot("informativo_stf");
+      const busca = buscarInformativosAmpliado(query, limit);
+      if (totalExibido(busca) === 0) {
+        return {
+          content: [
+            {
+              type: "text",
+              text: `Nenhum julgado do Informativo encontrado para: "${query}"\n\n${rodape}`,
+            },
+          ],
+        };
       }
-      const text = results.map(formatInformativo).join("\n---\n\n");
+      const text = `${montarResposta(busca, formatInformativo)}\n${rodape}`;
       return { content: [{ type: "text", text }] };
     }
 
@@ -427,11 +491,19 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       const query = String(args?.query ?? "");
       const limit = Number(args?.limit ?? 5);
 
-      const results = buscarEspelhos(query, limit);
-      if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhum espelho de acórdão encontrado para: "${query}"` }] };
+      const rodape = rodapeSnapshot("espelhos_stj");
+      const busca = buscarEspelhosAmpliado(query, limit);
+      if (totalExibido(busca) === 0) {
+        return {
+          content: [
+            {
+              type: "text",
+              text: `Nenhum espelho de acórdão encontrado para: "${query}"\n\n${rodape}`,
+            },
+          ],
+        };
       }
-      const text = results.map(formatEspelho).join("\n---\n\n");
+      const text = `${montarResposta(busca, formatEspelho)}\n${rodape}`;
       return { content: [{ type: "text", text }] };
     }
 
@@ -456,10 +528,25 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
 
       const results = buscarLegislacao(query, codigo, limit);
       if (results.length === 0) {
-        return { content: [{ type: "text", text: `Nenhum artigo encontrado para: "${query}"` }] };
+        const alcance = codigo === "todos" ? [] : [codigo];
+        return {
+          content: [
+            {
+              type: "text",
+              text: `Nenhum artigo encontrado para: "${query}"\n\n${rodapeSnapshotLegislacao(alcance)}`,
+            },
+          ],
+        };
       }
-      const text = results.map(({ codigo: cod, artigo }) => formatArtigo(cod, artigo)).join("\n---\n\n");
+      const rodape = rodapeSnapshotLegislacao(results.map(({ codigo: cod }) => cod));
+      const text = `${results
+        .map(({ codigo: cod, artigo }) => formatArtigo(cod, artigo))
+        .join("\n---\n\n")}\n${rodape}`;
       return { content: [{ type: "text", text }] };
+    }
+
+    if (name === "cobertura_da_base") {
+      return { content: [{ type: "text", text: formatCobertura() }] };
     }
 
     return { content: [{ type: "text", text: `Tool desconhecida: ${name}` }] };

@@ -4,7 +4,11 @@ import {
   FONTE_OFICIAL,
   NATUREZAS_DOCUMENTAIS,
 } from "./taxonomia.js";
-import { normalizeText, STOPWORDS } from "./utils.js";
+import {
+  type BuscaAmpliada,
+  buscarComEquivalencias,
+} from "./lexico.js";
+import { dataDoSnapshot, normalizeText, STOPWORDS } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -27,6 +31,24 @@ export interface SumulaSTJ {
   readonly url: string | null;
 }
 
+/**
+ * Precedente representativo declarado pelo STF na página do enunciado: é a
+ * própria Corte quem afirma que aquele julgado deu origem à súmula. Quando a
+ * citação traz o tema de repercussão geral, o vínculo também vem da fonte.
+ */
+export interface PrecedenteSumula {
+  readonly processo: string;
+  readonly relator: string;
+  readonly orgao: string;
+  readonly julgamento: string;
+  readonly publicacao: string;
+  /** Inteiro teor no paginador do STF, como publicado na página da súmula. */
+  readonly url: string;
+  /** Consulta do acórdão por classe e número na jurisprudência do STF. */
+  readonly consulta?: string;
+  readonly temaRG?: number;
+}
+
 export interface SumulaSTF {
   readonly numero: number;
   readonly enunciado: string;
@@ -34,6 +56,7 @@ export interface SumulaSTF {
   readonly area: string;
   readonly data: string;
   readonly url: string;
+  readonly precedentes?: readonly PrecedenteSumula[];
 }
 
 export interface SumulaVinculante {
@@ -43,6 +66,7 @@ export interface SumulaVinculante {
   readonly ramo: string;
   readonly data: string;
   readonly url: string;
+  readonly precedentes?: readonly PrecedenteSumula[];
 }
 
 export type Tribunal = "STJ" | "STF" | "vinculante";
@@ -72,12 +96,15 @@ export function normalizarTribunal(valor: string): Tribunal | "todos" | null {
 // ── Data loading ───────────────────────────────────────────────────────────
 
 const stj = require("../../data/sumulas_stj.json") as {
+  _meta: { gerado_em: string };
   sumulas: Record<string, SumulaSTJ>;
 };
 const stf = require("../../data/sumulas_stf.json") as {
+  _meta: { gerado_em: string };
   sumulas: Record<string, SumulaSTF>;
 };
 const sv = require("../../data/sumulas_vinculantes.json") as {
+  _meta: { gerado_em: string };
   sumulas: Record<string, SumulaVinculante>;
 };
 const kwStj = require("../../data/sumulas_keywords.json") as {
@@ -91,6 +118,12 @@ export const TOTAIS_SUMULAS = Object.freeze({
   STJ: Object.keys(stj.sumulas).length,
   STF: Object.keys(stf.sumulas).length,
   vinculantes: Object.keys(sv.sumulas).length,
+});
+
+export const SNAPSHOTS_SUMULAS = Object.freeze({
+  STJ: dataDoSnapshot(stj._meta.gerado_em),
+  STF: dataDoSnapshot(stf._meta.gerado_em),
+  vinculante: dataDoSnapshot(sv._meta.gerado_em),
 });
 
 // ── Keyword indexes (lazy) ─────────────────────────────────────────────────
@@ -251,6 +284,63 @@ function formatFonteOficial(url: string | null): string {
     : "\n**Proveniência:** link oficial não disponível neste snapshot.\n";
 }
 
+export type ResultadoSumula = {
+  tribunal: Tribunal;
+  sumula: SumulaSTJ | SumulaSTF | SumulaVinculante;
+};
+
+/** Busca com a expansão declarada do léxico (ver `lexico.ts`). */
+export function buscarSumulasAmpliado(
+  query: string,
+  tribunal: Tribunal | "todos",
+  limit = 5,
+): BuscaAmpliada<ResultadoSumula> {
+  return buscarComEquivalencias(
+    query,
+    limit,
+    (consulta, limite) => buscarSumulas(consulta, tribunal, limite),
+    ({ tribunal: t, sumula }) => `${t}:${sumula.numero}`,
+  );
+}
+
+/**
+ * Precedentes representativos, como o STF os publica na página da súmula.
+ * Sem isto o usuário via o enunciado sem saber de onde ele veio e precisava
+ * caçar os julgados em outra ferramenta.
+ */
+function formatPrecedentes(
+  precedentes: readonly PrecedenteSumula[] | undefined,
+): string {
+  if (!precedentes || precedentes.length === 0) return "";
+  const linhas = precedentes
+    .map((item) => {
+      const identificacao = [
+        item.processo,
+        item.relator ? `rel. min. ${item.relator}` : "",
+        item.orgao,
+        item.julgamento ? `j. ${item.julgamento}` : "",
+        item.publicacao,
+      ]
+        .filter(Boolean)
+        .join(", ");
+      const tema = item.temaRG ? ` — Tema ${item.temaRG} de repercussão geral` : "";
+      const links = [
+        ["Inteiro teor", item.url],
+        ["Consulta por classe e número", item.consulta],
+      ]
+        .filter((par): par is [string, string] => Boolean(par[1]))
+        .map(([rotulo, url]) => `\n  ${rotulo}: ${url}`)
+        .join("");
+      return `- ${identificacao}${tema}${links}`;
+    })
+    .join("\n");
+  return `\n\n**Precedentes representativos** (declarados pelo STF):\n${linhas}`;
+}
+
+// O rótulo da data acompanha o que cada fonte declara: no STF a página do
+// enunciado informa "Data de aprovação ou publicação" — sem distinguir as duas —
+// e no SCON do STJ a citação do verbete traz a data em que a súmula foi julgada.
+// Um "Data:" genérico deixava o leitor supor o evento errado.
 export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | SumulaSTF | SumulaVinculante }): string {
   const { tribunal, sumula } = item;
 
@@ -266,7 +356,7 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 **Enunciado:**
 > ${s.enunciado}
 
-**Ramo:** ${s.ramo} | **Data:** ${s.data}${formatFonteOficial(s.url)}
+**Ramo:** ${s.ramo} | **Aprovação/publicação:** ${s.data}${formatPrecedentes(s.precedentes)}${formatFonteOficial(s.url)}
 `;
   }
 
@@ -282,7 +372,7 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 **Enunciado:**
 > ${s.enunciado}
 
-**Área:** ${s.area} | **Data:** ${s.data}${formatFonteOficial(s.url)}
+**Área:** ${s.area} | **Aprovação/publicação:** ${s.data}${formatPrecedentes(s.precedentes)}${formatFonteOficial(s.url)}
 `;
   }
 
@@ -297,6 +387,6 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 **Enunciado:**
 > ${s.enunciado}
 
-**Área:** ${s.area} | **Tema:** ${s.tema} | **Órgão:** ${s.orgao} | **Data:** ${s.data}${formatFonteOficial(s.url)}
+**Área:** ${s.area} | **Tema:** ${s.tema} | **Órgão:** ${s.orgao} | **Julgamento:** ${s.data}${formatFonteOficial(s.url)}
 `;
 }

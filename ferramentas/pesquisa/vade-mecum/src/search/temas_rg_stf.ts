@@ -2,9 +2,14 @@ import { createRequire } from "module";
 import {
   descreverEfeitoTemaRG,
   FONTE_OFICIAL,
+  meritoDecididoRG,
   NATUREZAS_DOCUMENTAIS,
 } from "./taxonomia.js";
-import { tokenize } from "./utils.js";
+import {
+  type BuscaAmpliada,
+  buscarComEquivalencias,
+} from "./lexico.js";
+import { dataDoSnapshot, tokenize } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -38,6 +43,7 @@ const raw = require("../../data/temas_rg_stf.json") as {
 };
 
 export const TOTAL_TEMAS_RG_STF = Object.keys(raw.temas).length;
+export const SNAPSHOT_TEMAS_RG_STF = dataDoSnapshot(raw._meta.generatedAt);
 
 // ── Índice textual em memória ──────────────────────────────────────────────
 // Construído a partir do texto publicado de cada tema, cobre todos os temas em
@@ -96,6 +102,16 @@ export function buscarTemasRG(query: string, limit = 5): TemaRGData[] {
     .filter((t): t is TemaRGData => t !== undefined);
 }
 
+/** Busca com a expansão declarada do léxico (ver `lexico.ts`). */
+export function buscarTemasRGAmpliado(
+  query: string,
+  limit = 5,
+): BuscaAmpliada<TemaRGData> {
+  return buscarComEquivalencias(query, limit, buscarTemasRG, (tema) =>
+    String(tema.numero),
+  );
+}
+
 export function formatTemaRG(tema: TemaRGData): string {
   const tese = tema.tese?.trim()
     ? `\n**Tese firmada:**\n> ${tema.tese}\n`
@@ -114,6 +130,24 @@ export function formatTemaRG(tema: TemaRGData): string {
     : "\n**Proveniência:** links oficiais não disponíveis neste snapshot.\n";
   const efeito = descreverEfeitoTemaRG(tema.situacao, tema.tese);
 
+  // A exportação do STF traz duas datas com significados distintos: a coluna
+  // "Data do Julgamento" é a do julgamento da repercussão geral, não a do
+  // mérito, e a fixação da tese vai na coluna "Data da Tese". Exibir só a
+  // primeira, sob rótulo genérico, fazia o registro parecer contraditório —
+  // tema com mérito julgado ao lado de uma data anterior ao julgamento. Os
+  // rótulos abaixo acompanham os nomes das colunas oficiais; a publicação do
+  // acórdão e o trânsito em julgado não têm data nesta rota.
+  const datas: string[] = [];
+  if (tema.dataJulgamento) {
+    datas.push(`**Julgamento da repercussão geral:** ${tema.dataJulgamento}`);
+  }
+  if (tema.dataTese?.trim()) {
+    datas.push(`**Tese fixada em:** ${tema.dataTese}`);
+  } else if (meritoDecididoRG(tema.situacao)) {
+    datas.push("**Tese fixada em:** não registrada neste snapshot");
+  }
+  const linhaDatas = datas.length > 0 ? `\n${datas.join(" | ")}` : "";
+
   return `## 📋 ${NATUREZAS_DOCUMENTAIS.registroPrecedenteQualificado} | TEMA DE REPERCUSSÃO GERAL STF
 
 **Tema ${tema.numero} STF (repercussão geral)**
@@ -122,6 +156,6 @@ export function formatTemaRG(tema: TemaRGData): string {
 
 **Controvérsia:**
 > ${tema.titulo}
-${tese}**Leading case:** ${tema.leadingCase}${tema.relator ? ` | **Relator(a):** ${tema.relator}` : ""}${tema.dataJulgamento ? ` | **Julgamento:** ${tema.dataJulgamento}` : ""}${fontes}
+${tese}**Leading case:** ${tema.leadingCase}${tema.relator ? ` | **Relator(a):** ${tema.relator}` : ""}${linhaDatas}${fontes}
 `;
 }

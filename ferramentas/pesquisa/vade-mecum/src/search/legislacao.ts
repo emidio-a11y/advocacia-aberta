@@ -1,6 +1,6 @@
 import { createRequire } from "module";
 import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
-import { normalizeText } from "./utils.js";
+import { dataDoSnapshot, normalizeText } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -24,6 +24,7 @@ interface CodigoJSON {
     lei: string;
     url_base: string;
     total_artigos: number;
+    gerado_em: string;
   };
   artigos: Record<string, Artigo>;
   indexes?: { keywords?: IndiceInvertido };
@@ -1065,6 +1066,22 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc182.json",
     rotulo: "Marco Legal das Startups (Lei Complementar 182/2021)",
   },
+  LC214: {
+    arquivo: "../../data/lei_lc214.json",
+    rotulo: "Reforma Tributária — IBS, CBS e Imposto Seletivo (Lei Complementar 214/2025)",
+  },
+  LC220: {
+    arquivo: "../../data/lei_lc220.json",
+    rotulo: "Sistema Nacional de Educação (Lei Complementar 220/2025)",
+  },
+  LC225: {
+    arquivo: "../../data/lei_lc225.json",
+    rotulo: "Código de Defesa do Contribuinte (Lei Complementar 225/2026)",
+  },
+  LC227: {
+    arquivo: "../../data/lei_lc227.json",
+    rotulo: "Comitê Gestor do IBS e processo administrativo tributário do IBS (Lei Complementar 227/2026)",
+  },
   LC64: {
     arquivo: "../../data/lei_lc64.json",
     rotulo: "Inelegibilidades (Lei Complementar das Inelegibilidades) (Lei Complementar 64/1990)",
@@ -1147,6 +1164,8 @@ export interface LegislacaoDisponivel {
   readonly rotulo: string;
   readonly registros: number;
   readonly urlBase: string;
+  /** Data de geração do snapshot do diploma, em formato brasileiro. */
+  readonly geradoEm: string;
 }
 
 // ── Carregamento lazy ──────────────────────────────────────────────────────
@@ -1204,6 +1223,14 @@ export function resolverCodigos(
   return codigo === "todos" ? CODIGOS_DISPONIVEIS : [codigo];
 }
 
+/**
+ * Data de captura do diploma, sem carregar os demais: o rodapé de proveniência
+ * de uma busca precisa só dos códigos que apareceram no resultado.
+ */
+export function dataDoDiploma(codigo: CodigoCodigo): string {
+  return dataDoSnapshot(loadCodigo(codigo)._meta.gerado_em);
+}
+
 export function listarLegislacaoDisponivel(): LegislacaoDisponivel[] {
   return CODIGOS_DISPONIVEIS.map((codigo) => {
     const dados = loadCodigo(codigo);
@@ -1212,6 +1239,7 @@ export function listarLegislacaoDisponivel(): LegislacaoDisponivel[] {
       rotulo: REGISTRO_CODIGOS[codigo].rotulo,
       registros: Object.keys(dados.artigos).length,
       urlBase: dados._meta.url_base,
+      geradoEm: dataDoSnapshot(dados._meta.gerado_em),
     };
   });
 }

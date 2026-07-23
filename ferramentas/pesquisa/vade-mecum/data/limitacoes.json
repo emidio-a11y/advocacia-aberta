@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "descricao": "Limitações declaradas da base, espelhando os itens abertos de base-juridica/BACKLOG.md. Serve à ferramenta cobertura_da_base: quem consulta precisa saber o que a base NÃO cobre antes de interpretar um resultado vazio como ausência de norma ou de precedente.",
+    "fonte": "base-juridica/BACKLOG.md",
+    "regra": "Todo item aberto do backlog precisa aparecer aqui, inclusive os que não afetam cobertura — nesse caso com afetaCobertura=false e a razão. O teste cobertura.test.ts recusa omissão silenciosa.",
+    "atualizado_em": "2026-07-23"
+  },
+  "itens": [
+    {
+      "id": "BASE-020",
+      "afetaCobertura": true,
+      "familias": [
+        "temas_repetitivos_stj"
+      ],
+      "resumo": "Os temas repetitivos 1406 a 1462 do STJ só são encontrados por número: a busca dessa família usa os índices legados, sem varredura textual. Consulta por palavras pode não alcançá-los."
+    },
+    {
+      "id": "BASE-022",
+      "afetaCobertura": true,
+      "familias": [
+        "temas_rg_stf"
+      ],
+      "resumo": "A suspensão nacional de processos (art. 1.035, §5º, do CPC) não consta dos temas de repercussão geral: o dado só existe na base Qlik do STF, fora das rotas estáticas. Confirme a suspensão na página oficial do tema."
+    },
+    {
+      "id": "BASE-023",
+      "afetaCobertura": true,
+      "familias": [
+        "jurisprudencia_stf"
+      ],
+      "resumo": "Decisões de controle concentrado do STF (ADI, ADC, ADO e ADPF) não estão na base — o export estático do STF só alcança petições iniciais."
+    },
+    {
+      "id": "BASE-024",
+      "afetaCobertura": true,
+      "familias": [
+        "jurisprudencia_stj"
+      ],
+      "resumo": "Produtos curados do STJ fora da base: Informativo de Jurisprudência, Pesquisa Pronta e Legislação Aplicada. As rotas conhecidas do SCON recusam coleta automatizada."
+    },
+    {
+      "id": "BASE-027",
+      "afetaCobertura": true,
+      "familias": [
+        "espelhos_stj"
+      ],
+      "resumo": "Os espelhos cobrem a Corte Especial e as 3 Seções do STJ; os acórdãos das 6 Turmas ficaram fora por volume (~120 mil registros)."
+    },
+    {
+      "id": "BASE-032",
+      "afetaCobertura": true,
+      "familias": [
+        "legislacao"
+      ],
+      "resumo": "Tratados e convenções anexados a decretos de promulgação não viram dispositivos pesquisáveis: usam numeração própria (\"Artigo 1\"), que o adaptador do Planalto não reconhece. Consulte o texto do tratado na fonte oficial."
+    },
+    {
+      "id": "BASE-038",
+      "afetaCobertura": true,
+      "familias": [
+        "sumulas_stf"
+      ],
+      "resumo": "Os precedentes representativos estão publicados nas 63 súmulas vinculantes; as 736 súmulas comuns do STF ainda não trazem o campo, embora o STF os publique também para elas."
+    },
+    {
+      "id": "BASE-039",
+      "afetaCobertura": true,
+      "familias": [
+        "legislacao"
+      ],
+      "resumo": "A busca em texto é léxica: consulta com o substantivo pode não alcançar o artigo que usa o verbo (em LC 214/2025, \"apropriação de créditos\" não devolve o art. 47, que diz \"poderá apropriar créditos\"). Varie a forma da palavra ou busque pelo número do artigo."
+    },
+    {
+      "id": "BASE-040",
+      "afetaCobertura": true,
+      "familias": [
+        "legislacao"
+      ],
+      "resumo": "A varredura de diplomas faltantes cobriu as leis complementares até julho de 2026; as leis ordinárias de 2024 em diante ainda não foram cruzadas com o acervo por falta de rota de índice anual."
+    },
+    {
+      "id": "BASE-041",
+      "afetaCobertura": true,
+      "familias": [
+        "legislacao"
+      ],
+      "resumo": "Em leis que alteram outras leis, as cláusulas de alteração (que transcrevem o texto alterado) podem aparecer à frente dos dispositivos de conteúdo próprio. Confira se o artigo devolvido é da lei consultada ou texto que ela insere em outra."
+    }
+  ]
+}

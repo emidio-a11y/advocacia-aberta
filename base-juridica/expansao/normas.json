@@ -2884,6 +2884,60 @@
         "revogou os arts. 757 a 802 do Código Civil (capítulo de seguro), que no snapshot do CC são stubs de revogação; esta lei é a sede atual da matéria",
         "grupo próprio para capturar isoladamente sem recoletar a fatia consumidor/bancária já promovida"
       ]
+    },
+    {
+      "sigla": "LC214",
+      "nome": "Reforma Tributária — IBS, CBS e Imposto Seletivo",
+      "lei": "Lei Complementar 214/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "grupo": "reforma_tributaria",
+      "origens": [
+        "Varredura das leis complementares de 2024-2026 no quadro oficial do Planalto (23/07/2026)"
+      ],
+      "notas": [
+        "Regulamenta a EC 132/2023, cuja moldura constitucional (arts. 149-B, 149-C, 156-A e 156-B) já consta da CF do acervo.",
+        "Apontada em teste externo do MCP: consultas sobre split payment e créditos de IBS/CBS não encontravam o diploma, só referências indiretas em outras normas."
+      ]
+    },
+    {
+      "sigla": "LC227",
+      "nome": "Comitê Gestor do IBS e processo administrativo tributário do IBS",
+      "lei": "Lei Complementar 227/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "grupo": "reforma_tributaria",
+      "origens": [
+        "Varredura das leis complementares de 2024-2026 no quadro oficial do Planalto (23/07/2026)"
+      ],
+      "notas": [
+        "Fecha o par com a LC 214/2025: institui o CGIBS e disciplina o contencioso administrativo do IBS.",
+        "Sem versão compilada no Planalto até 23/07/2026; captura pela página do texto original, que já traz as alterações marcadas."
+      ]
+    },
+    {
+      "sigla": "LC225",
+      "nome": "Código de Defesa do Contribuinte",
+      "lei": "Lei Complementar 225/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp225.htm",
+      "grupo": "tributario_lc225",
+      "origens": [
+        "Varredura das leis complementares de 2024-2026 no quadro oficial do Planalto (23/07/2026)"
+      ],
+      "notas": [
+        "Sem versão compilada no Planalto até 23/07/2026."
+      ]
+    },
+    {
+      "sigla": "LC220",
+      "nome": "Sistema Nacional de Educação",
+      "lei": "Lei Complementar 220/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp220.htm",
+      "grupo": "educacao_lc220",
+      "origens": [
+        "Varredura das leis complementares de 2024-2026 no quadro oficial do Planalto (23/07/2026)"
+      ],
+      "notas": [
+        "Sem versão compilada no Planalto até 23/07/2026."
+      ]
     }
   ]
 }

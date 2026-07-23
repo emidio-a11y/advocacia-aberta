@@ -1,6 +1,10 @@
 import { createRequire } from "module";
 import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
-import { tokenize } from "./utils.js";
+import {
+  type BuscaAmpliada,
+  buscarComEquivalencias,
+} from "./lexico.js";
+import { dataDoSnapshot, tokenize } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -37,6 +41,7 @@ const raw = require("../../data/informativo_stf.json") as {
 const { informativos } = raw;
 
 export const TOTAL_INFORMATIVOS_STF = Object.keys(informativos).length;
+export const SNAPSHOT_INFORMATIVO_STF = dataDoSnapshot(raw._meta.generatedAt);
 export const TOTAL_EDICOES_INFORMATIVO = new Set(
   Object.values(informativos).map((item) => item.edicao),
 ).size;
@@ -96,6 +101,14 @@ export function buscarInformativos(query: string, limit = 5): InformativoJulgado
     .slice(0, limit)
     .map(([id]) => informativos[id])
     .filter((i): i is InformativoJulgado => i !== undefined);
+}
+
+/** Busca com a expansão declarada do léxico (ver `lexico.ts`). */
+export function buscarInformativosAmpliado(
+  query: string,
+  limit = 5,
+): BuscaAmpliada<InformativoJulgado> {
+  return buscarComEquivalencias(query, limit, buscarInformativos, (item) => item.id);
 }
 
 export function formatInformativo(item: InformativoJulgado): string {
