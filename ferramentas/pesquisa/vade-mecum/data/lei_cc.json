@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
     "total_artigos": 2084,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": [
       "69-A"
@@ -44437,7 +44437,7 @@
     },
     "1856": {
       "numero": "1856",
-      "texto": "Art. 1.856. O renunciante à herança de uma pessoa poderá representá-la na sucessão de outra.\n\nTITULO III DA SUCESSÃO TESTAMENTÁRIA\n\nCAPITULO I DO TESTAMENTO EM GERAL",
+      "texto": "Art. 1.856. O renunciante à herança de uma pessoa poderá representá-la na sucessão de outra.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm#:~:text=%201.856.",
       "keywords": [
         "renuncia heranca",
@@ -44473,10 +44473,10 @@
         "bens morte"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III Do Direito de Representação",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
+        "chapter": "I",
+        "chapter_name": "DO TESTAMENTO EM GERAL",
         "section": null,
         "section_name": null
       },
@@ -44495,10 +44495,10 @@
         "testamento revogavel"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III Do Direito de Representação",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
+        "chapter": "I",
+        "chapter_name": "DO TESTAMENTO EM GERAL",
         "section": null,
         "section_name": null
       },
@@ -44518,10 +44518,10 @@
         "testamento extinto"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III Do Direito de Representação",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
+        "chapter": "I",
+        "chapter_name": "DO TESTAMENTO EM GERAL",
         "section": null,
         "section_name": null
       },
@@ -44541,10 +44541,10 @@
         "capacidade testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II Da Capacidade de Testar",
+        "chapter_name": "Da Capacidade de Testar",
         "section": null,
         "section_name": null
       },
@@ -44563,10 +44563,10 @@
         "formas ordinarias testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II Da Capacidade de Testar",
+        "chapter_name": "Da Capacidade de Testar",
         "section": null,
         "section_name": null
       },
@@ -44585,12 +44585,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1861",
       "next": "1863"
@@ -44609,12 +44609,12 @@
         "proibicao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1862",
       "next": "1864"
@@ -44633,12 +44633,12 @@
         "requisitos do testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "II",
-        "section_name": "Seção II Do Testamento Público"
+        "section_name": "Do Testamento Público"
       },
       "prev": "1863",
       "next": "1865"
@@ -44657,12 +44657,12 @@
         "rogo testemunha"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "II",
-        "section_name": "Seção II Do Testamento Público"
+        "section_name": "Do Testamento Público"
       },
       "prev": "1864",
       "next": "1866"
@@ -44679,12 +44679,12 @@
         "incapacidade surdez"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "II",
-        "section_name": "Seção II Do Testamento Público"
+        "section_name": "Do Testamento Público"
       },
       "prev": "1865",
       "next": "1867"
@@ -44703,12 +44703,12 @@
         "voz alta testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "II",
-        "section_name": "Seção II Do Testamento Público"
+        "section_name": "Do Testamento Público"
       },
       "prev": "1866",
       "next": "1868"
@@ -44727,12 +44727,12 @@
         "auto aprovacao"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1867",
       "next": "1869"
@@ -44752,12 +44752,12 @@
         "testemunhas"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1868",
       "next": "1870"
@@ -44774,12 +44774,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1869",
       "next": "1871"
@@ -44796,12 +44796,12 @@
         "testamento a rogo"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1870",
       "next": "1872"
@@ -44818,12 +44818,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1871",
       "next": "1873"
@@ -44840,12 +44840,12 @@
         "oficial publico testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1872",
       "next": "1874"
@@ -44864,12 +44864,12 @@
         "testador"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1873",
       "next": "1875"
@@ -44889,12 +44889,12 @@
         "suspeita falsidade"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "III",
-        "section_name": "Seção III Do Testamento Cerrado"
+        "section_name": "Do Testamento Cerrado"
       },
       "prev": "1874",
       "next": "1876"
@@ -44914,12 +44914,12 @@
         "espacos branco testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "IV",
-        "section_name": "Seção IV Do Testamento Particular"
+        "section_name": "Do Testamento Particular"
       },
       "prev": "1875",
       "next": "1877"
@@ -44936,12 +44936,12 @@
         "citacao herdeiros"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "IV",
-        "section_name": "Seção IV Do Testamento Particular"
+        "section_name": "Do Testamento Particular"
       },
       "prev": "1876",
       "next": "1878"
@@ -44960,12 +44960,12 @@
         "veracidade testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "IV",
-        "section_name": "Seção IV Do Testamento Particular"
+        "section_name": "Do Testamento Particular"
       },
       "prev": "1877",
       "next": "1879"
@@ -44984,12 +44984,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "IV",
-        "section_name": "Seção IV Do Testamento Particular"
+        "section_name": "Do Testamento Particular"
       },
       "prev": "1878",
       "next": "1880"
@@ -45006,12 +45006,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III Das formas ordinárias do testamento",
+        "chapter_name": "Das formas ordinárias do testamento",
         "section": "IV",
-        "section_name": "Seção IV Do Testamento Particular"
+        "section_name": "Do Testamento Particular"
       },
       "prev": "1879",
       "next": "1881"
@@ -45032,10 +45032,10 @@
         "uso pessoal"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV Dos Codicilos",
+        "chapter_name": "Dos Codicilos",
         "section": null,
         "section_name": null
       },
@@ -45054,10 +45054,10 @@
         "direito terceiro"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV Dos Codicilos",
+        "chapter_name": "Dos Codicilos",
         "section": null,
         "section_name": null
       },
@@ -45076,10 +45076,10 @@
         "testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV Dos Codicilos",
+        "chapter_name": "Dos Codicilos",
         "section": null,
         "section_name": null
       },
@@ -45099,10 +45099,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV Dos Codicilos",
+        "chapter_name": "Dos Codicilos",
         "section": null,
         "section_name": null
       },
@@ -45121,10 +45121,10 @@
         "abertura codicilo"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV Dos Codicilos",
+        "chapter_name": "Dos Codicilos",
         "section": null,
         "section_name": null
       },
@@ -45146,12 +45146,12 @@
         "testamento particular"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1885",
       "next": "1887"
@@ -45168,12 +45168,12 @@
         "codigos"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1886",
       "next": "1888"
@@ -45193,12 +45193,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "II",
-        "section_name": "Seção II Do Testamento Marítimo e do Testamento Aeronáutico"
+        "section_name": "Do Testamento Marítimo e do Testamento Aeronáutico"
       },
       "prev": "1887",
       "next": "1889"
@@ -45217,12 +45217,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "II",
-        "section_name": "Seção II Do Testamento Marítimo e do Testamento Aeronáutico"
+        "section_name": "Do Testamento Marítimo e do Testamento Aeronáutico"
       },
       "prev": "1888",
       "next": "1890"
@@ -45242,12 +45242,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "II",
-        "section_name": "Seção II Do Testamento Marítimo e do Testamento Aeronáutico"
+        "section_name": "Do Testamento Marítimo e do Testamento Aeronáutico"
       },
       "prev": "1889",
       "next": "1891"
@@ -45266,12 +45266,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "II",
-        "section_name": "Seção II Do Testamento Marítimo e do Testamento Aeronáutico"
+        "section_name": "Do Testamento Marítimo e do Testamento Aeronáutico"
       },
       "prev": "1890",
       "next": "1892"
@@ -45289,12 +45289,12 @@
         "testador desembarcar"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "II",
-        "section_name": "Seção II Do Testamento Marítimo e do Testamento Aeronáutico"
+        "section_name": "Do Testamento Marítimo e do Testamento Aeronáutico"
       },
       "prev": "1891",
       "next": "1893"
@@ -45314,12 +45314,12 @@
         "testemunhas testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "III",
-        "section_name": "Seção III Do Testamento Militar"
+        "section_name": "Do Testamento Militar"
       },
       "prev": "1892",
       "next": "1894"
@@ -45338,12 +45338,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "III",
-        "section_name": "Seção III Do Testamento Militar"
+        "section_name": "Do Testamento Militar"
       },
       "prev": "1893",
       "next": "1895"
@@ -45360,12 +45360,12 @@
         "lugar testar"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "III",
-        "section_name": "Seção III Do Testamento Militar"
+        "section_name": "Do Testamento Militar"
       },
       "prev": "1894",
       "next": "1896"
@@ -45385,12 +45385,12 @@
         "convalescenca testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V Dos Testamentos Especiais",
+        "chapter_name": "Dos Testamentos Especiais",
         "section": "III",
-        "section_name": "Seção III Do Testamento Militar"
+        "section_name": "Do Testamento Militar"
       },
       "prev": "1895",
       "next": "1897"
@@ -45411,10 +45411,10 @@
         "fim testamentario"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45433,10 +45433,10 @@
         "cessar direito herdeiro"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45460,10 +45460,10 @@
         "interpretacao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45485,10 +45485,10 @@
         "arts 1801 1802"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45510,10 +45510,10 @@
         "herdeiro"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45535,10 +45535,10 @@
         "instituicoes publicas"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45560,10 +45560,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45583,10 +45583,10 @@
         "testamento heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45606,10 +45606,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45628,10 +45628,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45650,10 +45650,10 @@
         "distribuicao heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45673,10 +45673,10 @@
         "objeto da heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45697,10 +45697,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45720,10 +45720,10 @@
         "testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45745,10 +45745,10 @@
         "bens clausulados"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI Das Disposições Testamentárias",
+        "chapter_name": "Das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -45768,12 +45768,12 @@
         "nao pertenca testador"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1911",
       "next": "1913"
@@ -45792,12 +45792,12 @@
         "renuncia legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1912",
       "next": "1914"
@@ -45816,12 +45816,12 @@
         "validade do legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1913",
       "next": "1915"
@@ -45839,12 +45839,12 @@
         "cumprimento legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1914",
       "next": "1916"
@@ -45862,12 +45862,12 @@
         "quantidade inferior legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1915",
       "next": "1917"
@@ -45885,12 +45885,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1916",
       "next": "1918"
@@ -45909,12 +45909,12 @@
         "titulo respectivo"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1917",
       "next": "1919"
@@ -45932,12 +45932,12 @@
         "solveu divida"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1918",
       "next": "1920"
@@ -45957,12 +45957,12 @@
         "legatario viver"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1919",
       "next": "1921"
@@ -45981,12 +45981,12 @@
         "usufruto"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1920",
       "next": "1922"
@@ -46006,12 +46006,12 @@
         "declaracao testador"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "I",
-        "section_name": "Seção I Disposições Gerais"
+        "section_name": "Disposições Gerais"
       },
       "prev": "1921",
       "next": "1923"
@@ -46029,12 +46029,12 @@
         "testador morte"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1922",
       "next": "1924"
@@ -46052,12 +46052,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1923",
       "next": "1925"
@@ -46074,12 +46074,12 @@
         "vencimento juros"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1924",
       "next": "1926"
@@ -46096,12 +46096,12 @@
         "testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1925",
       "next": "1927"
@@ -46120,12 +46120,12 @@
         "falecimento legatario"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1926",
       "next": "1928"
@@ -46142,12 +46142,12 @@
         "testador alimentos"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1927",
       "next": "1929"
@@ -46165,12 +46165,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1928",
       "next": "1930"
@@ -46188,12 +46188,12 @@
         "testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1929",
       "next": "1931"
@@ -46212,12 +46212,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1930",
       "next": "1932"
@@ -46234,12 +46234,12 @@
         "escolha herdeiro"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1931",
       "next": "1933"
@@ -46258,12 +46258,12 @@
         "transmissao heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1932",
       "next": "1934"
@@ -46281,12 +46281,12 @@
         "divisao onus"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1933",
       "next": "1935"
@@ -46303,12 +46303,12 @@
         "testador disposicao"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1934",
       "next": "1936"
@@ -46326,12 +46326,12 @@
         "disposicao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1935",
       "next": "1937"
@@ -46350,12 +46350,12 @@
         "estado da coisa"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1936",
       "next": "1938"
@@ -46374,12 +46374,12 @@
         "heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "II",
-        "section_name": "Seção II Dos Efeitos do Legado e do seu Pagamento"
+        "section_name": "Dos Efeitos do Legado e do seu Pagamento"
       },
       "prev": "1937",
       "next": "1939"
@@ -46398,12 +46398,12 @@
         "legatario falecer testador"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "III",
-        "section_name": "Seção III Da Caducidade dos Legados"
+        "section_name": "Da Caducidade dos Legados"
       },
       "prev": "1938",
       "next": "1940"
@@ -46422,12 +46422,12 @@
         "testamento legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII Dos Legados",
+        "chapter_name": "Dos Legados",
         "section": "III",
-        "section_name": "Seção III Da Caducidade dos Legados"
+        "section_name": "Da Caducidade dos Legados"
       },
       "prev": "1939",
       "next": "1941"
@@ -46447,10 +46447,10 @@
         "disposicao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII Do Direito de Acrescer entre Herdeiros e Legatários",
+        "chapter_name": "Do Direito de Acrescer entre Herdeiros e Legatários",
         "section": null,
         "section_name": null
       },
@@ -46470,10 +46470,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII Do Direito de Acrescer entre Herdeiros e Legatários",
+        "chapter_name": "Do Direito de Acrescer entre Herdeiros e Legatários",
         "section": null,
         "section_name": null
       },
@@ -46496,10 +46496,10 @@
         "substituto herdeiro"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII Do Direito de Acrescer entre Herdeiros e Legatários",
+        "chapter_name": "Do Direito de Acrescer entre Herdeiros e Legatários",
         "section": null,
         "section_name": null
       },
@@ -46520,10 +46520,10 @@
         "quinhoes hereditarios"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII Do Direito de Acrescer entre Herdeiros e Legatários",
+        "chapter_name": "Do Direito de Acrescer entre Herdeiros e Legatários",
         "section": null,
         "section_name": null
       },
@@ -46544,10 +46544,10 @@
         "reversao acrescimo"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII Do Direito de Acrescer entre Herdeiros e Legatários",
+        "chapter_name": "Do Direito de Acrescer entre Herdeiros e Legatários",
         "section": null,
         "section_name": null
       },
@@ -46568,10 +46568,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII Do Direito de Acrescer entre Herdeiros e Legatários",
+        "chapter_name": "Do Direito de Acrescer entre Herdeiros e Legatários",
         "section": null,
         "section_name": null
       },
@@ -46593,12 +46593,12 @@
         "legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "I",
-        "section_name": "Seção I Da Substituição Vulgar e da Recíproca"
+        "section_name": "Da Substituição Vulgar e da Recíproca"
       },
       "prev": "1946",
       "next": "1948"
@@ -46615,12 +46615,12 @@
         "testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "I",
-        "section_name": "Seção I Da Substituição Vulgar e da Recíproca"
+        "section_name": "Da Substituição Vulgar e da Recíproca"
       },
       "prev": "1947",
       "next": "1949"
@@ -46639,12 +46639,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "I",
-        "section_name": "Seção I Da Substituição Vulgar e da Recíproca"
+        "section_name": "Da Substituição Vulgar e da Recíproca"
       },
       "prev": "1948",
       "next": "1950"
@@ -46663,12 +46663,12 @@
         "quinhao vago"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "I",
-        "section_name": "Seção I Da Substituição Vulgar e da Recíproca"
+        "section_name": "Da Substituição Vulgar e da Recíproca"
       },
       "prev": "1949",
       "next": "1951"
@@ -46688,12 +46688,12 @@
         "transmissao heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1950",
       "next": "1952"
@@ -46711,12 +46711,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1951",
       "next": "1953"
@@ -46734,12 +46734,12 @@
         "caucao fideicomissario"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1952",
       "next": "1954"
@@ -46758,12 +46758,12 @@
         "aceitar heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1953",
       "next": "1955"
@@ -46780,12 +46780,12 @@
         "testador disposicao"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1954",
       "next": "1956"
@@ -46803,12 +46803,12 @@
         "legado fideicomisso"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1955",
       "next": "1957"
@@ -46827,12 +46827,12 @@
         "bens herdados"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1956",
       "next": "1958"
@@ -46849,12 +46849,12 @@
         "propriedade"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1957",
       "next": "1959"
@@ -46871,12 +46871,12 @@
         "heranca testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1958",
       "next": "1960"
@@ -46894,12 +46894,12 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX Das Substituições",
+        "chapter_name": "Das Substituições",
         "section": "II",
-        "section_name": "Seção II Da Substituição Fideicomissária"
+        "section_name": "Da Substituição Fideicomissária"
       },
       "prev": "1959",
       "next": "1961"
@@ -46917,10 +46917,10 @@
         "privacao legitima"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X Da Deserdação",
+        "chapter_name": "Da Deserdação",
         "section": null,
         "section_name": null
       },
@@ -46942,10 +46942,10 @@
         "grave enfermidade"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X Da Deserdação",
+        "chapter_name": "Da Deserdação",
         "section": null,
         "section_name": null
       },
@@ -46967,10 +46967,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X Da Deserdação",
+        "chapter_name": "Da Deserdação",
         "section": null,
         "section_name": null
       },
@@ -46990,10 +46990,10 @@
         "testador"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X Da Deserdação",
+        "chapter_name": "Da Deserdação",
         "section": null,
         "section_name": null
       },
@@ -47015,10 +47015,10 @@
         "prazo decadencial"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X Da Deserdação",
+        "chapter_name": "Da Deserdação",
         "section": null,
         "section_name": null
       },
@@ -47038,10 +47038,10 @@
         "remanescente hereditario"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XI",
-        "chapter_name": "CAPÍTULO XI Da Redução das Disposições Testamentárias",
+        "chapter_name": "Da Redução das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -47064,10 +47064,10 @@
         "legatarios preferenciais"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XI",
-        "chapter_name": "CAPÍTULO XI Da Redução das Disposições Testamentárias",
+        "chapter_name": "Da Redução das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -47090,10 +47090,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XI",
-        "chapter_name": "CAPÍTULO XI Da Redução das Disposições Testamentárias",
+        "chapter_name": "Da Redução das Disposições Testamentárias",
         "section": null,
         "section_name": null
       },
@@ -47113,10 +47113,10 @@
         "modo testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XII",
-        "chapter_name": "CAPÍTULO XII Da Revogação do Testamento",
+        "chapter_name": "Da Revogação do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47136,10 +47136,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XII",
-        "chapter_name": "CAPÍTULO XII Da Revogação do Testamento",
+        "chapter_name": "Da Revogação do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47161,10 +47161,10 @@
         "anulacao testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XII",
-        "chapter_name": "CAPÍTULO XII Da Revogação do Testamento",
+        "chapter_name": "Da Revogação do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47185,10 +47185,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XII",
-        "chapter_name": "CAPÍTULO XII Da Revogação do Testamento",
+        "chapter_name": "Da Revogação do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47209,10 +47209,10 @@
         "sobrevivencia descendente"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIII",
-        "chapter_name": "CAPÍTULO XIII Do Rompimento do Testamento",
+        "chapter_name": "Do Rompimento do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47232,10 +47232,10 @@
         "heranca legitima"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIII",
-        "chapter_name": "CAPÍTULO XIII Do Rompimento do Testamento",
+        "chapter_name": "Do Rompimento do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47256,10 +47256,10 @@
         "rompimento testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIII",
-        "chapter_name": "CAPÍTULO XIII Do Rompimento do Testamento",
+        "chapter_name": "Do Rompimento do Testamento",
         "section": null,
         "section_name": null
       },
@@ -47279,10 +47279,10 @@
         "cumprimento testamento"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47304,10 +47304,10 @@
         "caucao legados"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47326,10 +47326,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47349,10 +47349,10 @@
         "juiz ordenar"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47372,10 +47372,10 @@
         "responsabilidade testamenteiro"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47394,10 +47394,10 @@
         "concurso inventariante"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47417,10 +47417,10 @@
         "legado"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47440,10 +47440,10 @@
         "prorrogacao prazo"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47463,10 +47463,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47486,10 +47486,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47509,10 +47509,10 @@
         "obrigacao solidaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47533,10 +47533,10 @@
         "testamentaria sucessao"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47555,10 +47555,10 @@
         "sucessao testamentaria"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47579,10 +47579,10 @@
         "reversao heranca"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },
@@ -47601,10 +47601,10 @@
         "inventario partilha"
       ],
       "hierarchy": {
-        "title": "II",
-        "title_name": "TÍTULO II Da Sucessão Legítima",
+        "title": "III",
+        "title_name": "DA SUCESSÃO TESTAMENTÁRIA",
         "chapter": "XIV",
-        "chapter_name": "CAPÍTULO XIV Do Testamenteiro",
+        "chapter_name": "Do Testamenteiro",
         "section": null,
         "section_name": null
       },

@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_lindb.json",
       "colecao": "artigos",
-      "sha256": "b1ca29cb83fbbc599beb2796e466a430403d4c14f329a98b1f36d06f855faa9d",
+      "sha256": "040447966b5d0b9028a8b897b5d06c8cfec7bce94ce1650ab0a05add9ff89faa",
       "total_registros": 30,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

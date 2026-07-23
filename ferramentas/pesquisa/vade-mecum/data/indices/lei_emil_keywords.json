@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_emil.json",
       "colecao": "artigos",
-      "sha256": "bed8fc3c0cb7f023741ccc40e23e9eb8d160be18c9d47a80243f0e6036e1dbef",
+      "sha256": "53419cc6fa09c60eac1550a4eb83fda5ff81e45ab86a4ba97c8b15283ab84303",
       "total_registros": 166,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

@@ -559,6 +559,12 @@ ARTIGO = re.compile(
     re.IGNORECASE,
 )
 
+# Em lei compilada, o Planalto assinala a redação vigente de um artigo repetido
+# com "(Redação dada pela Lei nº ...)". É esse rótulo — e não a mera posição —
+# que distingue uma nova redação de um rótulo repetido por defeito tipográfico
+# (ex.: "Art. 5 7. (VETADO)" na LGPD, que é o art. 57 e seria lido como o 5º).
+REDACAO_VIGENTE = re.compile(r"\(\s*Reda[çc][ãa]o\s+dada", re.IGNORECASE)
+
 
 def numero_artigo(match: re.Match[str]) -> str:
     numero = match.group(1).replace(".", "")
@@ -818,7 +824,28 @@ def transformar_legislacao(
             }
             ativo = not tem_ancestral_riscado(paragrafo)
             anterior = ocorrencias.get(numero)
-            if anterior is None or (ativo and not anterior[0]):
+            # Em lei compilada o Planalto mostra a redação anterior e, logo abaixo,
+            # a vigente. Quando a anterior não vem riscada, as duas ocorrências são
+            # "ativas" e ficar com a primeira devolvia o texto revogado, truncado no
+            # `break` da ocorrência seguinte — o art. 24 do Estatuto da OAB perdia
+            # assim os §§ 1º a 7º.
+            #
+            # A vigente só substitui a registrada sob duas condições, porque posição
+            # sozinha engana: precisa trazer o rótulo "(Redação dada ...)" e não
+            # encolher o artigo. Sem o rótulo, um defeito tipográfico venceria
+            # ("Art. 5 7. (VETADO)" na LGPD apagaria o art. 5º); sem a comparação de
+            # tamanho, um caput reeditado engoliria os incisos presos ao parágrafo
+            # anterior (art. 37 do Estatuto da Terra) ou um "(VETADO)" posterior
+            # apagaria o texto real (art. 68-C da Lei do Petróleo).
+            substitui_riscada = ativo and anterior is not None and not anterior[0]
+            nova_redacao = (
+                ativo
+                and anterior is not None
+                and anterior[0]
+                and bool(REDACAO_VIGENTE.search(simples))
+                and len(registro["texto"]) >= len(anterior[1]["texto"])
+            )
+            if anterior is None or substitui_riscada or nova_redacao:
                 ocorrencias[numero] = (ativo, registro)
 
         artigos_extraidos = {

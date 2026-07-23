@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_clt.json",
       "colecao": "artigos",
-      "sha256": "c2e9a609d8159c79a6e81f6fd15f45b97b18d66d0248bf14f6f650739497fba0",
+      "sha256": "3c06e6531bd0130d5df352cd253800a24f2f21bf5647f73d474acbf9bcb3e76b",
       "total_registros": 1027,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

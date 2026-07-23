@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm",
     "total_artigos": 221,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -109,7 +109,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7° As normas gerais de proteção à ordem econômica são aplicáveis ao setor de telecomunicações, quando não conflitarem com o disposto nesta Lei.",
+      "texto": "Art. 7º As normas gerais de proteção à ordem econômica são aplicáveis ao setor de telecomunicações. (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\n§ 1º Os atos envolvendo prestadora de serviço de telecomunicações, no regime público ou privado, que visem a qualquer forma de concentração econômica, inclusive mediante fusão ou incorporação de empresas, constituição de sociedade para exercer o controle de empresas ou qualquer forma de agrupamento societário, ficam submetidos aos controles, procedimentos e condicionamentos previstos nas normas gerais de proteção à ordem econômica. (Vide Lei nº 13.848, de 2019) Vigência\n\n§ 2° Os atos de que trata o parágrafo anterior serão submetidos à apreciação do Conselho Administrativo de Defesa Econômica - CADE, por meio do órgão regulador.\n\n§ 2º Os atos de que trata o § 1º serão submetidos à aprovação do Conselho Administrativo de Defesa Econômica (Cade). (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\n§ 3º Praticará infração da ordem econômica a prestadora de serviço de telecomunicações que, na celebração de contratos de fornecimento de bens e serviços, adotar práticas que possam limitar, falsear ou, de qualquer forma, prejudicar a livre concorrência ou a livre iniciativa.\n\nLIVRO II\n\nDO ÓRGÃO REGULADOR E DAS POLÍTICAS SETORIAIS",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%207%C2%B0%20As%20normas%20gerais%20de%20prote%C3%A7%C3%A3o%20%C3%A0%20ordem%20econ%C3%B4mica%20s%C3%A3o%20aplic%C3%A1veis%20ao%20setor%20de%20telecomunica%C3%A7%C3%B5es%2C%20quando%20n%C3%A3o%20conflitarem%20com%20o%20disposto",
       "keywords": [],
       "hierarchy": {
@@ -317,7 +317,7 @@
     },
     "20": {
       "numero": "20",
-      "texto": "Art. 20. O Conselho Diretor será composto por cinco conselheiros e decidirá por maioria absoluta.\n\nParágrafo único. Cada conselheiro votará com independência, fundamentando seu voto.",
+      "texto": "Art. 20. O Conselho Diretor será composto por Presidente e 4 (quatro) conselheiros e decidirá por maioria absoluta. (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\nParágrafo único. Cada membro do Conselho Diretor votará com independência, fundamentando seu voto. (Redação dada pela Lei nº 13.848, de 2019) Vigência",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2020.%20O%20Conselho%20Diretor%20ser%C3%A1%20composto%20por%20cinco%20conselheiros%20e%20decidir%C3%A1%20por%20maioria%20absoluta.",
       "keywords": [],
       "hierarchy": {
@@ -365,7 +365,7 @@
     },
     "23": {
       "numero": "23",
-      "texto": "Art. 23. Os conselheiros serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de sua especialidade, devendo ser escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.",
+      "texto": "Art. 23. Os membros do Conselho Diretor serão brasileiros e terão reputação ilibada, formação universitária e elevado conceito no campo de sua especialidade, devendo ser indicados pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000. (Redação dada pela Lei nº 13.848, de 2019) Vigência",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2023.%20Os%20conselheiros%20ser%C3%A3o%20brasileiros%2C%20de%20reputa%C3%A7%C3%A3o%20ilibada%2C%20forma%C3%A7%C3%A3o%20universit%C3%A1ria%20e%20elevado%20conceito%20no%20campo%20de%20sua%20especialidade%2C%20devendo%20ser%20escolhidos",
       "keywords": [],
       "hierarchy": {
@@ -381,7 +381,7 @@
     },
     "24": {
       "numero": "24",
-      "texto": "Art. 24. O mandato dos membros do Conselho Diretor será de cinco anos. vedada a recondução.",
+      "texto": "Art. 24. O mandato dos membros do Conselho Diretor será de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000. (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\nParágrafo único. Em caso de vaga no curso do mandato, este será completado por sucessor investido na forma prevista no artigo anterior, que o exercerá pelo prazo remanescente.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2024.%20O%20mandato%20dos%20membros%20do%20Conselho%20Diretor%20ser%C3%A1%20de%20cinco%20anos.%20vedada%20a%20recondu%C3%A7%C3%A3o.",
       "keywords": [],
       "hierarchy": {
@@ -461,7 +461,7 @@
     },
     "29": {
       "numero": "29",
-      "texto": "Art. 29. Caberá também aos conselheiros a direção dos órgãos administrativos da Agência.",
+      "texto": "Art. 29. Caberá aos membros do Conselho Diretor a direção dos órgãos administrativos da Agência. (Redação dada pela Lei nº 13.848, de 2019) Vigência",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2029.%20Caber%C3%A1%20tamb%C3%A9m%20aos%20conselheiros%20a%20dire%C3%A7%C3%A3o%20dos%20%C3%B3rg%C3%A3os%20administrativos%20da%20Ag%C3%AAncia.",
       "keywords": [],
       "hierarchy": {
@@ -781,7 +781,7 @@
     },
     "49": {
       "numero": "49",
-      "texto": "Art. 49. A Agência submeterá anualmente ao Ministério das Comunicações a sua proposta de orçamento, bem como a do FISTEL, que serão encaminhadas ao Ministério do Planejamento e Orçamento para inclusão no projeto de lei orçamentária anual a que se refere o § 5º do art. 165 da Constituição Federal.",
+      "texto": "Art. 49. A Agência submeterá anualmente ao Ministério da Economia a sua proposta de orçamento, bem como a do Fistel, para inclusão na lei orçamentária anual a que se refere o § 5º do art. 165 da Constituição Federal. (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\n§ 1º A Agência fará acompanhar as propostas orçamentárias de um quadro demonstrativo do planejamento plurianual das receitas e despesas, visando ao seu equilíbrio orçamentário e financeiro nos cinco exercícios subseqüentes.\n\n§ 2º O planejamento plurianual preverá o montante a ser transferido ao fundo de universalização a que se refere o inciso II do art. 81 desta Lei, e os saldos a serem transferidos ao Tesouro Nacional.\n\n§ 3º A lei orçamentária anual consignará as dotações para as despesas de custeio e capital da Agência, bem como o valor das transferências de recursos do FISTEL ao Tesouro Nacional e ao fundo de universalização, relativos ao exercício a que ela se referir.\n\n§ 4º As transferências a que se refere o parágrafo anterior serão formalmente feitas pela Agência ao final de cada mês.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2049.%20A%20Ag%C3%AAncia%20submeter%C3%A1%20anualmente%20ao%20Minist%C3%A9rio%20das%20Comunica%C3%A7%C3%B5es%20a%20sua%20proposta%20de%20or%C3%A7amento%2C%20bem%20como%20a%20do%20FISTEL%2C%20que%20ser%C3%A3o",
       "keywords": [],
       "hierarchy": {
@@ -1149,7 +1149,7 @@
     },
     "71": {
       "numero": "71",
-      "texto": "Art. 71. Visando a propiciar competição efetiva e a impedir a concentração econômica no mercado, a Agência poderá estabelecer restrições, limites ou condições a empresas ou grupos empresariais quanto à obtenção e transferência de concessões, permissões e autorizações.",
+      "texto": "Art. 71. Visando a propiciar competição efetiva e a impedir a concentração econômica no mercado, a Agência poderá estabelecer restrições, limites ou condições a empresas, a cooperativas ou a grupos empresariais quanto à obtenção e à transferência de concessões, permissões e autorizações. (Redação dada pela Lei nº 15.324, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2071.%20Visando%20a%20propiciar%20competi%C3%A7%C3%A3o%20efetiva%20e%20a%20impedir%20a%20concentra%C3%A7%C3%A3o%20econ%C3%B4mica%20no%20mercado%2C%20a%20Ag%C3%AAncia%20poder%C3%A1%20estabelecer%20restri%C3%A7%C3%B5es%2C%20limites%20ou",
       "keywords": [],
       "hierarchy": {
@@ -1229,7 +1229,7 @@
     },
     "76": {
       "numero": "76",
-      "texto": "Art. 76. As empresas prestadoras de serviços e os fabricantes de produtos de telecomunicações que investirem em projetos de pesquisa e desenvolvimento no Brasil, na área de telecomunicações, obterão incentivos nas condições fixadas em lei.",
+      "texto": "Art. 76. As empresas ou as cooperativas prestadoras de serviços e os fabricantes de produtos de telecomunicações que investirem em projetos de pesquisa e desenvolvimento no Brasil, na área de telecomunicações, obterão incentivos nas condições fixadas em lei. (Redação dada pela Lei nº 15.324, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2076.%20As%20empresas%20prestadoras%20de%20servi%C3%A7os%20e%20os%20fabricantes%20de%20produtos%20de%20telecomunica%C3%A7%C3%B5es%20que%20investirem%20em%20projetos%20de%20pesquisa%20e%20desenvolvimento",
       "keywords": [],
       "hierarchy": {
@@ -1389,7 +1389,7 @@
     },
     "86": {
       "numero": "86",
-      "texto": "Art. 86. A concessão somente poderá ser outorgada a empresa constituída segundo as leis brasileiras, com sede e administração no País, criada para explorar exclusivamente os serviços de telecomunicações objeto da concessão.\n\nParágrafo único. A participação, na licitação para outorga, de quem não atenda ao disposto neste artigo, será condicionada ao compromisso de, antes da celebração do contrato, adaptar-se ou constituir empresa com as características adequadas.",
+      "texto": "Art. 86. A concessão somente poderá ser outorgada a empresas ou a cooperativas constituídas segundo as leis brasileiras, com sede e administração no País, criadas para explorar exclusivamente serviços de telecomunicações. (Redação dada pela Lei nº 15.324, de 2026)\n\nParágrafo único. Os critérios e condições para a prestação de outros serviços de telecomunicações diretamente pela concessionária obedecerão, entre outros, aos seguintes princípios, de acordo com regulamentação da Anatel: (Redação dada pela Lei nº 12.485, de 2011)\n\nI - garantia dos interesses dos usuários, nos mecanismos de reajuste e revisão das tarifas, mediante o compartilhamento dos ganhos econômicos advindos da racionalização decorrente da prestação de outros serviços de telecomunicações, ou ainda mediante a transferência integral dos ganhos econômicos que não decorram da eficiência ou iniciativa empresarial, observados os termos dos §§ 2o e 3o do art. 108 desta Lei; (Incluído pela Lei nº 12.485, de 2011)\n\nII - atuação do poder público para propiciar a livre, ampla e justa competição, reprimidas as infrações da ordem econômica, nos termos do art. 6o desta Lei; (Incluído pela Lei nº 12.485, de 2011)\n\nIII - existência de mecanismos que assegurem o adequado controle público no que tange aos bens reversíveis. (Incluído pela Lei nº 12.485, de 2011)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2086.%20A%20concess%C3%A3o%20somente%20poder%C3%A1%20ser%20outorgada%20a%20empresa%20constitu%C3%ADda%20segundo%20as%20leis%20brasileiras%2C%20com%20sede%20e%20administra%C3%A7%C3%A3o%20no%20Pa%C3%ADs%2C%20criada",
       "keywords": [],
       "hierarchy": {
@@ -1405,7 +1405,7 @@
     },
     "87": {
       "numero": "87",
-      "texto": "Art. 87. A outorga a empresa ou grupo empresarial que, na mesma região, localidade ou área, já preste a mesma modalidade de serviço, será condicionada à assunção do compromisso de, no prazo máximo de dezoito meses, contado da data de assinatura do contrato, transferir a outrem o serviço anteriormente explorado, sob pena de sua caducidade e de outras sanções previstas no processo de outorga.",
+      "texto": "Art. 87. A outorga a empresas, a cooperativas ou a grupos empresariais que, na mesma região, localidade ou área, já prestem a mesma modalidade de serviço, será condicionada à assunção do compromisso de, no prazo máximo de 18 (dezoito) meses, contado da data de assinatura do contrato, transferir a outrem o serviço anteriormente explorado, sob pena de sua caducidade e de outras sanções previstas no processo de outorga. (Redação dada pela Lei nº 15.324, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2087.%20A%20outorga%20a%20empresa%20ou%20grupo%20empresarial%20que%2C%20na%20mesma%20regi%C3%A3o%2C%20localidade%20ou%20%C3%A1rea%2C%20j%C3%A1%20preste%20a%20mesma%20modalidade%20de",
       "keywords": [],
       "hierarchy": {
@@ -1597,7 +1597,7 @@
     },
     "99": {
       "numero": "99",
-      "texto": "Art. 99. O prazo máximo da concessão será de vinte anos, podendo ser prorrogado, uma única vez, por igual período, desde que a concessionária tenha cumprido as condições da concessão e manifeste expresso interesse na prorrogação, pelo menos, trinta meses antes de sua expiração.",
+      "texto": "Art. 99. O prazo máximo da concessão será de 20 (vinte) anos, prorrogável por iguais períodos, sendo necessário que a concessionária tenha cumprido as condições da concessão e as obrigações já assumidas e manifeste expresso interesse na prorrogação, pelo menos, 30 (trinta) meses antes de sua expiração. (Redação dada pela Lei nº 13.879, de 2019)\n\n§ 1° A prorrogação do prazo da concessão implicará pagamento, pela concessionária, pelo direito de exploração do serviço e pelo direito de uso das radiofreqüências associadas, e poderá, a critério da Agência, incluir novos condicionamentos, tendo em vista as condições vigentes à época.\n\n§ 2° A desistência do pedido de prorrogação sem justa causa, após seu deferimento, sujeitará a concessionária à pena de multa.\n\n§ 3° Em caso de comprovada necessidade de reorganização do objeto ou da área da concessão para ajustamento ao plano geral de outorgas ou à regulamentação vigente, poderá a Agência indeferir o pedido de prorrogação.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%2099.%20O%20prazo%20m%C3%A1ximo%20da%20concess%C3%A3o%20ser%C3%A1%20de%20vinte%20anos%2C%20podendo%20ser%20prorrogado%2C%20uma%20%C3%BAnica%20vez%2C%20por%20igual%20per%C3%ADodo%2C%20desde%20que",
       "keywords": [],
       "hierarchy": {
@@ -2157,7 +2157,7 @@
     },
     "133": {
       "numero": "133",
-      "texto": "Art. 133. São condições subjetivas para obtenção de autorização de serviço de interesse coletivo pela empresa:",
+      "texto": "Art. 133. São condições subjetivas para obtenção de autorização de serviço de interesse coletivo pela empresa ou pela cooperativa: (Redação dada pela Lei nº 15.324, de 2026)\n\nI - estar constituída segundo as leis brasileiras, com sede e administração no País;\n\nII - não estar proibida de licitar ou contratar com o Poder Público, não ter sido declarada inidônea ou não ter sido punida, nos dois anos anteriores, com a decretação da caducidade de concessão, permissão ou autorização de serviço de telecomunicações, ou da caducidade de direito de uso de radiofreqüência;\n\nIII - dispor de qualificação técnica para bem prestar o serviço, capacidade econômico-financeira, regularidade fiscal e estar em situação regular com a Seguridade Social;\n\nIV - não ser, na mesma região, localidade ou área, encarregada de prestar a mesma modalidade de serviço.\n\nParágrafo único. A Agência deverá verificar a situação de regularidade fiscal da empresa relativamente a entidades integrantes da administração pública federal, podendo, ainda, quando se mostrar relevante, requerer comprovação de regularidade perante as esferas municipal e estadual do Poder Público. (Incluído pela Lei nº 13.879, de 2019)\n\nParágrafo único. A Agência deverá verificar a situação de regularidade fiscal da empresa ou da cooperativa relativamente a entidades integrantes da administração pública federal, podendo, ainda, quando se mostrar relevante, requerer comprovação de regularidade perante as esferas municipal e estadual do poder público. (Redação dada pela Lei nº 15.324, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%20133.%20S%C3%A3o%20condi%C3%A7%C3%B5es%20subjetivas%20para%20obten%C3%A7%C3%A3o%20de%20autoriza%C3%A7%C3%A3o%20de%20servi%C3%A7o%20de%20interesse%20coletivo%20pela%20empresa%3A",
       "keywords": [],
       "hierarchy": {
@@ -2557,7 +2557,7 @@
     },
     "155": {
       "numero": "155",
-      "texto": "Art. 155. Para desenvolver a competição, as empresas prestadoras de serviços de telecomunicações de interesse coletivo deverão, nos casos e condições fixados pela Agência, disponibilizar suas redes a outras prestadoras de serviços de telecomunicações de interesse coletivo.",
+      "texto": "Art. 155. Para desenvolver a competição, as empresas e as cooperativas prestadoras de serviços de telecomunicações de interesse coletivo deverão, nos casos e nas condições fixados pela Agência, disponibilizar suas redes a outras prestadoras de serviços de telecomunicações de interesse coletivo. (Redação dada pela Lei nº 15.324, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%20155.%20Para%20desenvolver%20a%20competi%C3%A7%C3%A3o%2C%20as%20empresas%20prestadoras%20de%20servi%C3%A7os%20de%20telecomunica%C3%A7%C3%B5es%20de%20interesse%20coletivo%20dever%C3%A3o%2C%20nos%20casos%20e%20condi%C3%A7%C3%B5es%20fixados",
       "keywords": [],
       "hierarchy": {
@@ -2749,7 +2749,7 @@
     },
     "167": {
       "numero": "167",
-      "texto": "Art. 167. No caso de serviços autorizados, o prazo de vigência será de até vinte anos, prorrogável uma única vez por igual período.",
+      "texto": "Art. 167. No caso de serviços autorizados, o prazo de vigência será de até 20 (vinte) anos, prorrogável por iguais períodos, sendo necessário que a autorizada tenha cumprido as obrigações já assumidas e manifeste prévio e expresso interesse. (Redação dada pela Lei nº 13.879, de 2019)\n\n§ 1° A prorrogação, sempre onerosa, poderá ser requerida até três anos antes do vencimento do prazo original, devendo o requerimento ser decidido em, no máximo, doze meses.\n\n§ 2° O indeferimento somente ocorrerá se o interessado não estiver fazendo uso racional e adequado da radiofreqüência, se houver cometido infrações reiteradas em suas atividades ou se for necessária a modificação de destinação do uso da radiofreqüência.\n\n§ 3º Na prorrogação prevista no caput, deverão ser estabelecidos compromissos de investimento, conforme diretrizes do Poder Executivo, alternativamente ao pagamento de todo ou de parte do valor do preço público devido pela prorrogação. (Incluído pela Lei nº 13.879, de 2019)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm#:~:text=Art.%20167.%20No%20caso%20de%20servi%C3%A7os%20autorizados%2C%20o%20prazo%20de%20vig%C3%AAncia%20ser%C3%A1%20de%20at%C3%A9%20vinte%20anos%2C%20prorrog%C3%A1vel%20uma%20%C3%BAnica%20vez%20por%20igual",
       "keywords": [],
       "hierarchy": {

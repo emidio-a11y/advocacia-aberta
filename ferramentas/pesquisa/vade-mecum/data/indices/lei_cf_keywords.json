@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_cf.json",
       "colecao": "artigos",
-      "sha256": "cfd922d34d218423231f5364e8fd554c8ceaf3d85de79b547c5c5e8c2db51f91",
+      "sha256": "ef99a3bd67173cd8ca4bfca11442d666e3808e9318e4381cb36f49109df906aa",
       "total_registros": 276,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

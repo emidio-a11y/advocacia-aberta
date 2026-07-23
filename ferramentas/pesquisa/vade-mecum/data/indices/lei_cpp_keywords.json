@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_cpp.json",
       "colecao": "artigos",
-      "sha256": "48aca55acd1c04237138cf30a364d857c4d6b8d5e1851f948e9313fb179a62e6",
+      "sha256": "b3e6a069b3db5fba596b72bc7eef0f8e5920089dfba785e295455ccb4db0600e",
       "total_registros": 849,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

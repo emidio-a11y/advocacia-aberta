@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm",
     "total_artigos": 41,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -93,7 +93,7 @@
     },
     "6": {
       "numero": "6",
-      "texto": "Art. 6o A gestão da ANS será exercida pela Diretoria Colegiada, composta por até cinco Diretores, sendo um deles o seu Diretor-Presidente.",
+      "texto": "Art. 6º A gestão da ANS será exercida por Diretoria Colegiada composta de 5 (cinco) Diretores, sendo um deles o seu Diretor-Presidente. (Redação dada pela Lei nº 13.848, de 2019) Vigência\n\nParágrafo único. Os Diretores serão brasileiros, indicados e nomeados pelo Presidente da República após aprovação prévia pelo Senado Federal, nos termos do art. 52, III, \"f\", da Constituição Federal, para cumprimento de mandato de três anos, admitida uma única recondução.\n\nParágrafo único. Os membros da Diretoria Colegiada serão brasileiros, indicados pelo Presidente da República e por ele nomeados, após aprovação prévia pelo Senado Federal, nos termos da alínea “f” do inciso III do art. 52 da Constituição Federal, para cumprimento de mandato de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000. (Redação dada pela Lei nº 13.848, de 2019) Vigência",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%206o%20A%20gest%C3%A3o%20da%20ANS%20ser%C3%A1%20exercida%20pela%20Diretoria%20Colegiada%2C%20composta%20por%20at%C3%A9%20cinco%20Diretores%2C%20sendo%20um%20deles%20o%20seu%20Diretor-Presidente.",
       "keywords": [],
       "hierarchy": {
@@ -109,7 +109,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7o O Diretor-Presidente da ANS será designado pelo Presidente da República, dentre os membros da Diretoria Colegiada, e investido na função por três anos, ou pelo prazo restante de seu mandato, admitida uma única recondução por três anos.",
+      "texto": "Art. 7º O Diretor-Presidente da ANS será nomeado pelo Presidente da República e investido na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000. (Redação dada pela Lei nº 13.848, de 2019) Vigência",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%207o%20O%20Diretor-Presidente%20da%20ANS%20ser%C3%A1%20designado%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20dentre%20os%20membros%20da%20Diretoria%20Colegiada%2C%20e%20investido%20na%20fun%C3%A7%C3%A3o",
       "keywords": [],
       "hierarchy": {
@@ -301,7 +301,7 @@
     },
     "19": {
       "numero": "19",
-      "texto": "Art. 19. São sujeitos passivos da Taxa de Saúde Suplementar as pessoas jurídicas, condomínios ou consórcios constituídos sob a modalidade de sociedade civil ou comercial, cooperativa ou entidade de autogestão, que operem produto, serviço ou contrato com a finalidade de garantir a assistência à saúde visando a assistência médica, hospitalar ou odontológica.",
+      "texto": "Art. 19. São sujeitos passivos da taxa de saúde suplementar as pessoas jurídicas, condomínios ou consórcios constituídos sob a modalidade de sociedade civil ou comercial, cooperativa ou entidade de autogestão, ainda que não assumam o risco financeiro da cobertura assistencial, que operem produto, serviço, contrato ou correlato, com a finalidade de garantir a assistência à saúde, visando à assistência médica, hospitalar ou odontológica. (Redação dada pela Medida Provisória nº 2.177-43, de 2001)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2019.%20S%C3%A3o%20sujeitos%20passivos%20da%20Taxa%20de%20Sa%C3%BAde%20Suplementar%20as%20pessoas%20jur%C3%ADdicas%2C%20condom%C3%ADnios%20ou%20cons%C3%B3rcios%20constitu%C3%ADdos%20sob%20a%20modalidade%20de%20sociedade",
       "keywords": [],
       "hierarchy": {
@@ -525,7 +525,7 @@
     },
     "33": {
       "numero": "33",
-      "texto": "Art. 33. A ANS poderá designar servidor ou empregado da Administração Pública Federal, direta ou indireta, para exercer o encargo de diretor fiscal, diretor técnico ou liquidante de operadora de plano de assistência à saúde com remuneração equivalente à do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS, de nível 5.",
+      "texto": "Art. 33. A ANS designará pessoa física de comprovada capacidade e experiência, reconhecida idoneidade moral e registro em conselho de fiscalização de profissões regulamentadas, para exercer o encargo de diretor fiscal, de diretor técnico ou de liquidante de operadora de planos privados de assistência à saúde. (Redação dada pela Medida Provisória nº 2.097-36, de 2001) (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 1o A remuneração do diretor técnico, do diretor fiscal ou do liquidante deverá ser suportada pela operadora ou pela massa. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído dada pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 2o Se a operadora ou a massa não dispuserem de recursos para custear a remuneração de que trata este artigo, a ANS poderá, excepcionalmente, promover este pagamento, em valor equivalente à do cargo em comissão de Gerência Executiva, nível III, símbolo CGE-III, ressarcindo-se dos valores despendidos com juros e correção monetária junto à operadora ou à massa, conforme o caso. (Incluído pela Medida Provisória nº 2.177-43, de 2001) (Incluído dada pela Medida Provisória nº 2.177-44, de 2001)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm#:~:text=Art.%2033.%20A%20ANS%20poder%C3%A1%20designar%20servidor%20ou%20empregado%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal%2C%20direta%20ou%20indireta%2C%20para%20exercer%20o%20encargo%20de%20diretor",
       "keywords": [],
       "hierarchy": {

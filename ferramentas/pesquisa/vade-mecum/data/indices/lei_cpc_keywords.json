@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_cpc.json",
       "colecao": "artigos",
-      "sha256": "1b6ca6bc02bdc79f178e529e06289bd3ae2a0687b004bf9ebfdd2cfbd1477711",
+      "sha256": "845d60754f099baf6d0fdae7b20cbcbea9a837b84e60203008e5c0e86bce4c68",
       "total_registros": 1073,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

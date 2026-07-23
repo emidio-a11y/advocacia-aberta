@@ -757,5 +757,92 @@ class MonitorarEspelhosTest(unittest.TestCase):
         self.assertEqual(itens[0]["situacao"], "sem_mudanca")
 
 
+class RedacaoCompiladaTest(unittest.TestCase):
+    """Lei compilada: redação anterior e vigente, ambas sem tachado."""
+
+    def transformar(self, corpo: str) -> dict:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto, publicados, candidatos = raiz / "bruto", raiz / "pub", raiz / "cand"
+            for pasta in (bruto, publicados, candidatos):
+                pasta.mkdir()
+            (bruto / "teste.html").write_text(
+                f"<html><body>{corpo}</body></html>", encoding="utf-8"
+            )
+            (publicados / "lei_teste.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            config = {
+                "fontes": [
+                    {
+                        "codigo": "TESTE",
+                        "url": "https://www.planalto.gov.br/x.htm",
+                        "arquivo_bruto": "teste.html",
+                        "destino": "lei_teste.json",
+                    }
+                ]
+            }
+            saidas = pipeline.transformar_legislacao(
+                config, bruto, publicados, candidatos
+            )
+            return json.loads(saidas[0].read_text(encoding="utf-8"))["artigos"]
+
+    def test_vale_a_ultima_redacao_ativa_com_seus_paragrafos(self) -> None:
+        # Padrão do art. 24 do Estatuto da OAB: a redação anterior não vem
+        # riscada, e os parágrafos pertencem à redação vigente (a segunda).
+        artigos = self.transformar(
+            "<p>Art. 24. A decisão judicial que fixar honorários.</p>"
+            "<p>Art. 24. O ato judicial que fixar honorários. "
+            "(Redação dada pela Lei nº 14.365, de 2022)</p>"
+            "<p>&#167; 1º A execução dos honorários pode ser promovida nos autos.</p>"
+            "<p>&#167; 2º Os sucessores recebem os honorários proporcionais.</p>"
+            "<p>Art. 25. Prescreve em cinco anos.</p>"
+        )
+        texto = artigos["24"]["texto"]
+        self.assertIn("O ato judicial", texto)
+        self.assertNotIn("A decisão judicial", texto)
+        self.assertIn("§ 1º A execução", texto)
+        self.assertIn("§ 2º Os sucessores", texto)
+
+    def test_riscada_nao_substitui_a_vigente_ja_registrada(self) -> None:
+        artigos = self.transformar(
+            "<p>Art. 5º Texto vigente.</p>"
+            "<p>&#167; 1º Parágrafo do vigente.</p>"
+            '<p style="text-decoration: line-through">Art. 5º Texto revogado.</p>'
+            "<p>Art. 6º Outro artigo.</p>"
+        )
+        self.assertIn("Texto vigente", artigos["5"]["texto"])
+        self.assertNotIn("revogado", artigos["5"]["texto"])
+        self.assertIn("§ 1º Parágrafo do vigente", artigos["5"]["texto"])
+
+
+    def test_rotulo_repetido_sem_marca_nao_apaga_o_artigo(self) -> None:
+        # Defeito tipográfico da LGPD: "Art. 5 7." é o art. 57, mas casa como 5º.
+        # Sem o rótulo de nova redação, não pode substituir o artigo real.
+        artigos = self.transformar(
+            "<p>Art. 5º Para os fins desta Lei, considera-se:</p>"
+            "<p>I - dado pessoal: informação relacionada a pessoa identificada;</p>"
+            "<p>Art. 6º Outro artigo.</p>"
+            "<p>Art. 5 7. (VETADO).</p>"
+        )
+        self.assertIn("Para os fins desta Lei", artigos["5"]["texto"])
+        self.assertNotIn("VETADO", artigos["5"]["texto"])
+        self.assertIn("I - dado pessoal", artigos["5"]["texto"])
+
+    def test_nova_redacao_menor_nao_engole_o_artigo(self) -> None:
+        # Estatuto da Terra art. 37 / Lei do Petróleo art. 68-C: a reedição do
+        # caput vem marcada, mas é curta; aceitá-la descartaria o corpo do artigo.
+        artigos = self.transformar(
+            "<p>Art. 37. São órgãos específicos para a execução da Reforma "
+            "Agrária: I - o Instituto; II - a Superintendência; III - o Conselho; "
+            "IV - a Comissão; V - o Grupo Executivo.</p>"
+            "<p>Art. 37. São órgãos específicos. "
+            "(Redação dada pela Lei nº 6.431, de 1977)</p>"
+            "<p>Art. 38. Seguinte.</p>"
+        )
+        self.assertIn("o Instituto", artigos["37"]["texto"])
+        self.assertIn("V - o Grupo Executivo", artigos["37"]["texto"])
+
+
 if __name__ == "__main__":
     unittest.main()

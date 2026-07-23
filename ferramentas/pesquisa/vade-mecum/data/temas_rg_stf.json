@@ -5,11 +5,11 @@
     "tribunal": "STF",
     "totalTemas": 1470,
     "temasComTese": 1300,
-    "generatedAt": "2026-07-19T03:24:33+00:00",
+    "generatedAt": "2026-07-23T01:23:10+00:00",
     "situacoes": {
-      "Acórdão de Repercussão Geral publicado": 136,
+      "Acórdão de Repercussão Geral publicado": 137,
       "Acórdão de mérito publicado": 36,
-      "Analisada Preliminar de Repercussão Geral": 4,
+      "Analisada Preliminar de Repercussão Geral": 3,
       "Cancelado": 21,
       "Em julgamento": 3,
       "Mérito julgado": 7,
@@ -24,7 +24,7 @@
         "temaUrlTemplate": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema={numero}"
       },
       "method": "Tabela HTML (application/vnd.ms-excel) do exportarDados.asp parseada com a biblioteca padrão; mojibake corrigido por célula (cp1252→utf-8).",
-      "collectedAt": "2026-07-19T03:24:33+00:00",
+      "collectedAt": "2026-07-23T01:23:10+00:00",
       "limitacoes": "A coluna 'Assuntos' do export duplica 'Descrição', então a taxonomia de assuntos não é fornecida por esta rota. O flag de suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas — só na base Qlik do STF."
     },
     "transformacao": "temas_rg_stf_html_v1"
@@ -26899,7 +26899,7 @@
       "titulo": "Extensão às autarquias federais da regra de competência territorial prevista no art. 109, § 1º, da Constituição Federal para a União e constitucionalidade do art. 97 da Lei nº 12.529/2011, no ponto em que permite ao Conselho Administrativo de Defesa Econômica-CADE, na condição de autor, à sua escolha, ajuizar execução no Distrito Federal ou no foro da sede ou do domicílio do executado.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; XLIII; XLVI; LIV; e 93; IX, da Constituição Federal, se a regra de competência territorial prevista no § 1º do art. 109 da Constituição Federal, aplicável à União, também se estende às autarquias federais, bem como se é constitucional o art. 97 da Lei n. 12.529/2011, na parte em que estabelece disciplina específica ao Conselho Administrativo de Defesa Econômica-CADE.",
       "repercussao": "Há",
-      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "situacao": "Acórdão de Repercussão Geral publicado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",

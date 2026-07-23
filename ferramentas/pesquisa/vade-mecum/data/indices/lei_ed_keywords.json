@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_ed.json",
       "colecao": "artigos",
-      "sha256": "2f603a2cdf008ab1642ddf634c39fd37d937af169b7af787d901aa3ecc37d792",
+      "sha256": "2cc241503b9573a1e496eda09617464b3da706111a3b8e92553c1daa55b7b803",
       "total_registros": 41,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

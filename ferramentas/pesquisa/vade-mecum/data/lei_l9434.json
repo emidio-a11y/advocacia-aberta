@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9434compilado.htm",
     "total_artigos": 29,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -157,7 +157,7 @@
     },
     "9-A": {
       "numero": "9-A",
-      "texto": "Art. 9o-A É garantido a toda mulher o acesso a informações sobre as possibilidades e os benefícios da doação voluntária de sangue do cordão umbilical e placentário durante o período de consultas pré-natais e no momento da realização do parto. (Incluído pela Lei nº 11.633, de 2007).\n\nCAPITULO IV\n\nDAS DISPOSIÇÕES COMPLEMENTARES",
+      "texto": "Art. 9o-A É garantido a toda mulher o acesso a informações sobre as possibilidades e os benefícios da doação voluntária de sangue do cordão umbilical e placentário durante o período de consultas pré-natais e no momento da realização do parto. (Incluído pela Lei nº 11.633, de 2007).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9434compilado.htm#:~:text=Art.%209o-A%20%C3%89%20garantido%20a%20toda%20mulher%20o%20acesso%20a%20informa%C3%A7%C3%B5es%20sobre%20as%20possibilidades%20e%20os%20benef%C3%ADcios%20da%20doa%C3%A7%C3%A3o%20volunt%C3%A1ria%20de%20sangue",
       "keywords": [],
       "hierarchy": {
@@ -179,8 +179,8 @@
       "hierarchy": {
         "title": null,
         "title_name": null,
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "DAS DISPOSIÇÕES COMPLEMENTARES",
         "section": null,
         "section_name": null
       },
@@ -195,8 +195,8 @@
       "hierarchy": {
         "title": null,
         "title_name": null,
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "DAS DISPOSIÇÕES COMPLEMENTARES",
         "section": null,
         "section_name": null
       },
@@ -211,8 +211,8 @@
       "hierarchy": {
         "title": null,
         "title_name": null,
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "DAS DISPOSIÇÕES COMPLEMENTARES",
         "section": null,
         "section_name": null
       },
@@ -227,8 +227,8 @@
       "hierarchy": {
         "title": null,
         "title_name": null,
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "DAS DISPOSIÇÕES COMPLEMENTARES",
         "section": null,
         "section_name": null
       },
@@ -243,8 +243,8 @@
       "hierarchy": {
         "title": null,
         "title_name": null,
-        "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter": "IV",
+        "chapter_name": "DAS DISPOSIÇÕES COMPLEMENTARES",
         "section": null,
         "section_name": null
       },
