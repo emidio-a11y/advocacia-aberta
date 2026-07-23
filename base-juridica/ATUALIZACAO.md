@@ -158,6 +158,44 @@ atualiza uma issue quando há sinais de mudança ou erros. Nenhuma etapa
 automatizada promove dados: a preparação, a revisão e a promoção continuam
 seguindo este protocolo.
 
+### Fontes que exigem rede aceita (SCON do STJ)
+
+O WAF do SCON recusa requisição vinda de **IP de datacenter**: o monitor agendado
+recebe `403` nas súmulas do STJ e na Jurisprudência em Teses. Não é bloqueio a
+"robô" — o mesmo `curl`, com o mesmo User-Agent, responde `200` de uma rede aceita
+e devolve o catálogo íntegro. Navegador headless não resolve nem é necessário; o
+que muda é a origem da requisição.
+
+Por isso o monitor da nuvem **pula** essas duas famílias, e o relatório **declara**
+a exclusão (nada some em silêncio):
+
+```bash
+python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
+  --excluir sumulas_stj,jurisprudencia_teses_stj
+```
+
+Elas são verificadas de uma máquina em rede aceita, com a mesma disciplina (sinal
+barato, sem preparar candidato, sem tocar em dado publicado). Quando há sinal, o
+script abre ou comenta uma issue:
+
+```bash
+bash ferramentas/manutencao/monitorar-stj-local.sh
+```
+
+Para rodar semanalmente no macOS, crie um agente em
+`~/Library/LaunchAgents/org.advocaciaaberta.monitorar-stj.plist` apontando
+`ProgramArguments` para esse script, com `StartCalendarInterval` no dia e hora
+desejados e `PATH` incluindo os diretórios de `python3` e `gh` (o `launchd` roda
+com ambiente mínimo). Depois:
+
+```bash
+launchctl load ~/Library/LaunchAgents/org.advocaciaaberta.monitorar-stj.plist
+launchctl list | grep monitorar-stj
+```
+
+Se a máquina estiver desligada no horário, o `launchd` executa na volta. Em Linux,
+o equivalente é um *timer* do systemd ou uma entrada de `cron`.
+
 ## Execução recomendada
 
 Use uma identificação legível, normalmente a data da coleta:

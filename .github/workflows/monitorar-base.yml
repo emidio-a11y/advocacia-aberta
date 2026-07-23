@@ -29,12 +29,19 @@ jobs:
           echo | openssl s_client -connect portal.stf.jus.br:443 \
             -servername portal.stf.jus.br 2>/dev/null | grep "Verify return code" || true
 
+      # As duas famílias do SCON ficam de fora daqui: o WAF do STJ recusa IP de
+      # datacenter (403), enquanto a mesma coleta, com o mesmo cliente, responde
+      # 200 de uma rede aceita. Elas são verificadas por monitorar-stj-local.sh.
+      # Sem esta exclusão o erro permanente abriria issue toda semana mesmo sem
+      # novidade. O relatório declara o que ficou de fora.
       - name: Verificar sinais de mudança nas fontes oficiais
+        env:
+          EXCLUIR: sumulas_stj,jurisprudencia_teses_stj
         run: |
           python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
-            > monitoramento.txt
-          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar --json \
-            > monitoramento.json
+            --excluir "$EXCLUIR" > monitoramento.txt
+          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
+            --excluir "$EXCLUIR" --json > monitoramento.json
           cat monitoramento.txt
 
       - name: Abrir ou atualizar a issue de monitoramento
