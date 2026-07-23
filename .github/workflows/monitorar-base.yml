@@ -16,6 +16,19 @@ jobs:
       - name: Baixar o repositório
         uses: actions/checkout@v4
 
+      # O STF entrega a cadeia TLS incompleta (repete a folha em vez de mandar o
+      # intermediário), o que fazia 4 fontes falharem com "SSL certificate problem".
+      # Fornecer o intermediário completa uma cadeia legítima — não afrouxa a
+      # verificação. Detalhes em ferramentas/manutencao/certs/LEIA-ME.md.
+      - name: Confiar no intermediário que o STF não envia
+        run: |
+          sudo cp ferramentas/manutencao/certs/stf-globalsign-alphassl-r6-2025.crt \
+            /usr/local/share/ca-certificates/
+          sudo update-ca-certificates
+          echo "Conferindo a cadeia do STF:"
+          echo | openssl s_client -connect portal.stf.jus.br:443 \
+            -servername portal.stf.jus.br 2>/dev/null | grep "Verify return code" || true
+
       - name: Verificar sinais de mudança nas fontes oficiais
         run: |
           python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
